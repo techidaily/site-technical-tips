@@ -1,7 +1,7 @@
 ---
 title: MacBook Air Locked Up? Follow These Techniques for Quick Unfreeze Solutions
-date: 2024-08-04 17:53:38
-updated: 2024-08-06 12:31:39
+date: 2024-08-05T02:07:32.280Z
+updated: 2024-08-06T02:07:32.280Z
 categories:
   - BestProducts
 description: This Article Describes MacBook Air Locked Up? Follow These Techniques for Quick Unfreeze Solutions
@@ -86,6 +86,9 @@ PHOTO: Amazon
 
  The sturdy four-post design ensures that everything will stay in place, with an 881-pound weight capacity, and you can either floor-mount it in your server room or use the included four casters to keep it more mobile, although the 82-inch height means that you likely won’t be able to move it from room to room.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Wall Mount
 
 [Navepoint 12U](https://www.amazon.com/dp/B00JZVUDLQ/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB00JZVUDLQ)
@@ -113,6 +116,9 @@ PHOTO: Amazon
 
  There are also venting slots and dual built-in fans for maintaining equipment cooling on the removable side panels.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Best for Adjustability
 
 [Startech 4POSTRACK25U](https://www.amazon.com/dp/B00O6GNLQE/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB00O6GNLQE)
@@ -140,6 +146,9 @@ PHOTO: Amazon
 
  The open nature of the Startech 25U does mean there's no security at the rack level, so it's best for an already secure area. Ultimately, the Startech 25U offers excellent storage in a not-too-large package, but it's still within industry rack standards, so it'll fit most equipment.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Cabinet Enclosure
 
 [Tripp Lite SRW6U](https://www.walmart.com/ip/SRW6U-SmartRack-6U-Low-Profile-Switch-Depth-Wall-Mount-Rack-Enclosure-Cabinet/23502131)
@@ -167,6 +176,9 @@ PHOTO: Walmart
 
  Mounting is simple, and the rack has optional casters for easy transportation, or it's ready for wall-mounting right out of the box.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best On Wheels
 
 [Navepoint 22U](https://www.amazon.com/NavePoint-4-Post-Network-Rolling-Casters/dp/B01A6JQO4A/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB01A6JQO4A)
@@ -196,6 +208,9 @@ PHOTO: Amazon
 
  Unfortunately, NavePoint has no cable management accessories, but those are available online.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Best Extra Large
 
 [Navepoint 45U](https://www.amazon.com/dp/B07F4653D4?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7C)
@@ -269,6 +284,9 @@ PHOTO: Amazon
 
  However, even small businesses can benefit from a server rack to keep their equipment organized and uncluttered while ensuring its safety and security. A good network server rack or enclosure will provide enough room for the equipment that you need while keeping both your gear and the accompanying cables out of harm's way, and they're not just for dedicated server rooms either; in fact, if you have your servers and network equipment in a shared space like a supply room or utility closet, a good server rack or enclosure can be even more critical. We can't count the stories we've heard where a delivery person or office worker has brought down an entire company's network by tripping over a cable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ### **Size and Type of Equipment**
 
  The first and most obvious thing you'll want to consider is how much you want to put into your rack, not just now but into the future.
@@ -291,6 +309,9 @@ PHOTO: Amazon
 
  Using rails also allows you to efficiently access your servers for maintenance and upgrades simply by sliding them out like a drawer, which is especially important when you have more than two or three servers in a rack since it's much more of a hassle to have to unmount a server completely when all you need to do is upgrade some RAM or change a hard drive.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cables connected to an internet server](https://www.lifewire.com/thmb/6x-gscBbM80wErSJGlLp98lz_Ys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1082815270-5a4cd9fb94c04dfd96fadbb026d84463.jpg)
 
  Alextov via Getty Images
@@ -309,6 +330,9 @@ PHOTO: Amazon
 
  It's also possible to buy rack-mountable fans that generally fit into a 1U space to provide additional cooling support, but you'll still need to leave room around these for airflow.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **Physical Security**
 
  While large businesses can deal with physical security at the server room door, most smaller organizations don't have that luxury, and chances are that you'll be installing your servers and other network equipment in a location that other people will have access to.
@@ -317,6 +341,9 @@ PHOTO: Amazon
 
  Also, remember that physical security is often just as much about preventing mistakes by non-technical employees as it is about preventing attacks by malicious hackers. True story: We once visited a remote office where a well-meaning employee had turned off the server to save electricity because they never saw anybody using it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### **Rack Holes: Threaded or Unthreaded?**
 
  While you'd think a hole would be standardized, there are at least three types of screw holes you'll find in modern server racks: threaded round holes, unthreaded round holes, and unthreaded square holes.
@@ -329,6 +356,9 @@ PHOTO: Amazon
 
  Don't worry if you're mixing and matching rail-mounted and non-rail-mounted equipment in the same rack, as you can easily snap cage nuts into square rack holes to effectively convert them into threaded holes for your equipment that doesn't use rails. Alternatively, you could use rails to mount everything to avoid cage nuts altogether.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![server-rack-units-Maciej-Frolow-Photographers-Choice-RF-Getty-Images.jpg](https://www.lifewire.com/thmb/rc_q9ofTd5pecAGouEFQSLea2-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/server-rack-units-Maciej-Frolow-Photographers-Choice-RF-Getty-Images-56a6f9905f9b58b7d0e5ca48.jpg)
 
  © Maciej Frolow / Photographer's Choice RF / Getty Images

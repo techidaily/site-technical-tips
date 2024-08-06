@@ -1,7 +1,7 @@
 ---
 title: "Chromecast Audio Fixes: What to Do When You Can't Hear Your Casted Content"
-date: 2024-08-03 20:21:33
-updated: 2024-08-05 11:51:54
+date: 2024-08-05T02:07:35.701Z
+updated: 2024-08-06T02:07:35.701Z
 categories:
   - BestProducts
 description: "This Article Describes Chromecast Audio Fixes: What to Do When You Can't Hear Your Casted Content"
@@ -17,6 +17,9 @@ Close
 
  This troubleshooting guide covers what to do when there's no sound on your Chromecast. We recommend a different guide if there's something else going on. For example, the[ 'Source not supported' error](https://www.lifewire.com/fix-chromecast-not-supported-5189314) and a[ Chromecast that keeps crashing](https://www.lifewire.com/fix-crashing-chromecast-5198277) are different symptoms that require a different approach.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Why There Is No Audio On Your Chromecast 
 
  Troubleshooting a Chromecast without sound can be difficult because the issue could rest in one of many places. Here are the main reasons there's no sound:
@@ -28,12 +31,18 @@ Close
 
  This troubleshooting guide applies to Chromecasts that deliver audio_and video_ , not Chromecast Audio or devices with Chromecast built-in. However, if you have one of those other devices, you might still find some of these ideas helpful.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Fix Chromecast Sound Not Working 
 
  Before you buy a new Chromecast or opt for an alternative streaming device, walk through these simple tips to see if one of them will get the sound to work again.  
 
 1. Turn up the sound on the device you're casting from and to. For example, if you're casting a movie from your phone to your TV, make sure both your phone's volume and your TV's volume are turned up.  
  It might sound like an obvious step, but even if the TV's volume is maxed out, you may have turned down the Chromecast's volume from your phone without realizing it. To test this, first, open the app you're trying to cast from, and then use the volume buttons to turn it up.  
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Chromecast audio muted in YouTube app](https://www.lifewire.com/thmb/Csyaj8iWYmA3ArTBd-icmBB7eW8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-sound-not-working-chromecast-5217665-678812c71ac24ec5be239970d5451127.jpg)
 2. Switch to a different input on your TV (i.e., not the one the Chromecast is using) to confirm the TV's volume works on its own. The rest of these steps will be pointless if the audio issue lies with one of your other devices.  
  Use the remote's**Input** button, or whatever that function is called on your remote, to switch to TV mode or another input with a different device plugged in (an Xbox, Roku, etc.). If you don't have another device to test the sound with, skip to the next step.  

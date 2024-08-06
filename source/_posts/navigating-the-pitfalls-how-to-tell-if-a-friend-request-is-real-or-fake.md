@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Pitfalls: How to Tell if a Friend Request Is Real or Fake"
-date: 2024-08-04 20:18:57
-updated: 2024-08-06 11:35:40
+date: 2024-08-05T02:07:10.017Z
+updated: 2024-08-06T02:07:10.017Z
 categories:
   - BestProducts
 description: "This Article Describes Navigating the Pitfalls: How to Tell if a Friend Request Is Real or Fake"
@@ -12,27 +12,56 @@ thumbnail: https://thmb.techidaily.com/db54d4e94bdc568181a5a19bde06cb60cc627002a
 ## Student Savings Alert: How to Score Big on YouTube Premium With an Educational Discount
  This article explains how to sign up for a YouTube Premium Student Discount.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Sign Up for the YouTube Premium Student Discount
 
  YouTube uses a service called SheerID to confirm eligibility. You can check if your school is included by going to the student membership landing page for[YouTube Premium](https://www.lifewire.com/is-youtube-premium-worth-it-8584585 ) or[YouTube Music Premium](https://www.lifewire.com/what-is-youtube-music-4799054 ) .
 
 1. On the landing page, click**TRY IT FREE** .  
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount](https://www.lifewire.com/thmb/aPzRGgGmK-m-Aq3jVHeUISd_8aY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent1-4dd5ae1181f143c794fe3fe1d615e74f.jpg)
 2. A message will pop-up warning that you'll be redirected to SheerID for verification. Click**CONTINUE** .  
 ![Signing up for the YouTube Premium Student Discount](https://www.lifewire.com/thmb/krc_P8NRwLzkc5h633qem4DYpjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent2-ac9d06f65a8a46d8958e9682d297a560.jpg)
 3. Fill in your country, university (options will populate as you type), first and last name, date of birth, and email address. Check the box to agree to the verification process.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/RbANARHcGpEqx7ykFJQlw7ekb88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent3-a3e301e3cb8145d0af9590f894384169.jpg)
 4. Click**NEXT** .  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/7tGfuyn3esdJ6s8C_cTF0COO_i0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent4-7c7525111bd04feca4169668a01cd7fa.jpg)
 5. Sometimes SheerID needs more information like a scan of your student ID, transcript, or other documentation from your university. Upload the files and click**SUBMIT** . YouTube says you'll get an email notification about your status within 20 minutes if you live in the U.S., and within 48 hours if you live elsewhere.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/07ZCByqXzt1wu2K99BIv8tMj010=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent5-2a7e2d362d164245b62e94a36e7b923b.jpg)
 6. If the verification is successful, SheerID will redirect you back to the YouTube Premium sign-up page. You might need to log into your YouTube account.
 7. Click your profile picture.
 8. Select**Paid memberships** and follow the on-screen prompts.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/-WpwGJr3fmxf4xJ9IARe9kgVYiM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent6-1b4b0214a68a4ab9849880fcedaff3b3.jpg)
 9. Click**LEARN MORE** .  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/1tWG3IuFBa1j6bGZYup9DK1N9a0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent7-38cbeb35f7d9480d81a44d3d8ddc4a18.jpg)
 10. Choose a payment method or add a new one. Click**START 1-MONTH TRIAL** . After the first month, YouTube will start billing you.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/A_h1uMjvVexpll2JqR730jpwQQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent8-4fe99ffd2800473d83a5e2610d0623a0.jpg)  
  This screen is for the regular free trial. You will click 1-MONTH TRIAL.
 

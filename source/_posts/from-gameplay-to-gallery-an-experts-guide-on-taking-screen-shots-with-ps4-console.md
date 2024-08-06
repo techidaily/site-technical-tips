@@ -1,7 +1,7 @@
 ---
 title: "From Gameplay to Gallery: An Expert's Guide on Taking Screen Shots with PS4 Console"
-date: 2024-08-04 20:38:19
-updated: 2024-08-06 10:38:26
+date: 2024-08-05T02:07:24.769Z
+updated: 2024-08-06T02:07:24.769Z
 categories:
   - BestProducts
 description: "This Article Describes From Gameplay to Gallery: An Expert's Guide on Taking Screen Shots with PS4 Console"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  What to Know
 
 * The quickest option: Press the Share button on your PlayStation 4 controller for one second to take a screenshot.
@@ -20,6 +23,9 @@ Close
 
  This article covers how to take a screenshot on your PS4, where to find those screenshots, and how to share your screenshots on X.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ##  How to Save a Screenshot to the PS4 
 
  This will save a screenshot to your PS4\. You can view it on the PlayStation 4 or transfer it to a USB storage device.
@@ -28,9 +34,15 @@ Close
  Press and hold it for one second. The PlayStation 4 will make a confirmation chime and display a camera icon on the left side of your display.
 2. In the PlayStation 4’s home screen menu, navigate to the**Library** , which is always located all the way to the right. Select and open it.
 3. The**Library** is sorted alphabetically by default, so the**Capture Gallery** will be near the top of the list. Select and open it.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![The Capture Gallery on a PS4.](https://www.lifewire.com/thmb/eI9jR4WZ2sO75Teid4rXoRfXuI8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-ScreenshotonPS4-annotated-8b59acc1d643448aabf248ee3ebe2c65.jpg)
 4. The most recent screenshot will be located at the top of the**All** folder. Open that folder, which is the first listed, to find your screenshot.  
  You can view a screenshot by selecting and opening it. Once it’s open, you can zoom in and out, or make basic edits.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![PlayStation 4 Capture Gallery open with All folder selected.](https://www.lifewire.com/thmb/n0xp5zvi4vN_7n-_f4oakfxjtM0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ScreenshotonPS4-annotated-ae5bdd84a49147e5890789ab8aef0311.jpg)
 5. While it’s nice to view a screenshot in the Capture Gallery, you likely want to move or share it.  
  To do that, select the screenshot in the**Capture Gallery** and press the**Options** button on the PlayStation 4 controller. This opens a menu on the right-hand side. Make sure you have a USB storage device connected to one of the PlayStation 4’s[ USB ports](https://www.lifewire.com/what-is-a-usb-port-818166) , then select**Copy to USB storage device** .  
@@ -53,10 +65,17 @@ Close
 
 1. Quickly tap the**Share** button on the PlayStation 4 controller. Don’t hold it down. This will open the PlayStation 4’s**Share** menu on the left-hand side of your display.
 2. Select**Screenshot** , which is the second option from the top.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![PlayStation 4 Share menu open with Screenshot selected.](https://www.lifewire.com/thmb/TwHEbDMuEmpG0COI1qbF9T0oico=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-ScreenshotonPS4-annotated-d09b135eb74344a6963f7bd0b677ab67.jpg)  
 ###  Special note  
  You can also select**Save Screenshot** from the Share menu to save it to the Capture Gallery.
 3. You’ll now face a choice of the social media platform on which you’d like to share the screenshot. The only compatible social media platform for screenshots is**X** , so select that.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![PlayStation 4 Share Screenshot menu open with Twitter selected.](https://www.lifewire.com/thmb/_A-3Ahr76efuT6-8kIYRCZ3GJmI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B3-ScreenshotonPS4-annotated-ddfe04138c1f4a37b7683c8fa5cb0426.jpg)
 4. You'll now be able to[ fill in the details of your Tweet](https://www.lifewire.com/tutorial-intro-to-using-twitter-2654622) . Once you’re finished, select**Share** . You’ll soon see the Tweet, with screenshot attached, appear on X.  
 ![PlayStation 4 Share Screenshot open to share a Tweet on Twitter.](https://www.lifewire.com/thmb/cl-z4j1rz5GYdGnxi_dQHCKBX1U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B4-ScreenshotonPS4-annotated-5e4432cd0ed84941bfa961be4e9e88bf.jpg)

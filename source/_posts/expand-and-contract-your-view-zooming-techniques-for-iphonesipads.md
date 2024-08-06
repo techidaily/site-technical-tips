@@ -1,7 +1,7 @@
 ---
 title: "Expand & Contract Your View: Zooming Techniques for iPhones/iPads"
-date: 2024-08-04 20:12:44
-updated: 2024-08-05 10:23:35
+date: 2024-08-05T02:07:28.952Z
+updated: 2024-08-06T02:07:28.952Z
 categories:
   - BestProducts
 description: "This Article Describes Expand & Contract Your View: Zooming Techniques for iPhones/iPads"
@@ -23,13 +23,27 @@ thumbnail: https://thmb.techidaily.com/738b7371069538e959521966db00e5f006e9b11d9
  You can sign up for HBO Max online or from your Apple TV after installing the app.
 
 1. On your Apple TV, scroll down to the**App Store** and open it.  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Downloading Peacock on an Apple TV.](https://www.lifewire.com/thmb/VRK85HRo1UkcvrOKEU4C8SvOjaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleTVStreaming2-6e50e4b8f2124deaaea7f71bd6b9c536.jpg)
 2. Click the**search** icon.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Downloading Peacock on an Apple TV.](https://www.lifewire.com/thmb/snsgs-1eAmuF2Tgst2c9L1foSP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleTVStreaming3-fe551a4273c84758a1b24daf59cea91a.jpg)
 3. Search for Max and select it from the results.
 4. Select the**download** button.  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![Downloading HBO Max on Apple TV.](https://www.lifewire.com/thmb/clAlHXG05XPwOOFfdcs0GzVZM84=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleTVStreaming_download-c479544c0e4e48b1a4e31b69321a4c04.jpg)
 5. Click**Open** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Downloading Discovery Plus on Apple TV.](https://www.lifewire.com/thmb/XQVowGc4du6AH8CelAdIbZJKlZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleTVStreaming_Open-7269c243919a433b9f9fd80eeab7332e.jpg)
 6. Select**Sign-in** or**Subscribe Now** . Sign in with your email and password, or follow the on-screen prompts to sign up for Max.
 
@@ -45,8 +59,14 @@ thumbnail: https://thmb.techidaily.com/738b7371069538e959521966db00e5f006e9b11d9
 
  Check the[Max device and platform compatibility page](https://help.max.com/us/Answer/Detail/000002506) for more details.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The Max homepage](https://www.lifewire.com/thmb/Z-X0qMzhVryndXH1JlgVTojX52A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2023-08-11at3.41.03PM-613067b3a48e487aa37c15bb98e6fbf2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Navigating Max on an Apple TV
 
  Once you’ve set up an account, scroll down to see categories like Continue Watching, For You (recommendations based on your history), Just Added, Last Chance, and more. You can also navigate genres like Drama, Fantasy & Sci-Fi, Kids & Family, and more.

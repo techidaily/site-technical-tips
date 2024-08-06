@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Google Gathering: Insights on Latest Happenings & Prospects"
-date: 2024-08-03 23:28:57
-updated: 2024-08-06 11:54:23
+date: 2024-08-05T02:07:22.568Z
+updated: 2024-08-06T02:07:22.568Z
 categories:
   - BestProducts
 description: "This Article Describes Upcoming Google Gathering: Insights on Latest Happenings & Prospects"
@@ -12,14 +12,23 @@ thumbnail: https://thmb.techidaily.com/8c77eb31aaf68af03a18e4ba7fcc0097815c2ee3f
 ## Upcoming Google Gathering: Insights on Latest Happenings & Prospects
  Google holds events both annually and less regularly to announce new products and functionality. Google I/O is the company's conference for developers, while Made by Google is more consumer-facing.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is the Date for the Next Google Event?
 
  The next Made by Google event is scheduled for August 13 at 10 AM PT. The last one,[Google I/O 2024](https://www.lifewire.com/google-io-5097160) , was on May 14.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Will Google Announce?
 
  According to the company, the next Google event will be about Pixel devices, Android, and[Gemini](https://www.lifewire.com/what-is-google-bard-7151624) . We're due for updates on the[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ,[Pixel 9 phone](https://www.lifewire.com/google-pixel-9-8630767) ,[Pixel Tablet 2](https://www.lifewire.com/google-pixel-tablet-2-8600572) , and[Pixel Watch 3.](https://www.lifewire.com/google-pixel-watch-3-8431024)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Previous Google Events
 
  At Google's last event, the keynote for[Google I/O 2024](https://www.lifewire.com/google-io-5097160) , the company talked almost exclusively about its Gemini AI platform. They showed off features that give you summaries of email threads and spreadsheets and an "AI Teammate" that you can add to Workspace to keep track of projects.
@@ -28,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/8c77eb31aaf68af03a18e4ba7fcc0097815c2ee3f
 
  You can watch the entire event below.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Latest News About Google
 
  You can [get more tech news from Lifewire](https://www.lifewire.com/news-4795879) , but here are our top Google-related stories.

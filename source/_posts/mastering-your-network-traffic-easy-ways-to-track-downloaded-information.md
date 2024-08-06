@@ -1,7 +1,7 @@
 ---
 title: "Mastering Your Network Traffic: Easy Ways to Track Downloaded Information"
-date: 2024-08-02 20:11:50
-updated: 2024-08-05 10:11:26
+date: 2024-08-05T02:07:23.493Z
+updated: 2024-08-06T02:07:23.493Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Your Network Traffic: Easy Ways to Track Downloaded Information"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 ---
 
 ## Mastering Your Network Traffic: Easy Ways to Track Downloaded Information
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Open your phone's**Settings** app to**Cellular** (iPhone) or**Connections** \>**Data usage** (Android).
@@ -32,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 
  Checking data on your phone is fine, but it only reveals the data usage for_your_ phone. If you're part of a family or multi-line plan, you'll need to contact your provider for deeper insights (see below).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Check Android Phone Data Use
 
  How this works on Android differs between operating systems and manufacturers. If searching the**Settings** app for**data** or**usage** doesn't get you there, try these directions to[check data usage on your Android](https://www.lifewire.com/track-data-usage-on-your-android-121660) :
@@ -49,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 
 [Visit the Devices page of your Xfinity account](https://customer.xfinity.com/#/devices#usage) to find the**Data Usage Overview** area. In the Xfinity app, tap**Account** at the bottom and then**Data Usage** to see how much you've used in the past few months. If you have an xFi Gateway, open the app to**WiFi** \>**View WiFi equipment** \>**Advanced settings** \>**Data Usage** .
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Check Data Usage With AT&T
 
  The easiest way to check AT&T data usage if you subscribe to their phone service is by dialing**\*3282#** (it's**\*DATA#** if that's easier to remember). For Spanish, dial**\*3286#** .
@@ -57,10 +66,17 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 
  The myATT app is another option. For example, to check your home internet data usage, open the**Services** tab and then tap**Home internet** . Next to**My data usage** is the current total for the month. This same information is available through the[myAT&T account overview page](https://m.att.com/myatt/native/deepLink.html?action=Overview&appInstall=N) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![AT&T data usage details for a home internet plan](https://www.lifewire.com/thmb/7RmYEL_9VqG08UQ4Q9tN651jWcQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/att-home-internet-data-usage-983515821e3746a8b3cc9c079a9d40da.png)
 
  To avoid surprises at billing time, use the myATT app to set up data alerts and receive text messages when you reach a set threshold. The myATT app’s Video Management feature limits video streams to standard definition at a maximum speed of 2 Mbps.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Check Data Usage With Verizon
 
  Verizon provides ways to monitor and control data usage, including a text summary. Dial**#3282** to get a text alert summarizing your data use. Verizon will even repeat the information verbally if you stay on the line.
@@ -71,6 +87,9 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 
 [The 57 Best Android Secret Codes of 2024](https://www.lifewire.com/android-secret-codes-7100400)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Check Data Usage With T-Mobile
 
  You’ll receive a text message as you reach 80 percent and 100 percent of your account’s minutes, texts, and data. To check anytime, dial**#932#** .
@@ -95,10 +114,16 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 
  Boost will send notifications as you approach your high-speed data cap. Optionally, you can check usage by[logging in to your Boost Mobile account](https://www.boostmobile.com/) or opening the Boost Mobile app. There, you can track data usage closely, and review outgoing calls and messages.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Data usage in the Boost Mobile app](https://www.lifewire.com/thmb/JRb4J3vPikJKUO7cQG5aT-EveFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/boost-mobile-app-data-usage-4b110ad4a30548ff8d48eed2a192458f.png)
 
 Boost Mobile
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Am I Using So Much Data?
 
  Not surprisingly, the apps and activities you spend the most time with are likely the same ones consuming the most data. Here are some of the biggest culprits:

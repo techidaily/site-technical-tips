@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Clearing Out Entire Inbox Using the Gmail Mobile App"
-date: 2024-08-03 18:18:54
-updated: 2024-08-06 11:53:52
+date: 2024-08-05T02:07:10.326Z
+updated: 2024-08-06T02:07:10.327Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Tutorial: Clearing Out Entire Inbox Using the Gmail Mobile App"
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/bf80edb76b200416e748e081aeadfa243850d855f
 
 * **A green icon that looks like an iPhone** : This icon means your Apple Watch is connected to your iPhone. You can confirm which device you're connected to by tapping this symbol. If you're having problems, it's not because the Apple Watch unpaired from the phone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Green iPhone connected icon highlighted on the Apple Watch](https://www.lifewire.com/thmb/0LwMPKDzCosUr-FJMXS58b0im1M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-it-when-your-apple-watch-wont-pair-4583120-97c006f65a9e48a6bab7857822f444f2.jpg)
 
 * **A blue Wi-Fi symbol** : When you see this icon, the Apple Watch is connected to a Wi-Fi network. You can tap this icon to turn off Wi-Fi on the Apple Watch, which will force the Apple Watch to attempt to pair with your iPhone. Make sure your iPhone is nearby. If the Watch doesn't pair, continue with the rest of these troubleshooting steps.
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/bf80edb76b200416e748e081aeadfa243850d855f
 * **Airplane mode activated on the iPhone** : This settings acts the same as on the watch; it prevents all communication. Swipe down from the upper-right corner of the iPhone's display to open Control Center. As with the watch, the icon for Airplane Mode is highlighted in orange if activated.
 * **Bluetooth disconnected on the iPhone** : Bluetooth is essential to pairing an iPhone and an Apple Watch. Check the Bluetooth status icon from the Control Center on both devices. If it's off, the Bluetooth icon will be highlighted in white. Tap it to turn it back on and your Apple Watch should pair within a few moments.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Reboot Your iPhone If Your Apple Watch Won't Pair
 
  Now that we've checked some of the basic settings, we'll fall back on the oldest troubleshooting step in the book:[rebooting the device](https://www.lifewire.com/how-to-restart-iphone-2000288) . If your Apple Watch won't pair, there may very well be a problem on the iPhone side of the equation. A quick reboot may help you get back up and running in no time.
@@ -46,6 +52,11 @@ thumbnail: https://thmb.techidaily.com/bf80edb76b200416e748e081aeadfa243850d855f
 3. Once your iPhone has been powered down for several seconds, press and hold the**side** **button** until the Apple logo appears on the screen.
 4. When your iPhone finishes booting up, check your Apple Watch connection.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Reboot Your Apple Watch If It Still Isn't Pairing
 
  While you can do these two steps in any order, generally it's better to reboot the iPhone and then reboot the Apple Watch. This order helps ensure there are no lingering problems on the iPhone when the watch boots up. To restart your Apple Watch:
@@ -65,6 +76,10 @@ Apple, inc.
 
  Unfortunately, you cannot check your version of WatchOS when the Apple Watch isn't paired with the iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Clear the iPhone's Network Settings
 
  The iPhone stores information about all connecting networks to make reconnecting a smoother process. It's also possible for this data to become corrupted, which can keep an iPhone from connecting to an Apple Watch. Resetting this information can help correct this issue.
@@ -76,6 +91,9 @@ Apple, inc.
 3. Tap**Reset** \>**Reset Network Settings** . You may be asked to type in your passcode to verify your request.  
 ![The Reset Network Settings option on iPhone](https://www.lifewire.com/thmb/cyKZwhJdxs3xCa8665gh4lhsnNQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_fix-it-when-your-apple-watch-wont-pair-4583120-61774b8d5381427abab0479fd2c796af.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## My Apple Watch Won't Pair: What's Next?
 
  Still not connecting? This last step is to reset the Apple Watch, which will cause any data on the Apple Watch that hasn't been backup up to be lost. This is why we save it for last.
@@ -90,6 +108,9 @@ Apple, inc.
 2. Choose**General.**
 3. Tap**Reset** .
 4. Select**Erase All Content and Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Erase All Content and Settings on the Apple Watch](https://www.lifewire.com/thmb/0ZE3KBt0DGOkYsTSN1EkbVcQx3E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_fix-it-when-your-apple-watch-wont-pair-4583120-5b0910e69aa940ceab0d23df503d6efa.jpg)
 
 ### On the iPhone
@@ -98,6 +119,13 @@ Apple, inc.
 2. From the**My Watch** tab, select**All Watches** at the top of the display to view your watch models.
 3. Tap the**i** icon next to the watch.
 4. Choose**Unpair Apple Watch** and then tap again to confirm.  
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![Steps to unpair an Apple Watch from an iPhone in the Watch iOS app](https://www.lifewire.com/thmb/Rg5jH0Omdt_baioSEfOiLNm2vCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_fix-it-when-your-apple-watch-wont-pair-4583120-0b423af25e184932a332aaa1166e84aa.jpg)
 
  If you still have problems pairing your Apple Watch to your iPhone after following these steps, it's time to contact Apple Support. You can[schedule an appointment at the Genius Bar](https://www.lifewire.com/how-to-make-an-apple-genius-bar-appointment-1999601) at an Apple retail location from the Support website or through the app.

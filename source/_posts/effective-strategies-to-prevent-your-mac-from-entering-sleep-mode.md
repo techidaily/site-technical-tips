@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies to Prevent Your Mac From Entering Sleep Mode
-date: 2024-08-03 18:39:16
-updated: 2024-08-06 10:27:47
+date: 2024-08-05T02:07:17.823Z
+updated: 2024-08-06T02:07:17.823Z
 categories:
   - BestProducts
 description: This Article Describes Effective Strategies to Prevent Your Mac From Entering Sleep Mode
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/yeEeOPurB4Cayvhze-UI0TXnjAQ=/400x300/fi
 ---
 
 ## IPhone Users Guide to Preventing Unwanted Calls From Private Numbers
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Silence unknown callers:**Settings** \>**Phone** \>**Silence Unknown Callers** \> move slider to on/green.
@@ -17,6 +20,9 @@ thumbnail: https://www.lifewire.com/thmb/yeEeOPurB4Cayvhze-UI0TXnjAQ=/400x300/fi
 
  This article explains three ways to block unwanted calls on the iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do You Block No Caller ID Calls on an iPhone?
 
  There are lots of ways to block no caller ID calls on the iPhone. The phone includes some features specifically designed to block these calls and it also gives you some tools you can adapt to this use. You can also get help from your phone company and the national Do Not Call registry.
@@ -39,11 +45,17 @@ thumbnail: https://www.lifewire.com/thmb/yeEeOPurB4Cayvhze-UI0TXnjAQ=/400x300/fi
 1. In the**Settings** app, tap**Focus** .
 2. Tap**Do Not Disturb** .
 3. Move**Do Not Disturb** slider to on/green.  
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Focus settings path to Do Not Disturb](https://www.lifewire.com/thmb/A878RVRtoJxDb4s7EBOf38RZcII=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-Block-No-Caller-ID-Calls-2e1354d0dbd14494ba49d4a8e5f4b9aa.jpg)
 4. In the**Allowed Notifications** section, tap**People** .
 5. In the**Also Allow** section, tap**Calls From** .  
  You may also see this sequence as:**Allow Notifications** \>**People** \>**Allow Calls From** .
 6. Tap**All Contacts** or**Contacts Only** . With this done, you'll get calls from anyone in your iPhone address book app, but all other calls from any number not in your address book will be silenced and sent directly to voicemail.  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Phone Allowed Notifications settings ](https://www.lifewire.com/thmb/MF_6-ygs0kbDXfviYsmvoGHZISs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-Block-No-Caller-ID-Calls-fefc0be0effd4178864279a2b72354d3.jpg)
 
 ## Block No Caller ID Calls on iPhone with a Fake Contact
@@ -53,6 +65,9 @@ thumbnail: https://www.lifewire.com/thmb/yeEeOPurB4Cayvhze-UI0TXnjAQ=/400x300/fi
 1. Open the**Contacts** app and tap**\+ (Plus)** .
 2. In the**First name** field of the new contact, enter**No Caller ID** .
 3. Tap**add phone** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![New No Caller ID contact in the iPhone Contacts app ](https://www.lifewire.com/thmb/maPgCKfF0twUrIH4ylFQZiQJdDE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C1-Block-No-Caller-ID-Calls-b485ee246ee8474ea4b67a91f6238679.jpg)
 4. Enter**000 000 0000** for the phone number.
 5. Tap**Done** to save the contact.
@@ -61,6 +76,9 @@ thumbnail: https://www.lifewire.com/thmb/yeEeOPurB4Cayvhze-UI0TXnjAQ=/400x300/fi
 ![iPhone path to blocked contacts](https://www.lifewire.com/thmb/oM5j1lttZ-muGaq-IxJc9fwZ7VM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C2-Block-No-Caller-ID-Calls-ad6951ceb1e74078bdde468d73cebbf9.jpg)
 8. Scroll to the bottom and tap**Add New...**
 9. Scroll through your contact list and tap the new**No Caller ID** contact you just created.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![iPhone Blocked Contacts settings](https://www.lifewire.com/thmb/ZcE9oZjWSyX7Hkbaz7fMhP9cS-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C3-Block-No-Caller-ID-Calls-72d776e97d284d39a8e7164bc3cec9f9.jpg)
 10. With the No Caller ID contact now added to the blocked contacts list, any caller who has no caller ID info—which is a hallmark of spammers—will be sent right to voicemail.
 

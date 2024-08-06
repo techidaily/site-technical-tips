@@ -1,7 +1,7 @@
 ---
 title: "Determining If It's a Global Issue: Is Blizzard's Battle.net Down, Or Just Your Connection?"
-date: 2024-08-05 12:19:17
-updated: 2024-08-06 10:12:22
+date: 2024-08-05T02:07:39.395Z
+updated: 2024-08-06T02:07:39.395Z
 categories:
   - BestProducts
 description: "This Article Describes Determining If It's a Global Issue: Is Blizzard's Battle.net Down, Or Just Your Connection?"
@@ -51,6 +51,9 @@ of 09
 
 ## [PBS Kids Games](https://pbskids.org/games/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The games available at PBS Kids](https://www.lifewire.com/thmb/AsJZU72Ol5OCzHrJ5mCwarvUWlI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pbs-kids-games-8334dfdf4a9d47478cf3f0d222bc65c9.png)
 
  What We Like
@@ -75,8 +78,14 @@ of 09
 
 of 09
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [DisneyNOW](https://disneynow.com/all-games)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![disneynow games](https://www.lifewire.com/thmb/hXtPQ4c8EyUgDFjMF4csgE0QAdA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/disneynow-games-015ddfba4cf24c908d22c029a2a7d055.png)
 
  What We Like
@@ -98,6 +107,9 @@ of 09
 
 of 09
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Nick Jr. Games](https://www.nickjr.com/games)
 
 ![Nick Jr. games](https://www.lifewire.com/thmb/Jne9zi_Vkjd7E_J85fl3BSQBtLA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nick-jr-games-79a67e2678f64aabb9aa40dc4b895676.png)
@@ -122,6 +134,9 @@ of 09
 
 of 09
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [Treehouse Games](https://games.corusent.com/treehouse/)
 
 ![The homepage of Treehouse Games](https://www.lifewire.com/thmb/KozYYK0RAGMSCsSmwXirLFk_FFk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/treehousegames-97fc61fb7f49468b9f4cb0e87978e1ad.jpg)
@@ -148,8 +163,14 @@ of 09
 
 of 09
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [Universal Kids](https://www.universalkids.com/preschool/games)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![universal kids game](https://www.lifewire.com/thmb/jDf1eZnbQ1FofMrVz4pMfWWFW5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/universal-kids-games-846160d6c16a4c2281936fdf2ff1639a.png)
 
  What We Like
@@ -174,6 +195,9 @@ of 09
 
 ## [ABCya!](https://www.abcya.com/grades/prek)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![ABCya! pre-k games](https://www.lifewire.com/thmb/ceXxzRrZLv44Uos3iu7o95bHyNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/abcya-pre-k-games-6c3ac0f375414e298deedde6ff3c3127.png)
 
  What We Like
@@ -196,6 +220,9 @@ of 09
 
 of 09
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## [Kids' Pages](https://www.kids-pages.com/games.htm?count=2)
 
 ![The homepage of Kids' Pages](https://www.lifewire.com/thmb/EoZrztfko8yQTgpTrb7iGu8-_8A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kidspages-0ae4ef8dd7434e7d98b93f7b40ec2d75.jpg)

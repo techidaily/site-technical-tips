@@ -1,7 +1,7 @@
 ---
 title: "Mastering Live Views: A Guide to Leveraging iOS 16'S Features"
-date: 2024-08-03 18:56:32
-updated: 2024-08-05 10:12:22
+date: 2024-08-05T02:07:18.322Z
+updated: 2024-08-06T02:07:18.322Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Live Views: A Guide to Leveraging iOS 16'S Features"
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/250855bb01ff5d1f68da39bedfd2fea2571983e53
 
  This article explains what Live Activities are, how they differ on iPhones that offer the Dynamic Island, and provides step-by-step instructions to enable Live Activities.  
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use Live Activities on iPhone (iOS 16)
 
  Live Activities provide a handy way to get at-a-glance information and features from compatible apps on your lock screen. With them, there's no need to unlock your iPhone or go into apps themselves.
@@ -30,12 +33,18 @@ thumbnail: https://thmb.techidaily.com/250855bb01ff5d1f68da39bedfd2fea2571983e53
 ![The Settings app icon and Face ID settings item highlighted on an iPhone.](https://www.lifewire.com/thmb/EQiuop3tTn8NVJSUTvczFPG50hU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-UseLiveActivitiesoniPhone-annotated-d017d2ba138743388ab64f097ddfe818.jpeg)
 3. Enter your passcode.
 4. In the**Allow Access when Locked** section, move the**Live Activities** slider to**on/green** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![An iPhone's passcode requested and Live Activities settings highlighted on an iPhone.](https://www.lifewire.com/thmb/WPWmHO77VZ9w8Z9n83qb2ESzdIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-UseLiveActivitiesoniPhone-annotated-851f3c2f08934a27bcc5c71e8d91e21d.jpeg)
 
  Which Live Activities are available in your apps, and how you activate them, differs based on which apps you use. You can clear a Live Activity from your lock screen by swiping from right to left on it.
 
  On iPhones running iOS 16.2 and up, you can set Live Activities to update sports scores more frequently. First, enable this option in**Settings** \>**TV** \>**Live Activities** \> move to**on/green** the sliders for both**Allow Live Activities** and**More Frequent Updates** . Then, in the TV app, tap the game and, on its detail page, tap**Follow** . The Live Activity for that game on your lock screen is updated frequently.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## What Are Live Activities?
 
  Live Activities are small views of apps you can add to your iPhone Lock screen.
@@ -48,18 +57,27 @@ thumbnail: https://thmb.techidaily.com/250855bb01ff5d1f68da39bedfd2fea2571983e53
 
  Think of them as being like[lock screen widgets](https://www.lifewire.com/customize-iphone-lockscreen-5443101) or[notifications](https://www.lifewire.com/notification-center-iphone-1999192) that update in close to real time and that you can interact with.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Live Activities on iPhone 14 Pro and Up
 
  On the iPhone 14 Pro and Pro Max, Live Activities also take advantage of the Dynamic Island to provide updates while you use other apps, not just from the lock screen.
 
  On these models, information appears in the Dynamic Island in a collapsed form at all times. Sometimes, the Dynamic Island expands to show something particularly important, and you can tap the Dynamic Island to jump into that app.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Examples of Live Activities on the lock screen and in the Dynamic Island.](https://www.lifewire.com/thmb/V-2k8wH_Idts_JUaWWAvgskSiAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C1-UseLiveActivitiesoniPhone-annotated-c36b823b25554946b7e02eb630ec2033.jpg)
 
  For example, when listening to a song in Music, the Dynamic Island shows a thumbnail of the album art for the song you're listening to and a tap takes you to the album in Music.
 
  In another example, a sports game that you're following shows the team logos and the current score in the Dynamic Island. When the game ends, the Dynamic Island expands to show the final.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Apps That Support Live Activities
 
  As of this writing, there are a few dozen, or maybe a couple hundred, apps that support Live Activities. Given that number, there's no way to list them all here, but a search in the App Store for "live activities" or "dynamic island" will turn up some good options.

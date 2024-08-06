@@ -1,7 +1,7 @@
 ---
 title: Bulk Unfriending Techniques for Enhanced Privacy on Snapchat
-date: 2024-08-03 18:28:28
-updated: 2024-08-06 10:43:21
+date: 2024-08-05T02:07:14.769Z
+updated: 2024-08-06T02:07:14.769Z
 categories:
   - BestProducts
 description: This Article Describes Bulk Unfriending Techniques for Enhanced Privacy on Snapchat
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/a9E0Gk9EVczj6Ui61b5GJgIBT7Y=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * The only way to remove multiple friends on Snapchat is to delete each one individually.
@@ -25,6 +28,9 @@ Close
 
  There are a few techniques to this, but all of them eventually lead to the same place: the Manage Friendship menu. This is where you'll find the delete option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ##  Remove Friends From Your Friends List 
 
  One method, which works even if you don't have any recent messages with the person, is to find someone in your My Friends list.
@@ -34,9 +40,16 @@ Close
 1. Select your Bitmoji/profile image at the top left.
 2. Select**My Friends** .
 3. Search or scroll to the friend you want to delete, and tap-and-hold this friend's entry.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![Bitmoji icon, My Friends, and contact highlighted in Snapchat](https://www.lifewire.com/thmb/uWrlw4QXKo6xV7zBnqVm80ddBDs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-remove-multiple-friends-on-snapchat-6425728-c69d3e9fda0b484ca51d7db2be711d22.jpg)  
  Take note of the three-dot menu at the top. There is an option to see recently added friends. This is a great way to delete users you just added by mistake.
 4. From the options, choose**Manage Friendship** \>**Remove Friend** \>**Remove** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Three dot menu, Manage Friendship, and Remove in Snapchat](https://www.lifewire.com/thmb/uzZV1QwYbat0Yav-GTMCn85wFzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-remove-multiple-friends-on-snapchat-6425728-8ed6c2dd02ff4fe2905d713e5114dc3d.jpg)
 
 ###  Remove Friends From the Chat Page 
@@ -47,6 +60,13 @@ Close
 
 [  How to Change Chat Settings in Snapchat ](https://www.lifewire.com/change-chat-settings-in-snapchat-5271208) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ##  Can You Unadd Multiple Friends on Snapchat at Once? 
 
  No. Snapchat doesn't let you bulk remove two or more friends. Unfortunately, the process for clearing out the friends list or removing two, 10, or 20 people from your account, is the same: Erase one friend at a time with the steps outlined above.
@@ -63,6 +83,18 @@ Close
 
  One way to[ know if someone has blocked you on Snapchat](https://www.lifewire.com/how-to-tell-if-you-are-blocked-on-snapchat-4169359) is if you can't find them. This is most likely the case if you delete a friend, but then can't add them again.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Stop Old Friends From Adding You Back on Snapchat 
 
  If you have deleted someone, but they keep nagging you to be their friend, you can simply[ block them on Snapchat](https://www.lifewire.com/block-someone-on-snapchat-4169485) .

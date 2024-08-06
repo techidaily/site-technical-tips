@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Man of Steel: A Step-by-Step Order for Watching Every 'Superman' Movie"
-date: 2024-08-03 12:54:22
-updated: 2024-08-05 12:16:53
+date: 2024-08-05T02:07:33.400Z
+updated: 2024-08-06T02:07:33.400Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Man of Steel: A Step-by-Step Order for Watching Every 'Superman' Movie"
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
 
  This article explains how to watch all the_Superman_ movies in order of release and by series, along with some non-linear ways to watch.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Note
 
  While they’re not featured on this list, several serials were created in 1948 and 1950, which you can find on YouTube. And in 1951, Superman appeared in an independent black-and-white film called_Superman and the Mole Men_ , and that’s available on Amazon.
@@ -28,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
 
  The whole gang is there: ambitious Lois Lane who inexplicably can’t spell, Clark Kent’s gee-whiz disguise marked by oversized glasses and his hair parted on the opposite side, Jimmy Olsen’s trusty camera and enthusiasm, and the no-nonsense_Daily Planet_ editor Perry White.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Christopher Reeve as Superman in Superman: The Movie](https://www.lifewire.com/thmb/ZHL-RJQzh5JTDa7wGAkoe9HBn2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-watch-the-superman-movies-in-order-5089046-f2fb55ac5c7c456787e9e5f545bc3a8f.jpg)
 
  Keystone / Getty Images
@@ -52,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
 | _Justice League_ (2017)                     | Aquaman, Batman, Cyborg, the Flash, Superman, and Wonder Woman join up to save Earth from an alien invasion.                   | Max                |
 | _Zack Snyder's Justice League_ (2021)       | A four-hour version of the 2017 film by original director Zack Snyder. This one contains restored footage and reworked scenes. | Max                |
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Watch the 'Superman' Movies By Era
 
  You could also break up your viewing with a couple of strategic groupings by series.
@@ -70,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
 | _Superman IV: The Quest for Peace_ | Max                |
 | _Superman Returns_                 | Max                |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ### DC Extended Universe
 
  The DCEU ran from 2013 (_Man of Steel_ ) to 2023 (_Aquaman and the Lost Kingdom_ ). Henry Cavill plays Superman in this franchise, and the character appears in several installments.
@@ -97,12 +109,18 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
 
  If you’re interested in seeing more, several platforms offer extended cuts and special editions of both the Christopher Reeve era and DCEU Superman movies. Look for these versions on Amazon Prime, Google Play, Vudu, and YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Something Old, Something New, Something Newer
 
  If you want to experience the Christopher Reeve era but don’t want to watch the whole series, you don’t have to._Superman II_ does a great job of summarizing the first movie in the intro credits and features two formidable enemies: General Zod and Lex Luthor._Superman III_ and_Superman IV_ are not as good, so you can leave it at the second one.
 
  As for the newer options, you have your pick between a few. You could opt for the stand-alone retelling in the mid-aughts or a_Man of Steel_ /_Batman v. Superman_ /_Justice League_ triple-feature.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is ‘Superman’ (2025)?
 
  The upcoming_Superman_ , directed by_The Suicide Squad_ writer-director James Gunn, is the start of the next franchise of DC movies: the DCU. It was formerly called_Superman: Legacy_ .

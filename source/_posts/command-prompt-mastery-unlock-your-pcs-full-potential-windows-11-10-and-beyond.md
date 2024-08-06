@@ -1,7 +1,7 @@
 ---
 title: "Command Prompt Mastery: Unlock Your PC's Full Potential (Windows 11, 10 & Beyond)"
-date: 2024-08-03 13:38:50
-updated: 2024-08-06 12:37:50
+date: 2024-08-05T02:07:07.130Z
+updated: 2024-08-06T02:07:07.130Z
 categories:
   - BestProducts
 description: "This Article Describes Command Prompt Mastery: Unlock Your PC's Full Potential (Windows 11, 10 & Beyond)"
@@ -22,15 +22,24 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 
  Turn**Auto HDR** or**Smart HDR** (depending on your iOS or iPadOS version) on or off in**Settings** \>**Camera** .
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPad Camera settings showing Smart HDR setting](https://www.lifewire.com/thmb/gR-jQmxtSh5nmhaYVqmTn2F9gLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-improve-the-ipads-camera-1994693-99f6d4650edc4a6cb7de87daae67f6f9.jpg)
 
  In older iPads and iPhones, there isn't an automatic setting for HDR. Instead, you manually turn on HDR in the Camera app when you want to use it.
 
 1. Open the**Camera** app.  
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![Camera app on iPad home screen](https://www.lifewire.com/thmb/WN-Qu6QSBkB2mozIBQWciDaL95s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-improve-the-ipads-camera-1994693-625cf5497c1e4b219a5d6cbc6ec6d28c.jpg)
 2. Tap**HDR** .  
 ![iPad camera app with HDR highlighted](https://www.lifewire.com/thmb/19gHHkUIzFUQE3zljrxNaEEwaT0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-improve-the-ipads-camera-1994693-0392da3224904cdf97f32d1c055b6c3e.jpg)
 3. When HDR is on, HDR appears at the top of the screen.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iPad Camera app showing HDR indicator](https://www.lifewire.com/thmb/p9d2OcrafwPtqaO85z0kCleNiYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-improve-the-ipads-camera-1994693-f1701c178a3d4fabbf67404ff113dc62.jpg)
 4. HDR automatically runs whenever you take a photo as long as HDR is displayed at the top of the screen. Use your camera as usual.
 
@@ -42,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 
  Tap this thumbnail to view the photo full-screen, then tap**Edit** .
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPad Camera with editing controls highlighted](https://www.lifewire.com/thmb/EzL5K4CGwp1lLCnapjehk7EH4Eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-improve-the-ipads-camera-1994693-af7bb9198b264128894d3f9c623f754e.jpg)
 
  Use the editing tools to make changes and enhance a photo.
@@ -55,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 
  When you finish making changes, tap**Done** to save the image.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Use Live Photos to Improve Your Photography
 
 [Live Photos](https://www.lifewire.com/iphone-live-photos-1999618) are small video clips the phone captures when you take a photograph on a newer iPhone or iPad. Along with creating moving pictures, you can choose a main photograph from the video to fix defects like an awkward facial expression, a blink of the eyes, or a just-missed shot.
@@ -70,6 +85,9 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 ![Key Photo selection in iPad Camera app](https://www.lifewire.com/thmb/lrg0AiDcAqoHvyMacxai7DxVA8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-improve-the-ipads-camera-1994693-044ed59d850f44deac861c5ac28d3eea.jpg)
 4. Tap**Done** to finalize your choice.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Buy an External Lens
 
  An external lens can do more than adjust the camera settings. It can increase magnification and take specialty shots such as wide-angle. A lens also boosts functionality on an older device by improving the camera without the extra cost of a new smartphone or tablet.

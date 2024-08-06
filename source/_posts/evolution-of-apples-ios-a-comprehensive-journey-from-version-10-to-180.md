@@ -1,7 +1,7 @@
 ---
 title: "Evolution of Apple's iOS: A Comprehensive Journey From Version 1.0 to 18.0"
-date: 2024-08-03 13:33:32
-updated: 2024-08-05 11:35:51
+date: 2024-08-05T02:07:32.446Z
+updated: 2024-08-06T02:07:32.446Z
 categories:
   - BestProducts
 description: "This Article Describes Evolution of Apple's iOS: A Comprehensive Journey From Version 1.0 to 18.0"
@@ -19,6 +19,9 @@ Close
 
  See our article[ What is iOS?](https://www.lifewire.com/what-is-ios-1994355) for a lot more on this innovative mobile operating system and how it works.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## iOS 18 
 
  Apple previewed[ iOS 18](https://www.lifewire.com/ios-18-8552216) at[ WWDC](https://www.lifewire.com/wwdc-5101136) in June 2024\. It will be available to the public in Fall 2024.
@@ -43,6 +46,9 @@ Close
 
 [ Should I Upgrade to iOS 17? ](https://www.lifewire.com/should-i-upgrade-to-ios-17-8546791) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## iOS 16 
 
  iOS 16 was announced at 2022's WWDC in June. It rolled out to consumers in Fall 2022.
@@ -92,6 +98,9 @@ Apple Inc.
 * [ iPhone 6 series](https://www.lifewire.com/iphone-6-vs-iphone-6-plus-1999576) . All iPhone models from the 6S series and up are supported.
 * [ 6th Gen. iPod touch](https://www.lifewire.com/history-of-ipod-touch-1999653) . Only the 7th Gen. iPod touch is supported.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## iOS 14 
 
 ![iOS 14 screenshots](https://www.lifewire.com/thmb/ZvBt94JcNdydFE2s1dgkRGvXwp0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-14-9f6e598c28e3478a9e680bb0fe3fde7e.jpg) 
@@ -157,6 +166,14 @@ Apple Inc.
 * iPhone 6 series
 * iPhone 5S
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## [ iOS 12](https://www.lifewire.com/ios-12-4169622) 
 
 ![Features of iOS 12](https://www.lifewire.com/thmb/1Q9BifOc0NdTPjfkWg7grW3i_XM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-12-5b1c0c993418c60036b4faa0.jpg) 
@@ -183,6 +200,9 @@ Apple Inc.
 
 * N/A
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## [ iOS 11](https://www.lifewire.com/can-you-use-the-latest-ios-4141436) 
 
 ![Screenshot of iOS 11](https://www.lifewire.com/thmb/TtDWLhEfsvGO_8Dduk4_Jqxltf8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-11-593d3f773df78c537b62c5ac.jpg) 
@@ -242,8 +262,16 @@ Apple Inc.
 * iPad 2
 * 1st gen. iPad mini
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## [ iOS 9](https://www.lifewire.com/devices-compatibility-ios-9-1999748) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshots of Apple Maps](https://www.lifewire.com/thmb/dWh60jzQRA2AOcGfOil5hyKG5po=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS9_apps-5728cddf5f9b589e34bfb973.jpg) 
 
 Apple, Inc. 
@@ -270,6 +298,9 @@ Apple, Inc.
 
 ## [ iOS 8](https://www.lifewire.com/iphone-compatible-ios-8-1999214) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![iPhone 5s with iOS 8](https://www.lifewire.com/thmb/zi_LhQ-7cFRXzy0FrNnFdA-ZHnI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone5-ios8-56a5352e3df78cf77286eecf.jpg) 
 
 Apple, Inc. 
@@ -298,6 +329,9 @@ Apple, Inc.
 
 * iPhone 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## [ iOS 7](https://www.lifewire.com/is-iphone-compatible-with-ios-7-2000226) 
 
 ![Material design in iOS 7](https://www.lifewire.com/thmb/NBSZqBzI5HlyCyrOTwS0mCE36fo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-7-598c78e0054ad90011729fb8.jpg) 
@@ -327,6 +361,9 @@ Corbis News / Getty Images
 * iPhone 3GS
 * ​iPhone 4, iPhone 4S, 3rd gen. iPad, and iPad 2 couldn't use all features of iOS 7
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## iOS 6 
 
 ![Screenshot of iOS 6](https://www.lifewire.com/thmb/SD_9xRCw9TcGf31icSpQQ5LQkQQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-6-598c7e60b501e80012fa1a48.jpg) 
@@ -355,6 +392,23 @@ marco\_1186 / Flickr
 
 ## [ iOS 5](https://www.lifewire.com/compare-iphone-models-1999430) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![iOS 5 on an iPhone 4](https://www.lifewire.com/thmb/ia0igBXlOLO94d82mylEVUQiHzk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-4S-597fa2c268e1a20011b02463.jpg) 
 
 Francis Dean / Getty Images
@@ -383,6 +437,18 @@ Francis Dean / Getty Images
 * 2nd gen. iPod touch
 * 3rd gen. iPod touch
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ iOS 4](https://www.lifewire.com/upgrade-iphones-operating-system-2000293) 
 
 ![iPhone 4 in black](https://www.lifewire.com/thmb/thaO7rMhgmPNvfHVT7NvyTLXHXA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-4-598c7fba054ad9001173586b.jpg) 
@@ -433,8 +499,20 @@ Justin Sullivan / Getty Images News
 * [ Spotlight​ search​](https://www.lifewire.com/spotlight-search-definition-1994352)
 * [ Recording videos](https://www.lifewire.com/how-much-video-can-iphone-record-2000304)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## iOS 2 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone 3G in an Apple Store](https://www.lifewire.com/thmb/e7btg9umq1lis3_Un_1HBtbg3qM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-3G-598c809baf5d3a0011e1cfd7.jpg) 
 
 Jason Kempin / Getty Images
@@ -456,6 +534,9 @@ Jason Kempin / Getty Images
 
 ## iOS 1 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Original iPhone](https://www.lifewire.com/thmb/cIRcqbxNRi2yVJtxV2sQGKdY3qg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/original-iphone-598c81a1396e5a001026cc8b.jpg) 
 
 Apple Inc.

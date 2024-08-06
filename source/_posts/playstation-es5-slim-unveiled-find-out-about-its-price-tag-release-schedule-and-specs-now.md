@@ -1,7 +1,7 @@
 ---
 title: PlayStation eS5 Slim Unveiled – Find Out About Its Price Tag, Release Schedule & Specs Now!
-date: 2024-08-04 23:23:38
-updated: 2024-08-05 11:53:15
+date: 2024-08-05T02:07:39.866Z
+updated: 2024-08-06T02:07:39.866Z
 categories:
   - BestProducts
 description: This Article Describes PlayStation eS5 Slim Unveiled – Find Out About Its Price Tag, Release Schedule & Specs Now!
@@ -20,10 +20,16 @@ thumbnail: https://www.lifewire.com/thmb/vlIv_3iTK-DDHacZqiUmDg2fOTg=/400x300/fi
 
  The PS5 Slim is now the standard model of the PlayStation 5 that is 30% smaller than the launch edition. Here's everything we know.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ##  When Was the PS5 Slim Released? 
 
  Sony revealed the PS5 Slim officially on October 10, 2023\. It launched in November 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## PS5 Slim Price 
 
  The PlayStation 5 Slim comes in two versions, just like the original. One has a disc drive, and the other is digital-only. We thought it would see a price cut over the original MSRP, but that doesn't seem to be the case.
@@ -32,6 +38,9 @@ thumbnail: https://www.lifewire.com/thmb/vlIv_3iTK-DDHacZqiUmDg2fOTg=/400x300/fi
 
  While the PS5 will come with a horizontal stand, you can pick up one to display your PS5 vertically separately. That costs $29.99.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The vertical stand for the PS5 Slim](https://www.lifewire.com/thmb/I89FBnF0oUfSqfSpcHdX3A8Vv3c=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/New-PS5-Vertical-Stand-7ab6640af9a94338978badf7bbe2c816.jpg) 
 
 Sony
@@ -40,6 +49,18 @@ Sony
 
 [  Here's what we think the PS5 Pro will cost ](https://www.lifewire.com/playstation-5-pro-7966359) 
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  PlayStation 5 Slim Features & Specs 
 
  Per Sony, the new PS5 is more than 30% smaller (by volume), and 18 or 24% lighter (depending on model) than the original version. Rather than the current PS5's two side panels, the new ones have four: The top two are glossy, while the bottom ones are the same matte finish as the current lineup.
@@ -50,6 +71,9 @@ Sony
 
  The general specs remain basically the same; the chips may just be slightly smaller to allow for the slimmer form factor.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The new PS5 with the side panel removed](https://www.lifewire.com/thmb/LcAwBA_R8RGMc2UJ9cPM-tGd-LI=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/New-PS5-side-panel-27489245d8f94d12a9aa30ca3077ecd1.jpg) 
 
 Sony
@@ -64,6 +88,9 @@ Sony
 
 [ The Best Gaming Consoles of 2024 ](https://www.lifewire.com/best-gaming-consoles-4154610) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### PS5 Slim w/ Disc Drive 
 
  Orig.$500 [ $450 at Best Buy ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fplaystation-5%2Fps5-consoles%2Fpcmcat1587395025973.c%3Fid%3Dpcmcat1587395025973) 

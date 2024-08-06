@@ -1,12 +1,12 @@
 ---
 title: Discover the Ultimate List of Freebie HTML Programs Compatible with Windows
-date: 2024-08-02 19:40:36
-updated: 2024-08-05 12:55:22
+date: 2024-08-05T02:07:33.459Z
+updated: 2024-08-06T02:07:33.459Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Ultimate List of Freebie HTML Programs Compatible with Windows
 excerpt: This Article Describes Discover the Ultimate List of Freebie HTML Programs Compatible with Windows
-thumbnail: https://www.lifewire.com/thmb/YiNkR1XmMF85fjzS0zFQ4X75o4Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/coffeecup-free-html-editor-profile-3467555-8876645f89c444c8b94addcf4307b22d.png
+thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895e91d61d746d246092f66e50.png
 ---
 
 ## Discover the History and Impact of Netflix's Former DVD Rental Program
@@ -18,6 +18,14 @@ thumbnail: https://www.lifewire.com/thmb/YiNkR1XmMF85fjzS0zFQ4X75o4Q=/400x300/fi
 
  Netflix's DVD program included some TV shows and movies that weren't available through[their streaming service](https://www.lifewire.com/overview-of-the-netflix-streaming-service-1847831) . You could watch both DVDs and Blu-rays, and there were a few plans to pick from depending on how many discs you wanted to borrow at once.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Netflix's DVD Plans
 
  There are three DVD Netflix plans. All of them offer unlimited discs per month, no late fees, free shipping and returns, DVDs and Blu-rays, and no long-term commitment (just month-by-month).
@@ -34,15 +42,27 @@ thumbnail: https://www.lifewire.com/thmb/YiNkR1XmMF85fjzS0zFQ4X75o4Q=/400x300/fi
 
  These directions are for using a desktop web browser, but you can also sign up with the DVD Netflix mobile app.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Existing Users
 
 1. Visit DVD Netflix and sign in with your Netflix information.
 2. Choose**Add DVD Plan** .  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![Netflix Add DVD Plan button](https://www.lifewire.com/thmb/Uh6KVZq2Icc6DLgr76WSO5J6VpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netflix-add-dvd-plan-239476fd7dbc48c398d157361b9b4dba.png)
 3. Select the plan you want to subscribe to, and then choose**Get Started** .  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Netflix DVD plans](https://www.lifewire.com/thmb/uPDzNtMV66dcBkk8Rbo7T-7ekq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-prices-30f879c3750545099db9e01e04334ae2.png)
 4. Fill out your shipping information, and then select**Start** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### New Users
 
  If you don’t currently have a Netflix account, follow these steps instead:
@@ -56,6 +76,10 @@ thumbnail: https://www.lifewire.com/thmb/YiNkR1XmMF85fjzS0zFQ4X75o4Q=/400x300/fi
 5. Enter your shipping information, and then press**Continue** .
 6. Provide payment details, and then select**Start Membership** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## How to Choose DVDs
 
  Netflix automatically sends DVDs to you based on what you've added to your personal queue. The order in which you receive them is based on the way they're arranged within the queue.
@@ -64,6 +88,9 @@ thumbnail: https://www.lifewire.com/thmb/YiNkR1XmMF85fjzS0zFQ4X75o4Q=/400x300/fi
 
  Here's how to add movies to your DVD Netflix queue and then adjust which ones you'll get first:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### From a Computer
 
 1. From DVD Netflix, select**Add to Queue** or**Add** , depending on the screen you're looking at, next to any DVD you want.  
@@ -74,6 +101,9 @@ thumbnail: https://www.lifewire.com/thmb/YiNkR1XmMF85fjzS0zFQ4X75o4Q=/400x300/fi
 2. Open your queue via the**QUEUE** menu at the top of the site to manage the DVDs. You can adjust the order by dragging the titles up and down. Delete an item by hovering your mouse over it and selecting the trash icon.  
 ![DVD Netflix Queue](https://www.lifewire.com/thmb/x6QarMAaIe0NyqowLEYhKYw2Z1k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-queue-ab624110eea644f1b0b4d462894431ea.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### With the Mobile App
 
  Mobile users can manage the DVD Netflix queue as well. Tap the plus sign to add a movie to TV show to the queue, and use the disc icon at the top right to edit the order or remove DVDs.
@@ -96,8 +126,14 @@ thumbnail: https://www.lifewire.com/thmb/YiNkR1XmMF85fjzS0zFQ4X75o4Q=/400x300/fi
 
 1. Log in to Netflix at[netflix.com](https://www.netflix.com/) or with the Netflix or DVD Netflix mobile app.
 2. Hover your mouse over the profile image at the top right of the screen, and then choose**Account** . If you're using the app, go to**More** \>**Account** to open your account information in your browser.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Netflix menu](https://www.lifewire.com/thmb/sPdef-efDhFlukhsT5ZIKGE9cn8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netflix-menu-a50af54ed942494580a71dbfa10aa482.png)
 3. Select**Cancel DVD plan** from the**PLAN DETAILS** section.  
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Netflix account settings](https://www.lifewire.com/thmb/Q80vAniZ2Rz4sOJ9lBPx1R7Etj8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netflix-cancel-dvd-plan-1b525410df38448e9513aa48f77c3729.png)
 4. Check the box next to**Proceed to Cancellation** , and then select**Continue** .  
 ![DVD Netflix cancel screen](https://www.lifewire.com/thmb/y4ygwym9PG4XM_r0T1gD5tpwa4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-cancel-fb3a1b5411854a1c8b087c1ea52dc9f4.png)

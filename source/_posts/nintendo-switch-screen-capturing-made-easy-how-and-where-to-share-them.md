@@ -1,7 +1,7 @@
 ---
 title: Nintendo Switch Screen Capturing Made Easy – How & Where to Share Them
-date: 2024-08-03 14:46:15
-updated: 2024-08-05 11:46:37
+date: 2024-08-05T02:07:06.203Z
+updated: 2024-08-06T02:07:06.203Z
 categories:
   - BestProducts
 description: This Article Describes Nintendo Switch Screen Capturing Made Easy – How & Where to Share Them
@@ -24,10 +24,17 @@ Close
 
  Once you've pressed the screenshot button on either controller, you'll hear a camera shutter sound and a notification will pop up in the top left of your Switch's screen stating "Capture Taken."
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to View Your Screenshots on the Nintendo Switch 
 
  All of your screenshots can be found in the Nintendo Switch's Album App. To view your screenshots, select the**Album** icon (looks like a box with a sideways heat) at the bottom of the Switch's Home Screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![Nintendo Switch menu with Album icon highlighted](https://www.lifewire.com/thmb/0scsqhdtsDWWhch7A2fBE4vhorA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AlbumIcon-daad21bac77a4c01ab38c9eb76d033d4.jpg) 
 
  If you have many screenshots, you can filter them within the album so it's easier to look through. Tap**Filter** or press the**Y** button, then select which filter you want to use. You can choose to look at:
@@ -38,6 +45,9 @@ Close
 * MicroSD Card: Images stored on your Switch's removable microSD card
 * Specific Game Screenshots: So you can browse according to the game you played.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ##  How to Edit a Screenshot on Your Nintendo Switch 
 
  It's possible to add text to your screenshots before sharing them. Here's how.
@@ -52,9 +62,15 @@ Close
 6. Tap and drag the finished text around the screen. Alternatively, Select**Change** , then use the directional buttons or left stick to move the text; use the**L** and**R** buttons to rotate it.  
  If you don't like the font size or text color, select those options to change them accordingly.
 7. Select**Finished** . Your screenshot now has the text added to it.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A screenshot of New Super Mario Bros with added 'test' text.](https://www.lifewire.com/thmb/18MN13p_GR1iteeV1A557Nh2KVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nintendoswitchscreenshot1-5c45c6ad4cedfd00017ffb6b.jpg)  
  A copy of your screenshot without the text is saved onto your Switch for future reference.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ##  How to Share the Screenshot on Facebook or X (formerly Twitter) 
 
  Once you've selected the screenshot, you can share it easily with others using a couple of different methods. 
@@ -69,6 +85,14 @@ Close
 4. Enter a comment or tweet, then select**Post** to send the screenshot to your social media account.
 5. A message will appear confirming you've successfully shared a Nintendo Switch screenshot. Go check your social media account to be sure!
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Copy a Screenshot to a MicroSD Card 
 
  Sometimes, you might want to move your screenshots to a microSD card rather than leave it on your console. This is useful because you can remove the microSD card and place it into your PC or laptop, like you can with a digital camera's memory card.

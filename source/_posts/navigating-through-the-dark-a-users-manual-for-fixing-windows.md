@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through the Dark: A User's Manual for Fixing Windows"
-date: 2024-08-03 12:50:55
-updated: 2024-08-06 10:21:35
+date: 2024-08-05T02:07:12.276Z
+updated: 2024-08-06T02:07:12.276Z
 categories:
   - BestProducts
 description: "This Article Describes Navigating Through the Dark: A User's Manual for Fixing Windows"
@@ -12,6 +12,9 @@ thumbnail: https://thmb.techidaily.com/92b37c07bddbdc531cfaf008b46137ba5e744b7d9
 ## Fixing Windows Boot Failures: Resolve Your 'Resetting PC' Error Today
  If you have a problem with Windows that’s too complicated to fix manually, you might try using[Reset This PC](https://www.lifewire.com/reset-this-pc-2626216) . It’s supposed to completely reinstall Windows with just a few clicks, and can be extremely helpful...if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is the 'There Was a Problem Resetting Your PC' Error?
 
  If Reset This PC fails to run, you’ll probably get this message, or one like it:  
@@ -19,8 +22,14 @@ thumbnail: https://thmb.techidaily.com/92b37c07bddbdc531cfaf008b46137ba5e744b7d9
  `There was a problem resetting your PC`
 `No changes were made.`
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![There was a problem resetting your pc error](https://www.lifewire.com/thmb/5tOAYiPdaTDXVWTynoE4PdeoMxQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/there-was-a-problem-resetting-your-pc-86e596e364114dc2bacc19e1295c4ce4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## Why This Happens
 
 _Why_ you're getting the error is simple: Reset This PC didn't work. You're clearly trying to solve another problem with a reset,_but the reset tool itself doesn’t even work!_ Without much more to go on than a simple failure to launch, it’s hard to know exactly why Reset This PC didn’t start properly.
@@ -29,6 +38,10 @@ _Why_ you're getting the error is simple: Reset This PC didn't work. You're clea
 
  Reset This PC errors can happen in[Windows 11](https://www.lifewire.com/windows-11-5188930) ,[Windows 10](https://www.lifewire.com/windows-10-2626217) , and[Windows 8](https://www.lifewire.com/windows-8-2626235) . The directions below apply to both operating systems.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## How to Fix the 'There Was a Problem Resetting Your PC' Error
 
  Follow these steps in the order they're presented to try the simpler fixes first:
@@ -36,6 +49,9 @@ _Why_ you're getting the error is simple: Reset This PC didn't work. You're clea
 1. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) and try again ([reset is different from restart](https://www.lifewire.com/reboot-vs-reset-4157868) ).  
  A simple restart is easy to try and[often fixes unexplained problems](https://www.lifewire.com/why-does-restarting-seem-to-fix-most-computer-problems-2624569) . This might be all you need to do.
 2. Run Startup Repair from the[Advanced Startup Options (ASO)](https://www.lifewire.com/advanced-startup-options-2625805) menu. This will attempt to fix problems that are preventing Windows from loading, which might be why Reset This PC won’t start.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![Startup Repair in Advanced Options menu](https://www.lifewire.com/thmb/EjCM25AXeApJ95fLxmCvw-bZ9uU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/advanced-options-startup-repair-d8c55ed0c58e406b8073335d1a15270d.png)  
  To complete this step, you’ll need to[access the ASO menu](https://www.lifewire.com/how-to-access-advanced-startup-options-in-windows-10-or-8-2626229) . Once you’re there, go to**Troubleshoot** \>**Advanced options** \>**Startup Repair** .
 3. [Repair system files with the sfc /scannow command](https://www.lifewire.com/how-to-use-sfc-scannow-to-repair-windows-system-files-2626161) . Reset This PC might be trying to use some important Windows files that are corrupt, which is why you’re seeing this error.  
@@ -47,6 +63,9 @@ _Why_ you're getting the error is simple: Reset This PC didn't work. You're clea
 5. Repair Windows Recovery Environment. If the WinRE image is, for whatever reason, missing or corrupt, it might be throwing the “_There was a problem resetting your PC_ ” error.  
  To repair it, open an elevated Command Prompt and enter this command:  
  `reagentc /disable`  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reagentc disable command in Command Prompt](https://www.lifewire.com/thmb/d5zO43p4ZIJfMESMS8Q9H8kNBPU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reagentc-disable-command-2ad577ae139f435da2305cc3d34dfd5b.png)  
  Reboot your computer, open Command Prompt again, and enter this command:  
  `reagentc /enable`  

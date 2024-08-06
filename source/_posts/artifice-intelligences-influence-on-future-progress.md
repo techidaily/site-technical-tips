@@ -1,7 +1,7 @@
 ---
 title: Artifice Intelligence's Influence on Future Progress
-date: 2024-08-03 13:16:53
-updated: 2024-08-06 12:21:47
+date: 2024-08-05T02:07:26.983Z
+updated: 2024-08-06T02:07:26.983Z
 categories:
   - BestProducts
 description: This Article Describes Artifice Intelligence's Influence on Future Progress
@@ -24,16 +24,27 @@ thumbnail: https://www.lifewire.com/thmb/yk_X9ijnjTdwqL6YTCK8OGmYkzY=/400x300/fi
 
 [ChatGPT vs. Gemini: What's the Difference?](https://www.lifewire.com/chatgpt-vs-bard-7504876)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Sign Up for Google Gemini
 
  You can sign up on the web with your Google account or use the Android mobile app. Both methods are straightforward and offer a clean interface for interacting with Gemini.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### Using the Web App
 
  Go to the dedicated[Google Gemini homepage](https://gemini.google.com/) and use your Google personal account to sign in. You can also create a new Google account if you don't have one yet (or don't want your primary account tied to Gemini).
 
  The web app is supported in most browsers, such as Chrome, Safari, Firefox, Opera, or Edge. Gemini supports 40 languages and is available in over 230 countries.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### Using the Mobile Apps on Android and iOS
 
  Install the[Gemini mobile app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard) from the Google Play store on Android. The Gemini app is available only in English in the U.S. You must have an Android phone with 2 GB of RAM or more, running Android 10 or newer. If you opt-in to use Gemini, it will replace your Google Assistant as the primary assistant on the phone.
@@ -56,6 +67,9 @@ thumbnail: https://www.lifewire.com/thmb/yk_X9ijnjTdwqL6YTCK8OGmYkzY=/400x300/fi
 6. You can ask Gemini to generate images with words like "draw," "generate," and "create."
 7. Select**New chat** on the sidebar to start a conversation on another topic with the chatbot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Tip
 
  Google suggests several[tips for getting the best results with your prompts](https://support.google.com/a/users/answer/14200040?hl=en) . Download the free[Gemini for Workspace prompt guide](https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html) if you use Google Workspace with other tools in the suite.
@@ -68,22 +82,42 @@ thumbnail: https://www.lifewire.com/thmb/yk_X9ijnjTdwqL6YTCK8OGmYkzY=/400x300/fi
 ![The "Hide/Show drafts" and "Regenerate drafts" options in Google Gemini](https://www.lifewire.com/thmb/qA7gawJp3_oXG1w3DcDUr9ydFBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Hide-drafts-and-regenerate-google-gemini-9cbbe551f2904f008b8c05bcf385caa5.jpg)
 2. Give Gemini's large language model some feedback by choosing the**Good response** or**Bad response** icons (the thumb icons).
 3. The**Modify response** filter pop-up helps you adjust the length, simplify the language, and change the tone of a response. Use this to tailor the answers for your intended audience or finetune them.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The "Modify response" option in Google Gemini](https://www.lifewire.com/thmb/tM5Ik6bHqWlxMYpKv-VT30BTI2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Modify-response-in-Google-Gemini-c53c46000aea49879f6ad313767b5a33.jpg)
 4. Instead of making Gemini rewrite the entire content, you can modify parts of the generated responses. Highlight any part of the text and select the**Modify selected text** icon.  
  Enter a fresh prompt in the Modify with a prompt field to describe how you want the selected text to change, and then press**Enter** . The other options of**Regenerate** ,**Shorter** ,**Longer** , and**Remove** are self-explanatory.  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![Google Gemini Modify selected text ](https://www.lifewire.com/thmb/ek4DwjpGOxgIqgqgg0yWUoHFeHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GoogleGemini-Modify-Answer-Content-34d76e37a88c42c9969dfd593be19c21.jpg)  
 ![Google Gemini Modify selected text ](https://www.lifewire.com/thmb/ek4DwjpGOxgIqgqgg0yWUoHFeHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GoogleGemini-Modify-Answer-Content-34d76e37a88c42c9969dfd593be19c21.jpg)
 5. Gemini can be error-prone. Select the**Google** button at the foot of the response to double-check the answers. The AI checks with a Google Search and highlights content similar to (Green highlight) or different (Orange highlight) from Gemini's statements.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Using Extensions in Gemini
 
  With Gemini's extensions, you can tap into Google's ecosystem of apps to cover a wider variety of everyday uses. Most extensions are on by default, but you may need to give Gemini permission to use them in your prompt.
 
 1. Go to**Settings** \>**Extensions** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![The Settings > Extensions options in Google Gemini](https://www.lifewire.com/thmb/pccAkIep3BpKkhVuV-2YYAWwlYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Extensions-in-Google-Gemini-08e89dd23f4940048feb9db7f2cf1f17.jpg)
 2. Enable or disable your choice of extensions with the toggle switch.
 3. To automatically use any Google services as an extension, mention it in the prompt. Alternatively, enter @ and select the extension to allow Gemini to use a specific extension.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Tip
 
  Gemini is a handy way to summarize YouTube videos you don't want to watch till the end. Ask Gemini multiple questions to dig deeper into the video's content in half the time.

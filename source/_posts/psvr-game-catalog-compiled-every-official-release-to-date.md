@@ -1,7 +1,7 @@
 ---
 title: "PSVR² Game Catalog Compiled: Every Official Release to Date"
-date: 2024-08-03 21:40:15
-updated: 2024-08-06 11:59:37
+date: 2024-08-05T02:07:19.847Z
+updated: 2024-08-06T02:07:19.847Z
 categories:
   - BestProducts
 description: "This Article Describes PSVR² Game Catalog Compiled: Every Official Release to Date"
@@ -23,6 +23,9 @@ Close
 
 These games have all been announced, but some may not be out yet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![Beat Saber on Oculus Quest.](https://www.lifewire.com/thmb/RcMOC1a-eQ8MB-93bq-f1IOlTcg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/beatsaber-6eb924688cfa4544b32f6ea4d756bdd4.jpg) 
 
  Beat Games
@@ -81,6 +84,14 @@ These games have all been announced, but some may not be out yet.
 * _Crisis Brigade 2_
 * _Crossfire: Sierra Squad_
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Lo-Fi for PSVR 2](https://www.lifewire.com/thmb/A7ppkTn54GUEAXiEqED2bOrTD4U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lo-Fi-da10697954b04e91b58168691c3418df.jpg) 
 
 * _CyubeVR_
@@ -139,6 +150,9 @@ These games have all been announced, but some may not be out yet.
 * _The Light Brigade_
 * _Little Cities: Bigger!_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![Tentacular](https://www.lifewire.com/thmb/HR5EtfR8c5-jn7d3wNW0Im08ino=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Tentacular-3d60fd58c697414398cc265fd8a6fc75.jpg) 
 
 * _Low-Fi_
@@ -223,6 +237,9 @@ These games have all been announced, but some may not be out yet.
 * _Towers and Powers_
 * _Townsmen VR_
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Moss and Moss: Book II](https://www.lifewire.com/thmb/XHm_pq0PpO7m8zV3JrhsjJbTcvg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MossandMossBookII-85eab45d6e6a44b985478d1b2b0467f0.jpg) 
 
 * _Toy Trains_
@@ -262,8 +279,14 @@ These games have all been announced, but some may not be out yet.
 
  Looking for something scary? I recommend these titles to make you feel like you're fighting for your life inside a horror movie.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot from Resident Evil: The Village](https://www.lifewire.com/thmb/V6jQIWVtc6zr6YWGV4yhA1rhuhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RE_Village_Apr_2021_Screens_05-4177f157cd1d4760bf3ca5e7b5475d66.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  The Dark Pictures: Switchback VR 
 
 _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until Dawn: Rush of Blood_ , put players onto a terrifying rollercoaster ride full of scares and monsters from that title. The follow-up is the same idea, only it has four episodes to draw from the first "season" of_The Dark Pictures Anthology_ .
@@ -282,12 +305,18 @@ _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until D
 
 **Release Date** : August 2023  
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Cosmodread 
 
  This rogue-like, space-based horror drops you into a huge, scary spaceship with a different layout every time you try. Your job is to escape to Earth, but all you have is a crossbow and a will to survive.
 
 **Release Date** : May 2023
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Best PSVR 2 Games for Sports Fans 
 
  PlayStation VR 2 has a variety of games for people who want a more immersive version of their favorite sports or even a real workout. Here are some of the best.
@@ -296,6 +325,9 @@ _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until D
 
 Polyphony Digital
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ###  Creed: Rise to Glory – Championship Edition 
 
  Fans of the_Creed_ movie series will have a blast stepping into the virtual ring._Rise to Glory: Championship Edition_ includes levels and fighters based on all three_Creeds_ , along with the ability to face off against legendary fighters like Apollo Creed, Rocky Balboa, and Ivan Drago.
@@ -318,6 +350,9 @@ Polyphony Digital
 
  Your VR gaming time doesn't have to be non-stop action. Plenty of options are available that will help you unwind at the end of your day.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Tetris Effect: Connected video game on Xbox One, Xbox Series X, PS4, PS5, and Windows PC.](https://www.lifewire.com/thmb/7roJV1mYBrPIndXhqDXNT8DVyhM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tetris-effect-cheats-codes-and-secrets-04-09ea72d3f9a04970859a00d6f72e798f.jpg) 
 
 ### Puzzling Places 
@@ -328,6 +363,9 @@ Polyphony Digital
 
 **Release Date** : December 2021
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Tetris Effect: Connected 
 
  With this update, the legendary line-clearing game got a complete sensory overhaul, in which every move, flip, drop, and cleared line adds to the soundscape. It's also available "flat," but obviously the fully immersive musical world of_Tetris_ is the better way to play.
@@ -346,6 +384,9 @@ _Kayak VR: Mirage_ is a relaxing exploration game that takes you to Antarctica, 
 
  PlayStation VR 2 owners who want to push their action skills should check out these games.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Horizon: Call of the Mountain](https://www.lifewire.com/thmb/jD6wdUnV4hFDEByl5uWOt1b1YBc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HorizonCalloftheMountain-702c4adc02cf4e5daf6e7de3702753f2.jpeg) 
 
 ###  Horizon: Call of the Mountain 
@@ -360,18 +401,29 @@ _Kayak VR: Mirage_ is a relaxing exploration game that takes you to Antarctica, 
 
 **Release Date** : March 2023
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Resident Evil 4 
 
  While it's also a horror title in one of the most successful gaming franchises of all time,_Resident Evil 4_ turns up the action with hero Leon S. Kennedy's increased firepower, ability to parry a chainsaw with a knife, and knack for suplexing the undead. The VR edition of this previously flat game brings the battles, scares, and monsters into full 3D.
 
 **Release Date** : TBA
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ##  The Best PSVR 2 Games for Families 
 
  Looking for something kid-friendly to play on your PlayStation VR 2? Here are some of the most charming games on the platform.
 
  Sony says the PlayStation VR2 is not to be used by children under 12.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Moss: Book II](https://www.lifewire.com/thmb/TGEAq5sFoTL_YrBre8udckU2X64=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MossBook2-04fb9afd7f324c0c941778ea0926ede6.jpg) 
 
 Polyarc
@@ -388,6 +440,9 @@ Polyarc
 
 **Release Date** : May 2023
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tentacular 
 
  Speaking of playing as animals: Here's a game that puts you in control of a couple of giant tentacles and then asks you to perform tasks. It's one of those titles that's maybe even more entertaining when you fail since destroying a cartoon city as a giant squid monster will always be fun.

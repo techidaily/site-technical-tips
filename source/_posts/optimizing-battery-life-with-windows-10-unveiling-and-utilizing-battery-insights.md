@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Battery Life with Windows 10: Unveiling and Utilizing Battery Insights"
-date: 2024-08-05 22:49:11
-updated: 2024-08-06 10:37:30
+date: 2024-08-05T02:07:31.589Z
+updated: 2024-08-06T02:07:31.589Z
 categories:
   - BestProducts
 description: "This Article Describes Optimizing Battery Life with Windows 10: Unveiling and Utilizing Battery Insights"
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/2d544a9f24903c4dca30f002769bbf9a409fd7c6d
 
  This article explains how to generate a Windows 10 battery report. The report includes information about the general health of the battery, usage history, battery life estimates, and other statistics.  
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Generate a Battery Report in Windows 10
 
  The battery on your laptop or tablet is one of its most critical pieces of[hardware](https://www.lifewire.com/computer-hardware-2625895) . Over time, a battery's life span shortens, and its ability to hold a charge decreases. If you suspect your battery's performance is fading, follow these steps to create a battery report:  
@@ -28,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/2d544a9f24903c4dca30f002769bbf9a409fd7c6d
  `powercfg /batteryreport /output "C:\battery-report.html"`  
  Feel free to change the path (in quotes) to wherever you want to save the report. In our example, it will be exported to the[C drive](https://www.lifewire.com/what-is-a-c-drive-5222296) .
 3. After you run the battery report command, you'll see a message indicating where the file was saved. Take note of the location.  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![battery life location](https://www.lifewire.com/thmb/eA3ZUvDsKSVHVe95zCIVzRKJvu4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-windows-10-battery-report-what-it-is-and-how-to-use-it-fe885b3ec48e4d81bb081e819a2a972b.jpg)
 4. Use Windows Explorer to find the file, then double-click or double-tap it to open the report in your web browser. In our example, since the battery report was saved in the[root](https://www.lifewire.com/what-is-a-root-folder-or-root-directory-2625989) of the C drive, we can type this into the browser's URL bar to open the report:  
  `file:///C:/battery-report.html`
@@ -42,28 +48,46 @@ thumbnail: https://thmb.techidaily.com/2d544a9f24903c4dca30f002769bbf9a409fd7c6d
 
  The second section, below**Installed batteries** , lists key information about your laptop or tablet batteries, such as name, manufacturer, serial number, chemistry, and design capacity.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of the first two sections of a Windows 10 battery report.](https://www.lifewire.com/thmb/cdMl7F4TRFo-BwaNKuCqdGgWKko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-generate-a-battery-report-on-a-windows-10-laptop-4587396-6-5c74f03546e0fb0001a9825a.jpg)
 
 ### Recent Usage
 
  This section overviews when your device was running on battery or connected to AC power. Recent usage covers power states for three days and includes start time, state (active/suspended), source (battery/AC), and remaining capacity.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A screenshot displaying recent usage on a Windows 10 battery report.](https://www.lifewire.com/thmb/gPFUNNrcOy5j_YDxwEdimde27d8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-generate-a-battery-report-on-a-windows-10-laptop-4587396-7-5c74fa37c9e77c0001e98d2b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Battery Usage
 
  This area lists any battery drains over the last three days. If your system ran for extended periods on battery alone, this section would break it down by start time or duration, as well as by energy drained.
 
 [How to Make a Laptop Battery Last Longer](https://www.lifewire.com/make-laptop-battery-last-longer-5189983)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A screenshot showing battery usage in a Windows 10 battery report.](https://www.lifewire.com/thmb/CcY183o8jUDRbhUehMCZBEedeo8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-generate-a-battery-report-on-a-windows-10-laptop-4587396-8-5c750187c9e77c000136a5f0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Usage History
 
  Here, you'll see a complete history (including duration) of each time your device was running on battery or AC power. Reviewing your usage history is a great way to see how often and for how long you run your device on battery power.
 
 ![A screenshot showing battery and AC power usage in a Windows 10 battery report.](https://www.lifewire.com/thmb/mZEneBChOagqSVGktFCzwFEe-3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-generate-a-battery-report-on-a-windows-10-laptop-4587396-9-5c758254c9e77c0001e98d44.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Battery Capacity History
 
  In this section of the report, you see the full charge capacity compared to your battery's design capacity for each period. Watching your full charge capacity is another helpful way to monitor the overall health and performance of your battery over time.

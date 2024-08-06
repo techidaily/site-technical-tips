@@ -1,7 +1,7 @@
 ---
 title: "Demystifying the Terminology: How BEV, PHEV, FCEV, and Hybrid Electric Vehicles Contrast"
-date: 2024-08-03 20:13:14
-updated: 2024-08-06 10:22:57
+date: 2024-08-05T02:07:04.891Z
+updated: 2024-08-06T02:07:04.891Z
 categories:
   - BestProducts
 description: "This Article Describes Demystifying the Terminology: How BEV, PHEV, FCEV, and Hybrid Electric Vehicles Contrast"
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/d470a8543a2f89f5d2f298ef8b2cf16fd1cc9e453
 
  The unifying factor is that every electric vehicle includes an electric motor to drive the vehicle, either alone or in concert with a gasoline-reliant internal combustion engine (ICE). While all of these vehicles use electricity in one way or another, only battery electric vehicles are pure EVs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## The Basic Breakdown 
 
 Julie Bang
@@ -27,10 +30,16 @@ Julie Bang
 * **EREV** : Extended-range electric vehicles are hybrids that are designed to run entirely on the electric motor, and they don’t include a traditional internal combustion engine. Instead, they have a gasoline generator that can provide electricity to the batteries and electric motor when needed to extend the overall range.
 * **FCEV** : Fuel cell electric vehicles are different from other electric vehicles. Instead of a rechargeable battery, they use fuel cells that generate electricity through a reaction between hydrogen and oxygen. They have to be refueled at hydrogen charging stations.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ##  Electric Vehicles (EV) and Battery Electric Vehicles (BEV) 
 
  Battery electric vehicles are purely electric. Unlike other types of EVs, BEVs rely only on battery power. These vehicles don’t have internal combustion engines, don’t have tailpipes, and produce zero emissions during operation. Since there is no internal combustion engine, the battery needs to be charged by plugging it in.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Close Up Of Electric Motor In Engine Bay Of Electric Car](https://www.lifewire.com/thmb/ffwwoE4gDDdyP2WtPjkGPtd0ffQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/EVenginecloseup_mokeybusinessimages_iStock_GettyImagesPlus-44213dd675b54cf9851b2d793638aa74.jpg) 
 
  Close up of electric motor. 
@@ -61,6 +70,10 @@ cipango27/iStock/Getty Images Plus
 
  The main benefit of an HEV is convenience. From the perspective of the driver, an HEV is no different from an ICE vehicle. You still fill it up with gas like a traditional ICE vehicle, and the electric part takes place under the hood and out of sight with no input from the driver. The downside is that they still burn fossil fuel and still produce a significant amount of carbon emissions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ###  Plug-in Hybrids (PHEV): Parallel and Series 
 
  Plug-in hybrid electric vehicles come in two flavors: parallel and series. The parallel type is usually just referred to as PHEV, while the series variation can be referred to as extended range electric vehicles (EREV).
@@ -91,6 +104,9 @@ Boy\_Anupong/Moment/Getty
 
  Since fuel cells rely on hydrogen to operate, they need to be periodically charged with hydrogen similar to the way you have to fuel up an ICE vehicle with gasoline or diesel. The difference is that while gas stations are abundant, hydrogen fueling stations are only found in a small handful of markets in California.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![HydroGen 3 Fuel Cell Minivan Engine](https://www.lifewire.com/thmb/YWfDVNWTFGaPJrWOCm7GpOvXtrM=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Fuelcellengine_Arctic-Images_TheImageBankUnreleased-1e096669f0f5453ba1c4c5e997679dbc.jpg) 
 
  HydroGen 3 Fuel Cell Minivan Engine. 
@@ -101,6 +117,9 @@ Arctic-Images/The Image Bank Unreleased
 
  For example, if you lived near fuel stations in Los Angeles, you couldn’t take a weekend trip to Las Vegas. While the travel distance of about 240 miles might be inside your range, you wouldn’t be able to fuel up before heading home. Even if your FCEV had a range of 366 miles, you’d run out of hydrogen somewhere in the desert on your return trip. To safely make the same trip, a long range BEV could simply charge up before the return trip, while a shorter range BEV could stop at charging stations along the way.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ##  Why Are There So Many Types of EVs? 
 
  Electric vehicle technology has been around for over 200 years, but it only came back into focus and started evolving rapidly in the last couple decades.

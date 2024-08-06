@@ -1,7 +1,7 @@
 ---
 title: Walkthrough to Securing Lower Cost on Microsoft Products Through Student Savings.
-date: 2024-08-03 22:32:32
-updated: 2024-08-05 11:23:57
+date: 2024-08-05T02:07:24.128Z
+updated: 2024-08-06T02:07:24.128Z
 categories:
   - BestProducts
 description: This Article Describes Walkthrough to Securing Lower Cost on Microsoft Products Through Student Savings.
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/7Ly57WIr_QA6wBh78DLml9BgtcA=/400x300/fi
 ---
 
 ## Slash Costs on Your School Tech: The Ultimate Trick for Scooping Up Dell's Student Savings
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Go to the UNiDAYS website > select**Menu** \>**Join Now** \> set up your account >**Join Now** and enter your school info.
@@ -27,6 +30,9 @@ thumbnail: https://www.lifewire.com/thmb/7Ly57WIr_QA6wBh78DLml9BgtcA=/400x300/fi
 1. Navigate to the[UNiDAYS website](https://www.myunidays.com/US/en-US) and select the menu icon indicated by three horizontal lines (**≡** ).  
 ![The More menu on the Dell site](https://www.lifewire.com/thmb/iRBSbijAwd_xuFqJVcVraGBYT64=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-dell-student-discount-4686335-829147eb5af94f2fadcf1c028049dbfd.jpg)
 2. Select**Join now** .  
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Join Now button](https://www.lifewire.com/thmb/mhaCUA5fDltGefzG805lHQiuY2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-dell-student-discount-4686335-90ee14273a1f4bbb994914b59e4f1615.jpg)
 3. Enter your email address, choose a password, then select**Join now** .  
 ![A screenshot of Unidays.](https://www.lifewire.com/thmb/Zld2fuMr3eQZQqJlraNVI2T_tbw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/unidays1-e239f02eff234f7ba45724f722b18638.JPG)
@@ -35,6 +41,9 @@ thumbnail: https://www.lifewire.com/thmb/7Ly57WIr_QA6wBh78DLml9BgtcA=/400x300/fi
 5. Follow the on-screen prompts to complete your verification process. If you aren't able to verify automatically, or if your school isn't listed, contact UNiDAYS to manually verify your account.  
  UNiDAYS partners with a lot of major brands, including Apple, so signing up will provide you with a lot of discounts beyond just Dell.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use Your Dell Student Discount
 
  The Dell student discount uses UNiDAYS to generate single-use coupon codes. To take advantage of this, you need to use UNiDAYS to generate a code, then apply the code in your Dell shopping cart.
@@ -45,6 +54,14 @@ thumbnail: https://www.lifewire.com/thmb/7Ly57WIr_QA6wBh78DLml9BgtcA=/400x300/fi
  If you don't see a Dell deal, try entering Dell into the search field.  
 ![The Redeem Online button](https://www.lifewire.com/thmb/Vow8xBAfY4hXPmMBojDj2t4Mn20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-dell-student-discount-4686335-e43e1b733ce347fbb0eb56898de05ad5.jpg)
 2. Select**Redeem Code** .  
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of the Unidays Dell discount.](https://www.lifewire.com/thmb/dukIQ5HI1HxABy3YO6Hr7yFb-jQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/unidaysdell2-3baec4ecbd1249e881c3d8761fda43d1.jpg)
 3. Copy your code, and select**Launch Website** .  
  This code only works once, and it expires after a short amount of time.  
@@ -52,6 +69,10 @@ thumbnail: https://www.lifewire.com/thmb/7Ly57WIr_QA6wBh78DLml9BgtcA=/400x300/fi
 4. On the Dell website, locate a laptop or desktop that you want to buy. When you reach the checkout page, enter your coupon code and verify your discount.  
  If the discount doesn't apply, try generating a new code. If that doesn't work, contact UNiDAYS for additional support.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## Who is Eligible For the Dell Student Discount?
 
  UNiDAYS has a couple of requirements that you need to meet if you want to take advantage of their Dell student discount codes. To qualify for this discount, you must be:
@@ -62,6 +83,9 @@ thumbnail: https://www.lifewire.com/thmb/7Ly57WIr_QA6wBh78DLml9BgtcA=/400x300/fi
 
  Parents can't sign up for their children, so students younger than 17 are unable to use this discount even if they are enrolled at a qualifying school.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Does the Dell Student Discount Get You?
 
  The Dell student discount typically provides a 10 percent discount on Dell products, in addition to whatever other deals Dell may be running at the time. This amount can change, so make sure to check UNiDAYS to see what the current offer is before making a decision.

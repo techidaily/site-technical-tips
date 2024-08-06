@@ -1,7 +1,7 @@
 ---
 title: "Anticipated Launch & Specs: Apple's New Domestic AI Assistant – What You Need to Know"
-date: 2024-08-02 17:53:37
-updated: 2024-08-05 12:44:51
+date: 2024-08-05T02:07:38.849Z
+updated: 2024-08-06T02:07:38.849Z
 categories:
   - BestProducts
 description: "This Article Describes Anticipated Launch & Specs: Apple's New Domestic AI Assistant – What You Need to Know"
@@ -21,16 +21,25 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
 
  Nothing is having a banner year with the release of the Nothing Ear (a) and the Nothing Phone 2a—and shows no signs of losing that momentum: The buzzed-about Nothing Phone 3 is expected to arrive next year. Details are hard to come by, but here’s what we anticipate so far about the debut of this next-gen phone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## When Will the Nothing Phone 3 Be Released?
 
 [9to5Google reports](https://9to5google.com/2024/06/05/nothing-phone-3-2025-ai/) that Nothing confirmed over email that it won't be releasing its next flagship until 2025.
 
  Given that hint, we suspect a July 2025 reveal based on prior Nothing phone flagship releases: The Nothing Phone 1 arrived in July 2022, followed by the Nothing Phone 2 in July 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 We're betting on a July 2025 release date for the Nothing Phone 3.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Nothing Phone 3 Price Rumors
 
  Since release and ordering details are slim to none, pricing information is still forthcoming as well.
@@ -53,10 +62,16 @@ Lifewire / Rob LeFebvre
 
  The Nothing Phone 3 hasn't yet been announced by Nothing, which means we don't have any pre-order information. Once we know more, we’ll update details here, so stay tuned. We’ll also detail how widely available the Phone 3 will be for pre-ordering.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Nothing Phone 3 Specs and Features
 
  Since the Phone 3 isn't an official product, it’s hard to say for sure what we’ll see in the Phone 3\. But here’s some reliable chatter so far.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### A Newer Chip (but Just How New)?
 
  It’s still early stages, but a lot of buzz surrounds the processor Nothing will land on for its third-generation flagship phone.
@@ -83,6 +98,9 @@ Nothing OS 2.0.
 
 Nothing
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ### An Action Button
 
  Nothing CEO Carl Pei teased several shots of an updated design on X. Though the below post asks for feedback on Nothing OS user interface updates, many suspect that Pei might have leaked the Nothing Phone 3.
@@ -97,6 +115,9 @@ Nothing
 
  We’ll continue to make updates as we learn about more rumors, leaks, and official word from Nothing.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Latest News About the Nothing Phone 3
 
  You can find a lot more[smartphone news on Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Here are several stories about previous Nothing Phone releases, rumors, and hands-on impressions.

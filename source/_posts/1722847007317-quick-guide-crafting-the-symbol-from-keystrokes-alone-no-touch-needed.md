@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Crafting the ❤️ Symbol From Keystrokes Alone – No Touch Needed"
-date: 2024-08-03 10:53:42
-updated: 2024-08-05 10:13:35
+date: 2024-08-05T02:07:25.291Z
+updated: 2024-08-06T02:07:25.291Z
 categories:
   - BestProducts
 description: "This Article Describes Quick Guide: Crafting the ❤️ Symbol From Keystrokes Alone – No Touch Needed"
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 
  _Another Samsung Unpacked Event occurred on January 17, 2024\. This time, the event covered three key items in the company's lineup: the newest Samsung Galaxy phones. Here are all the the details on the Galaxy S24, S24 Plus, and S24 Ultra._
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Samsung Galaxy S24 and S24 Plus
 
  Artificial intelligence and Google Cloud integration power the entire S24 line. The[S24 and S24+](https://www.lifewire.com/samsung-galaxy-s24-7964194) are the entry-level options, but they still include powerful translation, organization, search, and image-editing features to keep everything quick and easy.
@@ -43,6 +46,10 @@ Samsung
 
 [Samsung Doubles Down On AI At Galaxy Unpacked 2024](https://www.lifewire.com/samsung-ai-galaxy-unpacked-2024-8430782)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### Samsung Galaxy S24 and S24 Plus Pricing and Availability
 
  The S24 starts at $799.99, and the S24+ starts at $999.99, but the price will change depending on storage. Here's the breakdown:
@@ -54,6 +61,18 @@ Samsung
 
  You can[order the S24 and S24+](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-plus-512gb-unlocked-sm-s926ulbexaa%2F) directly from Samsung.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%272880%27 height=%27896%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![The Galaxy S24 series](https://www.lifewire.com/thmb/H8-QOm52O_whCuEeJB99b-JlfD0=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Galaxy-S24-series-side-8dcbaec3364645939e41673b77364f49.jpg)
 
  PHOTO:
@@ -83,6 +102,9 @@ Samsung
 
 [Samsung Taps Corning's New Gorilla Glass for Galaxy S24 Series](https://www.lifewire.com/samsung-corning-gorilla-armor-galaxy-s24-8430937)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### Galaxy S24 Ultra Pricing and Availability
 
  The S24 Ultra starts at $1,299.99, but the price will change depending on storage. Here's the breakdown:
@@ -93,10 +115,16 @@ Samsung
 
  You can[order the Galaxy S24 Ultra](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24-ultra%2Fbuy%2Fgalaxy-s24-ultra-512gb-unlocked-sm-s928uzkfxaa%2F) from Samsung.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The Galaxy Ring
 
  Samsung revealed no details about the[Galaxy Ring](https://www.lifewire.com/samsung-galaxy-ring-8431146) at the Unpacked on January 17, but it did confirm that it exists and showed a picture. It may be out by the end of the year, and we expect more details soon.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The Samsung Galaxy Ring at Unpacked on January 17](https://www.lifewire.com/thmb/XOn6Op1FOwrrBB4DZC-JI2v8zjg=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Galaxy-Ring-8ce01a84a53c4c0596485ebde10aea04.jpg)
 
 Samsung

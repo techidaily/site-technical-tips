@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Emptying Your Android Device's Storage"
-date: 2024-08-03 14:52:10
-updated: 2024-08-06 11:50:23
+date: 2024-08-05T02:07:19.350Z
+updated: 2024-08-06T02:07:19.350Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Emptying Your Android Device's Storage"
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/bb98865890fcbc6879df7bd56d4caa339b8a68a9a
 
  This article explains how to turn off AMBER alerts on various versions of the Android operating system.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Turn Off AMBER Alerts on Most Androids
 
  The "emergency alerts" options is where you go on most Android devices to disable these alerts.
@@ -28,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/bb98865890fcbc6879df7bd56d4caa339b8a68a9a
 3. Select**Wireless emergency alerts** or**Advanced** \>**Emergency alerts** .  
  Some versions of Android bury this option in a menu called**Advanced settings** .
 4. Tap the toggle next to**AMBER alerts** and anything else you want to turn off, like test alerts or notifications for extreme threats.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![The AMBER alerts toggle in Android Settings](https://www.lifewire.com/thmb/VdMK8CpGgsIxaUCa5fK8SNeXq8g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/amber-alerts-android-4162530d8b1a4de19d5fbc3cef4f9614.png)  
  There's also a toggle for**Vibration** . Disable that if you don't want your phone to vibrate for AMBER alerts.
 
@@ -45,12 +51,18 @@ thumbnail: https://thmb.techidaily.com/bb98865890fcbc6879df7bd56d4caa339b8a68a9a
 4. Tap**Wireless Emergency Alerts** .  
 ![Screenshots showing the location of Wireless Emergency Alerts on Galaxy S9 and S10.](https://www.lifewire.com/thmb/xqb7ohcTiPKHSPNJuEdh2522tBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002a_Amber_Alert-c2813db398aa4354bfcabc28d9b5de0d.jpg)
 5. Tap the**Settings** menu (three dots) for**Wireless Emergency Alerts** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![The menu icon for Wireless Emergency Alerts on Samsung S9 and S10.](https://www.lifewire.com/thmb/J6I5ImobfQn9WnSdLZsPULHngqk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003a_Amber_Alerts-2b888448aaa4450a9a7700362db7babd.jpg)
 6. From the options that appear, select**Settings** .
 7. Select**Alert types** .
 8. Tap the toggle next to any alert you want to disable.  
 ![Where to disable Amber Alerts in Galaxy S9 and S10.](https://www.lifewire.com/thmb/0qhMlSLm0pnhBIA0drPY5D-janU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004a_Amber_Alerts-9751e7c6b8954b5cbc42552d050fcf92.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Directions for Other Android Phones
 
  The alert settings on some phones are in the Messaging window.
@@ -59,11 +71,23 @@ thumbnail: https://thmb.techidaily.com/bb98865890fcbc6879df7bd56d4caa339b8a68a9a
 2. Select the**Menu** button in the upper-right corner, and choose**Settings** .
 3. Select**More** under**Advanced** .
 4. Tap**Emergency alerts** at the bottom of the list of options.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![Screenshots show how to access Amber Alert notifications on older model Android devices.](https://www.lifewire.com/thmb/qYmF76CuNifnEDlOfbTc63wYs54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001a_Amber_Alert-f0470bccc55847a5b611f9246595afd6.jpg)
 5. Clear the checkbox next to**AMBER alerts** and anything else you're not interested in, like imminent extreme alerts and public safety alerts.
 
  If you want to receive AMBER alerts without the loud noise that accompanies them, scroll down on the alerts menu and disable the**Alert sound** slider. You can leave**Alert vibration** on if you want the phone to vibrate when there is an alert or disable this setting for a text notification only.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## AMBER and Emergency Alerts Explained
 
  The AMBER Alert system is a voluntary partnership between law enforcement, broadcasters, transportation agencies, and the wireless industry to inform citizens of serious child abduction cases in their area.

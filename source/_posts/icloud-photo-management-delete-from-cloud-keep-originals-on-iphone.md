@@ -1,7 +1,7 @@
 ---
 title: "ICloud Photo Management: Delete From Cloud, Keep Originals on iPhone"
-date: 2024-08-04 16:34:35
-updated: 2024-08-05 10:20:12
+date: 2024-08-05T02:07:06.288Z
+updated: 2024-08-06T02:07:06.288Z
 categories:
   - BestProducts
 description: "This Article Describes ICloud Photo Management: Delete From Cloud, Keep Originals on iPhone"
@@ -18,16 +18,29 @@ thumbnail: https://thmb.techidaily.com/d4c7cd2172ccba4bdb571077b4ff8032d0659877f
 
  This article explains how to delete photos from iCloud without removing them from your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## How to See if Syncing is Turned On or Off on iPhone
 
  Syncing must be off to ensure photos deleted from iCloud aren't removed from your iPhone as well. To check whether or not iCloud Photo syncing is enabled on your iPhone, follow these steps:
 
 1. Open**Settings** from your iPhone Home screen and tap your**Apple ID** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![Settings on iPhone Home screen and Apple ID in iPhone settings](https://www.lifewire.com/thmb/IiRyPe0Fsp4OdlZOaHpDLYN8lcU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_delete-photos-from-icloud-5218812-4d08e0971fdf4559bcce1736cea6c360.jpg)
 2. Select**iCloud** \>**Photos** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![iCloud and Photos in iPhone settings](https://www.lifewire.com/thmb/guqar8Tv0JOiJ8MZa4IJvR-QiX0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_delete-photos-from-icloud-5218812-41ea5115dcbb407fbad1dc42a38ec56c.jpg)
 3. To delete photos from iCloud without deleting them from the iPhone turn off syncing by toggling the switch to off.  
  You may see this setting labeled as**Sync this iPhone** . Move the toggle to the left to disable iCloud Photos syncing.  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toggle switch for iCloud Photos On and Off](https://www.lifewire.com/thmb/lKTz9Dgpw4e7NZl4w0-FZi7AvF4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_delete-photos-from-icloud-5218812-f8578419b23d4a99b8572105b421e357.jpg)
 4. Now, you can delete photos from iCloud without removing them automatically from the iPhone. Follow the same steps to turn off iCloud syncing for any other Apple device.
 
@@ -43,12 +56,18 @@ thumbnail: https://thmb.techidaily.com/d4c7cd2172ccba4bdb571077b4ff8032d0659877f
 4. Select the**Delete** (trash can) icon to delete the selected photos.
 5. The photos will be deleted from iCloud. With iCloud Photos turned off on your device, the photos in the iPhone's Photos library will not be affected.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### Tip
 
  When deleted, photos and videos are shifted to the**Recently Deleted** folder on both iCloud and the iPhone. They will be permanently deleted after 30 days, thus making it possible to recover them if you change your mind. To remove them permanently before 30 days, go to the Recently Deleted folder and select**Delete All** .
 
 [How to Mass Delete Images and Photos in Bulk on iPhone, iPad](https://www.lifewire.com/bulk-delete-images-iphone-ipad-2740750)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Understanding the 'Optimize iPhone Storage' Setting
 
  If**Optimize iPhone Storage** is enabled, all your full-resolution photos and videos are kept on iCloud and only the latest photos and videos are on the iPhone.

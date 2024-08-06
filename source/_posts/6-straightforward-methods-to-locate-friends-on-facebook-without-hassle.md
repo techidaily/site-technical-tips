@@ -1,7 +1,7 @@
 ---
 title: 6 Straightforward Methods to Locate Friends on Facebook Without Hassle
-date: 2024-08-03 17:14:27
-updated: 2024-08-06 12:33:48
+date: 2024-08-05T02:07:22.658Z
+updated: 2024-08-06T02:07:22.658Z
 categories:
   - BestProducts
 description: This Article Describes 6 Straightforward Methods to Locate Friends on Facebook Without Hassle
@@ -21,8 +21,14 @@ Close
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Run a Name Search on Facebook 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Facebook people search results](https://www.lifewire.com/thmb/F7zTC4WuMS-5Lj3Iaxag5ealqEw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-name-search-99362aa2030f4919b011554cb72beb09.png) 
 
  The main search bar at the top of the website is one method for finding people on Facebook by their name. Type a name, select**People** on the left, and then look through the results.
@@ -33,8 +39,14 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ##  Search Facebook by the Person's Employer or School 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![Facebook people search by school](https://www.lifewire.com/thmb/iNT2koAiMAe9xkSPaTupSC76K-c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-people-search-school-153f5077027f4eeaa62a09583684f007.png) 
 
  Don't know the person's name? You can still do a Facebook search for someone, even if you're not sure what their name is. Knowing where they work or went to school, for example, makes it a lot easier to find them online.
@@ -67,6 +79,9 @@ of 06
 
 ##  Search for People in Public Groups 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Search results for a person in a Facebook group ](https://www.lifewire.com/thmb/sAqmFWONTm5BXCNTnSyGvdxy_Q0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-group-people-search-d971d76ff69449d0b0dc588f4610fa18.png) 
 
  If you know the person is interested in a particular topic, you can browse[ Facebook Groups](https://www.lifewire.com/facebook-groups-4103720) they might be in.
@@ -79,6 +94,9 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Do a Facebook Search by Phone Number 
 
 ![Facebook search for a phone number](https://www.lifewire.com/thmb/mkW-F_qqJfW178WL1C1bWc3NChA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-phone-number-search-a525b6b7cf304bc88e191afd4c54850b.png) 

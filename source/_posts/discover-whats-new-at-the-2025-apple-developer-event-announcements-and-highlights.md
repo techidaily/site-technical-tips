@@ -1,7 +1,7 @@
 ---
 title: Discover What's New at the 2025 Apple Developer Event – Announcements and Highlights
-date: 2024-08-02 21:27:12
-updated: 2024-08-05 11:49:19
+date: 2024-08-05T02:07:15.896Z
+updated: 2024-08-06T02:07:15.896Z
 categories:
   - BestProducts
 description: This Article Describes Discover What's New at the 2025 Apple Developer Event – Announcements and Highlights
@@ -36,6 +36,10 @@ thumbnail: https://www.lifewire.com/thmb/BS6EQLdoFpHBKaApG3kbaxCBoMo=/400x300/fi
 * macOS
 * tvOS
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## When Is WWDC 2025?
 
  WWDC 2024 was June 10 to June 14\. Most of the conference is hosted online, but Apple will also hold a limited-attendance special event at Apple Park.
@@ -61,6 +65,9 @@ thumbnail: https://www.lifewire.com/thmb/BS6EQLdoFpHBKaApG3kbaxCBoMo=/400x300/fi
 
  Apple's announcements at WWDC 2024 covered almost its entire product line. Here are some highlights:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Apple Intelligence
 
  We'd long heard rumors about the so-called[Apple GPT](https://www.lifewire.com/what-is-apple-gpt-7571221) , and it's coming in the form of Apple Intelligence. This platform will launch in beta form this fall (probably alongside the rest of the OS updates) and will work across and with iPhone, iPad, and Mac. Here are the compatible devices:
@@ -83,6 +90,9 @@ thumbnail: https://www.lifewire.com/thmb/BS6EQLdoFpHBKaApG3kbaxCBoMo=/400x300/fi
 
 Apple, Inc
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### iOS 18
 
  The big updates to[iOS 18](https://www.lifewire.com/ios-18-8552216) include the ability to personalize your Home screen, including app layout, icon size, and color, along with a hugely updated Control Center.
@@ -91,6 +101,9 @@ Apple, Inc
 
  Messages updates let you stylize text with bold, italics, underlines, and more; you can also schedule texts to be delivered later. The app will also support RCS for better texting with Android owners.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### iPadOS 18
 
  The iPad is getting the same updates to Photos, Messages, and more as iOS.[iPadOS 18](https://www.lifewire.com/ipados-18-8558715) also has its own upgrades, like a Notes app that will clean up your handwriting. The refined Calculator app will also show a history of your calculations and solves equations as you type or write them.
@@ -101,12 +114,24 @@ Apple, Inc
 
  Window tiling is also getting an update. Instead of arranging windows to the left or right, you can put them in the corners, which means you can quickly tile four apps or documents at a time. Holding down the Option key shows you some layout options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### tvOS 18
 
  The[new tvOS](https://www.lifewire.com/tvos-18-8599054) aims to be smarter with audio. If you have a 4K Apple TV, you can use improved dialogue boosting using machine learning to make sure you can always tell what people are saying. This feature will also work with external speakers and receivers and not just HomePods.
 
  Another big feature in tvOS 18 is InSight. If you're watching a show or movie on Apple TV+ and wonder who an actor is or need help identifying a song that's playing, a swipe will provide you that information. From there, you can add songs you like to an Apple Music playlist or see what else actors were in.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### visionOS 2
 
  The second version of[the software that runs the Vision Pro headset](https://www.lifewire.com/visionos-2-8604723) focuses on spatial photos. It'll make your 2D images look 3D and place them dynamically in your background.

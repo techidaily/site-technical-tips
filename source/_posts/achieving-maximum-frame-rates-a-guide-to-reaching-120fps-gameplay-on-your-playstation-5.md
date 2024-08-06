@@ -1,7 +1,7 @@
 ---
 title: "Achieving Maximum Frame Rates: A Guide to Reaching 120FPS Gameplay on Your PlayStation 5"
-date: 2024-08-04 11:11:16
-updated: 2024-08-06 11:52:29
+date: 2024-08-05T02:07:15.608Z
+updated: 2024-08-06T02:07:15.608Z
 categories:
   - BestProducts
 description: "This Article Describes Achieving Maximum Frame Rates: A Guide to Reaching 120FPS Gameplay on Your PlayStation 5"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/bfb2d1c98fb54d4eedeecb18b7b3e8e4bf5cc5347
 ---
 
 ## Ultimate Tutorial on Multi-Monitor Configurations - Adding Two Extra Displays to Your Desktop
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Connect the video cable for the first monitor to the PC and monitor. Wait for an image to display, then repeat for the other monitors.
@@ -18,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/bfb2d1c98fb54d4eedeecb18b7b3e8e4bf5cc5347
 
  This article explains how to connect three monitors to a computer for a boost in productivity.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## How to Hook up 3 Monitors to One Computer
 
  Sometimes you need a command center whether you're gaming, coding, or working with multiple documents. Here's how to add three monitors to your computer.
@@ -26,10 +32,25 @@ thumbnail: https://thmb.techidaily.com/bfb2d1c98fb54d4eedeecb18b7b3e8e4bf5cc5347
 2. Examine the ports on your PC to determine the video outputs you have available.
 3. Examine the video inputs available on the three monitors you'll be using. The ports on your PC don't have to match the ones on your monitors, but you'll need a cable or adapter with the appropriate connections if they are different.  
 [HDMI and DisplayPort](https://www.lifewire.com/displayport-vs-hdmi-4686971) are the most common video connections.  
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DisplayPort vs HDMI Connections and Cables](https://www.lifewire.com/thmb/2-bsARM73bRRMi4TApr7ApRFBCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/display-port-vs-hdmi-c2g-ccc-1697f356c33b4313bf4f239ef56856e4.jpg)  
  Different monitors can use different video connections. For example, you can connect two monitors with HDMI and then a third with DisplayPort.
 4. Connect the video cable for the first monitor to your PC and then to the monitor. Wait a moment for the PC to detect the monitor and display an image. If it's successful, repeat this for the second monitor and, finally, the third.
 5. Right-click on the Windows desktop and click**Display Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Right-click menu settings in Windows 11 with Display Settings highlighted](https://www.lifewire.com/thmb/MfaagGxQo95iNq8uX_dLvjVN9QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DisplaySettingsannotated-56ca601f38694bd48a968d3dcb8baa44.jpg)
 6. A diagram will be visible at the top of the**Display** menu. If this is your first time connecting multiple monitors, the diagram will show one rectangle with the numbers 1, 2, and 3 together. Scroll down until you find the**Multiple Displays** option. Click the drop-down field and then**Extend these displays** .  
 ![Windows 10 Display menu with "Extend these displays" highlighted](https://www.lifewire.com/thmb/6l5Yr_fuN9WBGTtNXhf_4Y0Vdz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Extendthesedisplays-057f49d62adc4b4da106c1da7c564437.jpg)
@@ -54,6 +75,9 @@ thumbnail: https://thmb.techidaily.com/bfb2d1c98fb54d4eedeecb18b7b3e8e4bf5cc5347
 
  You may have difficulty finding official specifications for hardware more than five years old. Beware of results from unofficial websites. Many third-party websites attempt to compile graphics hardware specifications, but most are unreliable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## How Do I Connect 3 Monitors With an HDMI Splitter?
 
  You can use an HDMI splitter to connect three monitors, but the results likely won't be what you hope.
@@ -74,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/bfb2d1c98fb54d4eedeecb18b7b3e8e4bf5cc5347
 
  Your PC must support this feature. Most PCs sold in the last few years will, but older models often don't. Check the PC manufacturer's website or the company's website, which made your graphics card, to see if daisy chains are supported.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A person relaxing in front of 3 computer monitors.](https://www.lifewire.com/thmb/rNwm25Wi1gtnVKG6cT3WvYu1xsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1215556128-c6efe0a4701f452e851a1ace021393a5.jpg)
 
 LanaStock / Getty Images

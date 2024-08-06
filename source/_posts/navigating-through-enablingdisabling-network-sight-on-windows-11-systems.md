@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Enabling/Disabling Network Sight on Windows 11 Systems
-date: 2024-08-02 20:55:12
-updated: 2024-08-05 12:43:38
+date: 2024-08-05T02:07:16.483Z
+updated: 2024-08-06T02:07:16.483Z
 categories:
   - BestProducts
 description: This Article Describes Navigating Through Enabling/Disabling Network Sight on Windows 11 Systems
@@ -12,6 +12,9 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 ## Deciding Between Building or Purchasing Your Own Computer - Find Out the Best Option
  It's easy enough to pick out a new computer to buy. The other option is to gather[all the necessary components](https://www.lifewire.com/desktop-pc-parts-checklist-832694) and build the PC yourself. We looked at the pros and cons of both to help you decide whether to build a computer or buy one off the shelf.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Overall Findings
 
  Buying a PC
@@ -35,6 +38,9 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 
  When purchasing a new PC, consider your skill level and budget. There are pros and cons to both decisions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Buying a PC: Pros and Cons
 
  Advantages
@@ -60,6 +66,9 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 
 [The 8 Best Computer Brands of 2024](https://www.lifewire.com/best-computer-brands-4691899)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Disadvantages of Buying
 
  The major disadvantage of buying a pre-made PC is the cost. Generally, a computer that's ready to go right off the shelf costs more than the homemade variety because manufacturers tend to use non-OEM parts. Retail computer parts can be higher in price, driving the end cost of a pre-made PC up as well. An exception to this rule is when there are sales on pre-built PCs. Many companies have exclusive sales during the holidays, such as Black Friday, or clearance sales to make room for new models. But, overall, it will cost you more to buy a ready-made computer.
@@ -83,6 +92,9 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 * Requires considerable research.
 * Novice users may struggle with the technical side of the build process.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Advantages of Building
 
  The most obvious advantage of building a computer from scratch is the selection of parts. Most computer systems come pre-built with the specifications and components selected for you. This often leads to consumers making compromises on features because a mass-produced system may not have all that you want or may offer a subpar component. By building your own computer, you can choose the parts that best match your desired setup. Some vendors do allow you to customize a computer system, but you are limited to their selection of parts.
@@ -95,6 +107,9 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Disadvantages of Building
 
  One of the biggest disadvantages of building a computer is the lack of a single support organization. Since each component likely comes from a different manufacturer, if a part has a problem, you'll deal with the appropriate company. With pre-built systems, you only have to contact the manufacturer and their warranty service. This can also be an advantage in terms of building it yourself as a part failure is often quickly and easily resolved by replacing the part yourself rather than waiting for a large company to send out a technician or ship the system back to them.
@@ -109,6 +124,10 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 
  If you don't need a computer for a specialized task or high-end computing, a pre-made system may be the way to go, especially if you're not technically minded. Building a PC requires technical know-how and patience.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
 
 Lifewire / Julie Bang

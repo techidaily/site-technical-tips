@@ -1,7 +1,7 @@
 ---
 title: How to Stop a Mac From Going to Sleep
-date: 2024-08-05 15:22:47
-updated: 2024-08-06 10:53:37
+date: 2024-08-05T02:07:32.673Z
+updated: 2024-08-06T02:07:32.673Z
 categories:
   - BestProducts
 description: This Article Describes How to Stop a Mac From Going to Sleep
@@ -16,6 +16,9 @@ thumbnail: https://www.lifewire.com/thmb/yeEeOPurB4Cayvhze-UI0TXnjAQ=/400x300/fi
 
  Apple's butterfly keyboards were such a problem; Apple had to issue a[Keyboard Service Program for the MacBook, MacBook Air, and MacBook Pro](https://support.apple.com/keyboard-service-program-for-mac-notebooks) .
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix a MacBook Pro Keyboard That Isn't Working
 
  If your keyboard stops working, the first step is to clean it. If that doesn’t work, you need to connect a spare keyboard and try a handful of other fixes.
@@ -47,6 +50,9 @@ thumbnail: https://www.lifewire.com/thmb/yeEeOPurB4Cayvhze-UI0TXnjAQ=/400x300/fi
 
  Before you take your MacBook in for service, make sure to[back up the data on your Mac](https://www.lifewire.com/back-up-mac-to-external-hard-drive-with-time-machine-5069853) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Causes a MacBook Pro Keyboard to Stop Working?
 
  The most common causes for a MacBook keyboard to stop working are dust and other contaminants. If you have a MacBook with keys using Apple’s butterfly keyboard mechanism, even the smallest amount of dust contamination can cause problems.

@@ -1,7 +1,7 @@
 ---
 title: Overcome Mac Security Hurdles - Fixing the 'Unable to Open Developer Unknown Programs'
-date: 2024-08-03 17:54:39
-updated: 2024-08-06 11:40:25
+date: 2024-08-05T02:07:12.515Z
+updated: 2024-08-06T02:07:12.515Z
 categories:
   - BestProducts
 description: This Article Describes Overcome Mac Security Hurdles - Fixing the 'Unable to Open Developer Unknown Programs'
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/MgioKI2mkANSGc65uE6YOG9TtdU=/400x300/fi
 * "(App name) cannot be opened because the developer cannot be verified."
 * "(App name) can't be opened because Apple cannot check it for malicious software."
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is the Cause of the ‘Cannot Be Opened Because the Developer Cannot Be Verified' Error on Mac?
 
  While[Macs are less likely to get viruses](https://www.lifewire.com/can-macs-get-viruses-4767114) than Windows PCs, they can still get infected. Apple has a developer ID system and an app review process to reduce the frequency of users exposed to malware on macOS.
@@ -28,6 +31,9 @@ thumbnail: https://www.lifewire.com/thmb/MgioKI2mkANSGc65uE6YOG9TtdU=/400x300/fi
 
  If an app were released before the registration and review processes started, it would trigger the same error. The app may be safe, but there’s no way for Apple to know one way or the other if they haven’t been able to review it.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## How Do You Fix ‘App Can’t Be Opened Because It Is From an Unidentified Developer?’
 
  To fix the error where you can’t open an unapproved app on your Mac, you have a few options.
@@ -37,6 +43,9 @@ thumbnail: https://www.lifewire.com/thmb/MgioKI2mkANSGc65uE6YOG9TtdU=/400x300/fi
 3. Override your security settings. If you’re sure you trust the app developer, you can allow the app to install and open. From Finder,**Control+Click** the app > click**Open** .  
  The app should be saved as an exception in your security settings, allowing you to open it in the future.
 4. Bypass the block in your Privacy & Security settings. If the previous method didn’t work, you can do it manually from**System Settings** \>**Privacy & Security** \> look for the app > click**Open Anyway.**  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The Open Anyway option from macOS Privacy & Security settings to allow an app from outside the App Store.](https://www.lifewire.com/thmb/Q44hkOY6O8L2Ck_LybCHimjWrBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-developer-cannot-be-verified-error-5183898-889a356e9c644d86962bc4ccc9ad1be9.jpg)  
  In older versions of macOS, open**System Preferences** \>**Security & Privacy** \>**General** \> click the**lock** icon > enter your username and password >**Unlock** \>**App Store and Identified Developers** . You may see the option to click**Anywhere** \>**Allow From Anywhere** .
 5. [Download the app through Safari](https://www.lifewire.com/what-is-safari-4173608) . If the above process didn’t work, make sure you downloaded the app using Safari. Delete the app > restart your Mac > download the app using Safari > and try to run the app. When you get the error message, perform the Privacy & Security fix outlined in the previous step.  

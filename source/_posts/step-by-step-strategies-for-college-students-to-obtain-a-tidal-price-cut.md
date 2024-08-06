@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Strategies for College Students to Obtain a Tidal Price Cut
-date: 2024-08-03 13:24:28
-updated: 2024-08-05 12:15:51
+date: 2024-08-05T02:07:16.720Z
+updated: 2024-08-06T02:07:16.720Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Strategies for College Students to Obtain a Tidal Price Cut
@@ -14,6 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/4ebZXyc7hEVHpY3f930PENxZMYs=/400x300/fi
 
  Instructions in this article apply to[Windows 11](https://www.lifewire.com/windows-11-5188930) ,[Windows 10](https://www.lifewire.com/windows-10-2626217) ,[Windows 8](https://www.lifewire.com/windows-8-2626235) ,[Windows 7](https://www.lifewire.com/windows-7-2626265) ,[Windows Vista](https://www.lifewire.com/windows-vista-2626311) , and[Windows XP](https://www.lifewire.com/windows-xp-2626354) .
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## What Causes Error Code 0x80004005?
 
  Error code 0x80004005 typically happens when you access shared folders or drives, use specific programs, or have a problem installing Windows updates. Here are the most common causes of error code 0x80004005:
@@ -25,6 +28,9 @@ thumbnail: https://www.lifewire.com/thmb/4ebZXyc7hEVHpY3f930PENxZMYs=/400x300/fi
 
  If you notice the error occurs when you use a specific program, the problem is likely[software](https://www.lifewire.com/what-is-software-4153107) related.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix Error Code 0x80004005
 
  Follow these steps in the order presented to troubleshoot error code 0x80004005:
@@ -43,6 +49,9 @@ thumbnail: https://www.lifewire.com/thmb/4ebZXyc7hEVHpY3f930PENxZMYs=/400x300/fi
    * On a[32-bit](https://www.lifewire.com/32-bit-64-bit-2624554) system, create a new**DWORD** [registry value](https://www.lifewire.com/what-is-a-registry-value-2626042) called**LocalAccountTokenFilterPolicy** .  
    * On a 64-bit system, create a**QWORD** registry value called**LocalAccountTokenFilterPolicy** .  
  In both cases, set the value to**numeric 1** (on), then select**OK** . After that,[restart the Windows PC](https://www.lifewire.com/how-to-reboot-a-computer-2624568) to see if the problem is fixed.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![A screenshot of Windows Registry with the Numerical Value and OK button highlighted](https://www.lifewire.com/thmb/OqNevLWWV50Z3qSb36MeYz61-8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-fix-error-code-0x80004005-4689559-7b5e14fd0ef942718355465faefbcb77.jpg)  
  Don't delete or change anything in the Windows registry unless you know what you're doing.
 10. Contact support. If none of these fixes work, or if you don't want to make changes to the Windows Registry, contact customer support for your Windows PC. The manufacturer may have potential solutions.

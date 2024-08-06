@@ -1,7 +1,7 @@
 ---
 title: Unsubscribe From Emergency Broadcasts on Your Android Device
-date: 2024-08-04 11:49:39
-updated: 2024-08-05 12:10:43
+date: 2024-08-05T02:07:23.855Z
+updated: 2024-08-06T02:07:23.855Z
 categories:
   - BestProducts
 description: This Article Describes Unsubscribe From Emergency Broadcasts on Your Android Device
@@ -10,6 +10,10 @@ thumbnail: https://www.lifewire.com/thmb/boZrMwWPvUKBS7xkOc8ovdtMJlQ=/400x300/fi
 ---
 
 ## Avoid Unwanted AMBER Alerts on Your Android Device - Here's How
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Search**Settings** for**emergency alerts** , and then toggle off**AMBER alerts** .
@@ -43,14 +47,26 @@ thumbnail: https://www.lifewire.com/thmb/boZrMwWPvUKBS7xkOc8ovdtMJlQ=/400x300/fi
 2. Tap**Connections** .
 3. Tap**More connection settings** .
 4. Tap**Wireless Emergency Alerts** .  
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshots showing the location of Wireless Emergency Alerts on Galaxy S9 and S10.](https://www.lifewire.com/thmb/xqb7ohcTiPKHSPNJuEdh2522tBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002a_Amber_Alert-c2813db398aa4354bfcabc28d9b5de0d.jpg)
 5. Tap the**Settings** menu (three dots) for**Wireless Emergency Alerts** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![The menu icon for Wireless Emergency Alerts on Samsung S9 and S10.](https://www.lifewire.com/thmb/J6I5ImobfQn9WnSdLZsPULHngqk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003a_Amber_Alerts-2b888448aaa4450a9a7700362db7babd.jpg)
 6. From the options that appear, select**Settings** .
 7. Select**Alert types** .
 8. Tap the toggle next to any alert you want to disable.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Where to disable Amber Alerts in Galaxy S9 and S10.](https://www.lifewire.com/thmb/0qhMlSLm0pnhBIA0drPY5D-janU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004a_Amber_Alerts-9751e7c6b8954b5cbc42552d050fcf92.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Directions for Other Android Phones
 
  The alert settings on some phones are in the Messaging window.
@@ -64,6 +80,9 @@ thumbnail: https://www.lifewire.com/thmb/boZrMwWPvUKBS7xkOc8ovdtMJlQ=/400x300/fi
 
  If you want to receive AMBER alerts without the loud noise that accompanies them, scroll down on the alerts menu and disable the**Alert sound** slider. You can leave**Alert vibration** on if you want the phone to vibrate when there is an alert or disable this setting for a text notification only.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## AMBER and Emergency Alerts Explained
 
  The AMBER Alert system is a voluntary partnership between law enforcement, broadcasters, transportation agencies, and the wireless industry to inform citizens of serious child abduction cases in their area.

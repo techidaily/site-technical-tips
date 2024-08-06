@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Connection Errors in Android Devices
-date: 2024-08-04 16:20:46
-updated: 2024-08-06 10:20:42
+date: 2024-08-05T02:07:22.133Z
+updated: 2024-08-06T02:07:22.133Z
 categories:
   - BestProducts
 description: This Article Describes Troubleshooting Connection Errors in Android Devices
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/WXpDyFxsBSHNTulWAC4lMYj-4m0=/400x300/fi
 ---
 
 ## Restoring Erased Mobile Numbers on Your Android Device: Proven Methods
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Open the**Contacts** app or visit**contacts.google.com** . Select**Trash** (web) or**Fix & manage** \>**Trash** (app).
@@ -18,6 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/WXpDyFxsBSHNTulWAC4lMYj-4m0=/400x300/fi
 
  This article will walk you through restoring deleted or lost phone numbers on Android and Samsung devices.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Recover Deleted Numbers on Android
 
  You signed in to your Google account when you first up your Android. By default, your contacts sync with your Google account. Any contacts you delete will go to the Google Contacts trash folder. Here's how to recover a deleted contact or phone number from a computer or your phone:
@@ -25,6 +31,9 @@ thumbnail: https://www.lifewire.com/thmb/WXpDyFxsBSHNTulWAC4lMYj-4m0=/400x300/fi
 1. [Open Google Contacts](https://contacts.google.com/) in your web browser. You'll need to log in with the same Google account used on your phone.  
  If you're on your phone, find and open the**Contacts** app.
 2. Select**Trash** from the menu on the left. If you don't see it, select the**three-line** menu button at the top left.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![The Trash menu item highlighted in Google Contacts.](https://www.lifewire.com/thmb/OMw5rrBEn05YHe01cLmVPj9hf7Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-FindDeletedPhoneNumbersonAndroid-annotated-a1dd410eec2a44f38b1ddb67b4dc14dd.jpg)  
  To do this from the mobile app, go to**Fix & manage** \>**Trash** .
 3. Select a contact from the list.  
@@ -44,11 +53,20 @@ thumbnail: https://www.lifewire.com/thmb/WXpDyFxsBSHNTulWAC4lMYj-4m0=/400x300/fi
  Although it's not as common, your phone might have contacts stored on the internal memory or a SIM card. This can happen if that's where you've backed up your contacts. If you're lucky, the deleted number might still exist in the backup. Here's how to import those contacts:
 
 1. Go to**Contacts** \>**Menu** \>**Manage Contacts.**  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Samsung Contacts app with the menu and 'Manage contacts' highlighted](https://www.lifewire.com/thmb/hGdu49Zvk3-BMwVJhDJRUg3hUkc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RetrieveDeletedNumbers06-ac12a6b7ae344c169bc47cddcde5b324.jpg)
 2. Tap**Import or export contacts** \>**Import** . If you have any contacts stored on your SIM card or your internal memory, you'll see those sources in the list.
 3. Select the source you want to retrieve the contacts from, then tap**Import** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![A Samsung phone user imports contacts](https://www.lifewire.com/thmb/G98RJqkST9u56OLvOkTB5WJqXOw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RetrieveDeletedNumbers07-2de9758e685a4be78eabfa70e20fbcae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Can I Restore Deleted Numbers on Android Without a Computer?
 
  Using your phone or tablet is the best way to get deleted numbers back. You can restore deleted contacts you've already backed up through the methods outlined above. While some desktop apps can do the job, too, possibly even better than the built-in methods, they usually cost.

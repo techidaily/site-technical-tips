@@ -1,7 +1,7 @@
 ---
 title: Share The Fun - A Comprehensive Guide to Collaborative Watching on Netflix
-date: 2024-08-03 23:55:24
-updated: 2024-08-06 12:51:14
+date: 2024-08-05T02:07:03.678Z
+updated: 2024-08-06T02:07:03.678Z
 categories:
   - BestProducts
 description: This Article Describes Share The Fun - A Comprehensive Guide to Collaborative Watching on Netflix
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/_93RO2pWOPZVqv5kKsEV7gB7pS0=/400x300/fi
 
  This article explains how to connect three monitors to a computer for a boost in productivity.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## How to Hook up 3 Monitors to One Computer
 
  Sometimes you need a command center whether you're gaming, coding, or working with multiple documents. Here's how to add three monitors to your computer.
@@ -26,18 +29,30 @@ thumbnail: https://www.lifewire.com/thmb/_93RO2pWOPZVqv5kKsEV7gB7pS0=/400x300/fi
 2. Examine the ports on your PC to determine the video outputs you have available.
 3. Examine the video inputs available on the three monitors you'll be using. The ports on your PC don't have to match the ones on your monitors, but you'll need a cable or adapter with the appropriate connections if they are different.  
 [HDMI and DisplayPort](https://www.lifewire.com/displayport-vs-hdmi-4686971) are the most common video connections.  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DisplayPort vs HDMI Connections and Cables](https://www.lifewire.com/thmb/2-bsARM73bRRMi4TApr7ApRFBCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/display-port-vs-hdmi-c2g-ccc-1697f356c33b4313bf4f239ef56856e4.jpg)  
  Different monitors can use different video connections. For example, you can connect two monitors with HDMI and then a third with DisplayPort.
 4. Connect the video cable for the first monitor to your PC and then to the monitor. Wait a moment for the PC to detect the monitor and display an image. If it's successful, repeat this for the second monitor and, finally, the third.
 5. Right-click on the Windows desktop and click**Display Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Right-click menu settings in Windows 11 with Display Settings highlighted](https://www.lifewire.com/thmb/MfaagGxQo95iNq8uX_dLvjVN9QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DisplaySettingsannotated-56ca601f38694bd48a968d3dcb8baa44.jpg)
 6. A diagram will be visible at the top of the**Display** menu. If this is your first time connecting multiple monitors, the diagram will show one rectangle with the numbers 1, 2, and 3 together. Scroll down until you find the**Multiple Displays** option. Click the drop-down field and then**Extend these displays** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Windows 10 Display menu with "Extend these displays" highlighted](https://www.lifewire.com/thmb/6l5Yr_fuN9WBGTtNXhf_4Y0Vdz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Extendthesedisplays-057f49d62adc4b4da106c1da7c564437.jpg)
 7. Scroll back to the top of the**Display** menu. It will now show three rectangles, each labeled with a number. These rectangles show the position of each monitor on your Windows desktop. Change the diagram so that each rectangle's location is approximately the same as each monitor's physical location on your desk.  
  Verify the monitors are arranged as you want by opening a window and dragging it between monitors.  
 ![Multiple monitors being configured on Windows 10 Display settings](https://www.lifewire.com/thmb/yVjDg9fBA8hoBTzwZbVB_1qhIYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearrangedisplays-0e9cb668b33548caa615ae8d7c98f2c9.jpg)
 8. Close the**Display** menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Can My Computer Support Three Monitors?
 
  A computer needs the proper hardware and software to support three monitors at once. Even one with enough physical video outputs might not support three monitors if the driver for its graphics hardware lacks support for so many displays.
@@ -54,6 +69,9 @@ thumbnail: https://www.lifewire.com/thmb/_93RO2pWOPZVqv5kKsEV7gB7pS0=/400x300/fi
 
  You may have difficulty finding official specifications for hardware more than five years old. Beware of results from unofficial websites. Many third-party websites attempt to compile graphics hardware specifications, but most are unreliable.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do I Connect 3 Monitors With an HDMI Splitter?
 
  You can use an HDMI splitter to connect three monitors, but the results likely won't be what you hope.

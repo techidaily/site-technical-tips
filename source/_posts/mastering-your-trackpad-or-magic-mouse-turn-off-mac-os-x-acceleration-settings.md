@@ -1,7 +1,7 @@
 ---
 title: "Mastering Your Trackpad or Magic Mouse: Turn Off Mac OS X Acceleration Settings"
-date: 2024-08-02 21:47:23
-updated: 2024-08-05 10:53:40
+date: 2024-08-05T02:07:20.891Z
+updated: 2024-08-06T02:07:20.891Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Your Trackpad or Magic Mouse: Turn Off Mac OS X Acceleration Settings"
@@ -56,8 +56,18 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## [Creative Note-Taking for the Apple Fan: Notability](https://notability.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![GingerLabs Notability website](https://www.lifewire.com/thmb/thNiSXfw8G3iysBhc2IHZBZv7KY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-15at5.02.40PM-58f28ac55f9b582c4d5c1cbf.png)
 
  What We Like
@@ -161,8 +171,14 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Note-Taking for the Minimalist: Simplenote](https://simplenote.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Simplenote website](https://www.lifewire.com/thmb/_9N5RUSjHN_SraN7hIAJ7L4x_yQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at3.02.14PM-58ee79ed5f9b582c4dd97d0a.png)
 
  What We Like
@@ -236,6 +252,9 @@ of 10
 
 ## [A Collaborative Note-Taking App for Your Whole Team: Dropbox Paper](https://www.dropbox.com/paper/start)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dropbox Paper website](https://www.lifewire.com/thmb/3Y9VYshyhwfzEAhYUQo6qfLW-v8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-17at9.13.18PM-58f5693f5f9b581d59046520.png)
 
  What We Like
@@ -269,6 +288,9 @@ of 10
 
 ## [Best App for Taking Digital Handwritten Notes: Squid](https://www.squidnotes.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![SquidNotes website](https://www.lifewire.com/thmb/elX17TRYlBrhykILBHZdUnmrAzY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-18at3.28.23PM-58f669393df78ca159210743.png)
 
  What We Like
@@ -296,8 +318,14 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [Most Flexible Note-Taking App: Bear](https://bear.app/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bear-Writer website](https://www.lifewire.com/thmb/HfqVhGO6cwI3Ri8C9uk733BRr7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at2.04.58PM-58ee6cad3df78cd3fc28aae8.png)
 
  What We Like
@@ -328,8 +356,14 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Basic, Minimal, and Possibly All You Need: Notes](https://apps.apple.com/app/notes/id1110145109)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![Apple Notes website](https://www.lifewire.com/thmb/a3hdmF_cqcF1RmxUS5cVmozIgpM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-25at7.10.21PM-58ffd86f5f9b581d59b97459.png)
 
 ​

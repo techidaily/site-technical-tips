@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: Properly Referencing Your Conversations with ChatGPT"
-date: 2024-08-05 16:51:58
-updated: 2024-08-06 11:19:11
+date: 2024-08-05T02:07:06.630Z
+updated: 2024-08-06T02:07:06.630Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Guide: Properly Referencing Your Conversations with ChatGPT"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  What to Know
 
 * For APA style, you need to cite the AI tool, its version, date, and provide a URL.
@@ -21,6 +24,9 @@ Close
 
  This guide will explain how to cite[ ChatGPT](https://www.lifewire.com/what-is-chatgpt-7105508) in APA (American Psychological Association), MLA (Modern Language Association), and Chicago publishing styles.  
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ##  How to Cite ChatGPT in APA Style 
 
  When writing in-text citations in[ APA style](https://www.lifewire.com/how-to-apa-format-in-google-docs-4844955) , writers are expected to give reference to the original author's last name and the year of publication. For example, if you were citing me in the writing of this article, you might quote me and then put "(Martindale, 2024)".
@@ -37,10 +43,16 @@ Close
 
 **(OpenAI, 2024; see Appendix A for the full transcript)** .  
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT displayed on the screen of a laptop computer on a table with a coffee cup nearby.](https://www.lifewire.com/thmb/xz7Kz-RwDroVaT8wns5_1ebM-Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/emiliano-vittoriosi-kdNhf7vJSik-unsplash-beba734fd77446faaf1422be840fe2e3.jpg) 
 
 Emiliano Vittoriosi / Unsplash
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ##  How to Cite ChatGPT in MLA Style 
 
  When writing in-text citations in MLA style, writers must reference the original author's last name and provide a page reference number if the source has numbered pages. So that would typically be something like "(Martindale, 10)" if it were quoting me from a source with 10 or more pages.
@@ -61,6 +73,9 @@ Emiliano Vittoriosi / Unsplash
 
  However, MLA does suggest that if you feel any AI you use is quoting from a primary or more senior source, you should find the root of that quote and use the original source if possible, rather than citing ChatGPT.  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Cite ChatGPT in Chicago Style 
 
  Chicago style citations are handled a little differently, and they don't lend ChatGPT as much credence as MLA and APA style in considering it as an author in most cases. However, writers are still encouraged to cite ChatGPT clearly and effectively in the following ways.
@@ -77,6 +92,9 @@ Emiliano Vittoriosi / Unsplash
 
  Since ChatGPT doesn't let you link to specific conversations, Chicago style argues any further linking would be ineffective for citation purposes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Why It's Important to Cite ChatGPT 
 
  Citing ChatGPT is just as important as citing textbooks, websites, authors, journalists, and other sources of information when you are collating your data to put together an article or thesis. It provides accountability for you as the author and allows anyone reviewing your work to trace your sources properly.  

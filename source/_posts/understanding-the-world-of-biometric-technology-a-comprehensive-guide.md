@@ -1,7 +1,7 @@
 ---
 title: "Understanding the World of Biometric Technology: A Comprehensive Guide"
-date: 2024-08-02 12:41:13
-updated: 2024-08-05 11:47:23
+date: 2024-08-05T02:07:16.672Z
+updated: 2024-08-06T02:07:16.672Z
 categories:
   - BestProducts
 description: "This Article Describes Understanding the World of Biometric Technology: A Comprehensive Guide"
@@ -23,10 +23,16 @@ Close
 
  In fact, many of us already use biometrics now in the[ forms of our fingerprints](https://www.lifewire.com/understanding-finger-scanners-4150464) and our faces.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Biometrics Are Used in Daily Life 
 
  Although biometrics has been used by various industries for decades, modern tech has helped it gain more public awareness. For example, many of the latest smartphones feature fingerprint scanners and/or[ facial recognition](https://www.lifewire.com/how-facial-recognition-is-learning-to-read-masked-faces-5089684) to unlock devices.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Eye overlaid with a computer-generated retina scanner](https://www.lifewire.com/thmb/PbK4vRFrhiDsli6CECK91rgASfs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/eyeretinascanner-30543474ba0340338d038bab9442da7f.jpg) 
 
  Anthony Lee / Getty Images 
@@ -39,6 +45,9 @@ Close
 
  However, the collection, storage, and handling of biometric data (particularly with regards to consumer tech) often brings up concerns about personal privacy, security, and identity protection.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Biometric Types and Screening Characteristics 
 
  There are a number of biometric characteristics in use today, each with different means of collection, measurement, evaluation, and application. Physiological characteristics used in biometrics relate to the_shape and/or composition_ of the body. Some examples are (but not limited to):
@@ -70,8 +79,15 @@ Close
 
  These factors also help determine if one biometric solution may be better to apply in a situation than another. But cost and the overall collection process are also considered. For example, fingerprint and face scanners are small, inexpensive, fast, and easy to implement into mobile devices. This is why smartphones feature those instead of hardware for analyzing body odor or vein geometry!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  How Biometrics Work in Everyday Life 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A thumb in the process of recording a print with black ink](https://www.lifewire.com/thmb/lb87r1wJMdq1q8wkKjYUpAyKYsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-680792625-5a0f120547c2660037ff8cdf.jpg) 
 
  Law enforcement agencies regularly collect fingerprints to help establish crime scenes and identify individuals.  MAURO FERMARIELLO/SCIENCE PHOTO LIBRARY / Getty Images 
@@ -98,6 +114,9 @@ Close
 
 ##  Biometric Identification vs. Authentication (Verification) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A close up of hands holding smartphones using biometric access for mobile banking apps](https://www.lifewire.com/thmb/tRyYGEDb1mQpT__SniNb5GInrbU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-657174560-5a0f125f89eacc0037a6bbc6.jpg) 
 
  Fingerprint scanners are a growing type of security feature to be incorporated in mobile devices.  mediaphotos / Getty Images 

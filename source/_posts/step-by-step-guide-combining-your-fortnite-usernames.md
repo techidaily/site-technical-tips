@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Combining Your Fortnite Usernames"
-date: 2024-08-02 13:49:28
-updated: 2024-08-05 12:23:15
+date: 2024-08-05T02:07:32.422Z
+updated: 2024-08-06T02:07:32.422Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Combining Your Fortnite Usernames"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/d16299364ff8a12ac1730983e510ad0f5d0273900
 ---
 
 ## Step-by-Step Guide to Reversing Videos on Snapchat - Learn How Today
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * First, record a new video snap in the Snapchat app. Be sure to keep it under 10 seconds.
@@ -18,23 +21,47 @@ thumbnail: https://thmb.techidaily.com/d16299364ff8a12ac1730983e510ad0f5d0273900
 
  You can apply various effects to both photo and video snaps on[Snapchat](https://www.lifewire.com/snapchat-trends-3485994) , including one that plays your video snap in reverse. Follow these instructions to learn how to reverse video snaps before sending them off to friends or posting them to your stories.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Reverse a Video Snap
 
  Reversing a video snap is as easy as[applying a filter](https://www.lifewire.com/apply-snapchat-filters-4157939) to it. You can do this in both the iOS and Android versions of the Snapchat app using the same steps.
 
 1. Record a new video snap in the app by tapping and holding the**record** button. Your video must be less than 10 seconds for the reverse filter to be available.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Note  
 
  You can apply the reverse filter effect only to videos that you've recorded on Snapchat. You won't be able to reverse video snaps from videos you[uploaded to Snapchat from your device](https://www.lifewire.com/upload-saved-photos-or-videos-to-snapchat-4103878) .
 2. **Swipe left** on your video snap preview to browse through the filters until you see three reverse arrows (<<<) appear over your video. It applies to the reverse video filter, which will automatically play your video in reverse as a preview. Any sound in the video will also play in reverse.  
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Steps to take to reverse a video on Snapchat with the record button and Reverse Filter icon highlighted](https://www.lifewire.com/thmb/fC-N-GZHtzhS6HfpjU3plsvT7c4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/123Reversesnapchat-21fd401ccb4347e3ab99f6189284d3a6.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Tip  
 
  The reverse video filter is about the eighth filter when swiping to the left. You can find the reverse filter by swiping right through filters, but that will take you longer to get to it. Some filters let you speed up your video snap (**rabbit** filter) or slow it down (**snail** filter).
 3. Optionally, add more effects (text, stickers, drawings, etc.) to your video snap. Tap**Send To** to send it to friends and/or post it to your stories.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## When to Apply the Reverse Filter on Video Snaps
 
  Reversing your video snaps is a fun way to showcase a series of events backward. This filter is often best applied to action-packed videos.

@@ -1,7 +1,7 @@
 ---
 title: Is There A Free Version Of Microsoft Word Available Online?
-date: 2024-08-03 16:24:38
-updated: 2024-08-06 12:58:43
+date: 2024-08-05T02:07:28.127Z
+updated: 2024-08-06T02:07:28.127Z
 categories:
   - BestProducts
 description: This Article Describes Is There A Free Version Of Microsoft Word Available Online?
@@ -86,6 +86,9 @@ PHOTO: Amazon
 
  The sturdy four-post design ensures that everything will stay in place, with an 881-pound weight capacity, and you can either floor-mount it in your server room or use the included four casters to keep it more mobile, although the 82-inch height means that you likely won’t be able to move it from room to room.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Best Wall Mount
 
 [Navepoint 12U](https://www.amazon.com/dp/B00JZVUDLQ/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB00JZVUDLQ)
@@ -140,6 +143,9 @@ PHOTO: Amazon
 
  The open nature of the Startech 25U does mean there's no security at the rack level, so it's best for an already secure area. Ultimately, the Startech 25U offers excellent storage in a not-too-large package, but it's still within industry rack standards, so it'll fit most equipment.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Cabinet Enclosure
 
 [Tripp Lite SRW6U](https://www.walmart.com/ip/SRW6U-SmartRack-6U-Low-Profile-Switch-Depth-Wall-Mount-Rack-Enclosure-Cabinet/23502131)
@@ -223,6 +229,9 @@ PHOTO: Walmart
 
  The open design makes it easy to access cabling and equipment, yet the posts are made of high-quality cold-rolled steel for ultimate durability. The only catch with this one is that it's so tall that you'll want to ensure you have enough clearance above it for air circulation, and depending on your server room layout and what you mount in it, you may need to bolt it down to keep it from tipping over.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Floor-Standing
 
 [Navepoint 25U](https://www.amazon.com/Navepoint-Professional-2-Post-Server-Network/dp/B00BTRCW3Q/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB00BTRCW3Q)
@@ -263,12 +272,18 @@ PHOTO: Amazon
 
  Hero Images / Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### **Why Buy a Network Server Rack?**
 
  You may think that network server racks are the kind of equipment that only large enterprise organizations need. After all, they bring to mind images of sprawling data centers, with endless rows of servers and other networking gear lined up like a robot army, and there's certainly no doubt that organizations with that kind of equipment need a way to keep it all properly and efficiently organized and managed.
 
  However, even small businesses can benefit from a server rack to keep their equipment organized and uncluttered while ensuring its safety and security. A good network server rack or enclosure will provide enough room for the equipment that you need while keeping both your gear and the accompanying cables out of harm's way, and they're not just for dedicated server rooms either; in fact, if you have your servers and network equipment in a shared space like a supply room or utility closet, a good server rack or enclosure can be even more critical. We can't count the stories we've heard where a delivery person or office worker has brought down an entire company's network by tripping over a cable.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Size and Type of Equipment**
 
  The first and most obvious thing you'll want to consider is how much you want to put into your rack, not just now but into the future.
@@ -283,6 +298,9 @@ PHOTO: Amazon
 
  Lastly, rack_width_ is standard, with almost all server and network equipment racks at 19 inches wide. Whether you're mounting larger servers or network switches, if they're rack-mountable, they'll all come in the same width.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### **Rails**
 
  Many rack-mountable servers offer the option to be mounted using rails. In this configuration, a pair of standard rails are mounted to the rack, screwed into all four posts, and then the server, which has the corresponding rails mounted on the sides, slides into the rack, just like a drawer going into a cabinet.
@@ -291,6 +309,10 @@ PHOTO: Amazon
 
  Using rails also allows you to efficiently access your servers for maintenance and upgrades simply by sliding them out like a drawer, which is especially important when you have more than two or three servers in a rack since it's much more of a hassle to have to unmount a server completely when all you need to do is upgrade some RAM or change a hard drive.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![Cables connected to an internet server](https://www.lifewire.com/thmb/6x-gscBbM80wErSJGlLp98lz_Ys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1082815270-5a4cd9fb94c04dfd96fadbb026d84463.jpg)
 
  Alextov via Getty Images
@@ -301,6 +323,9 @@ PHOTO: Amazon
 
  Most racks can also be secured to a wall or floor for added stability, which you should consider doing, especially with taller racks. Still, on the other hand, if you have the space and a relatively isolated area, some racks offer support for wheels to allow you to move them around your server room when necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Cooling Options**
 
  In considering where your rack will be located, remember that computer equipment generates a lot of heat, and the more you have, the hotter it gets. If you have a climate-controlled server room, then an open rack will be fine, but since most small businesses can't afford to dedicate a whole room just for networking equipment, you'll probably need to give this a bit more thought.
@@ -341,6 +366,9 @@ PHOTO: Amazon
 
  The good news is that threaded racks use standard-sized screws, so it's not too hard to find more screws should you need them down the road, but make sure you know what you're getting with the rack itself so that you know what else you'll need to have everything ready to install once it arrives.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### **Top Brands**
 
 **Navepoint**
@@ -359,6 +387,9 @@ PHOTO: Amazon
 
  If you’re installing servers into a rack, you’ll also want to add a keyboard and a monitor. While you can use a shelf for this if you have the space, rack-mountable keyboard trays and even flatscreen LCD panels can fold down into a 1U rack space when not in use.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A young network administrator looks at a server rack.](https://www.lifewire.com/thmb/79BQVP2qDwj-SidNe_AGPqbL8Oc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-719877855-5a99f44dba61770037a02ede.jpg)
 
  If you’re looking to install more than a few servers, you’ll also want to consider adding a keyboard-video-mouse (KVM) switch into the mix so you can easily switch between controlling different servers without juggling multiple keyboards and screens.

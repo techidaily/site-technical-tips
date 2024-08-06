@@ -1,7 +1,7 @@
 ---
 title: Curious About Your Audience? Pinpoint Visitors for Any Shared Google Document Here
-date: 2024-08-03 22:17:44
-updated: 2024-08-05 12:36:26
+date: 2024-08-05T02:07:31.907Z
+updated: 2024-08-06T02:07:31.907Z
 categories:
   - BestProducts
 description: This Article Describes Curious About Your Audience? Pinpoint Visitors for Any Shared Google Document Here
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/347a25eb4f4bdd698c061d29a22709a4fba3cca9f
 ---
 
 ## Curious About Your Audience? Pinpoint Visitors for Any Shared Google Document Here
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Select the **Activity dashboard** icon (jagged arrow) on the top right.
@@ -18,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/347a25eb4f4bdd698c061d29a22709a4fba3cca9f
 
  This article explains how to see who has viewed a document you’ve shared in Google Docs. This check is handy for making sure everyone who is supposed to review the document does so. The feature is available to[Google Workspace](https://www.lifewire.com/what-is-g-suite-4686959) subscribers using a business, enterprise, education, or nonprofit plan.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## See Who Viewed a Google Doc
 
  To see who has viewed a document,[visit Google Docs](https://docs.google.com/) and sign in with your Google account. Then, open the document.  
@@ -40,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/347a25eb4f4bdd698c061d29a22709a4fba3cca9f
 
 ![All Viewers highlighted in the Activity Dashboard](https://www.lifewire.com/thmb/UeEIkxsvAeTMYWv0pVzHE-M8fBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ViewTrend-86a1d4df7ab842f89348da5b37b03576.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Don’t See Any Viewing Activity?
 
  If you don't see any Viewers and believe you should, consider these reasons.
@@ -50,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/347a25eb4f4bdd698c061d29a22709a4fba3cca9f
 * The people you expect to view the document might have opted out of displaying their View History (see below).
 * You or the Admin may have View History turned off (see below).
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Turn on Activity Dashboard View History
 
  If you are the Admin for the Google account and want to be sure that you have View History turned on for Google Docs,[visit your Google Admin Console](https://admin.google.com/) and log in.  
@@ -58,9 +70,15 @@ thumbnail: https://thmb.techidaily.com/347a25eb4f4bdd698c061d29a22709a4fba3cca9f
 2. Scroll down to and select **Activity dashboard settings** .  
 ![Activity Dashboard Settings highlighted in the Admin console](https://www.lifewire.com/thmb/SNvzb0A93xucOZeGWmy-K7IJIzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ActivityDashboard-f8b9c4ccf2cd49b09fc48d58b48862d7.jpg)
 3. Confirm that**Users’ view history** is turned on. If not, click the **edit** icon (pencil) to the right, choose **On (recommended)** and click **Save** .  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Users' View History turned on in the Admin console](https://www.lifewire.com/thmb/BxokFwEg-UVGYlVp8dUELu73h1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/UsersViewHistory-b95295a4ec8c41d7b4248c00bacdaa33.jpg)  
  Depending on your workspace, you may see the option able to turn on**Access to view history** for other users to see Viewers and Viewer Trends in the Activity Dashboard.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Turn on Individual View History
 
  To help someone you expect to review the document display their View History or to display yours,[open the document in Google Docs](https://www.lifewire.com/open-google-docs-5089238) and follow these steps.  

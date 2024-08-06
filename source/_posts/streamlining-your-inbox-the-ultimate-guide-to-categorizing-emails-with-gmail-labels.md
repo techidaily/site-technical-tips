@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Your Inbox: The Ultimate Guide to Categorizing Emails with Gmail Labels"
-date: 2024-08-03 10:36:16
-updated: 2024-08-05 10:54:35
+date: 2024-08-05T02:07:33.178Z
+updated: 2024-08-06T02:07:33.178Z
 categories:
   - BestProducts
 description: "This Article Describes Streamlining Your Inbox: The Ultimate Guide to Categorizing Emails with Gmail Labels"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 ---
 
 ## Streamlining Your Inbox: The Ultimate Guide to Categorizing Emails with Gmail Labels
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Add a label: Open a message or select one (or several) from the inbox. In the toolbar, choose the**Labels** icon.
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 3. Go to the toolbar and select the**Labels** icon.  
 ![Labels icon in Gmail](https://www.lifewire.com/thmb/_Bhn7OTQwV0gx19m6I8Xx7Q0YNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-organize-and-categorize-messages-with-labels-in-gmail-1171996-15081382bfcd4be0a029562910f561a5-decf5077f77b4cfc99203dfa2b51da8f.jpg)
 4. In the**Label As** dialog box, select the label you want to apply. Choose**Create New** to make and apply a new label.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Work label in Gmail](https://www.lifewire.com/thmb/Udb86CB8gQANLwOabSbiiRtItNo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-organize-and-categorize-messages-with-labels-in-gmail-1171996-b8dbc15101ba41c282102cd6ea7fb6d5-d3d6892ba2544920a2000b63bc509203.jpg)
 
 [Gmail](https://www.lifewire.com/create-labels-as-and-when-you-need-them-in-gmail-1172040)
@@ -38,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 
  The Label As dialog box includes a link to**Manage Labels** , which is a shortcut to the Labels screen of the Gmail Settings menu. Either click that link, or go to**Settings** \>**Labels** . If you're already logged in to your Gmail account, you can go directly to your[Gmail Labels Settings](https://mail.google.com/mail/u/0/#settings/labels) .
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Labels and Settings gear highlighted in Gmail](https://www.lifewire.com/thmb/0JhSYpVwqU6SfKJC8WrjCsMZD4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-organize-and-categorize-messages-with-labels-in-gmail-1171996-6e6878b5616c4192a3cf9e044238ce59.jpg)
 
  At the bottom of the settings screen, you'll see your custom labels. Select**Create New Label** to add a new label to the list.
@@ -53,14 +62,23 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 
 ![Create New Label in Gmail Settings](https://www.lifewire.com/thmb/ldPJXfFBhOJrYphI3IJfRalkf5k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_how-to-organize-and-categorize-messages-with-labels-in-gmail-1171996-45ca8034469e4f349468965240d97529.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Manage Gmail Labels
 
  To edit or delete Gmail labels:
 
 1. Go to the**Folders** pane and select the label you want to manage.
 2. Select the**More** button to the right of the label name.  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Three dot menu to the right of Label name in Gmail](https://www.lifewire.com/thmb/kg7IXLzbIeSWZY-1pLKEXtAqEkU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-organize-and-categorize-messages-with-labels-in-gmail-1171996-a56e65f921bc4a8c8a49c0184387ffdc-e2954cc92b8d44d9b4c1b4ef35f5ce9b.jpg)
 3. Choose the feature you want to change, such as the label color. Or, select**Edit** to change the label name or nest it under another label.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Edit label dialog in Gmail](https://www.lifewire.com/thmb/EXIxn7NpecPMDoPFFYYnCyMFcQs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-organize-and-categorize-messages-with-labels-in-gmail-1171996-3d7c99105ac34dd4ac6b85e97086a127-88695851798e4cf6b27ee772c1f10f08.jpg)
 4. Select**Save** to apply the changes.
 5. Choose**Remove Label** from the**More** menu to delete a label.

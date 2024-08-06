@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Sony VR Gear: Pricing Insights, Scheduled Release, Detailed Features & Latest Buzz"
-date: 2024-08-05 12:54:22
-updated: 2024-08-06 12:55:15
+date: 2024-08-05T02:07:08.188Z
+updated: 2024-08-06T02:07:08.188Z
 categories:
   - BestProducts
 description: "This Article Describes Upcoming Sony VR Gear: Pricing Insights, Scheduled Release, Detailed Features & Latest Buzz"
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8ce
 
  In January, Sony announced a partnership with Siemens to develop an industrial headset for engineers and 3D content creators. This Sony-Siemens pro-grade collaboration is tentatively scheduled to arrive later this year. Here’s what else we know about the Sony VR headset release date, features, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ##  When Will the Sony VR Headset Be Released? 
 
  The[ CES 2024](https://www.lifewire.com/ces-news-and-everything-else-to-know-5090178) unveiling of the Sony-Siemens partnership came with a general timeline for their Extended Reality (XR) head-mounted display (HMD): later this year. 
@@ -34,16 +37,25 @@ thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8ce
 
  We expect to see the Sony VR Headset by December 2024 at the latest.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ##  Sony VR Headset Price Rumors 
 
  There’s no word from Sony or Siemens about pricing, but this headset has been emphasized as a pro model for creators and engineers in the industrial metaverse.
 
  In that respect, it seems more likely to rival the[ Apple Vision Pro](https://www.lifewire.com/apple-vision-pro-2-8612550) (with a $3,499 starting price) than the more mid-tier[ Meta Quest 3](https://www.lifewire.com/oculus-quest-3-news-specs-rumors-5220120) , which starts at $599.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  Pre-ordering isn’t available yet, but we’ll be sure to include links and details here. You can also sign up for launch updates directly from Siemens.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## Sony VR Headset Features 
 
  Sony presented prototypes of its VR headset at CES 2024, and a recent[ Siemens press release](https://newsroom.sw.siemens.com/en-US/siemens-rl24-sony-siemens-nx/) confirms one important detail of the partnership: The headset was developed with and exclusively uses Siemens’ Xcelerator engineering software—specifically its new NX Immersive Designer product, which will also be available when the headset launches.
@@ -55,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8ce
 * **Head and hand tracking** : Four trackers gather spatial information.
 * **Lightweight, adjustable design** : The headset is balanced front to back, is adjustable forward and backward, and accommodates glasses. It also has forehead padding, and the front panel lifts up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![Rendering of 3D modeling while wearing the Sony VR Headset and using the ring controller.](https://www.lifewire.com/thmb/4xyJFjIlj-e9RXY9KmMJ5hQAlvg=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/sony-siemens-xcelerator-rl24-newsroom-01-1280x720-dcad4516a8e54fbe86c918fd395959ca.jpeg) 
 
 Sony
@@ -73,6 +88,9 @@ Sony
 
  As more details take shape about the release and availability of this Sony VR headset for content creators and professionals, you can find them here.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Latest News About the Sony VR Headset 
 
  You can get more[ tech news from Lifewire](https://www.lifewire.com/news-4795879) , including a few stories of interest about Sony.

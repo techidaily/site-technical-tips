@@ -1,7 +1,7 @@
 ---
 title: "Stop Spam, Start Secure Communications: The Ultimate Guide to Using Gmail's Whitelist Feature"
-date: 2024-08-05 19:30:57
-updated: 2024-08-06 11:29:50
+date: 2024-08-05T02:07:15.397Z
+updated: 2024-08-06T02:07:15.397Z
 categories:
   - BestProducts
 description: "This Article Describes Stop Spam, Start Secure Communications: The Ultimate Guide to Using Gmail's Whitelist Feature"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
 ---
 
 ## Stop Spam, Start Secure Communications: The Ultimate Guide to Using Gmail's Whitelist Feature
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What To Know
 
 * **Gear** \>**Settings** \>**Filters...Addresses** \>**Create...** \> Add the address to**From** \>**Create filter** . Check**Never... Spam** , and press**Create filter.**
@@ -22,12 +25,33 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
  The way to mark a specific email address or domain as allowed is to make an email filter.
 
 1. Open Gmail. In the upper-right corner, select the**Settings** (gear) icon. From the menu, choose**Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![Settings menu item in Gear icon for Gmail](https://www.lifewire.com/thmb/WlAG3HUR1Wh7gcE0q5RvutAP2pk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faa8246e0fb0001171827.jpg)
 2. Select**Filters and Blocked Addresses** .  
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filters and Blocked Addresses tab in Gmail](https://www.lifewire.com/thmb/_9xw1NUAlMHL7bAlPahggss4cK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faaa046e0fb0001ebdc0d.jpg)
 3. Select**Create a new filter** . If you already have many filters, you'll have to scroll down to find this link.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Create a new filter link in Gmail Settings](https://www.lifewire.com/thmb/Z8V002m1EnNEr2YpSfPZ7gQVu08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faab746e0fb0001684468.jpg)
 4. A dialog box appears. In the**From** field, type the email address you want to allow. Be sure to type the full email address, like**<example@yahoo.com>** . To allow every email address from a particular domain, type just that domain name, like**@yahoo.com** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Create filter button in Gmail Settings](https://www.lifewire.com/thmb/29dJifNpYRnjrjyXfT4lLR8fBlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faad846e0fb0001d3e73e.jpg)
 5. At the bottom of the dialog box, select**Create filter.**
 6. On the next screen, tell Gmail what to do with the email address or domain you just indicated. To do so, select**Never send it to Spam** . To finish the process, select**Create filter** .  
@@ -43,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd8947
 ![Filter messages like this menu option in Gmail](https://www.lifewire.com/thmb/8uMlTsSswTb_qf_FGt5Ph6hiALg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faa5f46e0fb0001ebcc4f.jpg)
 3. With the email address now auto-filled for you in the**From** field, follow steps 5 and 6 above.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Additional Gmail Filtering Tips
 
  When creating filters in Gmail, keep these additional points in mind.

@@ -1,7 +1,7 @@
 ---
 title: "PlayStation Portal Info Sorted: D-Day, Pricing Details, Specs & Buying Guide Revealed"
-date: 2024-08-03 23:51:41
-updated: 2024-08-06 11:37:47
+date: 2024-08-05T02:07:31.629Z
+updated: 2024-08-06T02:07:31.629Z
 categories:
   - BestProducts
 description: "This Article Describes PlayStation Portal Info Sorted: D-Day, Pricing Details, Specs & Buying Guide Revealed"
@@ -22,12 +22,18 @@ thumbnail: https://thmb.techidaily.com/42900d3cd2ac79478a2e9a5f62d92e59b26835c36
 
  Since[the latest Samsung Galaxy phones](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) were launched just this year, there's not a lot in the way of Galaxy S25 leaks. Nevertheless, we have some ideas about this upcoming smartphone pair and will keep this page updated as we uncover new rumors and leaks throughout the year.  
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## When Will the Samsung Galaxy S25 Be Released?
 
  Samsung consistently releases its Galaxy S series phones during the first half of each year. With a track record of unveiling new models every year since 2010, there's no need for speculation about the arrival of new Samsung phones.
 
  Since the Galaxy S24 debuted in 2024, we can expect the Galaxy S25 and S25+ to land in 2025.  
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 January or February 2025 is our best guess right now.
@@ -70,18 +76,36 @@ January or February 2025 is our best guess right now.
 
  Aside from the possibility of some slight design changes (that's all we've heard; no details yet), here are the bigger changes we're looking forward to:  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### Newer Processor
 
  The next Samsung Galaxy phones will likely be powered by the Qualcomm Snapdragon 8 Gen 4 in the US and the Exynos 2500 everywhere else. The Qualcomm processor[is said to support faster RAM](https://wccftech.com/lpddr6-support-for-snapdragon-8-gen-not-for-a18-pro/) , which will be much needed as on-device AI continues to work its way into these phones.
 
  We're not yet sure how much RAM these phones could be packing, but we're hoping the base model has 12 GB and the Plus model increases to 16 GB. More RAM means that AI can work faster because it can run some of its operations locally, and other phone functions will also benefit.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Larger Displays
 
 [If this rumor is true](https://twitter.com/TheGalox%5F/status/1782058803468423431) , next year's phones could be a little bigger. The X/Twitter post states that the Galaxy S25 will increase from a 6.2-inch display to a 6.36-inch one. It's not a_huge_ change, but it could usher in more than just a bigger screen.
 
  The Galaxy S25+ could be bigger, too, but we haven't seen any supporting leaks. The current model is 6.7 inches and we don't see that changing unless the Galaxy S25 Ultra_also_ increases in size, since it's already 6.8 inches.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Better Image Quality
 
  A larger phone, overall, means Samsung could stuff a bigger battery into the phone or work in some different cameras. Currently, Samsung and other phone makers use Samsung's ISOCELL sensor for their phone cameras.
@@ -98,6 +122,9 @@ January or February 2025 is our best guess right now.
 * The S24 supports fast wired charging at 25W, which is a bit slower than similar devices like the Pixel 8 which is rated for 27W. We haven't seen any leaks about this changing next year, but we can still hope for the best.
 * The S25 phones could follow Google's lead with the[Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) and support Qi2, the next version of the[Qi wireless charging standard](https://www.lifewire.com/qi-wireless-charging-4151894) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## The Latest News About Samsung Galaxy S25
 
  You[read more smartphone news here at Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Below are some of those stories and more about Samsung and Android specifically.

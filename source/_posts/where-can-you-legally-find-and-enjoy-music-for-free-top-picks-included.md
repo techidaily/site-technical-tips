@@ -1,7 +1,7 @@
 ---
 title: Where Can You Legally Find & Enjoy Music for Free? Top Picks Included
-date: 2024-08-04 10:47:23
-updated: 2024-08-05 10:40:59
+date: 2024-08-05T02:07:08.560Z
+updated: 2024-08-06T02:07:08.560Z
 categories:
   - BestProducts
 description: This Article Describes Where Can You Legally Find & Enjoy Music for Free? Top Picks Included
@@ -23,11 +23,17 @@ thumbnail: https://www.lifewire.com/thmb/I7TjeRXbHwttCfpA78JmdLDKwFE=/400x300/fi
  To see who has viewed a document,[visit Google Docs](https://docs.google.com/) and sign in with your Google account. Then, open the document.  
 
 1. Select the **Activity dashboard** icon (jagged arrow) on the top right or **Tools** \> **Activity dashboard** from the menu.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Google Docs with Activity Dashboard and its Icon highlighted](https://www.lifewire.com/thmb/6h366_IuWsz8F-9uddJvUAX1F58=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ActivityDashboard2-5a823fbc319f4c3eb4e04702b3e925fe.jpg)
 2. Confirm that **Viewers** is selected on the left side.
 3. Use the **All viewers** tab on the right to see who has viewed the document. You’ll see their name and when they last viewed it.  
 ![Viewers and All Viewers in the Activity Dashboard highlighted](https://www.lifewire.com/thmb/V6MAIeOj8jrGdn4DrWoeNivd42s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Viewers-51d26efb564141b29bc474b002b448ad.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Additional Dashboard Viewing Features
 
  Select **Viewers** and use the **Shared with** tab to see everyone you have shared the document with to find out who else needs to review it.
@@ -40,6 +46,9 @@ thumbnail: https://www.lifewire.com/thmb/I7TjeRXbHwttCfpA78JmdLDKwFE=/400x300/fi
 
 ![All Viewers highlighted in the Activity Dashboard](https://www.lifewire.com/thmb/UeEIkxsvAeTMYWv0pVzHE-M8fBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ViewTrend-86a1d4df7ab842f89348da5b37b03576.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Don’t See Any Viewing Activity?
 
  If you don't see any Viewers and believe you should, consider these reasons.
@@ -56,11 +65,20 @@ thumbnail: https://www.lifewire.com/thmb/I7TjeRXbHwttCfpA78JmdLDKwFE=/400x300/fi
 
 1. In the left-hand navigation, expand **Apps** \> **Google Workspace** and select **Drive and Docs** .
 2. Scroll down to and select **Activity dashboard settings** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Activity Dashboard Settings highlighted in the Admin console](https://www.lifewire.com/thmb/SNvzb0A93xucOZeGWmy-K7IJIzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ActivityDashboard-f8b9c4ccf2cd49b09fc48d58b48862d7.jpg)
 3. Confirm that**Users’ view history** is turned on. If not, click the **edit** icon (pencil) to the right, choose **On (recommended)** and click **Save** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Users' View History turned on in the Admin console](https://www.lifewire.com/thmb/BxokFwEg-UVGYlVp8dUELu73h1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/UsersViewHistory-b95295a4ec8c41d7b4248c00bacdaa33.jpg)  
  Depending on your workspace, you may see the option able to turn on**Access to view history** for other users to see Viewers and Viewer Trends in the Activity Dashboard.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Turn on Individual View History
 
  To help someone you expect to review the document display their View History or to display yours,[open the document in Google Docs](https://www.lifewire.com/open-google-docs-5089238) and follow these steps.  

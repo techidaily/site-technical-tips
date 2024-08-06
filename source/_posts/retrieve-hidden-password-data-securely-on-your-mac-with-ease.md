@@ -1,7 +1,7 @@
 ---
 title: Retrieve Hidden Password Data Securely on Your Mac with Ease
-date: 2024-08-04 23:47:43
-updated: 2024-08-06 10:43:47
+date: 2024-08-05T02:07:11.034Z
+updated: 2024-08-06T02:07:11.034Z
 categories:
   - BestProducts
 description: This Article Describes Retrieve Hidden Password Data Securely on Your Mac with Ease
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/CuZaYIa-IPn9NpzxED8qCE9z2w0=/400x300/fi
 ---
 
 ## Efficiently Batch Edit Your Gmail Conversations with This Simple Selection Trick
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * To select every email, click the**checkbox** above the messages, then click**Select all \[#\] conversations** .
@@ -18,15 +21,24 @@ thumbnail: https://www.lifewire.com/thmb/CuZaYIa-IPn9NpzxED8qCE9z2w0=/400x300/fi
 
  This article explains how to select every Gmail email at once from the desktop website. Doing so lets you apply a new label to the selected messages, bulk-delete emails,[mark them as read](https://www.lifewire.com/how-to-mark-email-read-in-gmail-1171945) , and more.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Select All Emails in Gmail
 
  Once you find the emails you want to manage, highlighting all of them is a simple, two-step process.
 
 1. Click the label that has the emails you want to select. For example, to select every email in your Gmail Inbox, click**Inbox** .
 2. Right below the search bar and above your emails, click the**checkbox** to select all the messages that are currently displayed. Or, select the**arrow** next to this checkbox to choose the types of emails to be selected, such as Read, Unread, Starred, or Unstarred.  
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Select All button in Gmail](https://www.lifewire.com/thmb/nDxAo7ifTPWhhJHpwNwtDS2jSIk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_select-all-messages-in-a-gmail-label-collection-or-search-1172098-5baea535c9e77c002636c2bc.jpg)  
  At this point, you have only selected the messages that are visible on the screen.
 3. To select every email in Gmail, including those that are not currently displayed, look at the top of your email list for an additional button, and select it. It look like this:**Select all \[#\] conversations in \[label\]** .  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![A list of emails selected in Gmail](https://www.lifewire.com/thmb/4VAxqfY1MDMB8VrzP3z18uSp99Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-all-gmail-messages-59c38ca927ab46cbb225ebda805c03cc.png)
 
 ## How to Select All Gmail Emails From a Search
@@ -38,8 +50,14 @@ thumbnail: https://www.lifewire.com/thmb/CuZaYIa-IPn9NpzxED8qCE9z2w0=/400x300/fi
 1. Run the search to find the messages you're looking for.
 2. Click the**checkbox** above the search results to select all the messages.
 3. Click**Select all conversations that match this search** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Gmail emails highlighted from a search](https://www.lifewire.com/thmb/n2qAQZOsSxNaeRsOvsrHDnmIFoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-all-conversations-match-search-b3214279e6b44aa89ebcfb82199b23f9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## What You Can Do With Selected Emails
 
  Anything you can do with a single email, Gmail lets you do with a selection of messages. Here are some actions you can take when you select lots of emails at once:

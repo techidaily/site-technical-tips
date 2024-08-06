@@ -1,7 +1,7 @@
 ---
 title: "Locating Your MacBook's Serial and Model Numbers: A Step-by-Step Guide"
-date: 2024-08-02 13:19:47
-updated: 2024-08-05 10:24:36
+date: 2024-08-05T02:07:32.084Z
+updated: 2024-08-06T02:07:32.084Z
 categories:
   - BestProducts
 description: "This Article Describes Locating Your MacBook's Serial and Model Numbers: A Step-by-Step Guide"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/f0a710f8b121815cf9221ed63e6d5399bb71fd342
 ---
 
 ## Locating Your MacBook's Serial and Model Numbers: A Step-by-Step Guide
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Easiest method: It's printed on the bottom of the laptop.
@@ -24,8 +27,16 @@ thumbnail: https://thmb.techidaily.com/f0a710f8b121815cf9221ed63e6d5399bb71fd342
 
  The same area will contain your MacBook's serial number, which can get you even more information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Back of MacBook showing the Model number](https://www.lifewire.com/thmb/jjmqzmSbA6Dn232UwF_2XkH_P08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-find-macbook-model-number-5119867-5dd73da00e5145428592ef0dfa52f541.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Use About This Mac to Find Model Information
 
  If you have trouble seeing the tiny letters on the MacBook case, you can find information on your Mac elsewhere.
@@ -36,14 +47,26 @@ thumbnail: https://thmb.techidaily.com/f0a710f8b121815cf9221ed63e6d5399bb71fd342
 ![Model information on a MacBook](https://www.lifewire.com/thmb/fT8tOW27ph78e6DRyNrwLma6998=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-find-macbook-model-number-5119867-0d31584fc8ac4062a5a9dab590773bbf.jpg)  
  You can also find your MacBook's serial number on this screen.
 3. The type and year information should be as good as a model number to get the information you need about your computer. But if you want further information, click**System Report** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![System Report on the About This Mac screen](https://www.lifewire.com/thmb/mK-o-a6lLz8bWTjYlmTuAK4Y-5k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-find-macbook-model-number-5119867-aa6e196c802f45cabc332be5630a4653.jpg)
 4. Make a note of the**Model Identifier** on the next screen.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Model Identifier for a MacBook](https://www.lifewire.com/thmb/GzZsdHSLYcGE_uD2QMVdR9ONWRw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-find-macbook-model-number-5119867-ad21e94da0334f4c8601b2539d0744f5.jpg)
 5. Now, go to Apple's support site to get the model number. You'll go to a different page depending on whether you own a[MacBook](https://support.apple.com/en-us/103257) ,[MacBook Air](https://support.apple.com/en-us/102869) , or[MacBook Pro](https://support.apple.com/en-us/108052) .
 6. Search for your Model Identifier on this page; underneath it, you'll see entries under a**Part Numbers** heading.  
 ![Part Numbers for a MacBook Pro](https://www.lifewire.com/thmb/MOYYdi0rH4I6DDHIn8SbrSjG1_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-find-macbook-model-number-5119867-367cbb369d1e40a5870ae0ad736bbb1d.jpg)  
  The Part Numbers entries are not the model number of your MacBook, but they are specific to each type. Technicians usually use this information when they're making repairs.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## Why Would You Want Your MacBook's Model Number?
 
  The model information of your MacBook can help you do several things. For example, to[upgrade the memory or storage](https://www.lifewire.com/macbook-pro-upgrade-guide-2260172) , you want to make sure you're getting RAM or other hardware compatible with your machine.

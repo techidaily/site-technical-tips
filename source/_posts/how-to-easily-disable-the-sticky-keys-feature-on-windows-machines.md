@@ -1,7 +1,7 @@
 ---
 title: How to Easily Disable the Sticky Keys Feature on Windows Machines
-date: 2024-08-04 21:18:13
-updated: 2024-08-06 11:45:30
+date: 2024-08-05T02:07:40.930Z
+updated: 2024-08-06T02:07:40.930Z
 categories:
   - BestProducts
 description: This Article Describes How to Easily Disable the Sticky Keys Feature on Windows Machines
@@ -21,6 +21,10 @@ Close
 
  This article explains how to undo Sticky Keys in Windows 11, Windows 10, Windows 8, and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  How to Turn Sticky Keys off in Windows 11 & 10 
 
  The quickest way to turn off Sticky Keys is to press**Shift** five times. Another way is to press any two keys simultaneously, such as**Ctrl** +**Alt** .
@@ -28,13 +32,22 @@ Close
  Here's how to disable Sticky Keys with the Settings app:
 
 1. Open**Settings** . It's accessible through a search in the Start menu or via the[ hidden Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) (right-click the Start button to find it).  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Windows 10 Start menu with Settings highlighted](https://www.lifewire.com/thmb/XPHubFVFI7qPNFPis_rzSjs43HY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-change-default-download-location-windows-10-4587317-ed009e660cfd4b54bc5c46e959e80d33.jpg)
 2. Go to**Accessibility** \>**Keyboard** in Windows 11, or**Ease of Access** \>**Keyboard** in Windows 10.  
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![The Ease of Access category](https://www.lifewire.com/thmb/z_kqWyAg-_UTZGXiXkPeXb9WapY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-turn-off-sticky-keys-windows-4692841-840a6b1cb7db4b70895ba6637346c0b8.jpg)
 3. Select the toggle next to**Sticky Keys** (Windows 11) or**Use Sticky Keys** (Windows 10) to set it to off.  
 ![The Sticky Keys switch](https://www.lifewire.com/thmb/XOJ32fVrt1wxHEdQDSHGfIlNgIw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-turn-off-sticky-keys-windows-4692841-3c1464a02cd44a8b9d0c6876ae676e67.jpg)  
  You can also disable the shortcut so that pressing Shift a few times doesn't enable Sticky Keys. Some other options you'll find in Settings let you disable the Sticky Keys sound and hide its icon from the taskbar.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ##  How to Turn Sticky Keys off in Windows 8 & 7 
 
  These versions of Windows also use the "press Shift five times" shortcut to enable and disable Sticky Keys. Pressing two keys at the same time will also disable it. Another way to undo Sticky Keys is through some settings:
@@ -43,9 +56,16 @@ Close
 2. Go to**Ease of Access** \>**Ease of Access Center** \>**Make the keyboard easier to use** .  
 ![The Windows 7 Ease of Access Center](https://www.lifewire.com/thmb/Rfr4zGRYCxpclHyRXkhXQtB-gIc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ease-of-access-center-windows-7-784ad0ed588c4e7fa1c537d9895a1744.png)
 3. Clear the checkbox next to**Turn on Sticky Keys** .  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The Sticky Keys settings in Windows 7 Ease of Access Center](https://www.lifewire.com/thmb/PiK5kNmkvgNDVlFyF0m7aV4cnpc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/turn-off-sticky-keys-windows-7-c4a38e1ba7db4e5a9aec36053b7fed3d.png)
 4. Select**Apply** to save.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## What Are Sticky Keys? 
 
  Every keyboard uses modifier keys, which change the function of a letter key. The one you probably use most often is**Shift** . Under normal circumstances, with Sticky Keys off, you'd need to press and hold**Shift** as you press the**8** key, for example, to create an asterisk.

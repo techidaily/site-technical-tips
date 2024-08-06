@@ -1,7 +1,7 @@
 ---
 title: What Does a 502 Bad Gateway Issue Mean? A Simple Fixing Manual.
-date: 2024-08-04 23:43:29
-updated: 2024-08-06 10:54:35
+date: 2024-08-05T02:07:35.131Z
+updated: 2024-08-06T02:07:35.131Z
 categories:
   - BestProducts
 description: This Article Describes What Does a 502 Bad Gateway Issue Mean? A Simple Fixing Manual.
@@ -12,6 +12,18 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
 ## What Does a 502 Bad Gateway Issue Mean? A Simple Fixing Manual
  The 502 Bad Gateway error is an[HTTP status code](https://www.lifewire.com/http-status-codes-2625907) that means that one server on the internet received an invalid response from another server. These errors are completely independent of your particular setup, meaning that you could see one in_any_ browser, on_any_ operating system, and on_any_ device.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix a 502 Bad Gateway Error
 
  The 502 Bad Gateway error is often a network error between servers on the internet, meaning the problem wouldn't be with your computer or internet connection.
@@ -24,13 +36,22 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
 2. Start a new browser session by closing all open browser windows and then opening a new one. Then try opening the web page again.  
  It's possible that the 502 error you received was due to an issue on your computer that occurred sometime during this use of your browser. A simple restart of the browser program itself could solve the problem.
 3. [Clear your browser's cache](https://www.lifewire.com/how-to-clear-cache-2617980) . Outdated or corrupted files that are being stored by your browser could be causing 502 Bad Gateway issues.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![Clear browsing data window in the Edge browser](https://www.lifewire.com/thmb/AQ5qU-D4syt9A7LWBY4UtSQ1pro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-clear-cache-4ce1f38e245146879a6fd7c9f16f5f4e.png)  
  Clearing the Cache in Edge.  
  Removing those cached files and trying the page again will solve the problem if this is the cause.
 4. [Delete your browser's cookies](https://www.lifewire.com/how-to-delete-cookies-2617981) . For similar reasons as mentioned above with cached files, clearing stored cookies could fix a 502 error.  
  If you'd rather not clear all of your cookies, you could first try removing only those cookies related to the site you're getting the 502 error on. It's best to remove them all but it won't hurt to try the clearly applicable one(s) first.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![Clearing cookies from Google Chrome.](https://www.lifewire.com/thmb/bAE6oIz4q8W2nV-HI9F8nmzh2Zk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-502-bad-gateway-error-82ee6d360f9449cabd07b53105da96c1.jpg)
 5. Start your browser in Safe Mode: We have instructions for[Firefox](https://support.mozilla.org/en-US/kb/troubleshoot-firefox-issues-using-safe-mode#w%5Fhow-to-start-firefox-in-safe-mode) ,[Chrome](https://www.lifewire.com/incognito-mode-google-chrome-4103635) , or[Edge](https://www.lifewire.com/activate-inprivate-in-microsoft-edge-446308) . Running a browser in Safe Mode means to run it with default settings and without add-ons or extensions, including toolbars.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Internet Explorer safe mode screenshot](https://www.lifewire.com/thmb/MhzhtwxuT7_jyefXSGdVXzblwZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/safe-mode-internet-explorer-5c62ec4b46e0fb0001f08f98.png)  
  Internet Explorer in Safe Mode.  
  If the 502 error no longer appears when running your browser in Safe Mode, you know that some browser extension or setting is the cause of the problem. Return your browser settings to default and/or selectively disable browser extensions to find the root cause and permanently fix the problem.  
@@ -49,6 +70,9 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
  See[How to Talk to Tech Support](https://www.lifewire.com/how-to-talk-to-tech-support-2619223) for tips on talking to your ISP about this problem.
 12. Come back later. At this point in your troubleshooting, the 502 Bad Gateway error message is almost certainly an issue with either your ISP or with the website's network—one of the two parties might have even confirmed that for you if you contacted them directly. Either way, you're not the only one seeing the 502 error and so you'll need to wait until the problem is solved for you.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## What Does a 502 Bad Gateway Error Look Like?
 
  Each website can customize the 502 Bad Gateway. While it's fairly uncommon, different web servers_do describe this error differently_ .
@@ -70,6 +94,9 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
 
  When Google services, like Google Search or Gmail, are experiencing a 502 Bad Gateway, they often show_Server Error_ , or sometimes just_502_ , on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Causes a 502 Bad Gateway Error?
 
  Bad Gateway errors are often caused by issues between online servers that you have no control over. However, sometimes, there is no real issue but your browser_thinks_ there's one thanks to a problem with your browser, an issue with your home networking equipment, or some other in-your-control reason.

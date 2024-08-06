@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of PC Screen Capture: A Comprehensive How-To Guide"
-date: 2024-08-03 15:31:38
-updated: 2024-08-05 12:44:11
+date: 2024-08-05T02:07:40.578Z
+updated: 2024-08-06T02:07:40.578Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Art of PC Screen Capture: A Comprehensive How-To Guide"
@@ -29,6 +29,9 @@ Close
 * **Alt** +**PrtScn:** Press these buttons at the same time to take a screenshot of a single window that you're focused on. Select the window once to make sure it's in focus, and then press these keys.
 * **Win** +**PrtScn:** Using the Windows key with the print screen button (in Windows 8 and newer) will take a screenshot of the whole screen and then save it in the default Pictures folder in a subfolder called Screenshots (e.g.**C:\\Users\\\[user\]\\Pictures\\Screenshots** ).
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ##  How to Paste or Save a Screenshot 
 
  The easiest way to save a screenshot is to first paste it into the Microsoft Paint application. It's included with Windows by default.
@@ -39,12 +42,21 @@ Close
 2. Type**mspaint** into the**Run** field, and select**Enter** .  
 ![Opening Microsoft Paint](https://www.lifewire.com/thmb/fYsJ6UVx8AAQfRLYJZOpRg0WNKY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mspaint-566c41d2e9cc4a3f942e2bd6e41de3c6.jpg)
 3. With Microsoft Paint open, and the screenshot still saved in the clipboard, use**Ctrl** +**V** to paste it into Paint, or select**Paste** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Screenshot of Paste button in Paint](https://www.lifewire.com/thmb/eY_JnmlU4nZDW3O3M9fb-WXW-rg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mspaintpaste-055a89525bb94cf8923a30a3e044df3f.jpg)
 4. Press**Ctrl** +**S** , or select **File** \>**Save as** to save the screenshot.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 !["Save as" selection in Paint](https://www.lifewire.com/thmb/jsFWbGEcpxz02bT2lKrhU9QKdlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mssaveas-3117783b3b4044e2a4e2861e24ac4b27.jpg)
 
  At this point, you may notice that the image you saved looks a bit off. If the image doesn't take up the_entire_  canvas in Paint, it will leave white space around it. To fix this, drag the bottom right corner of the canvas toward the top left of the screen until you reach the corners of your screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Take a Screenshot on PC With the Windows Snipping Tool 
 
  Another way to take screenshots is to use the[ Windows Snipping Tool](https://www.lifewire.com/windows-vista-snipping-tool-4123251) .
@@ -53,10 +65,16 @@ Close
 * In Windows 8, swipe in from the right edge of the screen, select**Search** , type**snipping tool** in the search box, and select**Snipping Tool** from the list of results.
 * In Windows 7, select the**Start** button, type**snipping tool** in the search box, and select the**Snipping Tool** from the list of results.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Screenshot of Snipping Tool](https://www.lifewire.com/thmb/gvaURFm7e70fhDRPUiHnJfiWs-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Capture-dda252c0f1e74031bd28f4705d461c47.JPG) 
 
 [ How to Use Snip and Sketch ](https://www.lifewire.com/snip-and-sketch-windows-10-4774799) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Alternatively, Download a Print Screen Program 
 
  Although Windows works great for basic screenshotting abilities, you can install both free and paid third-party applications for more advanced features like fine-tuning the screenshot by pixel, annotating it before you save it, and easy saving to a predefined location.

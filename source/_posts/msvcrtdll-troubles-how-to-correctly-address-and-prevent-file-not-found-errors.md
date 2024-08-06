@@ -1,7 +1,7 @@
 ---
 title: "MSVCRT.DLL Troubles: How to Correctly Address and Prevent File Not Found Errors"
-date: 2024-08-03 21:46:56
-updated: 2024-08-06 10:39:45
+date: 2024-08-05T02:07:22.247Z
+updated: 2024-08-06T02:07:22.247Z
 categories:
   - BestProducts
 description: "This Article Describes MSVCRT.DLL Troubles: How to Correctly Address and Prevent File Not Found Errors"
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/b1e13c65cf79c8bfe0a90a1ea55d4cf4b25b6f465
 
  This article is about fixing msvcr80.dll errors, not to be confused with[msvcr90.dll errors](https://www.lifewire.com/how-to-fix-msvcr90-dll-not-found-or-missing-errors-2623807) .
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix Msvcr80.dll Errors
 
  Follow the steps in the order they're listed below to try the more likely fixes first.
@@ -22,14 +25,26 @@ thumbnail: https://thmb.techidaily.com/b1e13c65cf79c8bfe0a90a1ea55d4cf4b25b6f465
 
 1. Install the[Microsoft Visual C++ 2005 Service Pack 1 Redistributable Package MFC Security Update](https://www.microsoft.com/en-us/download/details.aspx?id=26347) to restore the msvcr80.dll file with the most recent copy provided by Microsoft.  
 [How to Tell if You Have Windows 64-Bit or 32-Bit](https://www.lifewire.com/am-i-running-a-32-bit-or-64-bit-version-of-windows-2624475)  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Download and install the Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package MFC Security Update.](https://www.lifewire.com/thmb/y0cJF8YcT7jUhoYHa6I2MLkUK34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-d6779f27587a4e7e82f12da8733de903.jpg)  
  If you're unable to access Windows normally due to the error, try[starting Windows in Safe Mode](https://www.lifewire.com/how-do-i-start-windows-in-safe-mode-2624480) .
 2. [Restore msvcr80.dll from the Recycle Bin](https://www.lifewire.com/how-to-restore-deleted-files-from-the-recycle-bin-2624515) if you accidentally deleted it. If you've already emptied the Recycle Bin, you might have luck using a[free file recovery program](https://www.lifewire.com/free-data-recovery-software-tools-2622893) to undelete it.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Recycle bin on the Windows 10 desktop](https://www.lifewire.com/thmb/4ut5BIE7nDWKwmd_W4aHzm-d8s8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-2bce627cec6b462da3ff837017f14eb4.jpg)
 3. [Run a virus/malware scan](https://www.lifewire.com/properly-scan-your-computer-for-viruses-and-other-malware-2624526) if you think the msvcr80.dll error could be caused by a hostile program masquerading as the DLL file.
 4. [Use System Restore to undo recent system changes](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) . If you suspect that the msvcr80.dll error was caused by recent changes made to an important file or configuration,[System Restore](https://www.lifewire.com/what-is-system-restore-2626022) might be able to restore it.  
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![System Restore in the Windows System Properties menu](https://www.lifewire.com/thmb/_-1sJ8p4CJYlFzHdYO59LHYJa6A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-fix-msvcr90-dll-not-found-or-missing-errors-2623807-eba3b628271e4185b41ac1cdbd6c661f.jpg)
 5. [Reinstall the program that uses the msvcr80.dll file](https://www.lifewire.com/what-is-the-proper-way-to-reinstall-a-software-program-2624478) if you encounter these errors when using a particular program. Doing so should replace the missing DLL file.  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Uninstall apps in the Windows settings](https://www.lifewire.com/thmb/aR4ZlFW-s9gwHqMKvW-W07CQYKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-1c4381251a3f4f778657b0bc91aef6cb.jpg)
 6. [Install any available Windows updates](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . Some[service packs](https://www.lifewire.com/what-is-a-service-pack-2626010) and [patches](https://www.lifewire.com/what-is-a-patch-2625960) installed through Windows Update include important updates that could be related to this DLL file.
 7. [Repair your installation of Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . This should restore all Windows DLL files to their working versions, which might include the msvcr80.dll file.
@@ -40,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/b1e13c65cf79c8bfe0a90a1ea55d4cf4b25b6f465
  All the information on your hard drive will be erased during a clean installation.
 10. Use a [free memory testing tool](https://www.lifewire.com/free-memory-test-programs-2626178) or a [hard drive testing program](https://www.lifewire.com/free-hard-drive-testing-programs-2626183) to check for [hardware-related DLL errors](https://www.lifewire.com/fix-a-dll-issue-caused-by-a-hardware-problem-2624493) . If the hardware fails any of your tests, [replace the memory](https://www.lifewire.com/how-to-replace-the-memory-ram-in-a-computer-2626201) or [replace the hard drive](https://www.lifewire.com/how-to-replace-a-hard-drive-2626200) as soon as possible, or take your PC to a professional [computer repair service](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Causes of Msvcr80.dll Errors
 
  There are several ways msvcr80.dll errors can show up on your computer. Here are some of the more common messages you might see:

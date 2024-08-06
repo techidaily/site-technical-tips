@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial on Utilizing Gmail Labels for Enhanced Message Classification
-date: 2024-08-02 21:47:40
-updated: 2024-08-05 11:12:13
+date: 2024-08-05T02:07:25.458Z
+updated: 2024-08-06T02:07:25.458Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Tutorial on Utilizing Gmail Labels for Enhanced Message Classification
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/2Z_Ck3qMaD7A9pARitwDusvQmbE=/400x300/fi
 
  Unlike most email servers that rely on a series of folders to organize messages,[Gmail](https://www.lifewire.com/best-gmail-tips-tricks-and-tutorials-1172146) replaces folders in favor of labels. These labels are a tagging system for emails. Learn how to use labels to organize messages using Gmail on any operating system.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Add a Label to a Gmail Message
 
  Folder-based sorting stores emails in one location. Label-based sorting can apply several labels to a single message.
@@ -26,18 +29,30 @@ thumbnail: https://www.lifewire.com/thmb/2Z_Ck3qMaD7A9pARitwDusvQmbE=/400x300/fi
 
 1. Log in to your Gmail account
 2. Open a message, or select the check boxes in the message list to select several emails.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![Email checkbox selected in Gmail inbox](https://www.lifewire.com/thmb/LVys6MOTsG_ZT4IFCqmFNo1Y9wg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-organize-and-categorize-messages-with-labels-in-gmail-1171996-b8dbc15101ba41c282102cd6ea7fb6d5-12c3f01a7b6644ee9e909ec0b249015c.jpg)
 3. Go to the toolbar and select the**Labels** icon.  
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Labels icon in Gmail](https://www.lifewire.com/thmb/_Bhn7OTQwV0gx19m6I8Xx7Q0YNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-organize-and-categorize-messages-with-labels-in-gmail-1171996-15081382bfcd4be0a029562910f561a5-decf5077f77b4cfc99203dfa2b51da8f.jpg)
 4. In the**Label As** dialog box, select the label you want to apply. Choose**Create New** to make and apply a new label.  
 ![Work label in Gmail](https://www.lifewire.com/thmb/Udb86CB8gQANLwOabSbiiRtItNo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-organize-and-categorize-messages-with-labels-in-gmail-1171996-b8dbc15101ba41c282102cd6ea7fb6d5-d3d6892ba2544920a2000b63bc509203.jpg)
 
 [Gmail](https://www.lifewire.com/create-labels-as-and-when-you-need-them-in-gmail-1172040)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Customize Your Gmail Labels
 
  The Label As dialog box includes a link to**Manage Labels** , which is a shortcut to the Labels screen of the Gmail Settings menu. Either click that link, or go to**Settings** \>**Labels** . If you're already logged in to your Gmail account, you can go directly to your[Gmail Labels Settings](https://mail.google.com/mail/u/0/#settings/labels) .
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Labels and Settings gear highlighted in Gmail](https://www.lifewire.com/thmb/0JhSYpVwqU6SfKJC8WrjCsMZD4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-organize-and-categorize-messages-with-labels-in-gmail-1171996-6e6878b5616c4192a3cf9e044238ce59.jpg)
 
  At the bottom of the settings screen, you'll see your custom labels. Select**Create New Label** to add a new label to the list.
@@ -53,6 +68,9 @@ thumbnail: https://www.lifewire.com/thmb/2Z_Ck3qMaD7A9pARitwDusvQmbE=/400x300/fi
 
 ![Create New Label in Gmail Settings](https://www.lifewire.com/thmb/ldPJXfFBhOJrYphI3IJfRalkf5k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_how-to-organize-and-categorize-messages-with-labels-in-gmail-1171996-45ca8034469e4f349468965240d97529.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Manage Gmail Labels
 
  To edit or delete Gmail labels:

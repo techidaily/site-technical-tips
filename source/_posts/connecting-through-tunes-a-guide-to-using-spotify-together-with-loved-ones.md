@@ -1,7 +1,7 @@
 ---
 title: "Connecting Through Tunes: A Guide to Using Spotify Together with Loved Ones"
-date: 2024-08-03 16:48:50
-updated: 2024-08-06 12:59:25
+date: 2024-08-05T02:07:30.737Z
+updated: 2024-08-06T02:07:30.737Z
 categories:
   - BestProducts
 description: "This Article Describes Connecting Through Tunes: A Guide to Using Spotify Together with Loved Ones"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 
 Close 
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Open the**Spotify app** on your phone or tablet and select a song or podcast episode.
@@ -20,6 +23,9 @@ Close
 
  This article includes instructions for how to use Spotify Jam (formerly Group Session) in the mobile app so you can start a music listening party with your friends.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Make a Listening Party on Spotify 
 
  To start a listening party with your friends, select a track or playlist and start a Jam to access a sharing link. Here's how to do that.
@@ -31,15 +37,24 @@ Close
  Pick a song that’s part of a playlist so that you have many options to choose from off the bat. Otherwise, you can use the**Add songs** button for suggestions or rely on Jam participants to add to the queue.
 3. Tap the**Connect** icon on the**Now Playing** bar.
 4. Select**Start a Jam** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![The Connect and Start a Jam options in the Spotify mobile app for iOS.](https://www.lifewire.com/thmb/hbnOaAeCSXm009M05JwDePLv4Tc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_listen-to-spotify-with-friends-5120356-e39fc6468b2c4049bce87aaceda8d8c4.jpg)
 5. Click**Invite Friends** .  
  If a friend's nearby, select**Scan QR code** to display a QR code they can scan to instantly join your Jam. You can also tap your phones together to allow your friend to join; this feature works if you're both logged in to Spotify and connected to Bluetooth.
 6. Select**Share link** to share a link with friends in messaging apps like Messages,[ WhatsApp](https://www.lifewire.com/what-is-whatsapp-all-about-4781062) , or[ Facebook Messenger](https://www.lifewire.com/facebook-messenger-4103719) .  
  Spotify lacks built-in chat functionality, so you’ll need to use a third-party app if you want to chat with friends during a Jam.
 7. To end the Jam, tap**End** .  
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![Options to share a Spotify Jam link and end the session in the Spotify mobile app for iOS.](https://www.lifewire.com/thmb/qQBAU4mHPZC89EWOAt4-QjsDs0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_listen-to-spotify-with-friends-5120356-169432ba821842c4bd6d694dd0cac138.jpg)  
  Anyone can exit a Jam by selecting**Leave** . If the host leaves the Jam, this action automatically ends the listening session for everyone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  What Is Spotify Jam (formerly Group Session)? 
 
  If you’re not in the mood for watching a video streaming service virtually with friends, Spotify has you covered.

@@ -1,7 +1,7 @@
 ---
 title: Hitachi 4K Ultra HD TVs with Built-In Roku Streaming
-date: 2024-08-05 12:44:33
-updated: 2024-08-06 11:21:16
+date: 2024-08-05T02:07:29.206Z
+updated: 2024-08-06T02:07:29.206Z
 categories:
   - BestProducts
 description: This Article Describes Hitachi 4K Ultra HD TVs with Built-In Roku Streaming
@@ -20,6 +20,9 @@ of 22
 
 ## [Euphoria (2019): Best Original High School Drama](https://www.imdb.com/title/tt8772296/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![Zendaya in Euphoria](https://www.lifewire.com/thmb/DhWy-nHXQ-TBZ0Awd39ulfYuYZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-5091949-02bacbe70ef140338750aeba81a93dd9.jpg)
 
 HBO Max
@@ -48,6 +51,9 @@ of 22
 
 ## [Peacemaker (2022): Crudest Super Hero Comedy for Adults Only](https://www.imdb.com/title/tt13146488/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![John Cena and the cast of Peacemaker](https://www.lifewire.com/thmb/WawTg17WU10gnNEXdELT4ABZS70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-right-now-january-2022-5091949-dca36e5778e44453b9de64879c9a4d12.jpg)
 
 HBO Max
@@ -76,6 +82,9 @@ of 22
 
 ## [Other Parents (2019): Best French Sitcom About Parenthood](https://www.imdb.com/title/tt10095376/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The cast of Other PArents](https://www.lifewire.com/thmb/W6T6AFw_veXi7U1Y50zuU-hfOCE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-5091949-aaff2fcfda4745ad99ae3f343ab2b97e.jpg)
 
 HBO
@@ -130,8 +139,14 @@ _Hacks_ debuted to unanimous praise from critics for its strong performances and
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## [The White Lotus (2021): Hottest Comedy Anthology Series](https://www.imdb.com/title/tt13406094/)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![The cast of The White Lotus](https://www.lifewire.com/thmb/L1br0NsmfuWAlx1QsQWfr53OXto=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-right-now-october-2021-5091949-be8e1522068948eea8bca20eccf3eab0.jpg)
 
 HBO Max
@@ -160,6 +175,9 @@ of 22
 
 ## [Succession (2018): Most Critically Acclaimed Show on Max](https://www.imdb.com/title/tt7660850/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The cast of Succession (2018)](https://www.lifewire.com/thmb/Kv2moMCbwGnDh--vsQZqfVhHcxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010-5959cf516044415bbddf2473051c5c38.jpg)
 
 HBO
@@ -186,6 +204,9 @@ HBO
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Gossip Girl (2021): Most Timely Reboot About the Always-Online Generation](https://www.imdb.com/title/tt10653784/)
 
 ![The cast of Gossip Girl 2021](https://www.lifewire.com/thmb/nhuHrd_FvUi9VVgpu2TTnnL1B98=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-right-now-october-2021-5091949-ae4af00967304d98ae324e396a328d0c.jpg)
@@ -214,8 +235,19 @@ HBO Max
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## [Sort Of (2021): Kookiest Canadian Comedy Mini-Series](https://www.imdb.com/title/tt15221950/)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![The cast of Sort Of](https://www.lifewire.com/thmb/ieKubFkDaFgb2_Yv5JvFTyZ0fRE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-right-now-december-2021-5091949-e370416a67a54866b9fdd3c681a994cc.jpg)
 
 HBO Max
@@ -326,6 +358,9 @@ HBO Max
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [Nancy Drew (2019): Best Young Adult Book Adaptation](https://www.imdb.com/title/tt10313176/)
 
 ![The cast of Nancy Drew 2019](https://www.lifewire.com/thmb/XlxkitFaRY7u0LZUVgPrLCDMzXM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-5091949-b5f9d834623441a89bfb93e92e9226e4.jpg)
@@ -354,6 +389,9 @@ HBO Max
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## [Titans (2018): Most Action-Packed Superhero Sidekick Series](https://www.imdb.com/title/tt1043813/)
 
 ![The cast of DC Titans](https://www.lifewire.com/thmb/bbZvuY8Zlncr_H_18O4leO4MlSA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-5091949-3acfb2e2151c4b8b8af0ca5c6bb6d054.jpg)
@@ -384,6 +422,9 @@ of 22
 
 ## [The Other Two (2019): Funniest Family Drama About Show Biz](https://www.imdb.com/title/tt8310612/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The Other Two](https://www.lifewire.com/thmb/iQjhGMokV-jX7qaBpPCwim7CjUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-5091949-c04cd144d64f4d9a9251cfa713630bfa.jpg)
 
 HBO Max
@@ -410,8 +451,15 @@ _The Other Two_ is a hilarious critique of celebrity culture and our social medi
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [Stath Lets Flats (2018): Funniest NSFW Family Comedy](https://www.imdb.com/title/tt7524382/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![Jamie Demetriou in Stath Lets Flats](https://www.lifewire.com/thmb/1Logd6DLfSToJBpo0PauS5W7xfA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-shows-on-hbo-max-right-now-december-2021-5091949-390c3d42d7184bb8bc1a6ec92f30fb83.jpg)
 
 HBO Max
@@ -466,8 +514,14 @@ _Betty_ is inspired by the movie_Skate Kitchen_ directed by Crystal Moselle, who
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Curb Your Enthusiasm (2000): Longest Running Show About Nothing](https://www.imdb.com/title/tt0264235/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Larry David in Curb Your Enthusiasm](https://www.lifewire.com/thmb/BjmNwvtzUsIVj4A8KbMAhIj_gfA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-right-now-january-2022-5091949-5f47043ea80d43d4876b583cda18f06d.jpg)
 
 **IMDb Rating** : 8.7/10
@@ -522,6 +576,9 @@ of 22
 
 ## [South Side (2019): Best Buddy Comedy About Surviving in Late Capitalism](https://www.imdb.com/title/tt9272514/)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sultan Salahuddin and Kareme Young in South Side](https://www.lifewire.com/thmb/Tpkvprq_7dNcgw5wyRIyvD1VBio=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-5091949-2ab58733ac404adca560c6c16fa54df5.jpg)
 
 HBO Max
@@ -548,8 +605,14 @@ HBO Max
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Station Eleven (2021): Most Timely Post-Apocalyptic Survival Story](https://www.imdb.com/title/tt10574236/)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mackenzie Davis in Station Eleven](https://www.lifewire.com/thmb/cSNm-DA-mzCpavzMytAtVFmEhTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-shows-on-hbo-max-right-now-january-2022-5091949-6b8eec8c6c834fca97fb40593de74f2e.jpg)
 
 HBO Max
@@ -576,6 +639,9 @@ HBO Max
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## [Harry Potter: Hogwarts Tournament of Houses (2021)—Trivial Pursuit for Potterheads](https://www.imdb.com/title/tt15431326/)
 
 ![Helen Mirren in Harry Potter: Hogwarts Tournament of Houses](https://www.lifewire.com/thmb/0Q_vCc5WSIgAPcxDimb7qb-FUcE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-shows-on-hbo-max-right-now-january-2022-5091949-2601a6884c3c400698ff23663825073e.jpg)

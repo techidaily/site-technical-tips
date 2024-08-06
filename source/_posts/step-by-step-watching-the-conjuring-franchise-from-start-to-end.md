@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Watching the Conjuring Franchise From Start to End"
-date: 2024-08-03 11:22:16
-updated: 2024-08-05 11:33:51
+date: 2024-08-05T02:07:30.880Z
+updated: 2024-08-06T02:07:30.880Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step: Watching the Conjuring Franchise From Start to End"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  What to Know
 
 * The_Conjuring_ movies were not released chronologically.
@@ -21,6 +24,9 @@ Close
 
  The Conjuring is one of the most prolific horror movie franchises of the last decade, with three main entries and multiple prequels and spinoffs. The movies haven't come out in chronological order, so this guide will help you keep them straight.  
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Watch the ‘Conjuring’ Movies in Chronological Order 
 
  The original 2013 film and its direct sequels are set during the 1970s and into the early 80s. The movies follow the fictional ghost hunting of real-life paranormal investigators Lorraine and Ed Warren.
@@ -46,6 +52,9 @@ Close
 
  Planning a marathon? It'll take you the better part of a day: Watching all 10 movies will take 17 hours, 24 minutes. You can save some time by excluding the "unofficial" entries–_Wolves at the Door_ and_The Curse of La Llorona_ –which takes the total time down to 14 hours, 39 minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Watch the ‘Conjuring’ Movies in Release Order 
 
  If you’d prefer to watch the_Conjuring_ movies in the order they came out, your viewing schedule will look quite a bit different from above. Here’s the timeline:
@@ -63,6 +72,10 @@ Close
 | _The Conjuring: The Devil Made Me Do It_ | June 4, 2021      | Max                |
 | The Nun II                               | September 8, 2023 | Max                |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  Will There Be More ‘Conjuring’ Movies? 
 
  Plans are currently in the works for a fourth and final_Conjuring_ movie, subtitled_Last Rites_ . It'll be another story featuring the Warrens, with Patrick Wilson and Vera Farmiga returning. We don't know yet which case it's based on, but it's due out on September 5, 2025.

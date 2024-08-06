@@ -1,7 +1,7 @@
 ---
 title: What to Expect From Apple's Latest Developer Summit in WWDC 2025
-date: 2024-08-03 17:27:25
-updated: 2024-08-06 12:11:31
+date: 2024-08-05T02:07:19.831Z
+updated: 2024-08-06T02:07:19.831Z
 categories:
   - BestProducts
 description: This Article Describes What to Expect From Apple's Latest Developer Summit in WWDC 2025
@@ -36,6 +36,9 @@ thumbnail: https://www.lifewire.com/thmb/BS6EQLdoFpHBKaApG3kbaxCBoMo=/400x300/fi
 * macOS
 * tvOS
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## When Is WWDC 2025?
 
  WWDC 2024 was June 10 to June 14\. Most of the conference is hosted online, but Apple will also hold a limited-attendance special event at Apple Park.
@@ -91,6 +94,10 @@ Apple, Inc
 
  Messages updates let you stylize text with bold, italics, underlines, and more; you can also schedule texts to be delivered later. The app will also support RCS for better texting with Android owners.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### iPadOS 18
 
  The iPad is getting the same updates to Photos, Messages, and more as iOS.[iPadOS 18](https://www.lifewire.com/ipados-18-8558715) also has its own upgrades, like a Notes app that will clean up your handwriting. The refined Calculator app will also show a history of your calculations and solves equations as you type or write them.
@@ -101,18 +108,27 @@ Apple, Inc
 
  Window tiling is also getting an update. Instead of arranging windows to the left or right, you can put them in the corners, which means you can quickly tile four apps or documents at a time. Holding down the Option key shows you some layout options.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### tvOS 18
 
  The[new tvOS](https://www.lifewire.com/tvos-18-8599054) aims to be smarter with audio. If you have a 4K Apple TV, you can use improved dialogue boosting using machine learning to make sure you can always tell what people are saying. This feature will also work with external speakers and receivers and not just HomePods.
 
  Another big feature in tvOS 18 is InSight. If you're watching a show or movie on Apple TV+ and wonder who an actor is or need help identifying a song that's playing, a swipe will provide you that information. From there, you can add songs you like to an Apple Music playlist or see what else actors were in.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### visionOS 2
 
  The second version of[the software that runs the Vision Pro headset](https://www.lifewire.com/visionos-2-8604723) focuses on spatial photos. It'll make your 2D images look 3D and place them dynamically in your background.
 
  The virtual monitor that provides a workspace when you're wearing the Vision Pro is also getting bigger and higher-resolution, equivalent to two 4K monitors placed side-by-side.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### watchOS 11
 
  Finally, there's[watchOS 11](https://www.lifewire.com/watchos-11-8552217) , which powers Apple's line of smartwatches. They're getting similar customization options to iOS and iPadOS, including text, font size, and color. The Translate app is also moving to your wrist, and it works with 20 languages.
@@ -123,6 +139,9 @@ Apple, Inc
 
  Finally, the Training Load option is for athletes preparing for events. It keeps an eye on your workouts and identifies trends to make sure you're making progress and not overdoing it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Latest News About Apple
 
  While you can always [read the latest technology news on Lifewire](https://www.lifewire.com/news-4795879) , here are some pieces of interest involving Apple in particular.

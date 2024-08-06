@@ -1,7 +1,7 @@
 ---
 title: How ‘Green’ Are Electric Vehicles, Really?
-date: 2024-08-03 19:10:42
-updated: 2024-08-05 12:21:54
+date: 2024-08-05T02:07:35.008Z
+updated: 2024-08-06T02:07:35.008Z
 categories:
   - BestProducts
 description: This Article Describes How ‘Green’ Are Electric Vehicles, Really?
@@ -13,12 +13,18 @@ thumbnail: https://www.lifewire.com/thmb/vcmXbHunp9JwyRSTiPWFvmsHQ2Y=/400x300/fi
 
  Electric vehicles technically don’t generate any carbon dioxide at all, so could they be the way to reduce or eliminate the harmful emissions the world is battling? Lets' clear the air then, and discuss a few different theories on the topic.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The CO2 Problem Is Everywhere 
 
  We’ve all heard of the climate crisis, with weather phenomena becoming ever more extreme and the damage caused to cities and entire countries. Carbon dioxide emissions, booming since the Industrial Revolution, have been inextricably linked to climate change, but the good news is that there are things we can all do about it. Reducing carbon dioxide (aka greenhouse gases) emissions is something every one of us can do, must do, and driving an electric vehicle is just one way to help save the planet.
 
  In the U.S., the Environmental Protection Agency says that transportation related to the burning of fossil fuels accounts for 29 percent of the country’s greenhouse gas emissions. Worldwide, transportation is responsible for a quarter of carbon dioxide emissions, while a few cities even estimate that it’s the cause of more than half of their emissions problem. 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ###  Yes, Even Some EVs Can Generate Emissions 
 
  Of course, there’s no such thing as a free lunch or, in this case, a free ride. Just because electric vehicles don’t have tailpipes doesn’t mean they are perfectly clean. In fact, electric vehicles actually generate more emissions during their construction than gasoline-powered cars due to the use of materials that must be mined and other manufacturing issues.
@@ -29,6 +35,9 @@ thumbnail: https://www.lifewire.com/thmb/vcmXbHunp9JwyRSTiPWFvmsHQ2Y=/400x300/fi
 
  Hybrid EVs, of course, can contribute plenty of emissions since most hybrids use some sort of fossil-fuel and electric combination for power, despite the fact those emissions can ultimately be less than those of gasoline powered cars. Still, even when those issues are factored in, EVs that run strictly on battery power seem to come out on top from a green perspective.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How Green Is an EV in General? 
 
  Overall, EVs are pretty green. It's a little tricky to compare them to cars that burn fossil fuels but not impossible.
@@ -55,6 +64,10 @@ Bailey Mariner
 
  Given the fact that the average gasoline-powered vehicle generates those 6 tons of emissions on average annually, that still gives both EVs the edge when it comes to saving the planet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ##  Some People Say Electric Vehicles are a Green Dream 
 
  Even if electric vehicles do produce fewer carbon dioxide emissions than gasoline counterparts, the story isn’t all wine and roses. EVs are still cleaner than conventional vehicles, no matter how you lay out the deck, but there are some drawbacks for naysayers to call them just a green dream. Three key arguments give them their ammunition.
@@ -65,6 +78,9 @@ Bailey Mariner
 
  On the flip side, new processes and technology are in constant development, reducing the materials required or using them more efficiently. Responsible company policies are reducing the impact on man and planet day by day.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ##  Electric Vehicles are Hard to Recycle 
 
  Particularly in the electronics sector, recycling has always been a challenge, technologically and economically. Electric vehicle manufacturing practices and end-of-life recycling issues is only making things worse. 
@@ -83,6 +99,10 @@ Bailey Mariner
 
 [  The Electric Grid Is Actually Cleaner Than You Think ](https://www.lifewire.com/the-electric-grid-is-actually-cleaner-than-you-think-5202010) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ##  Can Electric Vehicles Save the Planet? 
 
  Yes, electric vehicles can help save the planet, but only in the same way that eating a salad can help someone lose weight. Just like a balanced diet and exercise are critical to a healthy lifestyle, electric vehicles are just one important part of a broader approach to a healthy planet, right down to its inhabitants, no matter how many legs they have. 

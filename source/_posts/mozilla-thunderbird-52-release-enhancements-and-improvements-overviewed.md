@@ -1,7 +1,7 @@
 ---
 title: Mozilla Thunderbird 52 Release - Enhancements and Improvements Overviewed
-date: 2024-08-04 16:25:12
-updated: 2024-08-06 11:16:59
+date: 2024-08-05T02:07:16.558Z
+updated: 2024-08-06T02:07:16.558Z
 categories:
   - BestProducts
 description: This Article Describes Mozilla Thunderbird 52 Release - Enhancements and Improvements Overviewed
@@ -16,10 +16,16 @@ thumbnail: https://www.lifewire.com/thmb/z-a0kZYPlaa9DY6mmor1RoPmlcs=/400x300/fi
 
  USB 1.1 was released in August 1998, USB 2.0 in April 2000, USB 3.0 in November 2008, and USB4 in August 2019.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Illustration of a person using a USB device on a laptop.](https://www.lifewire.com/thmb/JHMuTme7vTBFFvh3qADLD-hK6dY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-usb-2-0-2626037-724c3c1c829c42e3b638e9e0c85238cd.png)
 
  Lifewire / Derek Abella
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## USB 2.0 Connectors
 
 _Plug_ is the name given to the_male_ connector on a USB 2.0 cable or[flash drive](https://www.lifewire.com/what-is-a-flash-drive-2625794) , while the_receptacle_ is the name given to the_female_ connector on a USB 2.0 device or extension cable.
@@ -36,6 +42,9 @@ _Plug_ is the name given to the_male_ connector on a USB 2.0 cable or[flash driv
 
  You may want to consult a[USB Physical Compatibility Chart](https://www.lifewire.com/usb-physical-compatibility-chart-2624585) for a reference on what-fits-with-what.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Interconnected Device Speeds
 
  Older USB 1.1 devices and cables are, for the most part, physically compatible with USB 2.0 hardware. However, the only way to reach USB 2.0 transmission speeds is if all devices and cables being connected to each other support USB 2.0.
@@ -46,6 +55,9 @@ _Plug_ is the name given to the_male_ connector on a USB 2.0 cable or[flash driv
 
  In other words, the transmission speed falls to the older of the two technologies. This makes sense, since you can't pull USB 3.0 speeds out of a USB 2.0 cable, nor can you get USB 2.0 transmission speeds using a USB 1.1 cable.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## USB On-the-Go (OTG)
 
 [USB On-the-Go](https://www.lifewire.com/what-is-usb-otg-and-what-does-it-do-4768902) was released in December 2006\. It allows devices to switch between acting as a host and as a subordinate when necessary so that they can be connected to each other directly.

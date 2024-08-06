@@ -1,7 +1,7 @@
 ---
 title: "Tech Guide: Pairing Wireless Earbuds Like AirPods with the Nintendo Switch – A Step-by-Step Approach"
-date: 2024-08-03 16:19:37
-updated: 2024-08-06 12:33:29
+date: 2024-08-05T02:07:15.824Z
+updated: 2024-08-06T02:07:15.824Z
 categories:
   - BestProducts
 description: "This Article Describes Tech Guide: Pairing Wireless Earbuds Like AirPods with the Nintendo Switch – A Step-by-Step Approach"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Put AirPods in pairing mode. On Switch, select**System Settings** \>**Bluetooth Audio** \>**Pair Device** .
@@ -21,6 +24,9 @@ Close
 
  This article outlines how to connect AirPods to a Nintendo Switch via Bluetooth or a third-party dongle. These instructions for connecting AirPods to Nintendo Switch consoles work with Nintendo Switch and[ Nintendo Switch Lite](https://www.lifewire.com/nintendo-switch-lite-review-4788015) models.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ##  How to Connect AirPods to a Nintendo Switch 
 
  The Nintendo Switch lacked Bluetooth support when it first launched. But, thanks to a September 2021 update, gamers can now connect devices like AirPods to the console.  
@@ -31,6 +37,9 @@ Close
 
 1. Put your AirPods into pairing mode. Open the case with the AirPods inside and press and hold the button the back of the case until the light flashes white.
 2. Turn on your Switch and navigate to**System Settings** \>**Bluetooth Audio** \>**Pair Device** .  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Pair Device option in the Bluetooth Audio menu of the Nintendo Switch](https://www.lifewire.com/thmb/rkfzGYwzES4icdEe8bRgLkTdAqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NintendoSwitchBluetooth-cd2d07c42d274f85a8c40e7a0392d288.jpg)
 3. Find your AirPods on the list of available devices and select them to pair with the Switch.
 
@@ -38,6 +47,9 @@ Close
 
  Getting your Apple AirPods connected to your Nintendo Switch via a third-party Bluetooth dongle or adapter is straightforward and mostly follows the same steps required for[ syncing AirPods to a Windows 10 PC](https://www.lifewire.com/how-to-connect-airpods-to-pc-windows-10-4692881) or[ connecting AirPods to an Android smartphone or tablet](https://www.lifewire.com/do-airpods-work-with-android-4771417) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![GuliKit Bluetooth Adapter connected to a Nintendo Switch and Dock.](https://www.lifewire.com/thmb/JeNvW7wbKH_vLZBw6K0q9IoGf1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-connect-airpods-to-a-nintendo-switch-02-23e161410b2c41caab80d7bf2b6db9a3.jpg) 
 
 GuliKit
@@ -46,6 +58,9 @@ GuliKit
 
  Long-press the pairing button on the back of the AirPods case to begin the pairing process. While pressing the AirPods pairing button, press the designated sync button on the Bluetooth transmitter.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Apple Airpod Case pairing button.](https://www.lifewire.com/thmb/k90kRyruxw4p0J02jY1wFfj_Fo4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-connect-airpods-to-a-nintendo-switch-03-e385b09e7fbb4853ac593775ed27f1cc.jpg) 
 
  The LED lights on the case and transmitter should begin flashing but will stop once the pairing is complete. You can now use your Apple AirPods with your Nintendo Switch.
@@ -65,6 +80,10 @@ GuliKit
 
  Some manufacturers explicitly design Bluetooth dongles for the Nintendo Switch, which you can find in video game stores and on Amazon. The most popular one seems to be the HomeSpot Bluetooth Transmitter, while the Ldex Nintendo Bluetooth Transmitter and GuliKit Bluetooth Adapter are also solid options. All three can connect to both the Switch and the Dock.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ##  Some Tips for Using AirPods With Switch Consoles 
 
  The process for connecting AirPods to Nintendo Switch consoles is pretty simple, but there are still some things you may want to keep in mind.

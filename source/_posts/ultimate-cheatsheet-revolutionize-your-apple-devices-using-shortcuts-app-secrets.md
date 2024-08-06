@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Cheatsheet: Revolutionize Your Apple Devices Using Shortcuts App Secrets"
-date: 2024-08-03 19:43:28
-updated: 2024-08-06 12:44:49
+date: 2024-08-05T02:07:23.986Z
+updated: 2024-08-06T02:07:23.986Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Cheatsheet: Revolutionize Your Apple Devices Using Shortcuts App Secrets"
@@ -19,6 +19,9 @@ Close
 
  Information in this article applies to the Shortcuts app for iPhone, iPad, iPod touch, and Apple Watch.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Install Shortcuts 
 
  Some of the shortcuts listed below are custom-made and aren't found in the Gallery section of the app. Here's how to get these onto your phone or tablet:
@@ -44,6 +47,9 @@ of 18
 
 ## [ Get Instant Directions to Your Next Calendar Event](https://www.icloud.com/shortcuts/cc9ae260917142129fda96eb02d8775d) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![iOS shortcut that shows directions to your next calendar event](https://www.lifewire.com/thmb/M9YHqSDoD58EO3d2-VVAKwYK-d8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/instant-directions-ios-shortcut-5beae235c9e77c00514c16cd.png) 
 
  If a location is attached to your calendar events, this shortcut opens your favorite navigation app and shows how to get to your destination and how long it will take.
@@ -64,6 +70,14 @@ of 18
 
 ## [ Send a 'Running Late' Text Regarding a Calendar Event](https://www.icloud.com/shortcuts/a4512a8453b24a9b98064739ef994e0e) 
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Running Late iOS shortcut](https://www.lifewire.com/thmb/ktBdgxHzDG3IuYCpuXsmEjTYQ-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/running-late-text-ios-shortcut-5beaff07c9e77c0051366879.png) 
 
  If you're sometimes late to events, this Running Late shortcut will save you time and let someone know that you won't be there on time. When you run this shortcut, it finds the next upcoming event you're late to and sends a text that says this:
@@ -83,6 +97,9 @@ of 18
 
 ## [ Download YouTube Videos](https://www.icloud.com/shortcuts/814010eed14b425ab4070f2ff02e25a7) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![Screenshot of the JAYD YouTube downloader iOS shortcut](https://www.lifewire.com/thmb/gISNRJp47d3fuu4QuOIXlJR6tDc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jayd-ipad-youtube-downloader-shortcut-656a41cf26ae4033a8403630a494f6c9.jpg) 
 
  Save your favorite YouTube videos with this shortcut. Just share the video's[ URL](https://www.lifewire.com/what-is-a-url-2626035) to the**JAYD** shortcut to start the download. You can choose where to save it and whether to convert the video to audio only.
@@ -97,6 +114,9 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Quickly Find and Copy GIFs](https://www.icloud.com/shortcuts/7f079959b38b46f7ad20eb2f87cd7a23) 
 
 ![iOS shortcut using Giphy to locate GIF files](https://www.lifewire.com/thmb/5SDcmMbljSIdC9U2g8-n4v-UP3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/get-gif-shortcut-iphone-5beb166046e0fb00515190c7-23d34d577c664e15a7559e984144e3c7.jpg) 
@@ -115,6 +135,10 @@ of 18
 
 ## [ Instantly Find the Travel Time to Any Address](https://www.icloud.com/shortcuts/ff987bcf0ad746d496415d7f4c75a872) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![iOS shortcut showing how long it takes to travel to a destination](https://www.lifewire.com/thmb/z7B-G3lHyodoJT7JGuuOKPshQH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/travel-time-to-address-ios-shortcut-5beaee8e46e0fb005126e93b.png) 
 
  With this shortcut, you don't need to open an address in a GPS app to see how long it will take to get to a destination. Share the address with this shortcut to receive an alert with the time to get there. If you want to start navigating there, you're given that option.
@@ -127,6 +151,9 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Delete the Last Photo Saved to Your Device](https://www.icloud.com/shortcuts/3d3143f8693347c89314e0058336009b) 
 
 ![iOS shortcut to delete the last photo on the device](https://www.lifewire.com/thmb/LPczoz-QjpdkW6pxhJIvOQRedMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-last-photo-ios-shortcut-5beaf681c9e77c0052186293.png) 
@@ -157,6 +184,9 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Calculate a Tip With a Custom Percentage](https://www.icloud.com/shortcuts/cf628c99a84246d69fd2aed4df9362d2) 
 
 ![Tip calculator shortcut on an iPhone](https://www.lifewire.com/thmb/Mie8PzVuSRSjGrUIC-SBMKEqM5g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tip-ios-shortcut-503882ec0a204a75998e4ef402987a4e.jpg) 
@@ -177,8 +207,14 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Make a Photo Collage](https://www.icloud.com/shortcuts/f4bc9d5b0473402dab45605bc335b538) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![Photo Grid iOS shortcut on an iPhone or iPad](https://www.lifewire.com/thmb/kpCJBPtBUSEx-qSVITGZLOelmI0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photogrid-collage-ios-shortcut-5beaeb6cc9e77c0051b6bcd6.png) 
 
  The Photo Grid shortcut is an example of how advanced the Shortcuts app can be while making user input as simple as a few taps.
@@ -199,8 +235,14 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Open Your Favorite Music Playlist in One Tap](https://www.icloud.com/shortcuts/cdf116d34daa4d0386e4d4592b76632f) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![iOS shortcut for iPhones and Apple Watch that lets you instantly play any playlist from Apple Music](https://www.lifewire.com/thmb/oYpFDQNdA9rwDrZIefaAWmutCKg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/play-playlist-shortcut-iphone-5beb00aa46e0fb0026e86511.png) 
 
  Use the Play Playlist shortcut to start your favorite playlist whenever you want, from wherever you want, with one tap. You'll no longer need to stop your workout to open the Apple Music app or navigate your Apple Watch to open the playlist.
@@ -231,6 +273,9 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Birthday Reminder](https://www.icloud.com/shortcuts/da7f88309a9c486ea86cdd674b3887f0) 
 
 ![Birthday reminder shortcut on an iPhone](https://www.lifewire.com/thmb/mxg1708m74vShecrAVybBdEGdF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/birthday-reminder-iphone-shortcut-5beaf55cc9e77c0051346fbf-f43fc58e44c74811af0e678a3d6facac.jpg) 
@@ -245,6 +290,9 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Make Your Own Speed Dial Menu](https://www.icloud.com/shortcuts/5658db9e9ff34eef806eb2c2e51de51d) 
 
 ![Speed Dial iOS shortcut on an iPhone](https://www.lifewire.com/thmb/LFxYHJQHnEM1v513u3ynNKT4cws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/speed-dial-ios-shortcut-7208a5510de24d59ae32c255029eb3b2.jpg) 
@@ -263,6 +311,9 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## [ Search for Text in Google Chrome](https://www.icloud.com/shortcuts/2f81d5f819d34e199ecabb55513f5a41) 
 
 ![iOS shortcut sending text from Safari to Chrome](https://www.lifewire.com/thmb/KwCAHTwdWgpx8rXZ3w3qrUkf40A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/search-in-chrome-ios-shortcut-5beafaf7c9e77c0026edfeab.png) 
@@ -301,6 +352,9 @@ of 18
 
 ## [ Record and Text Audio Snippets Automatically](https://www.icloud.com/shortcuts/476cd9f8fcf5432ab2e83a51df54654d) 
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iOS shortcut recording audio](https://www.lifewire.com/thmb/AJ40yq_5HT_woMaWFvCESGKHMM4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/record-and-send-ios-shortcut-5beb1baf46e0fb00511dd13a-64c63d2660de425a99bdd3430fcf86fb.jpg) 
 
  This Record and Send iOS shortcut is for emergencies where you can't openly call or text someone for help. It[ puts your phone into Do Not Disturb mode](https://www.lifewire.com/use-do-not-disturb-on-iphone-apple-watch-2000547) , records anything the phone hears, uploads the recording to Dropbox, and then shares your location and the Dropbox link to anyone you choose.
@@ -337,8 +391,14 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Clean Completed Reminders](https://www.icloud.com/shortcuts/fee08d3363334a7c83220f72dfd92110) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![Clean Completed Reminders iOS shortcut](https://www.lifewire.com/thmb/5hqGwaR8ZFoJMyDjQ5lPp_-StI4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/clean-old-reminders-ios-shortcut-5beafbaec9e77c00515561ab-bec3320e11c04500b90f14ffb6a4558d.jpg) 
 
  It's easy to get a reminder on your device, dismiss it or complete it, and then leave it in the Reminders app. But doing this clutters the app with old reminders. Use the Clean Completed Reminders shortcut to get rid of them.

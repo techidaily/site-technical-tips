@@ -1,7 +1,7 @@
 ---
 title: "Comparing Alternative Drive Systems: The Key Differences Between EV, BEV, PHEV, FCEV & Hybrid Models"
-date: 2024-08-03 12:55:15
-updated: 2024-08-05 10:51:49
+date: 2024-08-05T02:07:26.324Z
+updated: 2024-08-06T02:07:26.324Z
 categories:
   - BestProducts
 description: "This Article Describes Comparing Alternative Drive Systems: The Key Differences Between EV, BEV, PHEV, FCEV & Hybrid Models"
@@ -27,10 +27,17 @@ Julie Bang
 * **EREV** : Extended-range electric vehicles are hybrids that are designed to run entirely on the electric motor, and they don’t include a traditional internal combustion engine. Instead, they have a gasoline generator that can provide electricity to the batteries and electric motor when needed to extend the overall range.
 * **FCEV** : Fuel cell electric vehicles are different from other electric vehicles. Instead of a rechargeable battery, they use fuel cells that generate electricity through a reaction between hydrogen and oxygen. They have to be refueled at hydrogen charging stations.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ##  Electric Vehicles (EV) and Battery Electric Vehicles (BEV) 
 
  Battery electric vehicles are purely electric. Unlike other types of EVs, BEVs rely only on battery power. These vehicles don’t have internal combustion engines, don’t have tailpipes, and produce zero emissions during operation. Since there is no internal combustion engine, the battery needs to be charged by plugging it in.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Close Up Of Electric Motor In Engine Bay Of Electric Car](https://www.lifewire.com/thmb/ffwwoE4gDDdyP2WtPjkGPtd0ffQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/EVenginecloseup_mokeybusinessimages_iStock_GettyImagesPlus-44213dd675b54cf9851b2d793638aa74.jpg) 
 
  Close up of electric motor. 
@@ -43,6 +50,9 @@ monkeybusinessimages/iStock/Getty Images Plus
 
  Since BEVs have to be plugged in, and charging can take a long time without a fast charging station, it’s only natural to be concerned about range. BEV range has increased a lot in recent years though, with some driving up to 400 miles on a single charge. Even the most affordable BEVs provide around 100 miles on a charge though, making them well-suited to city driving and moderate commutes. Longer trips can require some pre-planning depending on the range of the BEV, but charging stations are widely available in most areas.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Hybrid Electric Vehicles (HEV) 
 
  The reason that the term EV gets applied to vehicles that aren’t, strictly speaking, pure electric vehicles is that hybrid electrics were the first to reach the mainstream. These hybrid electric vehicles are a lot like traditional gas-powered vehicles with similar drivetrains, except they include both an electric motor and an internal combustion engine (ICE).
@@ -85,6 +95,9 @@ Boy\_Anupong/Moment/Getty
 
  When an EREV is run in all-electric mode, without the gas generator running, they produce no tailpipe emissions, just like BEVs. However, they do produce carbon emissions whenever the gas generator is running. The catch is that the all-electric range typically tops out at around 80 miles, with some models providing even less.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fuel Cell Electric Vehicles 
 
  Fuel cell technology is intriguing, because it generates electricity without carbon emissions. There have been a number of different fuel cell technologies over the years, but the FCEVs that are available today all rely on a reaction between hydrogen and oxygen. Fuel cells are charged with hydrogen, which then reacts with oxygen to generate electricity as needed. The electricity powers an electric motor, similar to the way batteries power electric motors in BEVs, and the only byproducts are water vapor and warm air.
@@ -101,6 +114,9 @@ Arctic-Images/The Image Bank Unreleased
 
  For example, if you lived near fuel stations in Los Angeles, you couldn’t take a weekend trip to Las Vegas. While the travel distance of about 240 miles might be inside your range, you wouldn’t be able to fuel up before heading home. Even if your FCEV had a range of 366 miles, you’d run out of hydrogen somewhere in the desert on your return trip. To safely make the same trip, a long range BEV could simply charge up before the return trip, while a shorter range BEV could stop at charging stations along the way.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Why Are There So Many Types of EVs? 
 
  Electric vehicle technology has been around for over 200 years, but it only came back into focus and started evolving rapidly in the last couple decades.
@@ -115,6 +131,13 @@ Arctic-Images/The Image Bank Unreleased
 
  Other zero emission options, like FCEVs, provide a tantalizing alternative, but the infrastructure is already more or less in place to support BEVs, while FCEVs remain a small-scale experiment.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ##  All the EV Variations At a Glance 
 
 | BEV                                                 | FCEV                                             | HEV                                                          | PHEV                            | EREV                                                       |                                                            |

@@ -1,7 +1,7 @@
 ---
 title: "Solving Surface Pro Display Issues: Tips to Stop Screen Vibrations & Flickers"
-date: 2024-08-04 17:41:44
-updated: 2024-08-06 10:16:16
+date: 2024-08-05T02:07:04.155Z
+updated: 2024-08-06T02:07:04.155Z
 categories:
   - BestProducts
 description: "This Article Describes Solving Surface Pro Display Issues: Tips to Stop Screen Vibrations & Flickers"
@@ -12,17 +12,26 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 ## Surface Pro Display Dilemma? Discover How To Stop the Shaking/Flickering
  Surface Pro owners have reported problems with their Surface Pro's screen shaking or flickering. The problem appears as fast, flickering vertical distortions across the Surface Pro's display. These distortions can appear at any time, even just after the Surface Pro is turned on and loading Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Cause of Surface Pro Screen Shaking and Flickering
 
  A hardware defect in the Surface Pro 4 is the most common cause of the Surface Pro screen shaking and flickering. The cause of the defect remains arguable, but the Surface Pro owner community members troubleshooting this problem have settled on it being a problem with the display hardware, and it's thought to be brought on by heat.
 
  Other Surface devices can have problems that are perceived as screen flickering. If you don't own a Surface Pro 4, the problem probably isn't caused by a hardware defect, so the additional fixes in this article are more likely to resolve the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix Surface Pro Screen Shaking and Flickering
 
 [Microsoft's support article about Surface Pro screen flickering](https://support.microsoft.com/en-us/surface/surface-pro-4-screen-flickers-or-is-scrambled-e48e8b60-0426-4de8-5a58-0a8f5a72a5c4) includes steps for confirming the issue. If it does confirm the flickering issue, then it's a hardware defect that further troubleshooting is unlikely to solve. If it does not, then try the steps below.
 
 1. Turn off automatic brightness adjustments. Right-click on the Windows desktop and select**Display Settings** . A window will open, and a checkbox labeled**Change brightness automatically when lighting changes** appears near the top of it. De-select the checkbox.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Display settings in Microsoft Windows 10.](https://www.lifewire.com/thmb/ReZ2XirBPkgMNJ2U0JdtvRoNjQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-FixSurfaceProScreenShakingandFlickering-annotated-67bf52e272534991821edafbefd462eb.jpg)
 2. [Roll back your display driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) . This will uninstall the current driver and replace it with an older version, fixing the issue if the cause is a bug in a new display driver.
 3. [Run Windows Update](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . This will install all Windows bug fixes and the latest drivers for your Surface device.
@@ -30,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 5. [Factory reset your Surface Device](https://www.lifewire.com/how-to-factory-reset-surface-pro-laptop-book-4175122) . This will clear up any software or driver conflicts causing screen flicker.
 6. [Connect your Surface Pro to an external monitor](https://www.lifewire.com/connect-surface-pro-to-a-monitor-5112683) . This does not fix the issue with the Surface Pro's display but, if it's caused by a hardware defect in the display itself, the issue won't appear on an external monitor.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Freezer Trick: Not Recommended
 
  Users' attempts to resolve screen flickering on the Surface Pro 4 led to some bizarre fixes. The most popular is placing the Surface Pro in a freezer. We don't recommend this because not only is it a temporary fix (if it even works), but placing the Surface Pro in the freezer could damage it further.

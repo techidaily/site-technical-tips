@@ -1,7 +1,7 @@
 ---
 title: Breaking Into Your Own iPad? A Complete Fix for a Forgotten Passcode
-date: 2024-08-03 11:45:50
-updated: 2024-08-06 10:16:12
+date: 2024-08-05T02:07:09.832Z
+updated: 2024-08-06T02:07:09.832Z
 categories:
   - BestProducts
 description: This Article Describes Breaking Into Your Own iPad? A Complete Fix for a Forgotten Passcode
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/lFMcG_V3cfgZ46QbkGOji3E5VS8=/540x405/fi
 ---
 
 ## IPad Hacked or Forgotten Passcode? Unlock It Like a Pro Without Any Codes
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * If you don't have the passcode, you can't unlock an iPad.
@@ -20,10 +23,17 @@ thumbnail: https://www.lifewire.com/thmb/lFMcG_V3cfgZ46QbkGOji3E5VS8=/540x405/fi
 
  Facing this situation with an iPhone instead of an iPad? We've got[instructions on how to fix an iPhone when you've forgotten the passcode](https://www.lifewire.com/fix-forget-your-iphone-passcode-2000279) .
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Unlock a Disabled iPad
 
  If you enter the wrong passcode when trying to unlock your iPad too many times in a row, your iPad may become disabled. Sometimes, the screen will show that your iPad is disabled. In other cases, it may ask you to try again in five minutes or tell you that your iPad is disabled for many days or years (that's not true; it just means that you should wait a minute) or to connect to your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![iPad with Disabled message](https://www.lifewire.com/thmb/_fQ8cMGeZYhQXoL7cQ2oT5VzNqM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios13-ipad-pro-forgot-passcode-26286b5c85ae44e1ac6f124c31a2e6ed.jpg)
 
 Apple Inc.
@@ -32,6 +42,9 @@ Apple Inc.
 
  If you still know the correct passcode and just entered the wrong thing, the problem is easy to solve: Wait a few minutes. Once the disabled message disappears from the screen, try unlocking it again and, if you use the correct passcode, it will work, and you'll be back to using your iPad.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Unlock an iPad Without the Passcode
 
  The more significant challenge is unlocking an iPad when you either don't know the passcode or have forgotten it. In that case, there's bad news: your only option is to put your iPad into Recovery Mode, totally erase the data from your iPad, and set it up fresh. Hopefully, you have a recent backup of your data and can restore that onto your iPad.
@@ -49,6 +62,9 @@ Apple Inc.
    * **iPads without Face ID:** Using a cable, connect your iPad to your computer while holding down[the Home button](https://www.lifewire.com/what-is-ipad-home-button-1994353) .  
 ![Recovery Mode instructions for iPad with Home button](https://www.lifewire.com/thmb/kkCNjlj7plm6A1Oum6X4yKCVfA4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-air-remove-passcode-tech-spec-c9787c46be05447a833dd8985ca9e61b.jpg)  
 Apple Inc.  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Recovery Mode instructions for iPad with Face ID](https://www.lifewire.com/thmb/0B_QK4WRnUMLScIjuHI41vXL0tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-remove-passcode-tech-spec-214a7de472a04776af7768ff644b54ea.jpg)  
  Apple Inc.
 4. If your iPad boots up like normal, you haven't done it right and need to try steps 2 and 3 again.  
@@ -57,6 +73,9 @@ Apple Inc.
    * **macOS Catalina (10.15) or higher:** Open a new[Finder](https://www.lifewire.com/use-mac-finder-2260739) window and click your iPad in the left sidebar.  
    * **macOS 10.14 or earlier, or Windows:** Open iTunes and click the iPad icon at the top left corner.
 6. Click**Restore** . It erases your iPad and restores it to factory settings. Click any onscreen pop-ups to proceed.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Screenshot of restoring an iPad on the Mac](https://www.lifewire.com/thmb/vZCXlGcgvGf0U_bODQVOIefd5m0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restore-ipad-mac-94d38ab385794f849b96ad7ec24b8885.jpg)
 7. When your iPad is erased, you'll go through[the standard set-up steps](https://www.lifewire.com/how-to-set-up-an-ipad-for-first-time-use-4103760) .
 8. If you have a recent backup of your data that you want to use, when you get to the screen about setting up your iPad, choose**Restore from Backup** .  

@@ -1,7 +1,7 @@
 ---
 title: "Connecting and Utilizing External Storage with Your Xbox One: A Step-by-Step Guide"
-date: 2024-08-04 13:58:56
-updated: 2024-08-06 12:36:21
+date: 2024-08-05T02:07:08.707Z
+updated: 2024-08-06T02:07:08.707Z
 categories:
   - BestProducts
 description: "This Article Describes Connecting and Utilizing External Storage with Your Xbox One: A Step-by-Step Guide"
@@ -14,10 +14,16 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 
  A lot of other "computer fan troubleshooting" articles out there recommend software tools that force your computer's fans to slow down, but we never recommend those. There's usually a very good reason for a fan to be running fast or making noise, the root cause of which you're working to solve with the steps below.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Start by Cleaning Your Computer's Fans
 
 **Time Required:** It'll probably take around 30 minutes to clean all the fans in your computer, maybe less if you have a laptop or tablet, and more if you're using a desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![An illustration of a woman cleaning a computer fan with canned air.](https://www.lifewire.com/thmb/TOB6GAr87pf_esAo_hck2soK27Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fix-a-computer-fan-thats-loud-or-making-noise-65d3f7532fe94b3380c92f90c40ecded.jpg)
 
 ​Lifewire / Theresa Chiechi
@@ -33,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 3. If after cleaning a fan, it doesn't move_at all_ , it's time to replace it. Check first that the fan is plugged into the motherboard or whatever is providing the power, but beyond that, it's time for a new one.  
  If the fan is still working but not much better, or if it still isn't behaving like you think it should be, keep reading for some more ideas.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Keep Your Computer From Getting So Hot in the First Place
 
  It's very possible that your fans are all in perfect working order and, now that they're clean, running better than ever. However, if they're_still_ making a lot of noise, it may be because they're being asked to do more than they're designed to do.
@@ -43,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 
  If those ideas don't work, or you're not able to try them, it's time to look at_why_ your hardware might be being pushed to its limit.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Check Task Manager for Hungry Programs
 
  Unless your fan-cooled hardware has a physical issue and is heating up and making your fan noisy for that reason, your operating system and software are the primary reason your hardware works more (i.e., gets hotter).
@@ -52,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 1. [Open Task Manager](https://www.lifewire.com/task-manager-2626025) . The**Ctrl+Shift+Esc** keyboard shortcut combo is the quickest way there but the link has some other methods, too.
 2. Select the**Processes** tab. If you don't see it, try the**More details** link at the bottom of Task Manager.
 3. Select the**CPU** column so that the programs using most of the CPU's capacity are listed first.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Processes and CPU tab in Disk Manager for Windows 10](https://www.lifewire.com/thmb/TjPNAdTta7y3epE90kzfzwoDXW8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_fix-a-computer-fan-thats-loud-or-making-noise-2289b79afa5743589591247feaff0d9c.jpg)
 
  Typically, if an individual program is "out of control" the CPU percentage will be very high — at or close to 100%. Programs listed in the single digits, even up to 25% or more, typically are not a concern.
@@ -66,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 
 [How to Fix It When There Is No Sound From Your Computer Speakers](https://www.lifewire.com/fix-no-sound-from-computer-speakers-5219903)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Reasons Why Your Computer Fan Is Loud or Making Noise
 
  There are a couple of possible reasons why your computer fan is loud or making noise. The first and most common cause is a dirty fan. This can be either dirty fan blades themselves or dirty ball bearings that turn the fan.

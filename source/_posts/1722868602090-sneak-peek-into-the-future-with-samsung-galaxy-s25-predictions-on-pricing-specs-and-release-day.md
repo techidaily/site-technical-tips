@@ -1,7 +1,7 @@
 ---
 title: Sneak Peek Into the Future with Samsung Galaxy S25 - Predictions on Pricing, Specs and Release Day
-date: 2024-08-03 23:17:52
-updated: 2024-08-05 12:15:34
+date: 2024-08-05T02:07:16.039Z
+updated: 2024-08-06T02:07:16.039Z
 categories:
   - BestProducts
 description: This Article Describes Sneak Peek Into the Future with Samsung Galaxy S25 - Predictions on Pricing, Specs and Release Day
@@ -22,12 +22,18 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
  Since[the latest Samsung Galaxy phones](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) were launched just this year, there's not a lot in the way of Galaxy S25 leaks. Nevertheless, we have some ideas about this upcoming smartphone pair and will keep this page updated as we uncover new rumors and leaks throughout the year.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## When Will the Samsung Galaxy S25 Be Released?
 
  Samsung consistently releases its Galaxy S series phones during the first half of each year. With a track record of unveiling new models every year since 2010, there's no need for speculation about the arrival of new Samsung phones.
 
  Since the Galaxy S24 debuted in 2024, we can expect the Galaxy S25 and S25+ to land in 2025.  
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 January or February 2025 is our best guess right now.
@@ -64,6 +70,9 @@ January or February 2025 is our best guess right now.
 
 [Is Samsung an Android? Yes, Here’s What You Need to Know](https://www.lifewire.com/is-samsung-an-android-5215944)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Samsung Galaxy S25 Specs and Hardware
 
  Despite many months remaining until the 2025[Samsung Unpacked](https://www.lifewire.com/samsung-unpacked-news-and-rumors-5093153) event, there are some Galaxy S25 leaks and rumors we can review thus far. Of course, certain aspects are likely to remain consistent, such as the flat edge design and minimal bezels.
@@ -76,6 +85,9 @@ January or February 2025 is our best guess right now.
 
  We're not yet sure how much RAM these phones could be packing, but we're hoping the base model has 12 GB and the Plus model increases to 16 GB. More RAM means that AI can work faster because it can run some of its operations locally, and other phone functions will also benefit.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Larger Displays
 
 [If this rumor is true](https://twitter.com/TheGalox%5F/status/1782058803468423431) , next year's phones could be a little bigger. The X/Twitter post states that the Galaxy S25 will increase from a 6.2-inch display to a 6.36-inch one. It's not a_huge_ change, but it could usher in more than just a bigger screen.
@@ -92,12 +104,23 @@ January or February 2025 is our best guess right now.
 
  It also looks like[the battery isn't changing either](https://www.androidauthority.com/leak-samsung-galaxy-25-battery-3451473/) . The same 4000mAh battery found in the S24 might be used for at least another year.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ### Other Changes
 
 * In addition to faster RAM, these phones might come with faster hard drives,[potentially doubling the speed to 8 GB/s](https://www.sammobile.com/news/next-gen-samsung-galaxy-phones-faster-storage/) . This, again, is useful for everything you do on your phone but is especially beneficial for all the local AI smarts the S25 lineup will surely include.
 * The S24 supports fast wired charging at 25W, which is a bit slower than similar devices like the Pixel 8 which is rated for 27W. We haven't seen any leaks about this changing next year, but we can still hope for the best.
 * The S25 phones could follow Google's lead with the[Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) and support Qi2, the next version of the[Qi wireless charging standard](https://www.lifewire.com/qi-wireless-charging-4151894) .
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Latest News About Samsung Galaxy S25
 
  You[read more smartphone news here at Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Below are some of those stories and more about Samsung and Android specifically.

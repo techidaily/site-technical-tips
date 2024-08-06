@@ -1,7 +1,7 @@
 ---
 title: "Avoid Unwanted News Alerts: Disabling the Live Tile in Windows 11 Explained"
-date: 2024-08-05 22:43:22
-updated: 2024-08-06 12:20:38
+date: 2024-08-05T02:07:12.543Z
+updated: 2024-08-06T02:07:12.543Z
 categories:
   - BestProducts
 description: "This Article Describes Avoid Unwanted News Alerts: Disabling the Live Tile in Windows 11 Explained"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/4813724d53b5cad6b133b133522844cf1838d9743
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Right-click an empty area of the taskbar and choose**Taskbar settings** , then select the toggle next to**Widgets** .
@@ -25,6 +28,9 @@ Close
 
  Disabling this button will clean up your taskbar and prevent you from accidentally opening it or getting distracted by weather icons and stock prices. There are two methods you can follow:  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Use Settings 
 
  The Windows 11 Settings is one way to edit what's visible on the taskbar.
@@ -34,6 +40,9 @@ Close
 3. Choose**Taskbar** on the right.  
 ![Windows 11 Personalization settings](https://www.lifewire.com/thmb/l9IR9LrWHAsHvpRdCj7iHGugZJY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-personalization-settings-905d7b8afd6b4bf199e33b239e05e8f6.png)
 4. Select the toggle next to**Widgets** to disable widget access from the taskbar.  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Widgets and Widgets toggle highlighted in Windows 11 Settings](https://www.lifewire.com/thmb/7sb_PT1-67WvSJa-NH3dvnlXux8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-disable-the-news-and-interests-taskbar-widget-in-windows-11-5190865-7c491b5467d24c21bafb7ad4ae33cd98.jpg)
 
 ### Use the Registry 
@@ -57,10 +66,19 @@ Close
 
 1. Open the widgets board and select the**Settings** button at the top.
 2. Select**Show or hide feeds** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![The Settings screen for the widgets board in Windows 11](https://www.lifewire.com/thmb/_5x4Bth0iWPubYTtvA9bixiKVrM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/widget-settings-windows-11-c61528b90266454f8e681901c3c1b348.png)
 3. Select the toggle next to**My Feed** and then choose**Turn off** to confirm the change.  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Turn Off button for the news feed in Windows 11 Widgets](https://www.lifewire.com/thmb/KDqLuIIX5SxYrbwo-YqkvjjYuDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-widgets-board-feed-a39429220c5c4e91a84d4996cb3631f3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ##  How to Open the Widgets Board Without the Taskbar Shortcut 
 
  It's common for something to be accessible multiple ways in Windows, and the widgets board is no different. The button on the taskbar is really just a shortcut to this feature, so it's no surprise you can still open it without using that button.

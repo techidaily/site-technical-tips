@@ -1,7 +1,7 @@
 ---
 title: Solving the Puzzle - Why Isn't Facebook Marketplace Available to You?
-date: 2024-08-04 20:31:24
-updated: 2024-08-06 12:15:35
+date: 2024-08-05T02:07:30.778Z
+updated: 2024-08-06T02:07:30.778Z
 categories:
   - BestProducts
 description: This Article Describes Solving the Puzzle - Why Isn't Facebook Marketplace Available to You?
@@ -15,6 +15,9 @@ Close
 
  You can't buy or sell on[ Facebook Marketplace](https://www.lifewire.com/what-is-facebook-marketplace-4589107) if the app icon is missing. Here's what's most likely happening and some steps you can take to get the icon back.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Reasons Why the Facebook Marketplace Icon Is Missing 
 
  Here's a list of possible reasons your Facebook doesn't have the Marketplace option:
@@ -26,6 +29,9 @@ Close
 * **Your account is too new** . Facebook Marketplace has been known to not appear at all to new Facebook users. This is likely done to prevent scammers from creating new accounts and selling fake products soon after having previous accounts banned from the platform.
 * **Your access has been revoked** . This can happen if you used Marketplace in a way that violated Facebook's Terms of Service and other policies.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Get Marketplace on Facebook 
 
  Follow these tips to see if you can get the Marketplace icon back in your Facebook account:
@@ -37,6 +43,9 @@ Close
  Still can't find the icon? It might just be hidden. Tap**See more** through the menu.
 5. Select a link to a Marketplace listing. You can have anyone share the link with you. Tap it from your phone to launch Facebook and, hopefully, restore access to Marketplace. You might need to interact with the listing, too, like message the seller.
 6. Switch to your main profile. Other profiles do not support Marketplace. Tap the**menu** and then select the**profile image** to see your options.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Facebook app menu and profile switch options](https://www.lifewire.com/thmb/oRVjQPdCw_s97pfHwrDGOweWXDM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-switch-profile-e00ea826a1b2433eaf8861b98209d386.png)
 7. Give the Facebook app access to your location, and then log out and back in. If you traveled recently, the app might think you're in an unsupported country. Find Facebook in your device's Settings app provide location permissions.
 8. [ Fill out the Marketplace Item Appeal form](https://www.facebook.com/help/contact/953354718105045) . This is the only way to restore access to Facebook Marketplace if an item you were trying to sell wasn't approved because it didn't meet Facebook's policies.
@@ -45,6 +54,9 @@ Close
 
 [  How to Fake a GPS Location on Your Phone ](https://www.lifewire.com/fake-gps-location-4165524) 
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ##  Is There a Facebook Marketplace App? 
 
  While there are separate apps for Facebook and[ Messenger](https://www.lifewire.com/facebook-messenger-4103719) , Marketplace works in two places only: the Facebook mobile app and the Facebook website. Facebook does not make an app specifically for buying and selling on Marketplace.

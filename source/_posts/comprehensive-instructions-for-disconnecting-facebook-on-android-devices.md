@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Instructions for Disconnecting Facebook on Android Devices
-date: 2024-08-02 17:34:43
-updated: 2024-08-05 12:56:44
+date: 2024-08-05T02:07:34.058Z
+updated: 2024-08-06T02:07:34.058Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Instructions for Disconnecting Facebook on Android Devices
@@ -18,6 +18,13 @@ thumbnail: https://www.lifewire.com/thmb/ryCwtVQzGtEm-xrQAbVN25sCvnE=/400x300/fi
 
  This article covers how to upload a new avatar on[Discord](https://www.lifewire.com/discord-4174046) using the desktop app, browser, and mobile apps.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## How to Update Your Discord Avatar
 
  The process for adding or updating your profile picture is the same in a browser and the app. You can also remove the image; Discord doesn't require one.
@@ -30,13 +37,25 @@ thumbnail: https://www.lifewire.com/thmb/ryCwtVQzGtEm-xrQAbVN25sCvnE=/400x300/fi
 3. Select the three-dotted menu to the right of where the image goes.
 4. Select**Change Avatar** .  
  To delete your avatar, select**Delete Avatar** .  
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/_ubg4ot8XIxsdRiJKl8yi2czZzo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage3-ff81b24cf09447b1a89298c27ef9af4a.jpg)
 5. Choose an image.  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/7p7WSfd6m8IiCjx-Vn3CrNBi5wc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage4-a6205545762a49769b025839f0882ec9.jpg)
 6. You can resize or center the image as you see fit.
 7. Click**Apply** .  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/zPQvP51LFBMX5W5ivjpzObfupIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage5-aedff4a1f42145f3b849fc6608730e95.jpg)
 8. Click**Save Changes** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/zSsiau7LE9NhHuZBkN1EWnu9i48=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage7-b6dbbf06f586439d9dcb7d360501836b.jpg)
 
 ## How to Update Your Discord Image on Mobile
@@ -47,6 +66,9 @@ thumbnail: https://www.lifewire.com/thmb/ryCwtVQzGtEm-xrQAbVN25sCvnE=/400x300/fi
 2. Tap your profile image on the bottom right.
 3. Tap**My Account** .
 4. Select the image or image placeholder. Tap**Remove Icon** to delete your profile image.  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/LRJUnTntO_h20_BNbgEV-ueDPQs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile1-3-f0ef1c7128364173b3d659461cd7b74c.jpg)
 5. If this is the first time you've uploaded a profile picture, Discord will ask you for two permissions: to access your camera and your photos and videos. Tap**Allow** or**While using the app** on at least one of these options to proceed.
 6. Select an image app.  

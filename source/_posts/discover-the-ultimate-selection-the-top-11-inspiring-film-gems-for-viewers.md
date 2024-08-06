@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Selection: The Top 11 Inspiring Film Gems for Viewers"
-date: 2024-08-04 22:53:17
-updated: 2024-08-06 10:25:16
+date: 2024-08-05T02:07:39.070Z
+updated: 2024-08-06T02:07:39.070Z
 categories:
   - BestProducts
 description: "This Article Describes Discover the Ultimate Selection: The Top 11 Inspiring Film Gems for Viewers"
@@ -21,6 +21,9 @@ Close
 
 of 11
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Inside Out (2015): A Comforting Reminder That It's OK to Feel All the Things](https://www.imdb.com/title/tt2096673/) 
 
 ![Joy from the animated movie Inside Out](https://www.lifewire.com/thmb/jF02SQcYwbdhKgx3q3zEQX9Z2J8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0013_15-best-inspirational-movies-of-2020-5091979-cfddc4d848164c3e88e39b1c15e764bc.jpeg) 
@@ -77,6 +80,9 @@ HBO Max
 
 of 11
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## [ Crip Camp (2020): Celebrating the Power of Community and Advocacy](https://www.imdb.com/title/tt8923484/) 
 
 ![Crip Camp documentary](https://www.lifewire.com/thmb/TCYE_uq346PFPMIUSfCVk3qQEkw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_15-best-inspirational-movies-of-2020-5091979-1af13fc1d40943a3b4db6e796a0a62b7.jpg) 
@@ -105,8 +111,14 @@ Higher Ground Productions
 
 of 11
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ The Peanut Butter Falcon (2019): Adventure Tale About Friendship and Chosen Family](https://www.imdb.com/title/tt4364194/) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Raft scene from The Peanut Butter Falcon](https://www.lifewire.com/thmb/thHSfDD6k1oSZvvVTN3hqqSXKqU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_15-best-inspirational-movies-of-2020-5091979-2d148d78c2b74cb79542dc270b851808.jpeg) 
 
 Roadside Attractions
@@ -133,8 +145,14 @@ Roadside Attractions
 
 of 11
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Mangrove (2020): An Inspiring True Story of Activism](https://www.imdb.com/title/tt10551100/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A protest scene in Small Axe: Mangrove](https://www.lifewire.com/thmb/5rXqVmlX86rEttmtWiBPGBtOUK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_15-best-inspirational-movies-of-2020-5091979-6595855028144405bcb62a2f1ba9867a.jpg) 
 
 Amazon Prime Video
@@ -165,6 +183,9 @@ of 11
 
 ## [ CODA (2021): A Different Kind of Coming of Age Film](https://www.imdb.com/title/tt10366460/) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Key art for the Apple TV original film 'CODA'](https://www.lifewire.com/thmb/s6jjPIekCqjWyeAibdjgSYi5Bok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CODA-d4dd2a9b6c3d4a008a05c9718c9bce1e.jpg) 
 
 Apple
@@ -193,6 +214,9 @@ of 11
 
 ## [ Skater Girl (2021): An Untraditional Teen Sports Movie](https://www.imdb.com/title/tt6964940/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![Rachel Saanchita Gupta and Shafin Patel in 'Skater Girl' ](https://www.lifewire.com/thmb/cwZVQ7uYBiAYcvdPSlqVmqpHVNI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SkaterGirl-cdec994a3ed64e5ab479557cf51f0478.jpg) 
 
 Netflix
@@ -247,6 +271,9 @@ of 11
 
 ## [ Hidden Figures (2016): Inspirational Women Who Shaped History](https://www.imdb.com/title/tt4846340/) 
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scene of main characters dancing in Hidden Figures](https://www.lifewire.com/thmb/GeWLkuMT0S7LxKp_56EkT3fNkOw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_15-best-inspirational-movies-of-2020-5091979-53d3f0b5778a48bcaf625143f59c2b6a.jpeg) 
 
 20th Century Studios
@@ -303,6 +330,10 @@ of 11
 
 ## [ Bruised (2020): A Knock-Out About Fighting for Family](https://www.imdb.com/title/tt8310474/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![Halle Berry in Bruised](https://www.lifewire.com/thmb/Ld0dwnjfA3BreVo9a6sOD3vun8E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-january-2022-cec6f4f8743944048693231b4d8f4a55.jpg) 
 
 Netflix

@@ -1,7 +1,7 @@
 ---
 title: "Simplified Steps: The Right Way to Delete Unwanted Apps From a Samsung TV"
-date: 2024-08-03 16:40:26
-updated: 2024-08-05 10:31:37
+date: 2024-08-05T02:07:37.550Z
+updated: 2024-08-06T02:07:37.550Z
 categories:
   - BestProducts
 description: "This Article Describes Simplified Steps: The Right Way to Delete Unwanted Apps From a Samsung TV"
@@ -30,21 +30,36 @@ thumbnail: https://thmb.techidaily.com/986874e17643e7ae409323b1b4781d84760454bfa
 4. Choose**Delete** once more to confirm.  
 ![The Delete confirmation button highlighted for a Samsung smart TV app.](https://www.lifewire.com/thmb/bUIYMfZuOwS03RcHtEtzIOHvUpo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-DeleteAppsonaSamsungSmartTV-annotated-ec04a0a20a6f4306a7c6ad32581c69e2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Remove Apps From a 2020 Samsung Smart TV
 
  Follow these steps to delete apps on 2020 (TU/Q/LS series) Samsung TVs:
 
 1. Press the**Home** button on your remote to bring up the smart hub, then select**Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Settings button highlighted on a Samsung smart TV.](https://www.lifewire.com/thmb/Qypi11DKGbZSy0koWTbQncM6L0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-DeleteAppsonaSamsungSmartTV-annotated-7beffee10805467793b18721c16fdd5b.jpg)
 2. Scroll down to the**Support** tab (the cloud with a question mark), then select**Device Care** .  
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The cloud icon and Device Care button highlighted on a Samsung smart TV.](https://www.lifewire.com/thmb/ZfQ9Tzt7mMrXVG1yTzmh9ZaHEgg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-DeleteAppsonaSamsungSmartTV-annotated-d2e57fe2211d43aaa1730100d8f16ed8.jpg)
 3. Wait for your TV to run a quick scan, then select**Manage Storage** .  
 ![Manage Storage highlighted on a Samsung smart TV.](https://www.lifewire.com/thmb/e47LfDMXOatjhRdMApvZsd7tb88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B3-DeleteAppsonaSamsungSmartTV-annotated-40117ae840154a799b5927c50f92ff08.jpg)
 4. Select the app(s) you want to remove, then select**Delete** .  
 ![Apps and the Delete button highlighted on a Samsung TV.](https://www.lifewire.com/thmb/4sJNz0IEAY8ZfS9IeOhkW4RBEEQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B4-DeleteAppsonaSamsungSmartTV-annotated-97741d1b983f4d38818eee28a52c960d.jpg)
 5. Select**OK** to confirm.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![The OK button highlighted on a Samsung TV.](https://www.lifewire.com/thmb/Y5gDDES0gDRNQDqsH_kYn_0ciEs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B5-DeleteAppsonaSamsungSmartTV-annotated-856466337ed74429ad1680eb344dc5fa.jpg)
 6. A status bar will appear showing the deletion progress. When it reaches 100%, select **OK** . The app should no longer appear in your viewing selection.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The OK button highlighted on a Samsung smart TV.](https://www.lifewire.com/thmb/ADfWAAoA0BfktxOvMWAL7_GNlws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B6-DeleteAppsonaSamsungSmartTV-annotated-f86196a1ea80449781c907b7f906d0a3.jpg)
 
 ## How to Remove Apps From 2017-2019 Samsung TVs
@@ -54,10 +69,20 @@ thumbnail: https://thmb.techidaily.com/986874e17643e7ae409323b1b4781d84760454bfa
 1. Press the**Home** button on your remote control to access the Samsung TV Smart Hub.  
 ![Samsung Remote Control – Select Home Button](https://www.lifewire.com/thmb/foUbMjrIil5RlNPH89krTZfUaDU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-delete-apps-on-a-samsung-smart-tv-4589138-3e50c59f3779468793623f45b0e7c3e2.jpg)
 2. Select the**Apps** icon (the four small boxes) using the remote's directional pad.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Samsung Remote with Smart Hub Bar](https://www.lifewire.com/thmb/X-SUQcz81pXwHGfpCDIlkhMCTqE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-delete-apps-on-a-samsung-smart-tv-4589138-84b621f0611c402fa964af0fd7ba750d.jpg)
 3. Select**Settings** (the gear icon) located in the upper-right corner of the screen.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Samsung TV Apps Settings Icon on Top Right Corner](https://www.lifewire.com/thmb/C-gD-DBwPSSG7hOxzj096gs-dik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-delete-apps-on-a-samsung-smart-tv-4589138-f3da43c298a2452081d3efc75d70bc30.jpg)
 4. Scroll down to the**Downloaded App** section and select the app you want to delete.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Samsung Downloaded Apps Row - 2018 Models](https://www.lifewire.com/thmb/7yBbp9H-CcuTP6jLRCvIiXaBQuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-dowloaded-apps-2018-5c8a676ac9e77c0001ac17d6.jpg)  
 Samsung
 5. Select**Delete** from the pop-up menu. You may be prompted to select**Delete** a second time to confirm.  
@@ -71,13 +96,22 @@ Samsung
 1. Press the**Home** button on your remote control and select**Apps** .  
 ![Samsung Smart Hub Home Screen – Select Apps](https://www.lifewire.com/thmb/uqXjVXWOyhmpfHQH6dnFxU7CEiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-delete-apps-on-a-samsung-smart-tv-4589138-2dea27a19a0c4324b70d319fb4726f03.jpg)
 2. Select**My Apps** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Samsung Smart TV My Apps Screen](https://www.lifewire.com/thmb/MjqqxevnOEchyIoOKcGbRCAHw4Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-delete-apps-on-a-samsung-smart-tv-4589138-2bfa7aead22e4782b99fc6e90290377b.jpg)
 3. Select**Options** at the bottom of the apps screen.  
 ![Samsung My Apps – Select Options](https://www.lifewire.com/thmb/A4OYLIJDcvLVunxhqf3068DWPLU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_how-to-delete-apps-on-a-samsung-smart-tv-4589138-507fc9bbf17240e4b8c4f7fdc9956f1a.jpg)  
  On J/JU/JS series TVs,**Options** and**Delete** are located at the top of the screen.
 4. Select**Delete** from the menu.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Samsung My Apps – Select Delete in Options](https://www.lifewire.com/thmb/nL8L_UgpnnFuyWjmSyyVXfO3B_0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_how-to-delete-apps-on-a-samsung-smart-tv-4589138-a295266b0cc445b7b3c89668dd615129.jpg)
 5. Select the app(s) that you want to delete.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Samsung Delete Screen – Select App to be Deleted](https://www.lifewire.com/thmb/sozGqmN1cyhSerkZ59KJEdkxXjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_how-to-delete-apps-on-a-samsung-smart-tv-4589138-a45fdd8d72414b9ea0fe982ea5213258.jpg)  
  Factory pre-installed apps will be grayed out since they cannot be deleted.
 6. Select**Delete** at the bottom of the screen.  
@@ -85,10 +119,16 @@ Samsung
 7. Select**Delete** again to confirm.  
 ![Samsung Delete Screen – Confirm App to be Deleted](https://www.lifewire.com/thmb/_Z06MsMYA6vJa5hZUbXuZeSzQLY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011_how-to-delete-apps-on-a-samsung-smart-tv-4589138-b6260c7548214f9192c218d7deb2cdc9.jpg)
 8. A status bar will appear showing the deletion progress. When it reaches 100%, select**OK** . The app should no longer appear in your viewing selection.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Samsung – App Deleted - OK button](https://www.lifewire.com/thmb/EjsKvUWI_eMNCrUMpa-afPVn5KE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_how-to-delete-apps-on-a-samsung-smart-tv-4589138-efa61025c2af448bb32878aa3d6cfbae.jpg)
 
  The[Samsung support page](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2F) has steps for deleting apps from older Samsung TV models (E/EG/ES, H, HU, F series).
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Hide Apps on the Samsung TV Home Screen
 
  If you can't (or don't want to) delete an app, you can at least remove it from the home menu:
@@ -99,6 +139,9 @@ Samsung
 2. Press the**down** button on the remote.
 3. Select**Remove** , then select**Remove** again in the pop-up confirmation box. The app should no longer appear on the home screen.  
  You can also move the position of the app on the app bar by selecting**Move** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![Samsung App – Confirm Remove App From App Launcher](https://www.lifewire.com/thmb/gfBVJWJFSqCLJCtMsCu1SRsob_w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/014_how-to-delete-apps-on-a-samsung-smart-tv-4589138-b91dd2d983894e539763af3c3adf88de.jpg)
 
  You can still access apps you removed from the home screen on the My Apps page.

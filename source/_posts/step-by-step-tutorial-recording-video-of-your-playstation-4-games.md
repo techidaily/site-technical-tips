@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Recording Video of Your PlayStation 4 Games"
-date: 2024-08-03 14:29:42
-updated: 2024-08-06 11:47:48
+date: 2024-08-05T02:07:03.971Z
+updated: 2024-08-06T02:07:03.971Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Tutorial: Recording Video of Your PlayStation 4 Games"
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
  For quick reference,[802.11be (Wi-Fi 7)](https://www.lifewire.com/what-is-wi-fi-7-6950913) , approved in 2024, is the most recent standard. However, just because a standard is approved does not mean it is available to you or is the standard you need for your particular situation. These are routinely updated, much like how software is updated on smartphones or computers.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is 802.11?
 
  In 1997, the Institute of Electrical and Electronics Engineers created the first WLAN standard. They called it_802.11_ after the name of the group formed to oversee its development. Unfortunately, 802.11 only supported a maximum[network bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) of 2 Mbps—too slow for most applications. For this reason, ordinary 802.11 wireless products are no longer manufactured. However, an entire family has sprung up from this initial standard.
@@ -24,10 +27,16 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
  Below is a brief look at the most recently approved iterations, outlined from newest to oldest. Other iterations, like 802.11bn (Wi-Fi 8), are still being approved.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![A comparison chart of the Pros and Cons of the wireless standards 802.11ac, 802.11n, and 802.11g.](https://www.lifewire.com/thmb/nKbWckJ_1AKQ-SoggPXVECQ_pK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wireless-standards-802-11a-802-11b-g-n-and-802-11ac-816553-36294250342e404eabe7dc94bc7a40f9.png)
 
 Lifewire
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 802.11be (Wi-Fi 7)
 
  Released in January 2024, 802.11be (aka Wi-Fi 7) is the latest standard. It's much faster than Wi-Fi 6, reaching speeds up to 46 Gbps. Wi-Fi 7 is designed to use power efficiently and handle crowded Wi-Fi areas better.
@@ -68,6 +77,9 @@ Lifewire
 
  While 802.11n offers significant bandwidth improvement from previous standards and is widely supported, the use of multiple signals may interfere with nearby 802.11b/g-based networks.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 802.11g (Wi-Fi 3)
 
  In 2002 and 2003, WLAN products supporting a newer standard called 802.11g emerged. 802.11g attempts to combine the best of both 802.11a and 802.11b. 802.11g supports bandwidth up to 54 Mbps and uses the 2.4 GHz frequency for greater range. 802.11g is backward compatible with 802.11b, meaning that 802.11g[access points](https://www.lifewire.com/wireless-access-point-816545) will work with 802.11b wireless[network adapters](https://www.lifewire.com/definition-of-adapter-817585) and vice versa.
@@ -76,6 +88,9 @@ Lifewire
 
  802.11g is also unofficially referred to as_Wi-Fi 3_ .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 802.11a (Wi-Fi 2)
 
  While 802.11b was in development, IEEE created a second extension to the original 802.11 standard called_802.11a_ . Because 802.11b gained popularity much faster than 802.11a, some folks believe that 802.11a was created after 802.11b. In fact, 802.11a was created at the same time. Due to its higher cost, 802.11a is usually found on business networks, whereas 802.11b better serves the home market.
@@ -86,6 +101,9 @@ Lifewire
 
  802.11a is also unofficially referred to as_Wi-Fi 2_ .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## 802.11b (Wi-Fi 1)
 
  IEEE expanded on the original 802.11 standard in July 1999, creating the_802.11b_ specification. 802.11b supports a theoretical speed of up to 11 Mbps. A more realistic bandwidth of 2 Mbps (TCP) and 3 Mbps (UDP) should be expected.

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Your Inbox: Tips for Creating a Secondary Gmail ID"
-date: 2024-08-05 15:10:12
-updated: 2024-08-06 12:50:46
+date: 2024-08-05T02:07:22.051Z
+updated: 2024-08-06T02:07:22.051Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Your Inbox: Tips for Creating a Secondary Gmail ID"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 ---
 
 ## Mastering Your Inbox: Tips for Creating a Secondary Gmail ID
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Temporary: Drop a period somewhere in your email address, like this:_e.xamp.le@gmail.com_ .
@@ -20,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
 [Gmail](https://www.lifewire.com/best-gmail-tips-tricks-and-tutorials-1172146)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Make a Temporary Alias for Gmail
 
  Gmail ignores certain characters in your email address, but most other websites do not. This means you can "hack" your email address to create potentially dozens of aliases for use on pretty much any website. And yes, it's free (and really easy to do)!
@@ -35,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 `example+dating@gmail.com`  
  If you get an error when you use a plus sign, remove it and stick to periods; some websites might not know how to deal with a plus sign.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How Do These Aliases Work?
 
  All you really need to know about Gmail email addresses with periods in them (or those that use the plus sign, like in the examples above) is that Gmail pretends those characters aren't there. It treats each of those examples above as the exact same address.
@@ -47,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
  It's up to you what you write after the plus sign, but it's smart to stick to a topic that makes sense for where you use the address (like dating or shopping sites). You can build as many of these aliases as you want, so there's little reason to use the same one on unrelated websites.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Permanently Add an Alias to Gmail
 
  The other way of creating a Gmail alias is useful if you already have multiple email addresses (separate accounts, not just aliases) and would like a quick way to send mail on behalf of the other account.
@@ -55,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
  Once you're finished, you'll be able to select the alias next to the**From** box when composing a new email.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![Three email addresses listed next to Gmail's From box while making a new message](https://www.lifewire.com/thmb/s927zYoisFYCpzO0pfUbsSpXTG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gmail-aliases-9f19ea00154449a6bdfbe44f8a17a595.png)
 
  To do this,[open Gmail's Accounts and Import settings](https://mail.google.com/mail/u/0/#settings/accounts) to the**Send mail as** section and complete the on-screen steps. We have a guide on[how to send mail from a different account in Gmail](https://www.lifewire.com/send-mail-from-a-custom-email-address-with-gmail-1172019) that details the whole process.  

@@ -1,12 +1,12 @@
 ---
 title: Discover the Best LGBTQ Shows Available on Netflix This July
-date: 2024-08-04 13:56:46
-updated: 2024-08-05 11:58:46
+date: 2024-08-05T02:07:18.022Z
+updated: 2024-08-06T02:07:18.022Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Best LGBTQ Shows Available on Netflix This July
 excerpt: This Article Describes Discover the Best LGBTQ Shows Available on Netflix This July
-thumbnail: https://www.lifewire.com/thmb/Kjjyyc_72u15QvgACgVI3pdI338=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_the-best-lgbt-movies-on-netflix-right-now-june-2022-5069913-8dbc370e568349c8a347c650353f17b1.jpg
+thumbnail: https://thmb.techidaily.com/6d644818f4603c573461e1572ce0a1a0270aa91bb3cb0a406132a63c5b84e5a5.jpg
 ---
 
 ## Discover the Best Places Online to Get Your Hands on Free E-Books
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/Kjjyyc_72u15QvgACgVI3pdI338=/400x300/fi
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Project Gutenberg](https://www.gutenberg.org/)
 
 ![Project Gutenberg](https://www.lifewire.com/thmb/4OcH6StH0miYClcfFav0B809yrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/project-gutenberg-c74c7035f2e84229a51ad1d6d0d3c503.png)
@@ -45,8 +48,14 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ManyBooks](https://manybooks.net/)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ManyBooks horror books](https://www.lifewire.com/thmb/VUNvSbfPj4JxsPpoQ-aeLSDRMoo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/manybooks-horror-66393c2957f74d4e887e11a46e63cbae.png)
 
  What We Like
@@ -72,6 +81,9 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## [Open Library](https://openlibrary.org/)
 
 ![Open Library free fantasy books](https://www.lifewire.com/thmb/-ctO4xId9XQoiLRkftJcE3RwBc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/open-library-free-books-90d83651ac8441ecbcf38bd648ad33ce.png)
@@ -123,6 +135,9 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Google Play Books](https://play.google.com/store/books)
 
 ![Google Play's top free ebooks](https://www.lifewire.com/thmb/rWdOx4g3sL9wBs75Gen-8fKmwLc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-play-free-books-7805ff6114d3413b981bad07ad9309a9.png)
@@ -175,6 +190,9 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## [Authorama](https://www.authorama.com/)
 
 ![Authorama free book library](https://www.lifewire.com/thmb/lYssuu_g6PSku3pyk0pf5_swye8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/authorama-free-books-58fce73bc8574d86adfd5ea1ca34208f.png)
@@ -203,6 +221,9 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Wikisource](https://wikisource.org/wiki/Main%5FPage)
 
 ![Wikisource home page](https://www.lifewire.com/thmb/MBfdbz4twoDq9wAPQBtLc2vgjh0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wikisource-a1d3f9ef301e4806b50e61c49375b852.png)
@@ -227,6 +248,9 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## [Wikibooks](https://www.wikibooks.org/)
 
 ![Wikibooks home page](https://www.lifewire.com/thmb/YF1AE5jQiXAwL2BMn0sqD0bT3hg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wikibooks-db10b097678243d9af53a357b0730389.png)
@@ -254,6 +278,9 @@ of 17
 
 ## [Free-eBooks.net](https://www.free-ebooks.net/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![free-ebooks.net romance books](https://www.lifewire.com/thmb/MFwV8nsWimWGfjT3kr47omFtjzM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-ebooks-romance-books-e1de021c14b64c58b4e148e0d206c144.png)
 
  What We Like
@@ -276,8 +303,14 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## [The Online Books Page](https://digital.library.upenn.edu/books/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The Online Books Page](https://www.lifewire.com/thmb/NtXfFY_H2MOVz3zuO7C0KZ49Fs8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/online-books-page-292c14fbd74942d0bb05d4b5241be408.png)
 
  What We Like
@@ -302,6 +335,13 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## [eBooks.com](https://www.ebooks.com/free)
 
 ![Free book downloads at eBooks.com](https://www.lifewire.com/thmb/f64HJTqNV5QI7QMKZTlbQF51FgY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ebooks-com-free-books-8efd93df14464c68b139adde505dec38.png)
@@ -330,6 +370,9 @@ of 17
 
 ## [International Children's Digital Library](http://childrenslibrary.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![International Children's Digital Library](https://www.lifewire.com/thmb/BfmcMPozUonvQpPrd_lOJrsHPRk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/international-childrens-digital-library-2bc17e8bfa0c4a8f87f80e695d36b273.png)
 
  What We Like
@@ -379,6 +422,9 @@ of 17
 
 ## [Free Computer Books](https://freecomputerbooks.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Free Computer Books](https://www.lifewire.com/thmb/kpGWwXVxeczS8A5cNT55XNUrNTc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-computer-books-695ea6d8e0b940dbb08d6bd996afb63d.png)
 
  What We Like
@@ -402,6 +448,9 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [Sacred Texts](https://www.sacred-texts.com/)
 
 ![The home page for the Internet Sacred Text Archive website](https://www.lifewire.com/thmb/ntP2NHa4fP5BSlaszy1nVXzXXVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sacred-texts-e689ebc376f646b59b8c7af55726591b.png)
@@ -427,6 +476,10 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## [SlideShare](https://www.slideshare.net/)
 
 ![The Slideshare home page](https://www.lifewire.com/thmb/u86635z-EttY7kv47Qh_qv5FUwE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Slideshare-1843ff9a9d0c41389449798ac5a4aecf.jpg)

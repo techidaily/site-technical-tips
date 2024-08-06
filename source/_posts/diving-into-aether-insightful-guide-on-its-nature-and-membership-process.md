@@ -1,7 +1,7 @@
 ---
 title: "Diving Into Aether: Insightful Guide on Its Nature & Membership Process"
-date: 2024-08-03 13:17:45
-updated: 2024-08-06 11:37:43
+date: 2024-08-05T02:07:05.787Z
+updated: 2024-08-06T02:07:05.787Z
 categories:
   - BestProducts
 description: "This Article Describes Diving Into Aether: Insightful Guide on Its Nature & Membership Process"
@@ -15,8 +15,14 @@ Close
 
  Aether is a distributed, peer-to-peer discussion platform similar to Reddit, but with a stronger focus on privacy, resisting censorship, and giving more control to users. Because[ Aether's platform](https://aether.app) is peer-to-peer, each user is a publisher and server unto themselves, giving them maximum control over what's published, what they see, and what communities they join. This article explains Aether, looks at how to sign up and what it costs, and how Aether compares to Reddit and X (formerly Twitter).
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is Aether? 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of the Aether app on a Mac](https://www.lifewire.com/thmb/7w6CZUfKL5XADA7AEjQn1Ovy8-c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/aether-app-3f2bd81e290a4e17bd56810bbda6f362.jpg) 
 
  Aether is a discussion platform similar to[ Reddit](https://www.lifewire.com/how-to-use-reddit-5323291) and[ X](https://www.lifewire.com/what-exactly-is-twitter-2483331) (though more so Reddit), that uses peer-to-peer technology to avoid censorship and provide high levels of user control.
@@ -31,10 +37,16 @@ Close
 
  Aether is intended for a much more technical audience. It's best for people who know what "globs" or stars are when it comes to allow-lists for domains, and who understand crypto and[ blockchain](https://www.lifewire.com/what-is-web3-5271876#toc-are-there-any-examples-of-web3-today) well enough to grasp the explanation of why Aether isn't based on the blockchain.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ###  Aether Pro
 
  The company touts Aether Pro, "a private, team-based version of Aether as a collaboration tool, like Slack." This version of the platform offers live chat rooms, structured discussion threads, email newsletters, and more. However, nothing on the site indicates what it costs or how to sign up for it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Many People Use Aether? 
 
  The company doesn't publish this information. In[ a 2021 interview with a co-founder of the platform](https://thenewstack.io/aether-a-decentralized-reddit-with-self-moderation-and-privacy/) , he said Aether has about 2,000 users. By contrast, Reddit claims 52 million users.
@@ -45,6 +57,9 @@ Close
 
  Aether does not use blockchain. For the technical reader, Aether provides[ a long, very detailed explanation of the technology used to create and operate](https://getaether.net/docs/faq/aether%5Fcryptography/) the platform.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ##  How Do I Join Aether? 
 
  Joining Aether is easy: Just[ download the peer-to-peer desktop app](https://getaether.net) (it's available for Windows, Mac, and Linux).
@@ -83,6 +98,9 @@ Close
 * Algorithmic delivery of content (on X)
 * Unique usernames
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion 
 
  Aether may be of interest to a certain kind of user. The promise of a decentralized, unmoderated discussion space is just what some people are looking for. However, with such a small user base, it remains to be seen if the service catches on with more people. As of right now, its small user base can't come close to matching the breadth of Reddit or X.

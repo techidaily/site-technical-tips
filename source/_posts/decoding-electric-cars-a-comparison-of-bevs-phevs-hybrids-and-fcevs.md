@@ -1,7 +1,7 @@
 ---
 title: "Decoding Electric Cars: A Comparison of BEVs, PHEVs, Hybrids & FCEVs"
-date: 2024-08-05 13:57:13
-updated: 2024-08-06 10:14:29
+date: 2024-08-05T02:07:30.657Z
+updated: 2024-08-06T02:07:30.657Z
 categories:
   - BestProducts
 description: "This Article Describes Decoding Electric Cars: A Comparison of BEVs, PHEVs, Hybrids & FCEVs"
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
  The unifying factor is that every electric vehicle includes an electric motor to drive the vehicle, either alone or in concert with a gasoline-reliant internal combustion engine (ICE). While all of these vehicles use electricity in one way or another, only battery electric vehicles are pure EVs.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## The Basic Breakdown 
 
 Julie Bang
@@ -31,6 +35,9 @@ Julie Bang
 
  Battery electric vehicles are purely electric. Unlike other types of EVs, BEVs rely only on battery power. These vehicles don’t have internal combustion engines, don’t have tailpipes, and produce zero emissions during operation. Since there is no internal combustion engine, the battery needs to be charged by plugging it in.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Close Up Of Electric Motor In Engine Bay Of Electric Car](https://www.lifewire.com/thmb/ffwwoE4gDDdyP2WtPjkGPtd0ffQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/EVenginecloseup_mokeybusinessimages_iStock_GettyImagesPlus-44213dd675b54cf9851b2d793638aa74.jpg) 
 
  Close up of electric motor. 
@@ -49,6 +56,9 @@ monkeybusinessimages/iStock/Getty Images Plus
 
  The electric motor and ICE work in concert, and the presence of an electric motor usually allows the ICE to be smaller than it would be in a non-electric vehicle.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![A hybrid car engine.](https://www.lifewire.com/thmb/uVPkl2cTlSiqQLXZPZWImBUQd1o=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Hybridcarengine_cipango27_istock_GettyImagesPlus-cf4ab821bf0046169f1cb7bd2fa1982c.jpg) 
 
 A hybrid car engine. 
@@ -71,6 +81,9 @@ cipango27/iStock/Getty Images Plus
 
  PHEVs are referred to as parallel because the electric motor and the ICE work in parallel. They’re both connected to the drivetrain mechanically, which allows the ICE to work by itself, the electric motor to work by itself, or for one to assist the other. You can think of this type of PHEV as the combination of an ICE vehicle and a BEV, with both systems capable of working separately or in unison with the other.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Close up of plug-in hybrid port of an Hybrid Electric Vehicle (PHEV).](https://www.lifewire.com/thmb/UZwtFdgGMf7WVcSLy44woscGk-A=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/PHEVpluginport_Boy_Anupong_Moment_Getty-663b083340fb44b5a8105fd74beffb53.jpg) 
 
  Close up of the plug-in/gas port of an Hybrid Electric Vehicle (PHEV). 
@@ -91,6 +104,10 @@ Boy\_Anupong/Moment/Getty
 
  Since fuel cells rely on hydrogen to operate, they need to be periodically charged with hydrogen similar to the way you have to fuel up an ICE vehicle with gasoline or diesel. The difference is that while gas stations are abundant, hydrogen fueling stations are only found in a small handful of markets in California.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![HydroGen 3 Fuel Cell Minivan Engine](https://www.lifewire.com/thmb/YWfDVNWTFGaPJrWOCm7GpOvXtrM=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Fuelcellengine_Arctic-Images_TheImageBankUnreleased-1e096669f0f5453ba1c4c5e997679dbc.jpg) 
 
  HydroGen 3 Fuel Cell Minivan Engine. 
@@ -101,6 +118,10 @@ Arctic-Images/The Image Bank Unreleased
 
  For example, if you lived near fuel stations in Los Angeles, you couldn’t take a weekend trip to Las Vegas. While the travel distance of about 240 miles might be inside your range, you wouldn’t be able to fuel up before heading home. Even if your FCEV had a range of 366 miles, you’d run out of hydrogen somewhere in the desert on your return trip. To safely make the same trip, a long range BEV could simply charge up before the return trip, while a shorter range BEV could stop at charging stations along the way.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  Why Are There So Many Types of EVs? 
 
  Electric vehicle technology has been around for over 200 years, but it only came back into focus and started evolving rapidly in the last couple decades.
