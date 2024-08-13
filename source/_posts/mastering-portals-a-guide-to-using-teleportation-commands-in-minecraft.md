@@ -1,0 +1,164 @@
+---
+title: "Mastering Portals: A Guide to Using Teleportation Commands in Minecraft"
+date: 2024-08-12T02:59:43.941Z
+updated: 2024-08-13T02:59:43.941Z
+categories:
+  - BestProducts
+description: "This Article Describes Mastering Portals: A Guide to Using Teleportation Commands in Minecraft"
+excerpt: "This Article Describes Mastering Portals: A Guide to Using Teleportation Commands in Minecraft"
+thumbnail: https://thmb.techidaily.com/84164da8d50de5c78ef7a37eabfb52e8bc2ce824a8108b09359dc8a81eead685.jpeg
+---
+
+## Master the Art of Awkward Potion Creation in Minecraft - Tutorial Inside
+ The Awkward Potion in Minecraft doesn't have any power on its own; however, if you combine it with other ingredients, you can brew a lot of useful potions.
+
+ Instructions in this article apply to Minecraft for all platforms including Windows, PS4, and Xbox One.
+
+## How to Make an Awkward Potion in Minecraft
+
+ Follow these steps to collect the materials and craft an Awkward Potion in Minecraft.  
+
+1. Craft **Blaze Powder** with a**Blaze Rod** .  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Craft Blaze Powder with a Blaze Rod.](https://www.lifewire.com/thmb/qSMCUF6bbvZMVtIw7PWru7OxLnk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-17cf8c053f0a43a7ad87853eab45ff92.jpg)
+2. Make a**Crafting Table** with 4 wood planks. Any type of plank (**Warped Planks** , **Crimson Planks** , etc.) will do.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+![Make a Crafting Table with 4 wood planks.](https://www.lifewire.com/thmb/FrhprZpyD-UmvnQ8_WU_j2ywbTM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-2b6becda954b4f6ca22144303a9d7a30.jpg)
+3. Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.  
+![Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.](https://www.lifewire.com/thmb/_KMBsLRFlAKz_Vsv7IDm4NPdlsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-7747868208ee4f78a3588c8c7f34ed57.jpg)
+4. Craft a **Brewing Stand** . Put**1** **Blaze Rod** in the middle of the top row, then put **3 Cobblestones** in the middle row.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+![Put 1 Blaze Rod in the middle of the top row, then put 3 Cobblestones in the middle row.](https://www.lifewire.com/thmb/xhvaykHAzNU4zphBdJKIhTqT72A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-ca12414471df435c88e8e25d694c853e.jpg)
+5. Place the **Brewing Stand** on the ground and interact with it to bring up the brewing menu.  
+![Place the Brewing Stand on the ground and interact with it to bring up the brewing menu.](https://www.lifewire.com/thmb/YfgJEhKKlkc-7vyOQvB0NpYmHxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-76b8ca6ad2c04b3c95e6a7c15bb0f401.jpg)
+6. Add**1** **Blaze Powder** to the box in the upper-left corner of the brewing menu to activate the **Brewing Stand** .  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Add 1 Blaze Powder to the box in the upper-left corner to activate the Brewing Stand.](https://www.lifewire.com/thmb/ePA5ABxVZJ_IXRMUbvCLECLQryw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-132e911c37704b818f71e52c2a4c2b6e.jpg)
+7. Put a **Water Bottle** in one of the three boxes at the bottom of the brewing menu.  
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Add the Water Bottle to one of the three boxes at the bottom of the brewing menu.](https://www.lifewire.com/thmb/XN8yw9gjspE70SuTZBbP7LahfTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-483d26234f9a46d49dcc4cb51bdc1556.jpg)  
+ Make up-to three potions at once by putting Water Bottles in the other bottom boxes.
+8. Put**1 Nether Wart** in the box at the top of the brewing menu.  
+![Put 1 Nether Wart in the box at the top of the brewing menu.](https://www.lifewire.com/thmb/MjgshJ6DqtRW1P8bW7GvdnTRDOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-7bb3bff99f2d4daebf1c93c83857ae01.jpg)
+9. Wait for the brewing process to complete. When the progress bar is full, your bottle will contain an **Awkward Potion** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+![An Awkward Potion in the Minecraft brewing menu](https://www.lifewire.com/thmb/Xzcxnyt-aDK0ePczNoemcIAZvHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-0b25cf0050e941f79637b623ef38296d.jpg)  
+
+## Awkward Potion Recipe  
+
+ Here are the materials required to brew an Awkward Potion in Minecraft:  
+
+* A Crafting Table (craft with 4 Wood Planks)  
+* A Brewing Stand (craft with 1 Blaze Rod and 3 Cobblestones)  
+* 1 Blaze Powder (craft with 1 Blaze Rod)  
+* 1 Water Bottle  
+* 1 Nether Wart  
+
+## What Does an Awkward Potion Do in Minecraft?  
+
+ The Awkward Potion is an essential base ingredient for many other potions. Here's a list of what you can make with an Awkward Potion.  
+| Base           | Ingredient       | Potion                      |  
+| -------------- | ---------------- | --------------------------- |  
+| Awkward Potion | Golden Carrot    | Potion of Night Vision      |  
+| Awkward Potion | Magma Cream      | Potion of Fire Resistance   |  
+| Awkward Potion | Rabbit's Foot    | Potion of Leaping           |  
+| Awkward Potion | Sugar            | Potion of Swiftness         |  
+| Awkward Potion | Glistering Melon | Potion of Healing           |  
+| Awkward Potion | Spider Eye       | Potion of Poison            |  
+| Awkward Potion | Ghast Tear       | Potion of Regeneration      |  
+| Awkward Potion | Blaze Powder     | Potion of Strength          |  
+| Awkward Potion | Pufferfish       | Potion of Water Breathing   |  
+| Awkward Potion | Turtle Shell     | Potion of the Turtle Master |  
+| Awkward Potion | Phantom Membrane | Potion of Slow Falling      |
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-captivating-costless-visual-collaboration-games/"><u>[New] In 2024, Captivating Costless Visual Collaboration Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-pinnacle-of-image-capture-toolwiz-apps-extended-review/"><u>[New] In 2024, The Pinnacle of Image Capture  Toolwiz App's Extended Review</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-eyes-on-the-digital-winners-top-channels/"><u>[Updated] 2024 Approved  Eyes on the Digital Winners  Top Channels</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-navigating-fb-lives-dual-screen-dynamics-essential-insights/"><u>[Updated] 2024 Approved  Navigating FB Live's Dual-Screen Dynamics  Essential Insights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-crafting-immersive-experiences-with-captions-on-stories-and-reels/"><u>[Updated] Crafting Immersive Experiences with Captions on Stories & Reels</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-race-for-screen-capture-excellence-whos-leading-obs-or-fraps/"><u>2024 Approved  The Race for Screen Capture Excellence  Who's Leading? – OBS or Fraps</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-infinix-smart-8-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Infinix Smart 8 Pro Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-tutorial-on-pairing-various-bluetooth-speakers-to-one-device/"><u>A Step-by-Step Tutorial on Pairing Various Bluetooth Speakers to One Device</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-vivo-v29e-frp-bypass-by-drfone-android/"><u>About Vivo V29e FRP Bypass</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-mario-adventures-top-6-mushroom-kingdom-escapades-on-pc/"><u>Best Mario Adventures: Top 6 Mushroom Kingdom Escapades on PC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/boosting-vfx-efficiency-with-free-lut-downloads/"><u>Boosting VFX Efficiency with FREE LUT Downloads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-tutorial-mastering-bulk-message-highlighting-in-gmail/"><u>Complete Tutorial: Mastering Bulk Message Highlighting in Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-instructions-dealing-with-mfplatdll-is-not-found-error/"><u>Comprehensive Instructions: Dealing With 'MFPLAT.DLL' Is Not Found Error</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/deciphering-triller-an-alternative-that-defies-conventional-video-platforms/"><u>Deciphering Triller  An Alternative That Defies Conventional Video Platforms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-overcome-504-gateway-timeouts-in-web-services/"><u>Effective Strategies to Overcome 504 Gateway Timeouts in Web Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-ai-experience-learn-how-to-compose-impactful-chatgpt-requests-with-these-ebastian-five-tips/"><u>Enhance Your AI Experience: Learn How to Compose Impactful ChatGPT Requests with These Ebastian-Five Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-securely-erasing-data-from-your-dell-computer-or-laptop-with-ease/"><u>How-To: Securely Erasing Data From Your Dell Computer or Laptop with Ease</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-instagram-unfollow-detection/"><u>Mastering Instagram Unfollow Detection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/retrieve-hidden-password-data-securely-on-your-mac-with-ease/"><u>Retrieve Hidden Password Data Securely on Your Mac with Ease</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/review-for-dji-phantom-3-standard/"><u>Review for DJI Phantom 3 Standard</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-gaming-experience-can-your-favorite-ps4-games-work-with-ps5-technology/"><u>Seamless Gaming Experience: Can Your Favorite PS4 Games Work with PS5 Technology?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/smart-luxury-spending-a-guide-to-premium-cost-friendly-technological-wonders/"><u>Smart Luxury Spending: A Guide to Premium, Cost-Friendly Technological Wonders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-problem-when-your-computer-cant-find-msidll/"><u>Solving the Problem: When Your Computer Can't Find msi.dll</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/step-1-step-2-and-step-3-to-video-chatting-on-snapchat-now/"><u>Step 1, Step 2, and Step 3 to Video Chatting on Snapchat Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-modifying-location-preferences-on-your-iphone/"><u>Step-by-Step Tutorial: Modifying Location Preferences on Your iPhone</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-sony-xperia-1-v-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Sony Xperia 1 V ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-deleting-stock-apps-in-ios/"><u>The Ultimate Guide to Deleting Stock Apps in iOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-13-troubleshooting-steps-when-spotify-fails-in-android-auto/"><u>Top 13 Troubleshooting Steps When Spotify Fails in Android Auto</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-9-essential-inquiries-prior-to-electric-vehicle-purchase/"><u>Top 9 Essential Inquiries Prior to Electric Vehicle Purchase</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-picks-must-watch-documentary-films-starring-max-july-2024-edition/"><u>Top Picks: Must-Watch Documentary Films Starring Max - July 2024 Edition</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-xr-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On iPhone XR</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-text-reception-problems-on-your-android-device/"><u>Troubleshooting Text Reception Problems on Your Android Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unable-to-print-from-ipad-heres-how-to-find-and-troubleshoot-printer-connections/"><u>Unable to Print From iPad? Here's How to Find and Troubleshoot Printer Connections</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722901063721-unleash-musical-bliss-8-amazing-free-melodies-apps-for-ios-devices/"><u>Unleash Musical Bliss: 8 Amazing Free Melodies Apps for iOS Devices.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-apple-sound-gadget-anticipated-cost-release-timeline-and-tech-specs-explained/"><u>Upcoming Apple Sound Gadget: Anticipated Cost, Release Timeline & Tech Specs Explained</u></a></li>
+</ul></div>

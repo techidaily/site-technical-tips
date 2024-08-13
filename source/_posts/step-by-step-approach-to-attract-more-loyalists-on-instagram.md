@@ -1,0 +1,150 @@
+---
+title: Step-by-Step Approach to Attract More Loyalists on Instagram
+date: 2024-08-12T03:02:16.623Z
+updated: 2024-08-13T03:02:16.623Z
+categories:
+  - BestProducts
+description: This Article Describes Step-by-Step Approach to Attract More Loyalists on Instagram
+excerpt: This Article Describes Step-by-Step Approach to Attract More Loyalists on Instagram
+thumbnail: https://www.lifewire.com/thmb/PC7QoR3d5_4Cl5y3xbvwzyFDdh0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-535970955-5b0ef2cca474be003791023e.jpg
+---
+
+## Elevate Email Privacy: Learn How to Safelist Contacts in Gmail Today
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+### What To Know
+
+* **Gear** \>**Settings** \>**Filters...Addresses** \>**Create...** \> Add the address to**From** \>**Create filter** . Check**Never... Spam** , and press**Create filter.**
+* From an email: Open the message, and press**More** . Select**Filter...like this** \>**Create filter** . Check**Never... Spam** , and press**Create filter.**
+
+ This article explains how to create a filter in Gmail to always allow emails from a certain sender or domain, either from scratch or using an existing message similar to the ones you want to allow.
+
+## Start With Filters and Blocked Addresses
+
+ The way to mark a specific email address or domain as allowed is to make an email filter.
+
+1. Open Gmail. In the upper-right corner, select the**Settings** (gear) icon. From the menu, choose**Settings** .  
+![Settings menu item in Gear icon for Gmail](https://www.lifewire.com/thmb/WlAG3HUR1Wh7gcE0q5RvutAP2pk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faa8246e0fb0001171827.jpg)
+2. Select**Filters and Blocked Addresses** .  
+![Filters and Blocked Addresses tab in Gmail](https://www.lifewire.com/thmb/_9xw1NUAlMHL7bAlPahggss4cK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faaa046e0fb0001ebdc0d.jpg)
+3. Select**Create a new filter** . If you already have many filters, you'll have to scroll down to find this link.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
+![Create a new filter link in Gmail Settings](https://www.lifewire.com/thmb/Z8V002m1EnNEr2YpSfPZ7gQVu08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faab746e0fb0001684468.jpg)
+4. A dialog box appears. In the**From** field, type the email address you want to allow. Be sure to type the full email address, like**<example@yahoo.com>** . To allow every email address from a particular domain, type just that domain name, like**@yahoo.com** .  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Create filter button in Gmail Settings](https://www.lifewire.com/thmb/29dJifNpYRnjrjyXfT4lLR8fBlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faad846e0fb0001d3e73e.jpg)
+5. At the bottom of the dialog box, select**Create filter.**
+6. On the next screen, tell Gmail what to do with the email address or domain you just indicated. To do so, select**Never send it to Spam** . To finish the process, select**Create filter** .  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+![Create filter button in list of actions for Gmail filtered addresses](https://www.lifewire.com/thmb/VEgNOcD2Fld-QtjqcJqPPJfqPmc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2fab2dc9e77c0001125823.jpg)
+7. If you want to allow more than one email address or domain, you need not repeat these steps for each one. Instead, put a vertical bar (and a space before and after it) between the separate accounts, as follows:**<person1@example.com>** |**<person2@anotherexample.com>** |**@example2.com** .
+
+## Start With an Email Message
+
+ You can also start the process of making an email filter in Gmail from a message from the person you want to add to the allowed list.
+
+1. Open the message.
+2. In the upper-right corner of the message, select the**three-dot** (menu) icon. Select**Filter messages like this** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Filter messages like this menu option in Gmail](https://www.lifewire.com/thmb/8uMlTsSswTb_qf_FGt5Ph6hiALg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faa5f46e0fb0001ebcc4f.jpg)
+3. With the email address now auto-filled for you in the**From** field, follow steps 5 and 6 above.
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Additional Gmail Filtering Tips
+
+ When creating filters in Gmail, keep these additional points in mind.
+
+* When you add an email address or domain in Gmail, the filter doesn't apply to messages already received. It works from the time you enable it onward.
+* If you're considering allowing an entire domain, think about the possible consequences. For example, if you allow @gmail.com,_every single email_ from a Gmail.com address will be prevented from going to the Spam folder. Yet, there's a good chance that some messages from @gmail.com addresses should indeed go there. It makes more sense to allow a company you do business with when, for whatever reason, messages from individuals at that company tend to end up in your Spam folder.
+* Another way to mark emails as not being spam is to use the**Not spam** button. However, this button is only visible when a message is opened from the Spam folder. In other words, you cannot use this method to proactively prevent messages from getting marked as spam.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-in-depth-insights-into-full-periscope-utilization/"><u>[New] 2024 Approved  In-Depth Insights Into Full Periscope Utilization</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unlock-vfx-magic-top-4-youtube-tutorials-for-no-cost-green-screen-techniques/"><u>[New] 2024 Approved  Unlock VFX Magic  Top 4 YouTube Tutorials for No-Cost Green Screen Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hue-harmonies-crafting-visual-balance/"><u>[New] Hue Harmonies  Crafting Visual Balance</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-top-15-budget-friendly-webm-players-that-work-flawlessly/"><u>[New] In 2024, Top 15 Budget-Friendly WebM Players That Work Flawlessly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-projecting-the-financial-footprint-of-music-video-shootouts/"><u>[New] Projecting the Financial Footprint of Music Video Shootouts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-vocal-excellence-in-action-tweaking-sound-for-instagram-content/"><u>[Updated] 2024 Approved  Vocal Excellence in Action  Tweaking Sound for Instagram Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-youtube-buffering-busted-stream-uninterrupted-new-techniques/"><u>[Updated] 2024 Approved  YouTube Buffering Busted - Stream Uninterrupted (New Techniques)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/10-incredible-secrets-behind-the-world-of-emojis/"><u>10 Incredible Secrets Behind the World of Emojis</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-gaming-nostalgia-discovering-the-most-acclaimed-gb-console-emulators-on-pc/"><u>2024 Approved  Mastering Gaming Nostalgia  Discovering The Most Acclaimed GB Console Emulators on PC</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/7-must-have-metaverse-devices-you-need-to-prepare-for-2024/"><u>7 Must-Have Metaverse Devices You Need to Prepare for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/an-insightful-overview-of-verizons-advancements-with-5g-technology/"><u>An Insightful Overview of Verizon's Advancements with 5G Technology</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/dive-into-broadcasting-proficiency-with-obs-on-youtube-and-twitch/"><u>Dive Into Broadcasting Proficiency with OBS on YouTube and Twitch</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-setup-epson-xp-430-windows-drivers-a-comprehensive-tutorial/"><u>Download and Setup Epson XP-430 Windows Drivers: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-ways-to-resolve-apple-magic-mouse-movement-errors/"><u>Effortless Ways to Resolve Apple Magic Mouse Movement Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-chrome-profiles-errors-on-your-workstation/"><u>Eliminating Chrome Profiles Errors on Your Workstation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-premium-streaming-content-with-10-great-alternatives-to-netflix/"><u>Enjoy Premium Streaming Content With 10 Great Alternatives to Netflix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-solutions-for-correcting-msvbvm50dll-missing-or-not-detected-errors/"><u>Essential Solutions for Correcting MSVBVM50.DLL Missing or Not Detected Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-monitoring-your-messages-the-art-of-detecting-read-receipts-in-gmail/"><u>Guide: Monitoring Your Messages - The Art of Detecting Read Receipts in Gmail</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-poco-x5-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Poco X5 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-13-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 13</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-newbies-necessities-for-capturing-with-gopro/"><u>In 2024, Newbies Necessities for Capturing with GoPro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-engagement-essential-tags-to-dominate-on-instagram/"><u>Maximize Engagement: Essential #Tags to Dominate on Instagram</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-dll-hiccups-repairing-microsofts-directinput-and-directx-components-successfully/"><u>Overcoming DLL Hiccups: Repairing Microsoft's DirectInput & DirectX Components Successfully</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-itel-p40plus-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Itel P40+</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-the-504-gateway-timeout-issue/"><u>Step-by-Step Guide: Resolving the 504 Gateway Timeout Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-on-viewing-samsungs-virtual-unveiling/"><u>Step-by-Step Instructions on Viewing Samsung's Virtual Unveiling</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-beginners-roadmap-to-becoming-a-twchat-pro-how-to-engage-effectively-on-twitter/"><u>The Beginner's Roadmap to Becoming a Twchat Pro: How to Engage Effectively on Twitter</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-lowdown-on-latest-ipados-v18-complimentary-access-release-moment-and-feature-rundown/"><u>The Lowdown on Latest iPadOS (v18): Complimentary Access, Release Moment & Feature Rundown</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722888183785-the-quadratic-factor-can-be-rewritten-as-splus2kplus2splus2k-20-giving-us-two-more-roots-s-2k-2-and-s-2kplus2-these-are-distinct-real-roots-if-k-neq-1/"><u>The Quadratic Factor Can Be Rewritten as \\((S+2K+2)(S+2K-2)=0\\), Giving Us Two More Roots: \\(S=-2K-2\\) and \\(S=-2K+2\\). These Are Distinct Real Roots if \\(K \\Neq 1\\).</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-role-and-definition-of-output-impedance-in-electronics/"><u>The Role and Definition of Output Impedance in Electronics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-opening-rar-files-for-mac-enthusiasts/"><u>The Ultimate Guide to Opening RAR Files for Mac Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-15-films-with-dolby-atmos-sound-experience-for-your-home-theater/"><u>Top 15 Films with Dolby Atmos Sound Experience for Your Home Theater</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-6-strengths-of-win11-outshining-macos/"><u>Top 6 Strengths of Win11 Outshining MacOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turn-off-apple-musics-autoplay-function-with-these-easy-tips/"><u>Turn Off Apple Music's Autoplay Function with These Easy Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turn-off-automatic-song-switching-on-apple-music-with-these-simple-steps/"><u>Turn Off Automatic Song Switching on Apple Music with These Simple Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-t-mobiles-intra-country-roaming-protocol-a-guide/"><u>Understanding T-Mobile's Intra-Country Roaming Protocol: A Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-nothing-phone-3-latest-leaks-on-price-launch-timeline-and-features/"><u>Unveiling the 'Nothing Phone 3': Latest Leaks on Price, Launch Timeline & Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-audio-harmony-pairing-guide-for-samsung-earbuds-to-laptops-across-platforms/"><u>Wireless Audio Harmony: Pairing Guide for Samsung Earbuds to Laptops Across Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/your-window-to-artistry-in-windows-1011/"><u>Your Window to Artistry in Windows 10/11</u></a></li>
+</ul></div>

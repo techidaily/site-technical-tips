@@ -1,0 +1,133 @@
+---
+title: Overcoming the Challenge of ntdll.dll Mismatches in Various Windows OS
+date: 2024-08-12T03:05:54.929Z
+updated: 2024-08-13T03:05:54.929Z
+categories:
+  - BestProducts
+description: This Article Describes Overcoming the Challenge of ntdll.dll Mismatches in Various Windows OS
+excerpt: This Article Describes Overcoming the Challenge of ntdll.dll Mismatches in Various Windows OS
+thumbnail: https://www.lifewire.com/thmb/3yRGUVZuciG5hPkgpujq2BfCLNs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-fix-ntdll-dll-errors-2624474-5bf84ce546e0fb00511f0427.jpg
+---
+
+## Fixing the Issue of Non-Responsive Search in Windows 11 – Top Tips
+ It's hard to find files and apps when the Windows 10 search bar is not working. Below are all the different ways we've been able to fix this problem.  
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
+## Why Search Is Not Working in Windows 10
+
+ It's more common than you might think for the Windows search box to stop working. This means there are several possible causes, like a temporary glitch or an unresolved software bug. Another possible reason Windows search isn't working like you want it to is that a very specific setting has been switched off.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Windows search not working](https://www.lifewire.com/thmb/eUOincgBNCFIDt1gubIW-meSdKs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windowssearchfix06-5bdc331846e0fb002d90f052.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+## How to Fix Windows 10 Search Problems
+
+ You'll use a lot of the same methods to fix problems with search as you would other minor errors. Here are some options to try and get the Windows search bar working again:
+
+ In a hurry? We've got a[list of all the best file search tools](https://www.lifewire.com/11-free-file-search-tools-1356644) , some of which are far faster and include more features than Microsoft's.
+
+1. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) . It's basic advice, but there's a reason it's the first port of call for most Windows errors—reboots often work wonders. If you haven't tried restarting your device, do so now to flush out the memory and clear away temporary glitches that can make the search bar not work.  
+ A quick reboot can also be the[solution to a frozen taskbar](https://www.lifewire.com/how-to-fix-windows-10-taskbar-frozen-4585023) . Follow those steps, instead, if you can't search in Windows 10 because the whole taskbar is unresponsive.
+2. Run the Windows Search troubleshooter. Microsoft's built-in search troubleshooter is a good option because it walks you through a step-by-step wizard that asks about the problem and then performs automated fix-it steps.  
+ Press**Win** +**i** to open Settings, then go to**Update & Security** \>**Troubleshoot** \>**Search and Indexing** \>**Run the troubleshooter** to go through the diagnostics.
+3. [Turn Cortana off and on again](https://www.lifewire.com/turn-off-cortana-in-windows-10-4165920) . Since Cortana is so entwined with the search function, switching this feature off, even temporarily, can fix search-related issues in Windows 10.  
+ If this problem is more closely related to Cortana, we have a[list of solutions for fixing problems with Cortana](https://www.lifewire.com/fix-cortana-4151935) .
+4. Rebuild the Windows 10 search index.[Open Control Panel](https://www.lifewire.com/how-to-open-control-panel-2625782) and then change the**View by** option (at the top right) to**Large icons** , assuming it isn't set that way already. Then, go to**Indexing Options** \>**Advanced** \>**Rebuild** \>**OK** .  
+ To speed up searches, select**Modify** in the Indexing Options window to edit which folders Windows 10 should index.
+5. Change the search bar settings to make Windows 10 search through more folders. Complete this step if you think the search box is broken because it's not finding all your files. In reality, Windows Search just needs to be told to look through those folders.  
+ Go to**Settings** \>**Search** \>**Searching Windows** . In the**Find My Files** section, click**Enable Enhanced** . Also, take this time to ensure that your important folders aren't listed in the**Excluded Folders** section.
+6. Restart the Windows Search service. This service is responsible for indexing and displaying results. The Windows 10 search bar won't work correctly if this service has been shut down or is experiencing a glitch.  
+[Open Services](https://www.lifewire.com/what-is-a-service-4107276) , right-click**Windows Search** in the list and then press either**Start** or**Restart** (whichever one you see). This should fix Windows Search right away if this is the reason it's not working.
+7. [Update Windows](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . If this is a known problem, Microsoft might have released a fix for the broken search functionality.
+8. [Run System Restore](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) . This will revert important system files to a previous date, hopefully, one when Windows Search was working.
+9. [Reset Windows](https://www.lifewire.com/reset-this-pc-complete-walkthrough-2624538) . This is the last step you should take if the search box in Windows 10 still isn't working because it will delete everything on the computer. An OS reset is ideal here because this problem is fully software-related, but make sure you try all the above first!
+
+[How to Find Large Files on Windows 10](https://www.lifewire.com/find-large-files-on-windows-10-5180994)
+
+ FAQ
+
+* How do I get rid of a search bar stuck at the top of my screen in Windows 10?  
+ Open**Control Panel** \>**Programs** \>**Programs and Features** . Check the list for potential third-party toolbars (Web Bar is a common one), then right-click the item and select**Uninstall** .
+* How do I set Google as my default search engine in Windows 10?  
+[Changing your default search engine](https://www.lifewire.com/make-google-default-search-engine-3482175) uses different steps based on your browser. In Microsoft Edge on Windows 10, select the**three dots** on the side of the window and then select**Settings** \>**Privacy, search, and services** \>**Address bar and search** (at the very bottom). In the**Search engine used in the address** **bar** drop-down, select**Google** .
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-stitch-ppt-tiles-into-video-mosaic/"><u>[New] In 2024, Stitch PPT Tiles Into Video Mosaic</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unraveling-tiktoks-symbolic-use-of-pfp/"><u>[New] Unraveling TikTok's Symbolic Use of 'PFP'</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-chuckling-chronicles-the-best-tiktok-joke-and-prank-compilation/"><u>[Updated] 2024 Approved  Chuckling Chronicles  The Best TikTok Joke & Prank Compilation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-chromebook-webcam-usage-recording-made-easy/"><u>[Updated] Chromebook Webcam Usage  Recording Made Easy</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-critically-acclaimed-phone-and-desktop-video-calls-list/"><u>[Updated] Critically Acclaimed Phone and Desktop Video Calls List</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-decoding-the-economic-riches-of-mr-beast/"><u>[Updated] In 2024, Decoding the Economic Riches of Mr. Beast</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-stay-updated-the-latest-on-changing-win11-walls/"><u>2024 Approved  Stay Updated  The Latest on Changing Win11 Walls</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-y02t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo Y02T without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/9-things-to-consider-before-buying-a-dash-cam/"><u>9 Things to Consider Before Buying a Dash Cam</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/before-you-dive-into-gaming-consoles-5-important-things-to-think-about-first/"><u>Before You Dive Into Gaming Consoles - 5 Important Things To Think About First</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/conquering-gaming-challenges-with-fifa-19-the-apex-of-sport-themed-interactive-experiences/"><u>Conquering Gaming Challenges with FIFA 19 - The Apex of Sport-Themed Interactive Experiences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-entertainment-high-definition-hitachi-tvs-with-direct-roku-access/"><u>Elevate Entertainment: High Definition Hitachi TVs with Direct Roku Access</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-strategies-for-resolving-password-hash-misalignment-on-windows/"><u>Essential Strategies for Resolving Password Hash Misalignment on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-btballoondll-not-found-or-missing-errors/"><u>How to Fix Btballoon.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-get-assistance-from-snapchats-official-support-channels/"><u>How To Get Assistance From Snapchat's Official Support Channels</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-see-who-shared-your-post-on-facebook/"><u>How to See Who Shared Your Post on Facebook</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-xs-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone XS</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/innovative-techniques-for-backward-video-editing-in-snapchat-apps/"><u>Innovative Techniques for Backward Video Editing in Snapchat Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-printing-problems-a-step-by-nstep-guide-to-diagnose-and-repair/"><u>IPad Printing Problems? A Step-by-nStep Guide to Diagnose & Repair</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-google-gemini-strategies-for-optimizing-your-visibility/"><u>Navigating Google Gemini: Strategies for Optimizing Your Visibility</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/next-gen-foldables-revealed-discover-the-samsung-galaxy-z-fold-6s-release-date-and-features/"><u>Next-Gen Foldables Revealed: Discover the Samsung Galaxy Z Fold 6'S Release Date and Features!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-and-simple-how-to-snap-a-picture-of-your-display-on-an-hp-notebook/"><u>Quick and Simple: How to Snap a Picture of Your Display on an HP Notebook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-starting-fresh-on-your-macbook-pro/"><u>Quick Fixes for Starting Fresh on Your MacBook Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-libgdk-win32-20-0dll-not-detected-errors-on-your-pc/"><u>Resolving 'Libgdk-Win32-2.0-0.DLL' Not Detected Errors on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722900406348-samsungs-big-reveal-in-2er-2025-key-dates-and-latest-gadget-teasers/"><u>Samsung's Big Reveal in 2Er 2025 - Key Dates & Latest Gadget Teasers!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-powering-down-the-latest-iphone-models/"><u>Step-by-Step Tutorial: Powering Down the Latest iPhone Models</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-essential-triad-of-upcoming-tech-breakthroughs-to-monitor-now/"><u>The Essential Triad of Upcoming Tech Breakthroughs to Monitor Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-navigating-xs-sign-up-process-formerly-twitter-transition-tips/"><u>The Ultimate Guide to Navigating X's Sign-Up Process: Formerly Twitter Transition Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-strategy-for-combining-multiple-fortnite-accounts/"><u>The Ultimate Strategy for Combining Multiple Fortnite Accounts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-free-email-services-we-love/"><u>Top 10 Free Email Services We Love</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-2-video-editing-apps-compared-filmora-and-democracy-creator/"><u>Top 2 Video Editing Apps Compared  Filmora & Democracy Creator</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-for-a-missing-avcodecdll-error-message/"><u>Troubleshooting Steps for a Missing avcodec.dll Error Message</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-the-mystery-of-stop-0x0000007b-blue-screen-crashes/"><u>Ultimate Guide: Resolving the Mystery of Stop 0X0000007B Blue Screen Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-solving-common-halo-infinite-sound-issues/"><u>Ultimate Guide: Solving Common Halo Infinite Sound Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722895283459-unlock-hidden-desktop-shortcut-magic-learn-to-enable-the-finder-path-bar/"><u>Unlock Hidden Desktop Shortcut Magic - Learn to Enable the Finder Path Bar!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-system-level-functions-techniques-for-working-with-trustedinstaller-in-windows-10/"><u>Unlocking System-Level Functions: Techniques for Working with TrustedInstaller in Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-full-spectrum-of-vlc-player-capabilities/"><u>Unlocking the Full Spectrum of VLC Player Capabilities</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watch-samsung-unpacked-from-home-your-ultimate-web-viewing-guide/"><u>Watch Samsung Unpacked From Home: Your Ultimate Web-Viewing Guide</u></a></li>
+</ul></div>

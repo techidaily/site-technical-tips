@@ -1,0 +1,169 @@
+---
+title: "Easy Steps: Deleting Several Contacts Simultaneously in Snapchat"
+date: 2024-08-12T03:02:42.384Z
+updated: 2024-08-13T03:02:42.384Z
+categories:
+  - BestProducts
+description: "This Article Describes Easy Steps: Deleting Several Contacts Simultaneously in Snapchat"
+excerpt: "This Article Describes Easy Steps: Deleting Several Contacts Simultaneously in Snapchat"
+thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4419e84badf29d91094b0794.jpg
+---
+
+## DIY Mechanical Keyboard Maintenebrance: Easy Cleaning Strategies Inside
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### What to Know
+
+* The best way to clean a mechanical keyboard is with a microfiber cloth and some gentle cleaning liquid.
+* An air gun or vacuum cleaner are effective at removing crumbs and dust from keyboards.
+* Keys can be removed with a keycap puller tool and then cleaned individually with soapy water.
+
+ This guide will walk you through all of the safe and effective ways to clean[mechanical keyboards](https://www.lifewire.com/what-is-a-mechanical-keyboard-2640212) which have become dirty, stick, or wet as the result of daily use or accident.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
+## The Best Ways to Clean a Mechanical Keyboard
+
+ Here are all of the best ways to clean a mechanical keyboard in a variety of different situations ranging from drink spillage to basic dust and dirt build-up.
+
+1. Carefully disconnect your keyboard from your computer.
+2. To remove crumbs or dust from your keyboard, turn it upside down, hold it firmly with one hand while tapping it with the other.  
+ You may want to do this over the kitchen sink or outside to avoid making a mess of your work space.
+3. If you have one, use an air gun or compressed air device to blast dust out from under your mechanical keyboard’s keys.  
+![A man cleaning a mechanical keyboard with a can of compressed air.](https://www.lifewire.com/thmb/8E-6Wq5AowjC7H03KmC-itSoPRc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-clean-a-mechanical-keyboard-06-a7038d6944764e43b54b70bb803b699a.jpg)  
+ronstik / iStock / Getty Images Plus
+4. A small hand vacuum cleaner can also be a great way to remove dirt from a keyboard. Special keyboard vacuums are also available from most electronic store chains.  
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Handheld vacuum used to clean a keyboard](https://www.lifewire.com/thmb/M5Wh2S4KtOot-THXCrCS7K2PwbQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_clean-a-mechanical-keyboard-5184956-ffaed3fbba5243f7ba3946b3ec5f8049.jpg)  
+venus photo / iStock / Getty Images Plus
+5. If water, coffee, or some another liquid has been[spilled on your keyboard](https://www.lifewire.com/steps-to-laptop-spill-repair-2378134) , use a cloth to absorb as much of it as possible. Dab slowly and leave for several seconds to absorb the moisture.  
+ If using a paper towel, avoid making any wiping gestures as this can leave paper residue in the keyboard’s gaps.  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+![Keyboard with liquid spilled on the keys](https://www.lifewire.com/thmb/pakHbIqX1ehoX_DD4SXMhmnE1i4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_clean-a-mechanical-keyboard-5184956-bb470dad626942a7a88caa34dd2fdf90.jpg)  
+Jeffrey Coolidge / Getty Images
+6. After absorbing as much of the liquid as you can, place the keyboard upside down over a bucket or sink for at least two days for all of the moisture to completely dry out. Also, immediately remove the keys from the keyboard to ensure nothing sticky dries in them.  
+ Avoid placing the keyboard in a room with high humidity levels such as the bathroom or laundry.
+7. Wet a clean cloth slightly and gently wipe the keyboard down.  
+ A microfiber cloth is incredibly effective at cleaning grime from mechanical keyboards.  
+![A woman wearing yellow gloves wiping down a black mechanical keyboard.](https://www.lifewire.com/thmb/-aAfcGZQrQSDx91_Rz4ke4rLUEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-clean-a-mechanical-keyboard-05-47c90bbd5fd94759b1a9c9d2151717d0.jpg)  
+Anton Petrus / Moment / Getty Images
+8. If your keyboard is sticky, you may want to spray a small amount of all-purpose house cleaner onto the cloth to help neutralize whatever’s stuck on the keys.  
+ Avoid using harsh chemicals or strong cleaners intended for the bathroom. These can discolor your keyboard itself and remove the lettering from the keys.  
+![Person wiping a backlit keyboard with a disinfecting wipeh](https://www.lifewire.com/thmb/J-5S3yzNGIlJc_Wu2_NzgqrVr3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_clean-a-mechanical-keyboard-5184956-e5882697b74745a5b718e8304ac9c911.jpg)  
+Maridav / iStock / Getty Images Plus
+9. Try using keyboard cleaning gel. Cleaning gel can be a really effective way to clean mechanical keyboards as it conforms to the shape of the keyboard to reach areas not reachable by a cloth.  
+![Blue keyboard cleaning gel being removed from a black mechanical keyboard.](https://www.lifewire.com/thmb/eEFuLrBZR8erPugctz2TqAKO40s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-clean-a-mechanical-keyboard-02-35c3fb16479c44bcb0ae56ad33751e8b.jpg)  
+Tostace
+10. Clean the keycaps individually. If the mechanical keyboard is incredibly dirty or sticky, you can use a keycap puller tool to individually remove each keycap for cleaning. You may also want to clean the keyboard base some more with a pipe cleaner or cloth while the keycaps are off.  
+ Keycap pullers are fairly affordable and can be found in most online electronic stores.  
+![Keyboard keys being removed by a keycap puller tool.](https://www.lifewire.com/thmb/TrXOa83gAjRtBiVTJrkOq_YiRwY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-clean-a-mechanical-keyboard-01-e4350a0df5ed4635881a233eb527c3f3.jpg)  
+NewFashionKingdom  
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## How Do You Clean Keycaps?  
+
+ As keycaps are essentially just plastic, you can be much more thorough while cleaning them than you would with the mechanical keyboard base.  
+ Some people prefer to wash keycaps with dishwashing liquid and a brush while others like to soak them in a bowl of soapy water. Cleaning wipes can also be used though make sure not to use any cleaning liquids containing acids or bleach as this can change the color of the keys and remove the lettering.  
+ Before removing your keycaps, take a photo of your keyboard’s layout so you know where to place them after they’ve been cleaned.  
+ Once you’ve finished cleaning your keycaps, let them dry for at least two days before placing them back on the base as the plastic can absorb moisture which could damage the keyboard.  
+
+## Can I Wash a Mechanical Keyboard With Water?  
+
+ Using a damp cloth to clean the keycaps and the exterior of the keyboard base can be effective in removing sticky residue and grime but it’s not recommended for cleaning any of the interior and its exposed electrical parts.  
+ Even if a keyboard’s marketed as being water resistant or water proof, it’s much safer to attempt cleaning it with dry methods such as an air gun, vacuum cleaner, pipe cleaner, cloth, or cleaning gel.  
+
+## How Do You Clean a Sticky Mechanical Keyboard?  
+
+ To clean a sticky mechanical keyboard, it’s best to use a damp microfiber cloth, a regular cloth, or a cleaning wipe. Only a little bit of cleaning agent should be applied to whichever type of cloth you use and brands which contain acid or bleach should be avoided.  
+ Avoid natural cleaning liquids and wet wipes containing fruit oils as these can often make surfaces sticky which is exactly what we’re trying to avoid here.  
+ A clean sponge can also be used to fix a sticky keyboard. It’s best not to use a paper towel as this can leave small bits of paper between and under the keycaps.  
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
+## How Often Should You Clean Your Mechanical Keyboard?  
+
+ In general, it’s a good idea to give your mechanical keyboard a quick wipe down with a cloth and some gentle cleaning liquid once a week to prevent the build-up of germs and harmful bacteria. This is especially important if you share your computer with other family members or friends.  
+ When it comes to a proper deep clean for your mechanical keyboard, it really comes down to how much you use it, how dirty it gets, and how much free time you have. Some tech enthusiasts like to remove all of the keycaps and clean them and the base once a month but this is likely a bit too demanding for the average computer owner.  
+ While a full clean of your mechanical keyboard may be hard to do on a regular basis, you should try to make time once a week for a quick surface clean to remove germs.  
+ A more realistic cleaning goal would be to add a full mechanical keyboard clean to your list of tasks to do at the beginning of each New Year and then, when you find you have extra time several months into the year, give it a second clean. If you can clean it more often than this, all the better.  
+ FAQ  
+
+* How do I clean mechanical keyboard switches?  
+    Remove the keycaps, as described above, and use a brush or vacuum attachment to loosen and remove debris around the switches. If liquid seeped into the switches, use a damp cotton swab or cloth to remove the residue gently. If the area is particularly sticky, consider dipping the cloth or cotton swab in dish soap or rubbing alcohol.  
+* How do I deep clean a mechanical keyboard?  
+    Routine cleaning for mechanical keyboards is similar to[cleaning a laptop keyboard](https://www.lifewire.com/how-to-clean-a-computer-keyboard-4842327) with microfiber cloths and compressed air. For a more advanced clean, disassemble the keyboard and soak the keycaps, wipe the plate, and brush and sweep around the switches.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ocal-labor-costs-the-availability-and-rates-of-skilled-electricians-in-the-area-can-affect-labor-costs-significantly/"><u>[New] __Local Labor Costs__  The Availability and Rates of Skilled Electricians in the Area Can Affect Labor Costs Significantly.</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-10-switch-knockouts-the-ultimate-list/"><u>[New] In 2024, Top 10 Switch Knockouts  The Ultimate List</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unmatched-portable-experience-with-top-gba-simulators-android/"><u>[New] In 2024, Unmatched Portable Experience with Top GBA Simulators, Android</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-twitch-sharing-techniques-for-facebook-integration/"><u>[Updated] In 2024, Twitch Sharing Techniques for Facebook Integration</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-leading-software-lineup-8-linux-editing-sleuths/"><u>[Updated] Leading Software Lineup  8 Linux Editing Sleuths</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-tecno-pova-5-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Tecno Pova 5 Pro Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-power-of-ai-how-does-meta-incorporate-machine-learning/"><u>Discover the Power of AI: How Does Meta Incorporate Machine Learning?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-android-and-ios-tech-record-google-meet-for-2024/"><u>Essential Android & iOS Tech  Record Google Meet for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-on-finding-and-buying-a-high-quality-tv-to-enhance-your-home-entertainment-experience/"><u>Expert Tips on Finding and Buying a High-Quality TV to Enhance Your Home Entertainment Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-these-top-6-hubs-where-you-can-watch-any-music-video-for-free/"><u>Explore These Top 6 Hubs Where You Can Watch Any Music Video For Free</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-on-dealing-with-microsoft-word-files-that-wont-load/"><u>Guide on Dealing with Microsoft Word Files That Won't Load</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-error-code-0x80004005/"><u>How to Fix Error Code 0X80004005</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-improve-your-digital-television-signal-using-a-home-antenna/"><u>How to Improve Your Digital Television Signal Using a Home Antenna</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-an-apple-watch-that-fails-to-detect-physical-activity/"><u>How to Resolve an Apple Watch that Fails to Detect Physical Activity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-restore-power-9-methods-to-fix-airpods-that-wont-charge/"><u>How to Restore Power: 9 Methods to Fix AirPods That Won't Charge</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/improve-engagement-with-effortless-techniques-for-typing-captions-in-instagram-stories/"><u>Improve Engagement with Effortless Techniques for Typing Captions in Instagram Stories</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-essential-iphone-recording-apps/"><u>In 2024, Essential iPhone Recording Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Use Special Features - Virtual Location On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/messaging-showdown-how-signal-stacks-up-against-whatsapp/"><u>Messaging Showdown: How Signal Stacks Up Against WhatsApp</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-insecure-connection-warnings-tips-for-securing-your-websites-links/"><u>Overcoming ‘Insecure Connection’ Warnings – Tips for Securing Your Website's Links</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/phone-upgrades-timing-when-do-you-need-to-say-goodbye-to-your-old-device/"><u>Phone Upgrades Timing: When Do You Need to Say Goodbye to Your Old Device?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-libcurldll-absence-a-step-by-step-guide/"><u>Resolving 'libcurl.dll' Absence: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-smartphone-casting-connect-and-watch-on-your-fire-stick-now/"><u>Seamless Smartphone Casting: Connect and Watch on Your Fire Stick Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-true-shelf-life-assessing-how-long-do-electric-versus-gasoline-cars-last/"><u>The True Shelf Life: Assessing How Long Do Electric Versus Gasoline Cars Last</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-fast-track-tricks-for-newcomers-on-the-x-platform/"><u>Top 10 Fast-Track Tricks for Newcomers on the X Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-must-have-video-editing-tools-our-expert-picks/"><u>Top 5 Must-Have Video Editing Tools: Our Expert Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-9-fantastic-locations-for-enjoying-no-cost-preschool-games/"><u>Top 9 Fantastic Locations for Enjoying No-Cost Preschool Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-what-to-do-when-amazon-firestick-control-is-unresponsive/"><u>Troubleshooting Guide: What To Do When Amazon Firestick Control Is Unresponsive</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-troubleshooting-tips-to-repair-missing-x3daudiodll-file-error/"><u>Ultimate Troubleshooting Tips to Repair Missing x3daudio.dll File Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unstoppable-yahoo-find-out-why-your-inbox-might-be-empty-and-solutions-to-get-emails-flowing-again/"><u>Unstoppable Yahoo! - Find Out Why Your Inbox Might Be Empty & Solutions to Get Emails Flowing Again</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-cutting-edge-free-vocal-modifications-made-simple-in-depth-tutorials-on-audio-editing-with-filmora-for-2024/"><u>Updated Cutting Edge Free Vocal Modifications Made Simple In-Depth Tutorials on Audio Editing with Filmora for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-are-streaming-hardware-platforms-and-how-do-they-work/"><u>What Are Streaming Hardware Platforms and How Do They Work?</u></a></li>
+</ul></div>

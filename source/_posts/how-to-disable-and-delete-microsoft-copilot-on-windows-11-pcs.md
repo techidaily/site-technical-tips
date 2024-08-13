@@ -1,0 +1,161 @@
+---
+title: How to Disable and Delete Microsoft Copilot on Windows 11 PCs
+date: 2024-08-12T03:01:54.075Z
+updated: 2024-08-13T03:01:54.075Z
+categories:
+  - BestProducts
+description: This Article Describes How to Disable and Delete Microsoft Copilot on Windows 11 PCs
+excerpt: This Article Describes How to Disable and Delete Microsoft Copilot on Windows 11 PCs
+thumbnail: https://www.lifewire.com/thmb/B0qB9qt4Px07Wpu0VGDmKa735TA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/copilot-0d70ff981eb042ed907b139425ae3be4.jpg
+---
+
+## Get Ahead with the Newest Microsoft Windows Updates of July 202#
+ Microsoft regularly releases major updates to its Windows operating systems.
+
+ Formerly, those updates pushed through comprehensive[service packs](https://www.lifewire.com/what-is-a-service-pack-2626010) , but more often these days, they're semi-regular and significant updates through[Windows Update](https://www.lifewire.com/what-is-windows-update-2624597) .
+
+ In fact, beginning in[Windows 8](https://www.lifewire.com/windows-8-2626235) , the service pack, as we know it from previous versions of Windows, is essentially a dead idea. Much like updates on your smartphone, Microsoft is continually adding major features through automatic patching.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+## Latest Major Updates to Windows 11
+
+ As of July 2024, the latest major update to [Windows 11](https://www.lifewire.com/windows-11-5188930) is Windows 11 Version 23H2, referred to as the_Windows 11 2023 Update_ . Updating is automatic through Windows Update.
+
+ This update first became available on October 31, 2023\. You can read more about the individual fixes and improvements on Microsoft's[Windows 11 Release Information](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information) page.
+
+[How to Check for and Install Windows Updates](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596)
+
+[Windows 12](https://www.lifewire.com/windows-12-news-and-rumors-6753587) is the next major operating system expected from Microsoft.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+## Latest Major Updates to Windows 10
+
+ The last major update to [Windows 10](https://www.lifewire.com/windows-10-2626217) is Windows 10 Version 22H2, referred to as the_Windows 10 2022 Update_ . Updating, like in Windows 11, is automatic through Windows Update.
+
+ See more about the individual fixes and improvements on Microsoft's[What's New in Windows 10 Version 22H2](https://learn.microsoft.com/en-us/windows/whats-new/whats-new-windows-10-version-22h2) page.
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Latest Major Updates to Windows 8
+
+ The last major update for Windows 8 is the confusingly named Windows 8.1 Update.
+
+ If you've already updated to Windows 8.1, the easiest way to update to Windows 8.1 Update is through Windows Update. See instructions for manually installing Windows 8.1 Update in the_Download Windows 8.1 Update_ section of our [Windows 8.1 Update](https://www.lifewire.com/windows-8-1-update-2626250) piece.
+
+ If you're not already running Windows 8.1, see [How to Update to Windows 8.1](https://www.lifewire.com/how-to-update-to-windows-8-1-2626252) for detailed instructions on applying the Windows 8.1 update. When that's done, update to Windows 8.1 Update through Windows Update.
+
+ Microsoft isn't planning another big update to Windows 8, like a_Windows 8.2_ or_Windows 8.1 Update 2_ . New features, if available, will instead be pushed through updates on[Patch Tuesday](https://www.lifewire.com/patch-tuesday-2625783) .
+
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Latest Microsoft Windows Service Packs (Windows 7, Vista, XP)
+
+ The last[Windows 7](https://www.lifewire.com/windows-7-2626265) service pack is SP1, but a _Convenience Rollup_ for Windows 7 SP1 (basically an otherwise-named Windows 7 SP2) is also available which installs all[patches](https://www.lifewire.com/what-is-a-patch-2625960) between the release of SP1 (February 22, 2011) through April 12, 2016.
+
+ The last service packs for other versions of Windows include [Windows Vista](https://www.lifewire.com/windows-vista-2626311) SP2,[Windows XP](https://www.lifewire.com/windows-xp-2626354) SP3, and Windows 2000 SP4.
+
+ In the table below are links that take you directly to the latest Microsoft Windows service packs and major updates for each operating system. These updates are free.
+
+ The easiest way to install the latest Windows service pack or update is to run Windows Update.
+
+| Download Links for Windows Updates & Service Packs |                                  |                                                                                                                                                               |                                                                                                                                                               |
+| -------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Operating System**                               | **Service Pack / Update**        | **Size (MB)**                                                                                                                                                 | **Download**                                                                                                                                                  |
+| Windows 7                                          | Convenience Rollup (April 2016)2 | 316.0                                                                                                                                                         | [32-bit](https://www.catalog.update.microsoft.com/Search.aspx?q=Update%20for%20Windows%207%20%28KB3125574%29)                                                |
+| |  Convenience Rollup (April 2016)2                | 476.9                            | [64-bit](https://www.catalog.update.microsoft.com/Search.aspx?q=Update%20for%20Windows%207%20for%20x64-based%20Systems%20%28KB3125574%29)                    |                                                                                                                                                               |
+| |  SP1 (windows6.1-KB976932-X86.exe)               | 541.9                            | [32-bit](https://www.catalog.update.microsoft.com/Search.aspx?q=KB976932)                                                                                    |                                                                                                                                                               |
+| |  SP1 (windows6.1-KB976932-X64.exe)               | 912.4                            | [64-bit](https://www.catalog.update.microsoft.com/Search.aspx?q=KB976932)                                                                                    |                                                                                                                                                               |
+| Windows Vista3                                     | SP2                              | 475.5                                                                                                                                                         | [32-bit](https://www.catalog.update.microsoft.com/Search.aspx?q=%09Windows%20Vista%20Service%20Pack%202%20Standalone%20%28KB948465%29%20-%20All%20Languages) |
+| |  SP2                                             | 745.2                            | [64-bit](https://www.catalog.update.microsoft.com/Search.aspx?q=%09Windows%20Vista%20Service%20Pack%202%20Standalone%20%28KB948465%29%20-%20All%20Languages) |                                                                                                                                                               |
+| Windows XP                                         | SP34                             | 316.4                                                                                                                                                         | [32-bit](https://www.catalog.update.microsoft.com/Search.aspx?q=%28KB936929%29)                                                                              |
+| |  SP25                                            | 350.9                            | [64-bit](https://www.catalog.update.microsoft.com/Search.aspx?q=%09Service%20Pack%202%20for%20Windows%20XP%20Professional%2C%20x64%20Edition)                |                                                                                                                                                               |
+| Windows 2000                                       | SP4                              | 588 (KB)                                                                                                                                                      | [32-bit](https://www.catalog.update.microsoft.com/Search.aspx?q=Windows%202000%20service%20pack%204%20express)                                               |
+
+ \[1\] Beginning in Windows 8, Microsoft began releasing regular, major updates to Windows 8\. Service packs will not be released.  
+ \[2\] Windows 7 SP1 and the April 2015 Servicing Stack Update both must be installed prior to installing the Convenience Rollup.  
+ \[3\] Windows Vista SP2 can only be installed if you already have Windows Vista SP1 installed, which you can[download here](https://www.catalog.update.microsoft.com/Search.aspx?q=%28KB936330%29) for both 32-bit 64-bit version.  
+ \[4\] Windows XP SP3 can only be installed if you already have Windows XP SP1a or Windows XP SP2 installed. If you do not have one or the other of those service packs installed, install SP1,[available here](https://www.catalog.update.microsoft.com/Search.aspx?q=Windows%20XP%20Service%20Pack%201%20%28Express%29) , before trying to install Windows XP SP3.  
+ \[5\] Windows XP Professional is the only 64-bit version of Windows XP and the latest service pack released for the operating system is SP2.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-elevating-your-marketing-game-making-impactful-fb-videos/"><u>[New] 2024 Approved  Elevating Your Marketing Game  Making Impactful FB Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-get-watermark-free-stock-photos/"><u>[New] How to Get Watermark-Free Stock Photos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-use-vlc-for-professional-screen-recording/"><u>[New] How to Use VLC for Professional Screen Recording</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-infinite-possibilities-with-ai-generating-viral-video-titles/"><u>[New] Infinite Possibilities with AI  Generating Viral Video Titles</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-giggle-generation-top-ten-templates-for-viral-effect/"><u>2024 Approved  Giggle Generation  Top Ten Templates for Viral Effect</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-guide-to-troubleshooting-and-solving-error-code-0x80004005/"><u>A Comprehensive Guide to Troubleshooting and Solving Error Code 0X80004005</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipated-launch-of-oneplus-10-insights-on-cost-schedule-characteristics-and-hype/"><u>Anticipated Launch of OnePlus 10: Insights on Cost, Schedule, Characteristics & Hype</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-poco-x5-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Poco X5 Fingerprint Lock</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/capturing-perfect-shots-with-an-iphone-camera-timer-a-step-by-step-approach/"><u>Capturing Perfect Shots with an iPhone Camera Timer – A Step-by-Step Approach</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-power-of-chatgpt-an-in-depth-look/"><u>Discover the Power of ChatGPT: An In-Depth Look</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-guide-changing-your-macs-folder-colors/"><u>Easy Guide: Changing Your Mac's Folder Colors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-cost-effective-tools-for-your-diy-home-cinema-setup/"><u>Essential Cost-Effective Tools for Your DIY Home Cinema Setup</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-picks-for-superior-steadicams-in-aerial-cinema-for-2024/"><u>Expert Picks for Superior Steadicams in Aerial Cinema for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fable-formulators-fellowship-top-7-titans-for-2024/"><u>Fable Formulators Fellowship – Top 7 Titans for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-downloading-and-applying-epson-ds-510-driver-updates-effectively-on-windows-computers/"><u>Guide to Downloading and Applying Epson DS-510 Driver Updates Effectively on Windows Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-resolving-the-problem-of-an-apple-watch-that-ignores-stand-detection/"><u>Guide To Resolving The Problem Of An Apple Watch That Ignores Stand Detection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-unlocking-windows-pin-protection-in-windows-10/"><u>Guide: Unlocking Windows ‛Pin Protection' In Windows 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-honor-x9b-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Honor X9b Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-quickly-fix-connectivity-problems-with-a-wireless-router-or-access-point/"><u>How to Quickly Fix Connectivity Problems with a Wireless Router or Access Point</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-device-not-migrating-errors-on-windows-11-systems/"><u>How to Resolve Device Not Migrating Errors on Windows 11 Systems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-beat-matchers-playlist-selecting-flawless-dj-videos/"><u>In 2024, Beat Matcher's Playlist  Selecting Flawless DJ Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-motorola-moto-g34-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Motorola Moto G34 5G Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/july-2024-hotlist-top-kids-movies-to-watch-on-disney-plus/"><u>July 2024 Hotlist: Top Kids Movies to Watch on Disney Plus!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-photography-edits-remedying-pets-eyeball-appearances-seamlessly/"><u>Master Photography Edits: Remedying Pets' Eyeball Appearances Seamlessly</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/pioneering-televised-facebook-interactions-via-live-streams/"><u>Pioneering Televised Facebook Interactions via Live Streams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722868602090-sneak-peek-into-the-future-with-samsung-galaxy-s25-predictions-on-pricing-specs-and-release-day/"><u>Sneak Peek Into the Future with Samsung Galaxy S25 - Predictions on Pricing, Specs and Release Day</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tackling-windows-code-28/"><u>Tackling Windows Code 지표 28에서 열견되는 문제 해결기</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-decision-makers-guide-to-choosing-between-staying-on-current-os-or-going-for-ios-17/"><u>The Decision-Maker's Guide to Choosing Between Staying on Current OS or Going for iOS 17</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-new-era-of-ios-scheduled-release-date-no-charge-advanced-features-and-press-highlights-for-version-18/"><u>The New Era of iOS: Scheduled Release Date, No Charge, Advanced Features & Press Highlights for Version 18</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-how-to-refresh-your-chromecast-software/"><u>The Ultimate Tutorial on How to Refresh Your Chromecast Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tips-for-addressing-and-repairing-kernel-data-mishaps/"><u>Tips for Addressing and Repairing Kernel Data Mishaps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-must-play-imessage-games/"><u>Top 7 Must-Play iMessage Games</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-8-proven-techniques-to-amplify-content-for-2024/"><u>Top 8 Proven Techniques to Amplify Content for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-the-notorious-code-19-issues-on-your-windows-pc/"><u>Troubleshooting Guide: Resolving the Notorious 'Code 19' Issues on Your Windows PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-dnssddll-errors-on-your-windows-pc/"><u>Troubleshooting Missing dnssd.dll Errors on Your Windows PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-to-address-missing-or-not-found-mapi3e-dll-errors/"><u>Troubleshooting Tips to Address 'Missing or Not Found' MAPI3e DLL Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-mystery-of-authenticity-how-to-get-that-verified-checkmark-on-instagram/"><u>Unlocking the Mystery of Authenticity: How To Get That Verified Checkmark on Instagram</u></a></li>
+</ul></div>

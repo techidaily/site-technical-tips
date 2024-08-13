@@ -1,0 +1,154 @@
+---
+title: The Ultimate Guide to Diagnose and Repair Black Screen Malfunctions in Windows 11 Computers
+date: 2024-08-12T02:58:18.640Z
+updated: 2024-08-13T02:58:18.640Z
+categories:
+  - BestProducts
+description: This Article Describes The Ultimate Guide to Diagnose and Repair Black Screen Malfunctions in Windows 11 Computers
+excerpt: This Article Describes The Ultimate Guide to Diagnose and Repair Black Screen Malfunctions in Windows 11 Computers
+thumbnail: https://www.lifewire.com/thmb/dntsYDcqkcg3rxwE2VAmrp7Fqj4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-windows-11-black-screen-issues-fd02c61f29db4ba9a7b4935621ea4463.jpg
+---
+
+## How to Diagnose and Repair ntdll.dll Glitches on Windows 10, 8, 7, Etc
+ Ntdll.dll error messages can apply to nearly any Windows-based software program, driver, or plugin on any of Microsoft's operating systems from Windows NT up through Windows 10, Windows 8, Windows 7, Windows Vista, and Windows XP.  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Fix Ntdll.dll Errors
+
+1. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) . The ntdll.dll error you're receiving could be due to a one-time, temporary issue and a simple reboot may resolve the problem completely.
+2. [Reinstall the program](https://www.lifewire.com/what-is-the-proper-way-to-reinstall-a-software-program-2624478) if the error only displays when you use a specific program.  
+ If the software program has any updates or service packs available, install them, too. The software's programmers may have identified an issue with the program that caused the DLL error and then issued a patch for it.  
+ Third-party software programs that have been installed on your computer are almost always the cause of ntdll.dll errors. The remainder of these troubleshooting steps resolves the issue only rarely.
+3. [Check the Windows service pack level you're running](https://www.lifewire.com/what-windows-service-pack-is-installed-2626084) and then[check this page](https://www.lifewire.com/latest-windows-service-packs-updates-2624595) to see if there's a more recent service pack available for installation. Some issues that caused ntdll.dll errors have been corrected in these service packs from Microsoft.  
+ The easiest way to update your Windows computer with the newest service pack and other patches is to use Windows Update. Follow our guide on[How to Check for and Install Windows Updates](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) if you need help.
+4. [Selectively disable Microsoft Edge extensions](https://www.lifewire.com/manage-extensions-in-web-browsers-4687446#toc-manage-extensions-in-microsoft-edge) . If your error is displaying when you start, run, or close Edge, an extension may be causing the problem. Disabling each extension, one by one, will determine which one is the culprit (if any).  
+ As a workaround, assuming the ntdll.dll error really is Edge-related, install and use a competing browser like[Firefox](https://www.mozilla.org/en-US/firefox/new/) .
+5. Rename the NLSPATH system variable (from**NLSPATH** to**NLSPATHOLD** ). If your Windows system doesn't have this environment variable, skip this step.  
+ This is a troubleshooting step for this issue only. Be sure to set this path back to its original name if it doesn't resolve the issue.
+6. [Disable Data Execution Prevention for Explorer.exe](https://www.lifewire.com/disable-data-execution-prevention-for-explorer-exe-in-windows-xp-2624488) . As in the previous step, this is for troubleshooting the ntdll.dll issue only. If this doesn't resolve the problem, return the Data Execution Prevention settings to their previous settings.
+7. [Disable UAC](https://www.lifewire.com/disable-uac-in-windows-10-5113191) . This is a workaround for some causes of ntdll.dll issues but could serve as a permanent solution if not using User Account Control is something you're comfortable with on your computer.
+8. [Update drivers for any hardware in your computer](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) where updated drivers are available. Outdated drivers sometimes cause these errors.
+9. [Test your memory for damage](https://www.lifewire.com/free-memory-test-programs-2626178) . If you're receiving one of the above DLL messages, one possible cause could be a bad memory module in your system. Testing your memory will either identify a problem or clear your RAM of any responsibility.  
+[Replace your memory](https://www.lifewire.com/how-to-replace-the-memory-ram-in-a-computer-2626201) if it fails any of your tests.
+10. Ntdll.dll errors could occur if you have an Iomega Zip drive on the same[IDE cable](https://www.lifewire.com/what-is-an-ide-cable-2625908) as the hard drive inside your computer. If so, move the Zip drive to a dedicated IDE controller.
+11. Replace the IDE cable connecting the hard drive to the motherboard. If this cable is damaged or malfunctioning, one symptom could be the DLL error you're seeing.
+12. [Repair your installation of Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . If individual software reinstallations fail to resolve the problem, a repair installation of Windows will replace the ntdll.dll file.
+13. [Perform a clean installation of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . A clean installation will completely remove Windows from your PC and install it again from scratch. We don't recommend this option unless you've exhausted all previous troubleshooting ideas and you're comfortable that the error isn't caused by a single program (Step 2).  
+ If a single program or plugin is causing the ntdll.dll error, reinstalling Windows and then reinstalling all of the same software may lead you right back to the same error.
+14. If everything else has failed, including the clean installation from the last step, you could be dealing with a hardware issue with your hard drive. However, this is extremely rare. If so,[replace the hard drive](https://www.lifewire.com/how-to-replace-a-hard-drive-2626200) and then perform a new installation of Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Need More Help?
+
+ If you don't want to fix this ntdll.dll problem yourself, see [How Do I Get My Computer Fixed?](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) for a full list of your support options, plus help with everything along the way like figuring out repair costs, getting your files off, choosing a repair service, and a whole lot more.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+## Ntdll.dll Errors
+
+ There are many different ways these errors might be displayed on your computer. They can be caused by a number of different things which result in many different error messages, but these are some of the most common:
+
+* **STOP: 0xC0000221 unknown hard error C:\\Winnt\\System32\\Ntdll.dll**
+* **STOP: C0000221 unknown hard error \\SystemRoot\\System32\\ntdll.dll**
+* **AppName: \[PROGRAM NAME\] ModName: ntdll.dll**
+* **\[PROGRAM NAME\] caused a fault in module NTDLL.DLL at \[ANY ADDRESS\]**
+* **Crash caused in ntdll.dll!**
+* **NTDLL.DLL Error!**
+* **Unhandled exception at \[ANY ADDRESS\] (NTDLL.DLL)**
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
+![Windows Desktop showing ntdll.dll error on it](https://www.lifewire.com/thmb/UuBVgj_4F_bEIWtEzMkZKFRZcDM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ntdll-dll-errors-2624474-5bf84ce546e0fb00511f0427-cc609193561047bd85da19c2c9ba0937.jpg)
+
+ The message might appear before or after a program is used, while a program is running, when Windows is started or shut down, or even during a Windows installation.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+## Causes of Ntdll.dll Errors
+
+ The causes of ntdll.dll error messages can vary greatly. However, most of them result from a corrupt or damaged version of the ntdll DLL file itself, corrupt hardware drivers, or issues between Windows and other programs.
+
+ These errors can sometimes mean that a piece of hardware in your computer is malfunctioning, but this is rare.
+
+ FAQ
+
+* How do I fix "System Thread Exception Not Handled" in Windows 10?  
+[Boot up Windows in Safe Mode](https://www.lifewire.com/how-do-i-start-windows-in-safe-mode-2624480) \> press**Win + R** on your keyboard > enter**eventvwr** in the run bar > open**Windows Logs** \>**System** . Look for**system\_thread\_exception\_not\_handled** and select it to locate the driver causing the error.[Update](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) or reinstall the affected driver.
+* How do I fix a "Windows cannot access the specified device, path, or file" error?  
+ Make sure the the file or folder you're trying to install, start, or update has the necessary permissions. Right-click the file or folder > select**Properties** \>**Security** \> select your name under**Group or user names** \>**Edit** . Find the boxes for the permissions you need and check them, then select**OK** .
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-advanced-color-techniques-incorporating-luts-for-cinematic-flair/"><u>[New] Advanced Color Techniques  Incorporating Luts for Cinematic Flair</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-ultimate-tutorial-for-full-utilization-of-final-cut-pro/"><u>[Updated] 2024 Approved  Ultimate Tutorial for Full Utilization of Final Cut Pro</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-premier-screen-capture-device-essential-for-video-sharers/"><u>[Updated] Premier Screen Capture Device  Essential for Video Sharers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-beginners-guide-signing-up-on-playstation-network/"><u>A Beginner's Guide: Signing Up on PlayStation Network</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-realities-a-clear-overview-of-augmented-virtual-mixed-and-extended-reality-technologies/"><u>Comparing Realities: A Clear Overview of Augmented, Virtual, Mixed & Extended Reality Technologies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-google-pixel-8-pro-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Google Pixel 8 Pro.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-tech-savvy-the-ultimate-tutorial-for-programming-a-multifunctional-remote-controller/"><u>DIY Tech Savvy: The Ultimate Tutorial for Programming a Multifunctional Remote Controller</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-to-activate-and-use-microsoft-365-suite-on-windows-or-mac/"><u>Easy Steps to Activate and Use Microsoft 365 Suite on Windows or Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-handling-not-detected-errors-for-shell32dll-files/"><u>Expert Advice on Handling 'Not Detected' Errors for Shell32.dll Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-top-7-online-fax-options-that-wont-cost-you-a-penny/"><u>Explore the Top 7 Online Fax Options That Won't Cost You a Penny</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-world-of-luxury-with-skagen-falster-2-a-premier-alternative-to-apple-gadgets/"><u>Exploring the World of Luxury with Skagen Falster 2: A Premier Alternative to Apple Gadgets</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/facebook-media-extractor-quick-mp3-downloads/"><u>Facebook Media Extractor – Quick MP3 Downloads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-computer-screen-discoloration-and-distortion-effective-solutions-inside/"><u>Fixing Computer Screen Discoloration and Distortion – Effective Solutions Inside</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/how-to-make-a-good-podcast-trailer/"><u>How To Make A Good Podcast Trailer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-play-pokemon-go/"><u>How to Play ‘Pokémon Go’</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-silence-the-audio-guide-functionality-on-your-samsung-smart-tv/"><u>How to Silence the Audio Guide Functionality on Your Samsung Smart TV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-conversation-key-enhancements-from-gpt-3/"><u>Innovating Conversation: Key Enhancements From GPT-3</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-18-launch-details-free-update-key-enhancements-and-latest-announcements/"><u>IOS 18 Launch Details - Free Update, Key Enhancements, & Latest Announcements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/julys-top-free-film-finds-on-youtube-your-ultimate-watchlist-compiled/"><u>July's Top Free Film Finds on YouTube – Your Ultimate Watchlist Compiled!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-virtual-hiring-9-proven-tips-for-skype-interviews/"><u>Mastering Virtual Hiring: 9 Proven Tips for Skype Interviews</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-your-desktop-space-a-complete-walkthrough-to-dual-monitoring-on-a-mac/"><u>Maximize Your Desktop Space: A Complete Walkthrough to Dual Monitoring on a Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/meeting-new-friends-made-easy-top-5-networking-apps-you-should-try/"><u>Meeting New Friends Made Easy: Top 5 Networking Apps You Should Try</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-the-process-of-engaging-and-exiting-iphones-recovery-mode/"><u>Navigate the Process of Engaging and Exiting iPhone's Recovery Mode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secrets-to-watching-the-new-samsung-releases-live-from-anywhere-in-the-world/"><u>Secrets to Watching the New Samsung Releases Live From Anywhere in the World</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-gmail-with-dual-verification-enable-two-factor-authentication-today/"><u>Securing Gmail with Dual Verification – Enable Two-Factor Authentication Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seeing-beyond-likes-and-comments-a-comprehensive-guide-to-spotting-who-saved-your-instagram-creations/"><u>Seeing Beyond Likes and Comments: A Comprehensive Guide to Spotting Who Saved Your Instagram Creations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplify-your-life-with-these-7-collaborative-family-planner-apps/"><u>Simplify Your Life with These 7 Collaborative Family Planner Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stay-productive-preventing-sleep-mode-on-macbook-when-you-close-the-cover/"><u>Stay Productive: Preventing Sleep Mode on MacBook When You Close the Cover</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-comprehensive-guide-to-free-pdf-editors-ranked-1-13-july-2024-edition/"><u>The Comprehensive Guide to Free PDF Editors - Ranked #1-13, July 2024 Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-best-unlimited-free-web-based-fax-solutions/"><u>Top 7 Best Unlimited Free Web-Based Fax Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-ipad-offers-just-in-save-big-on-your-next-purchase/"><u>Top-Rated iPad Offers Just In - Save Big on Your Next Purchase</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshoot-your-iphones-blurry-photos-with-these-quick-fixes/"><u>Troubleshoot Your iPhone's Blurry Photos with These Quick Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-repairing-your-system-when-s-sleay32dll-cant-be-located/"><u>Understanding and Repairing Your System When S sleaY32.dll Can’t Be Located</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-macs-diagnostic-tools-by-starting-in-recovery-mode/"><u>Unlocking Mac's Diagnostic Tools by Starting in Recovery Mode</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-lava-yuva-3-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Lava Yuva 3 Pro Device</u></a></li>
+</ul></div>

@@ -1,0 +1,215 @@
+---
+title: The Lowdown on LG Channels – Top Details Unveiled
+date: 2024-08-12T03:06:49.866Z
+updated: 2024-08-13T03:06:49.866Z
+categories:
+  - BestProducts
+description: This Article Describes The Lowdown on LG Channels – Top Details Unveiled
+excerpt: This Article Describes The Lowdown on LG Channels – Top Details Unveiled
+thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg
+---
+
+## The Lowdown on LG Channels – Top Details Unveiled
+ LG uses webOS as its[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) operating system, which provides efficient and simple operation of the TV, network, and internet streaming features, including access to an abundant list of streaming channels, and full web browsing similar to a PC.  
+
+## What Is LG Channels?
+
+ To make the webOS platform even more efficient, LG partnered with Xumo to include an additional streaming app feature called LG Channels (formerly LG Channel Plus).  
+
+ Although the Xumo Play app is an option for some other brands, LG includes it as part of the webOS core experience for select[FHD and UHD](https://www.lifewire.com/fhd-vs-uhd-4688527) 2012-2018 LG[LED/LCD](https://www.lifewire.com/truth-about-so-called-led-televisions-1847935) or[OLED](https://www.lifewire.com/oled-tv-basics-1846926) smart TV models running or updated to webOS 4.0 as well as select 2019 models running webOS 4.5 and select 2020 models running webOS 5.0.
+
+[How to Buy a TV For Your Home in 2024](https://www.lifewire.com/best-tvs-to-buy-4061107)
+
+ LG Channels provides direct access, via an onscreen app icon, to more than 100 streaming channels without having to download and install each one. All the channels are free to view but may contain ads.
+
+ The channels offer news, sports, and entertainment from a variety of sources.
+
+ Some of the featured channels include:
+
+* CBS News
+* Comedy Central Pluto TV
+* PBS Nature
+* Fubo Sports
+* Crackle
+* TMZ
+
+ Check out[LG's complete channel listing](https://channel-lineup.lgchannels.com/) .
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Activate LG Channels
+
+ If the LG Channels app icon isn't already showing your LG TV's menu bar, or the icon isn't active, here is how to activate it.
+
+1. Press**Home** on your TV Remote.  
+![LG TV Remote – Home Button Highlighted](https://www.lifewire.com/thmb/RGBzUhsj3l4tPJAjEmtPsq6KemI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-add-apps-to-a-smart-tv-alt-e82246a45bb14ed5b5293dc54049e557.jpg)  
+ Depending on the model of your LG TV, the remote control may look different than the one shown, with the buttons arranged differently. However, the appearance of the home button and other button icons is the same.
+2. On the TV's home screen, select**Settings.**  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![LG TV Settings Selection from Home Page](https://www.lifewire.com/thmb/ioZdn4CcUoRLj6TjhvSCj72bJWU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-tv-web-os-bar-settings-icon-1800-dk-yellow-x-1313828063474d86998f62e9c032bfd0.jpg)  
+ If your remote control has a**Settings** button, you can click that instead of having to hit the home button first.
+3. After selecting the Settings icon on your remote or home page, the Settings Menu will display on either the left or right side of the TV screen. Scroll down to the bottom of the settings menu and select**All Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+![LG TV All Settings Selection](https://www.lifewire.com/thmb/XMyfyF5svDdeqOGkwB5E6I2lt-M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-tv-screen-all-settings-1800-dk-yellow-x-26218a1aa7f34aabb185921dc24de998.jpg)
+4. Select**Channels** .  
+![LG TV Settings – Channel Category Selected](https://www.lifewire.com/thmb/mEnbOWD_Gm1pZo6mGf48Grht5xo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-tv-channels-category-in-settings-1800-dk-yellow-b-52d388d5cf0e4ba3b360c48cab8edb1f.jpg)
+5. Toggle on**LG** **Channels** if it's not already on.  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![LG Channels Turned On](https://www.lifewire.com/thmb/F-ug8rCC-mXHjL0c5vGBk__fLbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-turned-on-alt-1800-dk-yellow-b-8e568e3612eb4e00ad8602de6132a376.jpg)  
+ If you receive a notice that a new version or update is available, select the update. The update may periodically provide new channels.
+6. Upon turning on LG Channels, you might see a Viewing Restriction Disclaimer. Select**OK** to continue.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
+![LG Channels – Parental Guide Notice](https://www.lifewire.com/thmb/skfD4NSVa0Cl_xD8UlSfN2BMI9M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-parental-guide-notice-b-b05c3f5554a54946825195fa2f02c7ae.jpg)
+7. Select the**LG** **Channels** icon on LG TV's webOS Menu Bar.  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![LG Channels Selection on Home Menu](https://www.lifewire.com/thmb/XNujNuN09P0ErfONc9Mzdc2eheM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-on-home-screen-selection-1800-dk-yellow-alt-q-3fc829f7793f4132b6a551998b8ffb54.jpg)
+8. Start watching LG Channels.  
+![LG Channels App Home Page](https://www.lifewire.com/thmb/lNzVMLByCVm9BB6pNz9ufR2UP5g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Channels-App-main-5a85008f438049d69ecfc310a2fae536.jpg)  
+LG Electronics
+
+## LG Channels Content Navigation
+
+ Once activated, you can access LG Channels directly from the icon located on the main menu bar that runs along the bottom of the TV screen.
+
+ When you click on the LG Channels icon, it takes you to a full-page channel navigation menu.
+
+ As you scroll through the menu, a brief description of each channel you highlight will display in the top portion of the screen. You will also notice that each "channel" also has an assigned number, which you can also use to access the channel if you don't want to scroll.
+
+ You can tag your favorite channels with a "star" so that they are easier to find later, as well.
+
+ In all cases, when you find what you want, select it to watch.
+
+## LG Channels Listing Combined with Antenna TV Listings
+
+ If you receive over-the-air TV broadcasts via antenna and have also activated LG Channels, you can access both via the**Live TV** icon on the LG TV menu bar.
+
+ Upon selecting the Live TV icon, you will have access to a combined list of over-the-air (OTA) and LG channels. The LG channel offerings are mixed right in with a TV's OTA channel listings, so you don't have to choose one or the other. You can browse everything at once.
+
+ Unlike cable/satellite and streaming services, over-the-air TV viewers don't have to leave the main channel selection menu to access the new internet streaming channels that LG Channels offers.
+
+ For OTA TV viewers, LG Channels provides more seamless content access and navigation, making finding that favorite show or niche content more accessible and faster.
+
+ OTA TV channels start with a number or letter, whereas LG Channels always begin with the letters "IP."
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+## LG Channels By Other Names
+
+ Xumo has also expanded the LG Channels concept to other TV brands, including:
+
+* **Hisense/Sharp** : 60 channels are available through the virtual input selection feature.
+* **Magnavox, Sanyo, and Philips Roku TVs and Roku Media Streamers** : The Xumo Play App can be added on[Roku](https://www.lifewire.com/what-is-a-roku-4142216) media streamers and Roku TVs via the[Roku Channel Store](https://www.lifewire.com/add-channels-to-roku-4164594) .
+* **Samsung** : The Xumo Play app is available via the[Samsung App Store](https://www.lifewire.com/how-to-use-samsung-apps-1847395) .
+* **Vizio** : Xumo is available through Vizio TVs featuring Internet Apps Plus. Vizio also offers an additional alternative in partnership with Pluto TV that it refers to as WatchFree.
+
+## The Bottom Line
+
+ LG's partnership with Xumo is part of a continuing trend that blurs the steps usually needed to access broadcast, cable, satellite, and internet streaming content.
+
+ Instead of the consumer having to figure out which menu holds a specific content provider or app, it can all be in one integrated list similar to a channel guide you might find for cable or satellite TV.
+
+ Where your programming comes from isn't the main concern: your TV should be able to access and deliver it to you without you having to find it.
+
+[How to Do Screen Mirroring on LG Smart TVs](https://www.lifewire.com/screen-mirroring-lg-smart-tvs-4770959)
+
+ FAQ
+
+* How do I scan for antenna channels on LG TVs?  
+ First, connect an antenna or cable directly to the LG TV. Then, depending on your TV, click**Settings** /**Home** on the remote control. Go to**Channels** \>**Channel Tuning** \>**Auto Tuning** . If prompted to check your antenna connection, select**Yes** /**OK** . The TV will scan for all types of channels, including local antenna channels.
+* How do I add channels to my LG smart TV?  
+ To add more LG channels/apps, go to the LG app store: On the TV remote, click**Start** /**Home** \> select**Apps** \> search icon > enter**app name** \>**Search** \> Choose a channel to add >**Install** .
+* How do I watch two channels at once on an LG smart TV?  
+ Turn to a channel you want to watch, then click**Home** on the remote >**My Programs** . Next, choose the**\+ (Plus)** sign on the screen to select the channel you are currently watching. Then, change channels and click the**\+ (Plus)** sign to add the second channel. Select**Multi-view** . From the two channels you've selected, choose the one to add as the smaller picture-in-picture channel. The other channel will display larger.
+* What apps are available for LG Smart TV?  
+ You can control your TV with the ThinQ (formerly LG TV Plus) remote app for iOS and Android. Download the ThinQ app for iOS from the App Store, or download the app for Android from Google Play.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-altering-username-on-google-meet-via-pc-and-mobile/"><u>[New] 2024 Approved  Altering Username on Google Meet via PC & Mobile</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-abridged-blueprint-for-starting-virtual-conversations-zoom-edition-for-2024/"><u>[New] Abridged Blueprint for Starting Virtual Conversations  Zoom Edition for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immerse-slides-with-audio-harmony/"><u>[New] Immerse Slides with Audio Harmony</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-safeguard-your-calls-best-free-and-secure-video-chat-services-for-ios-and-android-for-2024/"><u>[New] Safeguard Your Calls  Best Free and Secure Video Chat Services for iOS & Android for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fb-live-tv-broadcast-4-innovative-methods/"><u>[Updated] FB Live TV Broadcast  4 Innovative Methods</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-from-gameplay-to-video-full-guide-on-ps4-with-obs/"><u>[Updated] From Gameplay to Video  Full Guide on PS4 with OBS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-superior-asmr-audio-with-top-recorder-mics/"><u>[Updated] Unlock Superior ASMR Audio with Top Recorder Mics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-walkthrough-for-setting-up-an-apple-expert-meeting/"><u>A Comprehensive Walkthrough for Setting Up an Apple Expert Meeting</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audiophiles-windows-companion/"><u>Audiophile’s Windows Companion</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-your-instagram-following-proven-strategies/"><u>Boosting Your Instagram Following: Proven Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-cat5-versus-cat6-understanding-key-differences/"><u>Comparing Cat5 Versus Cat6: Understanding Key Differences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-instructions-on-pairing-your-apple-homepod-with-your-tv-setup/"><u>Complete Instructions on Pairing Your Apple HomePod with Your TV Setup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722894525858-comprehensive-instructions-for-swapping-out-phone-screen-shield-film/"><u>Comprehensive Instructions for Swapping Out Phone Screen Shield Film</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciphering-duckduckgos-security-a-guide-to-its-safe-search-capabilities/"><u>Deciphering DuckDuckGo's Security – A Guide to Its Safe Search Capabilities</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-correcting-the-flickering-display-problem-on-your-microsoft-surface/"><u>Diagnosing & Correcting the Flickering Display Problem on Your Microsoft Surface</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-how-to-locate-a-friend-using-your-iphone/"><u>Discover How to Locate a Friend Using Your iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-methods-to-remove-accessories-from-your-google-smart-home-ecosystem/"><u>Easy Methods to Remove Accessories From Your Google Smart Home Ecosystem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-connection-learn-how-to-pair-your-bose-soundlink-speakers-today/"><u>Effortless Connection: Learn How to Pair Your Bose Soundlink Speakers Today!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/embrace-the-digital-age-with-top-tech-devices-and-book-selections/"><u>Embrace the Digital Age with Top Tech Devices & Book Selections</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-audacity-techniques-for-mac-audio-recording-for-2024/"><u>Essential Audacity Techniques for Mac Audio Recording for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-viewing-the-premier-max-starring-documentaries-of-july-2024/"><u>Essential Viewing: The Premier Max-Starring Documentaries of July 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-mingwm10dll-not-detected-effective-troubleshooting-techniques/"><u>Fix Mingwm10.dll Not Detected – Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-determine-if-robloxs-downtime-affects-everyone-or-just-your-connection/"><u>How to Determine if Roblox's Downtime Affects Everyone or Just Your Connection.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-oppo-reno-9a-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo Reno 9A Phone that is Locked?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-msodll-file-missing-error-on-your-computer/"><u>How to Resolve 'mso.dll File Missing' Error on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-select-an-iphone-that-maximizes-your-gaming-experience/"><u>How to Select an iPhone That Maximizes Your Gaming Experience</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/inception-using-google-trends-to-fuel-videography/"><u>Idea Inception  Using Google Trends to Fuel Videography</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/live-coverage-of-mens-ncaa-basketball-march-madness-and-final-four-the-ultimate-radio-experience/"><u>Live Coverage of Men's NCAA Basketball: March Madness & Final Four - The Ultimate Radio Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-windowsmac-osx-screenshots-a-beginners-handbook/"><u>Mastering the Art of Windows/Mac OSX Screenshots - A Beginner's Handbook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722883904481-must-have-email-apps-for-your-iphone-in-2024-expert-choices-revealed/"><u>Must-Have Email Apps for Your iPhone in 202#4 - Expert Choices Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimizing-android-usage-how-to-keep-apps-from-secretly-operating-in-the-background/"><u>Optimizing Android Usage: How to Keep Apps From Secretly Operating in the Background</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-osetupdll-file-missing-a-comprehensive-guide/"><u>Resolving osetup.dll File Missing: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-mystery-of-windows-11s-sudden-darkness-a-guide/"><u>Resolving the Mystery of Windows 11'S Sudden Darkness: A Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-strategies-for-college-students-to-obtain-a-tidal-price-cut/"><u>Step-by-Step Strategies for College Students to Obtain a Tidal Price Cut</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-7-amazing-alarm-clock-apps-you-need-on-your-phone/"><u>The Ultimate List of 7 Amazing Alarm Clock Apps You Need on Your Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-solution-for-not-found-webpages-a-step-by-step-fixing-guide/"><u>The Ultimate Solution for 'Not Found' Webpages – A Step-by-Step Fixing Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-20-must-watch-films-on-demand-lifewire-selection/"><u>Top 20 Must-Watch Films on Demand - Lifewire Selection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-tips-to-avoid-exceeding-your-data-cap-while-texting/"><u>Top Tips to Avoid Exceeding Your Data Cap While Texting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-openal32dll-absence-message-on-your-computer/"><u>Troubleshooting the openal32.dll Absence Message on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-getting-your-zoom-camera-back-in-action/"><u>Troubleshooting Tips: Getting Your Zoom Camera Back in Action</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-ieframedll-issues/"><u>Ultimate Guide: Resolving IEFrame.DLL Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-thawing-your-frozen-macbook-air/"><u>Ultimate Guide: Thawing Your Frozen MacBook Air</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-instagram-an-in-depth-look-at-its-features-and-functions/"><u>Understanding Instagram: An In-Depth Look at Its Features and Functions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-world-of-biometric-technology-a-comprehensive-guide/"><u>Understanding the World of Biometric Technology: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unmasking-imposter-friends-on-your-network-online/"><u>Unmasking Imposter Friends on Your Network Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-saved-instagram-reels-tips-for-easy-retrieval-of-deleted-posts/"><u>Unveiling Saved Instagram Reels: Tips for Easy Retrieval of Deleted Posts</u></a></li>
+</ul></div>
