@@ -1,7 +1,7 @@
 ---
 title: Is Your PC's Windows Update Taking Forever? Here's Why and How to Improve It
-date: 2024-08-15 17:25:22
-updated: 2024-08-16 10:30:49
+date: 2024-08-18T19:36:33.736Z
+updated: 2024-08-19T19:36:33.736Z
 tags:
   - win11
   - win10
@@ -96,6 +96,9 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -108,6 +111,15 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap468.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
  2) In Command Prompt, type the command lines below and press**Enter** on your keyboard **after typing each** :
 
 **net stop bits**  
@@ -147,6 +159,9 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap245.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) On your keyboard, type the command lines below one by one and press**Enter** .
 
 **Dism /Online /Cleanup-Image /ScanHealth**
@@ -159,6 +174,9 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image has corruptions or not. This command line also doesn’t repair the corrupted files. It may take several minutes for this command operation to be completed.
 
 **Dism /Online /Cleanup-Image /RestoreHealth**
@@ -173,6 +191,9 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
  Try performing a Windows update to see if this fix works. If this issue persists, try running the System File Checker.
 
 ### Fix 5: Run System File Checker
@@ -183,12 +204,18 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000138.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) On your keyboard, type the following command and press**Enter** .
 
 **sfc /scannow**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 It may take some time for the command operation to be completed.
 
  3) When this command operation is completed, close**Command Prompt** .
@@ -205,6 +232,9 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap470.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Before you download updates, you need to**check the system type** of your Windows OS. If you don’t know how to do it, follow the instructions below to view your system type:
 
  i. On your keyboard, press**the Windows Logo key** and **R** at the same time to open the Run dialog. Type **cmd** and press **Enter** to open Command Prompt.
@@ -215,6 +245,9 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
  “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
 
  4) Visit[**Microsoft Update Catalog**](https://www.catalog.update.microsoft.com/home.aspx) .
@@ -223,6 +256,9 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
  6) In the list of search results, select the correct update for your operating system and click**Download** .
 
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.
@@ -255,3 +291,40 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-your-video-projects-with-superior-recorder-software-for-2024/"><u>[New] Mastering Your Video Projects with Superior Recorder Software for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-rapid-rhythmic-revision-software-roundup-mobiledesktop/"><u>[New] Rapid Rhythmic Revision Software Roundup (Mobile/Desktop)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-unlock-cartoon-creativity-transforming-selfies-into-stories/"><u>[Updated] 2024 Approved  Unlock Cartoon Creativity  Transforming Selfies Into Stories</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-tune-and-trends-a-guide-to-sound-in-social-media-snapshots/"><u>2024 Approved  Tune & Trends  A Guide to Sound in Social Media Snapshots</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-video-sequencing-synergy-mastering-blend-modes/"><u>2024 Approved  Video Sequencing Synergy  Mastering Blend Modes</u></a></li>
+<li><a href="https://games-able.techidaily.com/armor-upgrade-guide-choosing-your-steam-deck-case-2024/"><u>Armor Upgrade Guide: Choosing Your Steam Deck Case, 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-unable-to-reach-server-issue-the-5003-error-explained-and-fixes/"><u>Decoding the 'Unable to Reach Server' Issue: The 50지03 Error Explained and Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-sound-in-presentations-correct-common-powerpoint-audio-malfunctions-quickly/"><u>Effortless Sound in Presentations: Correct Common PowerPoint Audio Malfunctions Quickly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/error-free-operation-a-step-by-step-guide-to-resolving-the-device-wont-start-problem-including-code-10-mishaps/"><u>Error-Free Operation: A Step-by-Step Guide to Resolving the 'Device Won't Start' Problem, Including Code 10 Mishaps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-tags-that-will-elevate-your-instagram-game-today/"><u>Essential #tags That Will Elevate Your Instagram Game Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-the-inside-scoop-on-the-samsung-galaxy-z-fold-6-anticipated-cost-specs-and-release-date-announcement-news/"><u>Get the Inside Scoop on the Samsung Galaxy Z Fold 6: Anticipated Cost, Specs & Release Date Announcement News</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-leverage-phantoms-retrograde-footage-tech/"><u>How to Leverage Phantom’s Retrograde Footage Tech</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionary-entry-points-for-zooids/"><u>In 2024, Revolutionary Entry Points for Zooids</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-scoop-rumors-release-timeline-and-tech-breakdown-for-apples-upcoming-household-bot/"><u>Inside Scoop: Rumors, Release Timeline, and Tech Breakdown for Apple's Upcoming Household Bot</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leveraging-microsoft-teams-copilot-feature-for-enhanced-collaboration/"><u>Leveraging Microsoft Teams' Copilot Feature for Enhanced Collaboration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-battle-with-a-lynel-top-techniques-for-breaking-through/"><u>Mastering Battle with a Lynel: Top Techniques for Breaking Through</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-using-ps5-on-windows-devices/"><u>Mastering the Art of Using PS5 on Windows Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/must-have-summer-edc-essentials-for-sunny-days-and-adventures-alike/"><u>Must-Have Summer EDC Essentials for Sunny Days and Adventures Alike</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-best-6-super-mario-controllers-a-comprehensive-pc-gamers-list/"><u>Navigating the Best 6 Super Mario Controllers: A Comprehensive PC Gamer's List</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimize-your-inbox-the-top-benefits-of-using-mozilla-thunderbird-v52/"><u>Optimize Your Inbox: The Top Benefits of Using Mozilla Thunderbird V52</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/restoring-your-facebook-steps-to-bring-back-dark-mode/"><u>Restoring Your Facebook: Steps to Bring Back Dark Mode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revealing-why-electric-vehicles-excel-in-performance-against-gasoline-models/"><u>Revealing Why Electric Vehicles Excel in Performance Against Gasoline Models</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-z-fold-4-unveiled-release-timeline-price-points-and-comprehensive-specifications/"><u>Samsung Z Fold 4 Unveiled: Release Timeline, Price Points, and Comprehensive Specifications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-dealing-with-non-functional-usb-tethering/"><u>Step-by-Step Solution: Dealing with Non-Functional USB Tethering</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/subtitled-uninterrupted-access-to-9-festive-holiday-movies-free/"><u>Subtitled, Uninterrupted Access to 9 Festive Holiday Movies - Free</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/t-mobile-unlimited-plans-understanding-your-access-to-metro-by-verizon-wireless-networks/"><u>T-Mobile Unlimited Plans: Understanding Your Access to Metro by Verizon Wireless Networks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-lowdown-on-lg-channels-top-details-unveiled/"><u>The Lowdown on LG Channels – Top Details Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-best-travel-influencers-on-twitter-tips-trips-and-bargains-await/"><u>Ultimate Guide to the Best Travel Influencers on Twitter: Tips, Trips, and Bargains Await</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-troubleshooting-guide-reconnecting-your-stadia-headset/"><u>Ultimate Troubleshooting Guide: Reconnecting Your Stadia Headset</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-security-tip-resetting-passwords-for-other-users-easily/"><u>Windows Security Tip: Resetting Passwords for Other Users Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/your-essential-guide-to-watching-live-sports-for-free-online-top-picks/"><u>Your Essential Guide to Watching Live Sports for Free Online - Top Picks</u></a></li>
+</ul></div>

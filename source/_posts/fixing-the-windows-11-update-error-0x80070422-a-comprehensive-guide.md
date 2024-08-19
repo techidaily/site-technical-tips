@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Windows 11 Update Error 0X80070422: A Comprehensive Guide"
-date: 2024-08-15 13:52:44
-updated: 2024-08-16 12:16:39
+date: 2024-08-18T19:39:06.313Z
+updated: 2024-08-19T19:39:06.313Z
 tags:
   - win11
   - win10
@@ -68,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
  When the process is finished, perform a Windows update again to see if it still takes much longer than usual. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  **Outdated or corrupted drivers on your PC can also trigger this issue** . For example, if your network driver is outdated or corrupted, it may slow down your download speed, so Windows updates may take much longer than before. To fix this issue, you need to update your drivers.
@@ -92,6 +95,9 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
  3) Click**Update** next to any device to download the correct version of its driver, and then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
@@ -139,6 +145,9 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
  Check to see if this resolves your Windows Update problem. Hopefully, it did. But if not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Fix 4: Run the DISM tool
 
  This issue is probably caused by the corrupted Windows update files. In this case, running   **the Deployment Image Servicing and Management (DISM) tool** may resolve this issue. Just follow the step-by-step instructions to run the DISM tool:
@@ -153,6 +162,9 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you run the command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption. It may take several minutes for this command operation to be completed.
 
 **Dism /Online /Cleanup-Image /CheckHealth**
@@ -165,6 +177,9 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
  The command line**Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official sources online. It may take several minutes for this command operation to be completed.
 
  It may take several minutes for this command operation to be completed.
@@ -173,8 +188,15 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Try performing a Windows update to see if this fix works. If this issue persists, try running the System File Checker.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ### Fix 5: Run System File Checker
 
 **System File Checker** can scan for corruptions in Windows system files and restore corrupted files. If Windows update takes so long to complete, it may be caused by some corruption error. In this case, running System File Checker may help you resolve this issue.
@@ -183,6 +205,9 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000138.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) On your keyboard, type the following command and press**Enter** .
 
 **sfc /scannow**  
@@ -195,6 +220,9 @@ It may take some time for the command operation to be completed.
 
  Perform a Windows update to check whether this fix works or not. If you still fail to install updates for your Windows system, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Fix 6: Download updates from Microsoft Update Catalog manually
 
 **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  offers updates for Windows 2000 SP3 and later versions of Windows operating system. If None of the fixes above works for you, you can try downloading the updates you failed to install from the Microsoft Update Catalog and install them manually. Here is how to do it:
@@ -223,6 +251,9 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  6) In the list of search results, select the correct update for your operating system and click**Download** .
 
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.
@@ -255,3 +286,53 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-transcending-barriers-bridging-the-gap-between-creators-and-audiences/"><u>[Updated] In 2024, Transcending Barriers  Bridging the Gap Between Creators and Audiences</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-instagram-live-from-obs-capture-for-2024/"><u>[Updated] Instagram Live From OBS Capture for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-fact-vs-fiction-decoding-the-world-of-instagram-reels/"><u>2024 Approved  Fact vs Fiction  Decoding the World of Instagram Reels</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-inspiring-14-animated-text-concepts/"><u>2024 Approved  Inspiring 14 Animated Text Concepts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-premium-selection-top-free-youtube-transcript-apps/"><u>2024 Approved  Premium Selection  Top Free YouTube Transcript Apps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-fixes-how-to-shorten-youtube-videos-easily/"><u>2024 Approved  Quick Fixes  How to Shorten YouTube Videos Easily</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y78-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y78 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cracking-the-code-to-join-the-elusive-world-of-facebook-marketplace/"><u>Cracking the Code to Join the Elusive World of Facebook Marketplace</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-atandts-policy-on-foreign-network-data-charges-for-travelers/"><u>Decoding AT&T's Policy on Foreign Network Data Charges for Travelers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-everything-about-samsungs-new-galaxy-watch-pricing-insights-release-schedule-technical-specifications-and-breaking-news/"><u>Discover Everything About Samsung's New Galaxy Watch: Pricing Insights, Release Schedule, Technical Specifications & Breaking News</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-utilizing-slack-in-your-job/"><u>Effective Strategies for Utilizing Slack in Your Job</u></a></li>
+<li><a href="https://video-capture.techidaily.com/efficient-ways-to-save-ppt-slides/"><u>Efficient Ways to Save PPT Slides</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enrich-virtual-engagements-with-zooms-filter-innovation/"><u>Enrich Virtual Engagements with Zoom's Filter Innovation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ensuring-seamless-communication-adding-safe-senders-in-the-macos-mail-app/"><u>Ensuring Seamless Communication: Adding Safe Senders in the macOS Mail App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-our-curated-selection-of-favorite-imessage-games-2oops-i-meant-2024/"><u>Explore Our Curated Selection of Favorite iMessage Games - 2^Oops, I Meant 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-missing-msvbvm50dll-a-step-by-step-solution-walkthrough/"><u>Fixing 'Missing msvbvm50.dll': A Step-by-Step Solution Walkthrough</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-problem-of-missing-mfc71dll-on-your-pc/"><u>Fixing the Problem of Missing Mfc71.dll on Your PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-camera-roll-to-igtv-video-upload-101/"><u>From Camera Roll to IGTV  Video Upload 101</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-stream-your-pc-screen-on-tv-using-google-chromecast/"><u>Guide: Stream Your PC Screen on TV Using Google Chromecast</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-missing-msodll-error-on-your-computer/"><u>How to Resolve 'Missing mso.dll' Error on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-turn-off-enhanced-keyboard-mapping-features-sticky-keys-in-windows-computers/"><u>How to Turn Off Enhanced Keyboard Mapping Features: Sticky Keys in Windows Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-watch-without-subtitles-learn-the-trick-for-amazon-prime-video/"><u>How To Watch Without Subtitles? Learn the Trick For Amazon Prime Video</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-find-the-perfect-phone-shot-blur/"><u>In 2024, Find the Perfect Phone Shot Blur</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-8-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 8 Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-from-spoken-words-to-written-text-ppt-innovation-guide/"><u>In 2024, From Spoken Words to Written Text  PPT Innovation Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-smoothing-out-aerial-footage-pulsation/"><u>In 2024, Smoothing Out Aerial Footage Pulsation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-pro-m4-vs-macbook-air-m3-which-one-suits-you-best/"><u>IPad Pro M4 Vs. MacBook Air M3 - Which One Suits You Best?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/must-have-deals-on-electronics-at-the-ultimate-amazon-prime-day-clearance/"><u>Must-Have Deals on Electronics at the Ultimate Amazon Prime Day Clearance</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/quick-tips-for-embedding-timestamps-into-youtube-videos/"><u>Quick Tips for Embedding Timestamps Into YouTube Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-problem-of-unopened-microsoft-word-files-easily/"><u>Resolving the Problem of Unopened Microsoft Word Files Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/smart-sms-habits-to-prevent-overspending-on-cellular-data-plans/"><u>Smart SMS Habits to Prevent Overspending on Cellular Data Plans</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-silent-streaming-how-to-restore-speakers-on-a-malfunctioning-chromecast/"><u>Solve Silent Streaming: How to Restore Speakers on a Malfunctioning Chromecast</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/y-transformation-from-pixels-to-polished-youtube-thumbnails/"><u>Speedy Transformation  From Pixels to Polished YouTube Thumbnails</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-best-viewing-order-for-the-matrix-movies-an-essential-guide/"><u>The Best Viewing Order for The Matrix Movies: An Essential Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-affordable-home-theater-system-bundles-the-ultimate-guide/"><u>Top Affordable Home Theater System Bundles: The Ultimate Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-access-issues-why-cant-you-find-facebook-marketplace/"><u>Troubleshooting Access Issues: Why Can't You Find Facebook Marketplace?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-issues-with-your-xbox-series-xs-gaming-headset/"><u>Troubleshooting Guide: Resolving Issues with Your Xbox Series X/S Gaming Headset</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-solving-python2e4dll-not-found-in-python-setup/"><u>Ultimate Guide to Solving 'python2e4.dll Not Found' In Python Setup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-walkthrough-for-scheduling-a-technical-assistance-session-at-apple-retail/"><u>Ultimate Walkthrough for Scheduling a Technical Assistance Session at Apple Retail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-mobile-apps-on-windows-11-the-definitive-how-to-guide/"><u>Unlocking Mobile Apps on Windows 11: The Definitive How-To Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-secrets-of-using-live-photos-features-with-ios-16s-new-functionality/"><u>Unveiling the Secrets of Using Live Photos Features with iOS 16'S New Functionality</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-all-you-need-to-know-about-imovie-audio-editing/"><u>Updated All You Need to Know About iMovie Audio Editing</u></a></li>
+</ul></div>

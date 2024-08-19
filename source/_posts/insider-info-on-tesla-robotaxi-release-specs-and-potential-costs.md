@@ -1,0 +1,164 @@
+---
+title: Insider Info on Tesla Robotaxi Release, Specs and Potential Costs
+date: 2024-08-18T20:49:40.523Z
+updated: 2024-08-19T20:49:40.523Z
+categories:
+  - BestProducts
+description: This Article Describes Insider Info on Tesla Robotaxi Release, Specs and Potential Costs
+excerpt: This Article Describes Insider Info on Tesla Robotaxi Release, Specs and Potential Costs
+thumbnail: https://www.lifewire.com/thmb/wYbs9YPjfqu3bTOidf7VUpLUAgM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-fleet-5ad9afa357e647df84e569662e7a8983.jpg
+---
+
+## Insider Info on Tesla Robotaxi Release, Specs and Potential Costs
+
+ In This Article 
+
+* [ Release Date Estimate ](https://www.lifewire.com/#toc-when-will-the-tesla-robotaxi-be-released)
+* [ Price Rumors ](https://www.lifewire.com/#toc-tesla-robotaxi-price-rumors)
+* [ Pre-Order Information ](https://www.lifewire.com/#toc-pre-order-information)
+* [ Anticipated Features ](https://www.lifewire.com/#toc-tesla-robotaxi-features)
+* [ Rumored Specs ](https://www.lifewire.com/#toc-tesla-robotaxi-specs-and-hardware)
+* [ The Latest News ](https://www.lifewire.com/#toc-the-latest-news-about-the-tesla-robotaxi)
+
+ Elon Musk has been talking for years about Tesla’s inevitable autonomous vehicle future. The Tesla Robotaxi, aka Cybercab, has been a featured player in that conversation and announced several times before as on the way. This self-driving taxi does seem to be inching closer to an official release, but details are still sparse. Here’s what we’ve gathered so far.
+
+##  When Will the Tesla Robotaxi Be Released? 
+
+ Musk[ previously claimed that the Tesla Robotaxi would be on the market by 2020](https://www.cnn.com/2019/04/22/tech/tesla-robotaxis/index.html) , at Tesla’s first Autonomy Investor Day in 2020, and then[ pivoted to a 2024 production date](https://techcrunch.com/2023/09/12/tesla-robotaxi-concept-looks-like-a-two-seater-cybertruck/) . 
+
+ There was also talk of an[ affordable EV heading to production at the end of 2025](https://www.notateslaapp.com/news/1890/tesla-confirms-launch-of-next-gen-vehicle-in-2025-anticipates-a-surge-in-growth) , but more recently, we've heard murmurs that this model has been postponed or even canceled. 
+
+ Given some murkiness around that model and Tesla’s track record of being a bit late with its launch estimates, a[ 2024 release seems unlikely at this point](https://cleantechnica.com/2024/04/09/tesla-will-not-have-true-robotaxi-release-this-year/) . Especially because[ NBC News reports](https://www.nbcnews.com/tech/innovation/robotaxi-regulators-say-tesla-hasnt-contacted-plans-rcna147456) that regulators in various states (Arizona, Nevada, and Texas) haven’t heard anything from Tesla about acquiring the necessary permits. 
+
+ However, Musk plans to pull the curtain back a bit soon. In April, Musk announced an August 8 unveiling of the robotaxi, but[ Bloomberg reports that the event has been postponed to October](https://www.bloomberg.com/news/articles/2024-07-11/tesla-plans-to-delay-robotaxi-unveiling-to-october-from-august) as a result of Musk's design change requests.
+
+ In May stockholder meeting materials, there’s mention of a “purpose-built robotaxi expected to be demo’ed this year.” Based on recent comments on his X profile, Musk seems to confirm that the October event will unveil a prototype: "Requested what I think is an important design change to the front, and extra time allows us to show off a few other things."
+
+###  Lifewire's Release Date Estimate
+
+ Though the Tesla Robotaxi unveiling happens sometime in October, we’re still probably several years away from a production-ready model.
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Tesla Robotaxi Price Rumors 
+
+ There was talk that Tesla would release a more affordable $25,000 electric vehicle (EV) for a wider consumer audience.
+
+ However,[ Reuters reported that Tesla scrapped the entry-level Tesla](https://www.reuters.com/business/autos-transportation/tesla-scraps-low-cost-car-plans-amid-fierce-chinese-ev-competition-2024-04-05/) in favor of working toward the robotaxi, built on the same smaller platform as the planned mass-market EV. Musk denies that Tesla’s plans for a more affordable EV have been nixed.
+
+ Either way, we don’t know much about the cost of a Tesla Robotaxi. The Tesla Model 3 might offer some clues: With Full Self-Driving added, the Model 3 comes in at about $50,000.
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Pre-Order Information 
+
+ There’s no information about Tesla Robotaxi pre-ordering right now. 
+
+ In the event that Musk and Tesla provide details at the August unveiling, we’ll add everything we learn here.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
+## Tesla Robotaxi Features 
+
+ At Tesla’s May shareholder meeting, Musk reiterated the money-making potential for Cybercab owners, using a model that's a little bit Airbnb and a dash of Uber.
+
+ He outlined a vision for owners to essentially rent out their vehicles by adding them to Tesla’s robotaxi fleet. The idea is that the vehicles would make money while owners are away and that owners can remove their robotaxi from the fleet anytime.
+
+ Tesla has also offered a glimpse of the Tesla app, which will allow owners to add their vehicles to the taxi service mix with a tap of a button. This app is also where riders can hail robotaxis and complete other actions, like viewing arrival times and adjusting the vehicle's temperature. 
+
+![Five views of the Tesla ride hailing app preview](https://www.lifewire.com/thmb/XfOPTS8UcMjMVRfXeu0pqU2wvNw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-ride-hailing-app-preview-4174be71b5f4423b85ce5395783d8056.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+ Preview of ride-hailing in the Tesla app. 
+
+Tesla
+
+ As for the look, we’ve seen some renderings like the one below.
+
+ A company promo video, which Musk shared on X, also[ points to a few design leaks](https://insideevs.com/news/720357/tesla-cybercab-robotaxi-interior-leak/) , like:
+
+* A lack of a steering wheel
+* No pedals
+* Two-seat coupe build
+* Centrally mounted display
+* Cybertruck-inspired bumper
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
+##  Tesla Robotaxi Specs and Hardware 
+
+ There aren’t many concrete details about Tesla Robotaxi specs, but one noteworthy speculation is that the Cybercab will be built completely from scratch and use a sensor suite similar to the Tesla Full Self-Driving (FSD) platform. 
+
+ However, FSD uses a camera system rather than LiDAR and is far from fully autonomous. The most recent FSD 12 has made the biggest strides, but it’s still classified as Level 2 autonomous for routine city driving and under constant driver supervision.
+
+ We’ll probably know more about the design and feature set after August 8, so stay tuned.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+##  The Latest News About the Tesla Robotaxi 
+
+ We’ll update this page as we learn more about the Tesla Robotaxi release date and other model specifics. In the meantime, get more of the latest[ smart and connected life news from Lifewire](https://www.lifewire.com/smart-home-connected-life-news-4797031) , and check out these stories about Tesla and other rumored EVs.
+
+[  Tesla Robot: News, Rumors, and Estimated Price, Release Date, and Specs ](https://www.lifewire.com/tesla-robot-news-and-rumors-6265340) 
+
+[  Tesla Phone: News and Expected Price, Release Date, Specs; and More Rumors ](https://www.lifewire.com/tesla-phone-5212799) 
+
+[  Apple Car: News and Price, Release Date, Specs; and More Rumors ](https://www.lifewire.com/apple-car-5210313) 
+
+[  Sony Car (Afeela): News and Expected Price, Release Date, Specs; and More Rumors ](https://www.lifewire.com/sony-car-afeela-8667364) 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-steps-to-ensure-whole-sound-in-fb-video-playbacks-for-2024/"><u>[Updated] Steps to Ensure Whole Sound in FB Video Playbacks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-honorable-highlights-elite-websites-for-obtaining-snapalert-beats/"><u>2024 Approved  Honorable Highlights  Elite Websites for Obtaining SnapAlert Beats</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-optimize-video-playback-with-snapchat-tricks/"><u>2024 Approved  Optimize Video Playback with Snapchat Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-walkthrough-on-linking-zoom-webinars-with-your-living-room-tv-setup/"><u>A Comprehensive Walkthrough on Linking Zoom Webinars with Your Living Room TV Setup</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-pop-7-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Pop 7 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/addressing-the-error-message-rockalldlldll-is-missing/"><u>Addressing the Error Message: 'Rockalldll.dll Is Missing'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-email-safety-by-enabling-gmails-two-factor-authentication-process/"><u>Boost Your Email Safety by Enabling Gmail's Two-Factor Authentication Process</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-computer-malfunctions-a-closer-look-at-the-implications-of-a-bsod/"><u>Demystifying Computer Malfunctions: A Closer Look at the Implications of a BSOD</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-hot-tech-savings-for-your-next-upgrade-amazon-prime-day-exclusive-deals/"><u>Discover Hot Tech Savings for Your Next Upgrade – Amazon Prime Day Exclusive Deals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-official-canon-mx340-windows-drivers-for-win-1087/"><u>Download the Official Canon MX340 Windows Drivers – For Win 10/8/7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-guide-to-free-disk-defragmentation-apps-boosting-system-efficiency-as-of-july-2nce-2024/"><u>Essential Guide to Free Disk Defragmentation Apps: Boosting System Efficiency as of July 2Nce, 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expand-your-inbox-control-how-to-automate-organization-in-gmail-efficiently/"><u>Expand Your Inbox Control: How to Automate Organization in Gmail Efficiently</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-setting-up-your-amazon-firestick-with-applestv/"><u>Guide: Setting Up Your Amazon Firestick with ApplesTV</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-s18e-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo S18e</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ignite-drive-with-these-20-high-impact-tunes-for-exercise-enthusiasts/"><u>In 2024, Ignite Drive with These 20 High-Impact Tunes for Exercise Enthusiasts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-a38-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Oppo A38 Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-phone-personalizing-the-ios-alert-sound/"><u>In 2024, Transform Your Phone  Personalizing the iOS Alert Sound</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-guide-to-website-latency-testing-through-icmp-echo-ping-protocols/"><u>In-Depth Guide to Website Latency Testing Through ICMP Echo (Ping) Protocols</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-network-tools-using-the-ping-command-effectively/"><u>Mastering Network Tools: Using the 'Ping' Command Effectively</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-dells-educational-promotions-tips-for-snagging-the-best-discount-deals-on-your-next-device/"><u>Navigating Dell's Educational Promotions: Tips for Snagging the Best Discount Deals on Your Next Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reclaim-your-lost-connections-finding-erased-contacts-on-android-phones/"><u>Reclaim Your Lost Connections: Finding Erased Contacts on Android Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-fixes-for-a-common-problem-unblocking-netflix-streams-on-roku-tvs-and-sticks/"><u>Step-by-Step Fixes for a Common Problem: Unblocking Netflix Streams on Roku TVs & Sticks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-for-snapping-photos-on-your-xbox-gaming-system/"><u>The Ultimate How-To for Snapping Photos on Your Xbox Gaming System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-best-7-alarm-apps-unveiled/"><u>The Ultimate Selection: Best 7 Alarm Apps Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-for-disconnecting-devices-from-google-home/"><u>The Ultimate Walkthrough for Disconnecting Devices From Google Home</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-dll-error-how-to-recover-a-lost-mscorwksdll/"><u>Troubleshooting the DLL Error: How to Recover a Lost mscorwks.dll</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/vlc-media-recorder-assessment-report-for-2024/"><u>VLC Media Recorder Assessment Report for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-do-when-you-encounter-jvmdll-file-missing-issues/"><u>What To Do When You Encounter JVM.DLL File Missing Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/will-your-electric-car-outlast-its-fossil-fuel-counterpart-in-lifespan-and-performance/"><u>Will Your Electric Car Outlast Its Fossil Fuel Counterpart in Lifespan and Performance?</u></a></li>
+</ul></div>

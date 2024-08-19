@@ -1,7 +1,7 @@
 ---
 title: Decoding the Reasons for Prolonged Windows Update Times
-date: 2024-08-13 13:45:27
-updated: 2024-08-16 12:11:31
+date: 2024-08-18T19:34:33.166Z
+updated: 2024-08-19T19:34:33.166Z
 tags:
   - win11
   - win10
@@ -68,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
  When the process is finished, perform a Windows update again to see if it still takes much longer than usual. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  **Outdated or corrupted drivers on your PC can also trigger this issue** . For example, if your network driver is outdated or corrupted, it may slow down your download speed, so Windows updates may take much longer than before. To fix this issue, you need to update your drivers.
@@ -92,6 +95,18 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click**Update** next to any device to download the correct version of its driver, and then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
@@ -139,6 +154,9 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
  Check to see if this resolves your Windows Update problem. Hopefully, it did. But if not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### Fix 4: Run the DISM tool
 
  This issue is probably caused by the corrupted Windows update files. In this case, running   **the Deployment Image Servicing and Management (DISM) tool** may resolve this issue. Just follow the step-by-step instructions to run the DISM tool:
@@ -147,18 +165,27 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap245.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) On your keyboard, type the command lines below one by one and press**Enter** .
 
 **Dism /Online /Cleanup-Image /ScanHealth**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
  When you run the command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption. It may take several minutes for this command operation to be completed.
 
 **Dism /Online /Cleanup-Image /CheckHealth**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
  When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image has corruptions or not. This command line also doesn’t repair the corrupted files. It may take several minutes for this command operation to be completed.
 
 **Dism /Online /Cleanup-Image /RestoreHealth**
@@ -173,6 +200,9 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
  Try performing a Windows update to see if this fix works. If this issue persists, try running the System File Checker.
 
 ### Fix 5: Run System File Checker
@@ -189,12 +219,18 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 It may take some time for the command operation to be completed.
 
  3) When this command operation is completed, close**Command Prompt** .
 
  Perform a Windows update to check whether this fix works or not. If you still fail to install updates for your Windows system, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ### Fix 6: Download updates from Microsoft Update Catalog manually
 
 **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  offers updates for Windows 2000 SP3 and later versions of Windows operating system. If None of the fixes above works for you, you can try downloading the updates you failed to install from the Microsoft Update Catalog and install them manually. Here is how to do it:
@@ -205,6 +241,9 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap470.png)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
  3) Before you download updates, you need to**check the system type** of your Windows OS. If you don’t know how to do it, follow the instructions below to view your system type:
 
  i. On your keyboard, press**the Windows Logo key** and **R** at the same time to open the Run dialog. Type **cmd** and press **Enter** to open Command Prompt.
@@ -255,3 +294,51 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-discover-prime-streaming-options-for-churches-today/"><u>[New] In 2024, Discover Prime Streaming Options for Churches Today</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-architecting-an-inspiring-tiktok-conclusion/"><u>[Updated] 2024 Approved  Architecting an Inspiring TikTok Conclusion</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-frontier-fighters-pinpointing-the-7-best-rts-battles/"><u>2024 Approved  Frontier Fighters  Pinpointing the 7 Best RTS Battles</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-fortnite-tile-sketch-a-30-second-guide/"><u>2024 Approved  Quick Fortnite Tile Sketch  A 30-Second Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-speaking-like-a-pro-tips-to-upgrade-your-google-meet-skills/"><u>2024 Approved  Speaking Like a Pro  Tips to Upgrade Your Google Meet Skills</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-create-ai-avatar-video-with-template-wondershare-virbo-online/"><u>2024 Approved Create AI Avatar Video with Template | Wondershare Virbo Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/5-star-wi-fi-repeaters-ranked-highest-for-extended-range-2024-edition/"><u>5 Star Wi-Fi Repeaters Ranked Highest for Extended Range - 2024 Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/are-you-experiencing-psn-issues-or-is-the-service-actually-unavailable/"><u>Are You Experiencing PSN Issues or Is the Service Actually Unavailable?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/banish-libxml2dll-not-found-messages-proven-fixes-to-get-your-system-running-again/"><u>Banish 'Libxml2.dll Not Found' Messages: Proven Fixes to Get Your System Running Again</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/before-purchasing-a-fitness-tracker-the-5-crucial-aspects-everyone-should-know/"><u>Before Purchasing a Fitness Tracker: The 5 Crucial Aspects Everyone Should Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/clearing-up-confusion-effective-solutions-for-windows-11-shutdown-problems/"><u>Clearing Up Confusion: Effective Solutions for Windows 11 Shutdown Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-flushing-your-cache-on-popular-internet-browsers/"><u>Comprehensive Tutorial: Flushing Your Cache on Popular Internet Browsers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/download-corsair-k70-mouse-software-and-drivers-get-started/"><u>Download Corsair K70 Mouse Software & Drivers - Get Started</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/end-your-wait-effective-fixes-for-continuous-buffering-on-kodi-platforms/"><u>End Your Wait: Effective Fixes for Continuous Buffering on Kodi Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/error-resolved-comprehensive-fixes-for-missing-or-corrupt-msstfmtdll-files/"><u>Error Resolved: Comprehensive Fixes for Missing or Corrupt msstfmt.dll Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-activating-macos-recovery-for-problem-solving/"><u>Expert Advice on Activating macOS Recovery for Problem Solving</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-top-5-free-alternatives-to-skype-in-2e-e/"><u>Explore the Top 5 Free Alternatives to Skype in 2E! (E)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-muddled-to-clear-mastering-photo-bg-removal/"><u>From Muddled to Clear  Mastering Photo Bg Removal</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-complete-survey-gear-360s-visual-journey-insight/"><u>In 2024, Complete Survey  Gear 360'S Visual Journey Insight</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/level-up-your-run-advanced-cheats-and-hacks-to-dominate-subway-surfers/"><u>Level Up Your Run: Advanced Cheats & Hacks to Dominate 'Subway Surfers'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/lifewires-current-must-watch-movies-best-picks-for-todays-viewers/"><u>Lifewire's Current Must-Watch Movies - Best Picks for Today’s Viewers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-engaging-content-the-definitive-guide-to-the-507-greatest-instagram-captions/"><u>Master Engaging Content: The Definitive Guide to the 507 Greatest Instagram Captions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/multiple-bluetooth-audio-devices-sync-with-one-the-ultimate-tutorial/"><u>Multiple Bluetooth Audio Devices Sync with One: The Ultimate Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-common-challenges-with-windows-10/"><u>Overcoming Common Challenges with Windows 지구류 10 검색기</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/research-made-easy-the-ultimate-guide-to-citation-formats-for-chatgpt-contributions/"><u>Research Made Easy: The Ultimate Guide to Citation Formats for ChatGPT Contributions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/retracting-replicas-on-tiktok-a-comprehensive-guide-to-removing-a-repost/"><u>Retracting Replicas on TikTok: A Comprehensive Guide to Removing a Repost</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sequencing-your-journey-the-correct-way-to-experience-the-lord-of-the-rings-trilogy/"><u>Sequencing Your Journey: The Correct Way to Experience 'The Lord of the Rings' Trilogy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/skyrocket-your-visibility-going-viral-on-tiktok-with-these-10-techniques/"><u>Skyrocket Your Visibility: Going Viral on TikTok with These 10 Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-combining-your-favorite-songs-into-one-streamline-spotify-playlist/"><u>Step-by-Step Guide: Combining Your Favorite Songs Into One Streamline Spotify Playlist</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-toggling-onoff-screen-keyboard-feature-on-windows-10/"><u>Step-by-Step Guide: Toggling On/Off Screen Keyboard Feature on Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-the-nspr4dll-couldnt-be-loaded-error/"><u>Step-by-Step Solutions to the Nspr4.dll Couldn’t Be Loaded Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-beginners-blueprint-for-effective-involvement-in-x-chats-on-twitter/"><u>The Beginner’s Blueprint for Effective Involvement in #X Chats on Twitter</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-steps-in-finding-your-dream-smartphone-cover/"><u>The Definitive Steps in Finding Your Dream Smartphone Cover</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-route-to-record-your-favorite-streaming-content-hulu/"><u>The Ultimate Route to Record Your Favorite Streaming Content (Hulu)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-elevating-your-discord-with-customized-bots/"><u>The Ultimate Tutorial on Elevating Your Discord with Customized Bots</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-factors-to-evaluate-when-purchasing-pre-owned-ipads/"><u>Top 5 Factors to Evaluate When Purchasing Pre-Owned iPads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-ipad-bargains-exclusive-offers-just-for-you/"><u>Top iPad Bargains: Exclusive Offers Just For You</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-video-conferencing-platforms-for-effective-team-collaboration/"><u>Top Rated Video Conferencing Platforms for Effective Team Collaboration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-solving-the-mystery-of-the-disappearing-wlanapidll-file/"><u>Understanding and Solving The Mystery of the Disappearing WLANAPI.DLL File</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-rules-owning-and-operating-multiple-youtube-channels/"><u>Understanding the Rules: Owning and Operating Multiple YouTube Channels</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-variances-a-comprehensive-look-at-macbook-air-versus-macbook-pro/"><u>Unveiling the Variances: A Comprehensive Look at MacBook Air versus MacBook Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/where-can-you-watch-spider-man-no-way-home-online-a-comprehensive-guide/"><u>Where Can You Watch 'Spider Man: No Way Home' Online? A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wirelessly-stream-apple-tvplus-content-on-your-smart-tv-with-chromecast-a-simple-guide/"><u>Wirelessly Stream Apple TV+ Content on Your Smart TV with Chromecast: A Simple Guide</u></a></li>
+</ul></div>

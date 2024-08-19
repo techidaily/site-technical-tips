@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Screenprints: A Comprehensive How-To for Lenovo Users"
-date: 2024-08-14 13:43:27
-updated: 2024-08-16 11:52:31
+date: 2024-08-18T19:43:38.201Z
+updated: 2024-08-19T19:43:38.201Z
 tags:
   - win11
   - win10
@@ -36,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What is Fortnite Battle Royale?
 
  Fortnite Battle Royale is for up to 100 players — you can play solo, in a duo or in a squad of up to four players. You start with only a few gameplay items, then search for weapons and armor, eliminate or avoid other players, and compete to win while staying within a shrinking safe area because of an incoming storm.
@@ -52,14 +55,23 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### How to play Fortnite Battle Royale on PC?
 
 1. Click **[this link](https://www.epicgames.com/fortnite/en-US/download?sessionInvalidated=true)**  to download and install Fortnite.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd824ec12d74.jpg)
 2. Open Fortnite.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 3. Sign in (Make sure you’ve set up an account).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd82a6c62500.jpg)
 4. Select**BATTLE ROYALE** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd82d5471bac.jpg)
 5. You may find Battle Royale a bit daunting to begin with, and you can first familiarize yourself with its settings — Click the 3 lines on the top right, then select the cog icon to open the settings menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329869963.jpg)
@@ -70,8 +82,14 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 8. Select a mode, then click**ACCEPT** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83ada51ab1.jpg)  
 **Note:** If you select**Duos** or**Squads** but play alone, verify that you also select**FILL** , and Fortnite will matchmake you with other players online; otherwise, if you select**DON’T FILL** , you may have to compete against a team of four alone.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83c7ada3f0.jpg)
 9. Click the**PLAY** button to begin.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5e0040d.jpg)
 10. You’ll find yourself in the holding area calld**Spawn Island** . During this 60-second period, you can practice using your pickaxe, picking up weapons, ammunition and building materials, but you can’t bring anything with you into the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd93d6f66913.jpg)
@@ -80,13 +98,23 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 **Note:** When you’re skydiving, move your mouse and use movement controls (default: W, A, S, D keys) to head for**houses** . There’re usually treasure chests hidden inside.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94858cba7c.jpg)
 12. Once on the ground, keep an eye for**chests** , which contain weapons you’ll need, as well as ammunition and medical supplies like first aid kits, bandages, and shield potions.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94c9e1bd2d.jpg)  
  Meanwhile, use your**pickaxe** (the only weapon that you start out with) on any structures that you see (trees, houses, rocks, etc.) It’s an essential way to collect building materials. Since building materials don’t take up space in your backpack, you can grab as much as you like.  
 **Note:** Remember to aim at the blue circle, which will speed up the damage.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94d52056f5.jpg)  
  If you find an opponent, you can either hide or quickly press key (displayed in the lower left corner) to use weapon and shoot the player.  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94bd308fbd.jpg)  
  Some weapons are certainly better than others. When you’re struggling to decide whether or not to swap one weapon out for another, revert back to the color list below. It descends from weakest to strongest, with gold being the most powerful.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95bd6d3175.jpg)
 
@@ -102,16 +130,28 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 **F4** is used to build triangular cones. They can be used as shelters.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95687cab2c.jpg)  
  Then you can press**G** to edit your building structures.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd957345965d.jpg)
 * Once you’ve been playing for a few minutes, you’ll see an indicator pop up to let you know that the storm is shrinking. You can press**M** to get to your map and find a safe area, which is everything inside the circle. You can go through the storm, but doing so will affect your health and eventually eliminate you from the game.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 **Note:** The purple restricted area is enlarging, and the withe circle(the safe zone) is shrinking, forcing remaining players into smaller and smaller spaces, until only one player is left standing. If that play is you, you’ll get a Victory Royale!  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9587c36338.jpg)  
  If you’re just getting started, your primary focus should be to learn how to do two things:**shoot and build** .
 * If you are eliminated, you can continue watching the game from the perspective of the person who eliminated you from the game; or just quit out and start again. Doing the former may enable you to learn about what makes a better player.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd941ca8ad7a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ### Pro tips: How to get good at Fortnite Battle Royale?
 
 #### Pro tip 1: Play Fortnite Battle Royale a lot
@@ -134,6 +174,9 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9718c13fe0.jpg)
 3. Click the**Update** button next to your device to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd971f327a28.jpg)  
  Note: If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
@@ -166,3 +209,37 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-sharpen-your-videography-skills-converting-standard-definition-to-hdr-excellence-for-2024/"><u>[New] Sharpen Your Videography Skills  Converting Standard Definition to HDR Excellence for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-from-songs-to-symphony-building-a-cohesive-youtube-playlist-on-webapp-for-2024/"><u>[Updated] From Songs to Symphony  Building a Cohesive YouTube Playlist on Web/App for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-glow-up-the-best-three-highlight-ideas/"><u>[Updated] Instagram Glow Up  The Best Three Highlight Ideas</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-organic-scenes-essential-free-templates-to-elevate-filmmaking-art/"><u>2024 Approved  Organic Scenes  Essential, Free Templates to Elevate Filmmaking Art</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginners-blueprint-mastering-home-soundscapes-and-speakers/"><u>Beginner's Blueprint: Mastering Home Soundscapes & Speakers</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-playstation-5-and-xbox-series-x-games-consoles-ranked/"><u>Best PlayStation 5 & Xbox Series X Games Consoles Ranked</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-7-superior-alarm-clocks-for-android-and-ios-devices/"><u>Discover 7 Superior Alarm Clocks for Android and iOS Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fixes-when-you-encounter-the-missing-binkw32dll-issue-on-your-pc/"><u>Easy Fixes When You Encounter the Missing binkW32.DLL Issue on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enablingdisabling-your-pcs-touchpad-a-comprehensive-guide-for-windows-10-users/"><u>Enabling/Disabling Your PC's Touchpad: A Comprehensive Guide for Windows 10 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/finding-and-repairing-the-elusive-wmvcoredll-file-expert-advice/"><u>Finding and Repairing the Elusive wmvcore.dll File - Expert Advice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/googles-latest-innovation-unveiled-stay-ahead-with-insight-into-pixel-tablet-specs-and-launch-date/"><u>Google's Latest Innovation Unveiled! Stay Ahead with Insight Into Pixel Tablet Specs and Launch Date</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-defeat-a-lynel-in-zelda-botw/"><u>How to Defeat a Lynel in Zelda: BOTW</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oppo-reno-8t-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Oppo Reno 8T Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 12 mini</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-honor-v-purse-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Honor V Purse Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-30-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 30 5G Phone without Google Account?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-hacked-or-forgotten-passcode-unlock-it-like-a-pro-without-any-codes/"><u>IPad Hacked or Forgotten Passcode? Unlock It Like a Pro Without Any Codes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-safelisting-process-for-domains-on-mac-os-x-mail-a-comprehensive-guide/"><u>Navigating the Safelisting Process for Domains on Mac OS X Mail: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimizing-game-load-times-using-external-hdds-with-the-xbox-one-system/"><u>Optimizing Game Load Times: Using External HDDs with the Xbox One System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-the-photoshop-scratch-disk-error-effective-methods-for-more-space/"><u>Overcoming the Photoshop Scratch Disk Error - Effective Methods for More Space</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-missing-msvcr70dll-file-issue-on-your-pc/"><u>Resolving the Missing MSVCR70.DLL File Issue on Your PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/retrieving-your-liked-videos-from-facebook/"><u>Retrieving Your Liked Videos From Facebook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revealing-hidden-files-on-macos-a-step-by-step-guide-using-the-terminal/"><u>Revealing Hidden Files on macOS: A Step-by-Step Guide Using the Terminal</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-of-ridesharing-with-tesla-robotaxi-price-revelation-and-anticipated-rollout/"><u>The Future of Ridesharing with Tesla Robotaxi: Price Revelation and Anticipated Rollout</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-setting-up-a-brand-new-x-account/"><u>The Ultimate Tutorial on Setting Up a Brand New X Account</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/trouble-connecting-to-nintendo-switch-online-server-error-or-user-glitch/"><u>Trouble Connecting to Nintendo Switch Online: Server Error or User Glitch?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-mastering-the-art-of-pairing-your-bose-soundlink-device/"><u>Ultimate Guide: Mastering the Art of Pairing Your Bose SoundLink Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-apple-watch-ultra-series-2-whats-new-in-features-price-forecasts-and-release-timeline/"><u>Unveiling the Apple Watch Ultra Series 2: What's New in Features, Price Forecasts, and Release Timeline?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrade-your-viewing-experience-with-tcls-new-lineup-19-models-to-choose-from/"><u>Upgrade Your Viewing Experience with TCL’s New Lineup – 19 Models to Choose From</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-and-facetime-compatibility-how-to-connect-across-platforms/"><u>Windows and FaceTime Compatibility: How to Connect Across Platforms</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "The Quadratic Factor Can Be Rewritten as \\((S+2K+2)(S+2K-2)=0\\), Giving Us Two More Roots: \\(S=-2K-2\\) and \\(S=-2K+2\\). These Are Distinct Real Roots if \\(K \\Neq 1\\)."
-date: 2024-08-05T02:07:09.584Z
-updated: 2024-08-06T02:07:09.584Z
+date: 2024-08-18T19:57:04.785Z
+updated: 2024-08-19T19:57:04.785Z
 categories:
   - BestProducts
 description: "This Article Describes The Quadratic Factor Can Be Rewritten as \\((S+2K+2)(S+2K-2)=0\\), Giving Us Two More Roots: \\(S=-2K-2\\) and \\(S=-2K+2\\). These Are Distinct Real Roots if \\(K \\Neq 1\\)."
@@ -159,3 +159,47 @@ Tell us why!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-verdict-on-your-next-step-with-youtube-mncs/"><u>[New] The Verdict on Your Next Step with YouTube MNCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-add-fonts-to-after-effects/"><u>[Updated] How to Add Fonts to After Effects</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-playlist-sharing-on-youtube/"><u>2024 Approved  Mastering Playlist Sharing on YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-ultimate-manual-pinning-people-on-snapchat/"><u>2024 Approved  The Ultimate Manual  Pinning People on Snapchat</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-modifying-your-posts-on-instagram/"><u>A Step-by-Step Guide: Modifying Your Posts on Instagram</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/alexa-vs-google-assistant-comparing-the-top-voice-ai-assistants/"><u>Alexa Vs. Google Assistant: Comparing the Top Voice AI Assistants</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-about-blue-screen-errors-a-detailed-catalog-of-stop-code-meanings-for-troubleshooting/"><u>All About Blue Screen Errors: A Detailed Catalog of STOP Code Meanings for Troubleshooting</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-realme-gt-neo-5-se-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-googles-next-big-move-exclusive-preview-of-event-coverage/"><u>Anticipating Google's Next Big Move: Exclusive Preview of Event Coverage</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-six-most-effective-homework-help-apps-for-your-childs-success/"><u>Discover the Six Most Effective Homework Help Apps for Your Child's Success</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-these-free-alternatives-to-watch-shows-on-netflix/"><u>Discover These Free Alternatives to Watch Shows on Netflix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-tutorial-getting-rid-of-microsoft-copilot-in-windows-11-what-you-need-to-know/"><u>DIY Tutorial: Getting Rid of Microsoft Copilot in Windows 11 – What You Need to Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-to-follow-tutorial-implementing-the-latest-ios-update-on-your-iphoneipad/"><u>Easy-to-Follow Tutorial: Implementing The Latest iOS Update on Your iPhone/iPad</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhance-your-programming-skills-using-stellars-toolkit-invaluable-guides-and-hacks/"><u>Enhance Your Programming Skills Using Stellar's Toolkit: Invaluable Guides & Hacks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-stories-a-diy-approach-to-musicizing-your-instagram-clips/"><u>Enhance Your Stories: A DIY Approach to Musicizing Your Instagram Clips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-movie-nights-a-guide-to-hookup-the-internet-with-your-home-projector-system/"><u>Enhancing Movie Nights: A Guide to Hookup the Internet with Your Home Projector System</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-windows-11s-power-management-an-insight-into-the-battery-report-feature/"><u>Exploring Windows 11'S Power Management: An Insight Into the Battery Report Feature</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fresh-film-selections-what-to-stream-this-moment-tips-from-lifewire/"><u>Fresh Film Selections: What to Stream This Moment - Tips From Lifewire</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/godaddy-webmail-how-to-add-and-edit-your-email-signature-with-ease/"><u>GoDaddy WebMail: How to Add and Edit Your Email Signature with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/google-tv-streamer-news-and-expected-price-release-date-specs-and-more-rumors/"><u>Google TV Streamer: News and Expected Price, Release Date, Specs; and More Rumors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-are-e-bicycles-powered-exploring-electric-motorcycle-technology/"><u>How Are E-Bicycles Powered? Exploring Electric Motorcycle Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-clean-up-icloud-media-library-while-retaining-iphone-snaps/"><u>How to Clean Up iCloud Media Library While Retaining iPhone Snaps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-join-the-global-audience-for-the-remote-viewing-of-samsung-unpacked-2023/"><u>How to Join the Global Audience for the Remote Viewing of Samsung Unpacked 2023</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-tecno-camon-20-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Tecno Camon 20 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/identifying-ipad-variants-with-integrated-gps-technology/"><u>Identifying iPad Variants with Integrated GPS Technology</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-key-to-stellar-zoom-calls-smart-use-of-filters/"><u>In 2024, The Key to Stellar Zoom Calls  Smart Use of Filters</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-safe-to-use-an-iphone-13-underwater/"><u>Is It Safe to Use an iPhone 13 Underwater?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/our-6-favorite-offline-translator-apps/"><u>Our 6 Favorite Offline Translator Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-macbook-pro-input-lag-a-comprehve-guide-to-fixing-keyboards/"><u>Overcoming MacBook Pro Input Lag: A Comprehve Guide to Fixing Keyboards</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/safeguard-your-inbox-explore-the-best-5-encrypted-email-systems-available/"><u>Safeguard Your Inbox: Explore the Best 5 Encrypted Email Systems Available</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-integration-how-to-link-apple-airpods-to-your-macbook-air-system/"><u>Seamless Integration: How to Link Apple AirPods to Your MacBook Air System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/setting-accurate-time-on-a-kindle-paperwhite-a-simple-tutorial/"><u>Setting Accurate Time on a Kindle Paperwhite - A Simple Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/social-sleuthing-made-easy-6-strategies-to-locate-users-on-facebook/"><u>Social Sleuthing Made Easy: 6 Strategies to Locate Users on Facebook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-missing-rpcrt4dll-a-step-by-step-guide/"><u>Solving the Mystery of Missing rpcrt4.dll: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-linking-your-apple-homepod-with-your-television/"><u>Step-by-Step Guide: Linking Your Apple HomePod with Your Television</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-connecting-devices-for-lg-tv-screen-reflection/"><u>Step-by-Step Tutorial: Connecting Devices for LG TV Screen Reflection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-perfect-blemish-free-3d-printing-results/"><u>The Ultimate Guide to Perfect, Blemish-Free 3D Printing Results</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-spark-go-2023-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Tecno Spark Go (2023) Users</u></a></li>
+</ul></div>

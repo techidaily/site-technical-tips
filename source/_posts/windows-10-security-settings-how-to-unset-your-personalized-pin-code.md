@@ -1,0 +1,139 @@
+---
+title: "Windows 10 Security Settings: How to Unset Your Personalized PIN Code"
+date: 2024-08-18T20:58:03.013Z
+updated: 2024-08-19T20:58:03.013Z
+categories:
+  - BestProducts
+description: "This Article Describes Windows 10 Security Settings: How to Unset Your Personalized PIN Code"
+excerpt: "This Article Describes Windows 10 Security Settings: How to Unset Your Personalized PIN Code"
+thumbnail: https://thmb.techidaily.com/a516821dc0dcd8fb768903303922c214d1ad710be56ca1c3f04be97b27b5dc47.jpg
+---
+
+## Keyboard Troubles? Find Out How to Restore Typing Functionality in Minutes
+ This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
+
+[The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
+
+## 9 Ways to Fix the Problem
+
+ A number of issues could be causing the keyboard to stop typing. Here are some solutions we've seen work:  
+
+1. Make sure you have the correct text field selected. Click directly in the section where you want to type, then try typing again.  
+ This is an easy mistake to make. Watch where you've clicked to ensure the keystrokes are sent there. The app must be in focus or what you type won't show up in the right place.
+2. Close and reopen the app you're trying to type in. Temporary software glitches happen all the time, and restarting the program is the fastest way around them.
+3. Turn on the keyboard if it has an on/off switch. If it's on and is battery-powered, check the batteries or ensure it's at least somewhat charged.
+4. Check the keyboard's connection to your computer. We recommend doing the following, depending on the keyboard you have:  
+   * For a USB keyboard, unplug it and plug it back in.  
+   * For a wireless one, detach the USB dongle for a few seconds and then reattach it.  
+   * [Toggle Bluetooth off on your PC](https://www.lifewire.com/turn-on-bluetooth-in-windows-11-5216193) and then switch it back on, making sure your keyboard connects after a few seconds. You may need to [pair the keyboard again](https://www.lifewire.com/set-up-a-bluetooth-device-2640340) if it doesn't.  
+   * Plug the keyboard or dongle into a different USB port.  
+   * Try a different cable if it uses a detachable USB cable.  
+   * Try it on a different computer. If it doesn't work there, it's likely dead.  
+[5 Things to Consider When Buying a Computer Keyboard](https://www.lifewire.com/important-keyboard-features-2640341)
+5. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) . If your computer is responsive, use the mouse to restart it. If it's not responsive,[fix your frozen computer](https://www.lifewire.com/fix-frozen-computer-5217030) first.
+6. Clean the keyboard. Dirt stuck under the keys can keep them from working correctly. This could be why some keys work but others don't.  
+ If you find sticky residue under the keys, it may have failed due to spilled liquid. Cleaning may help, and you can sometimes even[save a laptop keyboard after a spill](https://www.lifewire.com/steps-to-laptop-spill-repair-2378134) , but it’s also possible it's been permanently damaged.
+7. [Open Device Manager](https://www.lifewire.com/how-to-open-device-manager-2626075) and enable the keyboard. This is relevant if you've taken that step to[disable your keyboard in Windows](https://www.lifewire.com/disable-laptop-keyboard-in-windows-11-5196395) . Some people do this for laptop keyboards, and you'll probably remember if you did that, but it doesn't hurt to check.
+8. [Update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) . A driver installation is almost always necessary if you have an advanced keyboard that hasn't been able to type right out of the box. However, even older keyboards that used to type just fine could use a driver update if the existing one was deleted or needs a bug fix.  
+ If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
+9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
+
+## Why the Keyboard Quit Working
+
+ Some of the reasons a keyboard might be unresponsive include:
+
+* **The computer is frozen** : If the computer or an app is locked up, you won’t be able to type.
+* **The keyboard is disconnected** : The keyboard may have been unplugged, ran out of batteries, or the wireless connection disrupted.
+* **The intended text field isn’t selected** : If the text field you’re trying to type in has been deselected, your keyboard will either not type or it will be typing somewhere off-screen (so it appears to not work).
+* **Software or driver problems** : Your keyboard driver or some other software issue may have caused it to quit working.
+
+[The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
+
+![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+Bryan Natanael / Unsplash
+
+ FAQ
+
+* What do I do if my laptop keyboard won't type?  
+ It's unlikely that your laptop's keyboard is suffering from a connection problem since it's built into the system, but it is possible that the[keyboard lock](https://www.lifewire.com/lock-your-keyboard-temporarily-5072812) may have accidentally been turned on. The steps to unlock a locked laptop keyboard can differ depending on the make and model, but look for a function key with a keyboard icon and press it to see if that solves the problem. If not, look up the process for unlocking your specific laptop model's keyboard and try that.
+* What should I do if my Chromebook keyboard stops typing?  
+ Restart your Chromebook and try typing again. The issue could also be caused by an error with your using account, so sign out and sign back in with[Guest Mode](https://www.lifewire.com/how-to-use-chromebook-guest-mode-4842588) to test the keyboard again. If the keyboard works in Guest Mode, delete the problem account and reconnect it.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-easy-routines-for-screen-recording-in-gaming/"><u>[New] 2024 Approved  Easy Routines for Screen Recording in Gaming</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-your-ultimate-guide-to-perfectly-recorded-lol-gaming/"><u>[New] 2024 Approved  Your Ultimate Guide to Perfectly Recorded LOL Gaming</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ultivating-a-brand-identity-youtube-visibility-without-spending/"><u>[New] Cultivating a Brand Identity  YouTube Visibility without Spending</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-iphone-time-lapse-101-minimizing-wait-times/"><u>[New] In 2024, IPhone Time Lapse 101  Minimizing Wait Times</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-restoring-sound-linkage-in-obs-broadcasts/"><u>[New] In 2024, Restoring Sound Linkage in OBS Broadcasts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-revolutionize-your-instagram-content-with-these-4-loopy-techniques/"><u>[New] In 2024, Revolutionize Your Instagram Content with These 4 Loopy Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-unparalleled-clarity-in-speech-interpretation-via-google-platform/"><u>[New] In 2024, Unparalleled Clarity in Speech Interpretation via Google Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-googles-next-smartwatch-price-forecasts-release-window-and-hints-at-features/"><u>All You Need to Know About Google's Next Smartwatch - Price Forecasts, Release Window, and Hints at Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-pinterest-strategy-with-these-5-scheduling-solutions/"><u>Boost Your Pinterest Strategy with These 5 Scheduling Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/campus-deals-unveiled-how-students-can-save-with-lenovo-discounts/"><u>Campus Deals Unveiled: How Students Can Save with Lenovo Discounts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-18-powerful-features-to-enhance-your-experience-with-apples-ios-shortcuts-app/"><u>Discover 18 Powerful Features to Enhance Your Experience with Apple's iOS Shortcuts App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-8-most-popular-free-roku-channels-for-2nd4/"><u>Discover the 8 Most Popular Free Roku Channels for 2nD4</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-12-voice-over-ip-voip-apps-of-2024-all-free/"><u>Discover the Leading 12 Voice Over IP (VoIP) Apps of 2024 – All Free</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-guide-connecting-portable-computers-to-bluetooth-speaker-systems/"><u>Easy Guide: Connecting Portable Computers to Bluetooth Speaker Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-social-media-habits-mastering-the-art-of-unfollowing-on-platform-x/"><u>Effective Social Media Habits: Mastering The Art of Unfollowing on Platform X</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-setting-up-and-managing-slack-alerts-successfully/"><u>Expert Tips for Setting Up and Managing Slack Alerts Successfully</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-switching-off-voice-navigation-assistance-in-samsung-tvs/"><u>Guide: Switching Off Voice Navigation Assistance in Samsung TVs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-11-pro-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 11 Pro Max Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>How to identify some outdated drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-the-phenomenon-of-online-memes/"><u>Inside the Phenomenon of Online Memes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/instagram-account-lockout-heres-what-you-can-do-to-regain-control/"><u>Instagram Account Lockout? Here's What You Can Do to Regain Control!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-13-is-it-built-for-aquatic-adventures-or-not/"><u>IPhone 13: Is It Built for Aquatic Adventures or Not?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/learn-how-to-connect-and-watch-fubotv-channels-via-amazons-fire-stick-platform/"><u>Learn How to Connect and Watch FuboTV Channels via Amazon's Fire Stick Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/make-their-screens-light-up-unique-console-and-accessory-selections-for-junior-gamerz/"><u>Make Their Screens Light Up: Unique Console & Accessory Selections for Junior Gamerz</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/managing-your-listening-experience-halting-continuous-playback-on-apple-music/"><u>Managing Your Listening Experience: Halting Continuous Playback on Apple Music</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-gps-deception-on-mobile-devices/"><u>Mastering the Art of GPS Deception on Mobile Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-smart-tv-purchases-7-tips-to-make-an-informed-decision/"><u>Navigating Smart TV Purchases: 7 Tips to Make an Informed Decision</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/nintendo-switch-screen-capturing-made-easy-how-and-where-to-share-them/"><u>Nintendo Switch Screen Capturing Made Easy – How & Where to Share Them</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-apple-watch-screen-issues-why-is-it-unresponsive-and-how-to-resolve-it/"><u>Overcoming Apple Watch Screen Issues: Why Is It Unresponsive and How to Resolve It?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-guide-how-to-fix-mouse-tracking-glitches-on-magic-mouse/"><u>Simple Guide: How To Fix Mouse Tracking Glitches on Magic Mouse</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-problem-of-missing-libxml2dll-files/"><u>Solving the Problem of Missing Libxml2.dll Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-configuring-and-mapping-drives-on-macos/"><u>Step-by-Step Guide: Configuring and Mapping Drives on macOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-for-paramountplus-not-working-properly-on-firestick/"><u>Step-by-Step Solution for Paramount+ Not Working Properly on Firestick</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-infinix-smart-8-frp-by-drfone-android/"><u>The Updated Method to Bypass Infinix Smart 8 FRP</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-essentials-preparing-to-purchase-a-refurbished-apple-tablet/"><u>Top 5 Essentials: Preparing to Purchase a Refurbished Apple Tablet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-6-best-standalone-translation-tools-you-can-use-anywhere/"><u>Top 6 Best Standalone Translation Tools You Can Use Anywhere</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-parental-control-solutions-for-a-safer-2024/"><u>Top 8 Parental Control Solutions for a Safer 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-twitch-streaming-tips-unraveling-the-mysteries-of-chat-for-beginners/"><u>Top Twitch Streaming Tips: Unraveling the Mysteries of Chat for Beginners</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-missing-s-sleay-32-dll-file-on-your-computer/"><u>Troubleshooting The Missing S Sleay 32 DLL File on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-bing-a-comprehensive-guide/"><u>Understanding Bing: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-secrets-of-the-telegram-application/"><u>Unveiling the Secrets of the Telegram Application</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

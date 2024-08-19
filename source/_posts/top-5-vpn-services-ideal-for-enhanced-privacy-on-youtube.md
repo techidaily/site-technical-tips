@@ -1,7 +1,7 @@
 ---
 title: Top 5 VPN Services Ideal for Enhanced Privacy on YouTube
-date: 2024-08-14 11:31:22
-updated: 2024-08-16 12:55:23
+date: 2024-08-18T19:43:16.319Z
+updated: 2024-08-19T19:43:16.319Z
 tags:
   - win11
   - win10
@@ -46,12 +46,18 @@ How to install Exodus on Kodi easily and quickly!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b45106d2ed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
  2) Click **Add-ons** , and tap the button next to **Unknown sources** , then click **Yes** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b4595de62a.jpg)
 
  3) Then you can install add-ons like Exodus in your Kodi to improve your experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Get a VPN to use Kodi
 
  It’s recommended to use a VPN when using Kodi and streaming videos.
@@ -69,8 +75,15 @@ How to install Exodus on Kodi easily and quickly!
 3. Connect to a server in a chosen location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd81b2168bf1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 All Set!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## **Method 1: Install Exodus redux on Kodi**
 
  Exodus redux is a new form for Exodus, and it’s working perfectly. Follow the steps below to install Exodus redux on your Kodi:
@@ -87,6 +100,9 @@ All Set!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b42c402e8d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
  4) Type the following **URL**  , or copy and paste the following URL in your Kodi, and click **OK** .
 
 <https://i-a-c.github.io/>
@@ -97,6 +113,10 @@ All Set!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-234-1024x765.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
  6) Go back to the Main menu on the Kodi, and click **Add-ons** , then click the **Package**  **icon**  on the upper left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a409911c271c.jpg)
@@ -109,10 +129,16 @@ All Set!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-236-1024x677.png)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  9) Click**repository.exodusredux-0.0.X.zip** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-237-1024x685.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  10) Wait for the notification on the upper right corner to show you the Add-on installed notification.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-238.png)
@@ -121,6 +147,9 @@ All Set!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/Snap11-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
  12) Click**Exodus Redux Repo** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/Snap10.jpg)
@@ -129,6 +158,9 @@ All Set!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/Snap9-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  14) Click**Exodus Redux** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/Snap8-1024x463.jpg)
@@ -139,6 +171,9 @@ All Set!
 
  Now you can open Exodus and enjoy watching movies by going to **Kodi homepage**  \> **Add-ons**  \>**Video add-ons** \> **Exodus** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Method 2: Install Exodus Redux on Kodi with the Kodi Bae repository**
 
  You can also install Exodus on Kodi with the Kodi Bae repository. Follow the steps:
@@ -171,6 +206,9 @@ All Set!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-155.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
  8) Click**Video add-ons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-156.png)
@@ -187,12 +225,21 @@ All Set!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-159.png)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
  Now you can go to**Kodi home page** \>**Add-ons** \>**Video add-ons** \>**Exodus** and enjoy it!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Further configurations after installing Exodus** Redux
 
  After installing Exodus Redux on your Kodi, you may want to know the further configurations of it, such as how to update Exodus Redux and how to uninstall Exodus Redux from Kodi.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### How to update Exodus Redux on Kodi
 
  Exodus Redux, as an add-on, needs to update every now and then, so you can get the updated fixes of issues and more latest sources. Check the below to know how to update Exodus Redux:
@@ -201,14 +248,23 @@ All Set!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a701afd0461d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Select**Exodus** **Redux** , and you will see a menu listed at the bottom.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/Snap15-1024x142.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  3) Click the**Update** button, and follow to install the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/Snap14-1024x142.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to uninstall Exodus Redux on Kodi
 
 If you want to uninstall Exodus Redux on Kodi, follow the instructions:
@@ -221,10 +277,16 @@ If you want to uninstall Exodus Redux on Kodi, follow the instructions:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a701bdc3152c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click the**Uninstall** button, and follow the instructions to uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/Snap15-1024x142.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Exodus not Working on Kodi?
 
  Exodus sometimes may run into problems, such as No streams available, etc. You can check this article for solutions to fix Exodus Kodi not working:[How to Fix Exodus Kodi not Working](https://tools.techidaily.com/drivereasy/download/) .
@@ -262,3 +324,43 @@ Related Articles:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-capturing-clarity-a-look-at-screensnapelite/"><u>[New] Capturing Clarity  A Look at 'ScreenSnapElite'</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-5-ios-apps-for-seamless-psp-gaming-experience-for-2024/"><u>[New] Top 5 iOS Apps For Seamless PSP Gaming Experience for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-transform-tiktok-videos-innovative-background-updates-for-2024/"><u>[New] Transform TikTok Videos  Innovative Background Updates for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-transformative-techniques-looping-videos-that-engage-instagram-users/"><u>[New] Transformative Techniques  Looping Videos That Engage Instagram Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-androids-guide-to-spinning-and-combining-video-files/"><u>2024 Approved  Android's Guide to Spinning & Combining Video Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-go-viral-or-not-at-all-mobile-live-streaming-without-millions-of-subscribers/"><u>2024 Approved  Go Viral or Not at All  Mobile Live-Streaming Without Millions of Subscribers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-battery-life-by-halting-background-activities-of-mobile-applications-on-android/"><u>Boost Battery Life by Halting Background Activities of Mobile Applications on Android</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-troubleshooting-fix-your-drive-with-the-windows-chkdsk-command/"><u>DIY Troubleshooting: Fix Your Drive with the Windows Chkdsk Command</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-methods-for-taking-screen-shots-on-hp-computers/"><u>Easy Methods for Taking Screen Shots on HP Computers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-techniques-for-ps3-gameplay-screencasts/"><u>Essential Techniques for PS3 Gameplay Screencasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722873680783-explore-8-fantastic-no-cost-music-apps-on-your-iphone-today/"><u>Explore 8 Fantastic No-Cost Music Apps on Your iPhone Today!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-ipados-version-18-launch-details-dates-costs-and-innovative-features/"><u>Free IPadOS Version 18 Launch Details: Dates, Costs & Innovative Features</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/frisian-and-frankish-origins-of-nederlands/"><u>Frisian and Frankish Origins of Nederlands</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/immerse-yourself-in-3d-movie-magic-the-best-ways-to-use-fandangos-online-services/"><u>Immerse Yourself in 3D Movie Magic – The Best Ways to Use Fandango's Online Services</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-itel-p55t-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Itel P55T Phone that is Locked?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-13-proplus-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 13 Pro+ 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-start-making-money-today-top-13-easy-methods-for-newbies/"><u>In 2024, Start Making Money Today! Top 13 Easy Methods for Newbies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-itel-p40pluss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Itel P40+s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-look-at-samsung-galaxy-ring-specs-release-timeline-and-more-insights/"><u>Inside Look at Samsung Galaxy Ring: Specs, Release Timeline, and More Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/marchs-ultimate-guide-to-scoring-great-apple-watch-discounts/"><u>March's Ultimate Guide to Scoring Great Apple Watch Discounts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-missing-python24dll-a-step-by-step-guide/"><u>Resolving 'Missing python24.dll': A Step-by-Step Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-c1900101-error-during-windows-11-setup/"><u>Resolving C1900101 Error During Windows 11 Setup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-windows-code-39-issue-a-step-by-step-guide/"><u>Resolving Windows Code 39 Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/securing-your-discord-sessions-for-future-viewing-for-2024/"><u>Securing Your Discord Sessions for Future Viewing for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-overcoming-the-netflix-error-ui-800-3/"><u>Step-by-Step Solution: Overcoming the Netflix Error (UI-800-3)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-connecting-apple-airpods-with-your-nintendo-switch/"><u>Step-by-Step Tutorial: Connecting Apple AirPods with Your Nintendo Switch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-9-fantastic-sites-for-free-preschool-learning-fun/"><u>Top 9 Fantastic Sites for Free Preschool Learning Fun</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforming-your-windows-11-taskbar-a-step-by-step-guide-to-personalizing-its-color/"><u>Transforming Your Windows 11 Taskbar: A Step-by-Step Guide to Personalizing Its Color</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-resolving-wii-disc-playback-errors/"><u>Troubleshooting Tips for Resolving Wii Disc Playback Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-selection-leading-ceiling-audio-units-for-the-year-2024/"><u>Ultimate Selection: Leading Ceiling Audio Units for the Year 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-repairing-the-halinitializationfailed-bug-how-to-deal-with-stop-code-0x0000005c-successfully/"><u>Understanding and Repairing the HAL_INITIALIZATION_FAILED Bug: How to Deal with Stop Code 0X0000005C Successfully</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-chatgpt-an-overview-of-its-functionality/"><u>Understanding ChatGPT: An Overview of Its Functionality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-past-a-detailed-walkthrough-of-apples-ios-history-version-10-180/"><u>Unveiling the Past: A Detailed Walkthrough of Apple’s iOS History, Version 1.0 - 18.0</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-launch-of-google-pixel-tablet-exciting-specs-and-announcement-details-revealed/"><u>Upcoming Launch of Google Pixel Tablet: Exciting Specs & Announcement Details Revealed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Will iSpoofer update On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+</ul></div>

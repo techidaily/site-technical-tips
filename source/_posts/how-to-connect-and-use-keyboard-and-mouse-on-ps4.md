@@ -1,7 +1,7 @@
 ---
 title: How to Connect and Use Keyboard and Mouse on PS4
-date: 2024-08-14 16:59:32
-updated: 2024-08-16 12:34:14
+date: 2024-08-18T19:39:09.475Z
+updated: 2024-08-19T19:39:09.475Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## Method 3: Check if your card reader is disabled
 
  If you’ve tried methods 1 and 2, and your PC still isn’t recognizing your SD card, it’s possible your card reader is turned off in your BIOS.
@@ -94,6 +101,9 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## Method 5: Disable then enable card reader (from other users)
 
  Thanks Alan Darlington for sharing this method, which has worked for many users. So if your SD card is still not showing up on your PC, try this method.
@@ -112,10 +122,16 @@ If you’re not sure how to do that, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-11-run-command-device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  3) Expand category “**Memory Technology Devices** “. Double-click the card reader (In Alan’s case, it’s RealteK PCIE CardaReader. In your case, it may be different.) to open
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37954379bfc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Go to**Driver** tab. Click**Disable Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3795ccae49c.png)
@@ -124,10 +140,16 @@ If you’re not sure how to do that, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3798a978d8d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
  6) Double-click the card reader to open the Properties windows. Click**Enable Device** to re-enable the device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3799136c9a1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ---
 
  We hope these tips help you fix your unrecognized SD card problem. Please comment below if you have any questions or suggestions. We’re always happy to hear of new solutions!
@@ -146,3 +168,39 @@ If you’re not sure how to do that, refer steps below:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-editing-to-sharing-youtube-mastery-with-adobe-premiere/"><u>[Updated] 2024 Approved  From Editing to Sharing  YouTube Mastery with Adobe Premiere</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-integrate-soundtracks-into-instagram-storytelling/"><u>[Updated] 2024 Approved  Integrate Soundtracks Into Instagram Storytelling</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-newcomers-roadmap-thriving-on-youtube-and-your-wallet/"><u>[Updated] 2024 Approved  The Newcomer's Roadmap  Thriving on YouTube and Your Wallet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-precision-polling-on-instagram-crafting-survey-content/"><u>2024 Approved  Precision Polling on Instagram  Crafting Survey Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cross-device-communication-mastery-leveraging-one-universal-mobile-number-for-all-electronics/"><u>Cross-Device Communication Mastery: Leveraging One Universal Mobile Number for All Electronics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-mystery-of-dvrs-what-are-they-really/"><u>Decoding the Mystery of DVRs: What Are They Really?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-these-10-cost-free-tv-shows-and-movies-online/"><u>Discover These 10 Cost-Free TV Shows & Movies Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-fixes-mastering-the-reset-on-samsungs-soundbar-devices/"><u>DIY Fixes: Mastering the Reset on Samsung's Soundbar Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-address-the-wlanapidll-file-disappearance-problem/"><u>Effective Strategies to Address the WLANAPI.DLL File Disappearance Problem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-techniques-for-crafting-backward-movies-in-snapchats-interface/"><u>Expert Advice: Techniques for Crafting Backward Movies in Snapchat's Interface</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/first-things-first-how-to-get-the-most-out-of-your-fresh-computer-purchase/"><u>First Things First: How to Get the Most Out of Your Fresh Computer Purchase</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-problems-with-directx-directinput-dlls-on-microsoft-systems/"><u>Fixing Problems with DirectX, DirectInput Dlls on Microsoft Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/follow-this-step-by-step-guide-to-experience-the-lord-of-the-rings-movies-in-sequence/"><u>Follow This Step-by-Step Guide to Experience 'The Lord of the Rings' Movies in Sequence</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-magic-6-lite-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Magic 6 Lite using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-turn-off-personalized-posts-and-recommendations-on-instagram/"><u>How to Turn Off Personalized Posts & Recommendations on Instagram</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-motorola-moto-g23-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-s24-ultra-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy S24 Ultra to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamless-sharing-strategies-insta-tik-tok-integration/"><u>In 2024, Seamless Sharing Strategies  Insta-Tik Tok Integration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mac-troubleshooting-101-how-to-access-the-system-recovery-menu-easily/"><u>Mac Troubleshooting 101: How to Access the System Recovery Menu Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-iphone-camera-settings-corrective-actions-for-autofocus-failures/"><u>Mastering iPhone Camera Settings: Corrective Actions for Autofocus Failures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-google-gemini-a-comprehensive-guide/"><u>Mastering the Art of Google Gemini: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/maximizing-gopros-charged-time-span/"><u>Maximizing GoPro's Charged Time Span</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/quickvision-w11-simple-desktop-capture-tool/"><u>QuickVision W11  Simple Desktop Capture Tool</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722884929666-samsung-galaxy-z-fold-6-revealed-find-out-when-how-much-and-what-to-expect-in-specs/"><u>Samsung Galaxy Z Fold 6 Revealed – Find Out When, How Much & What to Expect in Specs!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/smart-study-supplies-discover-the-9-key-technology-items-all-pupils-should-own/"><u>Smart Study Supplies: Discover the 9 Key Technology Items All Pupils Should Own</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/speed-essentials-discovering-the-necessary-processor-rates-for-your-pc/"><u>Speed Essentials: Discovering the Necessary Processor Rates for Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-savvy-tips-enabling-and-using-splitscreen-mode-effortlessly-on-your-macbook-air/"><u>Tech Savvy Tips: Enabling and Using Splitscreen Mode Effortlessly on Your MacBook Air</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/teslas-smartphone-tease-what-to-know-about-the-unveiling-date-price-point-and-hardware-specs/"><u>Tesla's Smartphone Tease - What to Know About the Unveiling Date, Price Point, and Hardware Specs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ins-and-outs-of-sms-receipts-ensuring-your-text-is-actually-read/"><u>The Ins and Outs of SMS Receipts: Ensuring Your Text Is Actually Read</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-d3dx933dll-file-not-found-error-in-windows-systems/"><u>Troubleshooting Tips for d3dx9_33.dll File Not Found Error in Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-how-to-repair-unresponsive-dvd-bd-and-cd-drives/"><u>Troubleshooting Tips: How to Repair Unresponsive DVD, BD & CD Drives</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/voice-control-made-easy-a-step-by-step-guide-to-leveraging-your-meta-quest-mic/"><u>Voice Control Made Easy: A Step-by-Step Guide to Leveraging Your Meta Quest Mic</u></a></li>
+</ul></div>
