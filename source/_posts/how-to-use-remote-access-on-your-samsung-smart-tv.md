@@ -1,0 +1,162 @@
+---
+title: How to Use Remote Access on Your Samsung Smart TV
+date: 2024-08-20T10:16:00.997Z
+updated: 2024-08-21T10:16:00.997Z
+categories:
+  - BestProducts
+description: This Article Describes How to Use Remote Access on Your Samsung Smart TV
+excerpt: This Article Describes How to Use Remote Access on Your Samsung Smart TV
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
+---
+
+## Seamless Smartphone Casting: Connect and Watch on Your Fire Stick Now
+### What to Know
+
+* On your Fire TV, hold the**Home** button to bring up a new menu and select**Mirroring** .
+* On your Android smartphone, select**Settings** \>**Connected devices** \>**Cast** \> your Fire TV’s name.
+* To cast to Fire TV from a Samsung phone, swipe down and select**Smart View** \> your Fire TV’s name.
+
+ This page will walk you through the setup process to get your Amazon Fire TV Stick ready for casting, the instructions for casting from an Android mobile, and some additional options for Samsung phone users.
+
+## Can Android Stream to Fire TV Sticks?
+
+ Android smartphones and tablets can stream or cast to Amazon’s Fire TV Stick devices. Before Fire Sticks can receive a wireless broadcast from your Android device, you need to set them up properly.
+
+ Here’s how to prepare a Fire TV Stick for Android casting.
+
+1. Turn your Amazon Fire TV Stick on as usual and then press the**Home** button on the remote until a menu appears.  
+![Amazon Fire TV Stick Home screen.](https://www.lifewire.com/thmb/5jHRQ5T_KkfuawTO2i9KJ1TC97s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_cast-to-firestick-from-android-5203940-471dbdb7861344b69af918a7d2b1361b.jpg)
+2. Highlight**Mirroring** .  
+![Fire TV Stick menu with Mirroring highlighted.](https://www.lifewire.com/thmb/qKvb3gx91cEcIS_1ZuQVtyIHV8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_cast-to-firestick-from-android-5203940-07ee8331644e40548b51b0d8db7d6639.jpg)
+3. Press**Enter** on the Fire Stick remote to activate the**Mirroring** option.  
+Enter is the large circle button on the remote.  
+![Fire Stick menu with Mirroring tile highlighted from the shortcut menu.](https://www.lifewire.com/thmb/HHKPByl6ZToAKKsraJQX_cC2-Cs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_cast-to-firestick-from-android-5203940-699056d65c4445a68aba96493d4c6f19.jpg)
+4. The screen should now change and your Fire Stick is now primed and ready to receive a wireless casting signal.  
+![Fire Stick Display Mirroring screen.](https://www.lifewire.com/thmb/UkfPkJTnj7o6Ibuc-AHVIGhFHNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_cast-to-firestick-from-android-5203940-2717553df30541fb871ee1fef9b28d68.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## How to Cast to Amazon Fire TV Stick From Android  
+
+ The process for casting to an Amazon Fire TV Stick from an Android smartphone or tablet varies depending on the device and[Android version](https://www.lifewire.com/android-versions-4173277) . Overall, the steps aren’t too different, though, and should like something like the following with maybe just a few visual changes here and there.
+5. Ensure that your Android smartphone or tablet is[connected to the same Wi-Fi network](https://www.lifewire.com/connecting-android-device-to-wifi-577618) as the Fire Stick.
+6. Open**Settings** and select**Connected devices** .  
+![Android home screen and Settings app with Connected devices highlighted.](https://www.lifewire.com/thmb/ES2KOfu0oXU9_Ki2t4Wm5jNy-aM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_cast-to-firestick-from-android-5203940-5b429840ed1a4f74baeeecc9087bf277.jpg)
+7. Select**Cast** . If your Fire TV Stick is visible on the list of devices, tap it to begin casting. If it's not, select the ellipsis icon in the top-right corner.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+![Android cast settings.](https://www.lifewire.com/thmb/_Hx3qqBZLyPwefeoz5hE17tXPpI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_cast-to-firestick-from-android-5203940-952a7999d83442378f321bf6c95bdf14.jpg)
+8. Check the box next to**Enable wireless display** . This will make additional devices such as the Amazon Fire TV Stick visible in the Cast list.  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If you ever have trouble finding your Fire Stick when casting, repeat this step to make it visible again.
+9. Select the name of your Fire TV Stick.  
+![Android wireless display cast settings.](https://www.lifewire.com/thmb/YABRvBSzh5daotOFpjkzKZqaZ1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_cast-to-firestick-from-android-5203940-467c4af4f85948bbbcacf596028705d2.jpg)
+10. Your Android mobile device should now have its screen mirrored on your Fire TV on your TV. To end the casting session, tap the Fire TV Stick's name from the Cast menu once again.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Fire TV and smart TV in the Android Cast settings.](https://www.lifewire.com/thmb/Rp1cb2dP4xTjlf6U0S9jQB6CBOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_cast-to-firestick-from-android-5203940-38efe25a67b64beab712699c9261c55b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+## Can You Cast to a Fire Stick From Samsung Phones?
+
+ The method for casting to a Fire Stick from a Samsung device is slightly different than the normal Android process as it uses[Samsung’s Smart View casting technology](https://www.lifewire.com/how-samsung-allshare-simplifies-media-streaming-1847358) .
+
+1. Make sure your Samsung device and your Fire TV Stick are on the same Wi-Fi network.
+2. Swipe down from the top of the screen to open the**Notifications** bar.
+3. Swipe left until you see the**Smart View** icon, and then tap it.
+4. Select your Fire TV Stick from the list of devices.  
+![Samsung Android cast options from Smart View.](https://www.lifewire.com/thmb/EHQGxcmXXyZ3MqSl-Sxz9IQi_4c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_cast-to-firestick-from-android-5203940-96ac9e50f9964506aba90c5212958d70.jpg)  
+ If you don't see your Fire TV Stick from the list of available displays, try using the above steps for regular Android devices. The Fire TV may be hidden.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
+5. Your Samsung device's screen should now be mirrored on your TV via your Amazon Fire TV Stick. To stop the mirroring, tap your Fire TV's name from the Smart View list again.
+
+[Do I Need a Streaming Device With a Smart TV?](https://www.lifewire.com/streaming-device-with-smart-tv-5209499)
+
+ FAQ
+
+* How do I cast to Fire Stick from an iPhone?  
+ One option is to use a screen-mirroring app like AirScreen to[AirPlay to a Fire Stick](https://www.lifewire.com/how-to-airplay-to-firestick-5202962) . Search for the AirScreen app from the Appstore and select**Get** \>**Open** . Next, download the AirScreen app on your iPhone and follow the instructions to choose your Fire Stick from the Control Center and mirror your iPhone.
+* How do I cast to a Fire Stick from my PC?  
+ First, activate mirroring on your Fire TV from**Settings** \>**Display & Audio** \>**Enable Display Mirroring** . On your Windows 10 PC, select the**Notifications** icon in the taskbar >**Expand** \>**Connect** \> and choose your Fire TV Stick from the list of available displays. On Windows 11, enter**Windows key + K** to open this menu.
+* How do I cast to Fire Stick from a Mac?  
+ To[cast to a Fire Stick](https://www.lifewire.com/cast-to-firestick-5190042) from a Mac, you need the help of a third-party mirroring app such as AirPlayMirror Receiver or AirScreen. Ensure both your Mac and Fire Stick are connected to the same Wi-Fi network and download your chosen mirroring app on both devices. On your Mac, click the AirPlay icon in the menu bar and choose your Fire Stick from the list of available devices.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-mac-video-frames-catalog-max-156-chars-for-2024/"><u>[New] Ultimate Mac Video Frames Catalog (Max 156 Chars) for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-cross-platform-connection-masterclass-instagramfacebook/"><u>2024 Approved  Cross-Platform Connection Masterclass  Instagram/Facebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-skype-groups-setting-up-windowsmac-conversations/"><u>2024 Approved  Skype Groups  Setting Up Windows/Mac Conversations</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-realme-c51-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme C51 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bridging-platforms-a-step-by-step-tutorial-for-android-app-usage-on-windows-10/"><u>Bridging Platforms: A Step-by-Step Tutorial for Android App Usage on Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-a18-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo A18 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-m14-4g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disable-mouse-scroll-speed-boosting-techniques-on-your-apple-computer/"><u>Disable Mouse Scroll Speed Boosting Techniques on Your Apple Computer</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/discover-the-power-of-proportions-in-youtube-content-creation-for-2024/"><u>Discover the Power of Proportions in YouTube Content Creation for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/enhance-virtual-engagement-streaming-with-finesse-using-zoom-and-youtube-live-for-2024/"><u>Enhance Virtual Engagement  Streaming with Finesse Using Zoom and YouTube Live for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-insight-on-the-third-generation-apple-tv-with-4k-support/"><u>Expert Insight on the Third-Generation Apple TV with 4K Support</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-to-resolve-lameencdll-trouble-when-using-audacity-mp3-encoder/"><u>Expert Tips to Resolve lame_enc.dll Trouble When Using Audacity MP3 Encoder</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-these-superior-free-email-options-the-top-10-picks/"><u>Explore These Superior Free Email Options: The Top 10 Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-the-error-when-d3dx9-library-file-cannot-be-located/"><u>Fix the Error: When D3DX9 Library File Cannot Be Located</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-kickstart-your-quality-home-entertainment-on-a-budget-with-essential-kit-recommendations/"><u>How to Kickstart Your Quality Home Entertainment on a Budget with Essential Kit Recommendations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-overcome-the-mss3ndll-not-found-hurdle-on-pc/"><u>How To Overcome The 'mss3n.dll Not Found' Hurdle on PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-capturing-and-polishing-videography-in-adobe-connect/"><u>In 2024, Capturing and Polishing Videography in Adobe Connect</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nubia-red-magic-8s-proplus-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nubia Red Magic 8S Pro+ Phones with/without a PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-latest-ios-update-process-download-install-and-optimize/"><u>Navigating the Latest iOS Update Process: Download, Install, and Optimize</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimize-your-pc-the-best-12-free-disk-defrag-programs-of-2024/"><u>Optimize Your PC: The Best 12 FREE Disk Defrag Programs of 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-missing-or-corrupt-msodll-expert-strategies-and-solutions/"><u>Overcoming 'Missing or Corrupt mso.dll': Expert Strategies and Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722901280554-pixel-phone-10-revealed-upcoming-features-cost-estimates-and-launch-window-uncovered/"><u>Pixel Phone 10 Revealed? Upcoming Features, Cost Estimates & Launch Window Uncovered!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-v29e-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo V29e and Browser | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-guide-correcting-the-d3dx933dll-missing-mistake-on-your-pc/"><u>Quick Guide: Correcting the d3dx9_33.dll Missing Mistake on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/share-your-gaming-highlights-screen-capture-techniques-for-the-nintendo-switch/"><u>Share Your Gaming Highlights: Screen Capture Techniques for the Nintendo Switch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solution-steps-for-handling-librera32dll-not-found-or-missing/"><u>Solution Steps for Handling 'Librera32.dll Not Found or Missing'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-a-computer-that-cant-close-windows-10/"><u>Solved: How to Fix a Computer That Can't Close Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-fix-for-realtek-universal-graphics-drivers-problems-solved/"><u>Step-by-Step Fix for Realtek Universal Graphics Drivers - Problems Solved!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-identifying-visitors-of-your-google-docs/"><u>Step-by-Step Guide: Identifying Visitors of Your Google Docs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamline-your-device-control-ingenious-ways-to-teach-your-universal-remote/"><u>Streamline Your Device Control: Ingenious Ways to Teach Your Universal Remote</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-for-assessing-monthly-data-usage-on-devices/"><u>The Complete Walkthrough for Assessing Monthly Data Usage on Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-premium-computing-equipment-and-accessories/"><u>Tom's Guide to Premium Computing Equipment and Accessories</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-essential-factors-to-assess-when-purchasing-your-next-fitness-band/"><u>Top 5 Essential Factors to Assess When Purchasing Your Next Fitness Band</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/two-way-safeguard-for-your-icloud-messaging-platform/"><u>Two-Way Safeguard for Your iCloud Messaging Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-6-fantastic-and-free-editors-to-replace-adobe-photoshop/"><u>Unveiling 6 Fantastic and Free Editors to Replace Adobe Photoshop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-apple-watch-series-eb-expected-release-timeline-features-cost-breakdown-and-fresh-announcements/"><u>Unveiling the Apple Watch Series Eb: Expected Release Timeline, Features, Cost Breakdown & Fresh Announcements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-latest-in-computing-a-guide-to-toms-hardware/"><u>Unveiling the Latest in Computing - A Guide to Tom's Hardware</u></a></li>
+</ul></div>
