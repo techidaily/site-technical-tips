@@ -1,0 +1,195 @@
+---
+title: "Mastering TikTok Exposure: The Ultimate 10-Point Plan for Virality"
+date: 2024-08-26T07:01:44.529Z
+updated: 2024-08-27T07:01:44.529Z
+categories:
+  - BestProducts
+description: "This Article Describes Mastering TikTok Exposure: The Ultimate 10-Point Plan for Virality"
+excerpt: "This Article Describes Mastering TikTok Exposure: The Ultimate 10-Point Plan for Virality"
+thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0db935514f90e93325010d261.jpg
+---
+
+## Discover the Ultimate List of Gmail's Fastest Typing Tricks
+ Managing and organizing your email can work just fine using drag and drop. But if you have a lot of email, learning Gmail's keyboard commands (along with some[Gmail tricks and tips](https://www.lifewire.com/best-gmail-tips-tricks-and-tutorials-1172146) ) can save you hours. Here are more than two dozen to pick from. Oh, don't be intimidated. Just pick one and try it out for a bit. Then come back to learn more.
+
+ Information in this article applies to the web version of Gmail. The instructions are the same regardless of which browser you use.
+
+## How to Enable Gmail Shortcuts
+
+ To use Gmail shortcuts, you must first enable them in the **Settings** menu.
+
+1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
+![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
+2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
+![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
+3. Scroll to the bottom of the page and select **Save Changes** .  
+![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+## How to Create, Send, and Forward Email
+
+ With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
+
+* **Create a new message (C)** : Press the**C** key to create a new message.
+* **Create a new message in a new tab (D)** : Press the**D** key to create a new message in a new browser tab.
+* **Send an email (Ctrl** +**Enter)** : Press**Ctrl** +**Enter** to send an open message.
+* **Forward a message (F)** : Press**F** to forward an open message.
+
+ On Macs, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## How to Reply to Email
+
+ By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
+
+* **Reply to a message (R)** : Press**R** to reply to an open message.
+* **Reply to all (A)** : Press**A** to reply to all recipients of a message.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Scroll Through Emails
+
+ These shortcuts are handy for navigating through your messages and long email threads:
+
+* **Scroll down an email list (J)** : Press the**J** key to scroll down.
+* **Scroll up an email list (K)** : Press the**K** key to scroll up.
+* **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
+
+## How to Select Multiple Emails
+
+ Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
+
+* **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+## How to Add Formatting to Email Text
+
+ Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
+
+* **Bold text (Ctrl** +**B)** : Highlight the text you wish to bold, and then press**Ctrl** +**B** .
+* **Italicize text (Ctrl** +**I)** : Highlight the text you wish to italicize, and then press**Ctrl** +**I** .
+* **Underline text (Ctrl** +**U)** : Highlight the text you wish to underline, and then press**Ctrl** +**U** .
+* **Undo last action (Ctrl** +**Z)** : Press**Ctrl** +**Z** to undo the previous action.
+
+ On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Add Elements to an Email
+
+ Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
+
+* **Insert a hyperlink (Ctrl** +**K)** : To insert a URL link, highlight the desired text and press**Ctrl** +**K** .
+* **Insert a numbered list (Ctrl** +**Shift** +**7)** : Insert the cursor where you want the numbered list to appear, then press**Ctrl** +**Shift** +**7** .
+* **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
+
+ On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+## Email Maintenance Shortcuts
+
+ Use these shortcuts to help manage your inbox:
+
+* **Find an email (/)** : Press**/** to place the cursor in the search bar.
+* **Archive an email (E)** : Open an email or select it by clicking the box beside the sender's name, then press**E** to archive it.
+* **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
+* **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
+* **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
+
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## "Go to" Shortcuts in Gmail
+
+ The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
+
+* **Go to Tasks (G, then K)** : Press the **G** key, then press **K** to open[Google Tasks](https://www.lifewire.com/google-tasks-4149414) .
+* **Go to Contacts (G, then C)** : Press the**G** key, then press**C** to open your contacts list.
+* **Go to Starred conversations (G, then S)** : Press the**G** key, then press**S** to see your[starred Gmail messages](https://www.lifewire.com/how-to-mark-messages-using-stars-in-gmail-1172088) .
+* **Go to Sent messages (G, then T)** : Press the**G** key, then press**T** to see sent messages.
+* **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
+* **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
+* **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+## How to View All Gmail Shortcuts
+
+ Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
+
+* **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
+
+![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/-deep-dive-into-youtube-app-features-on-smartphones-for-2024/"><u>[New] A Deep Dive Into YouTube App Features on Smartphones for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-boosting-zoom-outputs-with-top-three-conversion-tactics/"><u>[New] Boosting Zoom Outputs with Top Three Conversion Tactics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-female-gamers-faction-yts-10-stars/"><u>[Updated] In 2024, Female Gamers Faction  YT's #10 Stars</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-leading-live-streaming-services-a-detailed-comparison/"><u>2024 Approved  Leading Live Streaming Services  A Detailed Comparison</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-wirecast-techniques-for-captivating-facebook-viewers/"><u>2024 Approved  Wirecast Techniques for Captivating Facebook Viewers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-for-reading-vitalsource-library-ebooks-on-the-kindle-ereader-and-fire-tablet/"><u>Comprehensive Tutorial for Reading VitalSource Library EBooks on the Kindle eReader & Fire Tablet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/converting-and-transferring-epub-ebooks-to-enhance-your-reading-on-kindle-devices/"><u>Converting and Transferring ePub eBooks to Enhance Your Reading on Kindle Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-the-concept-of-generative-ai-key-features-and-impacts-on-technology/"><u>Demystifying the Concept of Generative AI: Key Features & Impacts on Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-mastering-email-communication/"><u>Effective Strategies for Mastering Email Communication</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-amazons-kindle-store-top-titles-and-tips-for-e-reader-enthusiasts/"><u>Exploring Amazon's Kindle Store: Top Titles & Tips for E-Reader Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-hidden-secrets-of-copyright-protection-through-drm/"><u>Exploring Hidden Secrets of Copyright Protection Through DRM</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-guide-on-converting-your-kindle-books-into-printable-pdfs/"><u>Free Guide on Converting Your Kindle Books Into Printable PDFs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-apowersoft-screen-record-unveiled-top-alternatives-reviewed/"><u>In 2024, Apowersoft Screen Record Unveiled - Top Alternatives Reviewed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-economical-enhancement-tweets-to-animated-gifs-guide/"><u>In 2024, Economical Enhancement  Tweets to Animated GIFs Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/individual-use-software-permit/"><u>Individual Use Software Permit</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-azw-technology-insights-into-its-functionality-and-impact-on-industries/"><u>Master Azw Technology: Insights Into Its Functionality & Impact on Industries</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-ebooks-a-guide-to-accessing-and-enjoying-amazons-kindle-library-on-your-blackberry-10-device/"><u>Mastering eBooks: A Guide to Accessing and Enjoying Amazon's Kindle Library on Your Blackberry 10 Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/noxplayer-continuously-freezing-on-windows-how-to-fix-and-prevent/"><u>NoxPlayer Continuously Freezing on Windows: How to Fix and Prevent</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-guide-top-5-methods-for-rapid-removal-of-audiobooks-from-your-library/"><u>Quick Guide: Top 5 Methods for Rapid Removal of Audiobooks From Your Library</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/removing-digital-rights-management-drm-from-epub-audiobooks-on-audible/"><u>Removing Digital Rights Management (DRM) From EPUB Audiobooks on Audible</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-best-loading-mechanisms-beyond-the-30-06-springfield/"><u>Top 5 Best Loading Mechanisms Beyond the .30-06 Springfield</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-6-audiobook-apps-and-players-for-pc-users/"><u>Top 6 Audiobook Apps & Players for PC Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-6-must-have-android-manga-applications/"><u>Top 6 Must-Have Android Manga Applications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-editing-and-reading-pdf-apps-for-mac-users/"><u>Top 7 Editing and Reading PDF Apps for Mac Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-epubor-applications-streamline-your-book-creation-process-with-advanced-software-tools/"><u>Top EPUBOR Applications: Streamline Your Book Creation Process with Advanced Software Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-ebook-readers-comprehensive-guide-and-comparisons/"><u>Top Rated eBook Readers: Comprehensive Guide and Comparisons</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforming-kindle-azw3-books-for-universal-access-tips-for-reading-on-any-device/"><u>Transforming Kindle AZW3 Books for Universal Access: Tips for Reading on Any Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-free-mp3-segmentation-and-combination-apps-top-picks/"><u>Ultimate Guide to Free MP3 Segmentation & Combination Apps - Top Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-repairing-and-editing-damaged-epub-books/"><u>Ultimate Guide: Repairing and Editing Damaged EPUB Books</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-step-by-step-ebook-mastery-a-comprehensive-calibre-tutorial/"><u>Ultimate Step-by-Step Ebook Mastery: A Comprehensive Calibre Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-your-ebooks-step-by-step-tutorial-on-removing-amazons-drm-for-universal-reading-access/"><u>Unlock Your eBooks: Step-by-Step Tutorial on Removing Amazon's DRM for Universal Reading Access</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-pdfs-effective-techniques-for-removing-drm-restrictions/"><u>Unlocking PDFs: Effective Techniques for Removing DRM Restrictions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/vanish-without-a-trace-tips-for-anonymous-instagram-live-for-2024/"><u>Vanish Without A Trace  Tips for Anonymous Instagram Live for 2024</u></a></li>
+</ul></div>

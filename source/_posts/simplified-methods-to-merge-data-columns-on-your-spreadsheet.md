@@ -1,0 +1,173 @@
+---
+title: Simplified Methods to Merge Data Columns on Your Spreadsheet
+date: 2024-08-26T07:05:53.575Z
+updated: 2024-08-27T07:05:53.575Z
+categories:
+  - BestProducts
+description: This Article Describes Simplified Methods to Merge Data Columns on Your Spreadsheet
+excerpt: This Article Describes Simplified Methods to Merge Data Columns on Your Spreadsheet
+thumbnail: https://www.lifewire.com/thmb/VpbzeB-Bk7zWyZLondiDdfVniDY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dean-pugh-C8NDn4xk9zs-unsplash-f0dd8299f92842af80b9013007ab8630.jpg
+---
+
+## Add a Splash of Personality to Your Mac: Learn to Change Folder Colors Today
+### What to Know
+
+* First,**copy** folder >**Preview app** \> go to**File** \>**New from Clipboard** \>**Markup tool** icon.
+* Then,**Adjust Color** icon > adjust with**tint slider** \> copy colored folder >_Folder_ Info box \> select folder >**paste** .
+* You can also use apps like Folder Color to automate the process.
+
+ This article explains how to use Mac's built-in Preview app to color-code your folders to any hue in the rainbow, or even replace the default folder icons with your own images. If that's too complicated, you can also accomplish the same task much faster with a premium app from the[App Store](https://www.lifewire.com/using-mac-app-store-4171845) .
+
+## Ways to Customize Folder Colors on Mac
+
+ Folders in[macOS](https://www.lifewire.com/what-is-macos-4691239) are all a pleasant shade of blue, which can lead to a sea of sameness on your desktop that eventually becomes difficult to navigate. If you have a few important ones you want to keep track of, you can change folder color on Mac without too much trouble.
+
+ Apple gives you a few different ways to change folder colors in macOS, and you can also use custom non-folder icons in place of the traditional folder icon. Here are the main ways to customize your folder icons:
+
+* **Use the built-in Preview app** : This method uses the Preview app to tweak the color of a folder icon.
+* **Copy a different image using the Preview app** : This method copies a photo or icon using the Preview app, so it can change the color of a folder icon, replace it with an image, or even replace it with a custom icon.
+* **Use a premium app like Folder Color** : This method requires a premium app like Folder Color, which you can buy from the App Store. It automates the process and makes it easier.
+
+## How to Change Folder Color on Mac Using Preview
+
+ Using the Preview app, you can customize the color of any folder. This is a multi-step process that's complicated enough that you will probably have to refer to this guide the first couple times you do it, but it isn't difficult.
+
+1. **Right-click** or**control-click** on the folder you want to customize.  
+![A screenshot of the macOS desktop.](https://www.lifewire.com/thmb/5aajzf5Id9EX9_Zuji1fQu77zIU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2020-06-25at6.02.02PM-0c7b8bc9a4144830a62b6e87c786aeba.png)
+2. Select**Get Info** from the context menu.  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![A screenshot of a folder context menu.](https://www.lifewire.com/thmb/GEn2Q5Tf1SHsQ9NN3z3au9B37ek=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-ChangeFolderColoronMac-annotated-3385fa419f404cbe941ce346ca4fff72.jpg)
+3. Click the**folder icon** in the upper left of the folder info window so that it is highlighted.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+![A screenshot of the folder info box on macOS.](https://www.lifewire.com/thmb/3dEqd1G-bbtDdiGsMpSUPtPn-sA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-ChangeFolderColoronMac-annotated-bf971c3eafea41448cee2071f8520c6e.jpg)
+4. Click**Edit** in the menu bar near the top left of the screen and select**Copy** from the drop down menu.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
+![A screenshot of copying an icon on macOS.](https://www.lifewire.com/thmb/4puIgoAvE_ObPrZ4A1_Ht2wNxyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ChangeFolderColoronMac-annotated-30f95819009f4d888881324def4972cb.jpg)
+5. Locate and open the**Preview** app.  
+![A screenshot of the Applications folder on macOS.](https://www.lifewire.com/thmb/QLXtd-veloVkY8ge5HI9PdIVlA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-ChangeFolderColoronMac-annotated-8465f773aeb74caa9b1dbc0525a419ef.jpg)
+6. With Preview open, click**File** in the menu bar.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![The File menu in the Preview app on macOS.](https://www.lifewire.com/thmb/qiZ22LU6m8SiaCUJcNrGLv6kQfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-ChangeFolderColoronMac-annotated-3092277a9357429fa325ccba6b0cb43f.jpg)
+7. Select**New from Clipboard** .  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
+![New from Clipboard menu item selected in the Preview app on macOS.](https://www.lifewire.com/thmb/jt8ez5osO5KQwiJ5sJdYieKWXTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A7-ChangeFolderColoronMac-annotated-9876657f8d3f41399b918e61bfb39023.jpg)
+8. Select the**Markup tool** (looks like the tip of a pencil).  
+![The Markup tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/l3BVxdPgJm5W8koZRv2XglMO_Os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A8-ChangeFolderColoronMac-annotated-0249c263cdfc438b89827e3df055280d.jpg)
+9. Select the**Adjust Color** icon, which looks like three sliders or a prism with light passing through it.  
+![The Adjust color tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/TMySW-VtU7UNm-ziPdu5TA9ECjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A9-ChangeFolderColoronMac-annotated-13601116017d42e89eb5c1ac3b9a7d59.jpg)
+10. In the Adjust Color window, adjust the**Tint** ,**Saturation** ,**Tempurature** , and**Sepia** sliders to get a color you want, and then close the window.  
+![A screenshot of Tint slider in Preview app on macOS.](https://www.lifewire.com/thmb/WmhDBeevux4zXDNtHs9-i4BqrBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A10-ChangeFolderColoronMac-annotated-1e5ee4342431465a953da0717e62b70f.jpg)  
+ Want more options? You can paste the folder icon into any image-editing software you have.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
+11. Select the colored folder, and press**Command+C** to copy it.  
+![A screenshot of copying from Preview on macOS.](https://www.lifewire.com/thmb/ldf1VkMQPfhuL1qS5bP9aKcyjos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-003a69e747f84b01a9b4ad148b9071cf.jpg)
+12. Return to the Folder Info box from earlier. If you have closed it, get it back by right-clicking the folder you are trying to customize.
+13. Click the folder in the Folder Info box, and press**Command+V** .  
+![A screenshot of a customized folder color on macOS.](https://www.lifewire.com/thmb/VI5EKewsKE1LGj0OEbsL44ijJnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A13-ChangeFolderColoronMac-annotation-5bd8b4aff78648508db5492dbe49a580.jpg)
+14. You can now close the Folder Info box, and your folder will have the new color. If you want, you can repeat this process to customize as many folders as you like.
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Customizing Folders With Images and Icons
+
+ You can[customize your folders with your own images and custom icons](https://www.lifewire.com/personalize-mac-by-changing-desktop-icons-2260911) using this same basic process.
+
+ Instead of pasting a copy of your original folder into Preview, you need to open a photo or icon with Preview, and copy it. You can then paste it into the Folder Info box just like you did in step 11 above.
+
+ These steps will replace the original folder icon with a custom photo or any other icon you like.
+
+## Changing Folder Colors on Mac With Apps
+
+ If the process outlined above seems too complicated or time consuming, you will find apps like[Folder Color](https://apps.apple.com/us/app/folder-color-design-custom-folder-icons/id918402174?mt=12) in the app store that are designed to automate the process.
+
+ Folder Color in particular allows you to change the color of a folder, add small icons and decorations to a folder, replace a folder with an image, or even quickly edit one of your images into the shape of a folder.
+
+[How to Change Folder Icons on a Mac](https://www.lifewire.com/change-folder-icons-on-a-mac-5199936)
+
+ FAQ
+
+* How do you delete folders on a Mac?  
+ Right-click the folder you want to delete and select**Move to Trash** . To permanently delete the folder from your trash, select the**Trash can** icon and choose**Empty** .
+* How do you make a new folder on a Mac?  
+ Click anywhere on your desktop screen. In the top menu, select**File** \>**New Folder** . The folder will appear on your desktop, allowing you to rename it and drag in files or images.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://technical-tips.techidaily.com/fixed-oculus-air-link-not-working-on-windows/"><u>[FIXED] Oculus Air Link Not Working on Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-augmenting-aerial-mastery-10-essential-drone-accessories/"><u>[New] Augmenting Aerial Mastery  10 Essential Drone Accessories</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-diverse-technology-scrutiny-easeus-edition-for-2024/"><u>[New] Diverse Technology Scrutiny  EaseUS Edition for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-effective-strategies-for-google-voice-call-saves/"><u>[Updated] 2024 Approved  Effective Strategies for Google Voice Call Saves</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweettube-downloader-streamline-youtube-and-twitvid-transfer/"><u>[Updated] TweetTube Downloader  Streamline YouTube & TwitVid Transfer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-strategies-to-repair-common-problems-in-windows-11-and-windows-10-systems/"><u>Comprehensive Strategies to Repair Common Problems in Windows 11 and Windows 10 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cyberpunk-2077-display-problems-solved-achieve-crisp-visual-quality-now/"><u>Cyberpunk 2077 Display Problems Solved - Achieve Crisp Visual Quality Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-controlling-excessive-cpu-use-by-windows-update-components-on-windows-11/"><u>Diagnosing and Controlling Excessive CPU Use by Windows Update Components on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dive-into-windows-10-creators-update-the-latest-advancements-in-insider-build-1503/"><u>Dive Into Windows 10 Creators Update: The Latest Advancements in Insider Build 1503</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dual-display-success-how-to-connect-and-configure-two-screens-on-windows-10/"><u>Dual Display Success: How to Connect & Configure Two Screens on Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-and-fast-how-to-update-your-drivers-on-windows-10/"><u>Effortless and Fast: How to Update Your Drivers on Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-system-management-mastering-gpeditmsc-for-windows-nt-security-and-configurations/"><u>Enhancing System Management: Mastering gpedit.msc for Windows nT Security and Configurations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-novice-to-pro-a-detailed-walkthrough-for-torrent-downloads/"><u>From Novice to Pro: A Detailed Walkthrough for Torrent Downloads</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808349928-how-to-pause-driver-upgrades-when-performing-windows-10-updates-effortlessly-resolve-the-issue/"><u>How to Pause Driver Upgrades When Performing Windows 10 Updates – Effortlessly Resolve the Issue</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-honor-play-7t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Honor Play 7T</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808300832-lost-gmail-password-recover-it-with-these-2022-verification-tips/"><u>Lost Gmail Password? Recover It with These 2022 Verification Tips!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-connecting-your-beatwave-headset-with-a-computer-tips-and-tricks-for-windows-users/"><u>Master the Art of Connecting Your BeatWave Headset with a Computer - Tips and Tricks for Windows Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-screenprints-a-comprehensive-how-to-for-lenovo-users/"><u>Mastering the Art of Screenprints: A Comprehensive How-To for Lenovo Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-wsus-essentials-in-depth-knowledge-on-managing-windows-server-updates/"><u>Navigating Through WSUS Essentials: In-Depth Knowledge on Managing Windows Server Updates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/phishing-email-how-to-spot-and-avoid-it-2024-tips/"><u>Phishing Email | How to Spot & Avoid It [2024 Tips]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-and-easy-steps-for-connecting-a-wireless-printer-at-homeoffice/"><u>Quick & Easy Steps for Connecting a Wireless Printer at Home/Office</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-printing-hp-officejet-pro-8740-driver-download-for-windows-11-10-and-8-users/"><u>Seamless Printing: HP OfficeJet Pro 8740 Driver Download for Windows 11, 10 & 8 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-connection-lost-issue-in-escape-from-tarkov-a-step-by-step-guide/"><u>Solving the Connection Lost Issue in Escape From Tarkov: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-problem-steps-to-fix-a-non-functional-keyboard/"><u>Solving the Problem: Steps to Fix a Non-Functional Keyboard</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-updating-realteks-pci-express-fe-series-chipset-drivers-on-windows-7/"><u>Step-by-Step Guide: Updating Realtek's PCI Express FE Series Chipset Drivers on Windows 7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-overcoming-fortnites-edit-slowdown-issues-with-reliable-fixes/"><u>Step-by-Step Tutorial: Overcoming Fortnite's Edit Slowdown Issues with Reliable Fixes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-no-cost-image-servers-always-preserve-your-pics-for-2024/"><u>Top 10 No-Cost Image Servers, Always Preserve Your Pics for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-methods-to-secure-your-pc-windows-edition/"><u>Top 5 Methods to Secure Your PC: Windows Edition</u></a></li>
+</ul></div>
