@@ -1,7 +1,7 @@
 ---
 title: "Unlock Your Creativity with Lensa: Master the Art of Digital Portraits"
-date: 2024-08-28 12:13:40
-updated: 2024-08-29 11:49:21
+date: 2024-08-30T13:35:23.954Z
+updated: 2024-08-31T13:35:23.954Z
 tags:
   - cutting-edge
 categories:
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227
 
 Related: [The Best AI Image Generators You Can Use Right Now](https://fox-info.techidaily.com/new-synthesize-stellar-titles-using-ai-insights/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Do Lensa AI Avatars Work?
 
  For most AI image generators---such as [DALL-E 2](https://facebook-video-footage.techidaily.com/unveiling-distinctions-a-look-at-youtube-and-dailymention-for-2024/), [Stable Diffusion](https://screen-mirroring-recording.techidaily.com/updated-2024-approved-quick-tips-making-high-quality-recordings-on-iphone/), and [Midjourney](https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/)\---the prompt is text-based. You simply describe what you want to see with a written prompt. Lensa uses images as the prompt.
@@ -39,6 +42,13 @@ Related: [The Best AI Image Generators You Can Use Right Now](https://fox-info.t
 
 Related: [How to Run Stable Diffusion Locally With a GUI on Windows](https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-spark-go-2023-phone-by-drfone-android/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ##  How to Create AI Selfies With Lensa
 
  Creating an AI "Magic Avatar" with Lensa is easy because you don't have to do most of the work. First, download the app for your [iPhone](https://apps.apple.com/us/app/lensa-ai-photo-video-editor/id1436732536) or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203396/https://play.google.com/store/apps/details?id=com.lensa.app&hl=en%5FUS&gl=US) phone. You'll be asked to sign up for a seven-day free trial. If you do this, you'll get half off the price of the Magic Avatars.
@@ -47,10 +57,17 @@ Related: [How to Run Stable Diffusion Locally With a GUI on Windows](https://sim
 
 ![Tap "Magic Avatars."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/2022-12-05_16-48-02.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
  Confirm that you're of age and tap "Continue."
 
 ![Tap "Continue."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/2022-12-05_16-48-38.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Next, you'll need to select 10-20 close-up selfies. You'll want to use clear photos of your face from a few different angles. Avoid photos with hats or sunglasses, group photos, and anything else that might be distracting. Select "Import" when you're done.
 
 ![Select selfies and tap "Continue."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/2022-12-05_16-51-40.jpg) 
@@ -67,10 +84,16 @@ Related: [How to Run Stable Diffusion Locally With a GUI on Windows](https://sim
 
 ![Lensa results.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/2022-12-05_16-56-46.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select an image to download or share with another app.
 
 ![Save the image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/2022-12-05_16-57-33.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  That's all there is to it. You can repeat this as many times as you like, if you don't mind paying up. The results are mostly good, but you'll see a few misses and some don't even show your face at all. [AI art is fun to play with](https://visual-screen-recording.techidaily.com/updated-myvidhub-testing-a-quest-for-more-features-for-2024/), and this makes it even more personal.
 
 Related: [What Happens if You Let a 4-Year-Old Use an AI Art Generator?](https://visual-screen-recording.techidaily.com/updated-myvidhub-testing-a-quest-for-more-features-for-2024/)
@@ -89,3 +112,44 @@ Related: [What Happens if You Let a 4-Year-Old Use an AI Art Generator?](https:/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-prime-picks-top-tweets-for-must-see-original-series/"><u>[New] 2024 Approved  Prime Picks  Top Tweets for Must-See Original Series</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-how-to-add-youtube-annotations-and-cards-in-2024/"><u>[New] How to Add YouTube Annotations and Cards, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bringing-videos-to-life-using-youtube-in-educational-environments/"><u>[Updated] 2024 Approved  Bringing Videos to Life  Using YouTube in Educational Environments</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-dynamic-videos-made-easy-with-best-stabilizers/"><u>[Updated] Dynamic Videos Made Easy with Best Stabilizers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-magnification-methods-for-ios-devices/"><u>[Updated] Ideal Magnification Methods for iOS Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-ownership-deciphering-in-instasongs-for-2024/"><u>[Updated] Ownership Deciphering in InstaSongs for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-mastering-your-digital-footprint-facebook-lives-made-easy/"><u>2024 Approved  Mastering Your Digital Footprint  Facebook Lives Made Easy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bring-your-favorite-android-apps-to-life-on-windows-11-a-how-to-guide/"><u>Bring Your Favorite Android Apps to Life on Windows 11: A How-To Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-our-handpicked-tv-hits-streaming-live-on-max/"><u>Discover Our Handpicked TV Hits Streaming Live on MAX</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/download-the-newly-released-mozilla-thunderbird-email-client-v52/"><u>Download the Newly Released: Mozilla Thunderbird Email Client V52</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ensure-site-responsiveness-the-ultimate-guide-to-website-pinging-techniques/"><u>Ensure Site Responsiveness: The Ultimate Guide to Website Pinging Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-guide-the-top-6-journaling-apps-you-cant-miss/"><u>Essential Guide: The Top 6 Journaling Apps You Can't Miss</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-managing-and-unpacking-rar-compressed-data-on-macos/"><u>Expert Advice: Managing and Unpacking RAR Compressed Data on macOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-best-free-pdf-software-our-picks-for-july-2024/"><u>Exploring the Best Free PDF Software - Our Picks for July 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-world-of-digital-color-grading-for-2024/"><u>Exploring the World of Digital Color Grading for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fresh-start-on-your-iphone-15-heres-how-to-perform-a-smooth-reboot/"><u>Fresh Start on Your iPhone 15? Here’s How to Perform a Smooth Reboot!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-halting-automatic-song-streaming-on-apple-music-platform/"><u>Guide to Halting Automatic Song Streaming on Apple Music Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-access-the-fandango-streaming-service-through-your-amazon-fire-stick/"><u>How to Access the Fandango Streaming Service Through Your Amazon Fire Stick</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-easily-create-a-projector-screen-at-home-a-comprehensive-guide/"><u>How to Easily Create a Projector Screen at Home - A Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-infinix-gt-10-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Infinix GT 10 Pro Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-ensure-your-hardware-is-synced-with-world-of-warcraft-driver-update-solutions/"><u>How to Ensure Your Hardware Is Synced with World of Warcraft - Driver Update Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-mozilla-thunderbird-not-starting/"><u>How to Fix Mozilla Thunderbird Not Starting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-prevent-red-dead-redemption-2-from-crashing-on-your-computer/"><u>How to Prevent Red Dead Redemption 2 From Crashing on Your Computer</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-tecno-pova-5-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Tecno Pova 5 Pro Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y55s-5g-2023-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-artistic-science-behind-youtube-live-imagery/"><u>In 2024, The Artistic Science Behind YouTube Live Imagery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/key-fact-3-mass-accuracy-necessary-precise-mass-measurement-is-crucial-to-correctly-assign-mz-values-to-specific-molecular-species-particularly-in-biomolecu54/"><u>Key Fact #3: Mass Accuracy Necessary - Precise Mass Measurement Is Crucial to Correctly Assign M/Z Values to Specific Molecular Species, Particularly in Biomolecule Studies.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/latest-macbook-models-the-most-recent-launches/"><u>Latest MacBook Models: The Most Recent Launches</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/multiple-friend-deletions-in-a-single-move-mastering-snapchats-user-interface/"><u>Multiple Friend Deletions in a Single Move: Mastering Snapchat's User Interface</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-internet-resources-to-uncover-an-individuals-phone-number-securely/"><u>Navigate Internet Resources to Uncover an Individual's Phone Number Securely</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/on-screen-keyboard-management-how-to-turn-it-onoff-in-windows-11/"><u>On-Screen Keyboard Management: How to Turn It On/Off in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/professional-and-private-video-conferencing-steps-to-hide-your-background-using-google-meets-tools/"><u>Professional and Private Video Conferencing: Steps to Hide Your Background Using Google Meet's Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-issues-with-the-wininetdll-file-steps-to-address-missing-and-not-found-errors/"><u>Resolving Issues with the Wininet.dll File: Steps to Address 'Missing' And 'Not Found' Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-unresponsive-airpods-a-comprehve-solutions-walkthrough/"><u>Reviving Unresponsive AirPods: A Comprehve Solutions Walkthrough</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-17-graphic-design-tools-for-stunning-visuals-and-creative-projects/"><u>Top 17 Graphic Design Tools for Stunning Visuals and Creative Projects</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-pdhdll-files-expert-strategies-for-a-smooth-fix/"><u>Troubleshooting Missing Pdh.dll Files: Expert Strategies for a Smooth Fix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/your-essential-directory-of-free-online-music-libraries-explore-these-15-channels/"><u>Your Essential Directory of Free Online Music Libraries: Explore These 15 Channels</u></a></li>
+</ul></div>

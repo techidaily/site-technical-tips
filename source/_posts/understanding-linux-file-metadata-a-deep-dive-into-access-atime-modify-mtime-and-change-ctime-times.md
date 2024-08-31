@@ -1,7 +1,7 @@
 ---
 title: "Understanding Linux File Metadata: A Deep Dive Into Access (Atime), Modify (Mtime), & Change (Ctime) Times"
-date: 2024-08-26 14:59:49
-updated: 2024-08-29 10:48:40
+date: 2024-08-30T13:33:55.389Z
+updated: 2024-08-31T13:33:55.389Z
 tags:
   - desktop
 categories:
@@ -34,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/d16299364ff8a12ac1730983e510ad0f5d0273900
 
  The standard [ext4 Linux file system](https://remote-screen-capture.techidaily.com/new-the-definitive-guide-to-android-mobas-10-winners-for-2024/) also allocates space for a file-creation timestamp in its internal file system structures, but this hasn't been implemented yet. Sometimes, this timestamp is populated, but you can't depend on the values in it.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Anatomy of a Timestamp
 
  Linux timestamps hold a number rather than a date and time. This number is the number of seconds since the [Unix epoch](https://en.wikipedia.org/wiki/Unix%5Ftime), which was midnight (00:00:00) on January 1, 1970, in [Coordinated Universal Time (UTC)](https://en.wikipedia.org/wiki/Coordinated%5FUniversal%5FTime). Leap seconds are ignored in Linux timestamps, so they aren't analogous to real time.
@@ -66,6 +69,9 @@ stat dp.c
 
 ![stat dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/2-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  The time zones are listed at the bottom of the display. As you can see, they have a very accurate, fractional seconds component. At the end of each timestamp, you also see a -0500 or -0400 .
 
  These are time zone offsets. The file system records the timestamps in UTC and converts them to the local time zone when displayed by stat. The computer we used to research this article is configured as if it were in the Eastern Standard Time (EST) zone of the U.S.
@@ -88,6 +94,9 @@ stat dp.c
 
 ![touch -a dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/3-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
  The access timestamp changed, as expected. However, the changed timestamp was updated as well; this is normal.
 
  To change the modified timestamp, you can use the -m (modified time) option:
@@ -98,6 +107,9 @@ stat dp.c
 
 ![touch -m dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/4-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
  This time, the modified and changed timestamps were updated.
 
  You can use the -d (date) option if you want to change both the access and modified timestamps simultaneously. You can also specify a time and date—you're not restricted to changing the timestamps to the present.
@@ -110,6 +122,9 @@ stat dp.c
 
 ![touch -d "2020-01-15 10:30:45" dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/5-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We've now set the access and modified timestamps to a date in the past. The changed timestamp was also updated to the current time of the computer.
 
  You can also use the -r (reference) option, as shown below, if you want to set the timestamps of one file to the timestamp values of another:
@@ -120,6 +135,9 @@ stat dp.c
 
 ![touch dp.c -r dice_words.sl3 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/6-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And then, we're pretty much back where we started, with a mixture of -0400 and -0500 timestamps.
 
  Let's do something that only affects the changed timestamp. We'll use the chmod command to give an executable file [execute permissions for all users](http://man7.org/linux/man-pages/man1/chmod.1.html):
@@ -132,6 +150,9 @@ stat dp
 
  The changed timestamp was the only one that updated. This is because the file itself wasn't changed—it was neither accessed nor modified. However, the metadata about the file was changed.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How the File System Updates Timestamps
 
  When a file system is mounted, there are options you can use to specify how that file system should operate or be treated. These are stored in the /etc/fstab file, which is read and processed at boot time. You can also set options to dictate the scheme they should use to update the access timestamp.
@@ -157,11 +178,17 @@ less /etc/fstab
 
         `# /etc/fstab: static file system information.  
 ## 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Use 'blkid' to print the universally unique identifier for a  
 ## device; this may be used with UUID= as a more robust way to name devices  
 ## that works even if disks are added and removed. See fstab(5).  
 ## 
 ## <file system> <mount point> <type> <options> <dump> <pass>  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## / was on /dev/sda1 during installation  
 UUID=4a143d08-8695-475b-8243-b13b56050fc2 / ext4 errors=remount-ro 0 1  
 /swapfile none swap sw 0 0`
@@ -178,6 +205,18 @@ cat /proc/mounts | grep "sda"
 
 ![cat /proc/mounts | grep "sda" in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/9-6.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now we see the following options:
 
 * **rw**: The file system will be mounted as a read and write file system.
@@ -219,3 +258,50 @@ cat /proc/mounts | grep "sda"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-dominance-plan-studio-protocol-vs-beta-update/"><u>[New] 2024 Approved  Channel Dominance Plan  Studio Protocol Vs. Beta Update</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-embrace-the-art-of-timelapses-a-comprehensive-ipad-tutorial/"><u>[New] 2024 Approved  Embrace the Art of Timelapses  A Comprehensive iPad Tutorial</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-audience-connection-through-instagram-stories-questions/"><u>[New] In 2024, Audience Connection Through Instagram Stories Questions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-behind-the-scenes-mastering-screen-recordings-in-games/"><u>[New] In 2024, Behind the Scenes  Mastering Screen Recordings in Games</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-steps-to-disable-auto-recommended-podcasts-in-spotify/"><u>[New] In 2024, Steps to Disable Auto-Recommended Podcasts in Spotify</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-enhancing-your-facebook-presence-with-effective-covers/"><u>[Updated] 2024 Approved  Enhancing Your Facebook Presence with Effective Covers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-achieving-high-definition-zoom-calls-with-filter-skills-for-2024/"><u>[Updated] Achieving High-Definition Zoom Calls with Filter Skills for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-channel-conclusion-mastery-customized-screens-in-focus/"><u>[Updated] Channel Conclusion Mastery  Customized Screens in Focus</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-professional-tips-for-youtube-and-twitch-streamers-using-obs-effectively/"><u>[Updated] Professional Tips for YouTube & Twitch Streamers  Using OBS Effectively</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/5-must-consider-features-that-will-guide-you-to-the-right-smartwatch/"><u>5 Must-Consider Features That Will Guide You to the Right Smartwatch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-tutorial-on-recovering-missed-communications-on-phones/"><u>A Comprehensive Tutorial on Recovering Missed Communications on Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/access-roku-content-from-your-browser-skip-roku-hardware/"><u>Access Roku Content From Your Browser, Skip Roku Hardware!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016503762-corsair-hs35-microphone-wont-work-with-windows-here-are-your-fixes/"><u>Corsair HS35 Microphone Won't Work with Windows? Here Are Your Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/determining-the-active-period-for-your-mailcom-email-address/"><u>Determining the Active Period for Your Mail.com Email Address</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-4-key-applications-for-following-twitter-hashtags-successfully/"><u>Discover the 4 Key Applications for Following Twitter Hashtags Successfully</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoying-roku-channels-even-if-you-dont-have-a-roku-player-tips-and-tricks/"><u>Enjoying Roku Channels Even If You Don't Have a Roku Player: Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-resolving-mac-application-startup-failures/"><u>Expert Tips for Resolving Mac Application Startup Failures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-top-free-video-conferencing-apps-of-2nndy-four-alternatives-to-skype/"><u>Explore Top Free Video Conferencing Apps of 2Nndy Four - Alternatives To Skype</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-problem-of-failed-window-11-closures-a-step-by-step-guide/"><u>Fixing the Problem of Failed Window 11 Closures - A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-movie-marathon-discover-the-world-of-entertainment-with-crackle/"><u>Free Movie Marathon: Discover the World of Entertainment with Crackle</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-access-and-use-snapchat-on-a-personal-computer-efficiently/"><u>How to Access and Use Snapchat on a Personal Computer Efficiently</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-determine-your-macbooks-operating-temperature-a-comprehensive-guide/"><u>How to Determine Your MacBook’s Operating Temperature: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-squad-mic-back-in-action-latest-solutions/"><u>How To Get Your Squad Mic Back In Action – Latest Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-merge-playlists-on-spotify/"><u>How to Merge Playlists on Spotify</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-play-7t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor Play 7T to iPhone | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-guide-to-cost-free-text-animations-onlineoff/"><u>In 2024, Guide to Cost-Free Text Animations (Online/Off)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/integrated-camera-use-photos-and-videos-on-one-phone/"><u>Integrated Camera Use  Photos and Videos on One Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-selfie-photography-a-six-step-process-for-picking-a-winning-stick/"><u>Mastering Selfie Photography: A Six-Step Process for Picking a Winning Stick</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-handling-502-bad-gateway-errors-tips-and-tricks-for-smoother-web-navigation/"><u>Mastering the Art of Handling 502 Bad Gateway Errors: Tips and Tricks for Smoother Web Navigation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-apples-bookstore-how-to-find-purchase-and-enjoy-ebooks-on-ios-devices/"><u>Navigating Apple's Bookstore: How to Find, Purchase, and Enjoy eBooks on iOS Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-tv-purchase-a-comprehensive-guide-to-enhancing-your-home-viewing-experience/"><u>Navigating TV Purchase: A Comprehensive Guide to Enhancing Your Home Viewing Experience</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-itel-p40-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Itel P40 Black and White | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-undetected-hardware-problems-enabling-windows-detection-for-tl-wn722n/"><u>Resolving Undetected Hardware Problems: Enabling Windows Detection for TL-WN722N</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-visuals-upgrading-photo-skills-on-apple-devices/"><u>Revolutionize Your Visuals: Upgrading Photo Skills on Apple Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sony-bdp-s6700-review/"><u>Sony BDP-S6700 Review</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-solitary-producers-guide-to-viral-audio-success/"><u>The Solitary Producer's Guide to Viral Audio Success</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-step-by-step-process-to-configure-almost-any-preference-in-gmail/"><u>The Step-by-Step Process to Configure Almost Any Preference in Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-tips-for-speeding-up-your-sluggish-internet/"><u>Top Tips for Speeding Up Your Sluggish Internet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-the-dark-display-issue-on-your-android-device/"><u>Troubleshooting Steps: Resolving the Dark Display Issue on Your Android Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-fun-learning-9-fabulous-places-to-find-free-games-for-tots/"><u>Unlock Fun Learning: 9 Fabulous Places to Find FREE Games for Tots</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlocking-full-graphics-power-solving-warzones-gpu-ignored-situation-on-windows-11-systems/"><u>Unlocking Full Graphics Power: Solving Warzone's GPU Ignored Situation on Windows 11 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-expert-reviews-on-sturdy-waterproof-phones-housings-for-this-year/"><u>Unlocking the Secrets: Expert Reviews on Sturdy Waterproof Phones Housings for This Year</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-11-nightmare-unraveled-proven-solutions-to-tackle-the-ominous-black-screen-fault/"><u>Windows 11 Nightmare Unraveled: Proven Solutions to Tackle the Ominous Black Screen Fault</u></a></li>
+</ul></div>

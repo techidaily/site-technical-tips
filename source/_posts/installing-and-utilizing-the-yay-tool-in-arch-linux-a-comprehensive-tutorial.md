@@ -1,7 +1,7 @@
 ---
 title: Installing and Utilizing the Yay Tool in Arch Linux – A Comprehensive Tutorial
-date: 2024-08-27 21:19:17
-updated: 2024-08-29 10:16:41
+date: 2024-08-30T13:33:28.688Z
+updated: 2024-08-31T13:33:28.688Z
 tags:
   - desktop
 categories:
@@ -37,6 +37,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  That’s all fine in theory, but here’s the conundrum. There’s a massive software repository of additional applications that you can select from, called the Arch User Repository, but pacman doesn’t know about it. It can neither search through it nor download anything from it.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The AUR and Why You Need It
 
  The AUR is one of the [largest and most comprehensive collections of Linux software](https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-xiaomi-redmi-k70-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/) available anywhere. It’s a community-driven resource, hosting over 85,000 software packages. Or at least, it hosts something called package build files, or PKGBUILDs.
@@ -47,6 +50,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The trouble is, Yay isn’t included in a standard Arch Linux installation, you need to install it. But pacman can’t do that for you, because Yay is in the AUR and pacman only works with the standard repositories. We can circumvent this [catch-22](https://en.wikipedia.org/wiki/Catch-22%5F%28logic%29) by installing Yay manually.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ##  Checking the Requirements
 
  Because we’re going to be compiling code, we need to have the standard set of development packages installed, and we’re also going to use [Git to retrieve the source code](https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-htc-u23-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/) files, so that has to be installed too.
@@ -58,6 +64,9 @@ git --version`
     
 ![Checking whether the development tools and Git are installed on Arch Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you get an error message instead of a version number, that package isn’t installed. If you need to, you can install the development files with this command:
 
         `sudo pacman -S base-devel`
@@ -70,6 +79,9 @@ git --version`
 
         `sudo pacman -S --needed base-devel git`
     
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ##  Building Yay on Arch Linux
 
  Now that we’re properly equipped to build Yay, we can start the process. The first step is to clone the Git source code repository to your computer. This creates a directory called “yay”, so cd into a directory where you’re happy for this to happen, such as your Downloads directory.
@@ -94,6 +106,9 @@ makepkg -si`
     
 ![Checking the version of yay](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Using Yay to Install and Uninstall Software
 
  Using Yay is similar to using any other command-line package manager. You can use it to install, uninstall, and search for applications.
@@ -132,10 +147,16 @@ makepkg -si`
 
 ![Installing the selected package using yay](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
  When you’re prompted with “Proceed with installation? \[Y/n\]”, you’ll notice the “Y” in the prompt is in uppercase. That means it is the default action, so you can just hit Enter to continue.
 
  After more scrolling screen output, the installation is completed, and you’re returned to the command prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Accessing the Arch User Repository With Yay
 
  For many people, the AUR is a large part of the attraction of using Arch Linux. With Yay installed, using this enormous collection of applications is as easy as using pacman.
@@ -154,3 +175,46 @@ makepkg -si`
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-do-reviewers-get-dollars-for-commentary-for-2024/"><u>[New] Do Reviewers Get Dollars for Commentary for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-skyline-spectacular-the-gopro-karma-edition/"><u>[New] Skyline Spectacular  The GoPro Karma Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-directing-your-podcast-to-itunes-stores/"><u>[Updated] Directing Your Podcast to iTunes Stores</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-behind-closed-doors-of-youtube-a-discovery-manual/"><u>[Updated] In 2024, Behind Closed Doors of YouTube  A Discovery Manual</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-screen-commanders-clash/"><u>[Updated] In 2024, Screen Commanders Clash</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-selecting-the-ultimate-gear-for-stellar-4k-production/"><u>[Updated] Selecting the Ultimate Gear for Stellar 4K Production</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/battlenet-outage-how-to-tell-if-its-a-global-issue-or-local-glitch/"><u>Battle.net Outage - How to Tell If It's a Global Issue or Local Glitch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beat-screen-burn-in-effective-fixes-for-lcd-and-oled-screens-alike/"><u>Beat Screen Burn In - Effective Fixes for LCD and OLED Screens Alike</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-telegram-the-secure-fast-paced-instant-messaging-app-explained/"><u>Decoding Telegram: The Secure, Fast-Paced Instant Messaging App Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/detailed-instructions-for-fixing-missing-d3dx926dll-in-your-system/"><u>Detailed Instructions for Fixing Missing d3dx9_26.dll in Your System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fix-for-your-samsung-setup-a-complete-tv-reset-guide/"><u>Easy Fix for Your Samsung Setup: A Complete TV Reset Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-common-tiktok-glitches-and-errors/"><u>Easy Fixes for Common TikTok Glitches and Errors</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/effizientes-sammeln-von-informationen-die-rolle-spezialisierter-ki-und-ihre-bedeutung-fur-den-datenerfassungsprozess-ein-blick-auf-das-abbyy-blog/"><u>Effizientes Sammeln Von Informationen: Die Rolle Spezialisierter KI Und Ihre Bedeutung Für Den Datenerfassungsprozess - Ein Blick Auf Das ABBYY-Blog</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-techniques-for-snapping-shots-of-your-computer-screen/"><u>Effortless Techniques for Snapping Shots of Your Computer Screen</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/essential-aspect-ratio-info-for-effective-twitter-videos-for-2024/"><u>Essential Aspect Ratio Info for Effective Twitter Videos for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-technology-must-haves-the-perfect-setup-for-academic-success/"><u>Essential Technology Must-Haves: The Perfect Setup for Academic Success</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ghostwire-tokyo-stability-improvement-no-more-pc-crashes/"><u>Ghostwire: Tokyo Stability Improvement - No More PC Crashes!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-fixing-the-msodll-file-absent-problem-on-your-computer/"><u>Guide to Fixing the mso.dll File Absent Problem on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-enjoy-fandango-movies-from-home-with-apple-tv/"><u>Guide: Enjoy Fandango Movies From Home with Apple TV</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-s23-ultra-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy S23 Ultra Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/image-perfection-an-editors-guide-for-2024/"><u>Image Perfection  An Editor's Guide for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-mp3-capture-skype-calls-no-cost-for-2024/"><u>Mastering MP3 Capture  Skype Calls, No Cost for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-features-how-do-internet-integrated-televisions-work/"><u>Navigating the Features: How Do Internet Integrated Televisions Work?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-chatgpts-moderation-issues-strategies-to-correct-the-error/"><u>Navigating Through ChatGPT’s Moderation Issues: Strategies to Correct the Error</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-colored-thermal-compound-with-nano-diamonds-meet-cooler-masters-latest-ai-thermal-paste-in-cryofuze-5/"><u>Revolutionary Colored Thermal Compound with Nano-Diamonds: Meet Cooler Master’s Latest ‘AI Thermal Paste’ in CryoFuze 5</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-privacy-with-an-iphone-turning-off-no-caller-id-features-easily/"><u>Securing Privacy with an iPhone: Turning Off 'No Caller ID' Features Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-sound-problems-unveiling-reasons-behind-non-functioning-car-speakers/"><u>Solving Sound Problems: Unveiling Reasons Behind Non-Functioning Car Speakers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-straight-line-distortions-on-samsung-televisions/"><u>Step-by-Step Guide: Resolving Straight Line Distortions on Samsung Televisions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-best-smart-glasses-of-2024/"><u>The Best Smart Glasses of 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-coming-of-sony-automobile-afela-what-we-can-infer-from-the-latest-rumors-on-price-features-and-launch-window/"><u>The Coming of Sony Automobile AFELA: What We Can Infer From the Latest Rumors on Price, Features & Launch Window</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-insiders-handbook-to-cloud-gaming-through-xbox-game-pass-ultimate/"><u>The Definitive Insider's Handbook to Cloud Gaming Through Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-q-and-s-class-tcl-unveils-brand-new-collection-with-19-cutting-edge-smart-tvs/"><u>The Q and S Class: TCL Unveils Brand-New Collection with 19 Cutting-Edge Smart TVs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-online-resources-for-efficient-apartment-hunting/"><u>Top 10 Online Resources for Efficient Apartment Hunting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-overhead-audio-systems/"><u>Top-Rated Overhead Audio Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-connection-issues-is-discord-experiencing-downtime-or-are-your-access-problems-personalized/"><u>Troubleshooting Connection Issues: Is Discord Experiencing Downtime or Are Your Access Problems Personalized?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/twitch-server-status-what-to-do-when-your-stream-cant-connect/"><u>Twitch Server Status: What to Do When Your Stream Can't Connect</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722878243485-ultimate-guide-to-buying-durable-and-watertight-phone-covers/"><u>Ultimate Guide to Buying Durable and Watertight Phone Covers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/web-whispers-unlocking-techniques-for-tracking-down-online-phone-numbers/"><u>Web Whispers: Unlocking Techniques for Tracking Down Online Phone Numbers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/which-ipad-models-have-built-in-gps/"><u>Which iPad Models Have Built-In GPS?</u></a></li>
+</ul></div>

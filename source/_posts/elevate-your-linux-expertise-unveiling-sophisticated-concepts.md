@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Linux Expertise: Unveiling Sophisticated Concepts"
-date: 2024-08-26 20:35:21
-updated: 2024-08-29 12:28:24
+date: 2024-08-30T13:33:24.951Z
+updated: 2024-08-31T13:33:24.951Z
 tags:
   - desktop
 categories:
@@ -39,12 +39,18 @@ Close
 
 echo $XDG_SESSION_TYPE
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3  Window Managers and Compositors 
 
  Have you ever moved an app window on Linux, only to find the borders of the window move while the inside remains empty and takes a few seconds to render? This happens when the window borders behave as expected, but the visuals inside the window take too long to render.
 
 ![Linux Window without Content](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linux-window-without-content.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You see, the window borders and the visuals inside the window can be controlled by two separate systems, especially in X11 systems. To control the placement and appearance of windows on your screen, you have [**window managers**](http://wiki.archlinux.org/title/window%5Fmanager). They allow you to move, resize, minimize, and maximize windows, as well as display window borders and title bars.
 
  On the other hand, we have **[compositors](http://dev.to/l04db4l4nc3r/compositors-in-linux-1hhb)**. They're responsible for rendering the content inside each window. A compistor combines the final rendered image from the application with graphical effects like transparency, shadows, and animations to create a single image that is displayed inside the windows.
@@ -57,6 +63,9 @@ echo $XDG_SESSION_TYPE
 * [**Mutter**](https://gitlab.gnome.org/GNOME/mutter) (initially designed for X11): The default window manager for GNOME.
 * [**KWin**](https://en.wikipedia.org/wiki/KWin) (initially designed for X11): The default window manager for KDE Plasma.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## 4  Custom Linux Kernels 
 
  We often refer to Linux as an operating system, but it's actually the [name of the kernel](https://blue-screen-error.techidaily.com/fixing-acpisys-issues-tips-and-tricks-for-windows-11-users/) powering the operating system. A kernel is basically the core of the operating system that bridges the hardware and the software. The official Linux kernel is maintained by Linux Torvalds and the Linux community. However, in true Linux spirit, people have modified the official kernel to include performance optimizations, improved hardware support, or additional features.
@@ -65,6 +74,9 @@ echo $XDG_SESSION_TYPE
 
 ![Showcasing different Custom Linux kernls available to download on Garuda Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/showcasing-different-custom-linux-kernls-available-to-download-on-garuda-linux.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
  Here are a few of the most popular custom Linux kernels:
 
 * **Zen Kernel:** Adds scheduler improvements and memory management optimizations to enhance performance for gaming and multimedia applications. Designed for general desktop use, it offers a stable and reliable experience.
@@ -90,6 +102,9 @@ ps -p 1
 
  Knowing which init system you are using is crucial if you want to start (or stop) a particular service during system boot-up. For example, I ran into an issue where [UFW (Uncomplicated Firewall)](https://extra-support.techidaily.com/new-mastering-video-playback-rate-adjustments-in-snapchat/) would automatically get deactivated after rebooting. To solve this, I needed to use the init system to auto-start UFW during system boot. Since I was using SystemD I used the [**systemctl** command](https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-v29e-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/). But if I was using SysV, I would've needed the **service** command.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6  Filesystem Types 
 
  As you become more familiar with Linux, you'll find that it [supports a wide variety of filesystems](https://on-screen-recording.techidaily.com/new-in-2024-streamline-your-filming-process-the-ultimate-logitech-camera-tutorials/), unlike Windows, which primarily uses NTFS for its main filesystem and FAT or exFAT for external storage. Most Linux systems use ext4 by default, but there are other popular options.
@@ -105,6 +120,9 @@ ps -p 1
 
 ![Checking Different filesystem types used on Garuda Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/checking-different-filesystem-types-used-on-garuda-linux.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you want to [change filesystems](http://fedoramagazine.org/transform-file-systems-in-linux/) on an existing Linux system, you'll need to back up your data and then format the partition(s) to your desired filesystem type.
 
 ## 7  SELinux and AppArmor 
@@ -135,3 +153,45 @@ ps -p 1
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-best-practices-for-uploading-windows-media-content-to-vimeo/"><u>[New] 2024 Approved  Best Practices for Uploading Windows Media Content to Vimeo</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-webcam-recording-guide-for-hp-and-chromebook-users/"><u>[New] In 2024, Webcam Recording Guide for HP & Chromebook Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-guide-for-embedding-links-in-tiktok-bios/"><u>[Updated] The Essential Guide for Embedding Links in TikTok Bios</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-blending-iphone-videos-a-simple-guide/"><u>2024 Approved  Blending iPhone Videos  A Simple Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/5-must-consider-features-that-will-guide-you-to-the-right-smartwatch/"><u>5 Must-Consider Features That Will Guide You to the Right Smartwatch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-tutorial-on-recovering-missed-communications-on-phones/"><u>A Comprehensive Tutorial on Recovering Missed Communications on Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/access-roku-content-from-your-browser-skip-roku-hardware/"><u>Access Roku Content From Your Browser, Skip Roku Hardware!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginners-tutorial-on-setting-up-a-profile-on-x-formerly-known-as-twitter/"><u>Beginner's Tutorial on Setting Up a Profile on X, Formerly Known as Twitter</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-fun-car-games-for-kids/"><u>Best Fun Car Games for Kids</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-surround-sound-experience-seamlessly-binding-multiple-bluetooth-speakers-with-a-single-input-unit/"><u>Boost Your Surround Sound Experience: Seamlessly Binding Multiple Bluetooth Speakers with a Single Input Unit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-elegance-ideal-websites-for-photo-framing-for-2024/"><u>Capturing Elegance  Ideal Websites for Photo Framing for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/chromebook-not-responding-try-these-8-troubleshooting-tips/"><u>Chromebook Not Responding? Try These 8 Troubleshooting Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-strategies-addressing-vpn-connection-issue-error-800-on-client-machines-and-servers/"><u>Comprehensive Strategies: Addressing VPN Connection Issue - Error 800 on Client Machines and Servers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-4-key-applications-for-following-twitter-hashtags-successfully/"><u>Discover the 4 Key Applications for Following Twitter Hashtags Successfully</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/embark-on-a-reality-shifting-journey-creating-an-account-for-your-oculus-quest-or-quest-2-headset/"><u>Embark on a Reality-Shifting Journey - Creating an Account for Your Oculus Quest or Quest 2 Headset</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-top-free-video-conferencing-apps-of-2nndy-four-alternatives-to-skype/"><u>Explore Top Free Video Conferencing Apps of 2Nndy Four - Alternatives To Skype</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-guide-dealing-with-the-missing-dbghelpdll-component/"><u>Fix Guide: Dealing with the Missing dbghelp.dll Component</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-problem-of-failed-window-11-closures-a-step-by-step-guide/"><u>Fixing the Problem of Failed Window 11 Closures - A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-movie-marathon-discover-the-world-of-entertainment-with-crackle/"><u>Free Movie Marathon: Discover the World of Entertainment with Crackle</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-12-proplus-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 12 Pro+ 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-mix-fold-3-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Mix Fold 3 To Phone | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-perfect-images-the-no-money-way/"><u>In 2024, Guide to Perfect Images  The No-Money Way</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-12-pro-max-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 12 Pro Max Making It Possible</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/insider-secrets-to-record-sims-gaming-for-2024/"><u>Insider Secrets to Record Sims Gaming for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pixel-buds-pro-2-unveiled-anticipated-features-launch-timeline-and-cost-estimates/"><u>Pixel Buds Pro 2 Unveiled? Anticipated Features, Launch Timeline & Cost Estimates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quest-3-meta-headset-latest-info-on-launch-dates-pricing-features-and-specifications/"><u>Quest 3 Meta Headset: Latest Info on Launch Dates, Pricing, Features & Specifications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-visuals-upgrading-photo-skills-on-apple-devices/"><u>Revolutionize Your Visuals: Upgrading Photo Skills on Apple Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/save-big-premier-tech-discounts-for-amazon-prime-day-shoppers/"><u>Save Big: Premier Tech Discounts for Amazon Prime Day Shoppers</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-disappearing-volume-icon-issue-on-windows-11-an-illustrated-guide/"><u>Solving the Disappearing Volume Icon Issue on Windows 11 – An Illustrated Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamline-your-getaways-using-these-8-exceptional-mobile-planning-tools-for-nomads/"><u>Streamline Your Getaways Using These 8 Exceptional Mobile Planning Tools for Nomads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamlining-movement-in-minecraft-expert-advice-on-using-the-teleport-command/"><u>Streamlining Movement in Minecraft: Expert Advice on Using the Teleport Command</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-pulse-finder-your-free-online-music-buddy/"><u>The Pulse Finder – Your Free, Online Music Buddy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-step-by-step-process-to-configure-almost-any-preference-in-gmail/"><u>The Step-by-Step Process to Configure Almost Any Preference in Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-tips-for-speeding-up-your-sluggish-internet/"><u>Top Tips for Speeding Up Your Sluggish Internet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-the-dark-display-issue-on-your-android-device/"><u>Troubleshooting Steps: Resolving the Dark Display Issue on Your Android Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-fun-learning-9-fabulous-places-to-find-free-games-for-tots/"><u>Unlock Fun Learning: 9 Fabulous Places to Find FREE Games for Tots</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlock-new-dimensions-of-sound-best-free-valorant-audio-alterer-revealed/"><u>Unlock New Dimensions of Sound  Best Free Valorant Audio Alterer Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-causes-facebook-marketplace-to-not-appear-for-users/"><u>What Causes Facebook Marketplace to Not Appear for Users?</u></a></li>
+</ul></div>

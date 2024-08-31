@@ -1,7 +1,7 @@
 ---
 title: "Effective Strategies for Controlling Your Windows 10 Printer: A Comprehensive Guide"
-date: 2024-08-28 19:37:39
-updated: 2024-08-29 12:51:24
+date: 2024-08-30T13:33:22.510Z
+updated: 2024-08-31T13:33:22.510Z
 tags:
   - desktop
 categories:
@@ -51,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![img_5b760dc514f59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760dc514f59.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
  To change how the printer prints, click the "Printing Preferences" option in the Settings window or context menu. You'll see a variety of options for controlling your prints here, and the settings you see will depend on the ones your printer supports.
 
  For example, if you have a color printer, you'll see options for choosing between color and black and white. You might also see options for choosing the tray from which the printer grabs the paper, selecting the orientation of the document (portrait or landscape), and changing print quality settings. Don't miss the "Advanced" button, which offers many additional settings.
@@ -61,20 +64,35 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![img_5b760ef96454b](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760ef96454b.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Change Printer Device Settings
 
  To configure your printer device, click "Printer Properties" instead of "Printing Preferences" from the context menu after right-clicking a printer.
 
 ![img_5b760dc514f59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760dc514f59.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
  The General tab of the properties window provides information about the printer's features and what drivers it's using. You can change the printer's name or add location details and comments. For example, you might want to enter a location like "Main Office" or "Second Floor Copy Room" so people can see exactly where a shared network printer is. The "Print Test Page" button here lets you quickly print a test page.
 
 ![img_5b760f54e0215](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760f54e0215.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the "Advanced" pane, you'll even see an option that lets you choose when the printer is available. For example, if you only want to use your printer during business hours, you could select 9 am to 5 pm here. People wouldn't be able to print to the printer outside of your selected hours, which is especially useful if you've configured it as a network printer and don't want people printing to it during off hours.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## ![](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760f9652249.png)How to Print a Test Page
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
  You can quickly check whether your printer is working and configured properly by printing a test page. Locate the printer in Settings > Devices > Printers & Scanners, click it, click the "Manage" button, and click the "Print a test page" link.
 
 ![img_5b76126767084](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76126767084.png) 
@@ -83,6 +101,9 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![img_5b761244d9161](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761244d9161.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Set Your Default Printer
 
  By default, Windows 10 automatically manages which printer is the default. It sets your default printer as the last printer you last printed to—in other words, whenever you select a printer and print to it, Windows 10 makes that your default printer.
@@ -109,6 +130,9 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![img_5b76179d0fa59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76179d0fa59.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Each pending print job appears in the queue. If no documents are printing, the list will be empty. You can right-click a job to cancel, pause, or restart it. Sometimes print jobs can get "stuck," and you may need to [delete them and try again](https://facebook-record-videos.techidaily.com/new-in-2024-cooking-crusaders-youtube-stars-serving-up-deliciousness/).
 
 ![img_5b761558b26c8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761558b26c8.png) 
@@ -117,6 +141,9 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![img_5b761543dc6fd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761543dc6fd.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ##  How to Create Multiple Printer Profiles
 
  Normally, you must go into your printer's preferences or properties to change various settings. However, this can be inconvenient when you have multiple groups of settings you want to toggle between. For example, perhaps you have a color printer on which you sometimes print high-quality color photos and sometimes print lower detail black and white documents.
@@ -125,6 +152,12 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![img_5b76026c81a21](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76026c81a21.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ##  How to Set Up a Shared Printer
 
  Windows 10's April 2018 Update [removed the HomeGroup feature](https://support.microsoft.com/en-us/windows/homegroup-removed-from-windows-10-version-1803-07ca5db1-7bca-4d11-68a3-a31ff4a09979), which was introduced in Windows 7 for sharing files and printers on a local network. However, it's still possible to share printers on your local network.
@@ -147,10 +180,16 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![img_5b7616f600c24](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7616f600c24.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
  The printer troubleshooter checks for a variety of issues that could cause printing problems on your PC and tried to fix any it finds.
 
 ![img_5b7617390a489](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7617390a489.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If the printer has a built-in display, check the display to see if it's reporting an error message. If you're not sure what the error messages mean, try plugging them into a web search engine or looking them up in your printer's manual.
 
  You might also need to run various diagnostic functions on the printer itself. Check your printer's manual for more information on its diagnostic features.
@@ -169,3 +208,58 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-30-camcorders-directly-at-your-eyes/"><u>[New] In 2024, Top 30 Camcorders  Directly At Your Eyes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incor-writes-photo-kinetic-vibrance/"><u>[New] Incor Writes Photo Kinetic Vibrance</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-dacast-review-and-alternatives/"><u>[Updated] DaCast Review and Alternatives</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-from-social-networks-to-personal-messages-twitchs-journey-through-whatsapp/"><u>[Updated] In 2024, From Social Networks to Personal Messages  Twitch's Journey Through WhatsApp</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-record-holders-the-epitome-of-reddit-engagement-10-threads/"><u>2024 Approved  Record Holders  The Epitome of Reddit Engagement (10 Threads)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/addressing-the-problem-non-functional-apple-watch-display-reasons-and-solutions/"><u>Addressing the Problem: Non-Functional Apple Watch Display - Reasons & Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-about-the-portable-ps-release-calendar-cost-analysis-hardware-details-and-best-stores-to-grab-it/"><u>All About the Portable PS: Release Calendar, Cost Analysis, Hardware Details & Best Stores to Grab It!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bring-your-favorite-android-apps-to-life-on-windows-11-a-how-to-guide/"><u>Bring Your Favorite Android Apps to Life on Windows 11: A How-To Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-our-handpicked-tv-hits-streaming-live-on-max/"><u>Discover Our Handpicked TV Hits Streaming Live on MAX</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/download-the-newly-released-mozilla-thunderbird-email-client-v52/"><u>Download the Newly Released: Mozilla Thunderbird Email Client V52</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-methods-to-add-more-fun-purchasing-content-for-metas-oculus-quest/"><u>Easy Methods to Add More Fun: Purchasing Content for Meta's Oculus Quest</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ensure-site-responsiveness-the-ultimate-guide-to-website-pinging-techniques/"><u>Ensure Site Responsiveness: The Ultimate Guide to Website Pinging Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-guide-the-top-6-journaling-apps-you-cant-miss/"><u>Essential Guide: The Top 6 Journaling Apps You Can't Miss</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-technology-gadgets-for-students-top-9-picks/"><u>Essential Technology Gadgets for Students: Top 9 Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-computer-components-from-toms-hardware-team/"><u>Expert Advice on Computer Components From Tom's Hardware Team</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-hacks-navigating-apples-ios-shortcuts-with-ease-top-18-guides/"><u>Expert Hacks: Navigating Apple's iOS Shortcuts with Ease - Top 18 Guides</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-opinions-on-line-mobile-messaging-platform/"><u>Expert Opinions on Line Mobile Messaging Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-techniques-to-clean-up-and-delete-apps-from-your-samsung-smart-tv-setup/"><u>Expert Techniques to Clean Up and Delete Apps From Your Samsung Smart TV Setup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-best-free-pdf-software-our-picks-for-july-2024/"><u>Exploring the Best Free PDF Software - Our Picks for July 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-soundbar-problems-diagnosing-and-repairing-the-corsair-hs70-microphone-malfunction/"><u>Fix Your Soundbar Problems: Diagnosing and Repairing the Corsair HS70 Microphone Malfunction</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fresh-start-on-your-iphone-15-heres-how-to-perform-a-smooth-reboot/"><u>Fresh Start on Your iPhone 15? Here’s How to Perform a Smooth Reboot!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-halting-automatic-song-streaming-on-apple-music-platform/"><u>Guide to Halting Automatic Song Streaming on Apple Music Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-access-the-fandango-streaming-service-through-your-amazon-fire-stick/"><u>How to Access the Fandango Streaming Service Through Your Amazon Fire Stick</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-sony-xperia-1-v-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Sony Xperia 1 V FRP In 3 Different Ways</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-easily-create-a-projector-screen-at-home-a-comprehensive-guide/"><u>How to Easily Create a Projector Screen at Home - A Comprehensive Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-a78-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo A78 5G Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-horizontal-lines-on-a-computer-screen/"><u>How to Fix Horizontal Lines on a Computer Screen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-prevent-red-dead-redemption-2-from-crashing-on-your-computer/"><u>How to Prevent Red Dead Redemption 2 From Crashing on Your Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-civi-3-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Civi 3 Pattern Lock Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-design-and-graphics-free-and-affordable-sources/"><u>In 2024, Innovative Design and Graphics  Free & Affordable Sources</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-insiders-method-becoming-a-pro-at-fb-live-streaming/"><u>In 2024, The Insider's Method  Becoming a Pro at FB Live Streaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-images-with-text-a-windowsmacos-expertise-guide/"><u>In 2024, Transform Your Images with Text  A Windows/MacOS Expertise Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/key-fact-3-mass-accuracy-necessary-precise-mass-measurement-is-crucial-to-correctly-assign-mz-values-to-specific-molecular-species-particularly-in-biomolecu54/"><u>Key Fact #3: Mass Accuracy Necessary - Precise Mass Measurement Is Crucial to Correctly Assign M/Z Values to Specific Molecular Species, Particularly in Biomolecule Studies.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/latest-macbook-models-the-most-recent-launches/"><u>Latest MacBook Models: The Most Recent Launches</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/multiple-friend-deletions-in-a-single-move-mastering-snapchats-user-interface/"><u>Multiple Friend Deletions in a Single Move: Mastering Snapchat's User Interface</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-internet-resources-to-uncover-an-individuals-phone-number-securely/"><u>Navigate Internet Resources to Uncover an Individual's Phone Number Securely</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/on-screen-keyboard-management-how-to-turn-it-onoff-in-windows-11/"><u>On-Screen Keyboard Management: How to Turn It On/Off in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/professional-and-private-video-conferencing-steps-to-hide-your-background-using-google-meets-tools/"><u>Professional and Private Video Conferencing: Steps to Hide Your Background Using Google Meet's Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/recover-locked-out-of-facebook-do-it-without-using-an-email-or-phone-number-heres-how/"><u>Recover Locked Out of Facebook? Do It Without Using an Email or Phone Number Here's How!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-unresponsive-airpods-a-comprehve-solutions-walkthrough/"><u>Reviving Unresponsive AirPods: A Comprehve Solutions Walkthrough</u></a></li>
+<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-process-for-handling-libxml2dll-file-missing-errors-successfully/"><u>Step-by-Step Process for Handling 'libxml2.dll File Missing' Errors Successfully</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-17-graphic-design-tools-for-stunning-visuals-and-creative-projects/"><u>Top 17 Graphic Design Tools for Stunning Visuals and Creative Projects</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-photography-skills-learn-how-to-use-the-latest-photo-cutout-feature-in-ios-16/"><u>Transform Your Photography Skills: Learn How to Use the Latest Photo Cutout Feature in iOS 16</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-pdhdll-files-expert-strategies-for-a-smooth-fix/"><u>Troubleshooting Missing Pdh.dll Files: Expert Strategies for a Smooth Fix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-network-communication-on-pcs-how-to-operate-windows-telnet-client/"><u>Unlocking Network Communication on PCs: How to Operate Windows Telnet Client</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-the-mystery-of-missing-pages-online-effective-ways-to-address-http-404-issues/"><u>Unraveling the Mystery of Missing Pages Online: Effective Ways to Address HTTP 404 Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-sharers-a-step-by-step-guide-to-identifying-your-facebook-posts-distributors/"><u>Unveiling the Sharers: A Step-by-Step Guide to Identifying Your Facebook Post's Distributors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-ipados-version-18-discover-release-timeline-complimentary-offering-and-advanced-features/"><u>Upcoming iPadOS Version 18 - Discover Release Timeline, Complimentary Offering & Advanced Features!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/your-essential-directory-of-free-online-music-libraries-explore-these-15-channels/"><u>Your Essential Directory of Free Online Music Libraries: Explore These 15 Channels</u></a></li>
+</ul></div>

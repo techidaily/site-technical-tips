@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Transferring Your iCloud Images Onto All Your Gadgets"
-date: 2024-08-27 19:13:44
-updated: 2024-08-29 10:41:26
+date: 2024-08-30T13:32:50.672Z
+updated: 2024-08-31T13:32:50.672Z
 tags:
   - mobile
 categories:
@@ -54,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 
 ![Enabling original media downloads in macOS Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-14-54-20.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Switching back to “Optimize Mac Storage” will reverse the decision, removing local media files while keeping them safe in the cloud.
 
  You can also use some of the methods listed below for Windows, Linux, a command line tool, and by requesting data from Apple directly.
@@ -68,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 
 ![Enabling iCloud Photos in iCloud for Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-11-09-01.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
  You can also turn on Shared folders and tweak a few other settings while you’re here. Be patient while things download. To reverse your decision, and delete everything locally but keep your media safe in the cloud, simply disable the “iCloud Photos” checkbox again.
 
  You’ll see a warning notifying you that local media will be removed.
@@ -76,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 
  There are other options for Windows users including using the iCloud website, a command line tool, and requesting data from Apple as noted below.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Download iCloud Photos Using iCloud.com (Works for Linux)
 
  Unsurprisingly, Apple doesn’t make an iCloud for Linux application. The easiest way for Linux users to download their iCloud Photo Library is to head to [iCloud.com](http://www.icloud.com) and log in using their Apple ID credentials. This works for most other operating systems too.
@@ -84,12 +93,18 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 
 ![Downloading photos from iCloud.com using Firefox for Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-15-01-06.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  iCloud will download your media in [ZIP file format](https://remote-screen-capture.techidaily.com/new-visual-voyage-amds-radeon-reborn-for-2024/) which you can then extract to a location of your choice. Repeat as necessary to get all of your photos downloaded. iCloud will show you how many items you have selected at a time in the top-right corner of the page, which simplifies this process a bit.
 
 ![iCloud Photos downloading in a ZIP archive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-15-01-12.png) 
 
  Linux users can also use the command line utility and request data from Apple as detailed below.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ##  Download iCloud Photos With a Command Line Utility
 
  You can also download your iCloud media using a free command line utility called iCloud Photos Downloader. The utility can be used on just about any platform, with native downloads for Windows, Mac, many Linux distributions, a [container for Docker](https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/), and source code available if you want to compile it yourself.
@@ -104,8 +119,14 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
 
 ![Running iCloud Photos Downloader CLI tool on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-11-29-37.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
  Only after that point was the app ready for authentication and final setup. Fortunately, there’s a [detailed user guide](https://icloud-photos-downloader.github.io/icloud%5Fphotos%5Fdownloader/index.html) that should walk you through the intricacies of the app on any platform. Once you're up and running, iCloud Photos Downloader should keep your library synced automatically with periodic re-authentication required every two months.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ##  Download iCloud Photos on Android
 
  There’s no elegant solution for Android users, just a mobile [iCloud.com](http://www.icloud.com) interface. Log in, tap Photos, then use the “Select” button to pick which photos you want to download.
@@ -124,6 +145,9 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
 
 ![Request a copy of your iCloud Photos data from Apple.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-13-57-23.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  You can also use the privacy website to [switch directly from iCloud to Google Photos](https://extra-support.techidaily.com/2024-approved-praise-in-pixels-the-new-marketing-trend/).
 
 ##  Convenience at a Price
@@ -146,3 +170,56 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-accelerating-or-slowing-down-youtube-videos-playback/"><u>[New] 2024 Approved  Accelerating or Slowing Down YouTube Videos Playback</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-exploring-virtual-worlds-with-samsung-gear-vr-games-for-2024/"><u>[New] Exploring Virtual Worlds with Samsung Gear VR Games for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-tips-to-streamline-your-ipad-screen-saving/"><u>[New] Ultimate Tips to Streamline Your iPad Screen Saving</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-where-can-you-find-premium-soundtracks-from-instagram-and-how-to-create-a-superb-call-alert/"><u>[Updated] In 2024, Where Can You Find Premium Soundtracks From Instagram & How to Create a Superb Call Alert</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovate-your-visual-narrative-the-10-best-text-upgrades/"><u>2024 Approved  Innovate Your Visual Narrative - The 10 Best Text Upgrades</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-a79-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo A79 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-beginners-roadmap-to-harnessing-live-activities-on-iphone-ios-16/"><u>A Beginner's Roadmap to Harnessing Live Activities on iPhone (iOS 16)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/android-techniques-old-to-new-video-format/"><u>Android Techniques  Old to New Video Format</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/become-a-pokemon-champion-playing-pokemon-unite-on-your-computer/"><u>Become a Pokémon Champion: Playing 'Pokémon Unite' On Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bring-your-favorite-android-apps-to-life-on-windows-11-a-how-to-guide/"><u>Bring Your Favorite Android Apps to Life on Windows 11: A How-To Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/budget-friendly-elegance-discover-high-end-tech-wonders-on-a-dime/"><u>Budget-Friendly Elegance: Discover High-End Tech Wonders on a Dime</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-the-new-apple-tv-4k-2019-release-pros-cons-and-verdict/"><u>Comprehensive Guide to the New Apple TV 4K (2019 Release): Pros, Cons, and Verdict</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-method-for-deleting-all-correspondence-in-the-gmail-app-a-mobile-friendly-approach/"><u>Comprehensive Method for Deleting All Correspondence in the Gmail App: A Mobile-Friendly Approach</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-iphone-woes-7-common-reasons-for-unresponsive-touchscreens-explored/"><u>Diagnosing iPhone Woes: 7 Common Reasons for Unresponsive Touchscreens Explored</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-our-handpicked-tv-hits-streaming-live-on-max/"><u>Discover Our Handpicked TV Hits Streaming Live on MAX</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/download-the-newly-released-mozilla-thunderbird-email-client-v52/"><u>Download the Newly Released: Mozilla Thunderbird Email Client V52</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722864674269-effortless-connection-learn-how-to-pair-your-bose-soundlink-speakers-today/"><u>Effortless Connection: Learn How to Pair Your Bose Soundlink Speakers Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ensure-site-responsiveness-the-ultimate-guide-to-website-pinging-techniques/"><u>Ensure Site Responsiveness: The Ultimate Guide to Website Pinging Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-gadgets-and-equipment-for-a-low-cost-diy-movie-experience-at-home/"><u>Essential Gadgets & Equipment for a Low-Cost DIY Movie Experience at Home</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-guide-the-top-6-journaling-apps-you-cant-miss/"><u>Essential Guide: The Top 6 Journaling Apps You Can't Miss</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-managing-and-unpacking-rar-compressed-data-on-macos/"><u>Expert Advice: Managing and Unpacking RAR Compressed Data on macOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-best-free-pdf-software-our-picks-for-july-2024/"><u>Exploring the Best Free PDF Software - Our Picks for July 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-gmail-sync-issues-effective-solutions-for-non-syncing-emails/"><u>Fixing Gmail Sync Issues: Effective Solutions for Non-Syncing Emails</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fresh-start-on-your-iphone-15-heres-how-to-perform-a-smooth-reboot/"><u>Fresh Start on Your iPhone 15? Here’s How to Perform a Smooth Reboot!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-halting-automatic-song-streaming-on-apple-music-platform/"><u>Guide to Halting Automatic Song Streaming on Apple Music Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-access-the-fandango-streaming-service-through-your-amazon-fire-stick/"><u>How to Access the Fandango Streaming Service Through Your Amazon Fire Stick</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-easily-create-a-projector-screen-at-home-a-comprehensive-guide/"><u>How to Easily Create a Projector Screen at Home - A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-ensure-your-chromecast-runs-the-newest-version-a-users-guide/"><u>How to Ensure Your Chromecast Runs the Newest Version: A User's Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-mozilla-thunderbird-not-starting/"><u>How to Fix Mozilla Thunderbird Not Starting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-prevent-red-dead-redemption-2-from-crashing-on-your-computer/"><u>How to Prevent Red Dead Redemption 2 From Crashing on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-solve-microsoft-word-documents-that-refuse-to-load/"><u>How to Solve Microsoft Word Documents That Refuse to Load</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/infographic-mind-numbing-youtube-factsfigures-and-statistics-2017/"><u>Infographic - Mind Numbing YouTube Facts,Figures and Statistics 2017</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-look-at-apple-cars-potential-pricing-timelines-and-technical-specifications/"><u>Inside Look at Apple Car's Potential Pricing, Timelines, and Technical Specifications!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/key-fact-3-mass-accuracy-necessary-precise-mass-measurement-is-crucial-to-correctly-assign-mz-values-to-specific-molecular-species-particularly-in-biomolecu54/"><u>Key Fact #3: Mass Accuracy Necessary - Precise Mass Measurement Is Crucial to Correctly Assign M/Z Values to Specific Molecular Species, Particularly in Biomolecule Studies.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/latest-macbook-models-the-most-recent-launches/"><u>Latest MacBook Models: The Most Recent Launches</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-troubleshooting-tips-for-fixing-clientserver-side-vpn-error-code-800/"><u>Master the Art of Troubleshooting: Tips for Fixing Client/Server-Side VPN Error Code 800</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/multiple-friend-deletions-in-a-single-move-mastering-snapchats-user-interface/"><u>Multiple Friend Deletions in a Single Move: Mastering Snapchat's User Interface</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-internet-resources-to-uncover-an-individuals-phone-number-securely/"><u>Navigate Internet Resources to Uncover an Individual's Phone Number Securely</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/on-screen-keyboard-management-how-to-turn-it-onoff-in-windows-11/"><u>On-Screen Keyboard Management: How to Turn It On/Off in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/professional-and-private-video-conferencing-steps-to-hide-your-background-using-google-meets-tools/"><u>Professional and Private Video Conferencing: Steps to Hide Your Background Using Google Meet's Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-sudden-malfunctions-in-vehicle-radio-units/"><u>Quick Fixes for Sudden Malfunctions in Vehicle Radio Units</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-issues-with-the-wininetdll-file-steps-to-address-missing-and-not-found-errors/"><u>Resolving Issues with the Wininet.dll File: Steps to Address 'Missing' And 'Not Found' Errors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/step-by-step-instruction-on-downloading-installing-and-using-ez-grabber-for-2024/"><u>Step-by-Step Instruction on Downloading, Installing & Using EZ Grabber for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/supreme-choices-a-comprehensive-guide-to-best-ceiling-speaker-systems/"><u>Supreme Choices: A Comprehensive Guide to Best Ceiling Speaker Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-17-graphic-design-tools-for-stunning-visuals-and-creative-projects/"><u>Top 17 Graphic Design Tools for Stunning Visuals and Creative Projects</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-pdhdll-files-expert-strategies-for-a-smooth-fix/"><u>Troubleshooting Missing Pdh.dll Files: Expert Strategies for a Smooth Fix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-savings-with-these-5-premium-pick-tips-no-charge-calling-tools-globally/"><u>Unlock Savings with These 5 Premium Pick-Tips: No Charge Calling Tools Globally</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-samsungs-future-at-the-2025-unpacked-event-dates-updates-and-expectations/"><u>Unveiling Samsung's Future at the 2025 Unpacked Event - Dates, Updates & Expectations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/your-essential-directory-of-free-online-music-libraries-explore-these-15-channels/"><u>Your Essential Directory of Free Online Music Libraries: Explore These 15 Channels</u></a></li>
+</ul></div>

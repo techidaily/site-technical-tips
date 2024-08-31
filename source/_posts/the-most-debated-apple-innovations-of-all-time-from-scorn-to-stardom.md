@@ -1,7 +1,7 @@
 ---
 title: The Most Debated Apple Innovations of All Time - From Scorn to Stardom
-date: 2024-08-28 10:25:39
-updated: 2024-08-29 12:17:45
+date: 2024-08-30T13:35:48.090Z
+updated: 2024-08-31T13:35:48.090Z
 tags:
   - cutting-edge
 categories:
@@ -36,10 +36,16 @@ _[Grand Warszawski / Shutterstock.com](https://www.shutterstock.com/image-photo/
 
  Despite the shortcomings, the iMac [doubled Apple's PC market share](https://lowendmac.com/1998/imac-saves-apple/) in just the first four months. It arguably saved the company, and was responsible for several product names to come---iPod and iPhone. The products listed below may have never come to be without the success of the original iMac.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ##  iPod (2001)
 
 ![iPod 2001](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shutterstock_1598882824.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 _[marleyPug / Shutterstock.com](https://www.shutterstock.com/image-photo/upright-view-1st-generation-ipod-sitting-1598882824)_
 
  The original iPod was announced in a low-key event by Steve Jobs in 2001\. It was pretty well received---except for one big sticking point: price. The first iPod cost $399 for 5GB of storage, and that was a point of contention.
@@ -60,10 +66,16 @@ _[marleyPug / Shutterstock.com](https://www.shutterstock.com/image-photo/upright
 
 [Apple was selling](https://en.wikipedia.org/wiki/File:Ipod%5Fsales%5Fper%5Fquarter.svg) over 20 million iPods per year by 2005, and peaked at nearly 60 million in 2008 and 2009\. It was a massive success, and led to a seismic change in the music industry and how we listen to music today.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ##  iPhone (2007)
 
 ![Original iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shutterstock_1899511723.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _[marleyPug / Shutterstock.com](https://www.shutterstock.com/image-photo/1st-generation-iphone-laying-on-top-1899511723)_
 
  The original iPhone was announced in 2007, and while Steve Jobs' presentation has become legendary, not everyone was convinced that Apple truly had "reinvented" the phone. In fact, a lot of people were very critical and dismissive of the iPhone.
@@ -78,10 +90,16 @@ _[marleyPug / Shutterstock.com](https://www.shutterstock.com/image-photo/1st-gen
 
  The original iPhone became the third most popular phone in the U.S. [in just three months](https://www.theguardian.com/technology/2007/oct/23/apple.iphone). It has obviously been an astounding success for Apple. As of Q1 2023, Apple makes up 21% of the [global smartphone market share](https://www.counterpointresearch.com/global-smartphone-share/) and a whopping 52% of the [U.S. market share](https://www.counterpointresearch.com/us-market-smartphone-share/).
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ##  Apple Watch (2015)
 
 ![Apple Watch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shutterstock_326509586.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 _[DenPhotos / Shutterstock.com](https://www.shutterstock.com/image-photo/alushta-russia-september-1-2015-man-326509586)_
 
  By 2015, when the original Apple Watch was announced, people had started to catch on that maybe Apple knew what it was doing. Still, there was plenty of skepticism around Apple's entry into the smartwatch market.
@@ -112,3 +130,52 @@ _[DenPhotos / Shutterstock.com](https://www.shutterstock.com/image-photo/alushta
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-windows-11-epson-printer-not-scanning/"><u>[FIXED] Windows 11: Epson Printer Not Scanning</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-crafting-video-narratives-with-chiseled-chapters-on-vimeo/"><u>[New] Crafting Video Narratives with Chiseled Chapters on Vimeo</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unraveling-the-top-9-free-video-logo-creation-software-list/"><u>[New] Unraveling The Top 9 Free Video Logo Creation Software List</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-quietude-kingdoms-ultimate-zen-pc-games/"><u>[Updated] 2024 Approved  Quietude Kingdoms  Ultimate Zen PC Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-discover-the-leading-10-in-ultra-hd-best-4k-cams-review/"><u>[Updated] In 2024, Discover the Leading 10 in Ultra-HD  Best 4K Cams Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-snapshot-secrets-iphones-techniques-for-clear-reflections/"><u>[Updated] Snapshot Secrets  IPhone's Techniques for Clear Reflections</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-sprint-showcase-short-track-22-glory/"><u>[Updated] Sprint Showcase  Short Track '22 Glory</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unveiling-the-secrets-to-swiftly-altering-snapchat-soundscapes/"><u>2024 Approved  Unveiling the Secrets to Swiftly Altering Snapchat Soundscapes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-deep-dive-into-minecraft-realms-is-it-a-smart-investment-for-players/"><u>A Deep Dive Into Minecraft Realms - Is It a Smart Investment for Players?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-z-list-of-premium-quality-films-for-free-watch-now/"><u>A-Z List of Premium Quality Films for FREE – Watch Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722874435427-all-you-need-to-know-about-the-new-google-pixel-tablet-launch-info-and-hardware-details-revealed/"><u>All You Need to Know About The New Google Pixel Tablet - Launch Info and Hardware Details Revealed!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/break-free-from-gmail-unveiling-8-exceptional-email-alternatives-for-202n4/"><u>Break Free From Gmail: Unveiling 8 Exceptional Email Alternatives for 202N4</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722875643989-effective-solutions-for-resolving-user32dll-file-absence-issues/"><u>Effective Solutions for Resolving 'User32.dll' File Absence Issues</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-13-pro-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-error-messages-when-msstdfmtdll-file-cannot-be-located/"><u>Fixing Error Messages When Msstdfmt.dll File Cannot Be Located</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/global-first-in-image-restoration-and-correction-stellars-new-innovative-solution/"><u>Global First in Image Restoration and Correction: Stellar's New Innovative Solution</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-pro-max-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 Pro Max To Android? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-cutting-edge-platforms-for-digital-transformation-into-nft-tokens/"><u>In 2024, Cutting-Edge Platforms for Digital Transformation Into NFT Tokens</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-download-fb-links-8-free-online-tools/"><u>In 2024, Download FB Links  8 FREE, Online Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-easy-steps-to-personalize-your-snapchat-pin/"><u>In 2024, Easy Steps to Personalize Your Snapchat Pin</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-display-apple-iphone-12-pro-screen-on-pc-easily-drfone-by-drfone-ios/"><u>In 2024, How to Display Apple iPhone 12 Pro Screen on PC Easily? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-tecno-spark-go-2023-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Tecno Spark Go (2023) For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/keep-it-spotless-the-definitive-technique-to-decontaminate-your-tv-remote/"><u>Keep It Spotless: The Definitive Technique to Decontaminate Your TV Remote</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-journey-videos-creating-authentic-online-experiences-for-2024/"><u>Life's Journey Videos  Creating Authentic Online Experiences for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-healthy-eating-with-these-top-6-diet-tracker-apps/"><u>Master Healthy Eating with These Top 6 Diet Tracker Apps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-the-algorithm-boosting-instagram-engagement/"><u>Mastering the Algorithm  Boosting Instagram Engagement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-the-stars-ordered-watchlist-for-fans-of-the-classic-star-trek-saga/"><u>Navigating Through the Stars: Ordered Watchlist for Fans of the Classic Star Trek Saga</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-ietframedll-errors-with-these-expert-tips-and-tricks/"><u>Overcoming ietframe.dll Errors with These Expert Tips and Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-unfixable-whea-errors-on-pc-a-comprehensive-tutorial/"><u>Overcoming Unfixable WHEA Errors on PC: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplifying-your-wallet-comprehensive-guide-to-employing-apple-pay-features-on-an-apple-watch/"><u>Simplifying Your Wallet: Comprehensive Guide to Employing Apple Pay Features on an Apple Watch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-common-issues-a-guide-to-troubleshooting-your-iphones-screen-mirroring/"><u>Solving Common Issues: A Guide to Troubleshooting Your iPhone's Screen Mirroring</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-netflix-ui-800-3-issue-a-comprehensive-guide/"><u>Solving the Netflix UI-800-3 Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-windows-recovery-issues-the-ultimate-guide/"><u>Solving Windows Recovery Issues: The Ultimate Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-strategy-unveiling-the-secrets-of-royal-match/"><u>Step-by-Step Strategy: Unveiling the Secrets of Royal Match</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-activatedeactivate-file-sharing-in-windows-11/"><u>Step-by-Step Tutorial: Activate/Deactivate File Sharing in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamline-study-time-with-these-top-er-6-student-and-parent-friendly-apps/"><u>Streamline Study Time with These Top Er 6 Student & Parent Friendly Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlining-your-video-calls-how-to-utilize-zoom-on-win10-pcs-for-2024/"><u>Streamlining Your Video Calls  How to Utilize Zoom on Win10 PCs for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tackling-burn-in-issues-on-your-screens-innovative-fixes-and-maintenancestrategies/"><u>Tackling Burn-In Issues on Your Screens - Innovative Fixes and Maintenancestrategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-big-thing-from-sony-a-comprehensive-guide-to-upcoming-innovations/"><u>The Next Big Thing From Sony – A Comprehensive Guide to Upcoming Innovations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-phone-shops-where-to-purchase-quality-cellphones/"><u>Top Phone Shops: Where to Purchase Quality Cellphones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-installing-apple-tv-apps-on-amazon-fire-stick/"><u>Ultimate Guide: Installing Apple TV Apps on Amazon Fire Stick</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-mirroring-your-devices-display-onto-an-lg-smart-tv/"><u>Ultimate Guide: Mirroring Your Device's Display Onto an LG Smart TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-best-encrypted-mail-services-for-privacy-conscious-users/"><u>Unveiling the Best Encrypted Mail Services for Privacy-Conscious Users</u></a></li>
+</ul></div>

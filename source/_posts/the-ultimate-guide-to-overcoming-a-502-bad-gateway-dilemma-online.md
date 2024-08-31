@@ -1,0 +1,172 @@
+---
+title: The Ultimate Guide to Overcoming a 502 Bad Gateway Dilemma Online
+date: 2024-08-30T13:44:59.135Z
+updated: 2024-08-31T13:44:59.135Z
+categories:
+  - BestProducts
+description: This Article Describes The Ultimate Guide to Overcoming a 502 Bad Gateway Dilemma Online
+excerpt: This Article Describes The Ultimate Guide to Overcoming a 502 Bad Gateway Dilemma Online
+thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/502-bad-gateway-error-explained-2622939-6fe4489451f04fbf9ed021f328defc4a-45b327ecaf82420d9f1af27052a61ab2.jpg
+---
+
+## The Ultimate Guide to Overcoming a 502 Bad Gateway Dilemma Online
+ The 502 Bad Gateway error is an[HTTP status code](https://www.lifewire.com/http-status-codes-2625907) that means that one server on the internet received an invalid response from another server. These errors are completely independent of your particular setup, meaning that you could see one in_any_ browser, on_any_ operating system, and on_any_ device.
+
+## How to Fix a 502 Bad Gateway Error
+
+ The 502 Bad Gateway error is often a network error between servers on the internet, meaning the problem wouldn't be with your computer or internet connection.
+
+ However, since it is possible that there's something wrong on your end, here are some fixes to try:
+
+1. Try loading the URL again by pressing**F5** or**Ctrl+R** (**Command+R** on a Mac) on your keyboard, or by selecting the refresh/reload button.  
+![Refresh icon in Microsoft Edge for Windows.](https://www.lifewire.com/thmb/E3Cq4H-UyVzA1LQ7iE07fn4CqgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-502-bad-gateway-error-653db64b803049ab9114d3323702afed.jpg)  
+ While the 502 Bad Gateway error is usually indicating a networking error outside of your control, it could be extremely temporary. Trying the page again will often be successful.
+2. Start a new browser session by closing all open browser windows and then opening a new one. Then try opening the web page again.  
+ It's possible that the 502 error you received was due to an issue on your computer that occurred sometime during this use of your browser. A simple restart of the browser program itself could solve the problem.
+3. [Clear your browser's cache](https://www.lifewire.com/how-to-clear-cache-2617980) . Outdated or corrupted files that are being stored by your browser could be causing 502 Bad Gateway issues.  
+![Clear browsing data window in the Edge browser](https://www.lifewire.com/thmb/AQ5qU-D4syt9A7LWBY4UtSQ1pro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-clear-cache-4ce1f38e245146879a6fd7c9f16f5f4e.png)  
+ Clearing the Cache in Edge.  
+ Removing those cached files and trying the page again will solve the problem if this is the cause.
+4. [Delete your browser's cookies](https://www.lifewire.com/how-to-delete-cookies-2617981) . For similar reasons as mentioned above with cached files, clearing stored cookies could fix a 502 error.  
+ If you'd rather not clear all of your cookies, you could first try removing only those cookies related to the site you're getting the 502 error on. It's best to remove them all but it won't hurt to try the clearly applicable one(s) first.  
+![Clearing cookies from Google Chrome.](https://www.lifewire.com/thmb/bAE6oIz4q8W2nV-HI9F8nmzh2Zk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-502-bad-gateway-error-82ee6d360f9449cabd07b53105da96c1.jpg)
+5. Start your browser in Safe Mode: We have instructions for[Firefox](https://support.mozilla.org/en-US/kb/troubleshoot-firefox-issues-using-safe-mode#w%5Fhow-to-start-firefox-in-safe-mode) ,[Chrome](https://www.lifewire.com/incognito-mode-google-chrome-4103635) , or[Edge](https://www.lifewire.com/activate-inprivate-in-microsoft-edge-446308) . Running a browser in Safe Mode means to run it with default settings and without add-ons or extensions, including toolbars.  
+![Internet Explorer safe mode screenshot](https://www.lifewire.com/thmb/MhzhtwxuT7_jyefXSGdVXzblwZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/safe-mode-internet-explorer-5c62ec4b46e0fb0001f08f98.png)  
+ Internet Explorer in Safe Mode.  
+ If the 502 error no longer appears when running your browser in Safe Mode, you know that some browser extension or setting is the cause of the problem. Return your browser settings to default and/or selectively disable browser extensions to find the root cause and permanently fix the problem.  
+ A browser's Safe Mode is similar in idea to the Safe Mode in Windows but it's not the same thing. You do not need to start Windows in Safe Mode to run any browser in its particular "Safe Mode."
+6. Try another browser. Popular browsers include Firefox, Chrome, Edge, Opera, and Safari.  
+ If an alternative browser doesn't produce a 502 Bad Gateway error, you now know that your original browser is the source of the problem. Assuming you've followed the above troubleshooting advice, now would be the time to[reinstall your browser](https://www.lifewire.com/what-is-the-proper-way-to-reinstall-a-software-program-2624478) and see if that corrects the problem.
+7. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) . Some temporary issues with your computer and how it's connecting to your network could be causing 502 errors, especially if you're seeing the error on more than one website. In these cases, a restart would help.
+8. [Restart your networking equipment](https://www.lifewire.com/how-to-properly-restart-a-router-modem-2624570) . Issues with your modem, router,[switches](https://www.lifewire.com/definition-of-network-switch-817588) , or other networking devices could be causing 502 Bad Gateway or other 502 errors. A simple restart of these devices could help.  
+ The order you turn_off_ these devices isn't particularly important, but be sure to_turn them back on from the outside in_ . Check out that link above for more detailed help on restarting your equipment if you need it.
+9. [Change your DNS servers](https://www.lifewire.com/how-to-change-dns-server-settings-2617979) , either on your router or on your computer or device. Some Bad Gateway errors are caused by temporary issues with DNS servers.  
+ Unless you've previously changed them, the DNS servers you have configured right now are probably the ones automatically assigned by your ISP. Fortunately, a number of[other DNS servers are available](https://www.lifewire.com/free-and-public-dns-servers-2626062) for your use that you can choose from.
+10. Contacting the website directly might also be a good idea. Chances are, assuming they're at fault, the website administrators are already working on correcting the cause of the 502 Bad Gateway error, but feel free to let them know about it.  
+ Most websites have social networking accounts they use to help support their services. Some even have telephone and email contacts.  
+ If you suspect a website is down for everyone, especially a popular one, checking X (formerly Twitter for chatter about the outage is often very helpful. The best way to do this is to search for_#websitedown_ on X, as in #cnndown or #instagramdown. There are[other ways to see if a website is down](https://www.lifewire.com/is-website-down-3482172) if social media isn't helpful.
+11. Contact your internet service provider. If your browser, computer, and network are all working and the website reports that the page or site is working for them, the 502 Bad Gateway issue could be caused by a network issue that your ISP is responsible for.  
+ See[How to Talk to Tech Support](https://www.lifewire.com/how-to-talk-to-tech-support-2619223) for tips on talking to your ISP about this problem.
+12. Come back later. At this point in your troubleshooting, the 502 Bad Gateway error message is almost certainly an issue with either your ISP or with the website's network—one of the two parties might have even confirmed that for you if you contacted them directly. Either way, you're not the only one seeing the 502 error and so you'll need to wait until the problem is solved for you.
+
+## What Does a 502 Bad Gateway Error Look Like?
+
+ Each website can customize the 502 Bad Gateway. While it's fairly uncommon, different web servers_do describe this error differently_ .
+
+ Below are some common ways you might see it:
+
+* **502 Bad Gateway**
+* **502 Service Temporarily Overloaded**
+* **Error 502**
+* **Temporary Error (502)**
+* **502 Proxy Error**
+* **502 Server Error: The server encountered a temporary error and could not complete your request**
+* **HTTP 502**
+* **502\. That's an error**
+* **Bad Gateway: The proxy server received an invalid response from an upstream server**
+* **HTTP Error 502 - Bad Gateway**
+
+ A Bad Gateway error received in Windows Update generates a 0x80244021 error code or the message WU\_E\_PT\_HTTP\_STATUS\_BAD\_GATEWAY.
+
+ When Google services, like Google Search or Gmail, are experiencing a 502 Bad Gateway, they often show_Server Error_ , or sometimes just_502_ , on the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## What Causes a 502 Bad Gateway Error?
+
+ Bad Gateway errors are often caused by issues between online servers that you have no control over. However, sometimes, there is no real issue but your browser_thinks_ there's one thanks to a problem with your browser, an issue with your home networking equipment, or some other in-your-control reason.
+
+ Microsoft IIS web servers often give more information about the cause of a particular 502 Bad Gateway error by adding an extra digit after the_502_ , as in _HTTP Error 502.3 - Web server received an invalid response while acting as a gateway or proxy_ , which means_Bad Gateway: Forwarder Connection Error (ARR)_ .
+
+ An_HTTP Error 502.1 - Bad Gateway_ error refers to a CGI application timeout problem and is better to troubleshoot as a[504 Gateway Timeout](https://www.lifewire.com/504-gateway-timeout-error-explained-2622941) issue.
+
+ FAQ
+
+* How do I fix a 404 error?  
+ To[fix a 404 Page Not Found error](https://www.lifewire.com/404-not-found-error-explained-2622936) , try reloading the web page and ensure you typed the correct URL. You may have the wrong URL, so try searching for the site from a search engine. You can also try clearing your browser's cache and changing the DNS servers, but if it's the website's problem, there's nothing you can do.
+* How do I fix a 500 internal server error?  
+ There isn't much you can do to[fix a 500 internal server error](https://www.lifewire.com/500-internal-server-error-explained-2622938) ; the problem usually appears when there's an issue with the page or site's programming. However, you can try reloading the page, clearing your browser's cache, deleting browser cookies, or returning to the website later.
+* How do I fix a 403 Forbidden error on Google Chrome?  
+ There isn't much you can do to[fix a 403 Forbidden error](https://www.lifewire.com/403-forbidden-error-explained-2617989) because it typically stems from the site's development and design. To see if the problem is on your end, try checking for URL errors and clearing your browser's cache and cookies. See if the site is working for others; if so, contact the webmaster.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-voice-over-techniques-that-transform-video-storytelling/"><u>[New] In 2024, Voice Over Techniques That Transform Video Storytelling</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-comparative-analysis-the-leading-edge-with-active/"><u>[Updated] In 2024, Comparative Analysis  The Leading Edge with Active</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-online-monetization-mission-youtube-to-your-bank-for-2024/"><u>[Updated] The Online Monetization Mission  YouTube to Your Bank for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-clarity-perfecting-image-description-via-text-in-pcmac/"><u>2024 Approved  Capturing Clarity  Perfecting Image Description via Text in PC/Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-audio-integration-essential-tips-for-podcasters/"><u>2024 Approved  Pro Audio Integration  Essential Tips for Podcasters</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieving-email-clarity-how-to-utilize-labels-for-messaging-order-in-gmail/"><u>Achieving Email Clarity: How to Utilize Labels for Messaging Order in Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/addressing-dll-dilemmas-how-to-correctly-deal-with-x3daudio-file-loss/"><u>Addressing DLL Dilemmas: How to Correctly Deal with X3DAudio File Loss</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-kid-friendly-digital-games-a-list-of-7-favorites-for-playtime/"><u>Best Kid-Friendly Digital Games: A List of 7 Favorites for Playtime!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/crossing-platform-barriers-execute-android-apps-using-windows-11-features/"><u>Crossing Platform Barriers: Execute Android Apps Using Windows 11 Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-principles-of-network-equality-and-internet-fairness/"><u>Decoding the Principles of Network Equality and Internet Fairness</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/delving-deep-into-every-facet-of-netflix-online-entertainment-service/"><u>Delving Deep Into Every Facet of Netflix Online Entertainment Service</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-the-processes-powering-modern-electromobility-motorbikes-explained/"><u>Demystifying the Processes Powering Modern Electromobility: Motorbikes Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/detecting-if-a-person-has-seen-your-sms-a-comprehensive-guide/"><u>Detecting if a Person Has Seen Your SMS: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-to-restore-missing-advcnttr2dll-in-nero-program/"><u>Effective Solutions to Restore Missing Advcnttr2.dll in Nero Program</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-eliminating-ghostly-afterimages-from-any-screen-type/"><u>Expert Advice: Eliminating Ghostly Afterimages From Any Screen Type</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-strategies-for-overcoming-the-black-screen-challenge-in-windows-11-systems/"><u>Expert Strategies for Overcoming the Black Screen Challenge in Windows 11 Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-realme-11-proplus-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Realme 11 Pro+ 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-control-and-adjust-network-discovery-options-in-the-latest-version-of-windows/"><u>Guide to Control and Adjust Network Discovery Options in the Latest Version of Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-fixing-persistent-shutdown-errors-in-windows-11-systems/"><u>Guide to Fixing Persistent Shutdown Errors in Windows 11 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-edit-and-personalize-images-with-apples-photo-cutout-feature-on-iphones-ios-16-update/"><u>How to Edit and Personalize Images with Apple’s Photo Cutout Feature on iPhone's iOS 16 Update</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-gionee-f3-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Gionee F3 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-google-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Google Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-frequency-logging-microphone-sounds-and-dialogue/"><u>In 2024, Frequency Logging  Microphone Sounds & Dialogue</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-honor-play-8t-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Honor Play 8T FRP</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-initial-configuration-of-your-amazon-echo-dot/"><u>Mastering the Initial Configuration of Your Amazon Echo Dot</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/navigating-screen-capture-across-pcs-and-mobile-devices-for-2024/"><u>Navigating Screen Capture Across PCs and Mobile Devices for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-connectivity-hiccups-making-your-apple-watch-record-standing-accurately/"><u>Overcoming Connectivity Hiccups: Making Your Apple Watch Record Standing Accurately</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/powerpoint-revamp-strategies-how-to-successfully-update-presentations/"><u>PowerPoint Revamp Strategies: How to Successfully Update Presentations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722903861223-setting-up-two-factor-authentication-on-twitch-a-step-by-step-guide/"><u>Setting Up Two-Factor Authentication on Twitch – A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722889270689-smartphone-showdown-comparing-iphones-and-androids-to-suit-your-lifestyle/"><u>Smartphone Showdown: Comparing iPhones and Androids to Suit Your Lifestyle.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-a-non-working-car-stereo-a-comprehensive-guide/"><u>Solving the Mystery of a Non-Working Car Stereo: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-puzzle-a-step-by-step-guide-to-overcoming-netflix-error-nw-1-19/"><u>Solving the Puzzle: A Step-by-Step Guide to Overcoming Netflix Error NW-1-19</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-wininetdll-missing-error-essential-steps-and-solutions/"><u>Solving the wininet.dll Missing Error: Essential Steps & Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-accessing-command-prompt-on-windows-operating-systems/"><u>Step-by-Step Guide: Accessing Command Prompt on Windows Operating Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-fixing-error-msodll-is-missing-on-your-pc/"><u>Step-by-Step Guide: Fixing Error Mso.dll Is Missing on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-securing-your-icloud-email-with-a-dual-authentication-process/"><u>Step-by-Step Tutorial: Securing Your iCloud Email with a Dual Authentication Process</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-tutorial-for-connecting-laptops-to-televisions-with-hdmi-cable/"><u>The Complete Tutorial for Connecting Laptops to Televisions with HDMI Cable</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-evolution-of-viewership-how-cable-differs-from-modern-streaming/"><u>The Evolution of Viewership: How Cable Differs From Modern Streaming</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-fix-for-wpcpdll-not-found-errors-effective-solutions-inside/"><u>The Ultimate Fix for 'WPCP.DLL Not Found' Errors: Effective Solutions Inside</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-correcting-x3daudiodll-not-found-errors-quickly/"><u>The Ultimate Guide to Correcting x3daudio.dll Not Found Errors Quickly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-correcting-your-computers-cmos-data-integrity-issue/"><u>The Ultimate Guide: Correcting Your Computer's CMOS Data Integrity Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-pre-buy-guide-for-smart-televisions-discover-these-absolutely-critical-elements-first/"><u>The Ultimate Pre-Buy Guide for Smart Televisions: Discover These Absolutely Critical Elements First</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-best-imessage-games-to-play/"><u>Top 7 Best iMessage Games to Play</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-with-server-connections-heres-your-step-by-step-repair-manual/"><u>Trouble with Server Connections? Here's Your Step-by-Step Repair Manual!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tutorial-adjusting-languages-and-regions-on-ios-devices/"><u>Tutorial: Adjusting Languages and Regions on iOS Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-solving-call-of-duty-vanguard-stuttering-issues/"><u>Ultimate Guide: Solving Call of Duty: Vanguard Stuttering Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-the-secrets-behind-effective-bass-management-strategies/"><u>Unraveling the Secrets Behind Effective Bass Management Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/update-your-pc-with-newest-rtx-2080-super-graphics-card-drivers-on-windows-11-free-download/"><u>Update Your PC with Newest RTX #2080 Super Graphics Card Drivers on Windows 11 - Free Download</u></a></li>
+</ul></div>

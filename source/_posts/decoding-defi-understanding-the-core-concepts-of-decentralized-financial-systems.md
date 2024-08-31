@@ -1,7 +1,7 @@
 ---
 title: "Decoding DeFi: Understanding the Core Concepts of Decentralized Financial Systems"
-date: 2024-08-28 14:48:50
-updated: 2024-08-29 11:45:44
+date: 2024-08-30T13:35:32.943Z
+updated: 2024-08-31T13:35:32.943Z
 tags:
   - cutting-edge
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 
 Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/updated-2024-approved-top-playlist-hits-social-medias-1-10-video-winners/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ##  Centralized Finance vs. Decentralized Finance
 
  As the name suggests, decentralized finance is the opposite of centralized finance, which is the system we now operate under---at least most people do, most of the time. For example, if you buy something from an online store and pay with your credit card, the credit card company (Visa or Mastercard, usually) and your bank act as middlemen before the money ends up in the coffers of the shop you're in.
@@ -34,6 +38,9 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
  One good example are loans. Currently, to get a loan you need to go to a bank and jump through a number of hoops to qualify. Under DeFi, you could make a deal with somebody online, set down the terms and conditions in a smart contract and then go from there. Instead of dealing with a bank or some other kind of loan company, you'd just deal with another individual.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ##  How DeFi Works
 
  DeFi hinges on a few things to work, most importantly smart contracts and cryptocurrencies. Instead of the wildly volatile coins most people are familiar with---[Bitcoin](https://extra-support.techidaily.com/navigating-through-excellent-hdr-cam-choices-for-2024/) springs to mind---most DeFi applications would instead rely on so-called stablecoins like Dai or Tether. These currencies are usually pegged to an existing real-world fiat currency, often the U.S dollar, and generally don't show the crazy spikes upward and downward of Bitcoin.
@@ -44,6 +51,10 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
 
  Conditions can be pretty simple, like a payment being transferred every first of the month, but they can be made as esoteric as the signatories would like. However, as these dApps exist on the blockchain, once the deal is made, it can't be altered. If you made a deal to transfer 100 Tether every first of the month, it'll fire every time unless you and your counterparty agree otherwise.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ##  Problems With DeFi
 
  The idea of cutting banks out of the financial equation probably sounds good to anybody who has had to pay some overdraft fee seemingly plucked from out of thin air or anybody else who has ever felt hard done by their bank---which is probably most of us. However, decentralizing your finances comes with a number of practical issues that are hard to ignore.
@@ -72,3 +83,43 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-expertly-edit-extravagant-tiktoks-your-key-to-less-overloaded-drafts/"><u>[New] Expertly Edit Extravagant TikToks  Your Key to Less Overloaded Drafts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-why-hdr-triumphs-upgrading-your-video-production-quality/"><u>[Updated] 2024 Approved  Why HDR Triumphs  Upgrading Your Video Production Quality</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebook-security-breach-regain-account-with-ease/"><u>[Updated] Facebook Security Breach? Regain Account with Ease</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youth-voices-channeling-lifes-milestinasubscriber-channel-for-impactful-personal-storytelling/"><u>[Updated] In 2024, Youth Voices  Channeling Life's Milestinasubscriber Channel for Impactful Personal Storytelling</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-comprehensive-guide-to-precision-screen-capture-for-2024/"><u>[Updated] The Comprehensive Guide to Precision Screen Capture for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2024s-comprehensive-list-of-free-voip-services-that-outshine-skype/"><u>2024'S Comprehensive List of Free VoIP Services That Outshine Skype</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avoiding-pitfalls-essential-tips-for-a-smooth-bios-power-on-self-test/"><u>Avoiding Pitfalls: Essential Tips for a Smooth BIOS Power On Self Test</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/catch-the-best-sports-motion-pictures-to-ignite-your-passion-today/"><u>Catch the Best Sports Motion Pictures to Ignite Your Passion Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/city-skylines-2-pc-stability-fixes-stop-the-game-from-crashing/"><u>City Skylines 2 PC Stability Fixes: Stop the Game From Crashing!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/correcting-physxloaderdll-error-messages-for-smooth-operations/"><u>Correcting 'PhysXLoader.dll' Error Messages for Smooth Operations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-the-binkw32dll-missing-error-effective-solutions-inside/"><u>Dealing with the Binkw32.dll MISSING Error: Effective Solutions Inside</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-ways-to-configure-a-dualplus-monitor-arrangement-at-home-or-office/"><u>Easy Ways to Configure a Dual+ Monitor Arrangement at Home or Office</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/everything-you-need-to-know-about-the-upcoming-samsung-z-fold-4-price-release-date-and-specs-included/"><u>Everything You Need to Know About the Upcoming Samsung Z Fold 4 - Price, Release Date & Specs Included</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-upcoming-galaxy-z-fold-6-cost-guide-release-timeline-detailed-specs-and-news-update/"><u>Explore the Upcoming Galaxy Z Fold 6: Cost Guide, Release Timeline, Detailed Specs & News Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/friendship-powered-pokehunting-collaborative-strategies-for-increased-xp-gains-in-pokemon-go/"><u>Friendship-Powered PokéHunting: Collaborative Strategies for Increased XP Gains in ‘Pokémon Go'</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-12-mini-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone 12 mini Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/insiders-walkthrough-booking-an-expert-session-on-genius-bar-appointments-at-apple-stores/"><u>Insider's Walkthrough: Booking an Expert Session on Genius Bar Appointments at Apple Stores</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/insta-insight-how-to-keep-essential-conversations-highlighted-with-a-pin-feature/"><u>Insta Insight: How to Keep Essential Conversations Highlighted with a Pin Feature</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-tiktok-exposure-the-ultimate-10-point-plan-for-virality/"><u>Mastering TikTok Exposure: The Ultimate 10-Point Plan for Virality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/nailing-the-skype-interview-proven-techniques-and-tips-for-job-seekers/"><u>Nailing the Skype Interview: Proven Techniques and Tips for Job Seekers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-online-video-editing-platforms-best-imovie-substitutes/"><u>New 2024 Approved Free Online Video Editing Platforms Best iMovie Substitutes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/next-gen-thrills-the-elite-selection-of-2024s-game-systems/"><u>Next-Gen Thrills: The Elite Selection of 2024'S Game Systems</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/scheduling-effective-zoom-conversations-on-android-platforms-for-2024/"><u>Scheduling Effective Zoom Conversations on Android Platforms for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/securing-trustedinstaller-approval-for-file-modification/"><u>Securing TrustedInstaller Approval for File Modification</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-your-fb-profile-again-without-standard-contact-info/"><u>Securing Your FB Profile Again Without Standard Contact Info</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-streaming-and-sharing-your-favorite-movies-on-netflix/"><u>Step-by-Step Guide: Streaming and Sharing Your Favorite Movies on Netflix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722887072088-steps-to-correct-network-access-failures-on-your-android-phone/"><u>Steps to Correct Network Access Failures on Your Android Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-6-essential-study-apps-every-student-and-parent-should-know-about/"><u>Top 6 Essential Study Apps Every Student and Parent Should Know About</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-post-update-sound-problems-on-your-pc-windows-11/"><u>Troubleshooting Post-Update Sound Problems on Your PC (Windows 11)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-d3dx924dll-file-not-found-issue/"><u>Troubleshooting the d3dx9_24.dll File Not Found Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/two-factor-fortified-learn-to-implement-advanced-authentication-on-gmail-today/"><u>Two-Factor Fortified: Learn to Implement Advanced Authentication on Gmail Today!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-blue-screen-of-death-causes-and-fixes/"><u>Understanding the Blue Screen of Death: Causes and Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-smooth-playbacks-connecting-the-disneyplus-app-with-googles-chromecast-technology/"><u>Unlock Smooth Playbacks: Connecting the Disney+ App with Google's Chromecast Technology</u></a></li>
+</ul></div>

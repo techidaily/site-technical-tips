@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Mastering the Art of Extracting Tracks From a Music CD on Your PC"
-date: 2024-08-28 17:33:11
-updated: 2024-08-29 10:21:26
+date: 2024-08-30T13:34:26.976Z
+updated: 2024-08-31T13:34:26.976Z
 tags:
   - deals
 categories:
@@ -46,6 +46,9 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 
  The disc drive can be useful for more than just ripping CDs, too. You can play DVDs and some Blu-ray movies with applications like [VLC Media Player](https://www.videolan.org/vlc/), or read data discs.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Rip a CD With Media Player
 
  You can use the modern Media Player application to manage your local music library and rip audio CDs. It's installed by default on most Windows 11 computers, just search for "Media Player" in the Start Menu.
@@ -58,10 +61,25 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 
 ![Screenshot of a disc selected in the Media Player app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-13-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can play music straight from the disc by clicking the 'Play all' button, or by double-clicking on an individual track. If you want to change the default audio import settings before ripping the disc, click the three-dots button and select the "Rip settings" option.
 
 ![Media Player screenshot showing settings for audio format and bitrate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-17-pm.png) 
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The settings panel gives you options for changing the music format and bitrate. Most people should stick to the default AAC format and 256 kbps bitrate, but the other options can be helpful in specific use cases. For example, if you plan to copy music to a music player or other device that only supports MP3 files, you might want to import music in that format instead of AAC to avoid converting it again later. A lossless format like FLAC or ALAC would give you the highest quality possible, but the difference isn't all that noticeable with typical speakers or headphones.
 
  When you're ready, click the "Rip CD" button to start copying the audio to your PC. You'll see progress indicators on each track until the rip is complete.
@@ -76,12 +94,18 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 
 ![Screenshot of 'Update album info online' button in Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/untitled-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
  Media Player will check for metadata online, and if it finds more data, it will ask you for confirmation before writing changes to the files.
 
 ![Music Player asking user to check if metadata is correct.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-44-pm.png) 
 
  Media Player can't always find album artwork automatically, but you can use a website like [Music Hoarders Covers](https://covers.musichoarders.xyz/) to find the right image, and then import that into Media Player. After you find the image, just click the "Edit info" button on the album again, then click the pencil button to select the right file.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Rip a CD on Older Windows PCs
 
  If you have an older PC that can't run the modern Media Player application, like a computer on Windows 7 or Windows 8.1, you can use the classic Windows Media Player instead. You can find it by searching for "Windows Media Player" in the Start Menu. You might also be able to open Media Player by opening the Run dialog (the **Win+R** keyboard shortcut), typing the below command, then clicking the OK button.
@@ -92,10 +116,25 @@ wmplayer
 
 ![A CD in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-13-2024-at-4-26-pm.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click the CD in the sidebar to see its contents. You can play music straight from the disc by clicking the large play button at the bottom of the window, or by double-clicking on an individual track. If you want to change the default audio import settings before ripping the disc, click the "Rip settings" dropdown menu.
 
 ![Audio quality menu in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/untitled-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you're not sure what options are best, you should select **MP3** under the "Format" menu, and **256 Kbps** under the "Audio Quality" menu. That's a good middle ground between audio quality and drive space—the default settings (at least on my PC) of MP3 and 128 Kbps is much lower quality than the original CD. A lossless format like FLAC or ALAC would give you the highest quality possible, but the difference compared to a high-bitrate MP3 isn't usually noticeable with typical speakers or headphones.
 
  When you're ready, click the "Rip CD" button to start ripping the audio to your music library. You'll see progress bars on each track until the rip is complete.
@@ -106,12 +145,18 @@ wmplayer
 
 ![Screenshot of Music tab in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/music.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
  Ripped audio doesn't include album art or other metadata, but you can fix that with a few clicks. Right-click the album you just ripped, then select "Find album info."
 
 ![Find album info menu in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/music-1.png) 
 
  Windows Media Player will check for metadata online, and if it finds more data, it will ask you for confirmation before writing changes to the files.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Backing up Your Music
 
  There's no digital rights management (DRM) on music you rip from an audio CD, so you can freely copy it to your other devices, back it up to another drive, or upload it to your cloud storage.
@@ -140,3 +185,46 @@ shell:My Music
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-pro-video-essentials-selecting-superior-camera-lenses/"><u>[New] 2024 Approved  Pro Video Essentials  Selecting Superior Camera Lenses</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-scripters-toolbox/"><u>[New] 2024 Approved  Scripter's Toolbox</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-discover-the-leading-free-screen-recording-tools-for-mac-os/"><u>[New] Discover the Leading Free Screen Recording Tools for Mac OS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-10-best-apps-for-editing-igtv-vertical-videos/"><u>[New] In 2024, 10 Best Apps for Editing IGTV Vertical Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/imicking-masterpieces-crafting-successful-parodies/"><u>[New] Mimicking Masterpieces  Crafting Successful Parodies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-combining-youtube-harmonies-in-moving-images/"><u>2024 Approved  Combining YouTube Harmonies in Moving Images</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-ultimate-guide-to-video-monetization-dailymotion-vs-youtube/"><u>2024 Approved  The Ultimate Guide to Video Monetization  Dailymotion Vs. YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-ae-scripting-tools-and-plug-ins/"><u>2024 Approved  Top AE Scripting Tools & Plug-Ins</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/5-must-consider-features-that-will-guide-you-to-the-right-smartwatch/"><u>5 Must-Consider Features That Will Guide You to the Right Smartwatch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-tutorial-on-recovering-missed-communications-on-phones/"><u>A Comprehensive Tutorial on Recovering Missed Communications on Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/access-roku-content-from-your-browser-skip-roku-hardware/"><u>Access Roku Content From Your Browser, Skip Roku Hardware!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/chromebook-not-responding-try-these-8-troubleshooting-tips/"><u>Chromebook Not Responding? Try These 8 Troubleshooting Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/determining-the-active-period-for-your-mailcom-email-address/"><u>Determining the Active Period for Your Mail.com Email Address</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-4-key-applications-for-following-twitter-hashtags-successfully/"><u>Discover the 4 Key Applications for Following Twitter Hashtags Successfully</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoying-roku-channels-even-if-you-dont-have-a-roku-player-tips-and-tricks/"><u>Enjoying Roku Channels Even If You Don't Have a Roku Player: Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-top-free-video-conferencing-apps-of-2nndy-four-alternatives-to-skype/"><u>Explore Top Free Video Conferencing Apps of 2Nndy Four - Alternatives To Skype</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-problem-of-failed-window-11-closures-a-step-by-step-guide/"><u>Fixing the Problem of Failed Window 11 Closures - A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-movie-marathon-discover-the-world-of-entertainment-with-crackle/"><u>Free Movie Marathon: Discover the World of Entertainment with Crackle</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-access-and-use-snapchat-on-a-personal-computer-efficiently/"><u>How to Access and Use Snapchat on a Personal Computer Efficiently</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-determine-your-macbooks-operating-temperature-a-comprehensive-guide/"><u>How to Determine Your MacBook’s Operating Temperature: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-magic-5-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-merge-playlists-on-spotify/"><u>How to Merge Playlists on Spotify</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-realme-narzo-60-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Realme Narzo 60 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-selfie-photography-a-six-step-process-for-picking-a-winning-stick/"><u>Mastering Selfie Photography: A Six-Step Process for Picking a Winning Stick</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-handling-502-bad-gateway-errors-tips-and-tricks-for-smoother-web-navigation/"><u>Mastering the Art of Handling 502 Bad Gateway Errors: Tips and Tricks for Smoother Web Navigation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-tv-purchase-a-comprehensive-guide-to-enhancing-your-home-viewing-experience/"><u>Navigating TV Purchase: A Comprehensive Guide to Enhancing Your Home Viewing Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/picture-by-picture-insta-gallery-for-2024/"><u>Picture by Picture Insta Gallery for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/quick-shift-video-techniques-mastering-transitions-for-2024/"><u>Quick-Shift Video Techniques  Mastering Transitions for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-visuals-upgrading-photo-skills-on-apple-devices/"><u>Revolutionize Your Visuals: Upgrading Photo Skills on Apple Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/save-big-premier-tech-discounts-for-amazon-prime-day-shoppers/"><u>Save Big: Premier Tech Discounts for Amazon Prime Day Shoppers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamline-your-getaways-using-these-8-exceptional-mobile-planning-tools-for-nomads/"><u>Streamline Your Getaways Using These 8 Exceptional Mobile Planning Tools for Nomads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-step-by-step-process-to-configure-almost-any-preference-in-gmail/"><u>The Step-by-Step Process to Configure Almost Any Preference in Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-tips-for-speeding-up-your-sluggish-internet/"><u>Top Tips for Speeding Up Your Sluggish Internet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-the-dark-display-issue-on-your-android-device/"><u>Troubleshooting Steps: Resolving the Dark Display Issue on Your Android Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-fun-learning-9-fabulous-places-to-find-free-games-for-tots/"><u>Unlock Fun Learning: 9 Fabulous Places to Find FREE Games for Tots</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-final-cut-pro-x-troubleshooting-handbook-fixing-common-issues/"><u>Updated 2024 Approved Final Cut Pro X Troubleshooting Handbook Fixing Common Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-11-nightmare-unraveled-proven-solutions-to-tackle-the-ominous-black-screen-fault/"><u>Windows 11 Nightmare Unraveled: Proven Solutions to Tackle the Ominous Black Screen Fault</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-against-fortnite-freezes-advanced-strategies-to-optimize-gameplay/"><u>Winning Against Fortnite Freezes: Advanced Strategies to Optimize Gameplay</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-spark-20-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Spark 20 Pro | Dr.fone</u></a></li>
+</ul></div>
