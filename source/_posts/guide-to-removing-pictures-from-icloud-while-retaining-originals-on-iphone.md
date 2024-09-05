@@ -1,7 +1,7 @@
 ---
 title: Guide to Removing Pictures From iCloud While Retaining Originals on iPhone
-date: 2024-08-30T13:51:08.241Z
-updated: 2024-08-31T13:51:08.241Z
+date: 2024-09-04T00:49:00.542Z
+updated: 2024-09-05T00:49:00.542Z
 categories:
   - BestProducts
 description: This Article Describes Guide to Removing Pictures From iCloud While Retaining Originals on iPhone
@@ -32,7 +32,10 @@ thumbnail: https://www.lifewire.com/thmb/9LqIRdp8th77_9ZVGFOZVVFl7FE=/400x300/fi
 4. Now, you can delete photos from iCloud without removing them automatically from the iPhone. Follow the same steps to turn off iCloud syncing for any other Apple device.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Delete Photos From iCloud While Keeping Them on the iPhone
 
@@ -43,17 +46,26 @@ thumbnail: https://www.lifewire.com/thmb/9LqIRdp8th77_9ZVGFOZVVFl7FE=/400x300/fi
 ![Photos in iCloud](https://www.lifewire.com/thmb/qE3HFTnz0S_6mVd-058Kb_p1fUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_delete-photos-from-icloud-5218812-802b8709be6546279b3c1d8a9caae9e9.jpg)
 3. Press the**Ctrl** (Windows) or**Command** (macOS) key on your keyboard and select the photos you want to delete.  
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Selected photo in iCloud Photos](https://www.lifewire.com/thmb/EVp2jB02DvehpdfiEiH_oigpMW0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_delete-photos-from-icloud-5218812-70d5dc6315c24376af07a234b8e76203.jpg)
 4. Select the**Delete** (trash can) icon to delete the selected photos.
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5. The photos will be deleted from iCloud. With iCloud Photos turned off on your device, the photos in the iPhone's Photos library will not be affected.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Tip
 
@@ -62,7 +74,10 @@ thumbnail: https://www.lifewire.com/thmb/9LqIRdp8th77_9ZVGFOZVVFl7FE=/400x300/fi
 [How to Mass Delete Images and Photos in Bulk on iPhone, iPad](https://www.lifewire.com/bulk-delete-images-iphone-ipad-2740750)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Understanding the 'Optimize iPhone Storage' Setting
 

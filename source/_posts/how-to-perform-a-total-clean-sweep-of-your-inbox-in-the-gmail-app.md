@@ -1,7 +1,7 @@
 ---
 title: How to Perform a Total Clean Sweep of Your Inbox in the Gmail App
-date: 2024-08-30T13:53:13.962Z
-updated: 2024-08-31T13:53:13.962Z
+date: 2024-09-04T00:48:58.746Z
+updated: 2024-09-05T00:48:58.746Z
 categories:
   - BestProducts
 description: This Article Describes How to Perform a Total Clean Sweep of Your Inbox in the Gmail App
@@ -33,14 +33,26 @@ thumbnail: https://www.lifewire.com/thmb/b7LvjRLIfI3iLMrcimmC6cevruA=/400x300/fi
  If you're not interested in fixing this problem yourself, see[How Do I Get My Computer Fixed?](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) for a full list of your support options, plus help with everything along the way like figuring out repair costs, getting your files off, choosing a repair service, and a lot more.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="150" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Causes of D3dx9\_28.dll Errors
 
 ![D3dx9_28 DLL error message in Windows](https://www.lifewire.com/thmb/4lXiq7qPMh6UJ0GmonNi9HO--Uo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d3dx9-28-dll-error-message-39cb649ef848499cac4a704ee7a6982c.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Unlike many other[DLL](https://www.lifewire.com/what-is-a-dll-file-2625852) errors which can have complicated causes and fixes, d3dx9\_28.dll issues are caused in one way or another by a single issue: a problem with Microsoft DirectX.
 

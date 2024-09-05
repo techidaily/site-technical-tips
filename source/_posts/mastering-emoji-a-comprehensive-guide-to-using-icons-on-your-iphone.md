@@ -1,7 +1,7 @@
 ---
 title: "Mastering Emoji: A Comprehensive Guide to Using Icons on Your iPhone"
-date: 2024-08-30T13:52:05.139Z
-updated: 2024-08-31T13:52:05.139Z
+date: 2024-09-04T00:48:59.770Z
+updated: 2024-09-05T00:48:59.770Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Emoji: A Comprehensive Guide to Using Icons on Your iPhone"
@@ -33,7 +33,10 @@ thumbnail: https://thmb.techidaily.com/8484759aac0f2217a1c47e166f9703590835bee64
  When you want to return to your regular keyboard, just tap the tiny globe again, and it whisks you back to the alpha-numerical keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What Does 'Emoji' Mean?
 
@@ -44,7 +47,10 @@ thumbnail: https://thmb.techidaily.com/8484759aac0f2217a1c47e166f9703590835bee64
  Many of the emoji images have been adopted into the global computer text-coding standard known as Unicode. The[Unicode Consortium](http://unicode.org/) , the group that maintains the Unicode standard, adopted a whole new set of emoticons as part of an updated Unicode standard in 2014\. You can see examples of popular emoticons on the[EmojiTracker website](http://www.emojitracker.com/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Emoji Keyboard Apps
 

@@ -1,0 +1,210 @@
+---
+title: "Chromecast Enhancement: A Step-by-Step Guide to Updating"
+date: 2024-09-04T00:49:55.312Z
+updated: 2024-09-05T00:49:55.312Z
+categories:
+  - BestProducts
+description: "This Article Describes Chromecast Enhancement: A Step-by-Step Guide to Updating"
+excerpt: "This Article Describes Chromecast Enhancement: A Step-by-Step Guide to Updating"
+thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb071407495f0911dc7de431c6c41.jpg
+---
+
+## No More Distractions: A Step-By-Step Guide to Blocking Unwanted SMS on iPhone
+### What To Know
+
+* To block text messages, tap the text > icon or number >**Info** \>**Block Caller** \>**Block Contact** .
+* To filter messages from unknown senders into a folder, tap**Settings** \>**Messages** \> move**Filter Unknown Senders** to on/green.
+* To mute or leave a group text, go to the conversation > icons or name >**Hide Alerts** or**Delete and Block this Conversation** /**Leave This Conversation** .
+
+ This article provides methods to stop unwanted texts on an iPhone. These instructions apply to the iPhone's built-in Messages app and not third-party tools.  
+
+## How to Stop Unwanted Political Text Messages on an iPhone
+
+ Once political groups or campaigns have your phone number, it's very hard to[stop unwanted political text messages](https://www.lifewire.com/how-to-stop-political-texts-4691829) . That's because organizations share supporters' numbers with each other (or even sell them). The best you can do is to opt out of these texts when you get them to take you off of a group or campaign list. However, this option won't stop others who have your number.
+
+ Most of these texts tell you at the end of the message how to stop receiving them. The most common responses to stop unwanted political texts are**Stop** ,**Opt-Out** ,**Unsubscribe** ,**Cancel** , or**Quit** .
+
+ Reply to the message with the suggested option—if there isn't one, Stop is the best thing to try—and you should be unsubscribed.
+
+## How to Block Text Messages on iPhone
+
+ No matter how many unwanted texts you're getting, we've got good news: it's easy to[block text messages on iPhone](https://www.lifewire.com/block-text-messages-every-phone-and-carrier-4172380) . Here's how to use the free, simple built-in feature:
+
+1. In Messages, tap a text from the sender you want to block.
+2. Tap the sender's icon at the top.
+3. Select**Info** .  
+![A texter's icon and the info button on an iPhone](https://www.lifewire.com/thmb/P75NPpBTK_0vlrHu03pBRw_tAAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Icon-and-Info-844223a1fe094d1dbed1b2c012e11592.jpg)
+4. Tap**Block Caller** .
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+5. In the confirmation pop up, tap**Block Contact** .  
+![A caller info screen with the Block Caller and Block Contact options highlighted](https://www.lifewire.com/thmb/ahanpniveoIJjKlwY-anZVzDqOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Block-Caller-options-iPhone-3736febbadac40f7bbc9288793690309.jpg)
+
+ To unblock a contact and get their texts again, go to**Settings** \>**Messages** \>**Blocked Contacts** \> swipe right to left across contact >**Unblock** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Stop Unwanted Text Messages on iPhone By Filtering Unknown Senders
+
+ For various reasons, you may not want to delete every text from an unknown number or person. For instance, you can miss order and appointment confirmation texts if you do. In that case, your iPhone can automatically file texts from unknown senders into a separate folder so you can review them when you have time without them cluttering up your main inbox.
+
+ Here's what to do:
+
+1. Tap**Settings** .
+2. Tap**Messages** .
+3. Move the**Filter Unknown Senders** slider to on/green.  
+![The Settings app, Messages heading, and "Filter Unknown Senders" option on an iPhone](https://www.lifewire.com/thmb/lCnQVucvmXcKMmnaksO8lqPmQJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Filter-Unknown-Texts-ab03750ad3b2433fa5837828629871fc.jpg)
+4. To see your filtered text messages, tap the arrow in the top left-corner until you get to the main Messages screen.
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="540" height="960" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+5. Tap**Unknown Senders** to view all texts from numbers not in your contacts.  
+![The back button and "Unknown Senders" folder in Messages on an iPhone](https://www.lifewire.com/thmb/lyjFQaH6CejDFydiYQ4jJ9dyv2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Messages-filters-a02cdd8bbb4d48f7b705d997f0567522.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Stop Unwanted Group Texts on an iPhone
+
+ If you're in a[group text](https://www.lifewire.com/text-multiple-people-using-iphone-2000555) that's just too chatty, you can silence notifications of messages or leave the group entirely by following these steps
+
+1. In the group text, tap the name of the group text or the icons of the people in it at the top of the screen.
+2. To stay in the group text without receiving notifications when new messages come in, move the**Hide Alerts** slider to on/green.
+3. To completely leave the group text, there are two paths.  
+ If there is a mix of iPhones and Android phones in that chat (you'll know because the message bubbles will be green), tap**Delete and Block this Conversation,** and then tap the confirmation pop-up.  
+ If everyone has an iPhone (blue message bubbles) and the chat has more than three other people in it, tap**Leave This Conversation** and then tap the confirmation pop-up.  
+![A group chat on an iPhone with the name of the chat, the "Hide Alerts" option, and the "Leave this Conversation" commands highlighted](https://www.lifewire.com/thmb/HQ28TmHbL1M_I1yxXgoej2uiqFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Group-Text-options-1eb1d9e175f1471ea3a04ef674873699.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Change your mind and want to rejoin the group text? You can ask one of the other people in the chat to add you back. Or, if the thread has both iPhone and Android users and it's been less than 30 days since you left, tap the arrow in the top left until you get to the main Messages screen >**Recently Deleted** \> tap the thread >**Recover** .
+
+## Block Texts With the Do Not Call Registry
+
+ Another place to stop annoying communications to your phone is the National Do Not Call Registry. This government program attempts to enforce your preference to not get unwanted calls from marketers and other potential annoyances in the United States.
+
+ It doesn't block calls, and it only works for businesses that follow the law—also, the registry is technically for phone calls, not texts—but it's free, quick, easy, and could help reduce unwanted texts.
+
+[Enroll your phone number with the Do Not Call registry](https://www.donotcall.gov/)
+
+ Are spam texts a particular problem? Check out our tips on[how to block spam texts](https://www.lifewire.com/stop-spam-texts-5071316) .
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-fan-to-earner-understanding-view-requirements/"><u>[New] 2024 Approved  From Fan to Earner  Understanding View Requirements</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-maximizing-your-reach-with-snapchat-highlights/"><u>[New] In 2024, Maximizing Your Reach with Snapchat Highlights</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-perfecting-audio-quality-a-no-mic-approach/"><u>[New] Perfecting Audio Quality  A No-Mic Approach</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1717705367145-new-photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits-for-2024/"><u>[New] Photography Tutorial_ How to Shoot and Create Impressive HDR Portraits for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-shoot-exceptional-igtv-video-content-with-mobile-and-professional-cameras/"><u>[New] Shoot Exceptional IGTV Video Content with Mobile & Professional Cameras</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-what-you-should-expect-to-make-as-a-podcaster/"><u>[Updated] 2024 Approved  What You Should Expect to Make as a Podcaster</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-6-figure-views-prime-hashtag-strategies-for-success-for-2024/"><u>[Updated] 6-Figure Views  Prime Hashtag Strategies for Success for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ffmpeg-review-upholding-authentic-audio-formats-for-2024/"><u>[Updated] FFmpeg Review  Upholding Authentic Audio Formats for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elevate-video-experience-ranking-the-best-12-players/"><u>2024 Approved  Elevate Video Experience  Ranking the Best 12 Players</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-in-depth-guide-to-capturing-and-enhancing-ps4-gaming/"><u>2024 Approved  In-Depth Guide to Capturing and Enhancing PS4 Gaming</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-share-your-vids-youtube-to-insta-stories/"><u>2024 Approved  Share Your Vids  YouTube to Insta-Stories</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/beauty-blogging-101-starting-up-as-an-aesthetic-vlogger-for-2024/"><u>Beauty Blogging 101  Starting Up as an Aesthetic Vlogger for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/can-you-boost-your-pcs-speed-learn-how-to-assess-ram-upgrade-potential-in-windows-computers/"><u>Can You Boost Your PC’s Speed? Learn How to Assess RAM Upgrade Potential in Windows Computers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-mg3022-driver-download-and-update/"><u>Canon MG3022 Driver Download & Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/celebrate-independence-day-with-urban-armor-get-sitewide-savings-up-to-20/"><u>Celebrate Independence Day with Urban Armor - Get Sitewide Savings up to 20%%</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-your-stored-wireless-network-secrets-a-guide-to-finding-hidden-wi-fi-passwords-in-windows-11/"><u>Discovering Your Stored Wireless Network Secrets: A Guide to Finding Hidden Wi-Fi Passwords in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-guide-adding-your-site-to-the-windows-11-taskbar-and-start-menu/"><u>Easy Guide: Adding Your Site to the Windows 11 Taskbar & Start Menu</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/embracing-the-unseen-wave-the-true-impact-of-ai-revolution/"><u>Embracing the Unseen Wave: The True Impact of AI Revolution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-gaming-experience-streaming-pc-games-to-tv-using-a-steam-deck-dock/"><u>Enhance Your Gaming Experience: Streaming PC Games to TV Using a Steam Deck Dock</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-enhanced-browsing-introducing-the-latest-arc-browser-for-windows-10-users/"><u>Experience Enhanced Browsing: Introducing the Latest Arc Browser for Windows 10 Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-downloading-of-films-on-your-apple-tablet-ipad-mini-air-and-pro-for-offline-viewing/"><u>Free Downloading of Films on Your Apple Tablet (iPad Mini, Air & Pro) for Offline Viewing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-skepticism-to-success-uncover-the-truth-behind-common-fears-of-embracing-linux-over-windows/"><u>From Skepticism to Success: Uncover the Truth Behind Common Fears of Embracing Linux Over Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-activating-and-deactivating-security-sign-in-feature-in-windows-11/"><u>Guide: Activating and Deactivating Security Sign-In Feature in Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correct-keyboard-malfunctions-with-misentered-letters-in-windows-11-a-comprehensive-guide/"><u>How to Correct Keyboard Malfunctions with Misentered Letters in Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oneplus-11-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror OnePlus 11 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Phone FRP Lock</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-window-11-browsing-with-these-6-essential-techniques-to-upgrade-your-search-game/"><u>Maximize Window 11 Browsing with These 6 Essential Techniques to Upgrade Your Search Game</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/microsoft-targets-clarity-resolving-chromes-fuzzy-font-issue-on-windows/"><u>Microsoft Targets Clarity: Resolving Chrome's Fuzzy Font Issue on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/notetaking-mastery-how-humble-notepad-reigns-as-my-top-pick-among-windows-utilities/"><u>Notetaking Mastery: How 'Humble Notepad' Reigns as My Top Pick Among Windows Utilities</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/score-big-savings-on-must-have-tech-gadgets-featuring-macbook-air-discounts-viral-style-backpacks-and-premium-webcams/"><u>Score Big Savings on Must-Have Tech Gadgets! Featuring MacBook Air Discounts, Viral Style Backpacks & Premium Webcams</u></a></li>
+<li><a href="https://techidaily.com/security-breach-reveals-potential-risk-for-cooler-master-users-private-details/"><u>Security Breach Reveals Potential Risk for Cooler Master Users' Private Details</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-creating-data-discs-with-windows-11/"><u>Step-by-Step Guide: Creating Data Discs with Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-discovering-your-pcs-name-on-windows-10/"><u>Step-by-Step Guide: Discovering Your PC's Name on Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-renaming-your-account-in-windows-11/"><u>Step-by-Step Guide: Renaming Your Account in Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-realme-gt-neo-5-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Realme GT Neo 5 Phone Pattern Lock</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-android-experience-mastering-chatgpt-as-a-personal-android-assistant/"><u>Transform Your Android Experience: Mastering ChatGPT as a Personal Android Assistant</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-your-windows-computers-sudden-reboots-uncover-the-culprits-behind-these-8-issues/"><u>Troubleshooting Your Windows Computer's Sudden Reboots: Uncover the Culprits Behind These 8 Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-potential-of-ai-5-key-methods-for-crafting-superior-prompts/"><u>Unlock the Potential of AI: 5 Key Methods for Crafting Superior Prompts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-your-creativity-with-lensa-master-the-art-of-digital-portraits/"><u>Unlock Your Creativity with Lensa: Master the Art of Digital Portraits</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-potential-of-ethereum-20-a-solution-to-cryptocurrency-challenges/"><u>Unlocking the Potential of Ethereum 2.0: A Solution to Cryptocurrency Challenges</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-leading-innovations-at-ces-2n-2024-acknowledged-by-how-to-geek-awards/"><u>Unveiling the Leading Innovations at CES 2N 2024 - Acknowledged by How-To Geek Awards</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-mystery-the-vanishing-of-celsius-a-cryptocurrency-borrowing-platform/"><u>Unveiling the Mystery: The Vanishing of Celsius - A Cryptocurrency Borrowing Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrade-the-comfort-of-your-apple-vision-pro-with-easy-diy-adjustments/"><u>Upgrade the Comfort of Your Apple Vision Pro with Easy DIY Adjustments!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/vision-pros-mlb-app-the-ultimate-experience-in-watching-your-beloved-baseball-games/"><u>Vision Pro's MLB App: The Ultimate Experience in Watching Your Beloved Baseball Games</u></a></li>
+</ul></div>
