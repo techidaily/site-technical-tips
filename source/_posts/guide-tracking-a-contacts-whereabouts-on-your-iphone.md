@@ -1,0 +1,144 @@
+---
+title: "Guide: Tracking a Contact's Whereabouts on Your iPhone"
+date: 2024-09-09T13:34:11.258Z
+updated: 2024-09-10T13:34:11.258Z
+categories:
+  - BestProducts
+description: "This Article Describes Guide: Tracking a Contact's Whereabouts on Your iPhone"
+excerpt: "This Article Describes Guide: Tracking a Contact's Whereabouts on Your iPhone"
+thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a85122e6caa68a425ef40bc26.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Discovering Mobile Tracking Techniques on iOS Devices - Find Out Whereabouts
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### What to Know
+
+* The easiest way to track someone with the iPhone is to use the Find My app that's pre-installed on most recent iPhones.
+* To find and be found using the Find My, you'll need to enable**Share My Location** with your friends.
+* Once enabled, you can track your friends and family (who consent) on a map, and they can track you.
+
+ The article provides instructions for how to see someone on your iPhone after you've gained their permission so that you can keep track of someone or know when you and your friends are nearby the same locations.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How Can I Check Someone's Location on iPhone?
+
+ The easiest way to check someone's location on iPhone is to use the Find My app. However, in order to use this app, you first need to enable Start Sharing Location, and your friends need to consent to be found using the app. Here's how to go about doing so.
+
+ While there are some third-party apps to track people's location without their knowledge,**Lifewire does not recommend using them** , even for family members and children. If you plan to track someone's location, they should know that you plan to, and if they are adults, you should have their permission to before you begin tracking them.
+
+1. Open Find My on your iPhone and tap the**People** tab.
+2. If you've never used Find My for people before, you'll be prompted to**Start Sharing Location** . Tap that option.
+3. Select someone from your contact list to share your location with and then tap**Send** .  
+![Screenshots showing how to send someone an invitation to connect on Find My.](https://www.lifewire.com/thmb/IVNr_hpQ1kA63vLb9ZxXj0EdoT4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Track_People_iPhone-cd53906d4aac4906ae7974ec7772b7a6.jpg)
+4. Once the invitation has been sent, then you can tap that person's name to see details about them. If you're not already following them scroll down and tap**Ask to Follow Location** . An invitation will be sent, and once the contact accepts it, you will be able to see their location (as long as they have locations turned on).  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ You must share your location with the person you want to follow before you can send them a request to follow them.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How Can You See Someone's Location in the Find My App?
+
+ Once you've got Find My for people set up on your iPhone, it's easy to see someone's location. Just open the**Find My** app, go to the**People** tab, and tap the name of the person you want to see. If that person has location services turned on, their location should show on a map, and from there, you can tap**Directions** to get directions to their exact location.
+
+ You can also tap**Notifications** to set up a notification for the next time that person**Arrives** ,**Leaves** , or**Is Not At** a specific location (this is sometimes referred to as a geofence). You can set the frequency of those notifications, too.
+
+ FAQ
+
+* How do I see my location history on an iPhone?  
+ To find your location history, on an iPhone, open **Settings** and tap**Privacy** \> **Location Services** \> **System Services** . Scroll down and tap**Significant Locations** , then view your location history.
+* Why can't I see my friend's location on an iPhone?  
+ There are several reasons why you may not be able to view a friend's location. First, if that friend hasn't agreed to share their location with you, you won't be able to see their location via Find My iPhone. If they are sharing their location with you, it's possible their phone is turned off, isn't connected to cellular or Wi-Fi, or their device has the wrong date. The friend may be in a location without service. They also may have enabled**Hide My Location** in Find My iPhone. There may be a problem with your phone, as well. Check your GPS, and try exiting out of the Find My app, then launching it again.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-videography-with-top-seo-gadgets/"><u>[New] 2024 Approved Elevate Your Videography with Top SEO Gadgets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-blueprint-of-writing-appealing-vlog-storylines/"><u>[New] The Blueprint of Writing Appealing Vlog Storylines</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-step-by-step-guide-exploring-every-nook-and-cranny-of-stardew-valley-particularly-ginger-island/"><u>[Updated] Step-by-Step Guide Exploring Every Nook and Cranny of Stardew Valley, Particularly Ginger Island</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-pathway-to-professional-looking-animated-gifs-online/"><u>[Updated] Your Pathway to Professional-Looking Animated GIFs Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-future-of-photography-at-your-fingertips-with-samsung/"><u>2024 Approved The Future of Photography at Your Fingertips with Samsung</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-fixing-the-tracking-difficulties-on-a-magic-mouse/"><u>A Step-by-Step Guide: Fixing The Tracking Difficulties on a Magic Mouse</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-website-insights-with-smart-cookiebot-technology/"><u>Boost Website Insights with Smart Cookiebot Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bring-tiktok-content-to-life-on-your-hdtv-the-ultimate-how-to/"><u>Bring TikTok Content To Life On Your HDTV – The Ultimate How-To</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/combining-your-fortnite-profiles-a-step-by-step-guide/"><u>Combining Your Fortnite Profiles: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-compilation-of-playstation-5s-unique-game-titles/"><u>Complete Compilation of PlayStation 5'S Unique Game Titles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cracking-down-on-counterfeit-connections-the-art-of-identifying-inauthentic-friend-requests-online/"><u>Cracking Down on Counterfeit Connections: The Art of Identifying Inauthentic Friend Requests Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/defeating-hidden-callers-effective-strategies-for-ios-users/"><u>Defeating Hidden Callers: Effective Strategies for iOS Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-hdcp-problems-comprehensive-fixes-for-optimal-performance/"><u>Demystifying HDCP Problems: Comprehensive Fixes for Optimal Performance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-the-free-h264-encoder-enhance-your-hd-videos-with-this-essential-codec/"><u>Download the Free H.264 Encoder: Enhance Your HD Videos with This Essential Codec</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-solutions-to-correct-the-missing-opengl32dll-file-problem/"><u>Easy Solutions to Correct the Missing OpenGL32.dll File Problem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-guide-to-default-administrator-credentials-on-d-link-devices-latest-update-from-july-2024/"><u>Essential Guide to Default Administrator Credentials on D-Link Devices - Latest Update From July 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-ipad-bargains-await-grab-them-before-theyre-gone/"><u>Exclusive iPad Bargains Await - Grab Them Before They're Gone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expand-your-visual-workspace-a-step-by-step-tutorial-for-adding-three-monitors/"><u>Expand Your Visual Workspace: A Step-by-Step Tutorial for Adding Three Monitors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-cutting-edge-computing-equipment-by-toms-experts/"><u>Expert Analysis of Cutting-Edge Computing Equipment by Tom's Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-hacks-unlock-these-18-features-in-apples-shortcuts-app/"><u>Expert Hacks: Unlock These 18 Features in Apple's Shortcuts App</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-essential-pick-for-retro-gaming-top-5-android-tools-for-ps2-titles/"><u>In 2024, Essential Pick for Retro Gaming Top 5 Android Tools for PS2 Titles</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-instant-social-interaction-tweetplusfb-guide/"><u>In 2024, Instant Social Interaction Tweet+FB Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-latest-on-youtube-ad-income-guidelines/"><u>In 2024, The Latest on YouTube Ad Income Guidelines</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-google-pixel-fold-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Google Pixel Fold Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-zte-axon-40-lite-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your ZTE Axon 40 Lite Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-multi-bluetooth-setup-linking-several-speakers-to-a-single-device/"><u>Mastering Multi-Bluetooth Setup: Linking Several Speakers to a Single Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-ios-update-process-with-expert-tips-and-tricks/"><u>Navigating the iOS Update Process with Expert Tips and Tricks</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/rediscovering-languages-first-steps/"><u>Rediscovering Language's First Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resetting-made-easy-a-step-by-step-tutorial-for-samsung-tv-owners/"><u>Resetting Made Easy: A Step-by-Step Tutorial for Samsung TV Owners</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/retrieve-deleted-ios-notifications-with-these-easy-steps/"><u>Retrieve Deleted iOS Notifications with These Easy Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-configuring-automatic-user-sign-in-on-your-windows-pc/"><u>Step-by-Step Guide: Configuring Automatic User Sign In on Your Windows PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-strategies-to-capture-stunning-pics-with-iphone-and-ipad/"><u>Step-by-Step Strategies to Capture Stunning Pics with iPhone & iPad</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tackling-netflix-troubles-effective-fixes-for-error-nw-1-19-revealed/"><u>Tackling Netflix Troubles: Effective Fixes for Error NW-1-19 Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-missing-wlanapidll-file-on-your-pc/"><u>Troubleshooting the Missing wlanAPI.dll File on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-the-notorious-blue-screen-of-death/"><u>Ultimate Guide: Resolving the Notorious Blue Screen of Death</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-isnt-my-youtube-working-exploring-potential-issues-and-fixes/"><u>Why Isn't My YouTube Working? Exploring Potential Issues and Fixes</u></a></li>
+</ul></div>

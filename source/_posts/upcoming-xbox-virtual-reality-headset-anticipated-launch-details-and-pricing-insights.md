@@ -1,7 +1,7 @@
 ---
 title: Upcoming Xbox Virtual Reality Headset - Anticipated Launch Details & Pricing Insights
-date: 2024-09-04T01:00:51.063Z
-updated: 2024-09-05T01:00:51.063Z
+date: 2024-09-09T13:27:46.285Z
+updated: 2024-09-10T13:27:46.285Z
 categories:
   - BestProducts
 description: This Article Describes Upcoming Xbox Virtual Reality Headset - Anticipated Launch Details & Pricing Insights
@@ -9,6 +9,12 @@ excerpt: This Article Describes Upcoming Xbox Virtual Reality Headset - Anticipa
 thumbnail: https://www.lifewire.com/thmb/N5JaDVaX6Ht6yhfag2SfjJUOUqI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Meta-Quest-3-Xbox-Logo-a35fa8ae89a5456cb36f4554bf5daf62.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Upcoming Xbox Virtual Reality Headset - Anticipated Launch Details & Pricing Insights
 
  In This Article 
@@ -22,6 +28,12 @@ thumbnail: https://www.lifewire.com/thmb/N5JaDVaX6Ht6yhfag2SfjJUOUqI=/400x300/fi
 
  The Xbox VR Headset is in the works. It's the first confirmed third-party headset built on Meta's open-source Meta Horizon OS, now open to and in use by other tech companies—including Asus, Lenovo, and ROG. Beyond a[ confirmation from Meta](https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/) about a "limited-edition Meta Quest, inspired by Xbox," details are slim. But here's what we know and speculate about this first-ever VR Headset for Xbox.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  When Will the Xbox VR Headset Be Released? 
 
  The Xbox VR Headset release date hasn’t been announced yet, but judging by the announcements of the Meta Quest 2, Meta Quest Pro, and Meta Quest 3, we think it’s safe to expect an October release of the VR Headset for Xbox.
@@ -36,43 +48,25 @@ thumbnail: https://www.lifewire.com/thmb/N5JaDVaX6Ht6yhfag2SfjJUOUqI=/400x300/fi
 
  An early October 2024 Xbox VR Headset release date is a fair bet based on past Meta Quest releases.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Xbox VR Headset Price Rumors 
 
  Pricing information isn’t yet circulating, but we’ll make sure it lands here as soon as there’s more chatter or official word.
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Pre-Order Information 
 
  No pre-order details for the Xbox VR Headset are available at this point, though we know it’s billed as a limited-edition model. As soon as we learn more, we’ll update this story with details.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Xbox VR Headset Features 
 
@@ -89,10 +83,10 @@ Meta
 * **Game Pass and Xbox controller** : In an Instagram stream announcing Meta Horizon OS, Mark Zuckerberg also alluded to the inclusion of[ Game Pass](https://www.lifewire.com/xbox-game-pass-4178809) and an Xbox controller shipped with Xbox Horizon OS headsets.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Xbox VR Headset Specs and Hardware 
 
@@ -106,27 +100,15 @@ Meta
 
 ![](https://www.lifewire.com/data:image/svg+xml,%3Csvg width=%273000%27 height=%271000%27 xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E) ![Patent sketches for a Microsoft mixed-reality headset](https://www.lifewire.com/thmb/5-feBQK2PypVrm-2Vb0Dnc5tXUU=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Patent-Sketches-Microsoft-Headset-1fce31ef622f4dda9d9b741cf8446fa3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  PHOTO:
 
 Microsoft / USPTO
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Latest News About the Xbox VR Headset 
 

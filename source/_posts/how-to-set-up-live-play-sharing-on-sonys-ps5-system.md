@@ -1,7 +1,7 @@
 ---
 title: How to Set Up Live Play-Sharing on Sony's PS5 System
-date: 2024-09-04T01:02:41.705Z
-updated: 2024-09-05T01:02:41.705Z
+date: 2024-09-09T13:27:44.847Z
+updated: 2024-09-10T13:27:44.847Z
 categories:
   - BestProducts
 description: This Article Describes How to Set Up Live Play-Sharing on Sony's PS5 System
@@ -9,17 +9,41 @@ excerpt: This Article Describes How to Set Up Live Play-Sharing on Sony's PS5 Sy
 thumbnail: https://www.lifewire.com/thmb/_tS2_WO1_x_z6Ona-SkdNjeT2zQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-share-play-ps5-b769f171ceea4710beb6433e0701aa13.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Managing Your iPhone's Native Apps: Can You Delete Them? Here's What You Need to Know
  Most of the apps that come pre-installed on every iPhone are useful. From Music to Calendar, Camera to Phone and beyond, they're great apps for what most people want to do. But there are more apps that come pre-installed on every iPhone—like Compass, Calculator, Reminders, Tips, and others—that many people never use.
 
  Why show apps on your phone if you don't use them, especially if you're running out of[storage space](https://www.lifewire.com/update-iphone-with-low-storage-4125574) on your phone? In that case, you may have wondered if you can delete the built-in apps that come with your iPhone. The short answer is yes.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Deleting Pre-Installed Apps Depends on Your Operating System
 
  Starting with[iOS 10](https://www.lifewire.com/fantastic-features-ios-10-4053166) , users could delete pre-installed apps.
 
  With iOS 14 and higher, the number of removable Apple apps doesn't expand, but users can also choose to hide them from the home screen rather than delete them.
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Delete Pre-Installed Apps
 
  To[delete built-in iPhone apps](https://www.lifewire.com/delete-apps-from-iphone-2000648) in iOS 14 and up, you can remove an app from the App Library by holding it and selecting**Delete App** \>**Delete** .
@@ -47,16 +71,16 @@ thumbnail: https://www.lifewire.com/thmb/_tS2_WO1_x_z6Ona-SkdNjeT2zQ=/400x300/fi
  Apps for the App Store, Camera, Messages, Phone, Photos, Safari, and Settings are locked in and can't be deleted—though you can hide them.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Hide Pre-installed Apps in iOS 14 and Newer
 
@@ -69,16 +93,10 @@ thumbnail: https://www.lifewire.com/thmb/_tS2_WO1_x_z6Ona-SkdNjeT2zQ=/400x300/fi
  Removing pre-installed apps from your home screen does not actually delete them from your iPhone. They will still be installed, accessible via your iPhone's App Library, and take up storage space.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Hide iPhone Apps Using Restrictions in iOS 9 or Older
 
@@ -96,16 +114,10 @@ thumbnail: https://www.lifewire.com/thmb/_tS2_WO1_x_z6Ona-SkdNjeT2zQ=/400x300/fi
  When the apps are blocked, they'll disappear from the phone as if they've been deleted. In this case, though, you can get them back by turning off restrictions or changing your settings.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Hide iPhone Apps in Folders
 

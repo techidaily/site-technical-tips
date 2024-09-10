@@ -1,0 +1,194 @@
+---
+title: "Upcoming OnePlus 10 Prodigy: Teasers on Specs, Launch Timeline & Market Value"
+date: 2024-09-09T13:33:51.843Z
+updated: 2024-09-10T13:33:51.843Z
+categories:
+  - BestProducts
+description: "This Article Describes Upcoming OnePlus 10 Prodigy: Teasers on Specs, Launch Timeline & Market Value"
+excerpt: "This Article Describes Upcoming OnePlus 10 Prodigy: Teasers on Specs, Launch Timeline & Market Value"
+thumbnail: https://thmb.techidaily.com/c71ce8851536aefe75546ef7e7f6082e2261917107a95dfb8fa865056cdf9989.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Upcoming OnePlus 10 Prodigy: Teasers on Specs, Launch Timeline & Market Value
+
+ The OnePlus 10 Pro was announced in March 2022\. Learn more about this phone, like its 6.7-inch 120Hz AMOLED display, the triple rear camera setup, and exciting new image capturing modes.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## OnePlus 10 Release Date
+
+ The OnePlus 10 Pro was announced at the[OnePlus global launch event on March 31, 2022](https://www.lifewire.com/oneplus-10-pro-5g-launch-event-set-for-march-31-5223438) , which is when it was first open for pre-ordering. The phone became available for purchase in the US April 14\. Visit the[OnePlus 10 Pro 5G](https://www.oneplus.com/oneplus-10-pro) page for details.
+
+ The[OnePlus 10T 5G](https://www.oneplus.com/10t) was revealed on August 3, 2022.  
+
+![OnePlus 10 Pro Emerald Forest](https://www.lifewire.com/thmb/rEGnYzqZ28a6nuU_BN-lw2UjwWM=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/oneplus-10-pro-emerald-forest-green-29244d8eac5643e9af29b1a901e56c07.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ OnePlus 10 Pro (Emerald Forest).
+
+OnePlus
+
+## OnePlus 10 Price
+
+ The OnePlus 10 Pro 5G launched in the US for $900\. The color options include Emerald Forest and Volcanic Black. For reference, the OnePlus 9 is $729, and the 9 Pro is $900.  
+
+## OnePlus 10 Features
+
+[OnePlus details new video shooting features](https://forums.oneplus.com/threads/diving-deep-into-the-oneplus-10-pro-camera.1554663/) in the OnePlus 10 Pro, including one called Movie Mode. "By allowing you to adjust parameters such as white balance, shutter speed, and ISO before and during video capture, this mode gives you full control over your creative process." The company says this mode lets you opt into capturing in LOG format, which is said to make it easier for videographers to color grade their footage.
+
+ There's also a neat Dual-View Video feature that lets you record from both the front and back-facing cameras simultaneously—this is great for capturing your reaction during vlogs. Another feature is Extended Exposure, which lets you capture long exposure shots even if you don't have a tripod.
+
+ More details about this phone's specs are below. It has better battery life than the OnePlus 9, the latest OxygenOS operating system, and a new PRO mode for RAW imaging formats.
+
+ YouTuber Marques Brownlee provides a first look:
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## OnePlus 10 Specs and Hardware
+
+* 2nd-Gen Hasselblad camera with one billion colors.
+* Fast charging with the 5,000 mAh battery.
+* Snapdragon 8 Gen 1 Mobile Platform.
+* AMOLED display with LTPO, a dynamic refresh rate (120Hz to 1Hz), and 1300 nits peak brightness.
+* OxygenOS 12 (based on[Android 12](https://www.lifewire.com/android-12-5184973) ).
+
+ The OnePlus 10 Pro has the same screen size as the OnePlus 9 Pro: 6.7-inch display; however, it comes with just 8 GB of RAM and 128 GB of storage (for the US model). There's a triple rear camera setup, the same as the previous iteration: 48MP primary camera, 8MP telephoto camera, and 50MP ultrawide camera with a maximum 150-degree field of view.
+
+ Some things are improving, however. The 2022 OnePlus provides a bump in megapixels for the selfie camera, from 16MP to 32MP. The European and Indian variants come with 80W fast charging versus the OnePlus 9 Pro's 65W charging. OnePlus says the faster charging lets you power the whole phone through a cord in just over half an hour, or over wireless charging in under 50 minutes.
+
+ It uses with the Snapdragon X65 modem, meaning it supports[5G](https://www.lifewire.com/5g-wireless-4155905) , with maximum download speeds of 10 Gbps. The Snapdragon 8 Gen 1 Qualcomm chipset is said to perform 20% better, with a 30% bump in power efficiency, over the previous iteration.
+
+ The OnePlus 10 Pro has Corning Gorilla Glass Victus protection and is available in two colors: Volcanic Black and Emerald Forest.
+
+![OnePlus 10 Pro Volcanic Black](https://www.lifewire.com/thmb/vdpg6eStvKa-rDn-EwBrtaDNvsw=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Black_PC-4ca0d18a07bc4b51a6113785221e663a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ OnePlus 10 Pro (Volcanic Black).
+
+| OnePlus 10 Pro Specs |                                                                                                                    |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Screen:**          | 6.7" 120Hz curved AMOLED / 20.1:9 aspect ratio / 1440x3216 pixels                                                  |
+| **Dimensions:**      | 163x73.9x8.55mm / 200.5 grams                                                                                      |
+| **RAM:**             | 8 GB                                                                                                               |
+| **Storage:**         | 128 GB                                                                                                             |
+| **Camera:**          | Front: 32MP / Rear: 48MP primary; 8MP 3.3x optical zoom telephoto; 50MP 150-degree ultrawide                       |
+| **Video:**           | 8K recording at 24fps                                                                                              |
+| **Connectivity:**    | 5G, 4G LTE / Wi-Fi 6 / Bluetooth 5.2 / GPS/A-GPS / NFC                                                             |
+| **Sensors:**         | Accelerometer / Ambient light sensor / Gyroscope / Magnetometer / Proximity sensor / In-display fingerprint reader |
+| **Battery:**         | 5000 mAh                                                                                                           |
+| **Charging:**        | 80W (in some markets) wired and 50W wireless fast charging / USB-C port                                            |
+| **OS:**              | OxygenOS 12                                                                                                        |
+| **Colors:**          | Volcanic Black, Emerald Forest                                                                                     |
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## The Latest News About the OnePlus 10
+
+ You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Here are the latest stories, some of the earlier rumors, and more regarding the OnePlus 10:
+
+[OnePlus 10 Pro Update Brings Improved Fingerprint Sensor, Battery Life, and More](https://www.androidcentral.com/phones/oneplus-10-pro-update-oxygenos-12-a13-update)
+
+[OnePlus 10 Pro 5G Launches in the United States](https://www.lifewire.com/oneplus-10-pro-5g-launches-in-the-united-states-5225934)
+
+[The Regular OnePlus 10 Is Now Going to Be Called the Oppo Reno 8](https://www.pocket-lint.com/phones/news/oneplus/160710-the-regular-oneplus-10-is-now-going-to-be-called-the-oppo-reno-8)
+
+[OnePlus Announces the Release of the 10 Pro 5G in the US and Canada](https://www.lifewire.com/oneplus-announces-the-release-of-the-10-pro-5g-in-the-us-and-canada-5224143)
+
+[The OnePlus 10 Pro Will Not Support 80W Charging in North America](https://www.androidpolice.com/oneplus-10-pro-not-support-80w-charging-speeds-north-america/)
+
+[OnePlus 10 Pro Snaps in Half in Bend Test](https://www.gsmarena.com/oneplus%5F10%5Fpro%5Fsnaps%5Fin%5Fhalf%5Fin%5Fbend%5Ftest-news-53246.php)
+
+[OnePlus 10 Pro to Include Hasselblad Camera and Ultrawide Lens](https://www.lifewire.com/oneplus-10-pro-to-include-hasselblad-camera-and-ultrawide-lens-5215244)
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-navigating-around-youtubes-restrictions/"><u>[New] 2024 Approved Navigating Around Youtube's Restrictions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-new-era-vr-game-engines-whats-revolutionary/"><u>[New] 2024 Approved New Era VR Game Engines What's Revolutionary ?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-framing-for-instagram-techniques-for-vertical-footage-in-fcpx-for-2024/"><u>[Updated] Framing for Instagram Techniques for Vertical Footage in FCPX for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-natural-inside-glow-techniques-for-homes/"><u>[Updated] Natural Inside Glow Techniques for Homes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unlocking-overwatch-soundboard-secrets/"><u>2024 Approved Unlocking Overwatch Soundboard Secrets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/accessing-the-internet-with-these-5-fantastic-free-public-dns-services/"><u>Accessing the Internet with These 5 Fantastic Free Public DNS Services</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/android-to-firestick-casting-techniques-for-seamless-entertainment/"><u>Android to Firestick Casting Techniques for Seamless Entertainment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/arranging-your-harry-potter-movie-marathon-in-which-order/"><u>Arranging Your Harry Potter Movie Marathon - In Which Order?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginning-on-sonys-platform-a-complete-psn-account-creation-walkthrough/"><u>Beginning on Sony's Platform: A Complete PSN Account Creation Walkthrough</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-engagement-mastering-the-art-of-video-audio-on-instagram/"><u>Boosting Engagement: Mastering the Art of Video Audio on Instagram</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/can-you-extend-your-mailcom-email-account-beyond-its-expiration-date-how-to-guide/"><u>Can You Extend Your mail.com Email Account Beyond Its Expiration Date? How-To Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-meta-quest-3-whats-new-in-features-price-points-and-availability-timing/"><u>Comprehensive Guide to Meta Quest 3: What's New in Features, Price Points & Availability Timing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-instructions-to-refresh-zoom-version-for-both-windows-and-macos-users/"><u>Comprehensive Instructions to Refresh Zoom Version for Both Windows and macOS Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-instructions-canceling-and-cleaning-up-your-twitch-account/"><u>Comprehensive Instructions: Canceling and Cleaning Up Your Twitch Account</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-techniques-to-diagnose-and-repair-windows-blue-screen-of-death/"><u>Comprehensive Techniques to Diagnose and Repair Windows 'Blue Screen of Death'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722872600648-d3dx927dll-file-not-detected-follow-our-complete-solution/"><u>d3dx9_27.dll File Not Detected? Follow Our Complete Solution!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-loved-family-movie-selections-on-amazon-prime-video-for-july-2024/"><u>Discover the Best-Loved Family Movie Selections on Amazon Prime Video for July 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-analysis-of-the-fugetek-ft-568-the-ultimate-premium-selfie-stick/"><u>Expert Analysis of the Fugetek FT-568: The Ultimate Premium Selfie Stick</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-features-of-the-newly-released-apple-watch-series-8-cost-breakdown-and-insights/"><u>Explore the Features of the Newly Released Apple Watch Series 8 - Cost Breakdown & Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-buzz-surrounding-apples-entrance-into-electric-cars-estimated-price-launch-date-and-rumored-features/"><u>Exploring the Buzz Surrounding Apple's Entrance Into Electric Cars - Estimated Price, Launch Date & Rumored Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fortnite-trick-for-integrating-several-gaming-ids-into-a-single-profile/"><u>Fortnite Trick for Integrating Several Gaming IDs Into a Single Profile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-graphic-design-to-daily-use-ai-in-windows/"><u>From Graphic Design to Daily Use: AI in Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-epson-wf-7710-printing-software-on-various-windows-editions-11-81-etc-download-here/"><u>How to Install EPSON WF-7710 Printing Software on Various Windows Editions (11, 8.1, Etc.) - Download Here</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-gt-5-240w-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme GT 5 (240W)? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-leading-4k-cameras-the-finest-selection/"><u>In 2024, Leading 4K Cameras The Finest Selection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-info-on-the-new-tesla-bot-teasers-estimated-pricing-and-release-specs-revealed/"><u>Inside Info on the New Tesla Bot: Teasers, Estimated Pricing, and Release Specs Revealed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/instant-screen-grabber-for-chromebooks/"><u>Instant Screen Grabber for Chromebooks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/key-features-to-consider-when-buying-a-high-performance-gaming-computer/"><u>Key Features to Consider When Buying a High-Performance Gaming Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-snapchat-a-comprehensive-cheat-sheet-on-emoji-interpretations/"><u>Mastering Snapchat: A Comprehensive Cheat Sheet on Emoji Interpretations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/methods-for-connecting-airpods-to-gaming-systems-like-the-nintendo-switch/"><u>Methods for Connecting AirPods to Gaming Systems Like the Nintendo Switch</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/speedy-surfing-tips-for-youtubes-playback-speed-control-for-2024/"><u>Speedy Surfing Tips for YouTube's Playback Speed Control for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-how-to-link-disney-plus-streaming-service-with-googles-chromecast/"><u>Step-by-Step Tutorial: How to Link Disney Plus Streaming Service with Google's Chromecast</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-compelling-reason-behind-my-daily-mobile-decor-transformations/"><u>The Compelling Reason Behind My Daily Mobile Décor Transformations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-essentials-for-dominating-instagram-stories-for-2024/"><u>The Essentials for Dominating Instagram Stories for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ins-and-outs-of-bass-management-an-in-depth-look-at-how-it-works/"><u>The Ins and Outs of Bass Management: An In-Depth Look at How It Works</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-nero-software-resolving-the-advrcntr2dll-absence-issue/"><u>Troubleshooting Nero Software: Resolving the Advrcntr2.dll Absence Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-techniques-for-tackling-and-correcting-stop-code-0x0000003d-issues/"><u>Troubleshooting Techniques for Tackling and Correcting STOP Code 0X0000003D Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-pairing-and-using-a-samsung-smartphone-as-a-tv-remote-control/"><u>Ultimate Tutorial: Pairing and Using a Samsung Smartphone as a TV Remote Control</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/xbox-vr-headset-news-and-expected-price-release-date-specs-and-more-rumors/"><u>Xbox VR Headset: News and Expected Price, Release Date, Specs; and More Rumors</u></a></li>
+</ul></div>

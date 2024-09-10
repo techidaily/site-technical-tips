@@ -1,0 +1,192 @@
+---
+title: "How to Troubleshoot When Skype Fails to Connect: A Step-by-Step Guide"
+date: 2024-09-09T13:29:09.583Z
+updated: 2024-09-10T13:29:09.583Z
+categories:
+  - BestProducts
+description: "This Article Describes How to Troubleshoot When Skype Fails to Connect: A Step-by-Step Guide"
+excerpt: "This Article Describes How to Troubleshoot When Skype Fails to Connect: A Step-by-Step Guide"
+thumbnail: https://thmb.techidaily.com/01214d410faf08a8a9dafcfa23316cefdeb8c6cafadbefb4d241744b10bac7c7.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Step-by-Step Guide to Fix a Stuck DVD/BD/CD Drive: No Need to Panic
+ Have you ever needed to open your CD or DVD drive (also referred to as your[optical drive](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) ) but couldn't? There's no reason to rush out and replace the disc or drive just because the eject button doesn't do what you expected it to do.
+
+ Fortunately, one of the following two methods_almost always_ does the trick to get the drive open:
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Fix a DVD/BD/CD Drive That Won't Open or Eject Within the OS
+
+ We'll start with the easiest way to get the drive open—skip the physical button on the outside and ask your[operating system](https://www.lifewire.com/operating-systems-2625912) to force eject the disc. You can only try this if your computer has power and is working. Skip down to the next section if that's not the case.
+
+**Time Required:** Forcing your CD, DVD, or BD drive to eject via your operating system's commands is very easy and should only take a few seconds to try.
+
+1. Open**File Explorer** if you're using Windows 11, 10, or 8\. Search for it or use the[WIN+X menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) to open it quickly.  
+ Open**Windows Explorer** in earlier versions of Windows. You can do this by looking for that option when you right-click the Start button.
+2. Once open, navigate to the optical drive from the menu on the left. This drive is often auto-named based on what disc is inside the drive but there's usually a small disc icon to help identify it.  
+ If you have trouble finding it, look for_This PC_ on the left in Windows 11, 10, or 8, or_Computer_ in earlier versions. Select the icon to the left to expand this if it's collapsed.
+3. Right-click or tap-and-hold the optical drive and choose**Eject** from the menu that pops open.  
+![File Explorer in Windows 10 showing right-click menu with Eject command highlighted](https://www.lifewire.com/thmb/JdH15OVtIjSJeEPIvh9TCVtlnYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-dvd-bd-cd-drive-that-wont-open-or-eject-2626113-5bf8523e46e0fb0083220b80.jpg)
+4. The drive bay or disc should spin down and eject within seconds.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**Using a Mac?** Similar to the method described above for Windows, find the disc icon, right-click it, and then choose**Eject** .
+
+[How Do I Eject a CD or DVD From My Mac?](https://www.lifewire.com/how-do-i-eject-cd-from-mac-2260195)
+
+ If this doesn't work (Windows, macOS, Linux, etc.), it's time to get physical with it!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Fix a DVD/BD/CD Drive That Won't Open or Eject With a Paper Clip
+
+ It sounds strange, yes, but most computer optical drives, including external ones and those you'll find in your game systems like Xbox and PlayStation, have a tiny pinhole that's designed as a last resort method to get the drive bay open.
+
+**Time & Tools Required:** You'll need a single, heavy-duty paper clip—not industrial sized, but not one of those flimsy plastic ones, either. The whole process will take less than a few minutes and is very easy.
+
+1. Unfold the paper clip until there's at least 1 to 2 inches (2 to 5 cm) that are as close to straight as you can get it.
+2. Look closely at your disc drive. Directly under or above the drive bay door (the part that 'ejects' the disc), there should be a very small pinhole.  
+ If you have one of those desktop optical drives where a large door flips down before the drive bay ejects, pull that down with your finger and then look for the pinhole.  
+ Some older desktops require the opening of the front panel, sort of like a large "door" to the[computer's housing](https://www.lifewire.com/what-is-a-computer-case-2618149) , to get to this pinhole.
+3. Insert the paper clip into the pinhole. Inside the drive, directly behind the pinhole, is a small gear that, when rotated, will begin to manually open the drive.
+4. Remove and reinsert the paper clip as often as needed to eject the drive bay enough to grab hold of it.
+5. Slowly pull the drive bay until it's fully retracted. Take care not to pull too quickly or to continue to pull when you feel resistance.
+6. Remove the CD, DVD, or BD disc from the drive. Slowly push the drive bay back into the drive until closed or press the open/close button if the drive is still working.
+
+ If these steps don't work, or you find yourself using the paper clip trick often, it may be time to look at some other options.
+
+ Those are not necessarily in a step-by-step troubleshooting order. What steps you take depends a lot on the type of computer and optical drive you have, as well as your specific situation.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## No Luck? Here's What to Do Next
+
+ At this point, there's likely something physically wrong with the drive or another part of the computer. Here are some things to consider doing:
+
+* If your drive is external, unplug and plug back in both the data cable and the power cable.
+* Check internally that the power and data cables are firmly connected.
+* [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) and try again.
+* Replace the drive. Optical drives are relatively cheap—Amazon sells many for around $20 USD.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Causes of a DVD/BD/CD Drive That Won't Open or Eject
+
+ There are a few reasons why a CD or DVD doesn’t eject. A loss of power either from your laptop/desktop or the power to the drive itself. This can include a faulty or damaged power cable to your optical drive.
+
+ The drive belts that move the optical drive tray can wear, break, or get so dirty that movement is hindered.
+
+ On rare occasions, the software or drivers used to read the CD/DVD may have issues.
+
+ FAQ
+
+* How do I remove a stuck disc from my PS4?  
+ The exact steps may differ slightly depending on your PS4 model, but[manually ejecting a disc from your PS4](https://www.lifewire.com/fix-ps4-that-wont-take-read-or-eject-a-disc-5076329) requires using the[manual eject screw](https://www.playstation.com/en-us/support/hardware/ps4-eject-stuck-disc/) .
+* How do I eject an external hard drive?  
+ Locate the icon for your external hard drive on your computer's desktop (or Finder on a Mac), then drag the icon over the Trash or Recycle icon, which should change into an Eject icon. Release to eject the drive, at which point you can safely disconnect the drive from your computer.
+* How do I eject a USB flash drive?  
+ Find the icon for the USB flash drive and drag it into the Trash or Recycle bin to eject, then unplug the drive. Or**right-click** on the USB flash drive's icon, then select**Eject** from the drop-down menu.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-leverage-loops-for-stirring-instagram-engagement-and-likes/"><u>[New] 2024 Approved Leverage Loops for Stirring Instagram Engagement & Likes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-amplify-audience-response-with-unique-instagram-quiz-features/"><u>[New] Amplify Audience Response with Unique Instagram Quiz Features</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-synesthetic-screens-the-future-of-cinema/"><u>[New] Synesthetic Screens The Future of Cinema</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-video-perfection-streamlined-subtitlecc-implementation-on-youtube/"><u>[New] Video Perfection Streamlined Subtitle/CC Implementation on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-seamlessly-capture-igtv-5-windows-and-mac-downloading-tips/"><u>[Updated] How to Seamlessly Capture IGTV 5 Windows & Mac Downloading Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-professional-filmmakers-pick-is-it-filmora-or-democreator-in-2024/"><u>[Updated] Professional Filmmakers' Pick Is It Filmora or Democreator, In 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/32-free-backup-software-tools-ranked-and-reviewed/"><u>32 Free Backup Software Tools: Ranked and Reviewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehvew-of-effective-methods-for-sanitizing-home-stereo-sound-equipment/"><u>A Comprehvew of Effective Methods for Sanitizing Home Stereo Sound Equipment</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/beyond-the-screen-shaping-perceptions-on-instagram-through-captions/"><u>Beyond the Screen - Shaping Perceptions on Instagram Through Captions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/choosing-between-ipad-pro-and-surface-pro-key-differences-unveiled/"><u>Choosing Between iPad Pro & Surface Pro - Key Differences Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/chromecast-firmware-update-process-explained/"><u>Chromecast Firmware Update Process Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-tutorial-restoring-accidentally-deleted-sms-on-phones/"><u>Complete Tutorial: Restoring Accidentally Deleted SMS on Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connecting-your-playstation-vr-to-windows-a-comprehensive-tutorial/"><u>Connecting Your PlayStation VR to Windows - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-error-0xc0000185-diagnosis-and-fixing-steps-for-smooth-operation/"><u>Demystifying Error 0Xc0000185: Diagnosis & Fixing Steps for Smooth Operation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722898809383-discover-these-stunningly-surprising-emoji-insights/"><u>Discover These Stunningly Surprising Emoji Insights!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-techniques-for-repairing-hardware-exceptions-understanding-and-fixing-the-wheee-error-in-windows/"><u>Effective Techniques for Repairing Hardware Exceptions – Understanding and Fixing the WHEeE Error in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-guide-understanding-samsung-smarttv-applications/"><u>Essential Guide: Understanding Samsung SmartTV Applications</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/expert-ff-video-extractor-kit-efficient-file-grabbing-firefox-compatibility/"><u>Expert FF Video Extractor Kit Efficient File Grabbing, Firefox Compatibility</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-enhancing-the-performance-of-a-slow-network-connection/"><u>Expert Tips For Enhancing The Performance Of A Slow Network Connection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-ahead-with-rumors-upcoming-foldable-iphones-cost-features-and-launch-timeline-previewed/"><u>Get Ahead with Rumors: Upcoming Foldable iPhone's Cost, Features, and Launch Timeline Previewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-keeping-your-phone-number-confidential-on-android-devices/"><u>Guide: Keeping Your Phone Number Confidential on Android Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-dbghelpdll-not-found-or-missing-errors/"><u>How to Fix Dbghelp.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastery-of-ntldr-mishaps-expert-tips-for-overcoming-boot-errors-on-windows/"><u>Mastery of NTLDR Mishaps: Expert Tips for Overcoming Boot Errors on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/no-more-interruptions-how-to-resolve-dreamlight-valleys-pc-malfunctions-6-ways/"><u>No More Interruptions: How to Resolve Dreamlight Valley's PC Malfunctions (6 Ways)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-pc-recovery-setbacks-expert-strategies-unveiled/"><u>Overcoming PC Recovery Setbacks - Expert Strategies Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/preventing-freezes-load-facebook-games-flawlessly-on-chrome/"><u>Preventing Freezes: Load Facebook Games Flawlessly on Chrome</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/regain-access-to-your-ipad-solutions-for-a-lostforgotten-password/"><u>Regain Access to Your iPad: Solutions for a Lost/Forgotten Password</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/spotlight-on-the-samsung-galaxy-tab-a-2020-the-vital-component-thats-not-there/"><u>Spotlight on the Samsung Galaxy Tab A (2020) - The Vital Component That's Not There!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-advice-on-choosing-an-ideal-surge-protector-for-gadgets/"><u>Step-by-Step Advice on Choosing an Ideal Surge Protector for Gadgets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-smart-students-pathway-to-low-cost-computing-with-dells-special-offers/"><u>The Smart Student's Pathway to Low-Cost Computing with Dell's Special Offers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/2-vlogger-friendly-cameras-unveiled-in-2024/"><u>Top 12 Vlogger-Friendly Cameras Unveiled, In 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-free-educational-apps-perfect-for-students-school-year/"><u>Top 7 FREE Educational Apps Perfect for Students' School Year</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transformative-video-creation-harness-the-trio-of-windows-photos-and-storyremix/"><u>Transformative Video Creation Harness the Trio of Windows, Photos, and StoryRemix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-resolving-startup-issues-with-mozilla-thunderbird/"><u>Troubleshooting Tips: Resolving Startup Issues with Mozilla Thunderbird</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tune-in-with-ease-activating-fm-channels-on-iphones-and-android-devices/"><u>Tune in with Ease: Activating FM Channels on iPhones & Android Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-collection-507-stellar-instagram-captions-to-elevate-your-feed-in-2024/"><u>Ultimate Collection: 507 Stellar Instagram Captions to Elevate Your Feed in 202^4</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-full-potential-a-complete-walkthrough-of-wpm-on-windows-os/"><u>Unlock Full Potential: A Complete Walkthrough of WPM on Windows OS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-iphone-resetting-secrets-how-to-access-and-eject-recovery-mode/"><u>Unlocking iPhone Resetting Secrets: How to Access & Eject Recovery Mode</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-magic-vs-2-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor Magic Vs 2 Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unmasking-fraudulent-friends-techniques-for-discerning-deceptive-social-media-overtures/"><u>Unmasking Fraudulent Friends: Techniques for Discerning Deceptive Social Media Overtures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-users-who-spread-your-content-on-facebook/"><u>Unveiling the Users Who Spread Your Content on Facebook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-google-pixel-7-unveiled-pricing-launch-timeline-and-tech-specs-revealed/"><u>Upcoming Google Pixel 7 Unveiled: Pricing, Launch Timeline & Tech Specs Revealed</u></a></li>
+</ul></div>
