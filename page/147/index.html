@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"technical-tips.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8994</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9682</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8994</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9682</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/navigating-the-digital-world-choosing-your-next-phone-laptop-or-readable-device/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895e91d61d746d246092f66e50.png" alt="Navigating the Digital World: Choosing Your Next Phone, Laptop or Readable Device." class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/the-ultimate-tutorial-for-finding-lost-notifications-on-apples-mobile-os/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/jJxDc91zw7_hnWyUaX7w_sKZ4Ig=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jamie-street-33oxtOMk6Ac-unsplash-aaef8ad4a69a4935a5436284b9dc511a.jpg" alt="The Ultimate Tutorial for Finding Lost Notifications on Apple&#39;s Mobile OS" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/navigating-the-digital-world-choosing-your-next-phone-laptop-or-readable-device/">
-                            Navigating the Digital World: Choosing Your Next Phone, Laptop or Readable Device.
+                        <a href="/the-ultimate-tutorial-for-finding-lost-notifications-on-apples-mobile-os/">
+                            The Ultimate Tutorial for Finding Lost Notifications on Apple&#39;s Mobile OS
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Navigating the Digital World: Choosing Your Next Phone, Laptop or Readable Device.</p>
+                            <p>This Article Describes The Ultimate Tutorial for Finding Lost Notifications on Apple’s Mobile OS</p>
 
                         
                     </div>
@@ -715,9 +772,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:39:40 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 00:48:59 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/navigating-the-digital-world-choosing-your-next-phone-laptop-or-readable-device/">Read more<span class="seo-reader-text">Navigating the Digital World: Choosing Your Next Phone, Laptop or Readable Device.</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/the-ultimate-tutorial-for-finding-lost-notifications-on-apples-mobile-os/">Read more<span class="seo-reader-text">The Ultimate Tutorial for Finding Lost Notifications on Apple&#39;s Mobile OS</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/integrating-ps-vr-into-your-windows-system-a-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/FHJwJ3FhkvsIZZwaGRzgXp1RG9o=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/psvr-97107f8e330543c39fa7fb6fbd22eaa9.jpg" alt="Integrating PS VR Into Your Windows System – A Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/kickstarting-your-fresh-computer-experience-the-ultimate-first-five-tasks/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961da236a4542ceaa49684d0f3.jpg" alt="Kickstarting Your Fresh Computer Experience: The Ultimate First Five Tasks" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/integrating-ps-vr-into-your-windows-system-a-comprehensive-guide/">
-                            Integrating PS VR Into Your Windows System – A Comprehensive Guide
+                        <a href="/kickstarting-your-fresh-computer-experience-the-ultimate-first-five-tasks/">
+                            Kickstarting Your Fresh Computer Experience: The Ultimate First Five Tasks
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Integrating PS VR Into Your Windows System – A Comprehensive Guide</p>
+                            <p>This Article Describes Kickstarting Your Fresh Computer Experience: The Ultimate First Five Tasks</p>
 
                         
                     </div>
@@ -779,9 +836,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:39:38 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 00:48:59 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/integrating-ps-vr-into-your-windows-system-a-comprehensive-guide/">Read more<span class="seo-reader-text">Integrating PS VR Into Your Windows System – A Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/kickstarting-your-fresh-computer-experience-the-ultimate-first-five-tasks/">Read more<span class="seo-reader-text">Kickstarting Your Fresh Computer Experience: The Ultimate First Five Tasks</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/ultimate-guide-deleting-several-contacts-simultaneously-in-snapchat/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/9eb4aae367e8d7c80e3c075f7bffa3926b7f3e2ef755ab623092abbe72eca2c0.jpg" alt="Ultimate Guide: Deleting Several Contacts Simultaneously in Snapchat" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-steps-how-to-correct-a-whea-unrecoverable-mishap/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/6e0cdf2b7038ec925488e32c1b0811331fe39479e79326e6be564a7361db8bbb.jpg" alt="Troubleshooting Steps: How to Correct a WHEA Unrecoverable Mishap" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/ultimate-guide-deleting-several-contacts-simultaneously-in-snapchat/">
-                            Ultimate Guide: Deleting Several Contacts Simultaneously in Snapchat
+                        <a href="/troubleshooting-steps-how-to-correct-a-whea-unrecoverable-mishap/">
+                            Troubleshooting Steps: How to Correct a WHEA Unrecoverable Mishap
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Ultimate Guide: Deleting Several Contacts Simultaneously in Snapchat</p>
+                            <p>This Article Describes Troubleshooting Steps: How to Correct a WHEA Unrecoverable Mishap</p>
 
                         
                     </div>
@@ -843,9 +900,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:39:37 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 00:48:59 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/ultimate-guide-deleting-several-contacts-simultaneously-in-snapchat/">Read more<span class="seo-reader-text">Ultimate Guide: Deleting Several Contacts Simultaneously in Snapchat</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-steps-how-to-correct-a-whea-unrecoverable-mishap/">Read more<span class="seo-reader-text">Troubleshooting Steps: How to Correct a WHEA Unrecoverable Mishap</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1722851807860-step-by-step-guide-removing-devices-from-your-google-home-setup/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a23b6166dff1d71405deccff3c580ba47c280d1fae23b982db1e3d6f2479cd12.jpg" alt="Step-by-Step Guide: Removing Devices From Your Google Home Setup" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-and-solutions-for-microsoftdirectxdirectinputdll-errors/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/ZdAni6tZV_KNtFvIg3989M7gqG4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoft-directx-directinput-dll-error-message-5a8d6c23a18d9e00377a61ed.png" alt="Troubleshooting and Solutions for Microsoft.DirectX.DirectInput.DLL Errors" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1722851807860-step-by-step-guide-removing-devices-from-your-google-home-setup/">
-                            Step-by-Step Guide: Removing Devices From Your Google Home Setup
+                        <a href="/troubleshooting-and-solutions-for-microsoftdirectxdirectinputdll-errors/">
+                            Troubleshooting and Solutions for Microsoft.DirectX.DirectInput.DLL Errors
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Guide: Removing Devices From Your Google Home Setup</p>
+                            <p>This Article Describes Troubleshooting and Solutions for Microsoft.DirectX.DirectInput.DLL Errors</p>
 
                         
                     </div>
@@ -907,9 +964,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:39:35 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 00:48:59 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/1722851807860-step-by-step-guide-removing-devices-from-your-google-home-setup/">Read more<span class="seo-reader-text">Step-by-Step Guide: Removing Devices From Your Google Home Setup</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-and-solutions-for-microsoftdirectxdirectinputdll-errors/">Read more<span class="seo-reader-text">Troubleshooting and Solutions for Microsoft.DirectX.DirectInput.DLL Errors</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/guide-to-using-the-windows-11-battery-performance-diagnostic/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/-ErWVirK-Kvqz_jdp6xfavPKXKY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/panos-sakalakis-35NiG1dYjtM-unsplash-04ea0b8a952a4f028ff0c0f0dfd0ade8.jpg" alt="Guide to Using the Windows 11 Battery Performance Diagnostic" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/effortless-setup-integrating-your-airpods-into-macos-for-a-better-audio-experience/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b156e8e5794d885b9d42d1fa5d.jpeg" alt="Effortless Setup: Integrating Your AirPods Into macOS for a Better Audio Experience" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/guide-to-using-the-windows-11-battery-performance-diagnostic/">
-                            Guide to Using the Windows 11 Battery Performance Diagnostic
+                        <a href="/effortless-setup-integrating-your-airpods-into-macos-for-a-better-audio-experience/">
+                            Effortless Setup: Integrating Your AirPods Into macOS for a Better Audio Experience
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Guide to Using the Windows 11 Battery Performance Diagnostic</p>
+                            <p>This Article Describes Effortless Setup: Integrating Your AirPods Into macOS for a Better Audio Experience</p>
 
                         
                     </div>
@@ -971,9 +1028,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:39:34 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 00:48:59 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/guide-to-using-the-windows-11-battery-performance-diagnostic/">Read more<span class="seo-reader-text">Guide to Using the Windows 11 Battery Performance Diagnostic</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/effortless-setup-integrating-your-airpods-into-macos-for-a-better-audio-experience/">Read more<span class="seo-reader-text">Effortless Setup: Integrating Your AirPods Into macOS for a Better Audio Experience</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-ultimate-guide-steps-to-secure-your-verification-badge-on-instagram/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234cc40f347849f915f7ea8138.jpg" alt="The Ultimate Guide: Steps to Secure Your Verification Badge on Instagram" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/top-programs-trending-on-discovery-plus-july-2024-lineup/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4f9c2a1611133710cbbaabe1.jpg" alt="Top Programs Trending on Discovery Plus - July 2024 Lineup" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-ultimate-guide-steps-to-secure-your-verification-badge-on-instagram/">
-                            The Ultimate Guide: Steps to Secure Your Verification Badge on Instagram
+                        <a href="/top-programs-trending-on-discovery-plus-july-2024-lineup/">
+                            Top Programs Trending on Discovery Plus - July 2024 Lineup
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Ultimate Guide: Steps to Secure Your Verification Badge on Instagram</p>
+                            <p>This Article Describes Top Programs Trending on Discovery Plus - July 2024 Lineup</p>
 
                         
                     </div>
@@ -1035,9 +1092,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:39:33 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 00:48:59 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/the-ultimate-guide-steps-to-secure-your-verification-badge-on-instagram/">Read more<span class="seo-reader-text">The Ultimate Guide: Steps to Secure Your Verification Badge on Instagram</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/top-programs-trending-on-discovery-plus-july-2024-lineup/">Read more<span class="seo-reader-text">Top Programs Trending on Discovery Plus - July 2024 Lineup</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/ultimate-cheat-sheet-exploring-different-ipados-releases/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/1b6976dc536a482a8440b6155a5c6ffdb602672c280e778006363b18d82c63d3.jpg" alt="Ultimate Cheat Sheet: Exploring Different iPadOS Releases" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-techniques-for-eliminating-black-outs-on-facetime/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/9qjiTJ0-wH04FaA-cD5ONygbhk4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-557696737-5c18f24146e0fb000185d88e.jpg" alt="Troubleshooting Techniques for Eliminating Black Outs on FaceTime" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/ultimate-cheat-sheet-exploring-different-ipados-releases/">
-                            Ultimate Cheat Sheet: Exploring Different iPadOS Releases
+                        <a href="/troubleshooting-techniques-for-eliminating-black-outs-on-facetime/">
+                            Troubleshooting Techniques for Eliminating Black Outs on FaceTime
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Ultimate Cheat Sheet: Exploring Different iPadOS Releases</p>
+                            <p>This Article Describes Troubleshooting Techniques for Eliminating Black Outs on FaceTime</p>
 
                         
                     </div>
@@ -1099,9 +1156,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:39:31 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 00:48:59 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/ultimate-cheat-sheet-exploring-different-ipados-releases/">Read more<span class="seo-reader-text">Ultimate Cheat Sheet: Exploring Different iPadOS Releases</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-techniques-for-eliminating-black-outs-on-facetime/">Read more<span class="seo-reader-text">Troubleshooting Techniques for Eliminating Black Outs on FaceTime</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/7-must-have-gratis-learning-apps-every-student-needs-before-school-starts/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/BpetmEVxB80QaFGQq2WOAZDdqPA=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-753288297-5b1837e631283400368d60e0.jpg" alt="7 Must-Have Gratis Learning Apps Every Student Needs Before School Starts" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/effective-solutions-for-missing-dciman32dll-error-messages/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/CLzfpIGW-8Jj1nJ6EdbfgfczGNM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dciman32-dll-error-message-5abd098eba61770037a5e9a9.png" alt="Effective Solutions for Missing dciman32.dll Error Messages" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/7-must-have-gratis-learning-apps-every-student-needs-before-school-starts/">
-                            7 Must-Have Gratis Learning Apps Every Student Needs Before School Starts
+                        <a href="/effective-solutions-for-missing-dciman32dll-error-messages/">
+                            Effective Solutions for Missing dciman32.dll Error Messages
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes 7 Must-Have Gratis Learning Apps Every Student Needs Before School Starts</p>
+                            <p>This Article Describes Effective Solutions for Missing dciman32.dll Error Messages</p>
 
                         
                     </div>
@@ -1163,9 +1220,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:39:30 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 00:48:59 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/7-must-have-gratis-learning-apps-every-student-needs-before-school-starts/">Read more<span class="seo-reader-text">7 Must-Have Gratis Learning Apps Every Student Needs Before School Starts</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/effective-solutions-for-missing-dciman32dll-error-messages/">Read more<span class="seo-reader-text">Effective Solutions for Missing dciman32.dll Error Messages</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/ios-18-arrives-d-day-insights-zero-charge-entry-functional-highlights-and-fresh-news/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53efb0dd838d2ce71919e2b2da.jpg" alt="IOS 18 Arrives: D-Day Insights, Zero Charge Entry, Functional Highlights &amp; Fresh News" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/addressing-errors-in-system-files-how-to-locate-and-restore-mapi32dll/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/GBe-MZ9SXDa0xE6Ds39NPS6wl78=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mapi32-dll-error-6d41545b0cf34e5fad140e36687b1317.png" alt="Addressing Errors in System Files – How to Locate and Restore mapi32.dll" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/ios-18-arrives-d-day-insights-zero-charge-entry-functional-highlights-and-fresh-news/">
-                            IOS 18 Arrives: D-Day Insights, Zero Charge Entry, Functional Highlights &amp; Fresh News
+                        <a href="/addressing-errors-in-system-files-how-to-locate-and-restore-mapi32dll/">
+                            Addressing Errors in System Files – How to Locate and Restore mapi32.dll
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes IOS 18 Arrives: D-Day Insights, Zero Charge Entry, Functional Highlights &amp; Fresh News</p>
+                            <p>This Article Describes Addressing Errors in System Files – How to Locate and Restore mapi32.dll</p>
 
                         
                     </div>
@@ -1227,9 +1284,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:39:29 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 00:48:59 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/ios-18-arrives-d-day-insights-zero-charge-entry-functional-highlights-and-fresh-news/">Read more<span class="seo-reader-text">IOS 18 Arrives: D-Day Insights, Zero Charge Entry, Functional Highlights &amp; Fresh News</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/addressing-errors-in-system-files-how-to-locate-and-restore-mapi32dll/">Read more<span class="seo-reader-text">Addressing Errors in System Files – How to Locate and Restore mapi32.dll</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/identifying-inauthentic-friends-a-guide-to-detecting-phony-connection-requests/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f567dab373423469fdd9df8f70e7990588879bfed38e1184b365dd128527e555.jpg" alt="Identifying Inauthentic Friends: A Guide to Detecting Phony Connection Requests" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/tech-hack-the-ultimate-method-of-setting-up-and-linking-three-monitors-to-a-computer/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211ca4fd673ea682421459ce79.png" alt="Tech Hack: The Ultimate Method of Setting Up and Linking Three Monitors to a Computer" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/identifying-inauthentic-friends-a-guide-to-detecting-phony-connection-requests/">
-                            Identifying Inauthentic Friends: A Guide to Detecting Phony Connection Requests
+                        <a href="/tech-hack-the-ultimate-method-of-setting-up-and-linking-three-monitors-to-a-computer/">
+                            Tech Hack: The Ultimate Method of Setting Up and Linking Three Monitors to a Computer
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Identifying Inauthentic Friends: A Guide to Detecting Phony Connection Requests</p>
+                            <p>This Article Describes Tech Hack: The Ultimate Method of Setting Up and Linking Three Monitors to a Computer</p>
 
                         
                     </div>
@@ -1291,9 +1348,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 13:39:28 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 00:48:59 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/identifying-inauthentic-friends-a-guide-to-detecting-phony-connection-requests/">Read more<span class="seo-reader-text">Identifying Inauthentic Friends: A Guide to Detecting Phony Connection Requests</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/tech-hack-the-ultimate-method-of-setting-up-and-linking-three-monitors-to-a-computer/">Read more<span class="seo-reader-text">Tech Hack: The Ultimate Method of Setting Up and Linking Three Monitors to a Computer</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/146/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/145/">145</a><a class="page-number" href="/page/146/">146</a><span class="page-number current">147</span><a class="page-number" href="/page/148/">148</a><a class="page-number" href="/page/149/">149</a><span class="space">&hellip;</span><a class="page-number" href="/page/900/">900</a><a class="extend next" rel="next" href="/page/148/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/146/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/145/">145</a><a class="page-number" href="/page/146/">146</a><span class="page-number current">147</span><a class="page-number" href="/page/148/">148</a><a class="page-number" href="/page/149/">149</a><span class="space">&hellip;</span><a class="page-number" href="/page/969/">969</a><a class="extend next" rel="next" href="/page/148/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

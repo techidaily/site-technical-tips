@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"technical-tips.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8994</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9682</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8994</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9682</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-steps-to-resolve-the-ac1st16dll-file-error/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/9dEe_fUgLA5AjbEebNK2TdEdmdY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ac1st16-dll-error-message-5a8ed22a1d6404003761ae22.png" alt="Troubleshooting Steps to Resolve the ac1st16.dll File Error" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mfc71dll-error-fixes-effective-solutions-for-a-seamless-system/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa86b034cba9990542387160cd.jpg" alt="MFC71.dll Error Fixes: Effective Solutions for a Seamless System" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-steps-to-resolve-the-ac1st16dll-file-error/">
-                            Troubleshooting Steps to Resolve the ac1st16.dll File Error
+                        <a href="/mfc71dll-error-fixes-effective-solutions-for-a-seamless-system/">
+                            MFC71.dll Error Fixes: Effective Solutions for a Seamless System
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Steps to Resolve the ac1st16.dll File Error</p>
+                            <p>This Article Describes MFC71.dll Error Fixes: Effective Solutions for a Seamless System</p>
 
                         
                     </div>
@@ -715,9 +772,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 07:09:05 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:43:53 GMT+0800">
                 
-                    2024-08-26
+                    2024-08-30
                 
             </span>
         </span>
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/troubleshooting-steps-to-resolve-the-ac1st16dll-file-error/">Read more<span class="seo-reader-text">Troubleshooting Steps to Resolve the ac1st16.dll File Error</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mfc71dll-error-fixes-effective-solutions-for-a-seamless-system/">Read more<span class="seo-reader-text">MFC71.dll Error Fixes: Effective Solutions for a Seamless System</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1722896044737-shell32dll-missing-discover-effective-fixes-here/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/hDOTsZgXR-KD-3gWTiIM_ldK92I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/shell32-dll-error-message-59b2b5119abed5001198877d.png" alt="Shell32.dll Missing? Discover Effective Fixes Here!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1722903956471-mastering-quick-travel-a-guide-to-the-teleport-feature-in-minecraft/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b4525c4f54b2150317447813.jpg" alt="Mastering Quick Travel: A Guide to the Teleport Feature in Minecraft" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1722896044737-shell32dll-missing-discover-effective-fixes-here/">
-                            Shell32.dll Missing? Discover Effective Fixes Here!
+                        <a href="/1722903956471-mastering-quick-travel-a-guide-to-the-teleport-feature-in-minecraft/">
+                            Mastering Quick Travel: A Guide to the Teleport Feature in Minecraft
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Shell32.dll Missing? Discover Effective Fixes Here!</p>
+                            <p>This Article Describes Mastering Quick Travel: A Guide to the Teleport Feature in Minecraft</p>
 
                         
                     </div>
@@ -779,9 +836,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 07:09:04 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:43:51 GMT+0800">
                 
-                    2024-08-26
+                    2024-08-30
                 
             </span>
         </span>
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/1722896044737-shell32dll-missing-discover-effective-fixes-here/">Read more<span class="seo-reader-text">Shell32.dll Missing? Discover Effective Fixes Here!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1722903956471-mastering-quick-travel-a-guide-to-the-teleport-feature-in-minecraft/">Read more<span class="seo-reader-text">Mastering Quick Travel: A Guide to the Teleport Feature in Minecraft</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/july-2er-updates-for-windows-os-a-comprehensive-guide-to-the-newest-service-packs/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4f9c2a1611133710cbbaabe1.jpg" alt="July 2Er Updates for Windows OS: A Comprehensive Guide to the Newest Service Packs" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/share-the-love-with-your-family-must-watch-films-on-amazon-prime-video-for-jul-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a446c77eb3a38ef1182231809e6f1b7dff4f649191871eaf498a91e3c9faa20f.jpg" alt="Share the Love with Your Family: Must-Watch Films on Amazon Prime Video for Jul&#39; 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/july-2er-updates-for-windows-os-a-comprehensive-guide-to-the-newest-service-packs/">
-                            July 2Er Updates for Windows OS: A Comprehensive Guide to the Newest Service Packs
+                        <a href="/share-the-love-with-your-family-must-watch-films-on-amazon-prime-video-for-jul-2024/">
+                            Share the Love with Your Family: Must-Watch Films on Amazon Prime Video for Jul&#39; 2024
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes July 2Er Updates for Windows OS: A Comprehensive Guide to the Newest Service Packs</p>
+                            <p>This Article Describes Share the Love with Your Family: Must-Watch Films on Amazon Prime Video for Jul’ 2024</p>
 
                         
                     </div>
@@ -843,9 +900,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 07:09:03 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:43:50 GMT+0800">
                 
-                    2024-08-26
+                    2024-08-30
                 
             </span>
         </span>
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/july-2er-updates-for-windows-os-a-comprehensive-guide-to-the-newest-service-packs/">Read more<span class="seo-reader-text">July 2Er Updates for Windows OS: A Comprehensive Guide to the Newest Service Packs</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/share-the-love-with-your-family-must-watch-films-on-amazon-prime-video-for-jul-2024/">Read more<span class="seo-reader-text">Share the Love with Your Family: Must-Watch Films on Amazon Prime Video for Jul&#39; 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-guide-restoring-your-samsung-television-settings/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd1b5268a8b5026540ff9ee16.jpg" alt="Step-by-Step Guide: Restoring Your Samsung Television Settings" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-gmail-a-step-by-step-guide-to-setting-up-an-email-alias/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f26163c69b1bc0d92f7095e097d.JPG" alt="Mastering Gmail: A Step-by-Step Guide to Setting Up an Email Alias" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-guide-restoring-your-samsung-television-settings/">
-                            Step-by-Step Guide: Restoring Your Samsung Television Settings
+                        <a href="/mastering-gmail-a-step-by-step-guide-to-setting-up-an-email-alias/">
+                            Mastering Gmail: A Step-by-Step Guide to Setting Up an Email Alias
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Guide: Restoring Your Samsung Television Settings</p>
+                            <p>This Article Describes Mastering Gmail: A Step-by-Step Guide to Setting Up an Email Alias</p>
 
                         
                     </div>
@@ -907,9 +964,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 07:09:01 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:43:49 GMT+0800">
                 
-                    2024-08-26
+                    2024-08-30
                 
             </span>
         </span>
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/step-by-step-guide-restoring-your-samsung-television-settings/">Read more<span class="seo-reader-text">Step-by-Step Guide: Restoring Your Samsung Television Settings</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-gmail-a-step-by-step-guide-to-setting-up-an-email-alias/">Read more<span class="seo-reader-text">Mastering Gmail: A Step-by-Step Guide to Setting Up an Email Alias</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/navigating-common-zoom-issues-could-you-be-the-culprit/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3269c858221e8ab75b91d65fc2cbdc3bf0d972fb510d01ae54b3ad8d22470d02.jpg" alt="Navigating Common Zoom Issues: Could You Be the Culprit?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/boost-your-views-ultimate-guide-to-dominating-apple-tv-settings/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285f3160a9b70eb170ae6406f1.jpg" alt="Boost Your Views: Ultimate Guide to Dominating Apple TV Settings" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/navigating-common-zoom-issues-could-you-be-the-culprit/">
-                            Navigating Common Zoom Issues: Could You Be the Culprit?
+                        <a href="/boost-your-views-ultimate-guide-to-dominating-apple-tv-settings/">
+                            Boost Your Views: Ultimate Guide to Dominating Apple TV Settings
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Navigating Common Zoom Issues: Could You Be the Culprit?</p>
+                            <p>This Article Describes Boost Your Views: Ultimate Guide to Dominating Apple TV Settings</p>
 
                         
                     </div>
@@ -971,9 +1028,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 07:09:00 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:43:48 GMT+0800">
                 
-                    2024-08-26
+                    2024-08-30
                 
             </span>
         </span>
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/navigating-common-zoom-issues-could-you-be-the-culprit/">Read more<span class="seo-reader-text">Navigating Common Zoom Issues: Could You Be the Culprit?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/boost-your-views-ultimate-guide-to-dominating-apple-tv-settings/">Read more<span class="seo-reader-text">Boost Your Views: Ultimate Guide to Dominating Apple TV Settings</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/complete-solution-for-neros-advrcntr2dll-file-missing-problem/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/pa5eiyR_REzUmS6DuVsIOkZ6IDA=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/advrcntr2-dll-error-message-5a8ed78b6bf069003732002c.png" alt="Complete Solution for Nero&#39;s advrcntr2.dll File Missing Problem" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fixing-the-no-spin-lock-available-error-steps-for-handling-stop-code-0x0000001d/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326cf6eb9f144fb267795cd5a9a.jpg" alt="Fixing the No Spin Lock Available Error: Steps for Handling Stop Code 0X0000001D" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/complete-solution-for-neros-advrcntr2dll-file-missing-problem/">
-                            Complete Solution for Nero&#39;s advrcntr2.dll File Missing Problem
+                        <a href="/fixing-the-no-spin-lock-available-error-steps-for-handling-stop-code-0x0000001d/">
+                            Fixing the No Spin Lock Available Error: Steps for Handling Stop Code 0X0000001D
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Complete Solution for Nero’s advrcntr2.dll File Missing Problem</p>
+                            <p>This Article Describes Fixing the No Spin Lock Available Error: Steps for Handling Stop Code 0X0000001D</p>
 
                         
                     </div>
@@ -1035,9 +1092,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 07:08:59 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:43:47 GMT+0800">
                 
-                    2024-08-26
+                    2024-08-30
                 
             </span>
         </span>
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/complete-solution-for-neros-advrcntr2dll-file-missing-problem/">Read more<span class="seo-reader-text">Complete Solution for Nero&#39;s advrcntr2.dll File Missing Problem</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fixing-the-no-spin-lock-available-error-steps-for-handling-stop-code-0x0000001d/">Read more<span class="seo-reader-text">Fixing the No Spin Lock Available Error: Steps for Handling Stop Code 0X0000001D</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/jointly-enjoying-music-can-two-users-access-spotify-together/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d42978b0299a0a4d322290d05.jpeg" alt="Jointly Enjoying Music: Can Two Users Access Spotify Together?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1722899134378-all-about-the-next-android-unlocking-rumors-on-release-date-costs-and-tech-specs-for-android-16-stay-informed-now/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4742e08d1374a286a48bed4c.jpg" alt="All About the Next Android: Unlocking Rumors on Release Date, Costs and Tech Specs for Android 16 - Stay Informed Now!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/jointly-enjoying-music-can-two-users-access-spotify-together/">
-                            Jointly Enjoying Music: Can Two Users Access Spotify Together?
+                        <a href="/1722899134378-all-about-the-next-android-unlocking-rumors-on-release-date-costs-and-tech-specs-for-android-16-stay-informed-now/">
+                            All About the Next Android: Unlocking Rumors on Release Date, Costs and Tech Specs for Android 16 - Stay Informed Now!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Jointly Enjoying Music: Can Two Users Access Spotify Together?</p>
+                            <p>This Article Describes All About the Next Android: Unlocking Rumors on Release Date, Costs and Tech Specs for Android 16 - Stay Informed Now!</p>
 
                         
                     </div>
@@ -1099,9 +1156,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 07:08:57 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:43:45 GMT+0800">
                 
-                    2024-08-26
+                    2024-08-30
                 
             </span>
         </span>
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/jointly-enjoying-music-can-two-users-access-spotify-together/">Read more<span class="seo-reader-text">Jointly Enjoying Music: Can Two Users Access Spotify Together?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1722899134378-all-about-the-next-android-unlocking-rumors-on-release-date-costs-and-tech-specs-for-android-16-stay-informed-now/">Read more<span class="seo-reader-text">All About the Next Android: Unlocking Rumors on Release Date, Costs and Tech Specs for Android 16 - Stay Informed Now!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-what-to-do-when-you-cant-find-msvcrt-dll-on-your-pc/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df63cc3bc93f37a86e27d2e105.png" alt="Troubleshooting: What to Do When You Can&#39;t Find MSVCRT DLL on Your PC" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-sync-your-smartphone-with-chromecast-for-ultimate-media-control/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/aeYwyxhxtP9Vq4AD8NbEsDHCI6A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Chromecast-and-Remote-6543c2e37b604a38bd940034ab108a84.jpg" alt="How to Sync Your Smartphone with Chromecast for Ultimate Media Control" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-what-to-do-when-you-cant-find-msvcrt-dll-on-your-pc/">
-                            Troubleshooting: What to Do When You Can&#39;t Find MSVCRT DLL on Your PC
+                        <a href="/how-to-sync-your-smartphone-with-chromecast-for-ultimate-media-control/">
+                            How to Sync Your Smartphone with Chromecast for Ultimate Media Control
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting: What to Do When You Can’t Find MSVCRT DLL on Your PC</p>
+                            <p>This Article Describes How to Sync Your Smartphone with Chromecast for Ultimate Media Control</p>
 
                         
                     </div>
@@ -1163,9 +1220,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 07:08:56 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:43:44 GMT+0800">
                 
-                    2024-08-26
+                    2024-08-30
                 
             </span>
         </span>
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/troubleshooting-what-to-do-when-you-cant-find-msvcrt-dll-on-your-pc/">Read more<span class="seo-reader-text">Troubleshooting: What to Do When You Can&#39;t Find MSVCRT DLL on Your PC</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-sync-your-smartphone-with-chromecast-for-ultimate-media-control/">Read more<span class="seo-reader-text">How to Sync Your Smartphone with Chromecast for Ultimate Media Control</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-ultimate-guide-to-addressing-call-reception-issues-on-the-samsung-galaxy-watch/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/_MWAPh8OWPeBhOJHt0_Tuur_dko=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/galaxywatchcantanswercalls-4099d94d72d0406aaf4020edf06872e3.jpg" alt="The Ultimate Guide to Addressing Call Reception Issues on the Samsung Galaxy Watch" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/samsung-z-fold-4-news-price-release-date-and-specs/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f20754be61be25378c16e65b62ab87943c4b43cc2d7005b2adb1f8ded04dff01.jpg" alt="Samsung Z Fold 4: News, Price, Release Date, and Specs" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-ultimate-guide-to-addressing-call-reception-issues-on-the-samsung-galaxy-watch/">
-                            The Ultimate Guide to Addressing Call Reception Issues on the Samsung Galaxy Watch
+                        <a href="/samsung-z-fold-4-news-price-release-date-and-specs/">
+                            Samsung Z Fold 4: News, Price, Release Date, and Specs
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Ultimate Guide to Addressing Call Reception Issues on the Samsung Galaxy Watch</p>
+                            <p>This Article Describes Samsung Z Fold 4: News, Price, Release Date, and Specs</p>
 
                         
                     </div>
@@ -1227,9 +1284,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 07:08:55 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:43:42 GMT+0800">
                 
-                    2024-08-26
+                    2024-08-30
                 
             </span>
         </span>
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/the-ultimate-guide-to-addressing-call-reception-issues-on-the-samsung-galaxy-watch/">Read more<span class="seo-reader-text">The Ultimate Guide to Addressing Call Reception Issues on the Samsung Galaxy Watch</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/samsung-z-fold-4-news-price-release-date-and-specs/">Read more<span class="seo-reader-text">Samsung Z Fold 4: News, Price, Release Date, and Specs</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/diagnosing-and-correcting-the-problem-of-absent-ksuserdll-files/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/GwX8vrFlLBqPGBsrsHpKRuZan0c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kmuser-dll-error-59720c1c519de200114aafc7.png" alt="Diagnosing and Correcting the Problem of Absent ksUSER.DLL Files" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/essential-troubleshooting-resetting-bios-with-the-cmos-button/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b350de1df5ec61d6fc21bf535.jpg" alt="Essential Troubleshooting: Resetting BIOS with the CMOS Button" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/diagnosing-and-correcting-the-problem-of-absent-ksuserdll-files/">
-                            Diagnosing and Correcting the Problem of Absent ksUSER.DLL Files
+                        <a href="/essential-troubleshooting-resetting-bios-with-the-cmos-button/">
+                            Essential Troubleshooting: Resetting BIOS with the CMOS Button
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Diagnosing and Correcting the Problem of Absent ksUSER.DLL Files</p>
+                            <p>This Article Describes Essential Troubleshooting: Resetting BIOS with the CMOS Button</p>
 
                         
                     </div>
@@ -1291,9 +1348,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 26 2024 07:08:54 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 30 2024 13:43:41 GMT+0800">
                 
-                    2024-08-26
+                    2024-08-30
                 
             </span>
         </span>
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/diagnosing-and-correcting-the-problem-of-absent-ksuserdll-files/">Read more<span class="seo-reader-text">Diagnosing and Correcting the Problem of Absent ksUSER.DLL Files</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/essential-troubleshooting-resetting-bios-with-the-cmos-button/">Read more<span class="seo-reader-text">Essential Troubleshooting: Resetting BIOS with the CMOS Button</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/195/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/194/">194</a><a class="page-number" href="/page/195/">195</a><span class="page-number current">196</span><a class="page-number" href="/page/197/">197</a><a class="page-number" href="/page/198/">198</a><span class="space">&hellip;</span><a class="page-number" href="/page/900/">900</a><a class="extend next" rel="next" href="/page/197/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/195/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/194/">194</a><a class="page-number" href="/page/195/">195</a><span class="page-number current">196</span><a class="page-number" href="/page/197/">197</a><a class="page-number" href="/page/198/">198</a><span class="space">&hellip;</span><a class="page-number" href="/page/969/">969</a><a class="extend next" rel="next" href="/page/197/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

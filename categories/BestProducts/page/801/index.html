@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"technical-tips.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8994</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9682</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -632,71 +689,71 @@
                     <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-12'>
                 
                     
-                        <a href="/tech-savvy-tips-enabling-and-using-splitscreen-mode-effortlessly-on-your-macbook-air/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Tech Savvy Tips: Enabling and Using Splitscreen Mode Effortlessly on Your MacBook Air</span>
+                        <a href="/entertainment-unrestricted-discover-watch-and-enjoy-films-for-free-on-the-crackle-platform/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Entertainment Unrestricted: Discover, Watch &amp; Enjoy Films for Free on the Crackle Platform</span>
                         </a>
                     
               
                 
                     
-                        <a href="/smart-study-supplies-discover-the-9-key-technology-items-all-pupils-should-own/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Smart Study Supplies: Discover the 9 Key Technology Items All Pupils Should Own</span>
+                        <a href="/solving-sse7546d-is-missing-error-comprehensive-guide/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Solving Sse7546_d Is Missing Error - Comprehensive Guide</span>
                         </a>
                     
               
                 
                     
-                        <a href="/follow-this-step-by-step-guide-to-experience-the-lord-of-the-rings-movies-in-sequence/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Follow This Step-by-Step Guide to Experience &#39;The Lord of the Rings&#39; Movies in Sequence</span>
+                        <a href="/explore-the-8-finest-mobile-adventures-and-escapes/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Explore the 8 Finest Mobile Adventures and Escapes</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-turn-off-personalized-posts-and-recommendations-on-instagram/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Turn Off Personalized Posts &amp; Recommendations on Instagram</span>
+                        <a href="/first-time-users-guide-to-crafting-your-x-previously-twitter-handle/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">First-Time User&#39;s Guide to Crafting Your X (Previously Twitter) Handle</span>
                         </a>
                     
               
                 
                     
-                        <a href="/expert-advice-techniques-for-crafting-backward-movies-in-snapchats-interface/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Expert Advice: Techniques for Crafting Backward Movies in Snapchat&#39;s Interface</span>
+                        <a href="/ps4-users-handbook-mastering-screenshots-and-game-clips/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">PS4 User&#39;s Handbook: Mastering Screenshots and Game Clips</span>
                         </a>
                     
               
                 
                     
-                        <a href="/fixing-problems-with-directx-directinput-dlls-on-microsoft-systems/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Fixing Problems with DirectX, DirectInput Dlls on Microsoft Systems</span>
+                        <a href="/googles-latest-smartphone-projected-details-expected-price-point-launch-date-and-device-capabilities/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Google&#39;s Latest Smartphone Projected Details: Expected Price Point, Launch Date &amp; Device Capabilities</span>
                         </a>
                     
               
                 
                     
-                        <a href="/mastering-iphone-camera-settings-corrective-actions-for-autofocus-failures/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Mastering iPhone Camera Settings: Corrective Actions for Autofocus Failures</span>
+                        <a href="/inside-scoop-the-new-google-pixel-buds-pro-2-cost-predictions-and-specs-reveal/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Inside Scoop: The New Google Pixel Buds Pro 2 – Cost Predictions and Specs Reveal</span>
                         </a>
                     
               
                 
                     
-                        <a href="/mac-troubleshooting-101-how-to-access-the-system-recovery-menu-easily/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Mac Troubleshooting 101: How to Access the System Recovery Menu Easily</span>
+                        <a href="/diagnosing-and-fixing-typing-issues-on-malfunctioning-keyboards/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Diagnosing and Fixing Typing Issues on Malfunctioning Keyboards</span>
                         </a>
                     
               
                 
                     
-                        <a href="/voice-control-made-easy-a-step-by-step-guide-to-leveraging-your-meta-quest-mic/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Voice Control Made Easy: A Step-by-Step Guide to Leveraging Your Meta Quest Mic</span>
+                        <a href="/how-to-successfully-troubleshoot-and-repair-stop-0x000e0007b-bsod-errors/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How To Successfully Troubleshoot and Repair STOP 0X000e0007b BSoD Errors</span>
                         </a>
                     
               
                 
                     
-                        <a href="/discover-these-10-cost-free-tv-shows-and-movies-online/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Discover These 10 Cost-Free TV Shows &amp; Movies Online</span>
+                        <a href="/effective-methods-for-resolving-chatgpts-moderation-error-dilemmas/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Effective Methods for Resolving ChatGPT&#39;s Moderation Error Dilemmas</span>
                         </a>
                     
               
@@ -709,7 +766,7 @@
 </div>
 <div class="category-paginator">
     <div class="paginator">
-    <a class="extend prev" rel="prev" href="/categories/BestProducts/page/800/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/BestProducts/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/799/">799</a><a class="page-number" href="/categories/BestProducts/page/800/">800</a><span class="page-number current">801</span><a class="page-number" href="/categories/BestProducts/page/802/">802</a><a class="page-number" href="/categories/BestProducts/page/803/">803</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/813/">813</a><a class="extend next" rel="next" href="/categories/BestProducts/page/802/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/categories/BestProducts/page/800/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/BestProducts/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/799/">799</a><a class="page-number" href="/categories/BestProducts/page/800/">800</a><span class="page-number current">801</span><a class="page-number" href="/categories/BestProducts/page/802/">802</a><a class="page-number" href="/categories/BestProducts/page/803/">803</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/881/">881</a><a class="extend next" rel="next" href="/categories/BestProducts/page/802/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

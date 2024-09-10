@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"technical-tips.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8994</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9682</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-04'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-09'>
                 
                     
-                        <a href="/elite-range-extenders-of-2024-enhancing-your-wireless-experience/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Elite Range Extenders of 2024 - Enhancing Your Wireless Experience</span>
+                        <a href="/windows-quick-start-setting-up-personalized-access-with-auto-login/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Windows Quick Start: Setting up Personalized Access with Auto Login</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-determine-if-switching-to-a-wireless-mesh-network-is-right-for-you/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Determine if Switching to a Wireless Mesh Network Is Right for You</span>
+                        <a href="/compreh-grok-guide-launching-macos-recovery-mode-from-a-macintosh-system/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Compreh Grok Guide: Launching macOS Recovery Mode From a Macintosh System</span>
                         </a>
                     
               
                 
                     
-                        <a href="/step-by-step-tutorial-on-effective-website-pings-techniques/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Tutorial on Effective Website Pings Techniques</span>
+                        <a href="/the-ultimate-guide-to-the-most-effective-key-finder-devices/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">The Ultimate Guide to the Most Effective Key Finder Devices</span>
                         </a>
                     
               
                 
                     
-                        <a href="/overcoming-dsounddll-error-woes-expert-solutions-for-a-seamless-fix/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Overcoming dsound.dll Error Woes: Expert Solutions for a Seamless Fix</span>
+                        <a href="/public-participation-is-a-fundamental-part-of-the-eia-process-for-transparency-and-community-involvement/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Public Participation Is a Fundamental Part of the EIA Process for Transparency and Community Involvement.</span>
                         </a>
                     
               
                 
                     
-                        <a href="/1722877773269-msidll-not-found-heres-how-to-fix-it-easily/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">msi.dll Not Found? Here&#39;s How to Fix It Easily</span>
+                        <a href="/from-streamed-to-stored-a-users-handbook-on-making-spotify-lists-downloadable-for-offline-viewing/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">From Streamed to Stored: A User&#39;s Handbook on Making Spotify Lists Downloadable for Offline Viewing</span>
                         </a>
                     
               
                 
                     
-                        <a href="/all-you-need-downloading-detailed-owners-manuals-for-every-iphones-series/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">All You Need: Downloading Detailed Owner&#39;s Manuals for Every iPhones Series</span>
+                        <a href="/pc-screen-capture-guide-mastering-the-art-of-taking-screenshots/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">PC Screen Capture Guide: Mastering the Art of Taking Screenshots</span>
                         </a>
                     
               
                 
                     
-                        <a href="/unlocking-your-facebook-account-solutions-when-youre-offline/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Unlocking Your Facebook Account: Solutions When You&#39;re Offline!</span>
+                        <a href="/solutions-and-tips-how-to-fix-gmail-synchronization-issues-on-your-device/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Solutions and Tips: How to Fix Gmail Synchronization Issues on Your Device</span>
                         </a>
                     
               
                 
                     
-                        <a href="/mastering-the-art-of-attracting-new-likes-and-followers-on-instagram/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Mastering the Art of Attracting New Likes and Followers on Instagram</span>
+                        <a href="/securely-deleting-information-on-a-dell-computer-a-comprehensive-guide/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Securely Deleting Information on a Dell Computer: A Comprehensive Guide</span>
                         </a>
                     
               
                 
                     
-                        <a href="/to-rtx-or-not-to-rtx-making-the-right-choice-for-your-gaming-needs/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">To RTX or Not to RTX: Making the Right Choice for Your Gaming Needs</span>
+                        <a href="/unlocking-the-secret-how-to-access-and-utilize-facebook-marketplace/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Unlocking the Secret: How to Access and Utilize Facebook Marketplace</span>
                         </a>
                     
               
                 
                     
-                        <a href="/troubleshooting-and-correcting-the-advapi32dll-couldnt-be-loaded-problems/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Troubleshooting and Correcting The &#39;Advapi32.dll Couldn&#39;t Be Loaded&#39; Problems</span>
+                        <a href="/the-ultimate-fixes-for-when-your-computer-says-missing-d3dx925dll/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">The Ultimate Fixes for When Your Computer Says Missing d3dx9_25.dll</span>
                         </a>
                     
               
@@ -709,7 +766,7 @@
 </div>
 <div class="category-paginator">
     <div class="paginator">
-    <a class="extend prev" rel="prev" href="/categories/BestProducts/page/28/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/BestProducts/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/27/">27</a><a class="page-number" href="/categories/BestProducts/page/28/">28</a><span class="page-number current">29</span><a class="page-number" href="/categories/BestProducts/page/30/">30</a><a class="page-number" href="/categories/BestProducts/page/31/">31</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/813/">813</a><a class="extend next" rel="next" href="/categories/BestProducts/page/30/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/categories/BestProducts/page/28/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/BestProducts/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/27/">27</a><a class="page-number" href="/categories/BestProducts/page/28/">28</a><span class="page-number current">29</span><a class="page-number" href="/categories/BestProducts/page/30/">30</a><a class="page-number" href="/categories/BestProducts/page/31/">31</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/881/">881</a><a class="extend next" rel="next" href="/categories/BestProducts/page/30/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

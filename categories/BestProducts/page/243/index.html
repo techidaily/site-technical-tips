@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"technical-tips.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8994</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9682</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-20'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-26'>
                 
                     
-                        <a href="/can-you-get-rid-of-preloaded-applications-on-your-iphone-device/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Can You Get Rid of Preloaded Applications on Your iPhone Device?</span>
+                        <a href="/the-journey-through-macos-versions-whats-the-most-recent-update-complete-guide-available-here/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">The Journey Through macOS Versions: What&#39;s the Most Recent Update? Complete Guide Available Here!</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-delete-your-yahoo-mail-account-permanently/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Delete Your Yahoo Mail Account Permanently</span>
+                        <a href="/1722900874791-lost-track-of-your-email-heres-how-you-can-find-it/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Lost Track of Your Email? Here&#39;s How You Can Find It!</span>
                         </a>
                     
               
                 
                     
-                        <a href="/thunderbirds-secrets-revealed-expert-tips-for-effective-email-chats-within-the-platform/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Thunderbird&#39;s Secrets Revealed: Expert Tips for Effective Email Chats Within the Platform</span>
+                        <a href="/voice-message-basics-for-iphones-a-beginners-how-to-guide/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Voice Message Basics for iPhones: A Beginner&#39;s How-To Guide</span>
                         </a>
                     
               
                 
                     
-                        <a href="/apples-next-big-thing-predictions-for-the-watch-ultra-2s-price-tag-launch-date-and-tech-specs/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Apple&#39;s Next Big Thing - Predictions for the Watch Ultra 2&#39;S Price Tag, Launch Date and Tech Specs!</span>
+                        <a href="/improve-your-homes-digital-television-signal-using-indoor-antennas/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Improve Your Home&#39;s Digital Television Signal Using Indoor Antennas</span>
                         </a>
                     
               
                 
                     
-                        <a href="/initiating-setup-for-amazon-echo-dot-a-simple-process/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Initiating Setup for Amazon Echo Dot – A Simple Process</span>
+                        <a href="/top-10-fixes-when-your-skype-connection-is-down/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Top 10 Fixes When Your Skype Connection Is Down</span>
                         </a>
                     
               
                 
                     
-                        <a href="/cross-operational-expertise-enabling-and-running-android-software-with-ease-on-windows-10-systems/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Cross-Operational Expertise: Enabling and Running Android Software with Ease on Windows 10 Systems</span>
+                        <a href="/top-8-gmail-substitutes-to-try/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Top 8 Gmail Substitutes to Try</span>
                         </a>
                     
               
                 
                     
-                        <a href="/expertly-selected-best-twitter-client-software-for-efficient-engagement/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Expertly Selected Best Twitter Client Software for Efficient Engagement</span>
+                        <a href="/comprehensive-guide-to-overcoming-cannot-be-opened-error-due-to-unconfirmed-mac-app-developers/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Comprehensive Guide to Overcoming &#39;Cannot Be Opened&#39; Error Due to Unconfirmed Mac App Developers</span>
                         </a>
                     
               
                 
                     
-                        <a href="/discover-the-ultimate-list-of-no-cost-movie-platforms/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Discover the Ultimate List of No-Cost Movie Platforms</span>
+                        <a href="/teslas-self-driving-taxi-update-revealed-costs-launch-timeline-and-feature-sneak-peek/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Tesla&#39;s Self-Driving Taxi Update: Revealed Costs, Launch Timeline &amp; Feature Sneak Peek</span>
                         </a>
                     
               
                 
                     
-                        <a href="/step-by-step-guide-on-watching-spider-man-no-way-home-online/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Guide on Watching &#39;Spider-Man: No Way Home&#39; Online</span>
+                        <a href="/upcoming-google-pixel-6-unveiled-latest-leaks-on-costs-launch-timeline-and-features/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Upcoming Google Pixel 6 Unveiled: Latest Leaks on Costs, Launch Timeline &amp; Features</span>
                         </a>
                     
               
                 
                     
-                        <a href="/deciphering-royal-match-a-deep-dive-into-its-layered-structure/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Deciphering &#39;Royal Match&#39;: A Deep Dive Into Its Layered Structure</span>
+                        <a href="/quickfixes-101-repair-your-system-drive-using-the-chkdsk-command/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">QuickFixes 101: Repair Your System Drive Using the Chkdsk Command</span>
                         </a>
                     
               
@@ -709,7 +766,7 @@
 </div>
 <div class="category-paginator">
     <div class="paginator">
-    <a class="extend prev" rel="prev" href="/categories/BestProducts/page/242/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/BestProducts/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/241/">241</a><a class="page-number" href="/categories/BestProducts/page/242/">242</a><span class="page-number current">243</span><a class="page-number" href="/categories/BestProducts/page/244/">244</a><a class="page-number" href="/categories/BestProducts/page/245/">245</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/813/">813</a><a class="extend next" rel="next" href="/categories/BestProducts/page/244/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/categories/BestProducts/page/242/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/BestProducts/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/241/">241</a><a class="page-number" href="/categories/BestProducts/page/242/">242</a><span class="page-number current">243</span><a class="page-number" href="/categories/BestProducts/page/244/">244</a><a class="page-number" href="/categories/BestProducts/page/245/">245</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/881/">881</a><a class="extend next" rel="next" href="/categories/BestProducts/page/244/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

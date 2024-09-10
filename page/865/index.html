@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"technical-tips.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8994</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9682</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8994</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9682</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solving-your-monitors-color-problem-tips-for-correcting-display-abnormalities/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c65265ee5832038cf529fed6.jpeg" alt="Solving Your Monitor&#39;s Color Problem: Tips for Correcting Display Abnormalities" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/t-mobile-unlimited-plans-understanding-your-access-to-metro-by-verizon-wireless-networks/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8875e215ef19c949ace9cb7a.jpg" alt="T-Mobile Unlimited Plans: Understanding Your Access to Metro by Verizon Wireless Networks" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solving-your-monitors-color-problem-tips-for-correcting-display-abnormalities/">
-                            Solving Your Monitor&#39;s Color Problem: Tips for Correcting Display Abnormalities
+                        <a href="/t-mobile-unlimited-plans-understanding-your-access-to-metro-by-verizon-wireless-networks/">
+                            T-Mobile Unlimited Plans: Understanding Your Access to Metro by Verizon Wireless Networks
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solving Your Monitor’s Color Problem: Tips for Correcting Display Abnormalities</p>
+                            <p>This Article Describes T-Mobile Unlimited Plans: Understanding Your Access to Metro by Verizon Wireless Networks</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 12 2024 02:54:39 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 12 2024 03:06:50 GMT+0800">
                 
                     2024-08-12
                 
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/solving-your-monitors-color-problem-tips-for-correcting-display-abnormalities/">Read more<span class="seo-reader-text">Solving Your Monitor&#39;s Color Problem: Tips for Correcting Display Abnormalities</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/t-mobile-unlimited-plans-understanding-your-access-to-metro-by-verizon-wireless-networks/">Read more<span class="seo-reader-text">T-Mobile Unlimited Plans: Understanding Your Access to Metro by Verizon Wireless Networks</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/quick-guide-crafting-the-symbol-from-keystrokes-alone-no-touch-needed/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f4b571dd94969d29e2160b68.jpg" alt="Quick Guide: Crafting the ❤️ Symbol From Keystrokes Alone – No Touch Needed!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/the-lowdown-on-lg-channels-top-details-unveiled/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg" alt="The Lowdown on LG Channels – Top Details Unveiled" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/quick-guide-crafting-the-symbol-from-keystrokes-alone-no-touch-needed/">
-                            Quick Guide: Crafting the ❤️ Symbol From Keystrokes Alone – No Touch Needed!
+                        <a href="/the-lowdown-on-lg-channels-top-details-unveiled/">
+                            The Lowdown on LG Channels – Top Details Unveiled
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Quick Guide: Crafting the ❤️ Symbol From Keystrokes Alone – No Touch Needed!</p>
+                            <p>This Article Describes The Lowdown on LG Channels – Top Details Unveiled</p>
 
                         
                     </div>
@@ -779,7 +836,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 12 2024 02:54:38 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 12 2024 03:06:49 GMT+0800">
                 
                     2024-08-12
                 
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/quick-guide-crafting-the-symbol-from-keystrokes-alone-no-touch-needed/">Read more<span class="seo-reader-text">Quick Guide: Crafting the ❤️ Symbol From Keystrokes Alone – No Touch Needed!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/the-lowdown-on-lg-channels-top-details-unveiled/">Read more<span class="seo-reader-text">The Lowdown on LG Channels – Top Details Unveiled</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/error-0xc0000185-explained-troubleshooting-steps-and-fixes-for-windows-users/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/95333bd91bfdee977e890c3d99a260180b34b4ad300f9b943b40a4dfe4ccda73.jpg" alt="Error 0Xc0000185 Explained: Troubleshooting Steps and Fixes for Windows Users" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-battle-with-a-lynel-top-techniques-for-breaking-through/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cba45388a4148935e78d13735.jpg" alt="Mastering Battle with a Lynel: Top Techniques for Breaking Through" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/error-0xc0000185-explained-troubleshooting-steps-and-fixes-for-windows-users/">
-                            Error 0Xc0000185 Explained: Troubleshooting Steps and Fixes for Windows Users
+                        <a href="/mastering-battle-with-a-lynel-top-techniques-for-breaking-through/">
+                            Mastering Battle with a Lynel: Top Techniques for Breaking Through
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Error 0Xc0000185 Explained: Troubleshooting Steps and Fixes for Windows Users</p>
+                            <p>This Article Describes Mastering Battle with a Lynel: Top Techniques for Breaking Through</p>
 
                         
                     </div>
@@ -843,7 +900,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 12 2024 02:54:37 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 12 2024 03:06:48 GMT+0800">
                 
                     2024-08-12
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/error-0xc0000185-explained-troubleshooting-steps-and-fixes-for-windows-users/">Read more<span class="seo-reader-text">Error 0Xc0000185 Explained: Troubleshooting Steps and Fixes for Windows Users</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-battle-with-a-lynel-top-techniques-for-breaking-through/">Read more<span class="seo-reader-text">Mastering Battle with a Lynel: Top Techniques for Breaking Through</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/clearing-out-personalized-content-recommendations-on-instagram-made-simple/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/WrBuxX4mP0MaLiNpfnsihklt_ls=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-932007804-c6377c1eabd346b28f376de9bbf2e441.jpg" alt="Clearing Out Personalized Content Recommendations on Instagram Made Simple" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/inside-scoop-rumors-release-timeline-and-tech-breakdown-for-apples-upcoming-household-bot/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/18e0761348cb4d28e3480c4ed08a893497db31dc39159b03c85adcc25dd9aaa4.jpg" alt="Inside Scoop: Rumors, Release Timeline, and Tech Breakdown for Apple&#39;s Upcoming Household Bot" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/clearing-out-personalized-content-recommendations-on-instagram-made-simple/">
-                            Clearing Out Personalized Content Recommendations on Instagram Made Simple
+                        <a href="/inside-scoop-rumors-release-timeline-and-tech-breakdown-for-apples-upcoming-household-bot/">
+                            Inside Scoop: Rumors, Release Timeline, and Tech Breakdown for Apple&#39;s Upcoming Household Bot
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Clearing Out Personalized Content Recommendations on Instagram Made Simple</p>
+                            <p>This Article Describes Inside Scoop: Rumors, Release Timeline, and Tech Breakdown for Apple’s Upcoming Household Bot</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 12 2024 02:54:36 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 12 2024 03:06:47 GMT+0800">
                 
                     2024-08-12
                 
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/clearing-out-personalized-content-recommendations-on-instagram-made-simple/">Read more<span class="seo-reader-text">Clearing Out Personalized Content Recommendations on Instagram Made Simple</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/inside-scoop-rumors-release-timeline-and-tech-breakdown-for-apples-upcoming-household-bot/">Read more<span class="seo-reader-text">Inside Scoop: Rumors, Release Timeline, and Tech Breakdown for Apple&#39;s Upcoming Household Bot</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/getting-your-money-back-the-complete-steam-refund-process/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef549de1d2cc8ab07a2bd3f133.jpg" alt="Getting Your Money Back: The Complete Steam Refund Process" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/must-have-summer-edc-essentials-for-sunny-days-and-adventures-alike/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/OXPow5THD8g7Mb0XjsKX2PnMko0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/low-angle-view-of-young-woman-taking-selfie-with-dog-through-smart-phone-at-beach-against-clear-sky-1084684208-7e6a0a114e4144129d9b7ff7fd3d47c4.jpg" alt="Must-Have Summer EDC Essentials for Sunny Days and Adventures Alike" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/getting-your-money-back-the-complete-steam-refund-process/">
-                            Getting Your Money Back: The Complete Steam Refund Process
+                        <a href="/must-have-summer-edc-essentials-for-sunny-days-and-adventures-alike/">
+                            Must-Have Summer EDC Essentials for Sunny Days and Adventures Alike
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Getting Your Money Back: The Complete Steam Refund Process</p>
+                            <p>This Article Describes Must-Have Summer EDC Essentials for Sunny Days and Adventures Alike</p>
 
                         
                     </div>
@@ -971,7 +1028,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 12 2024 02:54:35 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 12 2024 03:06:46 GMT+0800">
                 
                     2024-08-12
                 
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/getting-your-money-back-the-complete-steam-refund-process/">Read more<span class="seo-reader-text">Getting Your Money Back: The Complete Steam Refund Process</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/must-have-summer-edc-essentials-for-sunny-days-and-adventures-alike/">Read more<span class="seo-reader-text">Must-Have Summer EDC Essentials for Sunny Days and Adventures Alike</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-solutions-to-repair-dvdcdbd-drives-stuck-on-closed-position/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/uiJ1_1vH4xyewMxC_c8WHih8X3w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/a-cd-ejecting-out-of-a-laptop-80486808-577ed8783df78c1e1f11b610.jpg" alt="Step-by-Step Solutions to Repair DVD/CD/BD Drives Stuck on Closed Position" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-solution-dealing-with-non-functional-usb-tethering/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb812ed418ac2e91f37424af9f.jpg" alt="Step-by-Step Solution: Dealing with Non-Functional USB Tethering" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-solutions-to-repair-dvdcdbd-drives-stuck-on-closed-position/">
-                            Step-by-Step Solutions to Repair DVD/CD/BD Drives Stuck on Closed Position
+                        <a href="/step-by-step-solution-dealing-with-non-functional-usb-tethering/">
+                            Step-by-Step Solution: Dealing with Non-Functional USB Tethering
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Solutions to Repair DVD&#x2F;CD&#x2F;BD Drives Stuck on Closed Position</p>
+                            <p>This Article Describes Step-by-Step Solution: Dealing with Non-Functional USB Tethering</p>
 
                         
                     </div>
@@ -1035,7 +1092,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 12 2024 02:54:34 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 12 2024 03:06:45 GMT+0800">
                 
                     2024-08-12
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/step-by-step-solutions-to-repair-dvdcdbd-drives-stuck-on-closed-position/">Read more<span class="seo-reader-text">Step-by-Step Solutions to Repair DVD/CD/BD Drives Stuck on Closed Position</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-solution-dealing-with-non-functional-usb-tethering/">Read more<span class="seo-reader-text">Step-by-Step Solution: Dealing with Non-Functional USB Tethering</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/exploring-the-reasons-driving-the-switch-to-ev-technology/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/fdLBsDKA-1jXAU0_a62fc7RaW5o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Electriccarchargingindriveway_sl-f_Getty_CROPPED-530085badfb24b87835558fcd117b6f3.jpg" alt="Exploring the Reasons Driving the Switch to EV Technology" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/samsung-z-fold-4-unveiled-release-timeline-price-points-and-comprehensive-specifications/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c77f42fc64b6007637ed0af75d65eab3269f8768c72afbf1c512e303a34ac930.jpg" alt="Samsung Z Fold 4 Unveiled: Release Timeline, Price Points, and Comprehensive Specifications" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/exploring-the-reasons-driving-the-switch-to-ev-technology/">
-                            Exploring the Reasons Driving the Switch to EV Technology
+                        <a href="/samsung-z-fold-4-unveiled-release-timeline-price-points-and-comprehensive-specifications/">
+                            Samsung Z Fold 4 Unveiled: Release Timeline, Price Points, and Comprehensive Specifications
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Exploring the Reasons Driving the Switch to EV Technology</p>
+                            <p>This Article Describes Samsung Z Fold 4 Unveiled: Release Timeline, Price Points, and Comprehensive Specifications</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 12 2024 02:54:33 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 12 2024 03:06:44 GMT+0800">
                 
                     2024-08-12
                 
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/exploring-the-reasons-driving-the-switch-to-ev-technology/">Read more<span class="seo-reader-text">Exploring the Reasons Driving the Switch to EV Technology</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/samsung-z-fold-4-unveiled-release-timeline-price-points-and-comprehensive-specifications/">Read more<span class="seo-reader-text">Samsung Z Fold 4 Unveiled: Release Timeline, Price Points, and Comprehensive Specifications</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/discover-the-most-popular-and-effective-samsung-smart-tv-apps-of-2e-upgrade-your-home-cinema-now/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57491460fea382eb83a2be019.jpg" alt="Discover the Most Popular and Effective Samsung Smart TV Apps of 2E – Upgrade Your Home Cinema Now" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/navigating-the-best-6-super-mario-controllers-a-comprehensive-pc-gamers-list/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c7ecdd3b24dbb573f2037e37.jpg" alt="Navigating the Best 6 Super Mario Controllers: A Comprehensive PC Gamer&#39;s List" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/discover-the-most-popular-and-effective-samsung-smart-tv-apps-of-2e-upgrade-your-home-cinema-now/">
-                            Discover the Most Popular and Effective Samsung Smart TV Apps of 2E – Upgrade Your Home Cinema Now
+                        <a href="/navigating-the-best-6-super-mario-controllers-a-comprehensive-pc-gamers-list/">
+                            Navigating the Best 6 Super Mario Controllers: A Comprehensive PC Gamer&#39;s List
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Discover the Most Popular and Effective Samsung Smart TV Apps of 2E – Upgrade Your Home Cinema Now</p>
+                            <p>This Article Describes Navigating the Best 6 Super Mario Controllers: A Comprehensive PC Gamer’s List</p>
 
                         
                     </div>
@@ -1163,7 +1220,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 12 2024 02:54:32 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 12 2024 03:06:42 GMT+0800">
                 
                     2024-08-12
                 
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/discover-the-most-popular-and-effective-samsung-smart-tv-apps-of-2e-upgrade-your-home-cinema-now/">Read more<span class="seo-reader-text">Discover the Most Popular and Effective Samsung Smart TV Apps of 2E – Upgrade Your Home Cinema Now</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/navigating-the-best-6-super-mario-controllers-a-comprehensive-pc-gamers-list/">Read more<span class="seo-reader-text">Navigating the Best 6 Super Mario Controllers: A Comprehensive PC Gamer&#39;s List</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/efficiently-plan-your-twitter-content-with-these-posting-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/4jmLsBRgyp5b6meI2wfMDpyuVSY=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Twitter-and-X-4c4103f6bc3c42e0b7197b60a50317ca.jpg" alt="Efficiently Plan Your Twitter Content with These Posting Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-tutorial-on-linking-your-samsung-tv-controller-to-the-screen/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg" alt="Step-by-Step Tutorial on Linking Your Samsung TV Controller to the Screen" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/efficiently-plan-your-twitter-content-with-these-posting-tips/">
-                            Efficiently Plan Your Twitter Content with These Posting Tips
+                        <a href="/step-by-step-tutorial-on-linking-your-samsung-tv-controller-to-the-screen/">
+                            Step-by-Step Tutorial on Linking Your Samsung TV Controller to the Screen
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Efficiently Plan Your Twitter Content with These Posting Tips</p>
+                            <p>This Article Describes Step-by-Step Tutorial on Linking Your Samsung TV Controller to the Screen</p>
 
                         
                     </div>
@@ -1227,7 +1284,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 12 2024 02:54:31 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 12 2024 03:06:41 GMT+0800">
                 
                     2024-08-12
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/efficiently-plan-your-twitter-content-with-these-posting-tips/">Read more<span class="seo-reader-text">Efficiently Plan Your Twitter Content with These Posting Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-tutorial-on-linking-your-samsung-tv-controller-to-the-screen/">Read more<span class="seo-reader-text">Step-by-Step Tutorial on Linking Your Samsung TV Controller to the Screen</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/debugging-made-easy-8-solutions-to-correct-parsing-mistakes-on-android/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da8079de3619058fd0f089920.jpg" alt="Debugging Made Easy: 8 Solutions to Correct Parsing Mistakes on Android" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-guide-refreshing-your-macs-wifi-and-bluetooth-connections/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6475a435b4a4c85695223b88.jpg" alt="Step-by-Step Guide: Refreshing Your Mac&#39;s WiFi and Bluetooth Connections" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/debugging-made-easy-8-solutions-to-correct-parsing-mistakes-on-android/">
-                            Debugging Made Easy: 8 Solutions to Correct Parsing Mistakes on Android
+                        <a href="/step-by-step-guide-refreshing-your-macs-wifi-and-bluetooth-connections/">
+                            Step-by-Step Guide: Refreshing Your Mac&#39;s WiFi and Bluetooth Connections
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Debugging Made Easy: 8 Solutions to Correct Parsing Mistakes on Android</p>
+                            <p>This Article Describes Step-by-Step Guide: Refreshing Your Mac’s WiFi and Bluetooth Connections</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 12 2024 02:54:30 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 12 2024 03:06:40 GMT+0800">
                 
                     2024-08-12
                 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/debugging-made-easy-8-solutions-to-correct-parsing-mistakes-on-android/">Read more<span class="seo-reader-text">Debugging Made Easy: 8 Solutions to Correct Parsing Mistakes on Android</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-guide-refreshing-your-macs-wifi-and-bluetooth-connections/">Read more<span class="seo-reader-text">Step-by-Step Guide: Refreshing Your Mac&#39;s WiFi and Bluetooth Connections</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/864/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/863/">863</a><a class="page-number" href="/page/864/">864</a><span class="page-number current">865</span><a class="page-number" href="/page/866/">866</a><a class="page-number" href="/page/867/">867</a><span class="space">&hellip;</span><a class="page-number" href="/page/900/">900</a><a class="extend next" rel="next" href="/page/866/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/864/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/863/">863</a><a class="page-number" href="/page/864/">864</a><span class="page-number current">865</span><a class="page-number" href="/page/866/">866</a><a class="page-number" href="/page/867/">867</a><span class="space">&hellip;</span><a class="page-number" href="/page/969/">969</a><a class="extend next" rel="next" href="/page/866/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

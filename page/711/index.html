@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"technical-tips.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8994</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9682</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8994</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9682</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/essential-tips-for-fixing-unresponsive-computers-and-restoring-power/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/joDsZndY7vZBx-4n02KyTPDQHUM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kaboompics_Womanlaptopmobilephonenotebooks-5a257db6482c5200370f451f.jpg" alt="Essential Tips for Fixing Unresponsive Computers and Restoring Power" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/comprehensive-solutions-for-fixing-critical-ntldr-and-boot-manager-issues/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/1ANqJthPzamCPG92s7blUEhCSH4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ntldr-missing-error-windows-5af0744d8e1b6e0039e76a88.PNG" alt="Comprehensive Solutions for Fixing Critical NTLDR and Boot Manager Issues" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/essential-tips-for-fixing-unresponsive-computers-and-restoring-power/">
-                            Essential Tips for Fixing Unresponsive Computers and Restoring Power
+                        <a href="/comprehensive-solutions-for-fixing-critical-ntldr-and-boot-manager-issues/">
+                            Comprehensive Solutions for Fixing Critical NTLDR and Boot Manager Issues
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Essential Tips for Fixing Unresponsive Computers and Restoring Power</p>
+                            <p>This Article Describes Comprehensive Solutions for Fixing Critical NTLDR and Boot Manager Issues</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 19:47:53 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:00:19 GMT+0800">
                 
                     2024-08-18
                 
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/essential-tips-for-fixing-unresponsive-computers-and-restoring-power/">Read more<span class="seo-reader-text">Essential Tips for Fixing Unresponsive Computers and Restoring Power</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/comprehensive-solutions-for-fixing-critical-ntldr-and-boot-manager-issues/">Read more<span class="seo-reader-text">Comprehensive Solutions for Fixing Critical NTLDR and Boot Manager Issues</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-reactivate-alexa-if-it-stops-listening-and-answering/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/dqB_riSvHBT69354LL_Mb2DLlcw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/amazon-alexa-design-speakers-977296-5bafee06c9e77c002603bf5c.jpg" alt="How to Reactivate Alexa If It Stops Listening and Answering" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1722901187213-fixing-windows-boot-failures-resolve-your-resetting-pc-error-today/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d79191204bcd93add24c922b6881.jpg" alt="Fixing Windows Boot Failures: Resolve Your &#39;Resetting PC&#39; Error Today" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-reactivate-alexa-if-it-stops-listening-and-answering/">
-                            How to Reactivate Alexa If It Stops Listening and Answering
+                        <a href="/1722901187213-fixing-windows-boot-failures-resolve-your-resetting-pc-error-today/">
+                            Fixing Windows Boot Failures: Resolve Your &#39;Resetting PC&#39; Error Today
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How to Reactivate Alexa If It Stops Listening and Answering</p>
+                            <p>This Article Describes Fixing Windows Boot Failures: Resolve Your ‘Resetting PC’ Error Today</p>
 
                         
                     </div>
@@ -779,7 +836,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 19:47:52 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:00:17 GMT+0800">
                 
                     2024-08-18
                 
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/how-to-reactivate-alexa-if-it-stops-listening-and-answering/">Read more<span class="seo-reader-text">How to Reactivate Alexa If It Stops Listening and Answering</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1722901187213-fixing-windows-boot-failures-resolve-your-resetting-pc-error-today/">Read more<span class="seo-reader-text">Fixing Windows Boot Failures: Resolve Your &#39;Resetting PC&#39; Error Today</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/understanding-why-you-might-need-a-new-car-battery-often-a-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666aaa24cc7d5f400170f744e3.jpeg" alt="Understanding Why You Might Need a New Car Battery Often: A Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/identifying-which-colleagues-saw-my-file-monitoring-google-docs-views/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/j7MsBMemLJ9eq38KMHDsgxeDciA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Activity-Dashboard-MacBook-5525643-edbffba90a12448fb98179e6cfdead71.jpg" alt="Identifying Which Colleagues Saw My File? Monitoring Google Docs Views" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/understanding-why-you-might-need-a-new-car-battery-often-a-guide/">
-                            Understanding Why You Might Need a New Car Battery Often: A Guide
+                        <a href="/identifying-which-colleagues-saw-my-file-monitoring-google-docs-views/">
+                            Identifying Which Colleagues Saw My File? Monitoring Google Docs Views
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Understanding Why You Might Need a New Car Battery Often: A Guide</p>
+                            <p>This Article Describes Identifying Which Colleagues Saw My File? Monitoring Google Docs Views</p>
 
                         
                     </div>
@@ -843,7 +900,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 19:47:51 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:00:16 GMT+0800">
                 
                     2024-08-18
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/understanding-why-you-might-need-a-new-car-battery-often-a-guide/">Read more<span class="seo-reader-text">Understanding Why You Might Need a New Car Battery Often: A Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/identifying-which-colleagues-saw-my-file-monitoring-google-docs-views/">Read more<span class="seo-reader-text">Identifying Which Colleagues Saw My File? Monitoring Google Docs Views</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/deciphering-the-causes-of-error-0xc0000185-and-effective-resolution-strategies/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/errorcode201-6a7e4d37f05c4d7ba6ea29afef248ce0.jpg" alt="Deciphering the Causes of Error 0xC0000185 &amp; Effective Resolution Strategies" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/discover-the-12-premier-free-online-cinemas-in-the-world/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/8QoRa7rxh1Sb_ROuFhBCtwa_bmY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-922710232-686ae40ac2cb4b47aa3c576b4557f96b.jpg" alt="Discover the 12 Premier Free Online Cinemas in the World" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/deciphering-the-causes-of-error-0xc0000185-and-effective-resolution-strategies/">
-                            Deciphering the Causes of Error 0xC0000185 &amp; Effective Resolution Strategies
+                        <a href="/discover-the-12-premier-free-online-cinemas-in-the-world/">
+                            Discover the 12 Premier Free Online Cinemas in the World
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Deciphering the Causes of Error 0xC0000185 &amp; Effective Resolution Strategies</p>
+                            <p>This Article Describes Discover the 12 Premier Free Online Cinemas in the World</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 19:47:50 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:00:15 GMT+0800">
                 
                     2024-08-18
                 
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/deciphering-the-causes-of-error-0xc0000185-and-effective-resolution-strategies/">Read more<span class="seo-reader-text">Deciphering the Causes of Error 0xC0000185 &amp; Effective Resolution Strategies</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/discover-the-12-premier-free-online-cinemas-in-the-world/">Read more<span class="seo-reader-text">Discover the 12 Premier Free Online Cinemas in the World</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/modify-your-kindle-paperwhites-system-time-detailed-instructions-included/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/L99C7_xTcRR4_ECwxv_nlDvVasA=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-926194136-62d3eb60d7444e7d8104128dd051a559.jpg" alt="Modify Your Kindle Paperwhite&#39;s System Time - Detailed Instructions Included" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/stream-on-the-go-how-to-link-your-fire-stick-to-a-portable-wifi-network/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/38e4000e96c33206bb992b3f696967e164e1f69dc3c8232613dcea5c215cabc4.jpg" alt="Stream on the Go: How to Link Your Fire Stick to a Portable WiFi Network" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/modify-your-kindle-paperwhites-system-time-detailed-instructions-included/">
-                            Modify Your Kindle Paperwhite&#39;s System Time - Detailed Instructions Included
+                        <a href="/stream-on-the-go-how-to-link-your-fire-stick-to-a-portable-wifi-network/">
+                            Stream on the Go: How to Link Your Fire Stick to a Portable WiFi Network
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Modify Your Kindle Paperwhite’s System Time - Detailed Instructions Included</p>
+                            <p>This Article Describes Stream on the Go: How to Link Your Fire Stick to a Portable WiFi Network</p>
 
                         
                     </div>
@@ -971,7 +1028,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 19:47:49 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:00:14 GMT+0800">
                 
                     2024-08-18
                 
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/modify-your-kindle-paperwhites-system-time-detailed-instructions-included/">Read more<span class="seo-reader-text">Modify Your Kindle Paperwhite&#39;s System Time - Detailed Instructions Included</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/stream-on-the-go-how-to-link-your-fire-stick-to-a-portable-wifi-network/">Read more<span class="seo-reader-text">Stream on the Go: How to Link Your Fire Stick to a Portable WiFi Network</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/order-of-excellence-how-to-enjoy-every-james-bond-movie-back-to-back/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c69e6ec9a49854fd1e940559.jpg" alt="Order of Excellence: How to Enjoy Every James Bond Movie Back-to-Back" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/navigate-to-prominence-unveiling-the-most-visited-websites-in-the-world/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/3a3db1628b8f2814d2040ecfe00634d164ea4b5f3058a85b825026993cb96502.jpg" alt="Navigate to Prominence: Unveiling the Most Visited Websites in the World" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/order-of-excellence-how-to-enjoy-every-james-bond-movie-back-to-back/">
-                            Order of Excellence: How to Enjoy Every James Bond Movie Back-to-Back
+                        <a href="/navigate-to-prominence-unveiling-the-most-visited-websites-in-the-world/">
+                            Navigate to Prominence: Unveiling the Most Visited Websites in the World
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Order of Excellence: How to Enjoy Every James Bond Movie Back-to-Back</p>
+                            <p>This Article Describes Navigate to Prominence: Unveiling the Most Visited Websites in the World</p>
 
                         
                     </div>
@@ -1035,7 +1092,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 19:47:48 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:00:13 GMT+0800">
                 
                     2024-08-18
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/order-of-excellence-how-to-enjoy-every-james-bond-movie-back-to-back/">Read more<span class="seo-reader-text">Order of Excellence: How to Enjoy Every James Bond Movie Back-to-Back</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/navigate-to-prominence-unveiling-the-most-visited-websites-in-the-world/">Read more<span class="seo-reader-text">Navigate to Prominence: Unveiling the Most Visited Websites in the World</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/inside-look-exciting-updates-and-breakthroughs-announced-at-wwdc-2025/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/928ac16090104434fd8fc2700fac25541eeec6a6602a0ec014bb82ceeb16065a.jpg" alt="Inside Look: Exciting Updates and Breakthroughs Announced at WWDC 2025" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/macos-users-guide-effortlessly-syncing-airpods-with-macbook-air/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/85dce2e7a62329814e9e3c20d7b6e75c4ef84f34c3e72508a64214321a25f133.jpg" alt="MacOS Users Guide: Effortlessly Syncing AirPods with MacBook Air" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/inside-look-exciting-updates-and-breakthroughs-announced-at-wwdc-2025/">
-                            Inside Look: Exciting Updates and Breakthroughs Announced at WWDC 2025
+                        <a href="/macos-users-guide-effortlessly-syncing-airpods-with-macbook-air/">
+                            MacOS Users Guide: Effortlessly Syncing AirPods with MacBook Air
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Inside Look: Exciting Updates and Breakthroughs Announced at WWDC 2025</p>
+                            <p>This Article Describes MacOS Users Guide: Effortlessly Syncing AirPods with MacBook Air</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 19:47:47 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:00:12 GMT+0800">
                 
                     2024-08-18
                 
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/inside-look-exciting-updates-and-breakthroughs-announced-at-wwdc-2025/">Read more<span class="seo-reader-text">Inside Look: Exciting Updates and Breakthroughs Announced at WWDC 2025</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/macos-users-guide-effortlessly-syncing-airpods-with-macbook-air/">Read more<span class="seo-reader-text">MacOS Users Guide: Effortlessly Syncing AirPods with MacBook Air</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-guide-accessing-and-editing-pages-files-on-your-windows-or-mac-computer/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/6193b23bc0e674c0853b0708bb0c2b43a5237bddcffe969ab0d29845fe4343ae.jpg" alt="Step-by-Step Guide: Accessing and Editing Pages Files on Your Windows or Mac Computer" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/guide-to-correct-the-absent-or-lost-d3dx939dll-error-on-your-pc/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/mdtz7YG-HzbOZ3kyLDCgMG4hT0w=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d3dx9_39-dll-error-message-59b27a1ec4124400107693a8.png" alt="Guide to Correct the Absent or Lost D3DX9_39.dll Error on Your PC" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-guide-accessing-and-editing-pages-files-on-your-windows-or-mac-computer/">
-                            Step-by-Step Guide: Accessing and Editing Pages Files on Your Windows or Mac Computer
+                        <a href="/guide-to-correct-the-absent-or-lost-d3dx939dll-error-on-your-pc/">
+                            Guide to Correct the Absent or Lost D3DX9_39.dll Error on Your PC
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Guide: Accessing and Editing Pages Files on Your Windows or Mac Computer</p>
+                            <p>This Article Describes Guide to Correct the Absent or Lost D3DX9_39.dll Error on Your PC</p>
 
                         
                     </div>
@@ -1163,7 +1220,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 19:47:46 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:00:11 GMT+0800">
                 
                     2024-08-18
                 
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/step-by-step-guide-accessing-and-editing-pages-files-on-your-windows-or-mac-computer/">Read more<span class="seo-reader-text">Step-by-Step Guide: Accessing and Editing Pages Files on Your Windows or Mac Computer</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/guide-to-correct-the-absent-or-lost-d3dx939dll-error-on-your-pc/">Read more<span class="seo-reader-text">Guide to Correct the Absent or Lost D3DX9_39.dll Error on Your PC</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-tutorial-recording-video-of-your-playstation-4-games/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc49ac8140b1c1038ab7e89004.jpg" alt="Step-by-Step Tutorial: Recording Video of Your PlayStation 4 Games" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/comprehensive-guide-to-the-soon-to-arrive-apple-showcase-schedule-gossip-and-facts/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b899b1042a541c20e9321a2f.jpg" alt="Comprehensive Guide to the Soon-to-Arrive Apple Showcase: Schedule, Gossip &amp; Facts" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-tutorial-recording-video-of-your-playstation-4-games/">
-                            Step-by-Step Tutorial: Recording Video of Your PlayStation 4 Games
+                        <a href="/comprehensive-guide-to-the-soon-to-arrive-apple-showcase-schedule-gossip-and-facts/">
+                            Comprehensive Guide to the Soon-to-Arrive Apple Showcase: Schedule, Gossip &amp; Facts
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Tutorial: Recording Video of Your PlayStation 4 Games</p>
+                            <p>This Article Describes Comprehensive Guide to the Soon-to-Arrive Apple Showcase: Schedule, Gossip &amp; Facts</p>
 
                         
                     </div>
@@ -1227,7 +1284,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 19:47:45 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:00:10 GMT+0800">
                 
                     2024-08-18
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/step-by-step-tutorial-recording-video-of-your-playstation-4-games/">Read more<span class="seo-reader-text">Step-by-Step Tutorial: Recording Video of Your PlayStation 4 Games</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/comprehensive-guide-to-the-soon-to-arrive-apple-showcase-schedule-gossip-and-facts/">Read more<span class="seo-reader-text">Comprehensive Guide to the Soon-to-Arrive Apple Showcase: Schedule, Gossip &amp; Facts</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-anatomy-of-a-meme-how-humor-spreads-online/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea101e0b8dd34c17b0c21488b1.jpg" alt="The Anatomy of a Meme: How Humor Spreads Online" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/overcoming-code-10-errors-your-step-by-step-handbook-for-troubleshooting-non-starting-devices/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6156836ba9860fa44be8739e.jpg" alt="Overcoming Code 10 Errors: Your Step-by-Step Handbook for Troubleshooting Non-Starting Devices" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-anatomy-of-a-meme-how-humor-spreads-online/">
-                            The Anatomy of a Meme: How Humor Spreads Online
+                        <a href="/overcoming-code-10-errors-your-step-by-step-handbook-for-troubleshooting-non-starting-devices/">
+                            Overcoming Code 10 Errors: Your Step-by-Step Handbook for Troubleshooting Non-Starting Devices
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Anatomy of a Meme: How Humor Spreads Online</p>
+                            <p>This Article Describes Overcoming Code 10 Errors: Your Step-by-Step Handbook for Troubleshooting Non-Starting Devices</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 19:47:44 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:00:09 GMT+0800">
                 
                     2024-08-18
                 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/the-anatomy-of-a-meme-how-humor-spreads-online/">Read more<span class="seo-reader-text">The Anatomy of a Meme: How Humor Spreads Online</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/overcoming-code-10-errors-your-step-by-step-handbook-for-troubleshooting-non-starting-devices/">Read more<span class="seo-reader-text">Overcoming Code 10 Errors: Your Step-by-Step Handbook for Troubleshooting Non-Starting Devices</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/710/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/709/">709</a><a class="page-number" href="/page/710/">710</a><span class="page-number current">711</span><a class="page-number" href="/page/712/">712</a><a class="page-number" href="/page/713/">713</a><span class="space">&hellip;</span><a class="page-number" href="/page/900/">900</a><a class="extend next" rel="next" href="/page/712/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/710/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/709/">709</a><a class="page-number" href="/page/710/">710</a><span class="page-number current">711</span><a class="page-number" href="/page/712/">712</a><a class="page-number" href="/page/713/">713</a><span class="space">&hellip;</span><a class="page-number" href="/page/969/">969</a><a class="extend next" rel="next" href="/page/712/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

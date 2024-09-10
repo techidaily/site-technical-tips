@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"technical-tips.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8994</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9682</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8994</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9682</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-the-not-found-issue-for-d3d9dll-on-windows/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/QvOUNWJ9G9rJ-FmzYthmDHpREmc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d3d9-dll-error-message-14a33a51b5124ab1abe0f76c99fc6834.png" alt="Troubleshooting the &#39;Not Found&#39; Issue for d3d9.dll on Windows" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-fix-mssfmtdll-not-found-problem-tips-and-solutions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5163c7ab05139a28f15cb6cd.jpg" alt="How To Fix &#39;mssfmt.dll Not Found&#39; Problem: Tips and Solutions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-the-not-found-issue-for-d3d9dll-on-windows/">
-                            Troubleshooting the &#39;Not Found&#39; Issue for d3d9.dll on Windows
+                        <a href="/how-to-fix-mssfmtdll-not-found-problem-tips-and-solutions/">
+                            How To Fix &#39;mssfmt.dll Not Found&#39; Problem: Tips and Solutions
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting the ‘Not Found’ Issue for d3d9.dll on Windows</p>
+                            <p>This Article Describes How To Fix ‘mssfmt.dll Not Found’ Problem: Tips and Solutions</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:06:16 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:18:39 GMT+0800">
                 
                     2024-08-18
                 
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/troubleshooting-the-not-found-issue-for-d3d9dll-on-windows/">Read more<span class="seo-reader-text">Troubleshooting the &#39;Not Found&#39; Issue for d3d9.dll on Windows</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-fix-mssfmtdll-not-found-problem-tips-and-solutions/">Read more<span class="seo-reader-text">How To Fix &#39;mssfmt.dll Not Found&#39; Problem: Tips and Solutions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-correct-normalizdll-not-found-issues-in-windows-systems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/Ckc_T1GRgruN1e8I6OyvXMg_8LU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/normaliz-dll-error-message-6429d9cb017d4ef4a9dba37c780c1cf9.png" alt="How to Correct &#39;Normaliz.dll Not Found&#39; Issues in Windows Systems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/navigate-through-macos-secrets-to-recover-stored-login-information/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/CuZaYIa-IPn9NpzxED8qCE9z2w0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-889339210-55b1201c44404a56a88761a321a30f56.jpg" alt="Navigate Through macOS Secrets to Recover Stored Login Information" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-correct-normalizdll-not-found-issues-in-windows-systems/">
-                            How to Correct &#39;Normaliz.dll Not Found&#39; Issues in Windows Systems
+                        <a href="/navigate-through-macos-secrets-to-recover-stored-login-information/">
+                            Navigate Through macOS Secrets to Recover Stored Login Information
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How to Correct ‘Normaliz.dll Not Found’ Issues in Windows Systems</p>
+                            <p>This Article Describes Navigate Through macOS Secrets to Recover Stored Login Information</p>
 
                         
                     </div>
@@ -779,7 +836,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:06:15 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:18:38 GMT+0800">
                 
                     2024-08-18
                 
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/how-to-correct-normalizdll-not-found-issues-in-windows-systems/">Read more<span class="seo-reader-text">How to Correct &#39;Normaliz.dll Not Found&#39; Issues in Windows Systems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/navigate-through-macos-secrets-to-recover-stored-login-information/">Read more<span class="seo-reader-text">Navigate Through macOS Secrets to Recover Stored Login Information</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-ultimate-list-best-exercise-journaling-apps-for-the-year-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1db43aa9d207b59321d9d6ffc.jpg" alt="The Ultimate List: Best Exercise Journaling Apps for the Year 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/unlocking-the-virtual-world-creating-an-account-for-oculus-meta-quest-quest-2/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153a07526aaf66c61ff3070513.jpg" alt="Unlocking the Virtual World: Creating an Account for Oculus Meta (Quest, Quest 2)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-ultimate-list-best-exercise-journaling-apps-for-the-year-2024/">
-                            The Ultimate List: Best Exercise Journaling Apps for the Year 2024
+                        <a href="/unlocking-the-virtual-world-creating-an-account-for-oculus-meta-quest-quest-2/">
+                            Unlocking the Virtual World: Creating an Account for Oculus Meta (Quest, Quest 2)
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Ultimate List: Best Exercise Journaling Apps for the Year 2024</p>
+                            <p>This Article Describes Unlocking the Virtual World: Creating an Account for Oculus Meta (Quest, Quest 2)</p>
 
                         
                     </div>
@@ -843,7 +900,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:06:14 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:18:37 GMT+0800">
                 
                     2024-08-18
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/the-ultimate-list-best-exercise-journaling-apps-for-the-year-2024/">Read more<span class="seo-reader-text">The Ultimate List: Best Exercise Journaling Apps for the Year 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/unlocking-the-virtual-world-creating-an-account-for-oculus-meta-quest-quest-2/">Read more<span class="seo-reader-text">Unlocking the Virtual World: Creating an Account for Oculus Meta (Quest, Quest 2)</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/expertly-selected-top-12-free-hard-drive-defrag-tools-updated/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/u_HnkBJKyWBIafqnvOQUdb-LsFU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fragmented-pieces-ed9aede8070749238add68007d7728d9.png" alt="Expertly Selected Top 12 Free Hard Drive Defrag Tools - Updated" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-get-microsoft-word-without-paying-your-pathway-to-complimentary-office-tools/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d79191204bcd93add24c922b6881.jpg" alt="How to Get Microsoft Word Without Paying: Your Pathway to Complimentary Office Tools" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/expertly-selected-top-12-free-hard-drive-defrag-tools-updated/">
-                            Expertly Selected Top 12 Free Hard Drive Defrag Tools - Updated
+                        <a href="/how-to-get-microsoft-word-without-paying-your-pathway-to-complimentary-office-tools/">
+                            How to Get Microsoft Word Without Paying: Your Pathway to Complimentary Office Tools
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Expertly Selected Top 12 Free Hard Drive Defrag Tools - Updated</p>
+                            <p>This Article Describes How to Get Microsoft Word Without Paying: Your Pathway to Complimentary Office Tools</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:06:13 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:18:36 GMT+0800">
                 
                     2024-08-18
                 
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/expertly-selected-top-12-free-hard-drive-defrag-tools-updated/">Read more<span class="seo-reader-text">Expertly Selected Top 12 Free Hard Drive Defrag Tools - Updated</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-get-microsoft-word-without-paying-your-pathway-to-complimentary-office-tools/">Read more<span class="seo-reader-text">How to Get Microsoft Word Without Paying: Your Pathway to Complimentary Office Tools</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-ultimate-guide-conjuring-series-viewing-sequence/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/9512aea1a507981ddcbdbe0823cb40f28338d2e0f0685c6e003300aac2dc1534.jpg" alt="The Ultimate Guide: Conjuring Series Viewing Sequence" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-check-viewership-history-for-shared-files-on-google-drive/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/j7MsBMemLJ9eq38KMHDsgxeDciA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Activity-Dashboard-MacBook-5525643-edbffba90a12448fb98179e6cfdead71.jpg" alt="How to Check Viewership History for Shared Files on Google Drive" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-ultimate-guide-conjuring-series-viewing-sequence/">
-                            The Ultimate Guide: Conjuring Series Viewing Sequence
+                        <a href="/how-to-check-viewership-history-for-shared-files-on-google-drive/">
+                            How to Check Viewership History for Shared Files on Google Drive
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Ultimate Guide: Conjuring Series Viewing Sequence</p>
+                            <p>This Article Describes How to Check Viewership History for Shared Files on Google Drive</p>
 
                         
                     </div>
@@ -971,7 +1028,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:06:12 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:18:35 GMT+0800">
                 
                     2024-08-18
                 
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/the-ultimate-guide-conjuring-series-viewing-sequence/">Read more<span class="seo-reader-text">The Ultimate Guide: Conjuring Series Viewing Sequence</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-check-viewership-history-for-shared-files-on-google-drive/">Read more<span class="seo-reader-text">How to Check Viewership History for Shared Files on Google Drive</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/top-5-must-have-navigation-apps-for-your-ios-device/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/ELcE8PQC5RCxa6ul_6AvjJWBKaU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/woman-using-smartphone-as-gps-navigation-in-car-466592489-5b8b62b246e0fb0050d94fdb.jpg" alt="Top 5 Must-Have Navigation Apps for Your iOS Device" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/amd-radeon-video-card-drivers-v2410/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/I_HpRM5vgw7w55WhUbJ4pcXGQWM=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/christin-hume-mfB1B1s4sMc-unsplash-9e86e32f31b9433a94788d856268f706.jpg" alt="AMD Radeon Video Card Drivers V24.10" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/top-5-must-have-navigation-apps-for-your-ios-device/">
-                            Top 5 Must-Have Navigation Apps for Your iOS Device
+                        <a href="/amd-radeon-video-card-drivers-v2410/">
+                            AMD Radeon Video Card Drivers V24.10
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Top 5 Must-Have Navigation Apps for Your iOS Device</p>
+                            <p>This Article Describes AMD Radeon Video Card Drivers V24.10</p>
 
                         
                     </div>
@@ -1035,7 +1092,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:06:11 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:18:34 GMT+0800">
                 
                     2024-08-18
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/top-5-must-have-navigation-apps-for-your-ios-device/">Read more<span class="seo-reader-text">Top 5 Must-Have Navigation Apps for Your iOS Device</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/amd-radeon-video-card-drivers-v2410/">Read more<span class="seo-reader-text">AMD Radeon Video Card Drivers V24.10</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/streamline-your-familys-daily-routines-using-our-pick-of-ebest-shared-calendars/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/Lgd5TUsFkYjXRy5hbjlIgZVN9U4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-842826736-59f8f627054ad90010347440.jpg" alt="Streamline Your Family&#39;s Daily Routines Using Our Pick of Ebest Shared Calendars" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/resolving-d3dx933dll-file-not-found-issues-a-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c9a3e1b7624a8f2d1d718fa1.jpg" alt="Resolving &#39;D3Dx9_33.dll File Not Found&#39; Issues: A Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/streamline-your-familys-daily-routines-using-our-pick-of-ebest-shared-calendars/">
-                            Streamline Your Family&#39;s Daily Routines Using Our Pick of Ebest Shared Calendars
+                        <a href="/resolving-d3dx933dll-file-not-found-issues-a-comprehensive-guide/">
+                            Resolving &#39;D3Dx9_33.dll File Not Found&#39; Issues: A Comprehensive Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Streamline Your Family’s Daily Routines Using Our Pick of Ebest Shared Calendars</p>
+                            <p>This Article Describes Resolving ‘D3Dx9_33.dll File Not Found’ Issues: A Comprehensive Guide</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:06:10 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:18:33 GMT+0800">
                 
                     2024-08-18
                 
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/streamline-your-familys-daily-routines-using-our-pick-of-ebest-shared-calendars/">Read more<span class="seo-reader-text">Streamline Your Family&#39;s Daily Routines Using Our Pick of Ebest Shared Calendars</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/resolving-d3dx933dll-file-not-found-issues-a-comprehensive-guide/">Read more<span class="seo-reader-text">Resolving &#39;D3Dx9_33.dll File Not Found&#39; Issues: A Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-latest-on-ps5-slim-updates-costs-launch-timeline-and-technical-details/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/vlIv_3iTK-DDHacZqiUmDg2fOTg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PS5-Slim-Wide-fe2f63e3b1cf443a81fed71f109aacd0.jpg" alt="The Latest on PS5 Slim – Updates, Costs, Launch Timeline, and Technical Details" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-tutorial-on-reinitializing-computer-motherboard-settings-via-cmos/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/sDEj0vlACkV7Q2sde-7yZLLGpzg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pheonixbios-exit-menu-5995973eaad52b0011792d42.png" alt="Step-by-Step Tutorial on Reinitializing Computer Motherboard Settings via CMOS" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-latest-on-ps5-slim-updates-costs-launch-timeline-and-technical-details/">
-                            The Latest on PS5 Slim – Updates, Costs, Launch Timeline, and Technical Details
+                        <a href="/step-by-step-tutorial-on-reinitializing-computer-motherboard-settings-via-cmos/">
+                            Step-by-Step Tutorial on Reinitializing Computer Motherboard Settings via CMOS
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Latest on PS5 Slim – Updates, Costs, Launch Timeline, and Technical Details</p>
+                            <p>This Article Describes Step-by-Step Tutorial on Reinitializing Computer Motherboard Settings via CMOS</p>
 
                         
                     </div>
@@ -1163,7 +1220,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:06:09 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:18:31 GMT+0800">
                 
                     2024-08-18
                 
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/the-latest-on-ps5-slim-updates-costs-launch-timeline-and-technical-details/">Read more<span class="seo-reader-text">The Latest on PS5 Slim – Updates, Costs, Launch Timeline, and Technical Details</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-tutorial-on-reinitializing-computer-motherboard-settings-via-cmos/">Read more<span class="seo-reader-text">Step-by-Step Tutorial on Reinitializing Computer Motherboard Settings via CMOS</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/bypass-the-barrier-regain-entry-into-your-facebook-profile-without-emailphone-hurdles/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf462fe90ad515f1ed2896ad3.jpg" alt="ByPass the Barrier: Regain Entry Into Your Facebook Profile without Email/Phone Hurdles" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/effective-remedies-for-the-dsounddll-is-absent-issue-on-your-computer/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/oLV9mWDdvx8Rg9VahvViwIzUKmQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dsound-dll-error-message-23c8b1da41c04f7796252a52a57f4c36.png" alt="Effective Remedies for the &#39;dsound.dll Is Absent&#39; Issue on Your Computer" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/bypass-the-barrier-regain-entry-into-your-facebook-profile-without-emailphone-hurdles/">
-                            ByPass the Barrier: Regain Entry Into Your Facebook Profile without Email/Phone Hurdles
+                        <a href="/effective-remedies-for-the-dsounddll-is-absent-issue-on-your-computer/">
+                            Effective Remedies for the &#39;dsound.dll Is Absent&#39; Issue on Your Computer
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes ByPass the Barrier: Regain Entry Into Your Facebook Profile without Email&#x2F;Phone Hurdles</p>
+                            <p>This Article Describes Effective Remedies for the ‘dsound.dll Is Absent’ Issue on Your Computer</p>
 
                         
                     </div>
@@ -1227,7 +1284,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:06:07 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:18:30 GMT+0800">
                 
                     2024-08-18
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/bypass-the-barrier-regain-entry-into-your-facebook-profile-without-emailphone-hurdles/">Read more<span class="seo-reader-text">ByPass the Barrier: Regain Entry Into Your Facebook Profile without Email/Phone Hurdles</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/effective-remedies-for-the-dsounddll-is-absent-issue-on-your-computer/">Read more<span class="seo-reader-text">Effective Remedies for the &#39;dsound.dll Is Absent&#39; Issue on Your Computer</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/exploring-the-best-free-pdf-editing-software-ranked-1-13-september-2024-edition/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60b805be21432cf623922316c.png" alt="Exploring the Best Free PDF Editing Software: Ranked #1-#13 (September 2024 Edition)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-guide-broadcasting-olympic-games-live/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/863d04b9acbb47d4c816aa78863abe6c0290ed89b51e864e5227f099ca87b4dd.jpg" alt="Step-by-Step Guide: Broadcasting Olympic Games Live" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/exploring-the-best-free-pdf-editing-software-ranked-1-13-september-2024-edition/">
-                            Exploring the Best Free PDF Editing Software: Ranked #1-#13 (September 2024 Edition)
+                        <a href="/step-by-step-guide-broadcasting-olympic-games-live/">
+                            Step-by-Step Guide: Broadcasting Olympic Games Live
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Exploring the Best Free PDF Editing Software: Ranked #1-#13 (September 2024 Edition)</p>
+                            <p>This Article Describes Step-by-Step Guide: Broadcasting Olympic Games Live</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:06:06 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:18:29 GMT+0800">
                 
                     2024-08-18
                 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/exploring-the-best-free-pdf-editing-software-ranked-1-13-september-2024-edition/">Read more<span class="seo-reader-text">Exploring the Best Free PDF Editing Software: Ranked #1-#13 (September 2024 Edition)</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-guide-broadcasting-olympic-games-live/">Read more<span class="seo-reader-text">Step-by-Step Guide: Broadcasting Olympic Games Live</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/608/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/607/">607</a><a class="page-number" href="/page/608/">608</a><span class="page-number current">609</span><a class="page-number" href="/page/610/">610</a><a class="page-number" href="/page/611/">611</a><span class="space">&hellip;</span><a class="page-number" href="/page/900/">900</a><a class="extend next" rel="next" href="/page/610/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/608/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/607/">607</a><a class="page-number" href="/page/608/">608</a><span class="page-number current">609</span><a class="page-number" href="/page/610/">610</a><a class="page-number" href="/page/611/">611</a><span class="space">&hellip;</span><a class="page-number" href="/page/969/">969</a><a class="extend next" rel="next" href="/page/610/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

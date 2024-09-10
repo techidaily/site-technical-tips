@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"technical-tips.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8994</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9682</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8994</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9682</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/upcoming-macos-sequoia-version-15-launch-timeline-key-updates-and-insider-info/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d7819f0fe370579d848f9daaea.jpg" alt="Upcoming MacOS Sequoia Version 15: Launch Timeline, Key Updates &amp; Insider Info" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/streamline-your-home-routine-discover/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db9f5a34232b56c8f050ef2ce.jpg" alt="Streamline Your Home Routine: Discover" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/upcoming-macos-sequoia-version-15-launch-timeline-key-updates-and-insider-info/">
-                            Upcoming MacOS Sequoia Version 15: Launch Timeline, Key Updates &amp; Insider Info
+                        <a href="/streamline-your-home-routine-discover/">
+                            Streamline Your Home Routine: Discover
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Upcoming MacOS Sequoia Version 15: Launch Timeline, Key Updates &amp; Insider Info</p>
+                            <p>This Article Describes Streamline Your Home Routine: Discover</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:30:39 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:43:08 GMT+0800">
                 
                     2024-08-18
                 
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/upcoming-macos-sequoia-version-15-launch-timeline-key-updates-and-insider-info/">Read more<span class="seo-reader-text">Upcoming MacOS Sequoia Version 15: Launch Timeline, Key Updates &amp; Insider Info</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/streamline-your-home-routine-discover/">Read more<span class="seo-reader-text">Streamline Your Home Routine: Discover</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/motherboard-selection-mastery-understanding-7-critical-factors/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/740485eec6690d6fdabad7ecea1a58c3aaeba409560e67e78cd5dc4e10558933.jpg" alt="Motherboard Selection Mastery: Understanding 7 Critical Factors" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-control-a-roku-tv-without-a-remote/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/d-rUObg-nE6_Z3dCf-oJYfKYbpE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tcl-6-series-roku-tv-lifestyle-5bb68f9146e0fb0026977d9a.jpg" alt="How to Control a Roku TV Without a Remote" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/motherboard-selection-mastery-understanding-7-critical-factors/">
-                            Motherboard Selection Mastery: Understanding 7 Critical Factors
+                        <a href="/how-to-control-a-roku-tv-without-a-remote/">
+                            How to Control a Roku TV Without a Remote
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Motherboard Selection Mastery: Understanding 7 Critical Factors</p>
+                            <p>This Article Describes How to Control a Roku TV Without a Remote</p>
 
                         
                     </div>
@@ -779,7 +836,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:30:37 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:43:07 GMT+0800">
                 
                     2024-08-18
                 
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/motherboard-selection-mastery-understanding-7-critical-factors/">Read more<span class="seo-reader-text">Motherboard Selection Mastery: Understanding 7 Critical Factors</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-control-a-roku-tv-without-a-remote/">Read more<span class="seo-reader-text">How to Control a Roku TV Without a Remote</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-future-is-flexible-all-the-latest-rumors-on-apples-next-gen-foldable-phone-teased/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/984111cded778af58487bf4d0a9e7e12742129a74c44be61b9a0afddf486bcf9.jpg" alt="The Future Is Flexible! All the Latest Rumors on Apple&#39;s Next-Gen Foldable Phone Teased" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/easy-steps-to-correct-the-absent-msvcr7t16dll-file-warning/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/2TkmmCxnlnFuoUWKRGASeZ2gUlU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/msvcr70-dll-error-message-b10a1a5d82b14a85aec3eaba8387c074.png" alt="Easy Steps to Correct the Absent Msvcr7t16.dll File Warning" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-future-is-flexible-all-the-latest-rumors-on-apples-next-gen-foldable-phone-teased/">
-                            The Future Is Flexible! All the Latest Rumors on Apple&#39;s Next-Gen Foldable Phone Teased
+                        <a href="/easy-steps-to-correct-the-absent-msvcr7t16dll-file-warning/">
+                            Easy Steps to Correct the Absent Msvcr7t16.dll File Warning
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Future Is Flexible! All the Latest Rumors on Apple’s Next-Gen Foldable Phone Teased</p>
+                            <p>This Article Describes Easy Steps to Correct the Absent Msvcr7t16.dll File Warning</p>
 
                         
                     </div>
@@ -843,7 +900,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:30:36 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:43:05 GMT+0800">
                 
                     2024-08-18
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/the-future-is-flexible-all-the-latest-rumors-on-apples-next-gen-foldable-phone-teased/">Read more<span class="seo-reader-text">The Future Is Flexible! All the Latest Rumors on Apple&#39;s Next-Gen Foldable Phone Teased</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/easy-steps-to-correct-the-absent-msvcr7t16dll-file-warning/">Read more<span class="seo-reader-text">Easy Steps to Correct the Absent Msvcr7t16.dll File Warning</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/enhancing-layout-skills-the-expert-way-to-integrate-lines-in-microsoft-word-files/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a9b9183de9916f4cf1facd61.jpg" alt="Enhancing Layout Skills: The Expert Way to Integrate Lines in Microsoft Word Files" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/guide-to-overcoming-the-missing-dll-dealing-with-msvcr7-errors/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d0531d40b03cde46602b7231bfc17c15ddbf0815517f86ca0ac7f1e63b79d5ed.jpg" alt="Guide to Overcoming the Missing DLL: Dealing with Msvcr7# Errors" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/enhancing-layout-skills-the-expert-way-to-integrate-lines-in-microsoft-word-files/">
-                            Enhancing Layout Skills: The Expert Way to Integrate Lines in Microsoft Word Files
+                        <a href="/guide-to-overcoming-the-missing-dll-dealing-with-msvcr7-errors/">
+                            Guide to Overcoming the Missing DLL: Dealing with Msvcr7# Errors
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Enhancing Layout Skills: The Expert Way to Integrate Lines in Microsoft Word Files</p>
+                            <p>This Article Describes Guide to Overcoming the Missing DLL: Dealing with Msvcr7# Errors</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:30:35 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:43:04 GMT+0800">
                 
                     2024-08-18
                 
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/enhancing-layout-skills-the-expert-way-to-integrate-lines-in-microsoft-word-files/">Read more<span class="seo-reader-text">Enhancing Layout Skills: The Expert Way to Integrate Lines in Microsoft Word Files</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/guide-to-overcoming-the-missing-dll-dealing-with-msvcr7-errors/">Read more<span class="seo-reader-text">Guide to Overcoming the Missing DLL: Dealing with Msvcr7# Errors</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-steps-for-resolving-client-and-server-vpn-failure-error-800/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/VnNd7pg1gKy2XNVGJEMHuSLdsJA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-451913781-5743e1a93df78c6bb02c9b54.jpg" alt="Troubleshooting Steps for Resolving Client &amp; Server VPN Failure (Error 800)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/top-no-cost-substitutes-for-skype/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/EOaUURWBdq-iEz37IKrL8wrQdSw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-8-best-free-skype-alternatives-of-2020-4842385-2c96b5f9805b4882b777cbbc1533d151.jpg" alt="Top No-Cost Substitutes for Skype" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-steps-for-resolving-client-and-server-vpn-failure-error-800/">
-                            Troubleshooting Steps for Resolving Client &amp; Server VPN Failure (Error 800)
+                        <a href="/top-no-cost-substitutes-for-skype/">
+                            Top No-Cost Substitutes for Skype
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Steps for Resolving Client &amp; Server VPN Failure (Error 800)</p>
+                            <p>This Article Describes Top No-Cost Substitutes for Skype</p>
 
                         
                     </div>
@@ -971,7 +1028,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:30:34 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:43:03 GMT+0800">
                 
                     2024-08-18
                 
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/troubleshooting-steps-for-resolving-client-and-server-vpn-failure-error-800/">Read more<span class="seo-reader-text">Troubleshooting Steps for Resolving Client &amp; Server VPN Failure (Error 800)</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/top-no-cost-substitutes-for-skype/">Read more<span class="seo-reader-text">Top No-Cost Substitutes for Skype</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/macbook-air-users-handbook-how-to-activate-and-use-split-screen-functionality-easily/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e2799492e36ec293bae7933072be9.jpg" alt="MacBook Air Users&#39; Handbook: How to Activate and Use Split Screen Functionality Easily" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/ipados-14-launch-dates-and-specs-unveiling-the-newest-features-at-zero-cost/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c7754394d186d31755e512b1e70.jpg" alt="IPadOS 14 Launch Dates &amp; Specs: Unveiling the Newest Features at Zero Cost" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/macbook-air-users-handbook-how-to-activate-and-use-split-screen-functionality-easily/">
-                            MacBook Air Users&#39; Handbook: How to Activate and Use Split Screen Functionality Easily
+                        <a href="/ipados-14-launch-dates-and-specs-unveiling-the-newest-features-at-zero-cost/">
+                            IPadOS 14 Launch Dates &amp; Specs: Unveiling the Newest Features at Zero Cost
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes MacBook Air Users’ Handbook: How to Activate and Use Split Screen Functionality Easily</p>
+                            <p>This Article Describes IPadOS 14 Launch Dates &amp; Specs: Unveiling the Newest Features at Zero Cost</p>
 
                         
                     </div>
@@ -1035,7 +1092,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:30:33 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:43:02 GMT+0800">
                 
                     2024-08-18
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/macbook-air-users-handbook-how-to-activate-and-use-split-screen-functionality-easily/">Read more<span class="seo-reader-text">MacBook Air Users&#39; Handbook: How to Activate and Use Split Screen Functionality Easily</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/ipados-14-launch-dates-and-specs-unveiling-the-newest-features-at-zero-cost/">Read more<span class="seo-reader-text">IPadOS 14 Launch Dates &amp; Specs: Unveiling the Newest Features at Zero Cost</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/resolving-d3dx928dll-file-not-found-or-missing-issues-a-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6579c4e1ae20b05da950739b.jpg" alt="Resolving d3dx9_28.dll File Not Found or Missing Issues: A Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/capture-your-thoughts-effortlessly-6-leading-journal-apps-reviewed/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/84164da8d50de5c78ef7a37eabfb52e8bc2ce824a8108b09359dc8a81eead685.jpeg" alt="Capture Your Thoughts Effortlessly: 6 Leading Journal Apps Reviewed" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/resolving-d3dx928dll-file-not-found-or-missing-issues-a-comprehensive-guide/">
-                            Resolving d3dx9_28.dll File Not Found or Missing Issues: A Comprehensive Guide
+                        <a href="/capture-your-thoughts-effortlessly-6-leading-journal-apps-reviewed/">
+                            Capture Your Thoughts Effortlessly: 6 Leading Journal Apps Reviewed
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Resolving d3dx9_28.dll File Not Found or Missing Issues: A Comprehensive Guide</p>
+                            <p>This Article Describes Capture Your Thoughts Effortlessly: 6 Leading Journal Apps Reviewed</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:30:32 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:43:01 GMT+0800">
                 
                     2024-08-18
                 
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/resolving-d3dx928dll-file-not-found-or-missing-issues-a-comprehensive-guide/">Read more<span class="seo-reader-text">Resolving d3dx9_28.dll File Not Found or Missing Issues: A Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/capture-your-thoughts-effortlessly-6-leading-journal-apps-reviewed/">Read more<span class="seo-reader-text">Capture Your Thoughts Effortlessly: 6 Leading Journal Apps Reviewed</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fixing-the-parser-error-on-android-devices-a-guide-to-8-key-fixes/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/PCwWaztmCGjLbc5XK5fHyH8nW-A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/parseerror-9f37a17bdb884a1dab257d612196dc3c.jpg" alt="Fixing the Parser Error on Android Devices - A Guide to 8 Key Fixes" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/ultimate-strategies-for-quick-travel-in-minecraft-using-the-teleport-command/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/oWSCOJ1T-9FuLl3WHDhB4IOvvW4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-use-the-tp-teleport-command-in-minecraft-5080340-d63bdae122ab481fae42aea6f5a8e900.jpg" alt="Ultimate Strategies for Quick Travel in Minecraft Using the Teleport Command" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fixing-the-parser-error-on-android-devices-a-guide-to-8-key-fixes/">
-                            Fixing the Parser Error on Android Devices - A Guide to 8 Key Fixes
+                        <a href="/ultimate-strategies-for-quick-travel-in-minecraft-using-the-teleport-command/">
+                            Ultimate Strategies for Quick Travel in Minecraft Using the Teleport Command
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fixing the Parser Error on Android Devices - A Guide to 8 Key Fixes</p>
+                            <p>This Article Describes Ultimate Strategies for Quick Travel in Minecraft Using the Teleport Command</p>
 
                         
                     </div>
@@ -1163,7 +1220,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:30:31 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:43:00 GMT+0800">
                 
                     2024-08-18
                 
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/fixing-the-parser-error-on-android-devices-a-guide-to-8-key-fixes/">Read more<span class="seo-reader-text">Fixing the Parser Error on Android Devices - A Guide to 8 Key Fixes</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/ultimate-strategies-for-quick-travel-in-minecraft-using-the-teleport-command/">Read more<span class="seo-reader-text">Ultimate Strategies for Quick Travel in Minecraft Using the Teleport Command</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/boost-battery-life-by-halting-background-activities-of-mobile-applications-on-android/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/hFAqQwkbl_WPJU5VYDwlcmmtrok=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3348990SamsungGalaxyS6-16b98061be3b4176a1ce5e707a138bd7.jpg" alt="Boost Battery Life by Halting Background Activities of Mobile Applications on Android" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-and-resolving-the-dreaded-error-28-on-your-pc-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520363f53adb487ff9f78fd127.jpg" alt="Troubleshooting and Resolving the Dreaded Error 28 on Your PC: A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/boost-battery-life-by-halting-background-activities-of-mobile-applications-on-android/">
-                            Boost Battery Life by Halting Background Activities of Mobile Applications on Android
+                        <a href="/troubleshooting-and-resolving-the-dreaded-error-28-on-your-pc-a-step-by-step-guide/">
+                            Troubleshooting and Resolving the Dreaded Error 28 on Your PC: A Step-by-Step Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Boost Battery Life by Halting Background Activities of Mobile Applications on Android</p>
+                            <p>This Article Describes Troubleshooting and Resolving the Dreaded Error 28 on Your PC: A Step-by-Step Guide</p>
 
                         
                     </div>
@@ -1227,7 +1284,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:30:30 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:42:58 GMT+0800">
                 
                     2024-08-18
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/boost-battery-life-by-halting-background-activities-of-mobile-applications-on-android/">Read more<span class="seo-reader-text">Boost Battery Life by Halting Background Activities of Mobile Applications on Android</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-and-resolving-the-dreaded-error-28-on-your-pc-a-step-by-step-guide/">Read more<span class="seo-reader-text">Troubleshooting and Resolving the Dreaded Error 28 on Your PC: A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/diy-troubleshooting-fix-your-drive-with-the-windows-chkdsk-command/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f26163c69b1bc0d92f7095e097d.JPG" alt="DIY Troubleshooting: Fix Your Drive with the Windows Chkdsk Command" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/resolving-not-secure-network-warnings-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/01214d410faf08a8a9dafcfa23316cefdeb8c6cafadbefb4d241744b10bac7c7.jpg" alt="Resolving &#39;Not Secure&#39; Network Warnings: A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/diy-troubleshooting-fix-your-drive-with-the-windows-chkdsk-command/">
-                            DIY Troubleshooting: Fix Your Drive with the Windows Chkdsk Command
+                        <a href="/resolving-not-secure-network-warnings-a-step-by-step-guide/">
+                            Resolving &#39;Not Secure&#39; Network Warnings: A Step-by-Step Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes DIY Troubleshooting: Fix Your Drive with the Windows Chkdsk Command</p>
+                            <p>This Article Describes Resolving ‘Not Secure’ Network Warnings: A Step-by-Step Guide</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 20:30:29 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 20:42:57 GMT+0800">
                 
                     2024-08-18
                 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/diy-troubleshooting-fix-your-drive-with-the-windows-chkdsk-command/">Read more<span class="seo-reader-text">DIY Troubleshooting: Fix Your Drive with the Windows Chkdsk Command</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/resolving-not-secure-network-warnings-a-step-by-step-guide/">Read more<span class="seo-reader-text">Resolving &#39;Not Secure&#39; Network Warnings: A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/473/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/472/">472</a><a class="page-number" href="/page/473/">473</a><span class="page-number current">474</span><a class="page-number" href="/page/475/">475</a><a class="page-number" href="/page/476/">476</a><span class="space">&hellip;</span><a class="page-number" href="/page/900/">900</a><a class="extend next" rel="next" href="/page/475/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/473/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/472/">472</a><a class="page-number" href="/page/473/">473</a><span class="page-number current">474</span><a class="page-number" href="/page/475/">475</a><a class="page-number" href="/page/476/">476</a><span class="space">&hellip;</span><a class="page-number" href="/page/969/">969</a><a class="extend next" rel="next" href="/page/475/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>
