@@ -1,7 +1,7 @@
 ---
 title: How Deep Does It Go? Exploring the Multiple Levels of 'Royal Match'
-date: 2024-09-12T22:19:51.962Z
-updated: 2024-09-15T20:58:37.031Z
+date: 2024-09-16T03:58:31.875Z
+updated: 2024-09-20T23:10:45.966Z
 categories:
   - BestProducts
 description: This Article Describes How Deep Does It Go? Exploring the Multiple Levels of 'Royal Match'
@@ -56,13 +56,6 @@ thumbnail: https://www.lifewire.com/thmb/4DOzepAuQkGGPoCck74wzjeBAXc=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -80,6 +73,13 @@ thumbnail: https://www.lifewire.com/thmb/4DOzepAuQkGGPoCck74wzjeBAXc=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -90,13 +90,6 @@ thumbnail: https://www.lifewire.com/thmb/4DOzepAuQkGGPoCck74wzjeBAXc=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -106,6 +99,13 @@ thumbnail: https://www.lifewire.com/thmb/4DOzepAuQkGGPoCck74wzjeBAXc=/400x300/fi
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -119,6 +119,13 @@ thumbnail: https://www.lifewire.com/thmb/4DOzepAuQkGGPoCck74wzjeBAXc=/400x300/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -126,13 +133,6 @@ thumbnail: https://www.lifewire.com/thmb/4DOzepAuQkGGPoCck74wzjeBAXc=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -163,16 +163,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-distinguished-pioneers-elite-insta-hlv-page-builders/"><u>[New] 2024 Approved Distinguished Pioneers Elite Insta HLV Page Builders</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-audio-recording-made-easy-free-x-recorder-for-pc-for-2024/"><u>[New] Audio Recording Made Easy Free X-Recorder for PC for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-decode-instagram-visibility-whos-glancing-at-yours-for-2024/"><u>[New] Decode Instagram Visibility Who's Glancing at Yours for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bring-life-to-your-desk-with-win-1011-sketches/"><u>Bring Life to Your Desk with Win 10/11 Sketches</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-nubia-red-magic-8s-pro-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Nubia Red Magic 8S Pro.</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/isolating-pictures-from-video-frames-in-photos-app-for-2024/"><u>Isolating Pictures From Video Frames in Photos App for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keyboard-and-pc-now-harmonious-post-windows-11-fix/"><u>Keyboard & PC Now Harmonious Post-Windows 11 Fix</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolve-libcurldll-error-fixes-for-not-found-and-missing-issues/"><u>Resolve libcurl.dll Error: Fixes for Not Found and Missing Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/secrets-revealed-effective-strategies-for-increasing-your-instagram-following/"><u>Secrets Revealed: Effective Strategies for Increasing Your Instagram Following</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-your-gaming-session-from-ending-abruptly-overcoming-continuous-pc-crashes-with-new-titles/"><u>Stop Your Gaming Session From Ending Abruptly: Overcoming Continuous PC Crashes with New Titles</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-installing-windows-11-from-scratch-on-your-latest-hard-drive/"><u>Ultimate Tutorial: Installing Windows 11 From Scratch on Your Latest Hard Drive</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unleash-your-potential-on-facebook-keyword-strategies-reviewed/"><u>[New] 2024 Approved Unleash Your Potential on Facebook Keyword Strategies Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-peering-into-the-world-of-luts-and-their-effect-on-pixels/"><u>[New] Peering Into the World of LUTs and Their Effect on Pixels</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-crafting-the-ideal-set-of-keywords-for-your-youtube-videos/"><u>2024 Approved Crafting the Ideal Set of Keywords for Your Youtube Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/audience-engagement-meets-technology-four-recording-ways-on-facebook-for-2024/"><u>Audience Engagement Meets Technology Four Recording Ways on Facebook for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-oppo-find-n3-flip-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Oppo Find N3 Flip Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-insight-on-effortless-photo-and-video-importers-in-windows-10-for-2024/"><u>In-Depth Insight on Effortless Photo & Video Importers in Windows 10 for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/kom-nuttigste-tips-en-trucs-voor-het-kunt-png-opnemen-naar-tiff-heel-gratis-voorlopig-movavi/"><u>Kom Nuttigste Tips en Trucs Voor Het Kunt PNG Opnemen Naar TIFF Heel Gratis - Voorlopig Movavi!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-mpeg-mov-movavi/"><u>Movavi의 공식 MPEG MOV 라이브 리소스를 사용하여 원격 비디오 생성을 단호하고 무료로 제공 - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavicafwav/"><u>MovaviでのワクワクするCAFからWAVへの自由なオンライン変換方法</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/optimal-video-intros-selecting-the-top-16-to-increase-views/"><u>Optimal Video Intros Selecting the Top 16 to Increase Views</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/passos-essenciais-para-produzir-um-conteudo-casual-de-alta-qualidade-em-video/"><u>Passos Essenciais Para Produzir Um Conteúdo Casual De Alta Qualidade Em Video</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-reviving-broken-32-bit-applications-print-driver-host/"><u>Solution Found: Reviving Broken '32-Bit Applications Print Driver Host'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/test-in-safe-mode-and-clean-boot/"><u>Test in Safe Mode and Clean Boot</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turn-your-gif-files-into-wmv-videos-at-no-cost-with-movavis-online-tool/"><u>Turn Your GIF Files Into WMV Videos at No Cost with Movavi's Online Tool!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-pick-the-10-leading-video-upgrade-solutions-for-stunning-visuals/"><u>Ultimate Pick: The 10 Leading Video Upgrade Solutions for Stunning Visuals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726218099367-movavi/"><u>무료로 웨이비 및 와브 동시 변환 - Movavi (원료)</u></a></li>
 </ul></div>
 

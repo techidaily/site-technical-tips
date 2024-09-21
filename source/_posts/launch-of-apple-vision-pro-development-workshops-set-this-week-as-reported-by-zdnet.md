@@ -1,7 +1,7 @@
 ---
 title: Launch of Apple Vision Pro Development Workshops Set This Week, As Reported by ZDNet
-date: 2024-09-18 15:16:12
-updated: 2024-09-20 11:51:10
+date: 2024-09-13T20:36:02.167Z
+updated: 2024-09-20T16:30:25.587Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,35 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-key-iphone-photography-utilities-for-watermarking/"><u>[New] Key iPhone Photography Utilities for Watermarking</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winxvideo-ai-mp4avihevc/"><u>【自由体制】パワフルな動画コンバータ選びのヒント WinXVideo AI - 無料対応規格MP4/AVI/HEVC変換</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-understanding-white-balance-a-comprehensive-guide-for-photographers/"><u>1. Understanding White Balance: A Comprehensive Guide for Photographers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mp4-aac-movavi/"><u>網路直接免費轉成 MP4 - AAC 音頻：Movavi 的高效轉換器</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/add-edge-to-insta-videos-a-trifecta-guide/"><u>Add Edge to Insta Videos - A Trifecta Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/come-diminuire-le-dimensioni-del-tuo-file-mov-con-i-top-7-tutorial-liberamente-accessibili-in-internet/"><u>Come Diminuire Le Dimensioni Del Tuo File MOV Con I Top 7 Tutorial Liberamente Accessibili in Internet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversion-ogg-vers-line-gratuite-avec-movavi-guide-simple/"><u>Conversion OGG Vers Line Gratuite Avec Movavi - Guide Simple</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/create-a-festive-holiday-video-custom-christmas-photo-slideshows-enhanced-by-melodies/"><u>Create a Festive Holiday Video: Custom Christmas Photo Slideshows Enhanced by Melodies</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-meizu-21-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Meizu 21 Pro Device SIM</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oppo-f23-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Oppo F23 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-x100-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo X100 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/should-i-opt-for-windows-11s-modern-features-and-performance/"><u>Should I Opt for Windows 11'S Modern Features and Performance?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-key-distinctions-cat5-vs-cat6-networking-cables/"><u>Understanding Key Distinctions: Cat5 vs Cat6 Networking Cables</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wizoo-online-aiff-to-avi-converter-gratis/"><u>WiZoo Online AIFF to AVI Converter - Gratis</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

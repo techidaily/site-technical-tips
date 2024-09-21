@@ -1,7 +1,7 @@
 ---
 title: "Switching On/Off Windows 10'S Screen Keyboard: A Step-by-Step Guide"
-date: 2024-09-09T23:49:39.561Z
-updated: 2024-09-15T17:44:46.868Z
+date: 2024-09-19T18:22:23.743Z
+updated: 2024-09-20T19:34:28.761Z
 categories:
   - BestProducts
 description: "This Article Describes Switching On/Off Windows 10'S Screen Keyboard: A Step-by-Step Guide"
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
@@ -50,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
 
@@ -74,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Other Ways to Open Command Prompt
 
  Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
@@ -88,26 +95,6 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
  To do this, enter**cmd** into the command-line interface. This can be in the Run dialog box (**WIN** +**R** ) or[Task Manager's](https://www.lifewire.com/task-manager-2626025) **Run new task** option (go to**File** \>**Run new task** if you're not using Windows 11).
 
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Elevated Command Prompts and Old Windows Versions
 
@@ -120,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
 * **you must be an administrator**
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
@@ -165,16 +159,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-enhanced-repertoire-of-questions-to-spark-podcast-conversations/"><u>[Updated] 2024 Approved Enhanced Repertoire of Questions to Spark Podcast Conversations</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-enhancing-visuals-tips-for-shooting-and-editing-slow-motion-content-on-instagram-for-2024/"><u>[Updated] Enhancing Visuals Tips for Shooting and Editing Slow Motion Content on Instagram for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726028381076-mp4m4v/"><u>簡単な手順でMP4からM4Vへの変換テクニック</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/breaking-down-the-features-and-differences-of-signal-and-whatsapp/"><u>Breaking Down the Features and Differences of Signal & WhatsApp</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortlessly-connect-new-receivers-to-your-logitech-wireless-mouse/"><u>Effortlessly Connect New Receivers to Your Logitech Wireless Mouse</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/freebie-finder-15-free-music-downloads-you-must-check-out/"><u>Freebie Finder: 15 Free Music Downloads You Must Check Out</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-t2-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo T2 5G Phone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-12-mini-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 12 mini to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/s-best-free-video-compression-solutions-for-windows-10-users/"><u>S Best Free Video Compression Solutions for Windows 10 Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solve-connection-not-private-issues-easily-effective-strategies/"><u>Solve 'Connection Not Private' Issues Easily: Effective Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015223792-troubleshooting-tips-for-realtek-mic-issues-get-your-audio-up-and-running/"><u>Troubleshooting Tips for Realtek Mic Issues - Get Your Audio Up and Running</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/covert-capture-strategies-for-shrouding-personal-info/"><u>Covert Capture Strategies for Shrouding Personal Info</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dragon-saga-timeline-best-way-to-experience-the-how-to-train-your-dragon-movies-in-sequence/"><u>Dragon Saga Timeline: Best Way to Experience the How to Train Your Dragon Movies in Sequence</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-monster-hunter-rise-running-smoothly-after-launch-problems/"><u>How To Get Monster Hunter Rise Running Smoothly After Launch Problems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-perfect-peace-mastering-the-art-of-muting-individuals-on-gomeet/"><u>In 2024, Perfect Peace Mastering the Art of Muting Individuals on GoMeet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-a14-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy A14 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977599551-intel-ac3160-wifi-card-latest-stable-drivers-installed-fast/"><u>Intel AC3160 WiFi Card - Latest Stable Drivers Installed Fast</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/master-the-art-of-file-acquisition-expert-guide-for-downloading-igtv-for-2024/"><u>Master the Art of File Acquisition Expert Guide for Downloading IGTV for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagining-your-presence-riot-game-name-and-tagline-shift/"><u>Reimagining Your Presence: Riot Game Name & Tagline Shift</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sequence-is-key-watching-the-matrix-movies-from-start-to-finish/"><u>Sequence Is Key - Watching The Matrix Movies From Start to Finish</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-pathway-to-instagrams-elite-circle-expanding-your-audience-with-key-tips/"><u>The Pathway to Instagram's Elite Circle Expanding Your Audience with Key Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-complimentary-driver-updating-applications-july-2024/"><u>The Ultimate Guide to Complimentary Driver Updating Applications (July 2024)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-green-screen-software-for-mac-features-pricing-and-more/"><u>Updated In 2024, Top Green Screen Software for Mac Features, Pricing, and More</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/which-is-better-a-detailed-look-at-the-ps5-slim-and-regular-ps5/"><u>Which Is Better? - A Detailed Look at the PS5 Slim and Regular PS5</u></a></li>
 </ul></div>
 

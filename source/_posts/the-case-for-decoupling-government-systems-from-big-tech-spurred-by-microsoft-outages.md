@@ -1,7 +1,7 @@
 ---
 title: The Case for Decoupling Government Systems From Big Tech, Spurred by Microsoft Outages
-date: 2024-09-11T23:08:36.731Z
-updated: 2024-09-15T23:33:37.472Z
+date: 2024-09-13T20:54:26.658Z
+updated: 2024-09-21T03:27:07.600Z
 categories:
   - BestProducts
 description: This Article Describes The Case for Decoupling Government Systems From Big Tech, Spurred by Microsoft Outages
@@ -55,16 +55,16 @@ Certain items are specifically excluded, including:
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Does Microsoft Verify Student Enrollment?
@@ -106,16 +106,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-learn-to-produce-fb-video-ads-using-free-kit/"><u>[Updated] 2024 Approved Learn to Produce FB Video Ads Using Free Kit</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-new-virtual-frontier-the-meta-quest-3-story/"><u>A New Virtual Frontier: The Meta Quest 3 Story</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722978360183-downloadupdate-your-surface-book-2-drivers-simple-steps-inside/"><u>Download/Update Your Surface Book 2 Drivers - Simple Steps Inside</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/identifying-the-model-identifier-on-your-apple-macbook-pro-or-air/"><u>Identifying the Model Identifier on Your Apple MacBook Pro or Air</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-spark-10-4gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Spark 10 4Gwith/without a PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-s23plus-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy S23+ Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-automation-for-batch-files/"><u>Mastering Windows Automation for Batch Files</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ordered-adventure-through-dragon-ball-a-step-by-step-viewers-journey/"><u>Ordered Adventure Through Dragon Ball - A Step-by-Step Viewer's Journey</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-strategy-to-identify-and-choose-a-matching-phone-protector/"><u>Step-by-Step Strategy to Identify and Choose a Matching Phone Protector</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-perfect-match-configuring-and-enjoying-bluetooth-audio-with-bose-soundlink-speakers/"><u>The Perfect Match: Configuring and Enjoying Bluetooth Audio with Bose SoundLink Speakers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-and-correcting-missing-or-damaged-wlanapidll-files-on-windows/"><u>Understanding & Correcting Missing or Damaged WLANAPI.DLL Files on Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-green-screen-recorders-how-to-use-them-for-2024/"><u>[New] Best Green Screen Recorders How to Use Them for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-guide-to-choosing-podcast-names-plus-creative-ideas-list/"><u>[New] Comprehensive Guide to Choosing Podcast Names + Creative Ideas List</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/conomical-audience-expansion-buy-subscribers-not-time-for-2024/"><u>[New] Economical Audience Expansion Buy Subscribers, Not Time for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-easing-into-public-speaking-10-common-video-blogger-fears/"><u>[Updated] 2024 Approved Easing Into Public Speaking 10 Common Video Blogger Fears</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-elevate-your-fan-count-top-tactics-for-fb-page-ranks/"><u>[Updated] In 2024, Elevate Your Fan Count Top Tactics for FB Page Ranks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-rewards-and-risks-virtual-reality-unveiled/"><u>[Updated] Rewards & Risks Virtual Reality Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-most-affordable-gaming-tunes-top-10-lists/"><u>2024 Approved The Most Affordable Gaming Tunes Top 10 Lists</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/download-high-quality-storyblocks-stock-imagery-and-clips/"><u>Download High-Quality StoryBlocks Stock Imagery and Clips</u></a></li>
+<li><a href="https://win11.techidaily.com/master-plan-to-eliminate-microsoft-store-error-0x80072efd/"><u>Master Plan to Eliminate Microsoft Store Error 0X80072EFD</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-infinix-note-30i-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Infinix Note 30i Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-15-free-tools-for-removing-backgrounds-in-images-a-comprehensive-guide/"><u>Top 15 Free Tools for Removing Backgrounds in Images: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformation-rapide-et-gratuite-de-videos-wmv-en-format-mpeg-via-movavi-solutions-de-conversion-en-ligne/"><u>Transformation Rapide Et Gratuite De Vidéos WMV en Format MPEG via Movavi - Solutions De Conversion en Ligne</u></a></li>
 </ul></div>
 

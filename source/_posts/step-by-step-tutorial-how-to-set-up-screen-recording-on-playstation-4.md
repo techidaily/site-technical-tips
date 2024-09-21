@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: How to Set Up Screen Recording on PlayStation 4"
-date: 2024-09-12T00:05:59.438Z
-updated: 2024-09-15T16:00:42.735Z
+date: 2024-09-19T04:04:20.100Z
+updated: 2024-09-20T17:01:17.961Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Tutorial: How to Set Up Screen Recording on PlayStation 4"
@@ -52,21 +52,14 @@ thumbnail: https://thmb.techidaily.com/295eb1a512b03cd4604053efc700e515a23fe08d7
 ![The Settings app, Messages heading, and "Filter Unknown Senders" option on an iPhone](https://www.lifewire.com/thmb/lCnQVucvmXcKMmnaksO8lqPmQJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Filter-Unknown-Texts-ab03750ad3b2433fa5837828629871fc.jpg)
 4. To see your filtered text messages, tap the arrow in the top left-corner until you get to the main Messages screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Tap**Unknown Senders** to view all texts from numbers not in your contacts.  
 ![The back button and "Unknown Senders" folder in Messages on an iPhone](https://www.lifewire.com/thmb/lyjFQaH6CejDFydiYQ4jJ9dyv2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Messages-filters-a02cdd8bbb4d48f7b705d997f0567522.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Stop Unwanted Group Texts on an iPhone
@@ -81,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/295eb1a512b03cd4604053efc700e515a23fe08d7
 ![A group chat on an iPhone with the name of the chat, the "Hide Alerts" option, and the "Leave this Conversation" commands highlighted](https://www.lifewire.com/thmb/HQ28TmHbL1M_I1yxXgoej2uiqFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Group-Text-options-1eb1d9e175f1471ea3a04ef674873699.jpg)
 
  Change your mind and want to rejoin the group text? You can ask one of the other people in the chat to add you back. Or, if the thread has both iPhone and Android users and it's been less than 30 days since you left, tap the arrow in the top left until you get to the main Messages screen >**Recently Deleted** \> tap the thread >**Recover** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Block Texts With the Do Not Call Registry
 
@@ -121,20 +121,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-delicious-ideas-top-30-creative-recipe-show-titles/"><u>[Updated] 2024 Approved Delicious Ideas Top 30 Creative Recipe Show Titles</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-honor-magic-vs-2-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Honor Magic Vs 2?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/celebrate-pride-exceptional-lgbt-film-offerings-from-netflix-for-july-2024/"><u>Celebrate Pride: Exceptional LGBT Film Offerings From Netflix for July 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/efficiently-downscale-your-gopro-videos-preserve-excellent-clarity-in-4k-and-27k-resolutions/"><u>Efficiently Downscale Your GoPro Videos: Preserve Excellent Clarity in 4K & 2.7K Resolutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elevating-iphone-phone-ringers-a-step-by-step-guide-for-enhancing-audio/"><u>Elevating iPhone Phone Ringers: A Step-by-Step Guide for Enhancing Audio</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exclusive-offer-alert-score-20-off-on-plexs-unlimited-subscription-limited-time-only/"><u>Exclusive Offer Alert: Score 20% Off on Plex's Unlimited Subscription - Limited Time Only!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-reviving-wet-apple-devices-iphone-and-ipod-recovery-processes/"><u>Expert Tips for Reviving Wet Apple Devices: IPhone and iPod Recovery Processes</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebooks-viewing-wave-the-hottest-videos-this-year/"><u>In 2024, Facebook’s Viewing Wave The Hottest Videos This Year</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-your-watch-dogs-legion-loading-screen-glitch-quickly-expert-advice/"><u>Resolve Your Watch Dogs: Legion Loading Screen Glitch Quickly - Expert Advice</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-z-fold-6-revealed-find-out-when-how-much-and-what-to-expect-in-specs/"><u>Samsung Galaxy Z Fold 6 Revealed – Find Out When, How Much & What to Expect in Specs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-removing-duplicate-posts-from-your-tiktok-feed/"><u>Step-by-Step Guide: Removing Duplicate Posts From Your TikTok Feed</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/sumind-bt7/"><u>Sumind BT7</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-computer-hardware-by-tom-authority-on-peripherals/"><u>The Ultimate Guide to Computer Hardware by Tom: Authority on Peripherals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-power-of-forecasting-with-predictive-ai-systems/"><u>Unveiling the Power of Forecasting with Predictive AI Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-infinix-smart-8-plus-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Infinix Smart 8 Plus Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-ultimate-strategy-for-recording-complete-facebook-calls/"><u>[New] In 2024, The Ultimate Strategy for Recording Complete Facebook Calls</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-8-selections-of-subtitle-editors-making-srt-on-windowsmac-a-breeze/"><u>[New] Top 8 Selections of Subtitle Editors Making SRT on Windows/Mac a Breeze</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-first-steps-in-mastering-the-av1-codec/"><u>[Updated] First Steps in Mastering the AV1 Codec</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726224819717-gif-movavi/"><u>免費網路 GIF 轉換器 - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dts-aac-movavi-audio-converter/"><u>網路上免費 DTS 到 AAC 音頻格式轉換 - 使用 Movavi Audio Converter</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/converti-video-mpeg-2-vob-in-formato-advanced-systems-format-asf-senza-costi-scopri-il-metodo-perfetto-con-video-soft-free-online/"><u>Converti Video MPEG-2 VOB in Formato Advanced Systems Format (ASF) Senza Costi – Scopri Il Metodo Perfetto Con Video Soft Free Online!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-essentials-of-the-windows-registry-a-comprehensive-guide/"><u>Exploring the Essentials of the Windows Registry: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-converter-transform-mxf-files-into-avi-format-with-easy-to-use-tools/"><u>Free Online Converter: Transform MXF Files Into AVI Format with Easy-to-Use Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratis-online-audioconverter-m4r-in-wav-file-format-met-movavi-converter/"><u>Gratis Online Audioconverter: M4R in WAV File Format Met Movavi Converter</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-finding-a-vanished-iphone-using-find-my-for-help/"><u>Guide to Finding a Vanished iPhone: Using Find My for Help</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to share/fake gps on Uber for Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/motivating-moments-on-the-silver-screen/"><u>Motivating Moments on the Silver Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-trustworthy-advice-from-toms-hardware/"><u>Navigating the World of Gadgets - Trustworthy Advice From Tom's Hardware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-11-dicas-para-aprimorar-a-qualidade-de-suas-fotografias-online/"><u>Top 11 Dicas Para Aprimorar a Qualidade De Suas Fotografias Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformez-facilement-vos-fichiers-wmv-au-format-wma-sans-frais-avec-movavi/"><u>Transformez Facilement Vos Fichiers WMV Au Format WMA Sans Frais Avec Movavi</u></a></li>
 </ul></div>
 

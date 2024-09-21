@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Sync: Integrating Google Duo with Your Gmail"
-date: 2024-09-12T17:59:59.664Z
-updated: 2024-09-15T19:05:21.310Z
+date: 2024-09-18T02:47:43.159Z
+updated: 2024-09-21T03:27:22.485Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Art of Sync: Integrating Google Duo with Your Gmail"
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/046b51c249713a58e7f91807e73ec08e3a40b03e4
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -56,18 +63,18 @@ thumbnail: https://thmb.techidaily.com/046b51c249713a58e7f91807e73ec08e3a40b03e4
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -101,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/046b51c249713a58e7f91807e73ec08e3a40b03e4
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
@@ -118,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/046b51c249713a58e7f91807e73ec08e3a40b03e4
 * **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
 
@@ -163,21 +163,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-maximizing-spotifys-playback-rate-without-sacrificing-sound/"><u>[Updated] Maximizing Spotify's Playback Rate Without Sacrificing Sound</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/10-popular-websites-to-download-aesthetic-wallpapers-for-laptop-for-2024/"><u>10 Popular Websites to Download Aesthetic Wallpapers for Laptop for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-vr-and-ar-game-apps-for-phones/"><u>2024 Approved The Ultimate Guide to VR and AR Game Apps for Phones</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expertise-in-easel-alterations-color-command-for-2024/"><u>Expertise in Easel Alterations - Color Command for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/handling-unexpected-car-radio-failures-tips-and-solutions/"><u>Handling Unexpected Car Radio Failures: Tips and Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/home-vr-construct-how-to-assemble-your-own-google-cardboard/"><u>Home VR Construct How to Assemble Your Own Google Cardboard</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-infusing-interactive-elements-incorrante-youtube-music-into-videography/"><u>In 2024, Infusing Interactive Elements Incorrante YouTube Music Into Videography</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/mastering-the-art-of-instagram-filter-use-for-2024/"><u>Mastering the Art of Instagram Filter Use for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722867959139-navigating-splitting-your-macbook-air-screen-for-better-task-management/"><u>Navigating Splitting Your MacBook Air Screen for Better Task Management</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-common-hurdles-in-uploading-and-sharing-your-instagram-stories/"><u>Overcoming Common Hurdles in Uploading and Sharing Your Instagram Stories</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/select-your-footage-editor-hero-or-cube-edition/"><u>Select Your Footage Editor Hero or Cube Edition?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/sony-state-of-play-2024-announcements-news-and-more/"><u>Sony State of Play 2024: Announcements, News, and More</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/starting-right-the-ultimate-5-step-setup-for-your-new-device/"><u>Starting Right: The Ultimate 5-Step Setup for Your New Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-crafting-the-perfectly-uncomfortable-potion-in-minecraft/"><u>Step-by-Step Guide: Crafting the Perfectly Uncomfortable Potion in Minecraft</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-66-best-travel-tweeters-deals-advice-and-adventures/"><u>The 66 Best Travel Tweeters: Deals, Advice & Adventures</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/winx-dvd-author-dvddvd/"><u>WinX DVD Author: 無料の高機能DVD組み立てソフトウェアで手軽にDVD作成</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-prowess-in-color-correction-the-ultimate-11-tutorials/"><u>2024 Approved Prowess in Color Correction The Ultimate 11 Tutorials</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/academic-success-tips-mastering-the-art-of-citing-chatgpt-in-your-research/"><u>Academic Success Tips: Mastering the Art of Citing ChatGPT in Your Research</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/affordably-secure-your-phone-understand-ransomware-and-meet-ai-ally-chatgpt-in-our-exclusive-talk/"><u>Affordably Secure Your Phone: Understand Ransomware & Meet AI Ally ChatGPT in Our Exclusive Talk!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipate-the-future-of-communication-with-the-new-arrival-from-samsung/"><u>Anticipate the Future of Communication with the New Arrival From Samsung</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-sidestep-windows-11-screensaver-quickly/"><u>How to Sidestep Windows 11 Screensaver Quickly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inquiring-into-vaticans-digital-age-practices-is-email-part-of-pope-francis-routine/"><u>Inquiring Into Vatican's Digital Age Practices - Is Email Part of Pope Francis' Routine?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/julys-top-picks-8-free-software-solutions-to-update-your-drivers/"><u>July's Top Picks: 8 Free Software Solutions to Update Your Drivers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-make-a-cartoon-from-your-favorite-photo/"><u>New 2024 Approved Make a Cartoon From Your Favorite Photo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/t-mobile-metro-unrestricted-network-access-and-global-roaming-guidelines/"><u>T-Mobile Metro Unrestricted Network Access & Global Roaming Guidelines</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-galaxy-a05s-by-fonelab-android-recover-music/"><u>The way to get back lost music from Galaxy A05s</u></a></li>
+<li><a href="https://driver-install.techidaily.com/triumph-over-wan-miniport-glitches-windows-8-guide/"><u>Triumph Over WAN Miniport Glitches - Windows 8 Guide</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-realme-note-50-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Realme Note 50</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-s23-ultra-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy S23 Ultra Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

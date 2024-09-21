@@ -1,7 +1,7 @@
 ---
 title: Choosing the Right Motherboard? Here Are 7 Key Criteria
-date: 2024-09-13T22:29:12.762Z
-updated: 2024-09-15T16:30:49.483Z
+date: 2024-09-15T04:11:37.674Z
+updated: 2024-09-20T16:29:57.591Z
 categories:
   - BestProducts
 description: This Article Describes Choosing the Right Motherboard? Here Are 7 Key Criteria
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
 [Motherboard Chipset: What It Is and What to Look For](https://www.lifewire.com/what-is-a-chipset-on-a-motherboard-5185658)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What CPU Should a Motherboard Have?
 
  A CPU is a critical PC element that interprets and executes your hardware and software commands. If you're replacing or upgrading a motherboard, you can choose one that works with your existing CPU. But if you're buying a new CPU or building a PC, you'll also need a processor.
@@ -56,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
  Check your CPU specs carefully to determine if they suit your intended uses.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What CPU Socket Should a Motherboard Have?
@@ -107,10 +108,10 @@ Narumon Bowonkitwanchai/Getty Images
  The form factor of the motherboard doesn't affect the type of CPU you need to use. If the motherboard has the correct socket, you can use the same CPU with an ATX, Micro-ATX, or Mini-ITX motherboard.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Expansion Ports Should a Motherboard Have?
@@ -120,19 +121,6 @@ Narumon Bowonkitwanchai/Getty Images
  The two most common[expansion ports](https://www.lifewire.com/expansion-slot-2625870) to look for are PCIe x16 slots, which can accommodate graphics cards, and PCIe x1 slots, used for other expansion cards like adding extra USB ports. If you'd like to install two video cards, ensure the motherboard has two expansion ports that can accommodate video cards.
 
  Most motherboards support PCIe 3.0, but some support the newer PCIe 4.0 and 5.0, which provide more bandwidth. If you have any PCIe cards or want to future-proof your selection, look for a board with PCIe 5.0 support.  
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Built-In Ports Does a Motherboard Need?
 
@@ -145,6 +133,13 @@ Narumon Bowonkitwanchai/Getty Images
  It’s also important to look at how many[RAM](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) slots the motherboard has and how much total RAM it supports to meet your memory needs. This factor isn’t crucial if your computer only needs to stream media, surf the web, and play basic games. Still, having the option to install more RAM is vital if you do any video or photo editing or play resource-intensive games.  
 
 [How to Check RAM and Motherboard Compatibility](https://www.lifewire.com/check-ram-and-motherboard-compatibility-5186297)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Who Should Buy a Motherboard?
 
@@ -159,13 +154,6 @@ Narumon Bowonkitwanchai/Getty Images
  How you proceed depends on whether you're reusing your old CPU and other hardware or installing new elements. Proceed carefully according to your motherboard's replacement instructions.  
 
 [How to Replace a Motherboard](https://www.lifewire.com/replace-a-motherboard-5189494)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More Tips for Choosing a Motherboard
 
@@ -225,15 +213,15 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-streamline-your-life-with-these-5-chrome-tools-for-fb-video-grabs-for-2024/"><u>[Updated] Streamline Your Life with These 5 Chrome Tools for FB Video Grabs for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-tv-streaming-guide-international-and-regional-channels/"><u>2024 Approved Ultimate TV Streaming Guide International & Regional Channels</u></a></li>
-<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor X9a? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-private-browsing-a-comprehensive-guide-for-chrome-edge-firefox-safari-and-opera-users/"><u>Mastering Private Browsing: A Comprehensive Guide for Chrome, Edge, Firefox, Safari & Opera Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fix-guide-reactivating-your-malfunctioning-zoom-webcam/"><u>Quick Fix Guide: Reactivating Your Malfunctioning Zoom Webcam</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-picks-must-watch-series-on-the-max-network-today/"><u>Top Picks: Must-Watch Series on the MAX Network Today</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-securing-sound-output-fixes-for-silent-obs-streams/"><u>[New] Securing Sound Output Fixes for Silent OBS Streams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unbeatable-upvotes-reddits-hottest-threads-from-history/"><u>[New] Unbeatable Upvotes Reddit's Hottest Threads From History</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nlock-professional-video-quality-with-top-youtube-to-webm-tools/"><u>[New] Unlock Professional Video Quality with Top YouTube-to-WebM Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-productivity-the-definitive-guide-to-30-powerful-gmail-shortcuts/"><u>Boost Your Productivity: The Definitive Guide to 30 Powerful Gmail Shortcuts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-scoop-on-the-new-google-tv-stick-anticipated-price-point-release-schedule-and-hardware-specs/"><u>Inside Scoop on the New Google TV Stick: Anticipated Price Point, Release Schedule and Hardware Specs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-connection-a-comprehensive-guide-to-sync-airpods-with-windows-11/"><u>Master the Connection: A Comprehensive Guide to Sync AirPods with Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-infinix-hot-30i-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Infinix Hot 30i Phone? Unlock It Now</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-social-media-success-strategies-for-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Social Media Success: Strategies for Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-7-complimentary-educational-applications-for-the-new-school-year/"><u>Top 7 Complimentary Educational Applications for the New School Year</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-meta-quest-3-lite-discover-expected-costs-release-window-and-tech-specs-amidst-rumors/"><u>Upcoming Meta Quest 3 Lite - Discover Expected Costs, Release Window, and Tech Specs Amidst Rumors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is Apple Setting a New Precedent? Higher Prices for Their Innovative Eyewear Compared to Regular Specs | TechNews Today
-date: 2024-09-18 18:10:35
-updated: 2024-09-20 12:27:21
+date: 2024-09-18T01:33:22.587Z
+updated: 2024-09-20T19:25:50.268Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,31 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-unveiling-the-most-powerful-alternatives-to-vimeo-cameo-editor/"><u>[New] In 2024, Unveiling the Most Powerful Alternatives to Vimeo Cameo Editor</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-optimal-gpus-for-high-res-media-production/"><u>[Updated] In 2024, Optimal GPUs for High Res Media Production</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/action-cams-duel-black-hero5-against-sj7/"><u>Action Cams Duel Black Hero5 Against SJ7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/continuous-sound-cuts-during-playback-heres-what-you-can-do-windows-11/"><u>Continuous Sound Cuts During Playback? Here's What You Can Do (Windows 11)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/customizing-iphone-light-for-better-sleep-activate-the-nocturnal-modes-easily/"><u>Customizing iPhone Light for Better Sleep: Activate the Nocturnal Modes Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-correcting-a-malfunctioning-webcam-for-google-meet-conferences/"><u>Guide to Correcting a Malfunctioning Webcam for Google Meet Conferences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-change-folder-color-on-mac/"><u>How to Change Folder Color on Mac</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-bypassing-youtubes-copyright-strike-legal-strategies-and-precautions/"><u>In 2024, Bypassing YouTube's Copyright Strike Legal Strategies and Precautions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-your-windows-10-access-denied-hurdle-comprehensive-troubleshooting-guide-solved/"><u>Overcome Your Windows 10 'Access Denied' Hurdle - Comprehensive Troubleshooting Guide [Solved]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-your-spotify-troubles-on-android-auto-in-13-simple-steps/"><u>Solve Your Spotify Troubles on Android Auto in 13 Simple Steps!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Effortless Collaboration on Microsoft Teams Using the Revolutionary Copilot Feature
-date: 2024-09-14T23:33:14.489Z
-updated: 2024-09-16T00:26:22.449Z
+date: 2024-09-16T20:22:37.901Z
+updated: 2024-09-20T19:48:21.301Z
 categories:
   - BestProducts
 description: This Article Describes Effortless Collaboration on Microsoft Teams Using the Revolutionary Copilot Feature
@@ -49,27 +49,7 @@ thumbnail: https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/fi
 ![A screenshot saying that Copilot is available for Teams i your subscription](https://www.lifewire.com/thmb/2D727oZ39tGGmRBUsHg2VwKc-ic=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CopilotforMicrosoftTeamsAvailable-614ff945b07246c192fa1c9b7266d2a9.jpeg)  
  Once you’ve entered your personal information and payment details, you should then be able to use Copilot in Teams. If you don’t see this message, you can[buy Copilot on the Microsoft website](https://microsoft.com/en-us/microsoft-365/enterprise/copilot-for-microsoft-365) .  
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Copilot costs $360 per year. If you aren’t already familiar with the software and want to learn more about it before purchasing, check out our guide on[what Microsoft Copilot is](https://www.lifewire.com/what-is-microsoft-copilot-8572496) .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Download Extensions for Copilot in Microsoft Teams
 
@@ -77,23 +57,39 @@ thumbnail: https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/fi
 5. In Microsoft Teams, select the**Apps** heading on the left side.  
 ![The Apps heading for Copilot in Microsoft Teams](https://www.lifewire.com/thmb/KNCxBRRk_i3h3kceeSeepDwAYzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Copilot-Apps-heading-ffc4f34ff4a54378bdb52a337492e834.jpg)
 6. Select**Copilot extensions** to see what's available.  
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The "Copilot Extensions" heading under Apps in Microsoft Teams](https://www.lifewire.com/thmb/NyIgfmsQLm3q9AFPMhNlX8PVDJI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Copilot-Extensions-heading-329c9afe682e45ebbfef4f3f0585e701.jpg)
 7. Look for the Copilot extension(s) you’d like to add in Teams. You can either use the search bar or browse different categories.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you find one you want, select**Add** to install it.  
 ![The "Add" button for a Copilot extension](https://www.lifewire.com/thmb/Cf177pJ4izRTxxtYGuVVhuFE7Jc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Copilot-extension-add-button-5153b259328344cb92232920eb6a1707.jpg)
 8. Your extensions will appear in your chat, and you can access them from there. For example, if you use Trello, you can view your assigned cards without needing to go to the app.  
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You may need to sign in to an app to use its extension.  
@@ -129,18 +125,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-flamegrab-ff-extras/"><u>[New] 2024 Approved Flamegrab FF Extras</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-a-compreranium-of-hand-tracking-systems/"><u>[New] In 2024, A Compreranium of Hand Tracking Systems</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-unlock-professional-broadcasting-on-youtube-and-twitch-with-obs-for-2024/"><u>[New] Unlock Professional Broadcasting on YouTube & Twitch with OBS for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-workflow-with-split-screen-techniques-on-apples-macbook-air-a-comprehensive-walkthrough/"><u>Boost Your Workflow with Split Screen Techniques on Apple's MacBook Air - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comparing-ios-and-android-a-look-at-the-app-store-vs-google-play-differences/"><u>Comparing iOs and Android: A Look at the App Store Vs. Google Play Differences</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-subtitle-transformation-made-simple-top-10-lists/"><u>In 2024, Expert Subtitle Transformation Made Simple - Top 10 Lists</u></a></li>
-<li><a href="https://techtrends.techidaily.com/insight-into-windows-11s-battery-report-functionality-and-usage/"><u>Insight Into Windows 11'S Battery Report Functionality and Usage</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-not-working-on-realme-gt-neo-5-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Realme GT Neo 5? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-companion-to-your-ipad-os-journey-past-present-and-future/"><u>Step-by-Step Companion to Your iPad OS Journey - Past, Present & Future</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-the-missing-dciman32dll-error-message/"><u>Step-by-Step Solutions for the 'Missing dciman32.dll' Error Message</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-9-factors-you-should-evaluate-when-shopping-for-a-new-dashboard-camera/"><u>Top 9 Factors You Should Evaluate When Shopping for a New Dashboard Camera</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-why-is-my-aol-mail-not-functioning-properly-on-an-iphone-6-fixes/"><u>Troubleshooting Guide: Why Is My AOL Mail Not Functioning Properly on an iPhone? (6 Fixes)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-full-functionality-of-geforce-experience-fixing-the-no-recording-dilemma-for-windows-users/"><u>Unlock Full Functionality of GeForce Experience: Fixing the No-Recording Dilemma for Windows Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-comprehensible-guide-to-high-quality-audios-on-youtube/"><u>[New] In 2024, Comprehensible Guide to High-Quality Audios on YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-exploring-and-expressing-a-comprehensible-guide-to-becoming-a-travel-videographer/"><u>2024 Approved Exploring & Expressing A Comprehensible Guide to Becoming a Travel Videographer</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/easywebcamusage-recordingtipsandtricks/"><u>EasyWebCamUsage RecordingTipsAndTricks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-harmonizing-content-with-youtubes-ideal-video-shapes/"><u>In 2024, Harmonizing Content with YouTube's Ideal Video Shapes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ipoditunes-isync/"><u>IPodがiTunesに同期できない？これが音楽リンクの究極解決策！ - iSyncスキルアップのポイント</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/metodo-simple-para-convertir-archivos-asf-a-otras-extensiones-libremente-con-herramienta-online-de-movavi/"><u>Método Simple Para Convertir Archivos ASF a Otras Extensiones Libremente Con Herramienta Online De Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/newbies-in-the-windows-world-steer-clear-of-these-top-8-faux-pas/"><u>Newbies in the Windows World: Steer Clear of These Top 8 Faux Pas</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-partial-picture-softening-on-pcmobile-devices/"><u>The Art of Partial Picture Softening on PC/Mobile Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformer-gratuitement-un-fichier-cr2-en-image-bmp-avec-movavi/"><u>Transformer Gratuitement Un Fichier CR2 en Image BMP Avec Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-taking-professional-screenshots-using-movavis-bootcamp-techniques/"><u>Ultimate Guide to Taking Professional Screenshots Using Movavi's Bootcamp Techniques</u></a></li>
+<li><a href="https://win-community.techidaily.com/ultimate-tutorial-on-implementing-stunning-visual-enhancements-in-imovie/"><u>Ultimate Tutorial on Implementing Stunning Visual Enhancements in iMovie</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/visionary-designs-for-future-mojave-dwellings/"><u>Visionary Designs for Future Mojave Dwellings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avits-movavi/"><u>フリーオンラインAVIファイルをTSに簡単に変更: Movaviのガイド</u></a></li>
 </ul></div>
 

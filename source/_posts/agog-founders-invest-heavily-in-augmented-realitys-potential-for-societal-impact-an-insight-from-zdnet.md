@@ -1,7 +1,7 @@
 ---
 title: "Agog Founders Invest Heavily in Augmented Reality's Potential for Societal Impact: An Insight From ZDNet"
-date: 2024-09-17 10:36:49
-updated: 2024-09-20 10:37:57
+date: 2024-09-16T00:03:38.300Z
+updated: 2024-09-21T04:46:07.600Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,37 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-remove-image-background-with-photopea/"><u>[Updated] How to Remove Image Background With Photopea</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-the-highest-rated-conference-recorders/"><u>[Updated] In 2024, The Ultimate Guide to the Highest Rated Conference Recorders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tale-weavers-hub-hall-of-fame-picks/"><u>[Updated] Tale Weavers Hub - Hall of Fame Picks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-user-manual-to-facetunes-photo-fixes/"><u>[Updated] The Complete User Manual to Facetune's Photo Fixes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-comprehensive-guide-to-premium-data-reservoirs/"><u>2024 Approved Comprehensive Guide to Premium Data Reservoirs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/academic-success-tips-mastering-the-art-of-citing-chatgpt-in-your-research/"><u>Academic Success Tips: Mastering the Art of Citing ChatGPT in Your Research</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipate-the-future-of-communication-with-the-new-arrival-from-samsung/"><u>Anticipate the Future of Communication with the New Arrival From Samsung</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-iphone-14-plus-by-drfone-ios/"><u>How To Factory Unlock Your Telstra iPhone 14 Plus</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-adding-music-to-photo-online/"><u>In 2024, Adding Music to Photo Online</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-honor-x9a-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Honor X9a Location Settings | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inquiring-into-vaticans-digital-age-practices-is-email-part-of-pope-francis-routine/"><u>Inquiring Into Vatican's Digital Age Practices - Is Email Part of Pope Francis' Routine?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/julys-top-picks-8-free-software-solutions-to-update-your-drivers/"><u>July's Top Picks: 8 Free Software Solutions to Update Your Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/t-mobile-metro-unrestricted-network-access-and-global-roaming-guidelines/"><u>T-Mobile Metro Unrestricted Network Access & Global Roaming Guidelines</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforming-your-windows-11-experience-a-step-by-step-guide-on-changing-taskbar-colors/"><u>Transforming Your Windows 11 Experience: A Step-by-Step Guide on Changing Taskbar Colors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-of-lgs-retail-and-wholesale-avenues/"><u>Unlocking the Secrets of LG’s Retail and Wholesale Avenues</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

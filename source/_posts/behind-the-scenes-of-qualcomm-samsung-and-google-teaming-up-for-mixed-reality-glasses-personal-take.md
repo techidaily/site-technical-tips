@@ -1,7 +1,7 @@
 ---
 title: Behind the Scenes of Qualcomm, Samsung and Google Teaming Up for Mixed Reality Glasses | Personal Take
-date: 2024-09-19 21:21:42
-updated: 2024-09-20 10:48:30
+date: 2024-09-16T18:41:34.686Z
+updated: 2024-09-21T04:32:19.934Z
 tags:
   - ar+vr
 categories:
@@ -64,11 +64,28 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-audacity-audio-basics-for-new-mac-users/"><u>[Updated] Audacity Audio Basics for New Mac Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-github-desktop-in-windows-11-and-11/"><u>How to Use GitHub Desktop in Windows 11 and 11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-dive-deep-into-funimates-secrets/"><u>In 2024, Dive Deep Into Funimate's Secrets</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-lava-storm-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Lava Storm 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/introducing-movavi-video-editor-update-discover-whats-freshly-added/"><u>Introducing Movavi Video Editor Update: Discover What’s Freshly Added</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/m4a-to-mpeg-file-converter-quick-and-effortless-online-upgrade-at-no-cost-by-movavi/"><u>M4A to MPEG File Converter - Quick and Effortless Online Upgrade at No Cost by Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wmv-mp3-mmx-movavi/"><u>WMV 프리미우스를 MP3로 제어맵 내 MMX에서 바꾸기 - Movavi</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

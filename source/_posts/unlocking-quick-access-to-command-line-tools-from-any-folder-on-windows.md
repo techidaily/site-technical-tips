@@ -1,7 +1,7 @@
 ---
 title: Unlocking Quick Access to Command Line Tools From Any Folder on Windows
-date: 2024-09-11T19:30:15.178Z
-updated: 2024-09-15T20:42:46.648Z
+date: 2024-09-17T23:50:10.689Z
+updated: 2024-09-21T04:54:03.701Z
 categories:
   - BestProducts
 description: This Article Describes Unlocking Quick Access to Command Line Tools From Any Folder on Windows
@@ -49,6 +49,13 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
 ## Open Command Prompt in Windows 8 or 8.1
@@ -63,6 +70,13 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -75,16 +89,16 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other Ways to Open Command Prompt
@@ -94,13 +108,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  To do this, enter**cmd** into the command-line interface. This can be in the Run dialog box (**WIN** +**R** ) or[Task Manager's](https://www.lifewire.com/task-manager-2626025) **Run new task** option (go to**File** \>**Run new task** if you're not using Windows 11).
 
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Elevated Command Prompts and Old Windows Versions
 
@@ -113,13 +120,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 * **you must be an administrator**
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
@@ -165,16 +165,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-screen-capture-high-quality-snaps-with-ease/"><u>[Updated] How to Screen-Capture High-Quality Snaps with Ease</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/best-6-modern-homes-for-minecraft-enthusiasts/"><u>Best 6 Modern Homes for Minecraft Enthusiasts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-correct-msstdfmtdll-not-found-issues-in-windows-systems/"><u>Comprehensive Guide to Correct 'Msstdfmt.dll' Not Found Issues in Windows Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/crafting-versus-off-the-shelf-computers-which-strategy-suits-you-best/"><u>Crafting Versus Off-the-Shelf Computers - Which Strategy Suits You Best?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ring-best-applications-tiktok-vs-youtubes-micro-video-realm/"><u>Exploring Best Applications TikTok vs YouTube's Micro-Video Realm</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-quickly-take-a-screenshot-with-your-hewlett-packard-notebook/"><u>How to Quickly Take a Screenshot with Your Hewlett Packard Notebook</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-a-complete-guide-of-top-7-video-language-translators/"><u>New 2024 Approved A Complete Guide of Top 7 Video Language Translators</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/nintendo-switch-screen-clipping-tips-how-to-do-it-easily-and-what-you-need/"><u>Nintendo Switch Screen Clipping Tips: How To Do It Easily And What You Need</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/override-unmet-system-conditions-indicator-in-win11/"><u>Override Unmet System Conditions Indicator in Win11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/resolved-issue-fixes-implemented-for-non-responsive-igfx-module-problem/"><u>Resolved Issue: Fixes Implemented For Non-Responsive iGFX Module Problem</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-connecting-your-ps4-gamepad-with-ease/"><u>Step-by-Step Guide: Connecting Your PS4 Gamepad with Ease</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-nes-switch-brawlers-the-ultimate-10-game-guide/"><u>[New] 2024 Approved NES Switch Brawlers The Ultimate 10-Game Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-flip-the-script-on-fb-ads-the-best-20-free-video-maker-apps-for-2024/"><u>[New] Flip the Script on FB Ads The Best 20 Free Video Maker Apps for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mechanized-sky-dwellers-classes/"><u>[New] Mechanized Sky-Dwellers' Classes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-quick-reference-how-to-insert-vimeo-media-into-powerpoint-files-for-2024/"><u>[New] Quick Reference How to Insert Vimeo Media Into PowerPoint Files for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-troubleshooting-sudden-facebook-live-hiccups/"><u>[New] Troubleshooting Sudden Facebook Live Hiccups</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-download-your-favorite-shows-anytime-everywhere-with-these-apps-for-2024/"><u>[Updated] Download Your Favorite Shows Anytime, Everywhere with These Apps for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-expertly-slice-your-videos-macs-finest-mp4-applications-for-2024/"><u>[Updated] Expertly Slice Your Videos Mac's Finest MP4 Applications for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movaviwmvmp4/"><u>簡單與免費：MovaviWMV到MP4的線上格式轉換方法</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tiff-bmp-with-movavi/"><u>無料でオンライン画像ファイル変換 - TIFF から BMPへの直接チュートリアル with Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convert-vob-files-to-m4v-format-free-online-with-movavi/"><u>Convert VOB Files to M4V Format Free Online with Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/converti-il-tuo-file-caf-in-formato-wav-online-gratuito-con-movavi/"><u>Converti Il Tuo File CAF in Formato WAV Online Gratuito Con Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expertise-en-photos-trouver-lequilibre-ideal-pour-les-blanc-en-images-professionnelles/"><u>Expertise en Photos: Trouver L'Équilibre Idéal Pour Les Blanc en Images Professionnelles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-converter-convert-ogg-to-webm-with-moveavee/"><u>Free Online Converter: Convert OGG to WebM with Moveavee</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-sony-xperia-10-v-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Sony Xperia 10 V?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/pictureforge-hub-for-2024/"><u>PictureForge Hub for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-9-ultimate-photo-management-apps-the-complete-guide/"><u>Top 9 Ultimate Photo Management Apps: The Complete Guide</u></a></li>
 </ul></div>
 

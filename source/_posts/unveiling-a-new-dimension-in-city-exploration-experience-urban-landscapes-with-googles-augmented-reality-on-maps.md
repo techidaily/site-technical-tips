@@ -1,7 +1,7 @@
 ---
 title: "Unveiling a New Dimension in City Exploration: Experience Urban Landscapes with Google's Augmented Reality on Maps"
-date: 2024-09-19 14:44:41
-updated: 2024-09-20 11:28:49
+date: 2024-09-15T03:15:05.500Z
+updated: 2024-09-21T02:59:54.096Z
 tags:
   - ar+vr
 categories:
@@ -64,11 +64,36 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unleashing-true-potential-in-speech-interpretation-through-google/"><u>[New] In 2024, Unleashing True Potential in Speech Interpretation Through Google</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-bridging-visuals-and-audio-instagram-content-to-mp3-magic/"><u>[Updated] Bridging Visuals & Audio Instagram Content to Mp3 Magic</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-level-up-your-auditory-game-in-valorant-with-this-must-try-free-tool/"><u>[Updated] Level Up Your Auditory Game in Valorant with This Must-Try, Free Tool</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wmvmp4-movavi/"><u>「WmvファイルをMP4へ簡単無料変換 - Movaviオンライン」</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/download-your-media-in-mp3-format-effortless-webm-to-mp3-conversion-by-movavi/"><u>Download Your Media in MP3 Format - Effortless Webm to MP3 Conversion by Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortlessly-transform-your-dts-audio-into-mp4-using-the-wisestream-tool-no-costs-involved/"><u>Effortlessly Transform Your DTS Audio Into MP4 - Using the WiseStream Tool, No Costs Involved!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/empower-your-site-insights-analytics-solutions-from-cookiebot/"><u>Empower Your Site Insights: Analytics Solutions From Cookiebot</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-conversion-transforming-voc-files-into-avi-format-with-movavi/"><u>Free Online Conversion: Transforming VOC Files Into AVI Format with Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-dvd-to-audio-converter-hochwertige-qualitatsaufnahme-von-filmen-auf-dvd/"><u>Gratis DVD-to-Audio Converter: Hochwertige Qualitätsaufnahme Von Filmen Auf DVD</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratuit-wykantga-van-wmv-naar-m4v-online-movavi/"><u>Gratuit Wykantga Van WMV Naar M4V Online - Movavi</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-begin-with-no-cost-video-intro-tools/"><u>In 2024, Begin with No-Cost Video Intro Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-lava-storm-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Lava Storm 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/moveavis-costless-video-transformation-swiftly-switching-from-mkv-files-to-high-quality-m4a-audio-tracks/"><u>Moveavi's Costless Video Transformation: Swiftly Switching From MKV Files to High-Quality M4A Audio Tracks</u></a></li>
+<li><a href="https://windows11.techidaily.com/regaining-access-to-lost-steam-contact-list-win11/"><u>Regaining Access to Lost Steam Contact List (Win11)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-eager-to-know-how-to-create-an-adjustment-layer-in-premiere-pro-this-article-will-highlight-the-significance-of-adding-an-adjustment/"><u>Updated In 2024, Are You Eager to Know How to Create an Adjustment Layer in Premiere Pro? This Article Will Highlight the Significance of Adding an Adjustment Layer in Premiere Pro</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

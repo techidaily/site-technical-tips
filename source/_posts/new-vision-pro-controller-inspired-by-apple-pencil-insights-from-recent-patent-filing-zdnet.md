@@ -1,7 +1,7 @@
 ---
 title: New Vision Pro Controller Inspired by Apple Pencil? Insights From Recent Patent Filing - ZDNet
-date: 2024-09-18 21:41:21
-updated: 2024-09-20 10:42:48
+date: 2024-09-17T18:31:27.305Z
+updated: 2024-09-21T02:49:17.368Z
 tags:
   - ar+vr
 categories:
@@ -64,11 +64,32 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-best-video-capture-for-iphoneipad-users/"><u>[Updated] 2024 Approved The Best Video Capture for iPhone/iPad Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-pixellation-perfection-windows-and-macs-photo-to-animation-powerhouse/"><u>[Updated] Pixellation Perfection Windows & Mac's Photo to Animation Powerhouse</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-best-10-final-cut-pro-plugins-ever/"><u>[Updated] The Best 10 Final Cut Pro Plugins Ever</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convertissez-votre-fichier-asf-au-format-flash-swf-librement-sur-internet-via-movavi/"><u>Convertissez Votre Fichier ASF Au Format Flash SWF Librement Sur Internet via Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/impara-come-trasformare-facilmente-il-tuo-video-mp4-in-un-disco-dvd-utilizzando-movavi/"><u>Impara Come Trasformare Facilmente Il Tuo Video MP4 in Un Disco DVD Utilizzando Movavi</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-8-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 8</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-which-is-better-for-vloggers-on-facebook-vertical-or-horizontal/"><u>In 2024, Which Is Better for Vloggers on Facebook Vertical or Horizontal?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/e-look-at-youtubes-creator-workshop-space-for-2024/"><u>Inside Look at YouTube's Creator Workshop Space for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-jpegpng/"><u>Movavi - 免費オンライン画像ファイルのJPEGとPNGへのシームレスな変換</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/nsv-mp4/"><u>오픈 소스에서 NSV MP4를 제공된 것과 동일한 영상으로 무료 변환: 모바이비</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

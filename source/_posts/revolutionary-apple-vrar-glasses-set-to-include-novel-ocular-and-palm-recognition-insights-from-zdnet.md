@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Apple VR/AR Glasses Set to Include Novel Ocular & Palm Recognition: Insights From ZDNet"
-date: 2024-09-18 10:34:33
-updated: 2024-09-20 10:34:39
+date: 2024-09-15T16:45:48.774Z
+updated: 2024-09-20T23:21:20.540Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,36 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-vrs-best-immersion-top-ten-titles-for-2024/"><u>[Updated] VR's Best Immersion Top Ten Titles for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-snd-movavi/"><u>線上全面FREE SND改版轉移功能 – Movavi解決方案</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bezcenny-online-mp4-na-mov-konvertovat-s-fazo-radi-a-lepsi-kompatibilita/"><u>Bezcenný Online MP4 Na MOV Konvertovat S Fázo Rádi a Lepší Kompatibilita</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/crea-file-mp3-gratuitamente-da-wmv-online-con-convertitore-audio-guida-rapida-di-movavi/"><u>Crea File MP3 Gratuitamente Da WMV Online Con Convertitore Audio: Guida Rapida Di Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dts-aac-online-movavi/"><u>DTS AAC 오디오 파일을 무료로 Online에서 전환: Movavi 소개</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enlisted-steps-to-mend-windows-and-ea-servers-linkup/"><u>Enlisted Steps to Mend Windows and EA Servers Linkup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-avi-to-mp4-converter-moveavi/"><u>Free Online AVI to MP4 Converter - MoveAVI</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-to-choose-the-best-low-cost-remobell-video-doorbell-on-amazon/"><u>How to Choose the Best Low-Cost RemoBell Video Doorbell on Amazon</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-tecno-pova-5-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Tecno Pova 5 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-8-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 8 Plus Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-c67-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme C67 5G Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-12-premium-pc-sound-capture-devices-reviewed-by-movavi/"><u>Top 12 Premium PC Sound Capture Devices Reviewed by Movavi</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unleashing-creativity-in-stories-adding-personalized-graphics-for-2024/"><u>Unleashing Creativity in Stories Adding Personalized Graphics for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/upgrading-your-videos-a-complete-guide-to-converting-footage-into-high-definition-1080p-desktop-and-web-methods/"><u>Upgrading Your Videos: A Complete Guide to Converting Footage Into High-Definition 1080P - Desktop & Web Methods</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

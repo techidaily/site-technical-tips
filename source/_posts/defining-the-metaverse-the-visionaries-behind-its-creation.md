@@ -1,7 +1,7 @@
 ---
 title: Defining the Metaverse - The Visionaries Behind Its Creation
-date: 2024-09-18 18:18:58
-updated: 2024-09-20 11:50:41
+date: 2024-09-17T03:18:14.099Z
+updated: 2024-09-20T21:17:10.518Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,37 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-complete-analysis-of-gecatas-play-recorder/"><u>[New] 2024 Approved Complete Analysis of Gecata's Play Recorder</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-immortals-fenyx-rising-keeps-crashing/"><u>[SOLVED] Immortals Fenyx Rising Keeps Crashing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-como-tomar-fotografias-profesionales-usando-tu-pc-tres-metodos-utiles/"><u>1. Cómo Tomar Fotografías Profesionales Usando Tu PC: Tres Métodos Útiles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chronology-on-camera-best-practices-for-date-insertion/"><u>Chronology on Camera Best Practices for Date Insertion</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversion-gratuite-flac-a-mp3-avec-movavi-loutil-facile-et-rapide-pour-tous-les-utilisateurs/"><u>Conversion Gratuite FLAC À MP3 Avec Movavi - L'outil Facile Et Rapide Pour Tous Les Utilisateurs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/descargar-en-linea-convertidor-gratuito-de-archivos-m4v-a-mp3-con-movavi/"><u>Descargar en Línea: Convertidor Gratuito De Archivos M4V a MP3 Con Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/escolhendo-movavi-descubra-o-motivo-de-ser-a-sua-primeira-solucao-multimidia/"><u>Escolhendo Movavi: Descubra O Motivo De Ser a Sua Primeira Solução Multimídia!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-conversion-guide-transforming-tiff-images-into-jpg-format/"><u>Free Conversion Guide: Transforming TIFF Images Into JPG Format</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-effortlessly-engage-with-windows-11-service-tools/"><u>How to Effortlessly Engage with Windows 11 Service Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-apple-iphone-15-pro-max-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to Apple iPhone 15 Pro Max iCloud Bypass</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oppo-reno-11-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Oppo Reno 11 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990899286-solving-lost-ark-server-disconnect-error-effective-solutions-revealed/"><u>Solving Lost Ark Server Disconnect Error - Effective Solutions Revealed!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726221444995-mp3-flac/"><u>영구 메모리 갤라 MP3-FLAC 번역 - 무료 서비스</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wma-m4v/"><u>제공된 WMA, M4V 파일에 대한 온라인 무료 변환기 - 모바이비아</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

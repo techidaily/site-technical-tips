@@ -1,7 +1,7 @@
 ---
 title: Why Is the 'Lying Down Mode' For Facebook's Project Quest 3 Taking Longer? Uncovering The Reasons Behind Meta's Strategy
-date: 2024-09-19 12:30:29
-updated: 2024-09-20 10:13:30
+date: 2024-09-19T04:45:26.734Z
+updated: 2024-09-21T02:35:31.440Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,35 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-pivoting-from-xsplit-top-video-splitters-ranked/"><u>[New] 2024 Approved Pivoting From XSplit Top Video Splitters Ranked</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/d3dx927dll-file-not-detected-follow-our-complete-solution/"><u>d3dx9_27.dll File Not Detected? Follow Our Complete Solution</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-tecno-camon-20-pro-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Tecno Camon 20 Pro 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/selecting-your-dream-mobile-coverage-tips-and-tricks/"><u>Selecting Your Dream Mobile Coverage: Tips and Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-properly-sanitizing-your-hdtv-screens-without-damage/"><u>Step-by-Step Tutorial on Properly Sanitizing Your HDTV Screens without Damage</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unlock-adobe-premieres-full-potential-6-expert-level-editing-hacks-for-2024/"><u>Updated Unlock Adobe Premieres Full Potential 6 Expert-Level Editing Hacks for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

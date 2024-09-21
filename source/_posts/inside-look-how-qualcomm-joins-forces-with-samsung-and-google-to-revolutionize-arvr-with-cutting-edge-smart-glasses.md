@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: How Qualcomm Joins Forces With Samsung and Google to Revolutionize AR/VR with Cutting-Edge Smart Glasses"
-date: 2024-09-19 14:19:54
-updated: 2024-09-20 10:42:15
+date: 2024-09-14T18:35:20.818Z
+updated: 2024-09-20T22:19:29.426Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,34 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-lightning-flicker-viewer-windows-photos/"><u>[New] In 2024, Lightning Flicker Viewer - Windows Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-future-of-marketing/"><u>[New] Unveiling the Future of Marketing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-hacking-the-meme-game-master-kinemaster-skills/"><u>[Updated] 2024 Approved Hacking the Meme Game Master KineMaster Skills</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lifetime-of-memories-elevated-in-the-cloud-free-and-paid-storage-compared/"><u>2024 Approved Lifetime of Memories, Elevated in the Cloud Free & Paid Storage Compared</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mpg-mp3-movavi/"><u>線上免費 MPG 至 MP3 轉檔工具 – Movavi 無限聲音轉換選擇項</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversion-video-libre-convertissez-votre-fichier-3gp-en-format-avi-avec-movvavi/"><u>Conversion Vidéo Libre : Convertissez Votre Fichier 3GP en Format AVI Avec MOVVAVI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/flacmp3-flac-movavi/"><u>FLAC/MP3 자원을 이용한 영구 프리미징: 모바일 내내 공부해주는 무료 FLAC 변환 도구 - Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oppo-find-x7-ultra-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Oppo Find X7 Ultra to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-raw-png/"><u>Movavi의 무적성: 인터넷을 통한 RAW PNG 바꾸기 가능 – 비용 없음</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-beginners-path-to-perfect-photographs-advanced-editing-techniques-for-windows-and-macos-users/"><u>The Beginner's Path to Perfect Photographs: Advanced Editing Techniques for Windows and macOS Users</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-and-tricks-for-overcoming-the-msvcr120dll-deficiency-issue/"><u>Tips and Tricks for Overcoming the Msvcr120dll Deficiency Issue</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-tips-for-keeping-your-iphones-memories-in-order-and-backed-up-on-icloud-for-2024/"><u>Top Tips for Keeping Your iPhone's Memories in Order and Backed Up on iCloud for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformez-vos-fichiers-jpg-au-format-jpeg-sans-frais-via-lapplication-en-ligne-de-moovavi/"><u>Transformez Vos Fichiers JPG Au Format JPEG Sans Frais via L'application en Ligne De Moovavi</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

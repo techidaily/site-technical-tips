@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Walkthrough of Controlling Google Home with Your PC's Interface
-date: 2024-09-14T18:56:18.979Z
-updated: 2024-09-15T20:13:27.302Z
+date: 2024-09-15T21:36:49.210Z
+updated: 2024-09-20T16:08:17.262Z
 categories:
   - BestProducts
 description: This Article Describes A Step-by-Step Walkthrough of Controlling Google Home with Your PC's Interface
@@ -55,13 +55,6 @@ thumbnail: https://www.lifewire.com/thmb/eiVctl7cPmC70NFUEvOs6uAEXdE=/540x405/fi
 7. Press the**Stop** button to save the code.
 8. Test several functions on the remote and see if they work for your device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Brand Code Search
 
  Using a similar procedure as Auto Code Search, you may be able to narrow down your search to just a single brand. This search comes in handy if the brand provides more than one code.
@@ -78,6 +71,13 @@ thumbnail: https://www.lifewire.com/thmb/eiVctl7cPmC70NFUEvOs6uAEXdE=/540x405/fi
 8. Press the**Stop** button on your universal remote to save the code (the LED light will turn off).
 9. Use several buttons (volume, etc.) to see if your remote can now control the device.
 10. If your device doesn't turn off and the LED light blinks four times, you've exhausted the codes for that brand and need to use another programming method.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Manual Code Search
 
@@ -102,6 +102,13 @@ thumbnail: https://www.lifewire.com/thmb/eiVctl7cPmC70NFUEvOs6uAEXdE=/540x405/fi
 
  This process is long and tedious, especially if you have several devices you want to control. However, if you don't have access to the remote control codes or other methods fail, you may be able to use the IR learning process as your last result, provided your Universal Remote supports this programming option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Programming via PC
 
  Another programming option available for some remotes is with a PC. One brand that supports this option is[Logitech Harmony](https://www.logitech.com/en-us/harmony-universal-remotes) .
@@ -113,13 +120,6 @@ thumbnail: https://www.lifewire.com/thmb/eiVctl7cPmC70NFUEvOs6uAEXdE=/540x405/fi
 1. Select or enter your Logitech Harmony Universal Remote Control model number**.**
 2. Designate the types and brands of devices you wish to control.
 3. [Create Activities](https://support.myharmony.com/en-us/understanding-harmony-activities) that allow you to turn on and perform several additional tasks across multiple devices at the same time.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -172,18 +172,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-standout-80s-visual-tricks-to-enhance-films/"><u>[New] In 2024, Standout 80S Visual Tricks to Enhance Films</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-blueprint-for-blending-video-content-into-curricula/"><u>[Updated] Blueprint for Blending Video Content Into Curricula</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-how-to-listen-to-podcasts-on-your-iphone/"><u>[Updated] How To Listen to Podcasts on Your iPhone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-visionary-logo-designs-that-define-your-podcast-brand-for-2024/"><u>[Updated] Visionary Logo Designs that Define Your Podcast Brand for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-most-effective-study-tools-2024s-top-8-educational-applications/"><u>Discover the Most Effective Study Tools: 2024'S Top 8 Educational Applications</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-64128gb-data-puzzle-solving-video-limits/"><u>In 2024, 64/128GB Data Puzzle Solving Video Limits</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-ensure-your-video-fits-the-instagram-aesthetic-perfectly/"><u>In 2024, Ensure Your Video Fits the Instagram Aesthetic Perfectly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-new-languages-made-easy-with-these-5-best-free-apps/"><u>Mastering New Languages Made Easy with These 5 Best Free Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-recording-and-sharing-voice-calls-on-your-iphone/"><u>Mastering the Art of Recording & Sharing Voice Calls on Your iPhone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcome-game-launch-problems-with-steam-on-your-windows-11-pc-a-step-by-step-solution/"><u>Overcome Game Launch Problems with Steam on Your Windows 11 PC - A Step-by-Step Solution</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a05-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A05 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-full-guide-to-perfecting-photos-with-facetune-for-2024/"><u>The Full Guide to Perfecting Photos with Facetune for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-led-color-signals-what-do-your-ps4-controllers-lights-mean/"><u>Understanding LED Color Signals: What Do Your PS4 Controller's Lights Mean?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-dreamy-documentaries-bedtime-stories-reviewed/"><u>[New] In 2024, Dreamy Documentaries Bedtime Stories Reviewed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-dialing-up-the-excitement-speeding-up-videos-on-stories/"><u>[Updated] 2024 Approved Dialing Up the Excitement Speeding Up Videos on Stories</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-ultimate-performance-of-yis-4k-actioncam/"><u>[Updated] 2024 Approved The Ultimate Performance of Yi's 4K ActionCam</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-boring-to-breathtaking-transforming-podcast-blurbs/"><u>[Updated] From Boring to Breathtaking Transforming Podcast Blurbs</u></a></li>
+<li><a href="https://games-able.techidaily.com/connect-cast-and-control-using-steam-deck-to-access-pc-gaming/"><u>Connect, Cast & Control: Using Steam Deck to Access PC Gaming</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-nokia-c210-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Nokia C210</u></a></li>
+<li><a href="https://solve-news.techidaily.com/metamorphose-gratuite-de-fichier-flv-en-format-3gp-sur-internet-decouvrez-les-services-de-movaflip/"><u>Métamorphose Gratuite De Fichier FLV en Format 3GP Sur Internet - Découvrez Les Services De MovaFlip</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/metodo-simple-para-convertir-archivos-asf-a-otras-extensiones-libremente-con-herramienta-online-de-movavi/"><u>Método Simple Para Convertir Archivos ASF a Otras Extensiones Libremente Con Herramienta Online De Movavi</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/starlight-strategies-dos-and-donts-for-perfect-nightscape-portraits-for-2024/"><u>Starlight Strategies Do's & Don'ts for Perfect Nightscape Portraits for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-gentle-audio-dampening-on-lumafusion-platforms-for-2024/"><u>The Art of Gentle Audio Dampening on Lumafusion Platforms for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformar-archivos-nef-a-imagenes-de-mapa-de-bits-sin-costo-con-conversor-online-rapido-movavi/"><u>Transformar Archivos NEF a Imágenes De Mapa De Bits Sin Costo Con Conversor Online Rápido - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-taking-professional-screenshots-using-movavis-bootcamp-techniques/"><u>Ultimate Guide to Taking Professional Screenshots Using Movavi's Bootcamp Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mkvwebm-movavi/"><u>이웃에서 무료 소스 MKV/WEBM 데이터가 아닌 모바일용 비디오를 만드는 기법 - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avits-movavi/"><u>フリーオンラインAVIファイルをTSに簡単に変更: Movaviのガイド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: AI Integration in VR by Stanford Promises Lighter, More Advanced Tech - The Demise of Uncomfortable Gear | ZDNET News
-date: 2024-09-17 15:33:32
-updated: 2024-09-20 11:11:34
+date: 2024-09-19T17:45:51.954Z
+updated: 2024-09-20T16:53:04.794Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,34 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-directors-diary-filmo-qanda-series/"><u>[New] 2024 Approved Director's Diary Filmo Q&A Series</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-when-you-cant-find-or-access-msodll/"><u>Effective Solutions for When You Can’t Find or Access mso.dll</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-top-12-premium-free-voip-communication-tools/"><u>Explore the Top 12 Premium-Free VoIP Communication Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/frame-flair-choosing-the-best-video-cameras-for-deliberate-moves/"><u>Frame Flair Choosing the Best Video Cameras for Deliberate Moves</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-mobile-multimedia-tools-to-transform-photos/"><u>Innovative Mobile Multimedia Tools to Transform Photos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-driver-downloads-for-msi-sound-cards-compatible-with-windows-os/"><u>Latest Driver Downloads for MSI Sound Cards Compatible with Windows OS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-compression-top-picks-for-windows-10-users/"><u>New Free Video Compression Top Picks for Windows 10 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolve-haldll-missing-errors-efficiently-for-windows-xp-systems/"><u>Resolve 'Hal.Dll Missing' Errors Efficiently for Windows XP Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-10-learning-apps-tailored-for-high-school-students/"><u>The Best 10 Learning Apps Tailored for High School Students</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-pinnacle-of-tablet-drawing-best-8-for-ipados/"><u>The Pinnacle of Tablet Drawing Best 8 for iPadOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-essentials-for-choosing-the-right-smart-tv/"><u>Top 7 Essentials for Choosing the Right Smart TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-common-issues-encountered-in-bios-post-process/"><u>Troubleshooting Common Issues Encountered in BIOS POST Process</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-quick-access-to-command-line-tools-from-any-folder-on-windows/"><u>Unlocking Quick Access to Command Line Tools From Any Folder on Windows</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

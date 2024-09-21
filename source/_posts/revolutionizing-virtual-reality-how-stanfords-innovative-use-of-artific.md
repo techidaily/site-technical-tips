@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Virtual Reality: How Stanford's Innovative Use of Artific"
-date: 2024-09-17 15:30:35
-updated: 2024-09-20 11:48:12
+date: 2024-09-18T16:14:24.404Z
+updated: 2024-09-20T20:59:12.186Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,28 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/2024-approved-entertaining-entrances-tales-that-resonate/"><u>2024 Approved Entertaining Entrances Tales That Resonate</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726223695723-20/"><u>20款最佳影片剪輯軟件：無版權隱藏、全部免費提議</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/facing-video-display-issues-with-sony-a6400/"><u>Facing Video Display Issues with Sony A6400</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Passcode Screen?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformar-imagenes-en-formato-nef-a-jpg-sin-costo-alguno-mediante-herramienta-en-linea-de-movavi/"><u>Transformar Imágenes en Formato Nef a Jpg Sin Costo Alguno Mediante Herramienta En Línea De Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2024-top-14/"><u>최신 기술에 힘의 사용: 2024 년 TOP 14 자막 프로그램 강조</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

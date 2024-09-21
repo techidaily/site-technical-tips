@@ -1,7 +1,7 @@
 ---
 title: Innovative Singaporean Team Develops High-Tech Glove Enabling Superior Virtual Sensations - ZDNet
-date: 2024-09-19 13:21:14
-updated: 2024-09-20 10:14:58
+date: 2024-09-18T17:09:17.591Z
+updated: 2024-09-21T00:32:37.691Z
 tags:
   - ar+vr
 categories:
@@ -64,11 +64,34 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-achieve-stellar-clickthrough-rates-via-thumbnail-enlargement-on-youtube/"><u>[New] In 2024, Achieve Stellar Clickthrough Rates via Thumbnail Enlargement on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-reschedule-image-file-storage-from-mac-for-2024/"><u>[New] Reschedule Image File Storage From Mac for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-android-freedom-selecting-prime-video-editing-tools/"><u>2024 Approved Android Freedom Selecting Prime Video Editing Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-tutorial-on-setting-up-ps-vr-compatibility-with-desktop-systems/"><u>Complete Tutorial on Setting Up PS VR Compatibility with Desktop Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehvew-managing-and-changing-your-facebook-sign-in-details/"><u>Comprehvew: Managing and Changing Your Facebook Sign-In Details</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-to-troubleshoot-and-fix-netflix-problems-on-lg-screens/"><u>Easy Steps to Troubleshoot and Fix Netflix Problems on LG Screens</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/giggles-guide-to-sign-insign-out/"><u>Giggles Guide to Sign-In/Sign-Out</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing your hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-sync-a-ps4-controller/"><u>How to Sync a PS4 Controller</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/join-the-trend-expert-tips-for-making-memorable-duet-videos-on-tiktok/"><u>Join the Trend: Expert Tips for Making Memorable Duet Videos on TikTok</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/metro-exodus-pc-version-stabilization-techniques-no-more-unwanted-restarts/"><u>Metro Exodus PC Version Stabilization Techniques – No More Unwanted Restarts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-factors-you-should-evaluate-prior-to-purchasing-high-quality-speakers/"><u>Top 5 Factors You Should Evaluate Prior to Purchasing High-Quality Speakers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-guide-to-glitch-video-editors-top-picks-for-windows-mac-and-web/"><u>Updated The Ultimate Guide to Glitch Video Editors Top Picks for Windows, Mac, and Web</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

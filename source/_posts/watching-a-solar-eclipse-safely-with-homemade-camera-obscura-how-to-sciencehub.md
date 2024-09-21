@@ -1,7 +1,7 @@
 ---
 title: Watching a Solar Eclipse Safely with Homemade Camera Obscura - How To | ScienceHub
-date: 2024-09-19 14:39:30
-updated: 2024-09-20 11:27:59
+date: 2024-09-18T18:22:21.782Z
+updated: 2024-09-21T03:41:50.666Z
 tags:
   - yard-outdoors
 categories:
@@ -91,6 +91,13 @@ A security camera of that resolution is not disappointing on its own, but it's a
 
 Additionally, many smart home users aren't prepared to pay monthly subscription fees to access plan-exclusive features, but plenty of users prefer the convenience of not having to worry about local storage and enjoy the extra perks a paid plan offers. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -116,11 +123,26 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-decoding-the-mysteries-of-effective-youtube-keywords-for-2024/"><u>[Updated] Decoding the Mysteries of Effective YouTube Keywords for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-jocular-video-hacker-review/"><u>2024 Approved Jocular Video Hacker Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/critical-points-in-employing-chatgpt-for-emotional-support-services/"><u>Critical Points in Employing ChatGPT for Emotional Support Services</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-buzz-what-to-look-forward-in-googles-upcoming-event/"><u>Decoding the Buzz: What to Look Forward in Google's Upcoming Event</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-out-the-lost-code-for-your-vehicles-in-car-entertainment-unit-easily/"><u>Find Out the Lost Code for Your Vehicle's In-Car Entertainment Unit Easily!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/free-file-savior-the-stellar-rescue-tool/"><u>Free File Savior - The Stellar Rescue Tool</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-v29-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo V29 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-correcting-missing-gdxtools320dll-error-codes/"><u>The Ultimate Guide to Correcting Missing gdxtools320.dll Error Codes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-fixing-the-problem-with-missing-newmails-on-your-yahoo-account/"><u>Understanding and Fixing the Problem with Missing Newmails on Your Yahoo Account</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-windows-10-tips-switching-the-screen-keyboard-on-and-off-smoothly/"><u>Unlocking Windows 10 Tips: Switching the Screen Keyboard On and Off Smoothly</u></a></li>
+</ul></div>
+

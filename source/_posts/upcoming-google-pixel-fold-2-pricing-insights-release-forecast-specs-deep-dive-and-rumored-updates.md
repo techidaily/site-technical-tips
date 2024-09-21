@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Google Pixel Fold 2: Pricing Insights, Release Forecast, Specs Deep Dive, and Rumored Updates"
-date: 2024-09-14T20:40:49.904Z
-updated: 2024-09-15T21:03:01.892Z
+date: 2024-09-15T02:15:39.521Z
+updated: 2024-09-20T20:32:28.005Z
 categories:
   - BestProducts
 description: "This Article Describes Upcoming Google Pixel Fold 2: Pricing Insights, Release Forecast, Specs Deep Dive, and Rumored Updates"
@@ -47,16 +47,10 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Pixel 9 Pro Fold** \- $1,799
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pre-Order Information
@@ -64,13 +58,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
  You can't pre-order the Pixel 9 just yet. We'll drop the link here when pre-ordering starts, which will likely be the same day Google unveils the phones.
 
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Google Pixel 9 Features
 
@@ -80,6 +67,13 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **AI tools** : New software features like text-to-image conversion and smart auto-reply abilities are expected to come with the Pixel 9, although these functions might be reserved for the Pro models. A few of these AI capabilities might process on the device, meaning more privacy and quicker results.
 * **Offline location tracking** : Android 15 will introduce Google's Find My Device network for locating compatible items via Bluetooth. The Pixel 9 might be the first Google phone to be findable even when it's turned off.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Google Pixel 9 Specs and Hardware
 
@@ -95,22 +89,29 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Performance
 
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Cameras
 
  This year's Pixels are changing up the camera bar. Compared to the Pixel 8's camera housing, it looks a bit more compact and rounded, but also flatter on the sides. It now has a small gap on either end that distinguishes it from last year's phones.
 
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 MySmartPrice
 
@@ -123,19 +124,6 @@ MySmartPrice
  There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Other Specs
 
@@ -168,17 +156,19 @@ MySmartPrice
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-master-the-art-of-radial-filtering-with-photoshop/"><u>[Updated] Master the Art of Radial Filtering with Photoshop</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-leading-auto-clickers-the-top-5-picks-for-android-devices/"><u>Discover the Leading Auto Clickers: The Top 5 Picks for Android Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-steelseries-mouse-drivers-free-download-now/"><u>Get the Latest SteelSeries Mouse Drivers - Free Download Now</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-11-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 11 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Honor X50i? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-optical-drives-malfunctions-tips-for-successfully-resolving-wont-openeject-issues/"><u>Overcoming Optical Drives Malfunctions: Tips for Successfully Resolving 'Won't Open/Eject' Issues</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-connecting-samsung-earphones-to-a-computer/"><u>Step-by-Step Instructions for Connecting Samsung Earphones to a Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-repair-instructions-for-non-functioning-xbox-series-gaming-headsets/"><u>Step-by-Step Repair Instructions for Non-Functioning Xbox Series Gaming Headsets</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-smartphone-photography-with-iphones-hdr-for-2024/"><u>Transform Your Smartphone Photography with iPhone’s HDR for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unraveling-the-differences-iphone-7-vs-iphone-7-plus-comparison-guide/"><u>Unraveling the Differences: IPhone 7 Vs. IPhone 7 Plus Comparison Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-from-obscurity-to-the-limelight-the-proven-methods-of-changing-your-tiktok-username-for-2024/"><u>[Updated] From Obscurity to the Limelight The Proven Methods of Changing Your TikTok Username for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-innovative-home-designs-for-modern-minecraft-world/"><u>[Updated] In 2024, Innovative Home Designs for Modern Minecraft World</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-recording-success-how-to-grab-phonescreens-with-snapchat-easily-for-2024/"><u>[Updated] Recording Success How to Grab Phonescreens with Snapchat Easily for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-dealing-with-photoshops-scratch-disk-full-error/"><u>Effective Solutions for Dealing with Photoshop's 'Scratch Disk Full' Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-repair-the-jscriptdll-cannot-be-found-mistake/"><u>Guide to Repair the 'JScript.dll' Cannot Be Found Mistake</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-pro-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 Pro System Issues? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-motorola-edge-40-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leveraging-ios-16-for-an-immersive-experience-with-live-events-on-the-iphone/"><u>Leveraging iOS 16 for an Immersive Experience with Live Events on the iPhone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-professional-lands-cooked-by-audacity-for-2024/"><u>Navigating the Professional Lands Cooked by Audacity for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/social-stream-snippets-yearly-update-for-2024/"><u>Social Stream Snippets, Yearly Update for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-technique-to-monitor-location-via-iphone-technology/"><u>Unveiling the Technique to Monitor Location via iPhone Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watch-every-superman-movie-in-their-official-storyline-order/"><u>Watch Every Superman Movie - In Their Official Storyline Order</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-huawei-p60-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Huawei P60 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

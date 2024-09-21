@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Rebooting Your Mac's Network Configuration"
-date: 2024-09-10T19:47:32.115Z
-updated: 2024-09-15T22:45:24.493Z
+date: 2024-09-13T17:58:34.465Z
+updated: 2024-09-20T17:30:30.625Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Rebooting Your Mac's Network Configuration"
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
  Make sure that you have your[Wi-Fi login information](https://www.lifewire.com/how-to-find-wifi-password-windows-mac-4177111) . You will need to re-enter it after the next step.
 6. Finally,[re-add your Wi-Fi connection](https://www.lifewire.com/add-wifi-network-to-any-device-4685456) from the Wi-Fi menu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Reset Mac Network Settings: The Complicated Way
 
  If you’re still experiencing connectivity issues or bugs after trying the above tip, it can be worth giving this second method a go. This process essentially deletes certain system files relating to network settings that will then be restored automatically after restarting your Mac.  
@@ -59,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
 ![Mac desktop with Wi-Fi switch turned on and toggle highlighted](https://www.lifewire.com/thmb/Djr4uGfLmro0bitPwJrNPK8si9E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/202-reset-network-settings-on-mac-5184072-72380288b1504d889574a5463faa398b.jpg)
 3. With Wi-Fi off, click**Go** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Mac desktop with Wi-Fi off and Go highlighted](https://www.lifewire.com/thmb/c7krTBV2WzWM6wsQcEyD81P-gMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/203-reset-network-settings-on-mac-5184072-b8edc379dfbf4d488636aa9946738cea.jpg)
 4. From the Go menu, click**Go to Folder** .  
 ![Mac Go menu with Go to Folder highlighted](https://www.lifewire.com/thmb/ltrHX0TSFM8xzCtAJYBX0Gye-qM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/204-reset-network-settings-on-mac-5184072-6e152a92bd3b4f5f9ba473ba76127c8c.jpg)
@@ -74,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
 6. Select the following five files:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    * **com.apple.airport.preferences.plist**  
@@ -88,14 +88,22 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
  Depending on your macOS version, you may not see all of the above files.  
 ![Mac network settings with five files highlighted](https://www.lifewire.com/thmb/4knKSgQkHK2UZGhEN6af3HgOVf0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/206-reset-network-settings-on-mac-5184072-b943ca5296604916a56612a49afabb87.jpg)
 7. **Command+click** to choose the select files, select**Copy** , then right-click the desktop and select**Paste** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Five Mac files selected and and Paste highlighted](https://www.lifewire.com/thmb/BIuvI7-mjZvRyw2DUhbjeF6nbsk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/207-reset-network-settings-on-mac-5184072-bbc93c2a2a934c8dbc520bf40201ff4b.jpg)
 8. Right-click the files in their original location and select**Move to Trash** to delete them.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If prompted to confirm the deletion with a password or an action on your Apple Watch, do so.  
@@ -103,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
 9. Restart your Mac as usual and turn its Wi-Fi back on. The deleted files should be recreated within their original location, and all your network settings should now be reset.  
 ![Mac network settings files in folder](https://www.lifewire.com/thmb/TFIJTKhjr13-gJm5a2b7c1Qvs1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/209-reset-network-settings-on-mac-5184072-6ccf3e11aa614ea6b334efc3bb44c1ec.jpg)  
  If everything is working fine, feel free to delete the copies of the files on your desktop.  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Will Resetting My Network Settings Do?
 
@@ -154,17 +155,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unlock-insta-money-potential-with-our-top-7-list/"><u>[New] 2024 Approved Unlock Insta Money Potential with Our Top 7 List</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-advanced-steps-to-record-silent-videos/"><u>[New] Advanced Steps to Record Silent Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discord-not-working-determine-whether-its-a-global-outage-or-your-connection-at-play/"><u>Discord Not Working? Determine Whether It’s a Global Outage or Your Connection at Play</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-dealing-with-non-responsive-mozilla-thunderbird-software/"><u>Expert Tips for Dealing with Non-Responsive Mozilla Thunderbird Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-quickly-take-a-screenshot-with-your-hewlett-packard-notebook/"><u>How to Quickly Take a Screenshot with Your Hewlett Packard Notebook</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-11-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 11 Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-honor-100-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Honor 100</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-friends-evaporation-identify-now/"><u>In 2024, Instagram Friends Evaporation Identify Now</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-narzo-60-pro-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Realme Narzo 60 Pro 5G</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-connecting-your-ps4-gamepad-with-ease/"><u>Step-by-Step Guide: Connecting Your PS4 Gamepad with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-activating-and-using-remote-control-for-samsung-tv/"><u>Step-by-Step Tutorial: Activating and Using Remote Control for Samsung TV</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-itunes-video-downloading-for-ios-users-for-2024/"><u>The Ultimate Guide to iTunes Video Downloading for iOS Users for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-a-thumbnail-for-your-youtube-free-easily/"><u>[New] 2024 Approved How to Make a Thumbnail for Your YouTube Free Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/access-live-broadcasts-with-kodi-tips-and-tricks-for-seamless-viewing/"><u>Access Live Broadcasts with Kodi: Tips and Tricks for Seamless Viewing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/funny-carousel-image-builder-for-2024/"><u>Funny Carousel Image Builder for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-craft-humor-for-giphy-network/"><u>In 2024, Craft Humor for Giphy Network</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-mxfwav/"><u>Movavi MXF到WAV無限制網路轉換工具</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-freeze-the-action-how-to-turn-videos-into-photos-using-10-top-converters/"><u>New 2024 Approved Freeze the Action How to Turn Videos Into Photos Using 10 Top Converters</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-xiaomi-civi-3-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Xiaomi Civi 3 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforma-tus-peliculas-de-formato-vob-a-mpg-gratis-online-usando-herramienta-de-conversion-de-movavi/"><u>Transforma Tus Películas De Formato VOB a MPG Gratis Online Usando Herramienta De Conversión De Movavi</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-xiaomi-civi-3-disney-100th-anniversary-edition-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Xiaomi Civi 3 Disney 100th Anniversary Edition Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726222071491-mpeg-mp3-movavi/"><u>오토바이오그래피에서 MPEG 표준에 맞게 MP3 파일을 자유성 전환 - Movavi</u></a></li>
 </ul></div>
 

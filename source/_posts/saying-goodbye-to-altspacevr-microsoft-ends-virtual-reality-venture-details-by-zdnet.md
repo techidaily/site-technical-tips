@@ -1,7 +1,7 @@
 ---
 title: "Saying Goodbye to AltspaceVR: Microsoft Ends Virtual Reality Venture, Details by ZDNet"
-date: 2024-09-18 12:18:46
-updated: 2024-09-20 11:52:24
+date: 2024-09-14T02:49:19.010Z
+updated: 2024-09-21T01:28:46.853Z
 tags:
   - ar+vr
 categories:
@@ -64,11 +64,30 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-ace-your-earnings-game-in-youtube-shorts/"><u>[New] Ace Your Earnings Game in YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-the-secrets-to-12-incredible-gamers-intro-videos-yt-no-cost/"><u>[New] Unlock the Secrets to 12 Incredible Gamers' Intro Videos (YT No Cost)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-brain-snatching-battlegrounds-the-best-zombie-gaming-showdowns-for-2024/"><u>[Updated] Brain-Snatching Battlegrounds The Best Zombie Gaming Showdowns for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/converting-video-into-free-easy-to-download-mp3s-instantly-conversias-online-service/"><u>Converting Video Into Free, Easy-to-Download MP3s Instantly – Conversia's Online Service</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/faites-la-transition-des-fichiers-audio-flac-vers-les-mp3-optimises-grace-au-puissant-convertisseur-de-movavi/"><u>Faites La Transition Des Fichiers Audio FLAC Vers Les MP3 Optimisés Grâce Au Puissant Convertisseur De Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-open-and-watch-swf-files-easy-guide-by-movieviewer/"><u>How to Open and Watch SWF Files - Easy Guide by MovieViewer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-the-pause-button-iphone-slow-mo-techniques-for-2024/"><u>Mastering the Pause Button IPhone Slow Mo Techniques for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/riquadratura-raw-a-formato-jpeg-online-gratuito-movavi/"><u>Riquadratura RAW a Formato JPEG Online Gratuito - Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/securing-a-game-refund-on-steam-expert-strategies-and-tips/"><u>Securing a Game Refund on Steam: Expert Strategies and Tips</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

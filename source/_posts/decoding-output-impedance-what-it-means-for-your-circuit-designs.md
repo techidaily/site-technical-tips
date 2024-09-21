@@ -1,7 +1,7 @@
 ---
 title: "Decoding Output Impedance: What It Means for Your Circuit Designs"
-date: 2024-09-12T17:42:55.814Z
-updated: 2024-09-15T21:25:00.099Z
+date: 2024-09-19T22:13:49.654Z
+updated: 2024-09-20T16:26:42.438Z
 categories:
   - BestProducts
 description: "This Article Describes Decoding Output Impedance: What It Means for Your Circuit Designs"
@@ -55,19 +55,6 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
 * The people you expect to view the document might have opted out of displaying their View History (see below).
 * You or the Admin may have View History turned off (see below).
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Turn on Activity Dashboard View History
 
  If you are the Admin for the Google account and want to be sure that you have View History turned on for Google Docs,[visit your Google Admin Console](https://admin.google.com/) and log in.  
@@ -77,15 +64,15 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
 ![Activity Dashboard Settings highlighted in the Admin console](https://www.lifewire.com/thmb/SNvzb0A93xucOZeGWmy-K7IJIzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ActivityDashboard-f8b9c4ccf2cd49b09fc48d58b48862d7.jpg)
 3. Confirm that**Users’ view history** is turned on. If not, click the **edit** icon (pencil) to the right, choose **On (recommended)** and click **Save** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Users' View History turned on in the Admin console](https://www.lifewire.com/thmb/BxokFwEg-UVGYlVp8dUELu73h1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/UsersViewHistory-b95295a4ec8c41d7b4248c00bacdaa33.jpg)  
  Depending on your workspace, you may see the option able to turn on**Access to view history** for other users to see Viewers and Viewer Trends in the Activity Dashboard.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Turn on Individual View History
 
@@ -96,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
 3. Turn on one or both toggles on the right. The**Account setting** toggle displays view history for all Google documents while the**Document setting** displays it only for the current one.
 4. Select **Save** .  
 ![Privacy Settings in the Activity Dashboard](https://www.lifewire.com/thmb/1fuSObYbrH0fupoOGGrh7GfTcPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/privacysettings-2c944fd8e2274f788b1528e855b75158.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Seeing who viewed a Google Doc is a convenient way to make sure everyone reviews the document. To see who edited a document you’ve shared, you can also[look at the revision history](https://www.lifewire.com/how-to-manage-revision-history-in-google-docs-4776095) .
 
@@ -139,17 +133,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-skyline-your-tweets-elevating-twitter-streams/"><u>[New] Skyline Your Tweets Elevating Twitter Streams</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-complete-walkthrough-deactivating-microsofts-new-ai-tool-from-windows-11/"><u>A Complete Walkthrough: Deactivating Microsoft's New AI Tool From Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-ready-for-samsung-galaxy-watch-7-find-out-the-price-tag-expected-release-date-full-specs-list-and-fresh-announcements/"><u>Get Ready for Samsung Galaxy Watch 7: Find Out the Price Tag, Expected Release Date, Full Specs List & Fresh Announcements</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-honor-play-40c-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Honor Play 40C Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-discord-streaming-essentials-a-comprehensive-beginners-tutorial/"><u>In 2024, Discord Streaming Essentials A Comprehensive Beginner's Tutorial</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/leading-water-and-liquid-game-simulations-unveiled-for-2024/"><u>Leading Water & Liquid Game Simulations Unveiled for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximizing-roi-through-cutting-edge-cookiebot-solutions/"><u>Maximizing ROI Through Cutting-Edge Cookiebot Solutions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/pinnacle-recorders-of-academic-dialogues/"><u>Pinnacle Recorders of Academic Dialogues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-rockaldlldll-file-not-found-a-comprehensive-guide/"><u>Resolving the rockaldll.dll File Not Found: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-steps-to-flawlessly-sync-your-computer-and-bluetooth-audio-equipment/"><u>Simple Steps to Flawlessly Sync Your Computer and Bluetooth Audio Equipment</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-setting-up-automatic-text-messaging-timers-on-your-iphone/"><u>Step-by-Step Guide: Setting Up Automatic Text Messaging Timers on Your iPhone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-major-update-alert-filmora-x-now-compatible-with-arm-processors/"><u>Updated Major Update Alert Filmora X Now Compatible with ARM Processors</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-streaming-soundscapes-on-your-iphone/"><u>[New] In 2024, Streaming Soundscapes on Your iPhone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-the-art-of-screenshot-with-zd-software/"><u>[Updated] 2024 Approved Mastering the Art of Screenshot with ZD Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-economical-pc-playback-devices-for-2024/"><u>[Updated] Economical PC Playback Devices for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-efficient-techniques-for-youtube-shorts-revenue-for-2024/"><u>[Updated] Efficient Techniques for YouTube Shorts Revenue for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discover-why-av1-is-a-game-changer-for-youtube-viewers/"><u>[Updated] In 2024, Discover Why AV1 Is a Game Changer for YouTube Viewers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-polishing-your-presentations-expert-video-editing-for-instagram/"><u>[Updated] Polishing Your Presentations Expert Video Editing for Instagram</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitvidsync-ios-tool-to-seamlessly-save-twitter-vids/"><u>[Updated] TwitVidsync IOS Tool to Seamlessly Save Twitter Vids</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-about-capturing-gaming-glory-on-playstation-4-tips-and-tricks/"><u>All About Capturing Gaming Glory on PlayStation 4 – Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-kid-friendly-online-entertainment-discover-7-amazing-games/"><u>Best Kid-Friendly Online Entertainment: Discover 7 Amazing Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-collaboration-on-microsoft-teams-using-the-revolutionary-copilot-feature/"><u>Effortless Collaboration on Microsoft Teams Using the Revolutionary Copilot Feature</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-guide-running-android-applications-on-your-windows-10-pc/"><u>Effortless Guide: Running Android Applications on Your Windows 10 PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/spotlight-on-the-foremost-tech-trends-to-follow/"><u>Spotlight on the Foremost Tech Trends to Follow</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-best-true-crime-stories-a-list-of-13-podcasts/"><u>Unveiling the Best True Crime Stories: A List of 13 Podcasts</u></a></li>
 </ul></div>
 

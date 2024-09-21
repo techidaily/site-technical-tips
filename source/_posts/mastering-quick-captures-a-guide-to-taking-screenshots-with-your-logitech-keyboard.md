@@ -1,7 +1,7 @@
 ---
 title: "Mastering Quick Captures: A Guide to Taking Screenshots with Your Logitech Keyboard"
-date: 2024-09-14T20:55:50.766Z
-updated: 2024-09-15T16:49:28.150Z
+date: 2024-09-19T17:54:47.310Z
+updated: 2024-09-20T20:10:34.978Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Quick Captures: A Guide to Taking Screenshots with Your Logitech Keyboard"
@@ -92,16 +92,10 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using Apps and Sites Can Support Good Study Habits
@@ -111,10 +105,10 @@ Skynesher/Getty
 ![Female student walking with a tablet, smartphone, and headphones.](https://www.lifewire.com/thmb/xlh2OPH52kBp--XJzwjVyR_lZN0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentwithtabletphoneheadphones_COROIMAGE_GettyImages-1429193388_VERTICALCROP-5f30ba23f2f64ada861c3283ce518740.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Back to school means more than finding the right books this year. While those are crucial (and often spendy), a frequently overlooked aspect of getting back into the school groove involves finding and using the right apps to support learning, enhance productivity, and improve organization tactics.
@@ -171,14 +165,20 @@ Skynesher/Getty
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-content-creation-crossroads-igtv-vs-youtube-which-one-fits-best/"><u>[Updated] In 2024, Content Creation Crossroads IGTV Vs. YouTube - Which One Fits Best?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-infinite-storage-pathways-select-services-showcase/"><u>2024 Approved Infinite Storage Pathways Select Services Showcase</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-how-to-achieve-optimal-clarity-by-cleaning-home-audio-speakers/"><u>Expert Advice: How to Achieve Optimal Clarity by Cleaning Home Audio Speakers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/identifying-the-model-identifier-on-your-apple-macbook-pro-or-air/"><u>Identifying the Model Identifier on Your Apple MacBook Pro or Air</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-xiaomi-redmi-note-12r-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Xiaomi Redmi Note 12R to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-wlanapidll-missing-error-a-step-by-step-guide/"><u>Solving the wlanapi.dll Missing Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-perfect-match-configuring-and-enjoying-bluetooth-audio-with-bose-soundlink-speakers/"><u>The Perfect Match: Configuring and Enjoying Bluetooth Audio with Bose SoundLink Speakers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-picshots-wizardry-in-photo-collage-crafting/"><u>[New] Picshot's Wizardry in Photo Collage Crafting</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-polar-pinnacles-beijing-2022-olympic-spotlight/"><u>[New] Polar Pinnacles Beijing 2022 Olympic Spotlight</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compact-and-convenient-laptop-charging-gadgets-dominating-2024s-best-sellers/"><u>Compact and Convenient Laptop Charging Gadgets Dominating 2024'S Best-Sellers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-forced-restart-techniques-for-all-ipads/"><u>Comprehensive Tutorial on Forced Restart Techniques for All iPads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-iphone-gps-apps-according-to-us/"><u>Discover the Best iPhone GPS Apps According to Us</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-clientserver-side-vpn-error-code-800/"><u>Effective Solutions for Client/Server-Side VPN Error Code 800</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-your-digital-gallery-mastering-online-crop-functions/"><u>Enhance Your Digital Gallery Mastering Online Crop Functions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-family-fun-top-six-online-platforms-for-kids-movies/"><u>Free Family Fun: Top Six Online Platforms for Kids' Movies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-configure-view-options-in-macos-finder-for-better-file-management/"><u>How to Configure View Options in macOS Finder for Better File Management</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-persistent-dark-screens-during-zoom-calls-on-your-computer-latest-solutions-2024-edition/"><u>How to Overcome Persistent Dark Screens During Zoom Calls on Your Computer (Latest Solutions, 2024 Edition)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Infinix GT 10 Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-smart-8-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Smart 8 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/must-have-email-apps-for-your-iphone-in-2024-expert-choices-revealed/"><u>Must-Have Email Apps for Your iPhone in 202#4 - Expert Choices Revealed.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-d3dx941dll-file-not-detected-issue/"><u>Solving the d3dx9_41.dll File Not Detected Issue</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-art-of-looking-back-unveiling-reversed-images-on-social-media/"><u>The Art of Looking Back Unveiling Reversed Images on Social Media</u></a></li>
 </ul></div>
 

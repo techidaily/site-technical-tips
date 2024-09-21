@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Future of Immersive Tech: How VR/AR/XR Are Gaining Traction at MIT According to ZDNet"
-date: 2024-09-17 14:55:17
-updated: 2024-09-20 10:25:31
+date: 2024-09-18T21:40:39.323Z
+updated: 2024-09-21T02:40:33.513Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,37 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-explore-the-power-of-easy-video-editing-in-photos-and-windows-11/"><u>[New] Explore the Power of Easy Video Editing in Photos & Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/5-outstanding-mkv-tools-for-macos-users-for-2024/"><u>5 Outstanding MKV Tools for macOS Users for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-wmv-wma-file-conversion-get-started-for-free-today/"><u>Effortless WMV-WMA File Conversion - Get Started for Free Today!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-converter-change-your-pcx-images-into-gifs-with-movavi/"><u>Free Online Converter: Change Your PCX Images Into GIFs with Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-2020-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE (2020) Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-redmi-note-12-pro-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi Redmi Note 12 Pro 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-poco-c65-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Poco C65 to PC? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/le-prodotti-piu-efficace-per-lorganizzazione-fotografica-nel-settembre-2024-la-tua-lista-finale/"><u>Le Prodotti Più Efficace per L'Organizzazione Fotografica Nel Settembre 2024 - La Tua Lista Finale</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726227854332-movaviwmampeg/"><u>Movavi的無限制網路編解碼器：從WMA到MPEG自由轉換</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/music-mastery-essentials-high-quality-dj-video-samples/"><u>Music Mastery Essentials High-Quality DJ Video Samples</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-installing-new-firmware-on-wireless-adapters-in-windows-1110/"><u>Step-by-Step Tutorial: Installing New Firmware on Wireless Adapters in Windows 11/10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tiktok-linking-made-simple-and-irreversible-for-2024/"><u>TikTok Linking Made Simple and Irreversible for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transcodificar-un-archivo-3gp-a-formato-avi-online-gratis-utiliza-el-servicio-de-movavi/"><u>Transcodificar Un Archivo 3GP a Formato AVI Online Gratis - Utiliza El Servicio De Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/vrije-online-todavi-conversie-met-movavi-efficient-en-gemakkelijk-bewerkt/"><u>Vrije Online TOD/AVI Conversie Met Movavi - Efficiënt en Gemakkelijk Bewerkt</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/nl-t-tr-hkl-mdydt-mkfy-lvn-vfvl-vkvtl/"><u>נעל את אתר הקלא - מדידת משקפי לבן בפועל בקוטל</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

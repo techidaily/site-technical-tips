@@ -1,7 +1,7 @@
 ---
 title: Meta Broadens Reach to Asus & Lenovo, Opens up Quest OS for External VR Devices | Tech News on ZDNET
-date: 2024-09-17 21:36:34
-updated: 2024-09-20 12:19:37
+date: 2024-09-15T02:02:50.558Z
+updated: 2024-09-20T23:49:39.417Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,36 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-step-by-step-process-of-capturing-fb-messages/"><u>2024 Approved Step-by-Step Process of Capturing FB Messages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/6-top-methods-for-cropping-screenshots-on-macos-discover-free-options-with-movavi/"><u>6 Top Methods for Cropping Screenshots on macOS: Discover Free Options with Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convert-raf-files-fast-and-easy-with-movavis-free-tool/"><u>Convert RAF Files Fast and Easy with Movavi's Free Tool!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/en-ligne-pour-toute-la-journee-convertissez-votre-musique-gsm-au-format-mp3-avec-le-convertisseur-gratuit-de-movavi/"><u>En Ligne Pour Toute La Journée : Convertissez Votre Musique GSM Au Format MP3 Avec Le Convertisseur Gratuit De Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/flv-mov-movavi/"><u>FLV 동영상을 MOV로 자유성 바로 클린: 이메일 안전한 Movavi 방법</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/game-on-camera-off-top-methods-to-record-sims-4-triumphs-and-tribulations-for-2024/"><u>Game On, Camera Off? Top Methods to Record Sims 4 Triumphs and Tribulations for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-ultime-comment-sauvegarder-votre-contenu-tiktok-sur-toutes-les-plates-formes-avec-ease/"><u>Guide Ultime : Comment Sauvegarder Votre Contenu TikTok Sur Toutes Les Plates-Formes Avec Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/identifying-the-latest-ipads-equipped-with-gps-technology/"><u>Identifying the Latest iPads Equipped with GPS Technology</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-prime-resources-for-text-style-adjustment-files/"><u>In 2024, Prime Resources for Text Style Adjustment Files</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-troubleshoot-tweets-on-chrome-not-loading/"><u>In 2024, Troubleshoot Tweets on Chrome Not Loading</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-best-free-online-glitch-effect-generators-for-2024/"><u>New The Best Free Online Glitch Effect Generators for 2024</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-13-pro-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 Pro Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-fix-9-methods-for-restoring-your-iphones-voicemail-service/"><u>The Ultimate Fix: 9 Methods for Restoring Your iPhone's Voicemail Service</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-walkthrough-for-deploying-codegpt-extension-on-vs-code-platform/"><u>The Ultimate Walkthrough for Deploying CodeGPT Extension on VS Code Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformez-votre-fichier-snd-en-mp3-sans-frais-tapez-une-solution-avec-movavi/"><u>Transformez Votre Fichier SND en MP3 Sans Frais - Tapez Une Solution Avec Movavi</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

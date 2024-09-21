@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Activate/Deactivate On-Screen Keyboard Function in Windows 10 Easily"
-date: 2024-09-11T18:16:50.295Z
-updated: 2024-09-15T18:17:06.490Z
+date: 2024-09-15T16:44:05.373Z
+updated: 2024-09-20T20:29:32.231Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Tutorial: Activate/Deactivate On-Screen Keyboard Function in Windows 10 Easily"
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 3. Click**Ease of Access** .  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Ease of Access menu showing the Keyboard option.](https://www.lifewire.com/thmb/-hk-yX7ph5_d4xmPvyJ5yR6MKbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EaseofAccessKeyboard-3775dd4845c9455caf9e2ab2d5bc2048.jpg)
@@ -68,17 +68,18 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 ![The Keyboard Pin to Start option.](https://www.lifewire.com/thmb/6onPeVu62gKPqEMc0mF5EZgPkl0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pintostart-43a98be5b4e5458ebea70c1f99142f42.jpg)
 5. A pop-up window will ask you to confirm you want to pin the keyboard to Start. Click**Yes** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The pop up windows asking for confirmation before pinning the keyboard to Start.](https://www.lifewire.com/thmb/jdpQp9RhLDBPwiQqxerbtKzXDrQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yes-b467b978554447f4bc4943f875534a98.jpg)
 6. The on-screen keyboard tile will now appear when you click the**Start** button.  
 ![The Keyboard tile in the Start menu.](https://www.lifewire.com/thmb/N7xGBRkclSjmboYKhBv_J28ZglM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Keyboardtile-49c06bd0dbda47f792a1457560d7a768.jpg)
 7. Click**Keyboard** to take you directly to the Ease of Access menu.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Toggle the keyboard to**On** .
 
 [How to Turn off the On-Screen Keyboard in Windows 10](https://www.lifewire.com/turn-off-on-screen-keyboard-in-windows-10-5190892)
@@ -121,17 +122,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-record-and-share-every-victory-in-obs/"><u>[New] Record & Share Every Victory in OBS</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-breaking-down-t-series-income-mechanism-on-youtube/"><u>2024 Approved Breaking Down T-Series Income Mechanism on YouTube</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/boosting-workplace-joy-how-artificial-intelligence-elevates-staff-morale/"><u>Boosting Workplace Joy: How Artificial Intelligence Elevates Staff Morale</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/declutter-your-email-life-with-these-tips-on-using-labels-to-sort-messages-in-gmail/"><u>Declutter Your Email Life with These Tips on Using Labels to Sort Messages in Gmail</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722874592545-discover-the-highlights-of-current-max-originals-that-everyone-is-talking-about/"><u>Discover the Highlights of Current Max Originals That Everyone Is Talking About</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/1716270582957-how-many-seconds-is-a-20mb-video/"><u>How Many Seconds Is a 20Mb Video?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-play-your-srt-files-easily-winmac-tips/"><u>In 2024, Play Your SRT Files Easily Win/Mac Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-upgrading-to-a-wi-fi-mesh-network-justified-for-seamless-connectivity/"><u>Is Upgrading to a Wi-Fi Mesh Network Justified for Seamless Connectivity?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-how-to-disable-and-delete-windows-11s-copilot-feature/"><u>Step-by-Step Instructions: How to Disable and Delete Windows 11'S Copilot Feature</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-incognito-mode-on-top-web-browsers-google-chrome-mozilla-firefox-microsoft-edge-apple-safari-and-opera/"><u>The Ultimate Guide to Incognito Mode on Top Web Browsers: Google Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari, and Opera</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-leading-5-digital-recording-devices/"><u>[Updated] 2024 Approved Leading 5 Digital Recording Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-gastronomy-gurus-essential-chefs-to-subscribe-to/"><u>[Updated] Gastronomy Gurus Essential Chefs to Subscribe To</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726223799530-aviwmv-movavi/"><u>「オンラインで簡単!無料AVIからWMVへのファイル変換 - Movavi」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-video-gratuite-convertissez-vos-fichiers-oggtheora-en-format-mov-avec-movavi/"><u>Conversion Vidéo Gratuite - Convertissez Vos Fichiers Ogg/Theora en Format MOV Avec Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-7-plus-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 7 Plus</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratuite-web-konvertierung-von-nef-zu-png-mit-movavi-best-practices-und-tipps/"><u>Gratuite Web-Konvertierung Von NEF Zu PNG Mit Movavi - Best Practices Und Tipps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-beginners-paradise-the-best-free-and-paid-video-editing-software/"><u>In 2024, Beginners Paradise The Best Free and Paid Video Editing Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/inside-story-of-the-delayed-mafia-definitive-edition-what-we-know-so-far-resolved/"><u>Inside Story of the Delayed Mafia: Definitive Edition – What We Know So Far Resolved</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavimkvm4a/"><u>Movaviを使って簡単にMKVとM4Aフォーマットへ自由な変換 – ウェブベースのオプション</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimere-saerligt-anvendelse-af-windows-11-fire-sfaring-mader-til-skaerme-fjerning/"><u>Optimere Særligt Anvendelse Af Windows 11 - Fire Sfaring Måder Til Skærme Fjerning</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pinnacle-color-balance-pro/"><u>Pinnacle Color Balance Pro</u></a></li>
+<li><a href="https://facebook.techidaily.com/shattered-stars-pal-activists-impacting-facebook-ratings/"><u>Shattered Stars: Pal-Activists Impacting Facebook Ratings</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-review-the-powerhouse-netgear-nighthawk-x10-ad7200-router-delivers-lightning-fast-wi-fi-connectivity/"><u>Top Review: The Powerhouse Netgear Nighthawk X10 (AD7200) Router Delivers Lightning Fast Wi-Fi Connectivity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726224159676-vobwavmovavi/"><u>VOB/WAVファイルをリアルタイムで自由に変換可能：Movaviのガイド</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avimp4-movavi/"><u>무료 AVI/MP4 압축 비교 이동 – 모바이브 회사: Movavi</u></a></li>
 </ul></div>
 

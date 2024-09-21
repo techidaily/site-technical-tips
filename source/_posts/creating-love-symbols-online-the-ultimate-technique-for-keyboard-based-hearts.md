@@ -1,7 +1,7 @@
 ---
 title: "Creating Love Symbols Online: The Ultimate Technique for Keyboard-Based Hearts"
-date: 2024-09-10T20:57:08.028Z
-updated: 2024-09-15T20:44:50.680Z
+date: 2024-09-15T01:44:46.226Z
+updated: 2024-09-21T03:45:38.192Z
 categories:
   - BestProducts
 description: "This Article Describes Creating Love Symbols Online: The Ultimate Technique for Keyboard-Based Hearts"
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -64,6 +57,19 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -74,19 +80,6 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 * **Undo last action (Ctrl** +**Z)** : Press**Ctrl** +**Z** to undo the previous action.
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
 
@@ -99,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
@@ -126,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 * **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
 
@@ -164,18 +164,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-audio-purging-techniques-for-streaming-success/"><u>[New] 2024 Approved Audio Purging Techniques for Streaming Success</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024s-prime-cameras-for-first-timers/"><u>[New] 2024'S Prime Cameras for First Timers</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-expanding-audiences-ingenious-bio-concepts-to-triple-followers-via-filmora/"><u>[New] In 2024, Expanding Audiences Ingenious Bio Concepts to Triple Followers via Filmora</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-the-hang-issue-dxgierrordevicehunk-on-windows/"><u>Addressing the Hang Issue: DXGI_ERROR_DEVICE_HUNK on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-pick-7-traffic-management-applications/"><u>Best Pick: 7 Traffic Management Applications</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-camera-glitch-solve-error-a00f4289-on-pcs/"><u>Disabling Camera Glitch: Solve Error A00F4289 on PCs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mac-users-unite-learn-how-to-refresh-your-dns-records-effortlessly/"><u>Mac Users Unite! Learn How to Refresh Your DNS Records Effortlessly</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximize-visuals-and-minimize-space-transform-dvd-to-h265-for-stellar-quality-and-smaller-files/"><u>Maximize Visuals & Minimize Space - Transform DVD to H.265 For Stellar Quality and Smaller Files</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-directx-dll-issues-a-step-by-step-guide/"><u>Resolving DirectX DLL Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-the-missing-d3dx928dll-error/"><u>Step-by-Step Guide: Resolving The Missing d3dx9_28.dll Error</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-for-correcting-steam-game-installation-issues/"><u>Step-by-Step Solution for Correcting Steam Game Installation Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-perfecting-your-bose-soundlink-speaker-connection/"><u>Ultimate Guide: Perfecting Your Bose SoundLink Speaker Connection</u></a></li>
-<li><a href="https://blog-min.techidaily.com/andfc2/"><u>オンラインビデオダウンロード&変換・編集のテクニック：FC2・ニコニコ・ギャオーで使える専門ガイド</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-free-online-conversion-transform-wma-files-into-wmv-format-with-moveavi/"><u>1. Free Online Conversion: Transform WMA Files Into WMV Format with MoveAVI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/descubra-os-mais-famosos-aplicativos-para-capturar-screenshots-on-line-ranking-dos-11-primeiros-gratuitos/"><u>Descubra Os Mais Famosos Aplicativos Para Capturar Screenshots On-Line - Ranking Dos 11 Primeiros Gratuitos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-mini-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 mini Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-avoid-the-void-strategies-for-non-black-screens-in-obs-recordings/"><u>In 2024, Avoid the Void Strategies for Non-Black Screens in OBS Recordings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-picture-perfect-zero-cost-photo-enhancement-app/"><u>In 2024, Picture Perfect Zero Cost Photo Enhancement App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp4-quicktime-movie/"><u>MP4形式へのビデオ変換 - QuickTime Movieから</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ogm-naar-vob-omzetten-online-met-movavi-gratuite-gemakkelijke-uploadprocess/"><u>OGM Naar VOB Omzetten Online Met Movavi - Gratuite, Gemakkelijke Uploadprocess</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-m54-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-honor-x8b-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-11-free-mov-to-mp4-conversion-tools-mac-windows-and-online-options/"><u>Top 11 FREE MOV-to-MP4 Conversion Tools: Mac, Windows & Online Options</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforma-tus-audios-wav-a-formato-flac-por-nada-usando-la-herramienta-gratuita-en-linea-de-convertidor-de-audio-de-movavi/"><u>Transforma Tus Audios WAV a Formato FLAC Por Nada, Usando La Herramienta Gratuita en Línea De Convertidor De Audio De Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-list-of-online-cartoon-destinations-a-guide-to-the-best-websites/"><u>Ultimate List of Online Cartoon Destinations: A Guide to the Best Websites</u></a></li>
 </ul></div>
 

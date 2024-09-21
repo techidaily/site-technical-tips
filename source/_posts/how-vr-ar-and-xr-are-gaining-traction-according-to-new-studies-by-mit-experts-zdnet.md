@@ -1,7 +1,7 @@
 ---
 title: How VR, AR, and XR Are Gaining Traction According to New Studies by MIT Experts | ZDNet
-date: 2024-09-19 16:10:12
-updated: 2024-09-20 11:49:15
+date: 2024-09-14T22:29:35.878Z
+updated: 2024-09-21T00:42:37.386Z
 tags:
   - ar+vr
 categories:
@@ -64,11 +64,38 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-escaping-a-stroke-on-your-youtube-channel/"><u>[Updated] 2024 Approved Escaping a Stroke on Your YouTube Channel</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unveiling-the-financial-dynamics-of-youtube-shorts/"><u>[Updated] In 2024, Unveiling the Financial Dynamics of YouTube Shorts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-step-by-step-minecraft-screenshots-and-videos-for-2024/"><u>[Updated] Step-by-Step Minecraft Screenshots & Videos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beat-blend-technology-video-and-music-merge-on-w11-platforms-for-2024/"><u>Beat-Blend Technology Video & Music Merge on W11 Platforms for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/google-pixel-tablet-preview-official-launch-detailed-specifications-and-whats-new-for-tech-enthusiasts/"><u>Google Pixel Tablet Preview: Official Launch, Detailed Specifications, and What's New for Tech Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-issues-with-microsoft-word-file-openness/"><u>How To Fix Issues With Microsoft Word File Openness</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-start-a-private-live-stream-on-youtube/"><u>New 2024 Approved How To Start a Private Live Stream on YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-disappeared-correspondences-in-googles-mail-service/"><u>Reviving Disappeared Correspondences in Google's Mail Service</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-lgbtqplus-series-streaming-on-netflix-in-july-2024-our-picks/"><u>Top LGBTQ+ Series Streaming on Netflix in July 2024: Our Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-fresh-talent-in-code-creation-top-free-windows-html-coding-applications/"><u>Unlocking Fresh Talent in Code Creation: Top Free Windows HTML Coding Applications</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

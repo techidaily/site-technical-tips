@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 Tricks: Switching On and Off the Built-In On-Screen Typing Tool"
-date: 2024-09-13T18:09:17.141Z
-updated: 2024-09-15T21:02:11.377Z
+date: 2024-09-18T03:33:53.834Z
+updated: 2024-09-21T02:26:15.016Z
 categories:
   - BestProducts
 description: "This Article Describes Windows 10 Tricks: Switching On and Off the Built-In On-Screen Typing Tool"
@@ -66,16 +66,30 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 4. Drag your finger back and forth to pat it. If you’re patting your Pokémon buddy correctly, you should see sparkles.  
 ![Pokemon GO with buddy Pokemon and Play icons highlighted](https://www.lifewire.com/thmb/ZJo8o9TObp3SUocJtYPzmQ-r3VA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Play-with-buddy-Pokemon-5d81ad40271c49dba320d76c94d2ae10.jpg)
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
 7. To feed your Pokémon buddy, tap and drag berries from the lower menu to your Pokémon. Three regular Razz, Nanab, or Pinap berries will be enough to have your buddy join you on the map. One Silver Pinap Berry, one Golden Razz Berry, or one Poffin will also do the job.  
  Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does Swapping Buddies Lose Progress?
@@ -83,13 +97,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
  Swapping a_Pokémon Go_ buddy for another one will delete any unfinished progress that’s currently in action, but it won’t remove any gained friendship level status. For example, if your buddy Pokémon is halfway into unlocking a candy, swapping the buddy out will remove this progress. The usual stats that reset at the end of each day will also clear with a swap.
 
  However, if this buddy has reached Great Buddy or some other friendship level status, that progress will remain no matter how many times you swap the buddy out.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does It Matter Who Your Buddy Is in 'Pokémon Go'?
 
@@ -130,15 +137,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unlocking-the-vault-the-wealth-of-mr-beast/"><u>[Updated] 2024 Approved Unlocking the Vault The Wealth of Mr. Beast</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-innovative-discussion-themes-for-vloggers/"><u>[Updated] Innovative Discussion Themes for Vloggers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-new-directors-toolkit-15-basic-cinematography-movements/"><u>[Updated] The New Director’s Toolkit 15 Basic Cinematography Movements</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-6-minecraft-survival-house-ideas-for-2024/"><u>[Updated] Top 6 Minecraft Survival House Ideas for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gmail-not-updating-heres-the-ultimate-step-by-step-solution/"><u>Gmail Not Updating? Here's the Ultimate Step-by-Step Solution</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-x-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone X Suddenly | Stellar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/streamlining-your-music-a-step-by-step-tutorial-on-pairing-multiple-bluetooth-speakers-to-one-device/"><u>Streamlining Your Music: A Step-by-Step Tutorial on Pairing Multiple Bluetooth Speakers to One Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-basics-of-biometrics-explained-how-it-works-and-why-we-use-it/"><u>The Basics of Biometrics Explained: How It Works and Why We Use It</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ros-and-cons-of-tiktok-and-youtube-shorts-for-personal-usage/"><u>The Pros & Cons of TikTok and YouTube Shorts for Personal Usage</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/whats-ussd-an-in-depth-look-at-unstructured-supplementary-service-data/"><u>What's USSD? An In-Depth Look at Unstructured Supplementary Service Data</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-enhancing-content-strategy-with-targeted-tagging/"><u>[New] In 2024, Enhancing Content Strategy with Targeted Tagging</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nlock-creative-expression-mastering-jump-cut-usage/"><u>[New] Unlock Creative Expression Mastering Jump Cut Usage</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-crafting-irresistible-profile-videos/"><u>[Updated] 2024 Approved Crafting Irresistible Profile Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-photographers-guide-mobile-for-high-angle-views/"><u>[Updated] 2024 Approved The Photographer's Guide Mobile for High-Angle Views</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi247/"><u>如何使用Movavi的24/7客户支持网络平台</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/captura-de-pantalla-en-el-iphone-11-facil-y-rapido-top-4-tecnicas-con-movavi/"><u>Captura De Pantalla en El iPhone 11 Fácil Y Rápido: Top 4 Técnicas Con Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-conversion-change-ts-files-into-mpeg-format-with-ease-movavi/"><u>Free Online Conversion: Change .TS Files Into MPEG Format with Ease - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratis-online-omvandelen-van-mp4-naar-mpeg-professioneel-resultaten-met-movavi/"><u>Gratis Online Omvandelen Van MP4 Naar MPEG: Professioneel Resultaten Met Movavi</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-a56s-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo A56s 5G</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-honor-magic5-ultimate-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Magic5 Ultimate Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/usb-c-revolution-in-monitors-hp-envy-27s-journey-for-2024/"><u>USB-C Revolution in Monitors HP Envy 27'S Journey for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows/"><u>Windows対応動画制作ツールと編集プログラム - ダイナミックな映像の創出</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ogg-and-flac/"><u>오디오 파일을 무료로 업스트링 - OGG & FLAC 사이에서 전환기</u></a></li>
 </ul></div>
 

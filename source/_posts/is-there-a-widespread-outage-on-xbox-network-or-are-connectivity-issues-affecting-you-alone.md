@@ -1,7 +1,7 @@
 ---
 title: Is There a Widespread Outage on Xbox Network, or Are Connectivity Issues Affecting You Alone?
-date: 2024-09-10T19:18:34.624Z
-updated: 2024-09-15T21:16:04.038Z
+date: 2024-09-20T03:49:18.786Z
+updated: 2024-09-20T21:38:11.201Z
 categories:
   - BestProducts
 description: This Article Describes Is There a Widespread Outage on Xbox Network, or Are Connectivity Issues Affecting You Alone?
@@ -167,19 +167,6 @@ PHOTO: Walmart
 
  Mounting is simple, and the rack has optional casters for easy transportation, or it's ready for wall-mounting right out of the box.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best On Wheels
 
 [Navepoint 22U](https://www.amazon.com/NavePoint-4-Post-Network-Rolling-Casters/dp/B01A6JQO4A/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB01A6JQO4A)
@@ -208,6 +195,13 @@ PHOTO: Amazon
  It supports a total weight capacity of 661 pounds, with an adjustable depth down from 10 to 16.75 inches, all on a server rack that's 48 inches in height. The unit is flat-packed for easy shipping, and the instructions help assemble the 22U in under 30 minutes.
 
  Unfortunately, NavePoint has no cable management accessories, but those are available online.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Extra Large
 
@@ -277,16 +271,10 @@ PHOTO: Amazon
  Hero Images / Getty Images
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Why Buy a Network Server Rack?**
@@ -309,6 +297,13 @@ PHOTO: Amazon
 
  Lastly, rack_width_ is standard, with almost all server and network equipment racks at 19 inches wide. Whether you're mounting larger servers or network switches, if they're rack-mountable, they'll all come in the same width.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Rails**
 
  Many rack-mountable servers offer the option to be mounted using rails. In this configuration, a pair of standard rails are mounted to the rack, screwed into all four posts, and then the server, which has the corresponding rails mounted on the sides, slides into the rack, just like a drawer going into a cabinet.
@@ -318,13 +313,6 @@ PHOTO: Amazon
  Using rails also allows you to efficiently access your servers for maintenance and upgrades simply by sliding them out like a drawer, which is especially important when you have more than two or three servers in a rack since it's much more of a hassle to have to unmount a server completely when all you need to do is upgrade some RAM or change a hard drive.
 
 ![Cables connected to an internet server](https://www.lifewire.com/thmb/6x-gscBbM80wErSJGlLp98lz_Ys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1082815270-5a4cd9fb94c04dfd96fadbb026d84463.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alextov via Getty Images
 
@@ -351,10 +339,10 @@ PHOTO: Amazon
  Also, remember that physical security is often just as much about preventing mistakes by non-technical employees as it is about preventing attacks by malicious hackers. True story: We once visited a remote office where a well-meaning employee had turned off the server to save electricity because they never saw anybody using it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Rack Holes: Threaded or Unthreaded?**
@@ -391,19 +379,6 @@ PHOTO: Amazon
 
  Startech is a well-known “jack-of-all-trades” Canadian company that’s been making a wealth of computer accessories since the mid-eighties, ranging from cables to docking stations, USB hubs, mounts, video adapters, and pretty much every other accessory you could imagine needing for your computer system. Naturally, this includes server management hardware, too. While they don’t offer quite the same wealth of higher-end racks and enclosures, they provide some great, affordable options for smaller businesses that aren’t looking to outfit a large, dedicated server room.
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Accessories**
 
  In addition to the mounting gear that you’ll need to get your equipment into your rack, you’ll find that several other rack-mountable components can be used to make for a smoother installation, and depending on your setup, you’ll want to consider at least some of these, too.
@@ -413,6 +388,19 @@ PHOTO: Amazon
  If you’re installing servers into a rack, you’ll also want to add a keyboard and a monitor. While you can use a shelf for this if you have the space, rack-mountable keyboard trays and even flatscreen LCD panels can fold down into a 1U rack space when not in use.
 
 ![A young network administrator looks at a server rack.](https://www.lifewire.com/thmb/79BQVP2qDwj-SidNe_AGPqbL8Oc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-719877855-5a99f44dba61770037a02ede.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re looking to install more than a few servers, you’ll also want to consider adding a keyboard-video-mouse (KVM) switch into the mix so you can easily switch between controlling different servers without juggling multiple keyboards and screens.
 
@@ -456,16 +444,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-saving-on-space-tips-for-storing-mov-in-windows-10-devices/"><u>[Updated] 2024 Approved Saving on Space Tips for Storing .mov in Windows 10 Devices</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-maximizing-vimeo-video-watch-time-for-2024/"><u>[Updated] Maximizing Vimeo Video Watch Time for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-breakthrough-techniques-for-quick-srt-to-text-file-alteration/"><u>2024 Approved Breakthrough Techniques for Quick SRT to Text File Alteration</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-decoding-the-best-live-streams-a-compreehsive-guide/"><u>2024 Approved Decoding the Best Live Streams A Compreehsive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fall-guys-pc-performance-tips-overcoming-freezing-problems-during-gameplay/"><u>Fall Guys PC Performance Tips: Overcoming Freezing Problems During Gameplay</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/google-home-device-unpairing-tutorial-how-to-for-a-cleaner-smart-home-setup/"><u>Google Home Device Unpairing Tutorial: How-To for a Cleaner Smart Home Setup</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/innovative-hd-technology-showcased-by-best-screen-recorders-for-2024/"><u>Innovative HD Technology Showcased by Best Screen Recorders for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-authentication-barriers-on-your-android-phones-wi-fi/"><u>Overcoming Authentication Barriers on Your Android Phone’s Wi-Fi</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-essential-steps-to-compress-youtube-video-spaces/"><u>The Essential Steps to Compress YouTube Video Spaces</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-importance-of-diversifying-it-sources-for-governments-in-light-of-frequent-outages-at-microsoft/"><u>The Importance of Diversifying IT Sources for Governments in Light of Frequent Outages at Microsoft</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-nearly-complete-windows-11-update-for-2amz-may-2024-innovations-and-features-ahead/"><u>The Nearly Complete Windows 11 Update for 2Amz, May 2024: Innovations and Features Ahead!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-endless-entertainment-loop-youtube-videos-for-continuous-tv-viewing/"><u>[Updated] 2024 Approved Endless Entertainment Loop YouTube Videos for Continuous TV Viewing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-clearing-tactics-for-youtubes-stored-video-queue-for-2024/"><u>[Updated] Clearing Tactics for YouTube's Stored Video Queue for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-turbo-tracker-fastest-image-browser-w10/"><u>2024 Approved Turbo Tracker - Fastest Image Browser W10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bmp-gif-movavi/"><u>免費網路服務: BMP格式轉成 GIF - 使用 Movavi 轉換工具</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convert-mov-files-to-wmv-format-for-free-with-movavis-online-tool/"><u>Convert MOV Files to WMV Format for Free with Movavi's Online Tool</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-13-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 13</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-a-step-by-step-journey-clearing-images-with-picsart/"><u>In 2024, A Step-By-Step Journey Clearing Images with Picsart</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-mastering-live-photos-iphone-usage-tips/"><u>In 2024, Mastering Live Photos IPhone Usage Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/las-15-herramientas-mas-efectivas-para-crear-montajes-fotograficos-en-pantalla-del-portatil-y-el-telefono/"><u>Las 15 Herramientas Más Efectivas Para Crear Montajes Fotográficos en Pantalla Del Portátil Y El Teléfono</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-avchd-video-editing-software-the-top-5-contenders/"><u>New In 2024, AVCHD Video Editing Software The Top 5 Contenders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformez-votre-video-flv-en-mjpeg-facilement-et-sans-frais-avec-movavi/"><u>Transformez Votre Vidéo FLV en MJPEG Facilement Et Sans Frais Avec Movavi</u></a></li>
 </ul></div>
 
