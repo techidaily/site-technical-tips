@@ -1,7 +1,7 @@
 ---
 title: "Command Prompt Trick: Starting It Right Where You Need It in Windows Files"
-date: 2024-09-13T22:03:12.711Z
-updated: 2024-09-20T23:43:55.236Z
+date: 2024-09-26T02:41:07.649Z
+updated: 2024-09-27T10:13:06.825Z
 categories:
   - BestProducts
 description: "This Article Describes Command Prompt Trick: Starting It Right Where You Need It in Windows Files"
@@ -37,18 +37,18 @@ thumbnail: https://thmb.techidaily.com/518c2d131b700a020fce7cacd732eef38c6bf9388
 
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Open Command Prompt Through the Start Menu Folder
 
  Another way to open the Windows Command Prompt in Windows 10 is to look in its Start menu folder. Open the**Start menu** , select the**Windows System** folder from the list, and then choose**Command Prompt** from the folder group.
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Open Command Prompt Using Power User Menu
 
@@ -57,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/518c2d131b700a020fce7cacd732eef38c6bf9388
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
 
@@ -70,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/518c2d131b700a020fce7cacd732eef38c6bf9388
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -88,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/518c2d131b700a020fce7cacd732eef38c6bf9388
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Other Ways to Open Command Prompt
 
  Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
@@ -102,6 +95,20 @@ thumbnail: https://thmb.techidaily.com/518c2d131b700a020fce7cacd732eef38c6bf9388
  To do this, enter**cmd** into the command-line interface. This can be in the Run dialog box (**WIN** +**R** ) or[Task Manager's](https://www.lifewire.com/task-manager-2626025) **Run new task** option (go to**File** \>**Run new task** if you're not using Windows 11).
 
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Elevated Command Prompts and Old Windows Versions
 
@@ -157,5 +164,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-updated-list-the-premier-pc-vr-headsets-of-2023/"><u>[Updated] 2024 Approved Updated List The Premier PC VR Headsets of 2023</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-smoothie-your-phone-converting-iphones-jpegpng-to-pdf/"><u>[Updated] In 2024, Smoothie Your Phone Converting iPhone's JPEG/PNG to PDF</u></a></li>
+<li><a href="https://fox-info.techidaily.com/a-closer-look-at-immersive-virtual-reality-tech/"><u>A Closer Look at Immersive Virtual Reality Tech</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-k11-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo K11 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-unveiling-the-potent-performance-of-asus-tuf-gaming-a14/"><u>In-Depth Review: Unveiling the Potent Performance of Asus TUF Gaming A14</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-bard-googles-new-ai-contender-against-chatgpt/"><u>Introducing 'Bard': Google's New AI Contender Against ChatGPT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-specifications-the-in-depth-analysis-of-ipad-pro-vs-macbook-air/"><u>Navigating Through Specifications: The In-Depth Analysis of iPad Pro Vs. MacBook Air</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revive-the-power-of-search-on-windows-10-expert-tips-and-solutions/"><u>Revive the Power of Search on Windows 10 - Expert Tips and Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-silent-screen-issue-with-your-chromecast-a-how-to/"><u>Solving the Silent Screen Issue with Your Chromecast - A How-To</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-locating-your-macbook-serial-and-model-info/"><u>The Ultimate Guide to Locating Your MacBook Serial and Model Info</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-winner-of-wallet-friendlinnity-a-comprehensive-analysis-of-the-tp-link-archer-c9-router/"><u>The Winner of Wallet Friendlinnity: A Comprehensive Analysis of the TP-Link Archer C9 Router</u></a></li>
+</ul></div>
 

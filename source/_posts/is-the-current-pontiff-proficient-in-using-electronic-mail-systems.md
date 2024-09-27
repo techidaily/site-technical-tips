@@ -1,7 +1,7 @@
 ---
 title: Is the Current Pontiff Proficient in Using Electronic Mail Systems?
-date: 2024-09-13T18:26:31.275Z
-updated: 2024-09-21T03:01:44.372Z
+date: 2024-09-26T09:08:31.776Z
+updated: 2024-09-26T22:18:10.196Z
 categories:
   - BestProducts
 description: This Article Describes Is the Current Pontiff Proficient in Using Electronic Mail Systems?
@@ -35,6 +35,13 @@ thumbnail: https://www.lifewire.com/thmb/jBVYmCK8o7kU6_SXUFE-7K3qvYU=/400x300/fi
 
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Google Pixel 9 Price Rumors
 
  We haven't seen any rumors or leaks about what the Pixel 9 will cost. For now, we'll assume pricing will match that of the Pixel 8 lineup. However, with the addition of an XL model, we're really only able to take a guess.
@@ -46,18 +53,18 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Pixel 9 Pro XL** \- $1,199
 * **Pixel 9 Pro Fold** \- $1,799
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  You can't pre-order the Pixel 9 just yet. We'll drop the link here when pre-ordering starts, which will likely be the same day Google unveils the phones.
 
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Google Pixel 9 Features
 
@@ -82,22 +89,15 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Performance
 
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cameras
@@ -105,13 +105,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
  This year's Pixels are changing up the camera bar. Compared to the Pixel 8's camera housing, it looks a bit more compact and rounded, but also flatter on the sides. It now has a small gap on either end that distinguishes it from last year's phones.
 
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 MySmartPrice
 
@@ -132,6 +125,19 @@ MySmartPrice
  The Pixel 9 Pro might come with more RAM this year. An unnamed source with access to a purported Pixel 9 Pro (via[Rozetked](https://rozetked.me/news/33143-eksklyuziv-zhivye-foto-google-pixel-9-pro-ot-rozetked) ) claims the phone will have an additional 4 GB of RAM compared to last year's device, shooting it up to 16 GB of total memory.
 
  There's no word yet on the phone's storage capacity, but we think it will remain the same. That means 128 GB or 256 GB for the base model and up to 1 TB for the Pro models. The first Pixel Fold caps out at 512 GB but we think the Pixel 9 Pro Fold will add a terabyte option.  
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Latest News About the Google Pixel 9
 
@@ -154,5 +160,23 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-quintessential-14-text-motion-design-examples/"><u>[New] Quintessential 14 Text Motion Design Examples</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-stepwise-guide-to-windows-11-sound-capture-setup/"><u>[Updated] Stepwise Guide to Windows 11 Sound Capture Setup</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-your-pathway-to-instagram-stardom-top-video-strategies-for-2024/"><u>[Updated] Your Pathway to Instagram Stardom Top Video Strategies for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/broadcast-your-video-conference-linking-zoom-meetings-with-your-tv-setup/"><u>Broadcast Your Video Conference: Linking Zoom Meetings with Your TV Setup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-the-favourite-british-tv-shows-of-2023-on-netflix/"><u>Enjoy the Favourite British TV Shows of 2023 on Netflix!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-a34-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy A34 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y02t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y02T to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-system-fixes-reviving-troubleshooters-in-windows-11/"><u>Mastering System Fixes: Reviving Troubleshooters in Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quality-control-meets-creativity-exploring-top-18-cam-tools-for-2024/"><u>Quality Control Meets Creativity Exploring Top 18 Cam Tools for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-startup-five-must-do-activities-when-you-get-your-new-tech-gadget/"><u>Seamless Startup: Five Must-Do Activities When You Get Your New Tech Gadget</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-xbox-one-screen-blackout-a-step-by-step-guide/"><u>Solving The Xbox One Screen Blackout: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-fixing-stop-0x0000003d-bsod-troubleshooting-tips/"><u>Step-by-Step Solutions: Fixing STOP 0X0000003D BSOD Troubleshooting Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-guide-to-ussd-technology-and-its-uses-in-communication-networks/"><u>The Complete Guide to USSD Technology and Its Uses in Communication Networks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshoot-windows-pdhdll-not-detected-problems-quickly/"><u>Troubleshoot Windows 'pdh.dll Not Detected' Problems Quickly</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-how-to-use-emojis-on-windows-10-and-windows-11/"><u>Updated In 2024, How to Use Emojis on Windows 10 and Windows 11?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/verizon-takes-the-lead-in-enhancing-5g-connectivity-current-insights-revealed/"><u>Verizon Takes the Lead in Enhancing 5G Connectivity: Current Insights Revealed</u></a></li>
+</ul></div>
 

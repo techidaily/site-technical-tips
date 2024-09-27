@@ -1,7 +1,7 @@
 ---
 title: "How To Customize Display Times On A Kindle Paperwhite: Simple Tips and Tricks"
-date: 2024-09-20T03:58:48.027Z
-updated: 2024-09-20T18:44:36.659Z
+date: 2024-09-26T06:35:39.682Z
+updated: 2024-09-27T02:30:56.970Z
 categories:
   - BestProducts
 description: "This Article Describes How To Customize Display Times On A Kindle Paperwhite: Simple Tips and Tricks"
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 
  This article explains how to make an appointment using the Apple Store App. You can make an appointment for product demos, workshops, and (in most cases) repairs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Schedule an Appointment From the Apple Support App
 
  The Apple Support app provides troubleshooting and contact information, and it's the fastest way to get a Genius Bar appointment, especially if you own several Apple devices.
@@ -32,11 +39,26 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 4. Select the specific problem from the next screen.  
 ![The "My Devices," "Repairs & Physical Damage," and problem options in the Apple Support app](https://www.lifewire.com/thmb/UlwcbBbGGUKP7TBki_iBvOT4Dgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-01-26333c8d674d49e19071966928058213.jpg)
 5. Select**View Locations** under**Bring in for Repair** .
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select an Apple Store from the map, and then choose**Schedule** .  
 ![The "View Locations" and "Schedule" buttons in the Apple Support app](https://www.lifewire.com/thmb/cB9ItxxAZXnwcwJmMXziGbxmnUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-02-2194ff8238d744b4a17213561151e3b2.jpg)
 7. On the next screen, pick an available date and time.
 8. Then, enter your phone number for text reminders about your appointment (you'll still get email notifications if you don't). Choose**Reserve** to finish booking.  
 ![The appointment calendar and Reserve button in the Apple Support app](https://www.lifewire.com/thmb/lDGmgwpBMuvG-sTPNN7bjiJtq60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-03-d98a742dc0b547f990d2f5e7e8a30091.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Using the Apple Store App to Make Appointments
 
@@ -56,6 +78,14 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 9. Find your Apple Store on the map.  
 ![Scheduling and device selection in the Apple Store app](https://www.lifewire.com/thmb/19JBK9MoG4FtpkecPBA_RsEyeJ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-03-9d185dce717b4f6eab42ca4d444f64da.jpg)
 10. Pick a day and time using the calculator and drop-down menu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 11. Optionally, enter your phone number if you want a representative from the Apple Store to call you. Tap**Continue** .
 12. Review your reservation date and time, and then select**Reserve now** to confirm.  
 ![Appointment scheduling in the Apple Store app](https://www.lifewire.com/thmb/0DQo_2TNcmLggPBm0e9UGISsEXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_make-apple-store-appointment-with-app-1999600-efc9e969642f4e5886401ca69a1eba64.jpg)
@@ -97,12 +127,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-how-to-activate-a-virtual-grid-display-for-meet-users/"><u>[New] 2024 Approved How to Activate a Virtual Grid Display for Meet Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717726008656-new-how-to-upload-videos-to-youtube-a-step-by-step-guide-for-2024/"><u>[New] How To Upload Videos to YouTube A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/10-ways-to-go-viral-on-tiktok/"><u>10 Ways to Go Viral on TikTok</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-bending-images-photoshops-simplest-alterations/"><u>2024 Approved Bending Images Photoshop's Simplest Alterations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-to-fix-your-netflix-ui-800-3-display-problems-instantly/"><u>Expert Tips to Fix Your Netflix UI-800-3 Display Problems Instantly</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oneplus-12-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your OnePlus 12 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/inventory-guide-to-photographic-and-videography-units-for-2024/"><u>Inventory Guide to Photographic and Videography Units for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-why-isnt-your-ipad-connecting-with-the-printer/"><u>Step-by-Step Solution: Why Isn't Your iPad Connecting with the Printer?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-new-era-of-ai-compliance-understanding-the-eu-act-and-its-impact-on-gpt-technology/"><u>The New Era of AI Compliance: Understanding the EU Act and Its Impact on GPT Technology</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-microphone-list-for-best-asmr-sound-for-2024/"><u>The Ultimate Microphone List for Best ASMR Sound for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-enabling-persistent-data-collection-in-browsers-cookies/"><u>The Ultimate Tutorial: Enabling Persistent Data Collection in Browsers (Cookies)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-console-and-accessory-presents-ideal-for-young-gamers/"><u>Top Console and Accessory Presents Ideal for Young Gamers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-secrets-of-openais-bug-bounty-scheme-tips-for-active-contributors/"><u>Unlocking the Secrets of OpenAI’s Bug Bounty Scheme: Tips for Active Contributors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-your-pc-without-a-pin-in-windows-10-a-comprehensive-tutorial/"><u>Unlocking Your PC Without a PIN in Windows 10 - A Comprehensive Tutorial</u></a></li>
+</ul></div>
 

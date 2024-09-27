@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Mastering Dual Screens on Your MacBook Air"
-date: 2024-09-19T03:47:04.777Z
-updated: 2024-09-21T00:14:03.717Z
+date: 2024-09-26T04:08:02.675Z
+updated: 2024-09-26T17:11:30.005Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Mastering Dual Screens on Your MacBook Air"
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/533236261129cabe3de86d1bef1cbed00a9ea2770
 !["cmd" typed into Windows 11 start menu search box](https://www.lifewire.com/thmb/1d41kEyvl2KNY_b_cnc6DgiIehk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-cmd-start-menu-a8c1d7d009f64856902c83e8e418563b.png)  
  If you're using the latest version of Windows 11, Command Prompt will open within[Terminal](https://www.lifewire.com/windows-terminal-4779951) .
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
 
 ### Open Command Prompt Through the Start Menu Folder
@@ -49,20 +56,13 @@ thumbnail: https://thmb.techidaily.com/533236261129cabe3de86d1bef1cbed00a9ea2770
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
@@ -77,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/533236261129cabe3de86d1bef1cbed00a9ea2770
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -87,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/533236261129cabe3de86d1bef1cbed00a9ea2770
 3. Choose**Command Prompt** from the list of programs.
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Other Ways to Open Command Prompt
 
@@ -114,6 +114,19 @@ thumbnail: https://thmb.techidaily.com/533236261129cabe3de86d1bef1cbed00a9ea2770
 * **you must be an administrator**
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
@@ -157,5 +170,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-step-by-step-for-turning-your-vids-into-beats-on-insta/"><u>[New] The Step-by-Step for Turning Your Vids Into Beats on Insta</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-top-10-costless-conversion-apps-for-srt-files-explored/"><u>[Updated] 2024 Approved Top 10 Costless Conversion Apps for SRT Files Explored</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-guide-to-documenting-macs-roblox-playthroughs-for-2024/"><u>[Updated] Essential Guide to Documenting Mac's Roblox Playthroughs for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1-fast-and-easy-winx-dvd-ripper-platinum-convert-dvds-to-hd-mp4-in-just-5-minutes/"><u>1. Fast & Easy WinX DVD Ripper Platinum: Convert DVDs to HD MP4 in Just 5 Minutes!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-complete-overview-navigating-through-the-features-of-netflixs-digital-library/"><u>A Complete Overview: Navigating Through The Features of Netflix's Digital Library</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722890227736-avoid-buying-extra-tools-learn-to-open-your-iphones-sim-by-yourself/"><u>Avoid Buying Extra Tools - Learn to Open Your iPhone's SIM by Yourself!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/excessive-internet-traffic-from-svchostexe-uncover-the-causes-and-remedies-for-netsvcs-slowdowns/"><u>Excessive Internet Traffic From svchost.exe? Uncover the Causes and Remedies for NETsvcs Slowdowns</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-the-art-of-query-tagging-in-instagram-comments/"><u>In 2024, Mastering the Art of Query Tagging in Instagram Comments</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-blueprint-of-film-narrative/"><u>In 2024, The Blueprint of Film Narrative</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-rcs-how-its-revolutionizing-phone-messaging-today/"><u>Inside RCS: How It's Revolutionizing Phone Messaging Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-facebook-photos-with-ease-expert-image-search-tips/"><u>Navigating Through Facebook Photos with Ease: Expert Image Search Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stay-updated-effortlessly-explore-our-selection-of-top-news-aggregators/"><u>Stay Updated Effortlessly: Explore Our Selection of Top News Aggregators</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-wi-fi-connection-issues-on-your-microsoft-surface-pro/"><u>Troubleshooting Guide: Resolving Wi-Fi Connection Issues on Your Microsoft Surface Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-what-to-do-when-alexa-cant-connect/"><u>Troubleshooting: What to Do When Alexa Can't Connect</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-ways-accessing-the-web-without-traditional-cablephone/"><u>Wireless Ways: Accessing the Web without Traditional Cable/Phone</u></a></li>
+</ul></div>
 

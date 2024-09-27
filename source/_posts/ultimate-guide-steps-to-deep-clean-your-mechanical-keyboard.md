@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Steps to Deep-Clean Your Mechanical Keyboard"
-date: 2024-09-16T05:05:23.326Z
-updated: 2024-09-20T19:41:25.111Z
+date: 2024-09-24T07:16:50.317Z
+updated: 2024-09-27T10:14:12.209Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Steps to Deep-Clean Your Mechanical Keyboard"
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/609392eeb7e6d07659b5310d5497d83d3c111a4e7
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -57,10 +64,16 @@ thumbnail: https://thmb.techidaily.com/609392eeb7e6d07659b5310d5497d83d3c111a4e7
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
@@ -70,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/609392eeb7e6d07659b5310d5497d83d3c111a4e7
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
@@ -96,6 +109,19 @@ thumbnail: https://thmb.techidaily.com/609392eeb7e6d07659b5310d5497d83d3c111a4e7
 * **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
 
@@ -127,13 +153,6 @@ thumbnail: https://thmb.techidaily.com/609392eeb7e6d07659b5310d5497d83d3c111a4e7
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Was this page helpful?
 
 Thanks for letting us know!
@@ -161,5 +180,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-solve-facebook-messenger-not-sending-videos-on-iphone-and-android/"><u>[New] 2024 Approved Solve “Facebook Messenger Not Sending Videos” On iPhone and Android</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-essential-role-of-voice-in-visual-content/"><u>[New] 2024 Approved The Essential Role of Voice in Visual Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expert-strategies-to-maximize-income-with-video-ads-on-youtube/"><u>[New] In 2024, Expert Strategies to Maximize Income with Video Ads on Youtube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-elevating-your-youtube-profile-with-high-impact-artwork-guide-for-2024/"><u>[Updated] Elevating Your YouTube Profile with High-Impact Artwork Guide for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciphering-your-ps4s-led-light-signals-understanding-the-meanings-of-blue-white-red-and-orange/"><u>Deciphering Your PS4's LED Light Signals: Understanding the Meanings of Blue, White, Red & Orange</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/drone-families-and-forms/"><u>Drone Families and Forms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-iphone-settings-for-improved-visual-impairment-support/"><u>Essential iPhone Settings for Improved Visual Impairment Support</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-navigating-to-command-prompt-from-any-folder-on-windows/"><u>Guide: Navigating to Command Prompt From Any Folder on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-giggles-and-grins-topical-humor-guides-for-everyone/"><u>In 2024, Giggles and Grins Topical Humor Guides for Everyone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-itel-p40-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Itel P40 Phones? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-windows-code-28-troubles-step-by-step-guide/"><u>Resolving Windows Code 28 Troubles - Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/share-your-world-on-lg-smart-tvs-a-complete-tutorial-on-screen-mirroring/"><u>Share Your World on LG Smart TVs: A Complete Tutorial on Screen Mirroring</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/xbox-one-display-problems-tackling-the-notorious-no-signal-error/"><u>Xbox One Display Problems: Tackling the Notorious No Signal Error</u></a></li>
+</ul></div>
 

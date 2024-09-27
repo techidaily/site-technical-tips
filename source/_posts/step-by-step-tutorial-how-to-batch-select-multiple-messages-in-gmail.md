@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: How to Batch Select Multiple Messages in Gmail"
-date: 2024-09-16T04:38:25.719Z
-updated: 2024-09-21T01:32:29.199Z
+date: 2024-09-20T08:54:02.120Z
+updated: 2024-09-26T23:46:22.841Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Tutorial: How to Batch Select Multiple Messages in Gmail"
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 * **Airplane mode activated on the iPhone** : This settings acts the same as on the watch; it prevents all communication. Swipe down from the upper-right corner of the iPhone's display to open Control Center. As with the watch, the icon for Airplane Mode is highlighted in orange if activated.
 * **Bluetooth disconnected on the iPhone** : Bluetooth is essential to pairing an iPhone and an Apple Watch. Check the Bluetooth status icon from the Control Center on both devices. If it's off, the Bluetooth icon will be highlighted in white. Tap it to turn it back on and your Apple Watch should pair within a few moments.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Reboot Your iPhone If Your Apple Watch Won't Pair
 
  Now that we've checked some of the basic settings, we'll fall back on the oldest troubleshooting step in the book:[rebooting the device](https://www.lifewire.com/how-to-restart-iphone-2000288) . If your Apple Watch won't pair, there may very well be a problem on the iPhone side of the equation. A quick reboot may help you get back up and running in no time.
@@ -61,26 +68,20 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 Apple, inc.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. After the display is dark for a few seconds, press and hold the side button again to power the Apple Watch on. The Apple logo should immediately appear on the screen. If not, wait a few more seconds and press and hold the side button again.  
  Rebooting the devices should solve most problems when your Apple Watch won't pair. If you are still having problems, it is time to dive into some deeper troubleshooting steps.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Check Your iPhone's Operating System for Updates
@@ -110,13 +111,6 @@ Apple, inc.
 
  The unpairing process will erase all data on the Apple Watch. When finished, you will set up the Apple Watch just as you did when you got it out of the box. This step should solve most problems.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### On the Apple Watch
 
 1. Launch the**Settings** app.
@@ -124,6 +118,13 @@ Apple, inc.
 3. Tap**Reset** .
 4. Select**Erase All Content and Settings** .  
 ![Erase All Content and Settings on the Apple Watch](https://www.lifewire.com/thmb/0ZE3KBt0DGOkYsTSN1EkbVcQx3E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_fix-it-when-your-apple-watch-wont-pair-4583120-5b0910e69aa940ceab0d23df503d6efa.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### On the iPhone
 
@@ -134,16 +135,10 @@ Apple, inc.
 ![Steps to unpair an Apple Watch from an iPhone in the Watch iOS app](https://www.lifewire.com/thmb/Rg5jH0Omdt_baioSEfOiLNm2vCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_fix-it-when-your-apple-watch-wont-pair-4583120-0b423af25e184932a332aaa1166e84aa.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you still have problems pairing your Apple Watch to your iPhone after following these steps, it's time to contact Apple Support. You can[schedule an appointment at the Genius Bar](https://www.lifewire.com/how-to-make-an-apple-genius-bar-appointment-1999601) at an Apple retail location from the Support website or through the app.
@@ -177,5 +172,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-time-saving-ways-to-log-vimeo-media/"><u>[New] 2024 Approved Time-Saving Ways to Log Vimeo Media</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-enhance-learning-with-easy-recording-techniques-for-your-imac/"><u>[New] Enhance Learning with Easy Recording Techniques for Your iMac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-apple-excellence-iphones-best-no-cost-image-assemblers-and-layouts/"><u>2024 Approved Apple Excellence – iPhone's Best No-Cost Image Assemblers & Layouts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-through-digital-profit-landscapes/"><u>2024 Approved Navigating Through Digital Profit Landscapes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-f34-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy F34 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-syncing-disneyplus-streaming-with-your-chromecast-device/"><u>Guide: Syncing Disney+ Streaming with Your Chromecast Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/live-coverage-mens-ncaa-hoops-from-march-madness-to-the-final-four/"><u>Live Coverage: Men's NCAA Hoops - From March Madness to The Final Four!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-time-adjustment-customizing-kindle-paperwhites-display-timings/"><u>Mastering Time Adjustment: Customizing Kindle Paperwhite's Display Timings</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New In 2024, Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-hurdles-with-yahoo-a-guide-for-fixing-email-reception-problems/"><u>Overcoming Hurdles with Yahoo: A Guide for Fixing Email Reception Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-to-rectify-coredll-disappears-without-a-trace-problem/"><u>Step-by-Step Tutorial to Rectify 'Core.dll' Disappears Without a Trace Problem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-gadgets-with-this-guide-on-programming-multi-device-remotes/"><u>Transform Your Gadgets with This Guide on Programming Multi-Device Remotes</u></a></li>
+</ul></div>
 

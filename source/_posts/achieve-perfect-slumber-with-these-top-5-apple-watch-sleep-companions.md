@@ -1,7 +1,7 @@
 ---
 title: Achieve Perfect Slumber with These Top 5 Apple Watch Sleep Companions
-date: 2024-09-13T23:22:22.349Z
-updated: 2024-09-21T02:41:20.952Z
+date: 2024-09-25T03:41:16.774Z
+updated: 2024-09-27T09:09:47.749Z
 categories:
   - BestProducts
 description: This Article Describes Achieve Perfect Slumber with These Top 5 Apple Watch Sleep Companions
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/I9HkKmabZPl4tRbVfZonsAafnMI=/540x405/fi
 
  This article explains how to select every Gmail email at once from the desktop website. Doing so lets you apply a new label to the selected messages, bulk-delete emails,[mark them as read](https://www.lifewire.com/how-to-mark-email-read-in-gmail-1171945) , and more.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select All Emails in Gmail
 
  Once you find the emails you want to manage, highlighting all of them is a simple, two-step process.
@@ -31,8 +38,23 @@ thumbnail: https://www.lifewire.com/thmb/I9HkKmabZPl4tRbVfZonsAafnMI=/540x405/fi
 2. Right below the search bar and above your emails, click the**checkbox** to select all the messages that are currently displayed. Or, select the**arrow** next to this checkbox to choose the types of emails to be selected, such as Read, Unread, Starred, or Unstarred.  
 ![Screenshot of Select All button in Gmail](https://www.lifewire.com/thmb/nDxAo7ifTPWhhJHpwNwtDS2jSIk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_select-all-messages-in-a-gmail-label-collection-or-search-1172098-5baea535c9e77c002636c2bc.jpg)  
  At this point, you have only selected the messages that are visible on the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. To select every email in Gmail, including those that are not currently displayed, look at the top of your email list for an additional button, and select it. It look like this:**Select all \[#\] conversations in \[label\]** .  
 ![A list of emails selected in Gmail](https://www.lifewire.com/thmb/4VAxqfY1MDMB8VrzP3z18uSp99Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-all-gmail-messages-59c38ca927ab46cbb225ebda805c03cc.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Select All Gmail Emails From a Search
 
@@ -46,10 +68,10 @@ thumbnail: https://www.lifewire.com/thmb/I9HkKmabZPl4tRbVfZonsAafnMI=/540x405/fi
 ![Gmail emails highlighted from a search](https://www.lifewire.com/thmb/n2qAQZOsSxNaeRsOvsrHDnmIFoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-all-conversations-match-search-b3214279e6b44aa89ebcfb82199b23f9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What You Can Do With Selected Emails
@@ -111,5 +133,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-broadcast-your-previous-video-a-guide-to-live-streaming-on-facebook-for-2024/"><u>[New] Broadcast Your Previous Video A Guide to Live-Streaming on Facebook for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-collection-of-10-inspirational-movies/"><u>[New] The Ultimate Collection of 10 Inspirational Movies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-demystify-video-editing-with-free-vimeo-resources/"><u>[Updated] 2024 Approved Demystify Video Editing with Free Vimeo Resources</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-hidden-highlight-harvester/"><u>[Updated] Hidden Highlight Harvester</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-linux-screenshot-solutions-the-ultimate-guide/"><u>[Updated] In 2024, Linux Screenshot Solutions The Ultimate Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-address-and-repair-msstdfmtdll-errors-for-smooth-computer-operation/"><u>How to Address and Repair Msstdfmt.dll Errors for Smooth Computer Operation</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-90-gt-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-iphone-14-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On iPhone 14 without Password?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/must-have-educational-electronics-the-top-9-tools-for-todays-learners/"><u>Must-Have Educational Electronics: The Top 9 Tools for Today's Learners</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-your-way-through-saving-past-instagram-reels-with-these-simple-steps/"><u>Navigate Your Way Through Saving Past Instagram Reels with These Simple Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/psvr2-unveiled-latest-updates-on-features-costs-launch-timeline-and-technical-details/"><u>PSVR2 Unveiled: Latest Updates on Features, Costs, Launch Timeline & Technical Details</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sony-car-afeela-sneak-peek-release-timeline-estimated-costs-and-speculated-features-exposed/"><u>Sony Car (Afeela) Sneak Peek - Release Timeline, Estimated Costs, and Speculated Features Exposed!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/spotlight-on-max-the-ultimate-list-of-documentary-films-for-july-2024/"><u>Spotlight on Max: The Ultimate List of Documentary Films for July 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-deceitful-network-invitations-tips-on-spotting-fake-friend-requests/"><u>Unveiling Deceitful Network Invitations: Tips on Spotting Fake Friend Requests</u></a></li>
+</ul></div>
 

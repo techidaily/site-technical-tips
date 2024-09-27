@@ -1,7 +1,7 @@
 ---
 title: "Mastering Window 10: How to Show or Hide the Virtual Keyboard Quickly"
-date: 2024-09-19T22:33:35.521Z
-updated: 2024-09-20T22:37:50.569Z
+date: 2024-09-20T19:48:03.839Z
+updated: 2024-09-27T10:01:02.330Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Window 10: How to Show or Hide the Virtual Keyboard Quickly"
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
  This article explains different ways to turn on or off the on-screen keyboard in Windows 10\. It also explains how to pin the keyboard to the Start menu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use the Shortcut Keys for the On-Screen Keyboard
 
  If you like shortcuts, you'll love this: Press**Win + CTRL + O** on your physical keyboard. That will instantly display the on-screen keyboard without going through the Ease of Access center.
@@ -36,6 +43,14 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 1. Click**Start** , then click**Settings** .  
 ![The Windows Start button showing the Settings option.](https://www.lifewire.com/thmb/DJl8mWeFBXMcBD89P5uL9BgJ3h4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-EnableorDisabletheOnScreenKeyboardinWindows10-annotated-5813fcecfa554f9da0287958e4e7b644.jpg)
 2. Click**Ease of Access** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Scroll down and click**Keyboard** .  
 ![The Ease of Access menu showing the Keyboard option.](https://www.lifewire.com/thmb/-hk-yX7ph5_d4xmPvyJ5yR6MKbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EaseofAccessKeyboard-3775dd4845c9455caf9e2ab2d5bc2048.jpg)
 4. Under**Use your device without a physical keyboard** , slide the button to**On** .  
@@ -46,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 ![On-screen keyboard with the close (X) highlighted](https://www.lifewire.com/thmb/kYDMvug0GyD3GrUTRQRSdjAKAxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Closekeyboard-e71f23764cb9422aa37acc4cd54de131.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Get the On-Screen Keyboard (Kind of) Permanently
@@ -62,6 +77,14 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 2. Click**Settings** .  
 ![The Windows Start button showing the Settings option.](https://www.lifewire.com/thmb/DJl8mWeFBXMcBD89P5uL9BgJ3h4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-EnableorDisabletheOnScreenKeyboardinWindows10-annotated-5813fcecfa554f9da0287958e4e7b644.jpg)
 3. Click**Ease of Access** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Ease of Access menu showing the Keyboard option.](https://www.lifewire.com/thmb/-hk-yX7ph5_d4xmPvyJ5yR6MKbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EaseofAccessKeyboard-3775dd4845c9455caf9e2ab2d5bc2048.jpg)
 4. Right-click**Keyboard** and click**Pin to Start** .  
 ![The Keyboard Pin to Start option.](https://www.lifewire.com/thmb/6onPeVu62gKPqEMc0mF5EZgPkl0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pintostart-43a98be5b4e5458ebea70c1f99142f42.jpg)
@@ -72,10 +95,16 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 7. Click**Keyboard** to take you directly to the Ease of Access menu.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Toggle the keyboard to**On** .
@@ -118,5 +147,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elevate-your-hp-experience-with-these-4-screen-record-methods/"><u>[New] Elevate Your HP Experience with These 4 Screen Record Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-rewind-revolution-iphones-time-turning-ability/"><u>[New] Rewind Revolution IPhone's Time-Turning Ability</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-uncluttered-window-logger-w10-version/"><u>[Updated] 2024 Approved Uncluttered Window Logger W10 Version</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-walkthrough-for-using-the-android-measure-tool-effectively/"><u>A Comprehensive Walkthrough for Using the Android Measure Tool Effectively</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-methods-how-to-disassociate-all-songs-from-your-playlist-history-on-spotify/"><u>Comprehensive Methods: How To Disassociate All Songs From Your Playlist History On Spotify</u></a></li>
+<li><a href="https://win-blog.techidaily.com/crash-no-more-solutions-for-mount-and-blade-2-bannerlords-stability/"><u>Crash No More: Solutions for Mount & Blade 2: Bannerlord's Stability</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-muted-phone-conversations-a-guide-for-iphone-volume-enhancement/"><u>Dealing with Muted Phone Conversations: A Guide for iPhone Volume Enhancement</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevate-your-presence-mastering-ig-video-borders/"><u>Elevate Your Presence Mastering IG Video Borders</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-s23-fe-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy S23 FE Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oppo-k11-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Oppo K11 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-meizu-21-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Meizu 21 Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-mystery-behind-bsod-stop-codes-on-windows-systems/"><u>Mastering the Mystery Behind BSOD (Stop) Codes on Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722847007317-quick-guide-crafting-the-symbol-from-keystrokes-alone-no-touch-needed/"><u>Quick Guide: Crafting the ❤️ Symbol From Keystrokes Alone – No Touch Needed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-6-best-standalone-translation-tools-no-internet-required/"><u>Top 6 Best Standalone Translation Tools: No Internet Required</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-correcting-user32dll-errors-on-your-pc/"><u>Understanding and Correcting User32.dll Errors on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-t-mobiles-intra-network-roaming-practices/"><u>Understanding T-Mobile's Intra-Network Roaming Practices</u></a></li>
+</ul></div>
 

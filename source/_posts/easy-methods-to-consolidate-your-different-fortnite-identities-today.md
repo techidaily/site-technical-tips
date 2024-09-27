@@ -1,7 +1,7 @@
 ---
 title: Easy Methods to Consolidate Your Different Fortnite Identities Today
-date: 2024-09-15T16:33:22.091Z
-updated: 2024-09-20T21:41:48.586Z
+date: 2024-09-25T09:19:13.267Z
+updated: 2024-09-27T07:22:44.734Z
 categories:
   - BestProducts
 description: This Article Describes Easy Methods to Consolidate Your Different Fortnite Identities Today
@@ -34,15 +34,50 @@ Close
 * Your accounts can't be merged if one is currently banned or disabled.
 * You need access to all of the email addresses associated with the accounts you want to merge.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Merge Fortnite Accounts
 
 1. Go to[ Fortnite merge accounts page](https://www.epicgames.com/fortnite/account-merge/accounts/primary) and select a Primary Account. This is the one you'll continue using after the merger is complete.  
 ![Screenshot of the Fortnite account merging process](https://www.lifewire.com/thmb/S4uvPKpHtDCqofo8-8iB6XNG88k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2019-02-2013.39.52-5c6dbf1346e0fb00011fa0c4.png)  
  Stefanie Fogel
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Log in to that account. Epic will email you a security code you'll need to enter to continue.
 3. Choose a Secondary Account to merge and disable, and login to that account as well.  
 ![Screenshot of the Fortnite account merging process](https://www.lifewire.com/thmb/qzemy5pkKXQVjRXBU7cJ6nV0rUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fortniteaccountmerging-5c6dc07446e0fb000181fd5d.png)
 4. Follow the on-screen prompts to finish the merger.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Does or Doesn't Transfer After a Fortnite Account Merge?
 
@@ -92,12 +127,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-essential-ipad-recording-tools-3-edition/"><u>[New] 2024 Approved Essential iPad Recording Tools #3 Edition</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-boosting-bank-balance-effective-tactics-for-mobile-video-money-making/"><u>[New] Boosting Bank Balance Effective Tactics for Mobile Video Money-Making</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-chucklechasm-exciting-places-to-get-comical-calls/"><u>[New] ChuckleChasm Exciting Places to Get Comical Calls</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-cutting-edge-mac-accessory-visionplussound-capturing/"><u>[New] Cutting-Edge Mac Accessory Vision+Sound Capturing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-art-of-digital-expression-your-guide-to-sharing-animated-messages-on-snapchat-for-2024/"><u>[New] The Art of Digital Expression Your Guide to Sharing Animated Messages on Snapchat for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/are-snapshots-on-social-infinite/"><u>Are Snapshots on Social Infinite?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-fix-your-pc-when-it-says-bootmgr-is-absent/"><u>Comprehensive Guide to Fix Your PC When It Says 'BOOTMGR Is Absent'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-communication-tools-better-than-skype-best-picks-of-2024/"><u>Free Communication Tools Better Than Skype - Best Picks of 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/future-google-pixel-wrist-device-cost-estimates-availability-date-and-hardware-details-gathering-insights/"><u>Future Google Pixel Wrist Device: Cost Estimates, Availability Date & Hardware Details – Gathering Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-poco-c51-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Poco C51</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-espnplus-explained-a-comprehensive-look-at-how-it-revolutionizes-sports-viewing/"><u>Navigating ESPN+ Explained: A Comprehensive Look at How It Revolutionizes Sports Viewing</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-newbies-roadmap-to-successful-podcast-editing/"><u>New 2024 Approved The Newbies Roadmap to Successful Podcast Editing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-the-missing-d3dx9n40dll-error-effective-troubleshooting-techniques/"><u>Overcoming the 'Missing d3dx9_n40.dll' Error: Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/should-i-invest-in-a-ps5-top-4-benefits-of-owning-sonys-latest-console/"><u>Should I Invest in a PS5? Top 4 Benefits of Owning Sony's Latest Console</u></a></li>
+<li><a href="https://video-capture.techidaily.com/tech-gurus-rate-them-all-unveiling-apeaksofts-screen-recording-capabilities-for-2024/"><u>Tech Gurus Rate Them All Unveiling Apeaksoft’s Screen Recording Capabilities for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-how-to-guide-removing-or-pausing-facebook-from-your-android-device/"><u>The Definitive How-To Guide: Removing or Pausing Facebook From Your Android Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-timing-and-techniques-for-dropping-followers-on-x/"><u>The Ultimate Guide: Timing & Techniques for Dropping Followers on X</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-securely-reconnect-a-fallen-off-key-from-your-notebook/"><u>The Ultimate Trick to Securely Reconnect a Fallen-Off Key From Your Notebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-ripper-fur-mac-perfektes-dvd-konvertierungsprogramm-fur-ios-gerate-auf-dem-mac/"><u>WinX DVD Ripper Für Mac: Perfektes DVD-Konvertierungsprogramm Für iOS Geräte Auf Dem Mac</u></a></li>
+</ul></div>
 

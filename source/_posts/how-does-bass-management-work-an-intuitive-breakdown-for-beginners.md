@@ -1,7 +1,7 @@
 ---
 title: How Does Bass Management Work? An Intuitive Breakdown for Beginners
-date: 2024-09-18T20:12:34.538Z
-updated: 2024-09-20T18:48:07.949Z
+date: 2024-09-22T03:40:33.735Z
+updated: 2024-09-26T17:41:06.314Z
 categories:
   - BestProducts
 description: This Article Describes How Does Bass Management Work? An Intuitive Breakdown for Beginners
@@ -30,6 +30,14 @@ thumbnail: https://www.lifewire.com/thmb/0mT0cLKbnzK26DxOEQsLWDDJY0s=/400x300/fi
 1. Open Settings, then select**Personalization** on the left, followed by**Fonts** on the right. Another way to get there is through the Run command:**ms-settings:fonts** .  
 ![The Personalization settings in Windows 11](https://www.lifewire.com/thmb/SJdYi81a1Rm29jJ6p7V24JP49ss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/personalization-settings-windows-11-83afd8d0867d4d39a1b87dff59dd8fae.png)
 2. Scroll down to**Available fonts** , and find and select the font you're interested in using.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don't see the font you want, you can take this time to download it. Lots of websites have free fonts, but you can also[buy fonts online](https://www.lifewire.com/buy-fonts-for-desktop-publishing-1077714) . Then, return to this area of Settings to see it. Our[How to Install Fonts in Windows 11](https://www.lifewire.com/install-fonts-in-windows-11-5192443) guide can help if you need it.
 3. Locate the**Full name** line in the**Metadata** section, and write it down exactly as it's written. In our example, we recorded**Franklin Gothic Medium** .  
 ![Full Name and Franklin Gothic Medium highlighted in Windows 11 font settings](https://www.lifewire.com/thmb/TLWCZLK0sdGg9XBIj1y4Ma1EuAA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-change-the-font-in-windows-11-6827640-97099a55349a45e392459345af24caf1.jpg)
@@ -48,11 +56,27 @@ thumbnail: https://www.lifewire.com/thmb/0mT0cLKbnzK26DxOEQsLWDDJY0s=/400x300/fi
 5. In the last line of the document, replace**Franklin Gothic Medium** with the name of the font you recorded in Step 3 (keep the quotes around the name).  
 ![Franklin Gothic Medium highlighted in Windows Notepad with REG file contents](https://www.lifewire.com/thmb/5UM6sKcUZ5_xlc9vkHeFpUtlwpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-change-the-font-in-windows-11-6827640-babf346069c14d8caa00e4c43d7992b6.jpg)
 6. If you're using Notepad, go to**File** \>**Save as** , and type a name in the**File name** box.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Choose**All files** from the**Save as type** menu.
 8. Type**.reg** at the end of the file name. Our example reads**Franklin Gothic.reg** , but yours can be called whatever you want; just make sure it ends with that file extension.
 9. Choose a folder on your computer to save the file (the Desktop folder works), and then select**Save** .  
 ![FranklinGothic.reg and Save highlighted in a Notepad document with REG file extension](https://www.lifewire.com/thmb/4p0dmSoOCDSVSqxK6o9QnPtNX1U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-change-the-font-in-windows-11-6827640-9563197f19ae4d848482def07b741adc.jpg)
 10. Close the text editor, and then double-click or double-tap the REG file from the folder you just saved it to.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 11. Press**Yes** on the User Account Control window, then**Yes** again on the Registry Editor prompt (pictured below), and finally**OK** on the success message.  
 ![Yes highlighted in the Registry Editor prompt in Windows 11](https://www.lifewire.com/thmb/tViUCj2SD1eHRKNxSY2gP3-IusQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-change-the-font-in-windows-11-6827640-acbf618a85854ff58bb4ca6f3a0d7384.jpg)
 12. [Reboot your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) to see the font changes. The quickest method is to right-click the Start button and go to**Shut down or sign out** \>**Restart** .
@@ -63,16 +87,16 @@ thumbnail: https://www.lifewire.com/thmb/0mT0cLKbnzK26DxOEQsLWDDJY0s=/400x300/fi
 
 ![Windows 11 font type change in Run and Control Panel](https://www.lifewire.com/thmb/eN6m7hD9Mgh_sWhJB-Jl9QOeR2c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-changed-font-type-control-panel-run-desktop-365bc4a2e315498f96aa4115713f7d59.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, not every part of Windows will change to the new font. All the text within Settings, Start menu, Clock, Quick Settings, and numerous other areas aren't affected.
 
 [Troubleshooting Installed Fonts That Won't Work](https://www.lifewire.com/cant-use-installed-fonts-1074154)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Restore the Default Font in Windows 11
 
@@ -110,19 +134,6 @@ thumbnail: https://www.lifewire.com/thmb/0mT0cLKbnzK26DxOEQsLWDDJY0s=/400x300/fi
 5. If the changes don't take effect immediately (they did for us), reboot your computer.
 
  If you don't have the original REG file readily available to edit, just repeat the steps at the top of this page. When you get to the part about pasting the code into Notepad, use the modified code from Step 2 above, and don't make any changes to it.
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Changing Other Fonts in Windows 11
 
@@ -174,5 +185,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-constructing-emotional-resonance-trailer-sound-selection-guide/"><u>[New] In 2024, Constructing Emotional Resonance Trailer Sound Selection Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-from-capture-to-share-the-art-of-live-360-broadcasting-on-fb/"><u>2024 Approved From Capture to Share The Art of Live 360 Broadcasting on FB</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-itel-a70-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Itel A70 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/immerse-yourself-in-3d-movie-magic-the-best-ways-to-use-fandangos-online-services/"><u>Immerse Yourself in 3D Movie Magic – The Best Ways to Use Fandango's Online Services</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-beautiful-beginnings-creating-your-personalized-glam-vlog/"><u>In 2024, Beautiful Beginnings Creating Your Personalized Glam Vlog</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-huawei-nova-y71-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Huawei Nova Y71</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-look-at-samsung-galaxy-ring-specs-release-timeline-and-more-insights/"><u>Inside Look at Samsung Galaxy Ring: Specs, Release Timeline, and More Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-forefront-ai-an-improved-alternative-to-chatgpt/"><u>Is Forefront AI an Improved Alternative to ChatGPT?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/izing-your-youtube-content-with-ease/"><u>Organizing Your YouTube Content with Ease</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-magic5-ultimate-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Honor Magic5 Ultimate for Parents | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-9-fantastic-sites-for-free-preschool-learning-fun/"><u>Top 9 Fantastic Sites for Free Preschool Learning Fun</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-resolving-wii-disc-playback-errors/"><u>Troubleshooting Tips for Resolving Wii Disc Playback Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-chatgpt-an-overview-of-its-functionality/"><u>Understanding ChatGPT: An Overview of Its Functionality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-features-of-jackery-powerbar-charger-including-its-handy-built-in-ac-port/"><u>Unveiling the Features of Jackery PowerBar Charger, Including Its Handy Built-In AC Port</u></a></li>
+</ul></div>
 

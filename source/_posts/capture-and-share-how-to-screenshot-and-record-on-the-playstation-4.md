@@ -1,7 +1,7 @@
 ---
 title: "Capture and Share: How to Screenshot & Record on the PlayStation 4"
-date: 2024-09-20T05:38:51.526Z
-updated: 2024-09-21T01:35:40.377Z
+date: 2024-09-21T01:08:21.199Z
+updated: 2024-09-26T22:16:06.716Z
 categories:
   - BestProducts
 description: "This Article Describes Capture and Share: How to Screenshot & Record on the PlayStation 4"
@@ -54,8 +54,30 @@ Close
 2. Select**Save Video Clip** .  
 ![A screenshot of the PS4 share menu.](https://www.lifewire.com/thmb/aNt5yII6CchuTu5rIPwH_6z3-PQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vlcsnap-2020-08-08-18h12m16s653-b5937fda0b6c4443b1d9d11684dcacf6.png)
 3. When you see the**Video clip saved message** , your clip has been successfully saved.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![A screenshot of the PS4 share menu showing an uploaded clip.](https://www.lifewire.com/thmb/2CgNDQKxioxMH1wVj_7nUYve9Ys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vlcsnap-2020-08-08-18h12m24s305-e0024de40ecf4f09ac3f8ebb7c40a07b.png)
 4. You can now return to your game and watch your clip later, or immediately head to clip gallery to trim and share your gameplay.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Edit and Share Clips on PS4
 
@@ -68,24 +90,33 @@ Close
 3. Highlight the clip you want to edit or share, and press the**Options** button (oval button to the right of the touchpad).  
 ![A screenshot of clips on a PS4.](https://www.lifewire.com/thmb/N_XfcVKN-wjyMd0lq9kVZS1TUnQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vlcsnap-2020-08-08-17h42m11s808-ceae6bac8db04e53aae68b5db750fa4c.png)  
  If you want to share an unedited clip, press the**Share** button here instead, and skip to step 11.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. From the options menu, select**Trim** to edit your clip.  
 ![A screenshot of the PS4 clip viewer options.](https://www.lifewire.com/thmb/efw9oQZ-2BVB0gXV5TYsScZIoyY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vlcsnap-2020-08-08-17h42m55s582-415e3ecbbe4243d0b85dc490fd5bd5b0.png)
 5. By default, your clip is chopped into 10 second intervals. If you want longer or shorter intervals, highlight and select**10 Second Intervals** .  
 ![A screenshot of the PS4 clip editor.](https://www.lifewire.com/thmb/-typWLhvnq1ki3LUskkUjWLGlI0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vlcsnap-2020-08-08-18h10m45s539-adbb7e9cc8664841bd57407eccfe4101.png)
 6. Select the desired interval.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![A screenshot of PS4 clip interval lengths.](https://www.lifewire.com/thmb/qgEh112HezzVfAiktdh9ZLfOJmk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vlcsnap-2020-08-08-18h10m58s692-cb9dcd3c2f3846deaa6455376276bb99.png)  
  Interval length affects your choices of where you can start and end your clip. When set at 10 seconds, you can start and stop your clip at 10-second intervals. That means your clip can start at 0:10, 0:20, and so on, and it can end at 0:20, 0:30, and so on. Longer lengths make it easier to navigate long clips, while shorter ones allow you to fine-tune your stop and start points.
 7. Highlight the frame where you want your clip to start, and select**Start Here** .  
 ![A screenshot of the PS4 clip editor.](https://www.lifewire.com/thmb/D8UQRT9zuHmU9ilFCY_pVCV9D4c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vlcsnap-2020-08-08-17h43m33s541-d62d32705bbd4f32bdc688ec3f1431d1.png)
 8. Highlight the frame where you want your clip to end, and select**End Here** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![A screenshot of the PS4 clip editor.](https://www.lifewire.com/thmb/TfZPnDBj7NNYVagjbuzE_Jt9dhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vlcsnap-2020-08-08-17h43m58s538-9a3070b175a44fb5a8d05482e9f1275c.png)
 9. Select**OK** .  
 ![A screenshot of an edited clip on PS4 ready to save.](https://www.lifewire.com/thmb/_V1TGyEA_uKMl0-9u50uTDKKmNM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vlcsnap-2020-08-08-17h44m10s692-1476dd145b45422baba7c45a2317b85b.png)
@@ -99,19 +130,6 @@ Close
 ![A screenshot of sharing a PS4 clip.](https://www.lifewire.com/thmb/eItlILDalYnZsWAh5ZFx9-0z4JY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vlcsnap-2020-08-08-17h45m01s215-8b2883c13ae94174ab2495f2c2b2f8e1.jpg)
 14. Your video will upload.  
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![A screenshot of the PS4 wait screen.](https://www.lifewire.com/thmb/aphg0XlxhvvwESnvOi2qtJQRjQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vlcsnap-2020-08-08-17h45m07s667-fca4ea33fafa40188f3e5cc1d927824a.png)  
  If you haven't yet linked your X or YouTube account, you will be prompted to do so.
 
@@ -122,45 +140,52 @@ Close
 1. From the main PS4 menu, navigate to**Settings** .  
 ![A screenshot of the PS4 home screen.](https://www.lifewire.com/thmb/S9HfxOIvLSn8gEZh5n46T2E3qtU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vlcsnap-2020-08-08-18h12m38s862-1f0128b4cfaa495d8bda5fbaaa230db0.png)
 2. Select**Sharing and Broadcasts** .  
-![A screenshot of PS4 settings.](https://www.lifewire.com/thmb/R37gYYB5XpH0veogFmQGD-LM_sU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vlcsnap-2020-08-08-18h12m47s032-7c251c07d85b469f9fa6b6f7e5a8453b.png)
-3. Select**Video Clip Settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![A screenshot of PS4 settings.](https://www.lifewire.com/thmb/R37gYYB5XpH0veogFmQGD-LM_sU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vlcsnap-2020-08-08-18h12m47s032-7c251c07d85b469f9fa6b6f7e5a8453b.png)
+3. Select**Video Clip Settings** .  
 
 ![A screenshot of PS4 Sharing and Broadcast settingss.](https://www.lifewire.com/thmb/38nulfI6vcndhyHkhRVFG7Sa12s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vlcsnap-2020-08-08-18h12m53s214-b3e3f9829870428d902da9b640367223.png)
 4. Select**Length of Video Clip** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![A screenshot of PS4 Video Clip Settings.](https://www.lifewire.com/thmb/Ped4vwxZFrLQ4-AP4gMLu5ny5AE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vlcsnap-2020-08-08-18h13m08s036-c0d03744140041689496f8d1b642eee2.png)
 5. Select the desired length, from**30 seconds** to**60 minutes** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![A screenshot of PS4 video clip length options.](https://www.lifewire.com/thmb/-dJUCu7yK_E3JgPk8BL-B3O4Yuo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vlcsnap-2020-08-08-18h13m19s338-5c339aa0462f4f66a4839bef2db69f6f.png)
 6. Newly recorded clips will now be of your chosen length.  
 ![A screenshot of PS4 video clip settings.](https://www.lifewire.com/thmb/jLeQO2Ul2_93DK4LqeEUyGoN2cg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vlcsnap-2020-08-08-18h13m24s961-3c0edd2d20714495b0e262a7b80c7f09.png)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Saving a PS4 gameplay clip with a PS4 controller in the foreground.](https://www.lifewire.com/thmb/jRjV6Yc1ekA3d8kkl_NAyrQ2ZSA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/saveps4gameplay-fe5d19b66a8e46bc8fec8350be2feadb.jpg) 
 
  Westend61 / Getty 
 
 [ How to Take a Screenshot on PS4 ](https://www.lifewire.com/take-a-screenshot-on-ps4-5088061) 
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How Does Recording Gameplay Work on PS4?
 
@@ -199,5 +224,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-turning-off-instagrams-igtv-in-a-nutshell-for-2024/"><u>[New] Turning Off Instagram's IGTV in a Nutshell for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-from-novice-to-pro-a-tactical-guide-to-snapchat-marketing/"><u>[Updated] In 2024, From Novice to Pro A Tactical Guide to Snapchat Marketing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-master-video-transitions-and-effects-using-gopro-studio-protips/"><u>[Updated] In 2024, Master Video Transitions and Effects Using GoPro Studio ProTips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-revolutionize-your-laptop-experience-innovative-methods-for-screen-capture-for-2024/"><u>[Updated] Revolutionize Your Laptop Experience Innovative Methods for Screen Capture for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-to-excellent-ipadiphone-interview-podcast-recording/"><u>[Updated] Step-by-Step Guide to Excellent iPad/iPhone Interview Podcast Recording</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/animated-text-tips-free-inclusion-techniques-for-2024/"><u>Animated Text Tips Free Inclusion Techniques for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-aether-unveiling-its-nature-and-secrets-of-membership/"><u>Discovering Aether: Unveiling Its Nature & Secrets of Membership</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-infinix-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Infinix</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-installation-tutorial-for-microsoft-office-365-apps-on-pc/"><u>Quick Installation Tutorial for Microsoft Office 365 Apps on PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-clearing-your-macs-dns-cache/"><u>Step-by-Step Guide: Clearing Your Mac's DNS Cache</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-linking-your-nintendo-switch-console-with-your-television/"><u>Step-by-Step Guide: Linking Your Nintendo Switch Console with Your Television</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-gaming-experience-with-steam-modding-tips/"><u>Streamline Your Gaming Experience with Steam Modding Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-finding-or-fixing-mfc7edll-errors/"><u>Troubleshooting Tips for Finding or Fixing Mfc7e.dll Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-success-dominating-apple-tv-with-higher-rankings-and-viewers/"><u>Unlocking Success: Dominating Apple TV with Higher Rankings and Viewers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-tutorial-removing-a-pin-from-windows-10-login-screen/"><u>Unlocking Tutorial: Removing a PIN From Windows 10 Login Screen</u></a></li>
+</ul></div>
 

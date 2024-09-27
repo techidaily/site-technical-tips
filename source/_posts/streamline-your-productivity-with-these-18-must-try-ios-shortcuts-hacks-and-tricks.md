@@ -1,7 +1,7 @@
 ---
 title: Streamline Your Productivity with These 18 Must-Try iOS Shortcuts Hacks and Tricks
-date: 2024-09-15T22:48:11.331Z
-updated: 2024-09-21T05:33:23.530Z
+date: 2024-09-19T16:39:14.740Z
+updated: 2024-09-27T08:40:54.948Z
 categories:
   - BestProducts
 description: This Article Describes Streamline Your Productivity with These 18 Must-Try iOS Shortcuts Hacks and Tricks
@@ -46,6 +46,13 @@ Close
 01
 
 of 18
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## [ Get Instant Directions to Your Next Calendar Event](https://www.icloud.com/shortcuts/cc9ae260917142129fda96eb02d8775d)
 
@@ -105,6 +112,13 @@ of 18
 
 ![iOS shortcut using Giphy to locate GIF files](https://www.lifewire.com/thmb/5SDcmMbljSIdC9U2g8-n4v-UP3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/get-gif-shortcut-iphone-5beb166046e0fb00515190c7-23d34d577c664e15a7559e984144e3c7.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your[ messaging app](https://www.lifewire.com/best-mobile-messaging-apps-2654839) doesn't support a GIF gallery, this Get GIF shortcut is a good alternative.
 
  Use this iOS shortcut as a widget or home screen shortcut. Tap it to browse GIFs, choose one to copy it to the clipboard, then send it in any app.
@@ -116,13 +130,6 @@ of 18
 05
 
 of 18
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## [ Instantly Find the Travel Time to Any Address](https://www.icloud.com/shortcuts/ff987bcf0ad746d496415d7f4c75a872)
 
@@ -153,19 +160,6 @@ of 18
 07
 
 of 18
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## [ Get Directions to the Nearest Gas Station (or Anything Else)](https://www.icloud.com/shortcuts/7522d196308141548f0c01c82abb5329)
 
@@ -237,6 +231,13 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Make GIFs With Your iPhone or iPad
 
 ![Video to GIF iPhone workflow](https://www.lifewire.com/thmb/lw4qe93vQY1ng0cH4pXJNbHO6BQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/video-to-gif-ios-shortcut-5beaf3cac9e77c005217e206.png) 
@@ -307,15 +308,22 @@ of 18
 
 of 18
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [ Find Out Where a Photo Was Taken](https://www.icloud.com/shortcuts/740487c583634505a72e4cddf0aa3803)
 
 ![iOS shortcut on iPhone that shows where an image was taken](https://www.lifewire.com/thmb/0ntsXDI1BIl7c2JoIznQsFfqIHs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/where-was-photo-taken-ios-shortcut-5beaed26c9e77c005132e3a7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This shortcut extracts the GPS from a picture to supply information about where it was taken. That's not all it does. It also shows when the image was taken and how far away it was taken from your current location (if it's more than one mile away). Then, it'll open a navigation program to show the place on the map.
@@ -329,6 +337,13 @@ of 18
 16
 
 of 18
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## [ Record and Text Audio Snippets Automatically](https://www.icloud.com/shortcuts/476cd9f8fcf5432ab2e83a51df54654d)
 
@@ -351,22 +366,15 @@ of 18
 of 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## [ Use Shortcuts as a News Reader](https://www.icloud.com/shortcuts/412843a67543488b8b603c36621df6e2)
 
 ![RSS reader iOS shortcut for iPhone](https://www.lifewire.com/thmb/CZeYxzGi8j8erfA_TyHOpRsmFh0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/rss-reader-ios-shortcut-7a9e35aa917f45a2847a6515b01c97c3.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Shortcuts app includes a newsreader shortcut. Modify this shortcut and make your own custom[ RSS](https://www.lifewire.com/what-is-an-rss-feed-4684568) newsreader. It displays the websites for RSS feeds you set up. Choose a website and select an article to read the news.
 
@@ -385,6 +393,13 @@ of 18
 ## [ Clean Completed Reminders](https://www.icloud.com/shortcuts/fee08d3363334a7c83220f72dfd92110)
 
 ![Clean Completed Reminders iOS shortcut](https://www.lifewire.com/thmb/5hqGwaR8ZFoJMyDjQ5lPp_-StI4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/clean-old-reminders-ios-shortcut-5beafbaec9e77c00515561ab-bec3320e11c04500b90f14ffb6a4558d.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It's easy to get a reminder on your device, dismiss it or complete it, and then leave it in the Reminders app. But doing this clutters the app with old reminders. Use the Clean Completed Reminders shortcut to get rid of them.
 
@@ -423,5 +438,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-revolutionizing-audience-retention-on-youtube-with-these-top-6-techniques/"><u>[New] In 2024, Revolutionizing Audience Retention on YouTube with These Top 6 Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-tuning-into-emotion-background-melodies-in-film/"><u>[New] In 2024, Tuning Into Emotion Background Melodies in Film</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-vloggers-money-saving-camera-recommendations/"><u>[New] Vloggers' Money-Saving Camera Recommendations</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-androids-latest-advancements-for-immersive-video-viewing/"><u>[Updated] 2024 Approved Android's Latest Advancements for Immersive Video Viewing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-essential-tips-for-successful-hulu-capturing-on-various-platforms-for-2024/"><u>[Updated] Essential Tips for Successful Hulu Capturing on Various Platforms for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-navigating-the-world-of-sound-symbols-on-instagram-platform-for-2024/"><u>[Updated] Navigating the World of Sound Symbols on Instagram Platform for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-whatsapps-call-conversation-strategy/"><u>2024 Approved Mastering WhatsApp's Call Conversation Strategy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-productivity-with-split-screen-features-on-macbook-air/"><u>Boost Productivity with Split Screen Features on MacBook Air</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fashioning-a-footprint-fonts-for-visual-stories-in-ae-for-2024/"><u>Fashioning a Footprint Fonts for Visual Stories in AE for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-troubleshooting-for-504-gateway-response-failures/"><u>Mastering Troubleshooting for 504 Gateway Response Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalize-your-pc-display-interactive-and-lively-windows-11-walls/"><u>Revitalize Your PC Display: Interactive and Lively Windows 11 Walls</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rumors-confirmed-detailed-analysis-on-apple-cars-price-tag-availability-and-technical-specs-uncovered/"><u>Rumors Confirmed? Detailed Analysis on Apple Car's Price Tag, Availability, and Technical Specs Uncovered!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-your-android-devices-wi-fi-login-issues/"><u>Solving Your Android Device's Wi-Fi Login Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-linking-your-ps-vr-headset-with-your-personal-computer/"><u>Step-by-Step Guide: Linking Your PS VR Headset with Your Personal Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshoot-and-repair-how-to-solve-the-problem-of-a-missing-or-inaccessible-msidll-file-on-your-pc/"><u>Troubleshoot and Repair: How to Solve the Problem of a Missing or Inaccessible msi.dll File on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-overcoming-shell32dll-error-messages/"><u>Troubleshooting Tips for Overcoming Shell32.dll Error Messages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-is-android-system-intelligence/"><u>What Is Android System Intelligence?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-expect-at-googles-forthcoming-showcase-rumors-vs-reality-check/"><u>What to Expect at Google's Forthcoming Showcase: Rumors vs Reality Check</u></a></li>
+</ul></div>
 

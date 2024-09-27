@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for When Your Surface Pro Won't Connect to Wi-Fi Networks
-date: 2024-09-18T21:31:12.870Z
-updated: 2024-09-21T01:15:08.267Z
+date: 2024-09-22T23:06:43.772Z
+updated: 2024-09-26T17:10:47.887Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Solutions for When Your Surface Pro Won't Connect to Wi-Fi Networks
@@ -34,6 +34,14 @@ thumbnail: https://www.lifewire.com/thmb/xw7M4W7GsgUcw_BgXlYR4mP5L1M=/400x300/fi
 1. Navigate to [Apple's site](https://www.apple.com/) , then select Support from the menu bar at the top of the screen.  
 ![The Support tab highlighted on Apple.com](https://www.lifewire.com/thmb/inhhZBzoQolBN4X3zYE1lDNuELo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/maccheckScreenShot2022-11-07at1.47.22PM-add0e9dafa2d4be9852ce7c1418ac055.jpg)  
  Another option is to visit[Apple support's Documentation site](https://support.apple.com/docs) and select**Mac** from the product category tiles to locate specs for your model.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. On the Support page, scroll down to "Search for topics" and type in your Mac's information (model, year, etc).  
 ![Searching the Support page for a specific model and year of Mac](https://www.lifewire.com/thmb/O_5o--7f-D5Wq3ugFUrbs_sfYck=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/maccheckScreenShot2022-11-07at1.49.10PM-52c2c016edaa482281bfecd37d4a04d1.jpg)
 3. From the results page, select **List of Models** and then choose **Identify your model** .  
@@ -44,6 +52,13 @@ thumbnail: https://www.lifewire.com/thmb/xw7M4W7GsgUcw_BgXlYR4mP5L1M=/400x300/fi
 ![The video support section highlighted on an Apple support page.](https://www.lifewire.com/thmb/Vut63kcRCPdM3twlvvZdkHyREYI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-set-up-dual-monitors-on-a-mac-8b3dbd4db6d44153a19f5760816ee453.jpg)
 
  In this example, you can see that a 2011 MacBook Air 13-inch can display its native resolution on the built-in display while also outputting video to an external display at a resolution of 2560 x 1600 pixels. That means this particular Mac could handle a 1080p display easily, but it wouldn’t work with a 4K monitor.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set Up Dual Monitors On a Mac
 
@@ -59,8 +74,24 @@ thumbnail: https://www.lifewire.com/thmb/xw7M4W7GsgUcw_BgXlYR4mP5L1M=/400x300/fi
 4. Click the**Apple menu** icon.  
 ![The Apple menu icon highlighted in macOS.](https://www.lifewire.com/thmb/mxh256GgttjxNzbQCH3AamswyO8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-set-up-dual-monitors-on-a-mac-dd56d174d1ce4c96a80f72b7ec068a24.jpg)
 5. Click**System Preferences** or**System Settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![System Preferences highlighted in the Apple menu.](https://www.lifewire.com/thmb/4JpDMxtJnbDEsvc34XdH_m9afXA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-set-up-dual-monitors-on-a-mac-d9ed8911ab194b9bbfc2005f2e23f87a.jpg)
 6. Click**Displays** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Displays highlighted in the System Preferences menu.](https://www.lifewire.com/thmb/2Ki-6zTrxQ2qxdC79uadSyAK-_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-set-up-dual-monitors-on-a-mac-31454ee75cf4474ebf7891bb55683ca8.jpg)
 7. On your main display, click**Arrangement** . You may also see this option listed as**Arrange** .  
 ![Arrangement highlighted in the macOS display options.](https://www.lifewire.com/thmb/pMTd1XnM4CtYaZjefKk--lUI8i0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-set-up-dual-monitors-on-a-mac-2fb97248394e426f9f4fb3a5c8c1cf71.jpg)
@@ -70,14 +101,43 @@ thumbnail: https://www.lifewire.com/thmb/xw7M4W7GsgUcw_BgXlYR4mP5L1M=/400x300/fi
 9. Click and drag the**secondary monitor** into the correct position.  
 ![Dragging a monitor in the macOS display arrangement options.](https://www.lifewire.com/thmb/Q0CDCStfMtH5VOEENcMuTyBMNFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010-how-to-set-up-dual-monitors-on-a-mac-c1698ef24b964ab0a328d4f7837ab636.jpg)
 10. Release your mouse or trackpad, and the secondary monitor will drop into the position you chose.  
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![A repositioned monitor in the macOS display settings.](https://www.lifewire.com/thmb/wJRGi-TYH_drHpFkVwUUUsGwyhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011-how-to-set-up-dual-monitors-on-a-mac-af14ecad77c74d0d94786be55ffb58d9.jpg)
 11. On your main display, make sure to deselect the screen mirroring box or that you've selected**Main display** from the**Use as** drop-down menu.  
 ![The Mirror Displays checkbox highlighted in the macOS display arrangement options.](https://www.lifewire.com/thmb/OKWCXoNThJXXF2XOMIt65lbHZXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-set-up-dual-monitors-on-a-mac-e3112b85c90e4841af282cc55252aa31.jpg)  
  If the mirror displays box is checked, both monitors will show the same image at all times.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 12. Click the correct resolution for your display.  
 ![1920x1080 highlighted on a stretched out macOS screenshot.](https://www.lifewire.com/thmb/GvKW6t3G5foY659NnIcCpKLzLZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/013-how-to-set-up-dual-monitors-on-a-mac-36fd1e7b5aec4230ae0599a4c1c8637a.jpg)  
  Select the built-in resolution for your monitor for the best results. It needs to be equal to or lower than the resolution that your Mac is capable of handling.
 13. Make sure the image doesn't look stretched, squashed, discolored, or anything. If it doesn't look right, click**Scaled** or choose an option from the resolutions thumbnails.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### {"uuid":null,"data":{"theme":"EXPERTTIPTIP","heading":"","html":"
 
@@ -87,22 +147,8 @@ thumbnail: https://www.lifewire.com/thmb/xw7M4W7GsgUcw_BgXlYR4mP5L1M=/400x300/fi
 ![Scaled highlighted on a stretched out macOS screenshot.](https://www.lifewire.com/thmb/z9-zDidSFLsmsKDbeyXx7d2Q0nQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012-how-to-set-up-dual-monitors-on-a-mac-99d4162949824710bf94d14c241dd835.jpg)  
  Depending on your Mac and external displays, you may see other configuration options, such as selecting a color profile or refresh rate.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 14. If your second display looks right, you can close the display settings and start using your Mac with the external monitors.  
 ![A correctly configured dual display on a Mac.](https://www.lifewire.com/thmb/en5LgT1ksGm2CaguuK0bgx5MO-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2021-03-20at2.44.42PM-dda66002386d4ba28afb158fbf36f07b.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up Displays Wirelessly in Ventura
 
@@ -111,13 +157,6 @@ thumbnail: https://www.lifewire.com/thmb/xw7M4W7GsgUcw_BgXlYR4mP5L1M=/400x300/fi
  To add your iPad, Apple TV, etc. as an extra display, open the**Apple menu** on your Mac and select**System Settings** \>**Displays** . Next, open the**\+ (Plus)** drop-down menu and choose the device you want to start using.
 
 ![Ventura (macOS13) Displays menu](https://www.lifewire.com/thmb/Dz1wJwmTTaNUZvR_gFDkZWbOe30=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/venturawirelessdisplay-e653807f1afe48eb873994101bd07b38.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Choose a Monitor for a Mac
 
@@ -130,6 +169,13 @@ thumbnail: https://www.lifewire.com/thmb/xw7M4W7GsgUcw_BgXlYR4mP5L1M=/400x300/fi
  If you have a desktop Mac that already has a monitor, matching that monitor with another identical unit provides the smoothest experience.
 
  If you’re adding a second monitor to your MacBook, you may want to consider going with a bigger 4K monitor to maximize your screen real estate or a compact flat panel display that you can take with you on the go.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ports and Inputs
 
@@ -175,5 +221,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-poptoons-ultimate-insight-24-annual/"><u>[Updated] In 2024, PopToons Ultimate Insight '24 Annual</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-y56-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo Y56 5G Unlock Without Password</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/can-you-get-rid-of-the-standard-apps-that-come-with-your-iphone/"><u>Can You Get Rid of the Standard Apps that Come with Your iPhone?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-fixing-unresolvable-hardware-issues-a-users-handbook/"><u>Diagnosing and Fixing Unresolvable Hardware Issues: A User's Handbook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/editing-instagram-messages-made-simple-essential-techniques-and-tips/"><u>Editing Instagram Messages Made Simple: Essential Techniques and Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-these-10-fantastic-no-cost-substitutes-to-your-favorite-netflix/"><u>Enjoy These 10 Fantastic No-Cost Substitutes to Your Favorite: Netflix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-birth-of-a-giant-what-was-netflix-before-streaming-took-over/"><u>Exploring the Birth of a Giant: What Was Netflix Before Streaming Took Over?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-an-unresponsive-ios-email-client-on-iphone-devices/"><u>How to Fix an Unresponsive iOS Email Client on iPhone Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-lava-agni-2-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Lava Agni 2 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/luminous-landscapes-mastering-nightscape-portraits-with-precision-for-2024/"><u>Luminous Landscapes Mastering Nightscape Portraits with Precision for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reinstating-your-social-presence-a-guide-to-re-enable-your-snapchat/"><u>Reinstating Your Social Presence: A Guide to Re-Enable Your Snapchat</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-xiaomi-redmi-note-12t-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-rise-of-internet-culture-decoding-memes-for-beginners/"><u>The Rise of Internet Culture: Decoding Memes for Beginners</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tiff-online-movavi/"><u>Tiff 파일을 무료로 Online 격리: Movavi의 이상적인 방법</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-recommended-accessories-seamless-connectivity-from-4k-to-8k-monitors-using-usb-c-ports-insights-for-windows-and-mac-users-zdnet/"><u>Top Recommended Accessories: Seamless Connectivity From 4K to 8K Monitors Using USB-C Ports - Insights for Windows and Mac Users | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-samsung-galaxy-z-fold-6-launch-details-costs-and-latest-features/"><u>Unveiling the Samsung Galaxy Z Fold 6 - Launch Details, Costs & Latest Features</u></a></li>
+</ul></div>
 

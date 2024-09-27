@@ -1,7 +1,7 @@
 ---
 title: Essential Factors to Consider Before Purchasing Your Next Projector
-date: 2024-09-16T20:18:19.375Z
-updated: 2024-09-21T04:52:11.823Z
+date: 2024-09-23T03:13:25.353Z
+updated: 2024-09-26T18:20:44.466Z
 categories:
   - BestProducts
 description: This Article Describes Essential Factors to Consider Before Purchasing Your Next Projector
@@ -34,6 +34,14 @@ These instructions only work with a single page of code.
 2. In the**Text** group, select**Object** .  
 ![A Word document with the Object option highlighted in the Insert menu](https://www.lifewire.com/thmb/opt-Q1YQfqT2MaDUICEGskPbmMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-insert-source-code-into-word-document-3994582-939bbef12a77474cbc646e7bfca9da48.jpg)
 3. From the**Create New** tab, select**Microsoft Word Document** .  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Create New Object box in Word with the Microsoft Word Document option highlighted](https://www.lifewire.com/thmb/ubtpMlrpJY0mh1rhIZL7mTUeCd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-insert-source-code-into-word-document-3994582-1f1467fff74c4365913779c89a44dbaa.jpg)  
  In Word 2007, select**OpenDocument Text** .
 4. Clear the**Display as icon** check box.  
@@ -44,8 +52,23 @@ These instructions only work with a single page of code.
 7. [Copy and paste the source code](https://www.lifewire.com/cut-copy-and-paste-in-microsoft-word-4159583) into the new document. Word automatically ignores the spaces, tabs, and other formatting problems. Spelling errors and grammatical errors are highlighted in the document, but these errors are ignored when the code is inserted in the original document.  
 ![Microsoft Word displaying source code to insert into a Word presentation document](https://www.lifewire.com/thmb/AxWUG0N0zvb3wxwA_zIcMWY9qiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NewSourceCode-d276da35f0ba4f36aafddaa578cad3b0.jpg)
 8. Save and close the source code document. The code automatically appears in the main document.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Microsoft Word document with source code inserted](https://www.lifewire.com/thmb/7dbJ_9k3xe_LaP-2rOEy3ktFY-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PresentationWithCode-dc19c6dcca694a798e9e41a2be2eac71.jpg)  
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Using Different Paste Types in Word
 
@@ -58,10 +81,10 @@ These instructions only work with a single page of code.
 * **Unformatted Unicode Text** : Pastes the text as is but strips the text and background colors. Re-format the code as needed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Problem With Using Source Code in Word
@@ -108,5 +131,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/a-complete-breakdown-of-googles-podcast-system/"><u>A Complete Breakdown of Google's Podcast System</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/be-a-social-media-wizard-best-tweeter-video-tools/"><u>Be a Social Media Wizard Best Tweeter Video Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/declutter-your-gmail-with-simple-labeling-techniques-master-the-art-of-message-categorization/"><u>Declutter Your Gmail with Simple Labeling Techniques: Master the Art of Message Categorization</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-the-pack-premium-ps5-dualsense-controllers-chargers/"><u>Leading the Pack: Premium PS5 DualSense Controllers Chargers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-your-next-vacation-66-twitter-personalities-revealing-hidden-gems-insider-info-and-breathtaking-experiens/"><u>Navigate Your Next Vacation: 66 Twitter Personalities Revealing Hidden Gems, Insider Info & Breathtaking Experiens</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-playback-fixing-the-slowdown-in-your-spotify-web-player-for-faster-streams/"><u>Optimizing Playback: Fixing the Slowdown in Your Spotify Web Player for Faster Streams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rumored-details-about-the-imminent-launch-of-google-pixel-9-price-guesswork-specs-insight-and-release-forecast/"><u>Rumored Details About the Imminent Launch of Google Pixel 9 - Price Guesswork, Specs Insight, and Release Forecast</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-oppo-a58-4g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Oppo A58 4G Android SIM Unlock APK</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/trouble-connecting-to-twitch-know-the-difference-between-platform-downtime-and-local-problems/"><u>Trouble Connecting to Twitch? Know the Difference Between Platform Downtime and Local Problems</u></a></li>
+</ul></div>
 

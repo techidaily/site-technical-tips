@@ -1,7 +1,7 @@
 ---
 title: How to Use Pages Documents on Windows and macOS - A Comprehensive Tutorial
-date: 2024-09-13T16:36:13.471Z
-updated: 2024-09-21T05:32:56.649Z
+date: 2024-09-24T23:31:52.185Z
+updated: 2024-09-27T01:40:38.721Z
 categories:
   - BestProducts
 description: This Article Describes How to Use Pages Documents on Windows and macOS - A Comprehensive Tutorial
@@ -35,6 +35,13 @@ thumbnail: https://www.lifewire.com/thmb/GdEWlOHDZH7QGIFlT9ApWWKGuXU=/400x300/fi
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What to Do When You Can't Connect to Discord
 
  There are several things you can try if Discord seems to be working fine for everyone else, but you're still having[connection issues](https://www.lifewire.com/fix-connection-issues-discord-5086484) :
@@ -50,6 +57,19 @@ thumbnail: https://www.lifewire.com/thmb/GdEWlOHDZH7QGIFlT9ApWWKGuXU=/400x300/fi
 8. It's unlikely, but there could be an issue with your[DNS server](https://www.lifewire.com/what-is-a-dns-server-2625854) . If you want to try[switching DNS servers](https://www.lifewire.com/how-to-change-dns-server-settings-2617979) , there are plenty of ways to do so with a[free and public option](https://www.lifewire.com/free-and-public-dns-servers-2626062) , although bear in mind that it's quite an advanced solution.
 
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Discord Error Messages
 
@@ -89,12 +109,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/he-greatest-to-growth-youtube-stars-with-soaring-subs/"><u>[New] The Greatest to Growth YouTube Stars with Soaring Subs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-navigating-zoom-settings-for-top-notch-audio-capture/"><u>[Updated] In 2024, Navigating ZOOM Settings for Top-Notch Audio Capture</u></a></li>
+<li><a href="https://win-able.techidaily.com/46mv/"><u>「乃木坂46」メンバーの最新MVダウンロード手順</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-laughter-legends-unwrapping-goofy-odyssey/"><u>2024 Approved 'Laughter Legends' - Unwrapping 'Goofy Odyssey'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/blocking-mystery-calls-on-iphone-a-comprehensive-tutorial/"><u>Blocking Mystery Calls on iPhone - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-overview-of-cloud-gaming-on-xbox-game-pass-ultimate/"><u>Comprehensive Overview of Cloud Gaming on Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-guide-repairing-stuck-media-players-in-computers-and-laptops/"><u>DIY Guide: Repairing Stuck Media Players in Computers and Laptops</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-tech-help-making-your-ipad-and-printer-work-together-successfully/"><u>DIY Tech Help: Making Your iPad and Printer Work Together Successfully</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-iis-manager-entry/"><u>Essential Tips for IIS Manager Entry</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-ssleay32dll-is-missing-or-not-found-errors/"><u>How to Fix Ssleay32.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lenovo-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Lenovo Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-your-engineering-skills-using-free-cad-tools-we-love/"><u>Maximize Your Engineering Skills Using Free CAD Tools We Love</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-integration-running-your-favorite-android-apps-on-windows-11/"><u>Seamless Integration: Running Your Favorite Android Apps on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-issue-why-your-youtube-comments-are-not-appearing/"><u>Solving the Issue: Why Your YouTube Comments Are Not Appearing</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-recurrent-frost-phenomena-on-earths-novel-environment-solutions-and-insights/"><u>Understanding Recurrent Frost Phenomena on Earth's Novel Environment: Solutions and Insights</u></a></li>
+</ul></div>
 

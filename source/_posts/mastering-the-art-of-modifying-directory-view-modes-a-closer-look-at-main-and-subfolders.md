@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Modifying Directory View Modes: A Closer Look at Main and Subfolders"
-date: 2024-09-14T04:11:50.105Z
-updated: 2024-09-20T20:43:10.116Z
+date: 2024-09-23T05:55:38.668Z
+updated: 2024-09-26T16:49:03.254Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Art of Modifying Directory View Modes: A Closer Look at Main and Subfolders"
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/ae6f5dcb864372a7daff39d6864d42313e356ceda
 
 ![Firefox clear all history screen](https://www.lifewire.com/thmb/Z-PhwIX7FXMCbSNS9MF4E7XIaL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/firefox-cache-clear-all-d35c19a29c2b45fbaead6f80f0231835.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don't forget to choose**Everything** from the**Time range to clear** section, assuming that's your intent.
 
  Follow these steps to get to that screen through the Firefox settings menu:
@@ -63,6 +70,14 @@ thumbnail: https://thmb.techidaily.com/ae6f5dcb864372a7daff39d6864d42313e356ceda
 1. In Firefox's menu button (the three-lined hamburger icon), select**Settings** .  
 ![The Firefox menu in Windows](https://www.lifewire.com/thmb/D8-cMayZxLKdXZ4-m6_U2i0-W0g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/firefox-menu-2516fa793c7c4037b7195c85ad0ad39e.png)
 2. Choose**Privacy & Security** from the left, then scroll to**Cookies and Site Data** on the right.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select**Clear Data** .  
 ![A screenshot of Firefox Privacy & Security settings with the Clear Data button highlighted](https://www.lifewire.com/thmb/305zytHAvtTSwvpHVrJleyrOKPs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011-how-to-clear-cache-2617980-fcf21f4998eb49a4ba554b437480495b.jpg)
 4. In the Clear Data screen that opens, select**Cached Web Content** . The other option, if selected, will delete the cookies in Firefox.  
@@ -83,27 +98,20 @@ thumbnail: https://thmb.techidaily.com/ae6f5dcb864372a7daff39d6864d42313e356ceda
 
 [Firefox Focus Can Now Block Cross-Site Cookie Tracking](https://www.lifewire.com/how-to-use-firefox-focus-4588143)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Clear Safari's Browsing Cache
 
  In Apple's Safari browser on a Mac, clearing the cache is done directly from the menu bar. Go to**Develop** \>**Empty Caches** . You can also clear the cache in Safari on a Mac using the**Option** +**Command** +**E** keyboard shortcut.
 
 ![Safari window showing Develop > Empty Caches](https://www.lifewire.com/thmb/7PJ9p7azS1KiHkCpd8srSLt-LiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-clear-cache-2617980-193b017602454678abc4ba5c7685d41f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don't see**Develop** on your Safari menu bar, go to**Safari** \>**Preferences** \>**Advanced** , and then select**Show Develop menu in menu bar** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Clear Cache in the Safari Mobile App
 
@@ -115,10 +123,10 @@ thumbnail: https://thmb.techidaily.com/ae6f5dcb864372a7daff39d6864d42313e356ceda
 ![The Safari Clear History screen on iPhone](https://www.lifewire.com/thmb/u987Oij4-TyOMAjmwZ7rRYWH6R8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-safari-clear-all-history-5691796f4ca448ecb44737cecb5d6c86.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Purge Cache in Opera
@@ -137,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/ae6f5dcb864372a7daff39d6864d42313e356ceda
 4. Opera automatically selects all items you can delete, including**Cached images and files** . Confirm that you want to erase the chosen items.
 5. Select**Clear data** .  
 ![The Clear Browsing Data window in the Opera web browser](https://www.lifewire.com/thmb/a2NGZuHErqbxjviG1W2pkmcJYv8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-clear-browsing-data-54dc8193e8224f8b885847ed0216a607.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Clear Cache in the Opera Mobile Browser
 
@@ -170,9 +171,24 @@ thumbnail: https://thmb.techidaily.com/ae6f5dcb864372a7daff39d6864d42313e356ceda
 1. Select the**three-dotted menu** at the top right of the program, then select**Settings** .  
 ![A screenshot of Microsoft Edge with the Settings option highlighted](https://www.lifewire.com/thmb/wVGURGBYtVd6ssyHDuyiu6CMC6s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-using-cortana-in-microsoft-edge-4059577-8393dcbb21994501ab74592b86eacb2c.jpg)
 2. Select**Privacy, search, and services** on the left followed by**Choose what to clear** on the right.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Privacy, Search, and Services tab selected in the Edge browser](https://www.lifewire.com/thmb/CW8mbgslkfinSW15SA4Bi0Vez9c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-privacy-settings-9658d15cdccf4b46b41eddf5d7d40c5c.png)
 3. To purge the browsing cache in Edge, make sure**Cached images and files** is selected, then click**Clear now** . You can also clear the cookies, browsing history, and more.  
 ![The cached images and files option chosen in the Edge delete browsing data prompt](https://www.lifewire.com/thmb/xxLrSqvF_B_JmonmgYMDBwmToSQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-clear-cache-files-98bb06bbb1354b76b7ebec2211543348.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Clear Cache in the Edge Mobile Browser
 
@@ -182,6 +198,14 @@ thumbnail: https://thmb.techidaily.com/ae6f5dcb864372a7daff39d6864d42313e356ceda
 2. Select**Privacy and security** .  
 ![The Settings menu in the Edge app for Android](https://www.lifewire.com/thmb/nuBRJxQM93yj8WccPL0wE_c1dC0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-app-settings-27546193cfb3412b90621c649bf4b9ba.png)
 3. Tap**Clear browsing data** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Make sure**Cached images and files** is selected. This screen is also how you can delete other items like cookies and autofill data.  
  Change the time range to**All time** if you want to clear the whole cache.
 5. Tap**Clear data** on Android. For iOS, choose**Clear now** and then confirm by tapping the same button.  
@@ -210,10 +234,10 @@ thumbnail: https://thmb.techidaily.com/ae6f5dcb864372a7daff39d6864d42313e356ceda
 ![The Clear browsing data screens in the Vivaldi app for Android](https://www.lifewire.com/thmb/rRG9GJVd6X3caXhuEcfS1bqvN_I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vivaldi-app-clear-browsing-data-04e526e7e8174f4a85d07a85a8480757.png)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Exactly Is Cache?
@@ -281,5 +305,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-the-social-media-labyrinth-30-marketing-secrets/"><u>[New] Navigating the Social Media Labyrinth 30 Marketing Secrets</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-audio-upheavals-top-rhythmic-disruptors-for-devices-for-2024/"><u>[Updated] Audio Upheavals Top Rhythmic Disruptors for Devices for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-audio-capture-from-facetime-chats/"><u>[Updated] In 2024, Mastering Audio Capture From FaceTime Chats</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-look-at-samsung-galaxy-s8-in-4k/"><u>[Updated] The Ultimate Look at Samsung Galaxy S8 in 4K</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-avi-files-into-mkv-format-for-free-a-step-by-step-guide-using-vlc-and-handbrake/"><u>Convert AVI Files Into MKV Format for Free: A Step-by-Step Guide Using VLC and Handbrake</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/convertir-sin-costo-tus-archivos-flac-a-formato-aiff-en-linea-facilmente-movavi/"><u>Convertir Sin Costo Tus Archivos FLAC a Formato AIFF en Línea Fácilmente - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-day-to-day-life-smart-strategies-for-leveraging-chatgpt-effectively/"><u>Elevate Your Day-to-Day Life: Smart Strategies for Leveraging ChatGPT Effectively</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-your-perfect-match-with-these-easy-to-use-free-digital-planners/"><u>Find Your Perfect Match With These Easy to Use, Free Digital Planners</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/introduction-to-aether-an-exploration-of-its-essence-and-entry-methods/"><u>Introduction to Aether - An Exploration of Its Essence and Entry Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macbook-air-locked-up-follow-these-techniques-for-quick-unfreeze-solutions/"><u>MacBook Air Locked Up? Follow These Techniques for Quick Unfreeze Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-putting-keys-back-on-your-damaged-laptop-keyboard-learn-how-now/"><u>Master the Art of Putting Keys Back on Your Damaged Laptop Keyboard - Learn How Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-chatgpt-the-ultimate-text-based-rpg-guide/"><u>Mastering ChatGPT: The Ultimate Text-Based RPG Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-mobile-reading-secrets-to-buying-and-enjoying-ebooks-on-ios-equipment-via-apples-digital-library/"><u>Mastering Mobile Reading: Secrets to Buying and Enjoying eBooks on iOS Equipment via Apple's Digital Library</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-subscriber-identification-on-youtube/"><u>Mastering Subscriber Identification on YouTube</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028125942-mp4wmv/"><u>MP4ファイルの拡張子をWMVに変換する簡単なガイド</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ps5-controller-power-problems-heres-how-to-get-it-charging-again/"><u>PS5 Controller Power Problems? Here's How to Get It Charging Again!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/roku-free-ways-to-access-and-enjoy-content-on-the-roku-channel/"><u>Roku-Free Ways to Access and Enjoy Content on The Roku Channel</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-for-resolving-cant-find-dll-error-messages/"><u>Troubleshooting Steps for Resolving 'Can't Find DLL' Error Messages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-rectifying-the-401-unauthorized-http-response-problems/"><u>Understanding & Rectifying the 401 Unauthorized HTTP Response Problems</u></a></li>
+</ul></div>
 

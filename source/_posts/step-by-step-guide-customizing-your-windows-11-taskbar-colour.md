@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Customizing Your Windows 11 Taskbar Colour"
-date: 2024-09-13T18:34:37.320Z
-updated: 2024-09-20T17:45:25.002Z
+date: 2024-09-21T08:44:10.862Z
+updated: 2024-09-26T18:44:17.694Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Customizing Your Windows 11 Taskbar Colour"
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 !["cmd" typed into Windows 11 start menu search box](https://www.lifewire.com/thmb/1d41kEyvl2KNY_b_cnc6DgiIehk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-cmd-start-menu-a8c1d7d009f64856902c83e8e418563b.png)  
  If you're using the latest version of Windows 11, Command Prompt will open within[Terminal](https://www.lifewire.com/windows-terminal-4779951) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
 
 ### Open Command Prompt Through the Start Menu Folder
@@ -44,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Open Command Prompt Using Power User Menu
@@ -56,7 +63,21 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
 
@@ -70,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -87,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 3. Choose**Command Prompt** from the list of programs.
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Other Ways to Open Command Prompt
 
@@ -157,5 +164,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-platforms-for-amplifying-youtube-content/"><u>[New] Top Platforms for Amplifying YouTube Content</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-dissecting-the-livestream-battlefield-twitch-vs-youtube/"><u>[Updated] 2024 Approved Dissecting the Livestream Battlefield Twitch vs YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-chromatic-spectrums-captured-a-deep-dive-into-4k-blade-tech/"><u>[Updated] Chromatic Spectrums Captured A Deep Dive Into 4K Blade Tech</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-pinnacle-of-presence-a-strategic-approach-for-live-video-graphics/"><u>[Updated] Pinnacle of Presence A Strategic Approach for Live Video Graphics</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-transforming-ideas-into-impactful-scenes-through-dialogue/"><u>[Updated] Transforming Ideas Into Impactful Scenes Through Dialogue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beyond-hype-assessing-the-genuine-ecological-footprint-of-evs/"><u>Beyond Hype: Assessing the Genuine Ecological Footprint of EVs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/brighten-up-your-desktop-techniques-for-adjusting-mac-folder-colors/"><u>Brighten Up Your Desktop: Techniques for Adjusting Mac Folder Colors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/configuring-your-external-drive-as-a-network-location-on-a-mac-computer/"><u>Configuring Your External Drive as a Network Location on a Mac Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/getting-windows-10-driver-updates-done-in-a-flash-tips-and-tricks/"><u>Getting Windows 10 Driver Updates Done in a Flash: Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-clear-cmos-aka-reset-bios-settings/"><u>How to Clear CMOS (AKA Reset BIOS Settings)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-secure-your-x-profile-by-changing-your-password-on-the-platform/"><u>How to Secure Your X Profile by Changing Your Password on the Platform</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-asus-rog-phone-7-ultimate-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Asus ROG Phone 7 Ultimate to New Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-realme-c33-2023-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Realme C33 2023 to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-professional-streaming-best-devices-to-record-live-sessions/"><u>In 2024, Professional Streaming Best Devices to Record Live Sessions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-common-errors-a-user-friendly-guide-when-netflix-wont-stream-titles-correctly/"><u>Overcoming Common Errors: A User-Friendly Guide When Netflix Won’t Stream Titles Correctly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-the-sound-a-guide-to-restoring-audio-on-non-functional-receivers/"><u>Reviving the Sound: A Guide to Restoring Audio on Non-Functional Receivers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/screen-success-brand-endorsement-strategies/"><u>Screen Success Brand Endorsement Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-iphones-silent-mode-a-step-by-step-guide/"><u>Solving iPhone's Silent Mode: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-of-6-must-play-super-mario-games-for-pc-gamers/"><u>The Ultimate Selection of 6 Must-Play Super Mario Games for PC Gamers</u></a></li>
+</ul></div>
 

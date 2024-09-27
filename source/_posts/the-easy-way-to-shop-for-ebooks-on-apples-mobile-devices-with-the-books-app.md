@@ -1,7 +1,7 @@
 ---
 title: The Easy Way to Shop for eBooks on Apple's Mobile Devices with the Books App
-date: 2024-09-19T03:18:03.366Z
-updated: 2024-09-20T16:20:18.153Z
+date: 2024-09-23T17:27:47.075Z
+updated: 2024-09-27T10:02:53.208Z
 categories:
   - BestProducts
 description: This Article Describes The Easy Way to Shop for eBooks on Apple's Mobile Devices with the Books App
@@ -36,10 +36,25 @@ thumbnail: https://www.lifewire.com/thmb/A0hFRE8hTPHd0-nsGERrPWfP8U8=/400x300/fi
  You can also select Audiobooks to view those options, or tap**Search** to enter a specific item.  
 ![Book Store icon in Books app on iPad](https://www.lifewire.com/thmb/dWyvMlNlzcazLAoxFdhuI04QO74=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_buy-ebooks-at-ibookstore-ipad-1999866-1d475f87c4434bd1b372d51fe0e67b5b.jpg)
 3. Find and select the e-book you want to order to open its information screen.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Apple Books New This Week section on iPad](https://www.lifewire.com/thmb/WN_yOzmbtUggcZkPINQNAZ0I1cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-book-store-254be83453ed4e1baa39aec617a0acea.PNG)
 4. Tap**Buy** and then confirm the order to purchase the e-book.  
  If the title you chose is free, select**Get** to download it to your device.  
 ![Buy button in Books app on iPad](https://www.lifewire.com/thmb/s8QY8eeGK6W5WDxifBDdoVj1jbE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_buy-ebooks-at-ibookstore-ipad-1999866-6190920ff7254f0f80b8ad8e8cf6a5c5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Similar to App Store and subscriptions on your iPhone or iPad, Books purchases use your iCloud payment method. You can[view details and make updates](https://www.lifewire.com/change-itunes-account-details-2000448) from Settings.
 
@@ -48,6 +63,13 @@ thumbnail: https://www.lifewire.com/thmb/A0hFRE8hTPHd0-nsGERrPWfP8U8=/400x300/fi
  If you purchased a book or[downloaded](https://www.lifewire.com/uploading-and-downloading-online-3985950) a free e-book, the information screen for the book changes to show a Read button. Tap**Read** to start reading the book.
 
 ![Read button in Books app on iPad](https://www.lifewire.com/thmb/SerpnZPTaDQhmYQpcPOcWlhOtw8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_buy-ebooks-at-ibookstore-ipad-1999866-b2cafab437ca453091185f06bf1fd04b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another way to read a book is to go to the Library. Every book you add to the Books app is stored there—including books you ordered from the Books app, transferred to your device from other apps, or copied to your iPad or iPhone.
 
@@ -60,10 +82,16 @@ thumbnail: https://www.lifewire.com/thmb/A0hFRE8hTPHd0-nsGERrPWfP8U8=/400x300/fi
  To return to your other e-books, tap once to show the menu, then select the back arrow or**x** .
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tips on Buying E-Books With Apple Books
@@ -106,5 +134,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-taming-echoes-syncing-voices-to-obs-channel/"><u>[New] Taming Echoes Syncing Voices to OBS Channel</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-convert-instagram-video-to-mp4-2-proven-ways/"><u>[Updated] How to Convert Instagram Video to MP4 [ 2 Proven Ways]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sounds-of-laughter-top-ringtones-downloaders/"><u>2024 Approved Sounds of Laughter Top Ringtones Downloaders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/are-ps4-classics-compatible-with-sonys-latest-playstation-5-hardware/"><u>Are PS4 Classics Compatible with Sony's Latest PlayStation 5 Hardware?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conquering-the-arena-insights-into-successful-pokemon-unite-play/"><u>Conquering the Arena: Insights Into Successful 'Pokémon Unite' Play</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/customizing-your-smart-tv-wallpaper-with-chromecast/"><u>Customizing Your Smart TV Wallpaper with Chromecast</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/decoding-the-secret-of-highest-quality-youtube-mp3s/"><u>Decoding the Secret of Highest Quality YouTube MP3s</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-overcome-the-steam-disk-write-failure/"><u>Effective Strategies to Overcome the Steam Disk Write Failure</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-realme-narzo-n55-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share Location in Messenger On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nubia-data-retrieval-tool-restore-lost-data-from-nubia-by-fonelab-android-recover-data/"><u>Nubia Data Retrieval tool – restore lost data from Nubia</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/safeguarding-information-the-risks-of-model-inversion-attacks-on-neural-networks-in-chatbots/"><u>Safeguarding Information: The Risks of Model Inversion Attacks on Neural Networks in Chatbots</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sonys-latest-insights-key-updates-breaking-news-and-exclusive-info/"><u>Sony's Latest Insights : Key Updates, Breaking News & Exclusive Info</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tackling-noisy-or-disruptive-printers/"><u>Tackling Noisy or Disruptive Printers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-enjoying-discoveryplus-in-july-2024-our-favorites-unveiled/"><u>The Ultimate Guide to Enjoying Discovery+ in July 2024: Our Favorites Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-non-responsive-amazon-echo-devices/"><u>Troubleshooting Steps: Resolving Non-Responsive Amazon Echo Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-common-mapi32dll-not-detected-or-absent-problems/"><u>Troubleshooting the Common Mapi32.dll Not Detected or Absent Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-we-know-about-the-latest-xbox-vr-innovation-price-release-date-and-more-insider-info/"><u>What We Know About the Latest Xbox VR Innovation – Price, Release Date & More Insider Info</u></a></li>
+</ul></div>
 

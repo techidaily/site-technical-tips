@@ -1,7 +1,7 @@
 ---
 title: Insights Into PS5 Slim Release Timeline, Cost, and Technical Specifications
-date: 2024-09-14T23:37:47.167Z
-updated: 2024-09-21T04:09:12.299Z
+date: 2024-09-26T00:05:12.091Z
+updated: 2024-09-26T18:53:37.802Z
 categories:
   - BestProducts
 description: This Article Describes Insights Into PS5 Slim Release Timeline, Cost, and Technical Specifications
@@ -29,6 +29,13 @@ thumbnail: https://www.lifewire.com/thmb/vlIv_3iTK-DDHacZqiUmDg2fOTg=/400x300/fi
 
  Sony revealed the PS5 Slim officially on October 10, 2023\. It launched in November 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## PS5 Slim Price
 
  The PlayStation 5 Slim comes in two versions, just like the original. One has a disc drive, and the other is digital-only. We thought it would see a price cut over the original MSRP, but that doesn't seem to be the case.
@@ -45,6 +52,13 @@ Sony
 
 [  Here's what we think the PS5 Pro will cost ](https://www.lifewire.com/playstation-5-pro-7966359) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  PlayStation 5 Slim Features & Specs
 
  Per Sony, the new PS5 is more than 30% smaller (by volume), and 18 or 24% lighter (depending on model) than the original version. Rather than the current PS5's two side panels, the new ones have four: The top two are glossy, while the bottom ones are the same matte finish as the current lineup.
@@ -60,10 +74,10 @@ Sony
 Sony
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Latest News About the PS5 Slim
@@ -76,16 +90,16 @@ Sony
 
 [ The Best Gaming Consoles of 2024 ](https://www.lifewire.com/best-gaming-consoles-4154610) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### PS5 Slim w/ Disc Drive
 
  Orig.$500 [ $450 at Best Buy ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fplaystation-5%2Fps5-consoles%2Fpcmcat1587395025973.c%3Fid%3Dpcmcat1587395025973) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### PS5 Slim Digital Edition
 
@@ -104,5 +118,18 @@ Sony
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-leading-edge-top-10-advanced-vimeo-video-extraction-sites/"><u>[New] 2024 Approved Leading Edge Top 10 Advanced Vimeo Video Extraction Sites</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-master-guide-to-online-video-calls-free-edition-best/"><u>[Updated] 2024 Approved Master Guide to Online Video Calls Free Edition Best</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sky-dominance-top-5-fpv-glasses-for-pilots/"><u>[Updated] Sky Dominance Top 5 FPV Glasses for Pilots</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-these-top-12-gratis-typewriting-classes-designed-just-right-for-any-ages/"><u>Explore These Top 12 Gratis Typewriting Classes Designed Just Right for Any Ages!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/foundations-in-chinese-typography/"><u>Foundations in Chinese Typography</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-battery-usage-on-windows-10-tips-and-tricks-from-the-power-and-sleep-journal/"><u>Mastering Battery Usage on Windows 10: Tips and Tricks From the Power & Sleep Journal</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-the-search-in-windows-11-top-tips-for-a-smooth-experience/"><u>Reviving the Search in Windows 11: Top Tips for a Smooth Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-on-installing-phoenix-wizard-with-phoenix-kodi-version-19/"><u>Step-by-Step Instructions on Installing Phoenix Wizard with Phoenix Kodi Version 19</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-t2x-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo T2x 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-must-watch-uk-series-streaming-on-netflix-today/"><u>Top 5 Must-Watch UK Series Streaming On Netflix Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whos-been-peeking-discover-how-to-monitor-who-views-your-google-doc-files/"><u>Who's Been Peeking? Discover How to Monitor Who Views Your Google Doc Files</u></a></li>
+</ul></div>
 
