@@ -1,7 +1,7 @@
 ---
 title: "Ultimate User Manual: Accessing WhatsApp From Your Mac Device"
-date: 2024-09-19T19:15:40.030Z
-updated: 2024-09-20T19:26:01.927Z
+date: 2024-10-01T04:58:19.609Z
+updated: 2024-10-02T09:58:25.416Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate User Manual: Accessing WhatsApp From Your Mac Device"
@@ -23,13 +23,40 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
  The_Pokémon Go_ buddy system is a feature that lets you show off your favorite Pokémon, earn candy, and receive in-app gifts and souvenirs. This guide explains how to play together with your buddy in_Pokémon Go_ , how to swap Pokémon buddies, and how to best use the buddy system to get the most out of the game.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Adding a ‘Pokémon Go’ Buddy for the First Time
 
 _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it significantly in 2019 by letting your buddy appear on the map. The app directed all players through the process of adding a buddy Pokémon after each feature update, but if for some reason you managed to bypass these in-app tutorials, you can add your first Pokémon buddy by selecting your trainer profile icon from the lower-left corner of the map screen and tapping**Buddy History** or**Buddy** .
 
 ![Pokemon Go trainer screen with Buddy History icon highlighted.](https://www.lifewire.com/thmb/BdiPfIa8oWBYka7UEwDkhYUEZlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Buddy-icon-in-Pokemon-Go-0b51206346d144a0b55dda8d337fcc18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Change Your ‘Pokémon Go’ Buddy Pokémon
 
@@ -42,13 +69,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 3. Tap**Yes** .
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is the Point of Having a Buddy in Pokémon Go?
 
@@ -79,10 +99,10 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does Swapping Buddies Lose Progress?
@@ -128,5 +148,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/xclusive-guide-10-immersive-youtube-vr-films-for-2024/"><u>[New] Exclusive Guide 10 Immersive YouTube VR Films for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-restoring-sound-linkage-in-obs-broadcasts/"><u>[Updated] 2024 Approved Restoring Sound Linkage in OBS Broadcasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-transform-your-fb-vids-to-full-screen/"><u>[Updated] 2024 Approved Transform Your FB Vids to Full Screen</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/enhancing-communication-on-google-meet-step-by-step/"><u>Enhancing Communication on Google Meet [Step-by-Step]</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-y100a-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo Y100A Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-analysis-of-the-google-pixel-tablet-surpassing-expectations/"><u>In-Depth Analysis of the Google Pixel Tablet: Surpassing Expectations</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ring-engagement-a-compendium-of-the-top-20-youtube-hacks-for-2024/"><u>Mastering Engagement A Compendium of the Top 20 YouTube Hacks for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-sleep-monitoring-on-your-apple-watch-a-step-by-step-guide/"><u>Mastering Sleep Monitoring on Your Apple Watch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/multilingual-romance-uncover-more-love-phrases/"><u>Multilingual Romance: Uncover More Love Phrases</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pixel-powerhouse-analyzing-the-impact-and-legacy-of-googles-pixel-n-in-its-third-year/"><u>Pixel Powerhouse: Analyzing the Impact and Legacy of Google's Pixel N in Its Third Year</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/section-2b-five-facts-to-remember/"><u>Section 2B: Five Facts to Remember</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/section-4a-advanced-topic-molecular-mechanisms-of-cell-death/"><u>Section 4A: Advanced Topic - Molecular Mechanisms of Cell Death</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/surviving-with-an-outdated-device-my-experience-of-living-with-a-decade-old-phone/"><u>Surviving with an Outdated Device: My Experience of Living with a Decade-Old Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-2-free-android-keyboards-ensuring-user-data-protection/"><u>Top 2 FREE Android Keyboards Ensuring User Data Protection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-upcoming-enhancements-set-to-revolutionize-your-google-play-experience/"><u>Top 5 Upcoming Enhancements Set to Revolutionize Your Google Play Experience</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-unlock-your-creativity-top-10-animation-tools-for-beginners-and-experts/"><u>Updated 2024 Approved Unlock Your Creativity Top 10 Animation Tools for Beginners and Experts</u></a></li>
+</ul></div>
 

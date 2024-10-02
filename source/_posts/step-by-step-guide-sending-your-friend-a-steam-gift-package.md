@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Sending Your Friend a Steam Gift Package"
-date: 2024-09-23T04:35:55.284Z
-updated: 2024-09-27T00:55:40.193Z
+date: 2024-09-29T10:20:29.886Z
+updated: 2024-10-02T09:34:24.255Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Sending Your Friend a Steam Gift Package"
@@ -36,20 +36,13 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
  If you're using the latest version of Windows 11, Command Prompt will open within[Terminal](https://www.lifewire.com/windows-terminal-4779951) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Open Command Prompt Through the Start Menu Folder
 
@@ -57,11 +50,25 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
@@ -77,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -96,16 +96,10 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other Ways to Open Command Prompt
@@ -172,24 +166,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-laugh-out-tears-in-unravel-the-top-10-humorous-instagram-feeds/"><u>[New] In 2024, Laugh Out, Tears In Unravel The Top 10 Humorous Instagram Feeds</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-mac-videos-for-snapchat/"><u>[Updated] 2024 Approved The Ultimate Guide to Mac Videos for Snapchat</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-charting-the-differences-in-youtubes-ownership-and-cc-models/"><u>[Updated] Charting the Differences in YouTube's Ownership and CC Models</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ng-edge-mp4-utilities-choosing-the-right-one-for-mac-for-2024/"><u>Cutting Edge MP4 Utilities Choosing the Right One for Mac for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-tools-to-revamp-virtual-performer-voices/"><u>Cutting-Edge Tools to Revamp Virtual Performer Voices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/d3dx939dll-not-found-heres-how-to-correctly-resolve-the-issue/"><u>D3dx9_39.dll Not Found? Here’s How to Correctly Resolve the Issue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-guide-fixing-common-skype-connection-issues/"><u>Essential Guide: Fixing Common Skype Connection Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-conversational-agents-what-does-chatgpt-mean/"><u>Exploring Conversational Agents: What Does ChatGPT Mean?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-troubleshoot-and-repair-a-non-functional-igfx-em-driver/"><u>Fixing the Issue: How to Troubleshoot and Repair a Non-Functional iGFX EM Driver</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-ahead-of-the-curve-early-info-on-samsungs-upcoming-galaxy-watch-7/"><u>Get Ahead of the Curve: Early Info on Samsung's Upcoming Galaxy Watch 7</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-make-a-video-from-photo-with-music-for-2024/"><u>How to Make a Video From Photo with Music for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-note-30-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix Note 30 Phone Screen?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-realme-c55-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Realme C55 Phone Now with These Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-look-at-samsung-unpacked-2025-all-upcoming-devices-rumors-and-breakthrough-tech-news-covered/"><u>Inside Look at Samsung Unpacked 2025 - All Upcoming Devices, Rumors, and Breakthrough Tech News Covered</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-windows-telnet-a-comprehensive-guide/"><u>Mastering Windows Telnet: A Comprehensive Guide</u></a></li>
-<li><a href="https://tools.techidaily.com/movavi/video-converter/"><u>Movavi Video Converter</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-dilemma-of-assembling-vs-buying-pre-built-desktopslaptops-which-fits-your-lifestyle/"><u>Navigating the Dilemma of Assembling Vs. Buying Pre-Built Desktops/Laptops – Which Fits Your Lifestyle?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-steps-for-deleting-photos-off-your-facebook-page/"><u>Simple Steps for Deleting Photos Off Your Facebook Page</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-troubleshooting-curing-your-facetime-black-display-problem/"><u>Step-by-Step Troubleshooting: Curing Your FaceTime Black Display Problem</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-block-youtube-channels-on-computer-and-mobile-phones/"><u>[New] In 2024, How to Block YouTube Channels on Computer and Mobile Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-get-people-to-subscribe-by-asking-the-right-way/"><u>[Updated] 2024 Approved How to Get People to Subscribe by Asking the Right Way</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-avoiding-lost-frames-during-video-capture-in-obs-for-2024/"><u>[Updated] Avoiding Lost Frames During Video Capture in OBS for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-how-to-innovatively-deploy-music-stickers-on-instafeatures/"><u>[Updated] How to Innovatively Deploy Music Stickers on InstaFeatures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-pure-android-capturer-unspotted-and-unobstructed/"><u>2024 Approved Pure Android Capturer Unspotted & Unobstructed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/customize-gmail-sounds-how-to-change-the-email-notification-ringtone/"><u>Customize Gmail Sounds: How to Change the Email Notification Ringtone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722861796934-explore-the-innovations-of-samsung-galaxy-z-fold-6-detailed-overview-on-costs-specs-and-more/"><u>Explore the Innovations of Samsung Galaxy Z Fold 6: Detailed Overview on Costs, Specs & More</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-motorola-moto-g-stylus-2023-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-stop-apps-from-running-in-the-background-on-android/"><u>How to Stop Apps From Running in the Background on Android</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nubia-z50s-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Nubia Z50S Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-clean-how-to-erase-and-refresh-your-android-device-cache/"><u>Master Clean: How to Erase and Refresh Your Android Device Cache</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-your-android-a-guide-to-navigating-the-quick-settings/"><u>Mastering Your Android: A Guide to Navigating the Quick Settings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/power-up-mobile-devices-using-non-standard-charging-techniques/"><u>Power Up Mobile Devices Using Non-Standard Charging Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027697726-vlc/"><u>VLCメディアプレーヤー用動画コンパクト化 - より小さなファイルにしてください</u></a></li>
 </ul></div>
 

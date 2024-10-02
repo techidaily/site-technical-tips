@@ -1,7 +1,7 @@
 ---
 title: Landmark Innovations in Technology From Post-1844 Era
-date: 2024-09-15T22:10:32.285Z
-updated: 2024-09-20T21:11:59.538Z
+date: 2024-09-27T16:55:09.357Z
+updated: 2024-10-01T17:18:07.725Z
 categories:
   - BestProducts
 description: This Article Describes Landmark Innovations in Technology From Post-1844 Era
@@ -41,9 +41,35 @@ thumbnail: https://www.lifewire.com/thmb/hkuesFqmisaUTbxJPWT7TQYrPnA=/400x300/fi
 
  We can avoid ever being in the dark with[smart light bulbs](https://www.lifewire.com/smart-light-bulbs-4149561) that you can turn on and off with a virtual assistant like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) or[Google Assistant](https://www.lifewire.com/what-is-google-assistant-4120911) .
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Television — 1927
 
 ![Old television on stand, in front of curtain](https://www.lifewire.com/thmb/sT1Lb9obt08EDKCn3w7CXCy6tE0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/old-television-on-stand--in-front-of-curtain-200453943-001-293b961ae282457791c4eed589eff3cb.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Steven Errico / Getty Images
 
@@ -53,16 +79,16 @@ thumbnail: https://www.lifewire.com/thmb/hkuesFqmisaUTbxJPWT7TQYrPnA=/400x300/fi
 
  Many people watch movies and TV shows on their smartphones, tablets, or laptops, though flat-screen TVs are still popular.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Personal Computers — 1970s
 
 ![alter IBM Compter von 1981](https://www.lifewire.com/thmb/4cl0LjPSEzswX-i1Q48NuRe8jNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alter-ibm-compter-von-1981-513809422-7189b1cbfe1b47339bdda64dc60627e0.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 EdnaM / Getty Images
 
@@ -75,6 +101,13 @@ EdnaM / Getty Images
 ## Global Positioning System — 1970s
 
 ![Satellite in foreground, Earth and rising Sun in background](https://www.lifewire.com/thmb/4j6-zIts28nfLPj-zcJ1Pt9zw3Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1032649842-5c2d15de46e0fb0001ea64df.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launched in 1973, the Global Positioning System (GPS) became fully operational in 1995\. Originally called Navstar GPS, the U.S. government owns it, and the U.S. Air Force operates it.
 
@@ -96,13 +129,6 @@ ARPANET /Public domain
 
 ![San Francisco, California scenics](https://www.lifewire.com/thmb/JBcxbVh9X27hnW5roLmvGZOywbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/san-francisco--california-scenics-1048327060-238a789e54b94cf799aee655c2f19c1b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Robert Alexander / Getty Images
 
  Thanks to GPS (see above), getting lost is becoming a more and more rare occurrence.
@@ -113,16 +139,16 @@ ARPANET /Public domain
 
 [How to Plan an Alternate Route With Google Maps](https://www.lifewire.com/alternate-route-plan-google-maps-1616470)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Digital Camera — 1990s
 
 ![3rd Annual Kodak Awards, February 15, 2019](https://www.lifewire.com/thmb/cayBRtQKgfVN8wWhxkH2-SxSTwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3rd-annual-kodak-awards--february-15--2019-1125163754-9bc15e8e2dbe4be18b8ad4369c4a929d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Getty Images for Kodak Motion Picture & Entertainment / Getty Images
 
@@ -137,10 +163,16 @@ ARPANET /Public domain
 ![Mosaic web browser](https://www.lifewire.com/thmb/ZHIWa9h-A3m6SDVXmfSIkj-wQP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NCSA_Mosaic_Browser_Screenshot-2f1f4b065a284b37bb79f433cc515659.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Programm: National Center for Supercomputing Applications/CC0
@@ -158,10 +190,10 @@ ARPANET /Public domain
  From connecting with the people you went to high school to planning protests against the government, Facebook brings people together. Of course, it also causes all sorts of strife, including hate speech and “fake news,” which the platform struggles to contain.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Modern Smartphone — 2007
@@ -205,5 +237,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-navigate-your-gaming-world-with-steams-switch-controller-for-2024/"><u>[New] Navigate Your Gaming World with Steam's Switch Controller for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-get-to-know-vrecorder-the-perfect-installation-process/"><u>[Updated] Get to Know VRecorder The Perfect Installation Process</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-ranked-affordable-video-players-and-streaming-services-pc-and-mobile/"><u>Best-Ranked Affordable Video Players and Streaming Services (PC & Mobile)</u></a></li>
+<li><a href="https://win-community.techidaily.com/boost-your-productivity-with-this-affordable-must-have-desk-tool-sit-or-stand-youll-love-it-zdnet/"><u>Boost Your Productivity with This Affordable, Must-Have Desk Tool | Sit or Stand, You'll Love It (ZDNet)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bright-idea-adjusting-the-colour-of-your-taskbar-in-windows-10-made-simple/"><u>Bright Idea: Adjusting the Colour of Your Taskbar in Windows 10 Made Simple</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-life-in-all-directions-11-excellence-in-multi-angle-cameras-for-2024/"><u>Capture Life in All Directions #11 Excellence in Multi-Angle Cameras for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/free-mp4-to-mpg-conversion-techniques-top-8-solutions-unveiled/"><u>Free MP4-to-MPG Conversion Techniques: Top 8 Solutions Unveiled</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-realme-note-50-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Realme Note 50 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-psvr-2-what-you-need-to-know-about-its-features-market-value-and-launch-date/"><u>Inside PSVR 2: What You Need to Know About Its Features, Market Value & Launch Date</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macbook-pro-keyboard-woes-discover-how-to-revive-unresponsive-keys/"><u>MacBook Pro Keyboard Woes? Discover How to Revive Unresponsive Keys</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-email-management-customizing-your-gmail-rules/"><u>Mastering Email Management: Customizing Your Gmail Rules</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-thunderbird-52-a-guide-to-enhanced-security-and-user-experience-with-mozillas-email-solution/"><u>Navigating Thunderbird 52: A Guide to Enhanced Security and User Experience with Mozilla's Email Solution</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-asus-rog-phone-8-pro-by-drfone-android/"><u>Three Ways to Sim Unlock Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-attribution-how-to-credit-sources-for-conversations-with-chatgpt/"><u>Understanding Attribution: How to Credit Sources for Conversations with ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-lg-channels-key-information-explained/"><u>Understanding LG Channels: Key Information Explained</u></a></li>
+</ul></div>
 

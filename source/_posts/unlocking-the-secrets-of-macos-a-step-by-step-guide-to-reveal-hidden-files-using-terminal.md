@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Secrets of macOS: A Step-by-Step Guide to Reveal Hidden Files Using Terminal"
-date: 2024-09-19T00:19:31.573Z
-updated: 2024-09-21T04:52:47.289Z
+date: 2024-09-27T03:03:07.102Z
+updated: 2024-10-02T08:44:41.032Z
 categories:
   - BestProducts
 description: "This Article Describes Unlocking the Secrets of macOS: A Step-by-Step Guide to Reveal Hidden Files Using Terminal"
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/64b02260fc2e331299df22a1e999eab91ad890c07
 ![Terminal window with commands inline](https://www.lifewire.com/thmb/z9u9E5cQZxfSmppiqZSimKAfX_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_view-hidden-mac-folders-using-terminal-2260776-5c2ea73546e0fb0001415cda.jpg)
 3. Entering the two lines above into Terminal allows you to use the[Finder](https://www.lifewire.com/use-mac-finder-2260739) to display all the hidden files on your Mac. The first line tells the Finder to display all files, regardless of how the hidden flag is set. The second line stops and restarts the Finder, so the changes can take effect. You may see your desktop disappear and reappear when you execute these commands; this is normal.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Was Hidden Can Now Be Seen
 
  Now that the Finder is displaying[hidden files](https://www.lifewire.com/what-is-a-hidden-file-2625898) and folders, just what can you see? The answer depends on the specific folder you're looking at, but in just about every folder, you'll see a file named**.DS\_Store** . The DS\_Store file contains information about the current folder, including the icon to use for the folder, the location its window will open in, and other bits of information the system needs.
@@ -42,6 +49,19 @@ thumbnail: https://thmb.techidaily.com/64b02260fc2e331299df22a1e999eab91ad890c07
  Go ahead and look around the Library folder, but don't make any changes unless you have a specific problem that you're attempting to fix.
 
  Now that you can see all the hidden folders and files in the Finder, you'll probably want to hide them again, if only because they tend to clutter up Finder windows with extraneous items.
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Hide the Clutter
 
@@ -53,10 +73,17 @@ thumbnail: https://thmb.techidaily.com/64b02260fc2e331299df22a1e999eab91ad890c07
 3. Poof! The hidden files are once again hidden. No hidden folder or file was harmed in the making of this Mac tip.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More About Terminal
@@ -90,5 +117,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capturing-sound-on-iphone-voice-memo-basics/"><u>[New] Capturing Sound on iPhone Voice Memo Basics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-live-capture-success-explore-4-effective-recording-strategies/"><u>[New] In 2024, Live Capture Success Explore 4 Effective Recording Strategies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-deciphering-the-maximum-duration-for-instagram-videos/"><u>2024 Approved Deciphering the Maximum Duration for Instagram Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722899134378-all-about-the-next-android-unlocking-rumors-on-release-date-costs-and-tech-specs-for-android-16-stay-informed-now/"><u>All About the Next Android: Unlocking Rumors on Release Date, Costs and Tech Specs for Android 16 - Stay Informed Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-views-ultimate-guide-to-dominating-apple-tv-settings/"><u>Boost Your Views: Ultimate Guide to Dominating Apple TV Settings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/deciphering-the-codex-of-meta-and-omni-worlds/"><u>Deciphering the Codex of Meta and Omni Worlds</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-blank-page-syndrome-in-print-devices/"><u>Fixing Blank Page Syndrome in Print Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-no-spin-lock-available-error-steps-for-handling-stop-code-0x0000001d/"><u>Fixing the No Spin Lock Available Error: Steps for Handling Stop Code 0X0000001D</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-social-potential-a-compreenasculated-blueprint-for-smm-mastery/"><u>Harnessing Social Potential A Compreenasculated Blueprint for SMM Mastery</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-desktop-recording-battle-go-with-obs-or-shadowplay/"><u>In 2024, Desktop Recording Battle Go with OBS or ShadowPlay</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-business-through-virtual-realitiescape/"><u>In 2024, Pioneering Business Through Virtual Realitiescape</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-gmail-a-step-by-step-guide-to-setting-up-an-email-alias/"><u>Mastering Gmail: A Step-by-Step Guide to Setting Up an Email Alias</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722903956471-mastering-quick-travel-a-guide-to-the-teleport-feature-in-minecraft/"><u>Mastering Quick Travel: A Guide to the Teleport Feature in Minecraft</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mfc71dll-error-fixes-effective-solutions-for-a-seamless-system/"><u>MFC71.dll Error Fixes: Effective Solutions for a Seamless System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/share-the-love-with-your-family-must-watch-films-on-amazon-prime-video-for-jul-2024/"><u>Share the Love with Your Family: Must-Watch Films on Amazon Prime Video for Jul' 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Oppo A1 5G | Dr.fone</u></a></li>
+</ul></div>
 

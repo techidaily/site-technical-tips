@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Splitting Your Screen on Apple's MacBook Air"
-date: 2024-09-25T16:39:13.799Z
-updated: 2024-09-27T04:08:43.186Z
+date: 2024-09-26T11:05:20.573Z
+updated: 2024-10-01T21:06:53.895Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Splitting Your Screen on Apple's MacBook Air"
@@ -39,55 +39,48 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 ![MacBook Air with Lifewire website open and Tiling options highlighted](https://www.lifewire.com/thmb/doZhWFV7eXZ8_FqKkUr0NW6jC3c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Tileoptions-533d4230371441a78ef8cbe1ac054a1e.jpg)
 3. Depending on what you selected, your current window will be on the left or right of the screen.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Selecting second window in Mac Split View.](https://www.lifewire.com/thmb/XPbpubdxX7CxXrliBPngZg5V6TQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-do-split-screen-on-a-macbook-air-d085becc70464af4af4070b3b8db178d.jpg)
 4. On the other half of the screen, you’ll see all of your other open windows. Click the one you want to view, and it should snap into place beside the original window.  
 ![Split view between Lifewire and Apple home pages on Google Chrome for Mac.](https://www.lifewire.com/thmb/x9FQUuRcpsMmovvnN_-Se9XX1OM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-do-split-screen-on-a-macbook-air-01c3445392a446f3918a88fe65f6e04f.jpg)
 5. To switch window positions, click and drag one to the left or right. The windows should swap places.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Swapping window positioning in Mac Split View.](https://www.lifewire.com/thmb/GAwIa1w8f77NK8-gBbBHusTCjRY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-do-split-screen-on-a-macbook-air-cfa17d37feff42d497f36d89c8511b4c.jpg)
 6. If you’d like one window to be larger than the other, you can resize them by clicking and dragging the border between the two windows. Both windows will still fill the entire screen.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In macOS Monterey (12.0) and later, you can also swap out apps in Split View and make either pane switch to full screen.  
 ![Adjusting window sizing in Mac Split View with window border highlighted](https://www.lifewire.com/thmb/ky3DzDBOWrxCjrhndHnTSpdFrq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Resizewindowborder-8af934138964454391c58ee55601ccf8.jpg)
 7. To exit Split View, hover over the top of the screen until the grey menu bar reappears. Next, hover over the green circle button and select**Exit Full Screen** . Alternatively, you can click the green circle button.  
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![MacBook Air website with Exit Full Screen highlighted](https://www.lifewire.com/thmb/RVpGTM72IBamY9sxdq9WmLr-0W0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Exitfullscreen-e847fb5e1a44486a981675dd367db301.jpg)  
  Sometimes, exiting full screen will cause one of your windows to disappear. If this happens to you, it’s most likely because something put the window in a separate view in[Mission Control.](https://www.lifewire.com/assign-mac-apps-to-open-in-specific-desktop-space-2260812) On your keyboard, tap**F3** (it looks like a series of rectangles) to open Mission Control, and you should see your lost window in the bar at the top of your screen.  
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [How to Connect a MacBook Air to a Monitor](https://www.lifewire.com/connect-monitor-to-macbook-air-5192977)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Open Other Apps in Split View
@@ -112,8 +105,24 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
    9. Select**System Preferences** .  
 ![Selecting System Preferences from Apple Menu on Mac desktop.](https://www.lifewire.com/thmb/AT4sp2cD3Beo1IheLO6LBwWi3y4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SystemPreferences-160902a7424c425ca3f1db702db4a8ae.jpg)
    10. Click**Mission Control** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Selecting Mission Control from Mac System Preferences.](https://www.lifewire.com/thmb/70YcgJiWcCWWw-8xubpZZzUJapI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MissionControl-c80efa1f457e4e39a0ce93d76f1bfeb2.jpg)
    11. Ensure**Displays have separate Spaces** is selected.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Mission Control settings in Mac System Preferences with "Displays have separate Spaces" highlighted](https://www.lifewire.com/thmb/KZRt3NLpeVf-QkSjk6E3D8vx96s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Displayshaveseparatefaces-f4ce44168f12424f9a0739d255350714.jpg)
 
  FAQ
@@ -156,18 +165,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-innovative-techniques-for-capturing-every-play-of-your-ps3-games/"><u>[New] Innovative Techniques for Capturing Every Play of Your PS3 Games</u></a></li>
-<li><a href="https://extra-information.techidaily.com/10-premium-text-tricks-for-videos/"><u>10 Premium Text Tricks for Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-invisible-spectator-of-fb-tales/"><u>2024 Approved Invisible Spectator of FB Tales</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-unlock-youtube-beats-26-favorite-audio-splitters-at-zero-cost/"><u>2024 Approved Unlock YouTube Beats 26 Favorite Audio Splitters at Zero Cost</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/begin-anew-with-your-iphone-n-15-expert-tips-for-a-successful-reboot/"><u>Begin Anew with Your iPhone N 15: Expert Tips for a Successful Reboot</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-guide-steps-to-fully-remove-your-yahoo-email-profile/"><u>Complete Guide: Steps to Fully Remove Your Yahoo! Email Profile</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-15-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 15 Plus Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-keep-your-skype-running-smoothly-a-guide-with-10-proven-fixes/"><u>How To Keep Your Skype Running Smoothly: A Guide with 10 Proven Fixes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-way-of-the-warrior-game-lineup-mirroring-ghost-of-tsushima/"><u>In 2024, The Way of the Warrior Game Lineup Mirroring Ghost of Tsushima</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722977188828-latest-geforce-rtx-3080-drivers-download-free-version-for-windows-1087-devices-now/"><u>Latest GeForce RTX 3080 Drivers: Download Free Version for Windows 10/8/7 Devices Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fix-for-non-functioning-tozo-t6-software-in-windows-11/"><u>Step-by-Step Fix for Non-Functioning Tozo T6 Software in Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-for-backward-video-effects-in-snapchat-explained/"><u>The Ultimate Trick for Backward Video Effects in Snapchat Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-gaming-moments-how-to-create-memorable-video-captures-with-ps4/"><u>Unlocking Gaming Moments: How To Create Memorable Video Captures with PS4</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-master-the-art-of-radial-filtering-with-photoshop/"><u>[New] In 2024, Master the Art of Radial Filtering with Photoshop</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-youtube-video-dimension-standards/"><u>[Updated] 2024 Approved YouTube Video Dimension Standards</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-a-comprehensive-guide-to-using-chrome-pip-across-devices/"><u>[Updated] In 2024, A Comprehensive Guide to Using Chrome PIP Across Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-real-time-storytelling-on-the-rise-navigating-and-thriving-in-a-social-media-world/"><u>[Updated] Real-Time Storytelling on the Rise Navigating and Thriving in a Social Media World</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-revel-in-reality-an-extensive-review-of-lgs-high-fidelity-monitor-31mu97-b/"><u>[Updated] Revel in Reality - An Extensive Review of LG's High-Fidelity Monitor, 31MU97-B</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-insights-on-effective-spotify-ad-targeting/"><u>2024 Approved Insights on Effective Spotify Ad Targeting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-beginners-guide-to-phone-carriers-and-mobile-network-services/"><u>A Beginner's Guide to Phone Carriers and Mobile Network Services</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-premier-7-destinations-for-watching-new-movie-clips/"><u>Discover the Premier 7 Destinations for Watching New Movie Clips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exciting-sports-flicks-the-ultimate-list-of-greatest-hits-you-need-to-see-today/"><u>Exciting Sports Flicks: The Ultimate List of Greatest Hits You Need to See Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-picks-most-efficient-iphone-email-clients/"><u>Expert Picks: Most Efficient iPhone Email Clients</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-the-mfplatdll-not-detected-issue-easily-with-our-expert-tips/"><u>Fix the 'mfplat.dll Not Detected' Issue Easily with Our Expert Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-the-seven-culprits-behind-lagging-wi-fi-connections-on-cellphones/"><u>Identifying the Seven Culprits Behind Lagging Wi-Fi Connections on Cellphones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-remote-connectivity-tips-for-controlling-your-samsung-smart-tv-from-afar/"><u>Mastering Remote Connectivity: Tips for Controlling Your Samsung Smart TV From Afar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reclaim-connections-techniques-to-restore-deleted-mobile-contacts-on-your-android-smartphone/"><u>Reclaim Connections: Techniques to Restore Deleted Mobile Contacts on Your Android Smartphone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-fascinating-facts-about-emojis-that-will-surprise-you/"><u>Top 10 Fascinating Facts About Emojis That Will Surprise You</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-windows-10-screen-brightness-issues/"><u>Troubleshooting Guide: Fixing Windows 10 Screen Brightness Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tips-for-resolving-code-41-errors-in-windows-device-manager/"><u>Ultimate Tips for Resolving Code 41 Errors in Windows Device Manager</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-correcting-the-error-when-comctl32dll-is-absent/"><u>Understanding and Correcting the Error: When Comctl32.dll Is Absent</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-6-most-useful-adobe-premiere-tips-for-better-video-editing/"><u>Updated 6 Most Useful Adobe Premiere Tips for Better Video Editing</u></a></li>
 </ul></div>
 

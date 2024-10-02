@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Activating Built-In FM Chips on iPhones and Android Phones
-date: 2024-09-15T02:06:48.358Z
-updated: 2024-09-20T22:04:39.519Z
+date: 2024-09-26T06:09:04.585Z
+updated: 2024-10-01T18:47:34.066Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Activating Built-In FM Chips on iPhones and Android Phones
@@ -41,19 +41,19 @@ thumbnail: https://www.lifewire.com/thmb/rJBfu6gkSjR_HK-3MOhaJrCRnZM=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -69,19 +69,6 @@ thumbnail: https://www.lifewire.com/thmb/rJBfu6gkSjR_HK-3MOhaJrCRnZM=/400x300/fi
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -92,6 +79,13 @@ thumbnail: https://www.lifewire.com/thmb/rJBfu6gkSjR_HK-3MOhaJrCRnZM=/400x300/fi
 * **Undo last action (Ctrl** +**Z)** : Press**Ctrl** +**Z** to undo the previous action.
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
 
@@ -114,10 +108,16 @@ thumbnail: https://www.lifewire.com/thmb/rJBfu6gkSjR_HK-3MOhaJrCRnZM=/400x300/fi
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
@@ -131,6 +131,13 @@ thumbnail: https://www.lifewire.com/thmb/rJBfu6gkSjR_HK-3MOhaJrCRnZM=/400x300/fi
 * **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
 
@@ -167,5 +174,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://technical-tips.techidaily.com/catch-the-best-sports-motion-pictures-to-ignite-your-passion-today/"><u>Catch the Best Sports Motion Pictures to Ignite Your Passion Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-ways-to-configure-a-dualplus-monitor-arrangement-at-home-or-office/"><u>Easy Ways to Configure a Dual+ Monitor Arrangement at Home or Office</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-how-to-record-with-flair-on-windows-10/"><u>In 2024, How to Record with Flair on Windows 10</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/instantly-display-pics-on-platforms-with-this-guide-for-2024/"><u>Instantly Display Pics on Platforms with This Guide for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/maximizing-device-connection-with-amazonbasics-7-port-usb-30-hub-an-expert-review/"><u>Maximizing Device Connection with AmazonBasics 7-Port USB 3.0 Hub: An Expert Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/next-gen-thrills-the-elite-selection-of-2024s-game-systems/"><u>Next-Gen Thrills: The Elite Selection of 2024'S Game Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-error-windows-welcome-cant-read-fingers/"><u>Tackling Error: Windows Welcome Can't Read Fingers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-6-essential-study-apps-every-student-and-parent-should-know-about/"><u>Top 6 Essential Study Apps Every Student and Parent Should Know About</u></a></li>
+<li><a href="https://driver-install.techidaily.com/winrtk5770driversnewrelease/"><u>WinRTK5770DriversNewRelease</u></a></li>
+</ul></div>
 

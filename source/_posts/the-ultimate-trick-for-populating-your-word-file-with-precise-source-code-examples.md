@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Trick for Populating Your Word File with Precise Source Code Examples
-date: 2024-09-19T05:14:09.077Z
-updated: 2024-09-20T16:35:47.626Z
+date: 2024-09-25T08:57:44.490Z
+updated: 2024-10-02T06:22:40.242Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Trick for Populating Your Word File with Precise Source Code Examples
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/rzYewCryTjWb2_V2_mncFJn6Mew=/400x300/fi
 
  This article explains how to insert code in Word. Directions apply to Word 2010 and newer, including Word 2021 and Microsoft 365.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Insert Code in Word With an Embedded Document
 
  While there isn't an 'insert code' option or a dedicated code block in Word, there is a way to insert one document into another. This effectively creates an isolated section that houses all the code. Here's how to make this work with your code:
@@ -32,8 +39,30 @@ These instructions only work with a single page of code.
 1. Open the document you want the code to appear in, and select**Insert** .  
 ![A Word document with the Insert field highlighted](https://www.lifewire.com/thmb/hhaKemMmX0vrIo89Vh-8tqrp0Z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-insert-source-code-into-word-document-3994582-1a2d127c226f4846bf9bec7d9a281fc5.jpg)
 2. In the**Text** group, select**Object** .  
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![A Word document with the Object option highlighted in the Insert menu](https://www.lifewire.com/thmb/opt-Q1YQfqT2MaDUICEGskPbmMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-insert-source-code-into-word-document-3994582-939bbef12a77474cbc646e7bfca9da48.jpg)
 3. From the**Create New** tab, select**Microsoft Word Document** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Create New Object box in Word with the Microsoft Word Document option highlighted](https://www.lifewire.com/thmb/ubtpMlrpJY0mh1rhIZL7mTUeCd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-insert-source-code-into-word-document-3994582-1f1467fff74c4365913779c89a44dbaa.jpg)  
  In Word 2007, select**OpenDocument Text** .
 4. Clear the**Display as icon** check box.  
@@ -47,6 +76,13 @@ These instructions only work with a single page of code.
 ![Microsoft Word document with source code inserted](https://www.lifewire.com/thmb/7dbJ_9k3xe_LaP-2rOEy3ktFY-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PresentationWithCode-dc19c6dcca694a798e9e41a2be2eac71.jpg)  
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Using Different Paste Types in Word
 
  Modern versions of Word handle code better than they used to. Word for[Microsoft 365](https://www.lifewire.com/microsoft-office-4156573) supports several forms of pasting, including with and without source formatting. So pasting a block of code from your code-editing app will look different based on the paste type.
@@ -56,13 +92,6 @@ These instructions only work with a single page of code.
 * **Unformatted Text** : All code is pasted as unformatted, so you'll lose indenting, color, typeface, and related contextual clues.
 * **HTML Format** : This renders what appears to be a photo of the code, complete with the text editor's background color. This code block is editable, and you can remove the background color if you wish.
 * **Unformatted Unicode Text** : Pastes the text as is but strips the text and background colors. Re-format the code as needed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Problem With Using Source Code in Word
 
@@ -108,5 +137,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ow-to-select-a-youtube-gaming-introduction-maker-free-or-paid-edition-for-2024/"><u>[New] How to Select a YouTube Gaming Introduction Maker Free or Paid Edition for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-filmmakers-handbook-to-superior-voice-overseeing-for-2024/"><u>[New] The Filmmaker's Handbook to Superior Voice Overseeing for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-pro-gamers-fbx-filming-techniques-for-2024/"><u>[Updated] Pro Gamers' FBX Filming Techniques for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-engagement-with-a-pinterest-tab-a-guide-for-your-facebook-presence/"><u>Boosting Engagement with a Pinterest Tab – A Guide for Your Facebook Presence</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-insights-into-lgs-communication-channels/"><u>Essential Insights Into LG's Communication Channels</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-techniques-to-excel-at-playing-royal-match-a-comprehensive-guide/"><u>Essential Techniques to Excel at Playing Royal Match: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-concepts-behind-output-impedance/"><u>Exploring the Concepts Behind Output Impedance</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-tecno-spark-20-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Tecno Spark 20 Pro Phone | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-it-when-you-cant-answer-calls-on-samsung-galaxy-watch/"><u>How to Fix It When You Can't Answer Calls on Samsung Galaxy Watch</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-mastering-slow-motion-top-10-video-editing-tools-for-professionals/"><u>In 2024, Mastering Slow Motion Top 10 Video Editing Tools for Professionals</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-pro-tips-making-your-ipad-screen-capture-faster-and-hassle-free/"><u>In 2024, Pro Tips Making Your iPad Screen Capture Faster and Hassle-Free</u></a></li>
+<li><a href="https://fox-access.techidaily.com/navigate-new-horizons-discovering-the-top-10-pc-virtual-playback-devices-for-2024/"><u>Navigate New Horizons Discovering the Top 10 PC Virtual Playback Devices for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-repairing-msvbvm50dll-file-missing-error-on-your-pc/"><u>Solving the Mystery: Repairing 'Msvbvm50.dll' File Missing Error on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-on-scheduling-your-tweets-in-advance/"><u>The Ultimate How-To on Scheduling Your Tweets in Advance</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-video-editing-made-easy-a-jaycut-tutorial-for-beginners-for-2024/"><u>Updated Free Video Editing Made Easy A Jaycut Tutorial for Beginners for 2024</u></a></li>
+</ul></div>
 

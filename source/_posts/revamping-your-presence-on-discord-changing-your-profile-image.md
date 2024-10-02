@@ -1,7 +1,7 @@
 ---
 title: Revamping Your Presence on Discord - Changing Your Profile Image
-date: 2024-09-22T16:35:12.369Z
-updated: 2024-09-27T01:20:16.519Z
+date: 2024-09-28T17:35:40.953Z
+updated: 2024-10-02T08:36:11.226Z
 categories:
   - BestProducts
 description: This Article Describes Revamping Your Presence on Discord - Changing Your Profile Image
@@ -23,13 +23,6 @@ thumbnail: https://www.lifewire.com/thmb/JJQ5i_6urRSoHyRUcWIUQqC6hYs=/400x300/fi
 
  This article explains how to use Mac's built-in Preview app to color-code your folders to any hue in the rainbow, or even replace the default folder icons with your own images. If that's too complicated, you can also accomplish the same task much faster with a premium app from the[App Store](https://www.lifewire.com/using-mac-app-store-4171845) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Ways to Customize Folder Colors on Mac
 
  Folders in[macOS](https://www.lifewire.com/what-is-macos-4691239) are all a pleasant shade of blue, which can lead to a sea of sameness on your desktop that eventually becomes difficult to navigate. If you have a few important ones you want to keep track of, you can change folder color on Mac without too much trouble.
@@ -40,6 +33,13 @@ thumbnail: https://www.lifewire.com/thmb/JJQ5i_6urRSoHyRUcWIUQqC6hYs=/400x300/fi
 * **Copy a different image using the Preview app** : This method copies a photo or icon using the Preview app, so it can change the color of a folder icon, replace it with an image, or even replace it with a custom icon.
 * **Use a premium app like Folder Color** : This method requires a premium app like Folder Color, which you can buy from the App Store. It automates the process and makes it easier.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Change Folder Color on Mac Using Preview
 
  Using the Preview app, you can customize the color of any folder. This is a multi-step process that's complicated enough that you will probably have to refer to this guide the first couple times you do it, but it isn't difficult.
@@ -48,31 +48,52 @@ thumbnail: https://www.lifewire.com/thmb/JJQ5i_6urRSoHyRUcWIUQqC6hYs=/400x300/fi
 ![A screenshot of the macOS desktop.](https://www.lifewire.com/thmb/5aajzf5Id9EX9_Zuji1fQu77zIU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2020-06-25at6.02.02PM-0c7b8bc9a4144830a62b6e87c786aeba.png)
 2. Select**Get Info** from the context menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![A screenshot of a folder context menu.](https://www.lifewire.com/thmb/GEn2Q5Tf1SHsQ9NN3z3au9B37ek=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-ChangeFolderColoronMac-annotated-3385fa419f404cbe941ce346ca4fff72.jpg)
 3. Click the**folder icon** in the upper left of the folder info window so that it is highlighted.  
 ![A screenshot of the folder info box on macOS.](https://www.lifewire.com/thmb/3dEqd1G-bbtDdiGsMpSUPtPn-sA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-ChangeFolderColoronMac-annotated-bf971c3eafea41448cee2071f8520c6e.jpg)
 4. Click**Edit** in the menu bar near the top left of the screen and select**Copy** from the drop down menu.  
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![A screenshot of copying an icon on macOS.](https://www.lifewire.com/thmb/4puIgoAvE_ObPrZ4A1_Ht2wNxyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ChangeFolderColoronMac-annotated-30f95819009f4d888881324def4972cb.jpg)
 5. Locate and open the**Preview** app.  
 ![A screenshot of the Applications folder on macOS.](https://www.lifewire.com/thmb/QLXtd-veloVkY8ge5HI9PdIVlA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-ChangeFolderColoronMac-annotated-8465f773aeb74caa9b1dbc0525a419ef.jpg)
 6. With Preview open, click**File** in the menu bar.  
 ![The File menu in the Preview app on macOS.](https://www.lifewire.com/thmb/qiZ22LU6m8SiaCUJcNrGLv6kQfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-ChangeFolderColoronMac-annotated-3092277a9357429fa325ccba6b0cb43f.jpg)
 7. Select**New from Clipboard** .  
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![New from Clipboard menu item selected in the Preview app on macOS.](https://www.lifewire.com/thmb/jt8ez5osO5KQwiJ5sJdYieKWXTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A7-ChangeFolderColoronMac-annotated-9876657f8d3f41399b918e61bfb39023.jpg)
 8. Select the**Markup tool** (looks like the tip of a pencil).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Markup tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/l3BVxdPgJm5W8koZRv2XglMO_Os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A8-ChangeFolderColoronMac-annotated-0249c263cdfc438b89827e3df055280d.jpg)
@@ -81,35 +102,29 @@ thumbnail: https://www.lifewire.com/thmb/JJQ5i_6urRSoHyRUcWIUQqC6hYs=/400x300/fi
 10. In the Adjust Color window, adjust the**Tint** ,**Saturation** ,**Tempurature** , and**Sepia** sliders to get a color you want, and then close the window.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![A screenshot of Tint slider in Preview app on macOS.](https://www.lifewire.com/thmb/WmhDBeevux4zXDNtHs9-i4BqrBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A10-ChangeFolderColoronMac-annotated-1e5ee4342431465a953da0717e62b70f.jpg)  
  Want more options? You can paste the folder icon into any image-editing software you have.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 11. Select the colored folder, and press**Command+C** to copy it.  
 ![A screenshot of copying from Preview on macOS.](https://www.lifewire.com/thmb/ldf1VkMQPfhuL1qS5bP9aKcyjos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-003a69e747f84b01a9b4ad148b9071cf.jpg)
 12. Return to the Folder Info box from earlier. If you have closed it, get it back by right-clicking the folder you are trying to customize.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 13. Click the folder in the Folder Info box, and press**Command+V** .  
 ![A screenshot of a customized folder color on macOS.](https://www.lifewire.com/thmb/VI5EKewsKE1LGj0OEbsL44ijJnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A13-ChangeFolderColoronMac-annotation-5bd8b4aff78648508db5492dbe49a580.jpg)
 14. You can now close the Folder Info box, and your folder will have the new color. If you want, you can repeat this process to customize as many folders as you like.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Customizing Folders With Images and Icons
 
@@ -163,20 +178,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-techniques-for-high-quality-xbox-game-recordings-for-2024/"><u>[New] Techniques for High-Quality Xbox Game Recordings for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-top-specialists-exceptional-instragram-highlight-artisans/"><u>[Updated] In 2024, Top Specialists Exceptional Instragram Highlight Artisans</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-infinix-note-30-vip-racing-edition-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Note 30 VIP Racing Edition working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/local-authority-security-patched-successfully-learn-more-inside/"><u>Local Authority Security Patched Successfully - Learn More Inside</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-windows-boot-options-resolving-non-functional-f8-keys-for-access-to-safe-mode-in-win-10/"><u>Mastering Windows Boot Options: Resolving Non-Functional F8 Keys for Access to Safe Mode in Win 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/optimize-pc-performance-boosting-slow-windows-11-or-10-systems-effortlessly/"><u>Optimize PC Performance: Boosting Slow Windows 11 or 10 Systems Effortlessly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reduced-eye-strain-as-higher-resolutions-can-display-sharper-images-minimizing-the-need-to-squint-or-lean-closer-to-the-screen/"><u>Reduced Eye Strain as Higher Resolutions Can Display Sharper Images, Minimizing the Need to Squint or Lean Closer to the Screen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolved-compatibility-issues-with-arch-linux-and-bluetooth-mouse-post-creators-update/"><u>Resolved: Compatibility Issues with Arch Linux and Bluetooth Mouse Post-Creator's Update</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-solutions-for-quickly-resolving-printer-job-backlogs/"><u>Simple Solutions for Quickly Resolving Printer Job Backlogs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-establishing-a-remote-connection-with-windows-10/"><u>Step-by-Step Guide: Establishing a Remote Connection with Windows 10</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/talk-the-walk-engaging-others-on-discord-desktopmobile/"><u>Talk the Walk Engaging Others on Discord Desktop/Mobile</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-gionee-f3-pro-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Gionee F3 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-display-latency-in-dual-screen-gaming-for-windows-1011-users/"><u>Troubleshooting Display Latency in Dual-Screen Gaming for Windows 10/11 Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/electing-sounds-for-success-top-microphones-for-multifacited-youtube-professionals-for-2024/"><u>[New] Selecting Sounds for Success Top Microphones for Multifacited YouTube Professionals for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-best-free-and-paid-canvas-creations-apps-for-pc-users/"><u>[Updated] Best Free & Paid Canvas Creations Apps for PC Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-leveraging-youtubes-ecosystem-for-financial-gain/"><u>[Updated] Leveraging YouTube's Ecosystem for Financial Gain</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/an-in-depth-look-at-dts-virtual-x-audio-system/"><u>An In-Depth Look at DTS Virtual X Audio System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-voip-communication-tools-top-12-favorites-listed-here/"><u>Best VoIP Communication Tools : Top 12 Favorites Listed Here</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bridging-the-gap-with-quantum-hdr-knowledge-for-2024/"><u>Bridging the Gap with Quantum HDR Knowledge for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-instructions-on-enabling-your-macs-advanced-repair-and-restoration-options-via-recovery-mode/"><u>Easy Instructions on Enabling Your Mac's Advanced Repair and Restoration Options via Recovery Mode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-purging-the-mac-dns-memory-bank/"><u>Expert Tips: Purging the Mac DNS Memory Bank</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your Apple iPhone 13 Pro?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-d3dx925dll-missing-file-troubleshooting-guide/"><u>Resolving d3dx9_25.dll: Missing File Troubleshooting Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/setting-up-custom-audio-notifications-tailoring-your-gmail-inbox-sounds/"><u>Setting Up Custom Audio Notifications: Tailoring Your Gmail Inbox Sounds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-the-ultimate-tech-guide/"><u>Tom's Computer Components: The Ultimate Tech Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-resolving-issues-with-non-functioning-apps-on-your-samsung-smart-tv/"><u>Troubleshooting Tips: Resolving Issues with Non-Functioning Apps on Your Samsung Smart TV</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-a-beginners-guide-to-video-editing-on-mac-create-stunning-movies/"><u>Updated In 2024, A Beginners Guide to Video Editing on Mac Create Stunning Movies</u></a></li>
 </ul></div>
 

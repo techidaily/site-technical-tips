@@ -1,7 +1,7 @@
 ---
 title: "Why State Entities Should Move Away From Large-Scale Technology: Insights From Microsoft Disruptions"
-date: 2024-09-15T23:54:03.204Z
-updated: 2024-09-20T21:42:49.425Z
+date: 2024-09-28T16:43:50.694Z
+updated: 2024-10-02T12:30:26.050Z
 categories:
   - BestProducts
 description: "This Article Describes Why State Entities Should Move Away From Large-Scale Technology: Insights From Microsoft Disruptions"
@@ -53,11 +53,25 @@ Shekai / Unsplash
 
  Now, imagine a similar outage, only it shuts down the water plant, puts hospitals offline, or some other nightmare scenario.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Open Source
 
  For these exact reasons, governments should not rely on proprietary software that is outside of their control. Instead, they should look to another model: open-source, aka "free" software. Open source means that the source code, the part that humans write before a computer crunches it into executable software, is open for anyone to read, use, and modify.
 
 ![Neon sign that reads 'Open.'](https://www.lifewire.com/thmb/XbRPJ1gFGnBq6454pNxdBi-InMA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/viktor-forgacs-LNwIJHUtED4-unsplash-32bb3afaa57e4665ba788b48e805e2a8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Open.
 
@@ -102,12 +116,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-edu-favorites-best-learning-yt-channels-for-2024/"><u>[New] Edu-Favorites Best Learning YT Channels for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-melodies-your-path-to-pixel-tunes-customization/"><u>[Updated] Exploring Melodies Your Path to Pixel Tunes Customization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-artisan-editor-refining-video-transitions-with-inshot/"><u>[Updated] The Artisan Editor Refining Video Transitions with Inshot</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-how-to-remove-images-background-in-canva/"><u>2024 Approved How to Remove Image's Background In Canva</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/battlenet-outage-how-to-tell-if-its-a-global-issue-or-local-glitch/"><u>Battle.net Outage - How to Tell If It's a Global Issue or Local Glitch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beat-screen-burn-in-effective-fixes-for-lcd-and-oled-screens-alike/"><u>Beat Screen Burn In - Effective Fixes for LCD and OLED Screens Alike</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-common-tiktok-glitches-and-errors/"><u>Easy Fixes for Common TikTok Glitches and Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-techniques-for-snapping-shots-of-your-computer-screen/"><u>Effortless Techniques for Snapping Shots of Your Computer Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-tecno-lock-screen-pattern-pin-or-password-heres-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Tecno lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-fixing-the-msodll-file-absent-problem-on-your-computer/"><u>Guide to Fixing the mso.dll File Absent Problem on Your Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-realme-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Realme FRP</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-reno-11-pro-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 11 Pro 5G Phone without PIN</u></a></li>
+<li><a href="https://win-blog.techidaily.com/in-depth-analysis-overcoming-initialization-issues-in-sw-tor/"><u>In-Depth Analysis: Overcoming Initialization Issues in SW TOR</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-transcribing-speech-to-mp3-audio-format-for-diverse-platforms-for-2024/"><u>New Transcribing Speech to MP3 Audio Format for Diverse Platforms for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-privacy-with-an-iphone-turning-off-no-caller-id-features-easily/"><u>Securing Privacy with an iPhone: Turning Off 'No Caller ID' Features Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-connection-issues-is-discord-experiencing-downtime-or-are-your-access-problems-personalized/"><u>Troubleshooting Connection Issues: Is Discord Experiencing Downtime or Are Your Access Problems Personalized?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/web-whispers-unlocking-techniques-for-tracking-down-online-phone-numbers/"><u>Web Whispers: Unlocking Techniques for Tracking Down Online Phone Numbers</u></a></li>
+</ul></div>
 

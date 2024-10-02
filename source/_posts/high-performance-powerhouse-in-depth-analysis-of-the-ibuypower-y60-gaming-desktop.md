@@ -1,0 +1,76 @@
+---
+title: "High-Performance Powerhouse: In-Depth Analysis of the iBUYPOWER Y60 Gaming Desktop"
+date: 2024-10-01T14:19:42.355Z
+updated: 2024-10-02T09:10:27.601Z
+tags:
+  - desktop
+categories:
+  - hardware
+thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e02cfc6dbe8d9945052e8865.jpg
+---
+
+## Secure a High-Performance Gaming PC with an RTX 3,080 for Only $2,091 - Avail Lenovo's Deal Now
+
+Pick up a powerful new gaming or productivity desktop from Lenovo with a tasty discount from the MSRP price listing. Lenovo is offering a rather generous 33% off a range of their PC products, with a huge $1,058 discount off the price of the Lenovo Legion Tower 7i Gen 8 (RTX 4080 Super) desktop PC. With the listed components packed inside this PC, you could run a top-spec gaming machine, have a lot of power for productivity work and content creation, or even play around with some AI software.
+
+ To take a look at this offer, head to the Lenovo website where you can purchase the[Lenovo Legion Tower 7i Gen 8 for $2,091](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F7250785057104458830%26xs%3D1%26url%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fvipmembers%252Fperksoffer%252Fen%252Fp%252Fdesktops%252Flegion-desktops%252Flegion-t-series-towers%252Flegion-tower-7i-gen-8-%2528intel%2529%252F90v6000uus%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fdesktops%252Fgaming-pcs%252Flenovos-rtx-4080-super-powered-legion-tower-desktop-pc-now-only-dollar1058) \- saving 33% or $1,058 off the original MSRP offer price of $3,149\. I know it still sounds like a lot of money, but when you take into account the current cheapest prices of an[RTX 4080 Super ($964)](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CS6XC69Y%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1219045136172799613-20) and[Intel Core i9-14900KF ($549)](https://www.bhphotovideo.com/c/product/1781470-REG/intel%5Fbx8071514900kf%5Fcore%5Fi9%5F14900kf%5F24%5Fcore%5Flga.html?BI=20811&KBID=16572&SID=tomshardware-us-1040869819776067337) , you've already accounted for $1,513 of the price without any of the other components, if you were to build it yourself.
+
+ The major PC components inside this Lenovo Legion Tower 7i Gen 8 (Model: 90V6000UUS) are an Nvidia RTX 4080 Super graphics card with a large 16GB of GDDR6X VRAM, a 14th-gen Intel Core i9-14900KF processor with a 360mm liquid AIO cooler, an ample 32GB of DDR5 memory, and a 1TB SSD for storage.
+
+---
+
+[Lenovo Legion Tower 7i Gen 8 (RTX 4080 Super) Desktop PC: now $2,091 at Lenovo](https://cdn.mos.cms.futurecdn.net/YedtNpP3DEhALxoz7LrgEP-200-100.png "Lenovo Legion Tower 7i Gen 8 (RTX 4080 Super) Desktop PC: now $2,091 at Lenovo") ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F1145634468942842752%26xs%3D1%26url%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fvipmembers%252Fperksoffer%252Fen%252Fp%252Fdesktops%252Flegion-desktops%252Flegion-t-series-towers%252Flegion-tower-7i-gen-8-%2528intel%2529%252F90v6000uus%26sref)
+
+ **Lenovo Legion Tower 7i Gen 8 (RTX 4080 Super) Desktop PC:** [**now $2,091 at Lenovo**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F2325518139888706207%26xs%3D1%26url%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fvipmembers%252Fperksoffer%252Fen%252Fp%252Fdesktops%252Flegion-desktops%252Flegion-t-series-towers%252Flegion-tower-7i-gen-8-%2528intel%2529%252F90v6000uus%26sref) (was $3,149)
+
+ A powerful desktop gaming PC from Lenovo, the Legion Tower 7i Gen 8 (Model: 90V6000UUS) in this deal comes with some of the best components for gaming and content production. Packed inside the relatively plain-looking case is an Nvidia RTX 4080 Super graphics card with a large 16GB of GDDR6X VRAM, a 14th Generation Intel Core i9-14900KF CPU, an ample 32GB of DDR5 memory, and a 1TB SSD for storage. Cooling the top-spec Intel CPU is a large 360mm liquid AIO cooling solution.
+
+[View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F1145634468942842752%26xs%3D1%26url%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fvipmembers%252Fperksoffer%252Fen%252Fp%252Fdesktops%252Flegion-desktops%252Flegion-t-series-towers%252Flegion-tower-7i-gen-8-%2528intel%2529%252F90v6000uus%26sref)
+
+---
+
+ There's plenty of connectivity on the Lenovo Legion Tower 7i Gen 8 with 2x USB 2.0, 2x USB 3.2 Gen 1, 1x headphone (3.5mm), 1x microphone (3.5mm) on the top IO panel of the case with rear IO connections including 1x USB-C 3.2 Gen 2x2, 1x USB 3.2 Gen 2, 2x USB 2.0, 4x USB 3.2 Gen 1, 1x Ethernet (RJ-45), 1x Lighting switch, 6x audio connectors (with SPDIF).
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-comprehensive-23-twee-tide-digest/"><u>[New] 2024 Approved The Comprehensive '23 Twee-Tide Digest</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-google-upload-mastery-a-step-by-step-guide/"><u>[Updated] Google Upload Mastery - A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-guide-to-writing-successful-vlogging-scripts-for-2024/"><u>A Guide to Writing Successful Vlogging Scripts for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/beginners-tutorial-stream-to-facebook-with-obs-studio-for-2024/"><u>Beginners Tutorial Stream to Facebook With OBS Studio for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-secret-to-using-facebooks-messenger-alone-without-a-facebook-profile/"><u>Discover the Secret to Using Facebook's Messenger Alone, Without a Facebook Profile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-these-12-amazing-no-cost-typing-tutorials-suitable-for-any-audience/"><u>Discover These 12 Amazing No-Cost Typing Tutorials Suitable for Any Audience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-troubleshooting-solutions-for-computer-display-distortions-and-uneven-coloring/"><u>DIY Troubleshooting: Solutions for Computer Display Distortions & Uneven Coloring</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-factors-to-evaluate-when-purchasing-a-refurbished-notebook/"><u>Essential Factors to Evaluate When Purchasing a Refurbished Notebook</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-constant-crashing-issue-in-beat-saber-expert-guide/"><u>How to Fix the Constant Crashing Issue in Beat Saber: Expert Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-oneplus-nord-n30-se-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on OnePlus Nord N30 SE Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/perfect-viewing-sequence-watching-star-trek-movies-from-beginning-to-end/"><u>Perfect Viewing Sequence: Watching Star Trek Movies From Beginning to End</u></a></li>
+<li><a href="https://techtrends.techidaily.com/safeguard-your-computer-with-these-15-recommended-anti-virus-tools-at-zero-cost/"><u>Safeguard Your Computer with These 15 Recommended Anti-Virus Tools at Zero Cost</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-jvmdll-file-not-detected-a-comprehensive-guide/"><u>Solving the JVM.DLL File Not Detected: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-your-macs-external-monitor-detection-problem-a-step-by-step-guide/"><u>Solving Your Mac's External Monitor Detection Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-fix-corrupt-or-lost-netframework-files-like-msvcp71dll/"><u>Step-by-Step Guide to Fix Corrupt or Lost '.netframework' Files Like msvcp71.dll</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-remedy-fixing-joy-con-connection-errors-in-nintendo-switch/"><u>Swift Remedy: Fixing Joy-Con Connection Errors in Nintendo Switch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-multilingual-skills-with-any-of-these-9-free-language-learning-platforms/"><u>Unlock Multilingual Skills with Any of These 9 Free Language-Learning Platforms</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

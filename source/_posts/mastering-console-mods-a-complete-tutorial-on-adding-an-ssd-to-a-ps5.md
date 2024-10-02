@@ -1,7 +1,7 @@
 ---
 title: "Mastering Console Mods: A Complete Tutorial on Adding an SSD to a PS5"
-date: 2024-09-23T06:58:13.600Z
-updated: 2024-09-27T06:05:58.881Z
+date: 2024-09-26T09:42:37.722Z
+updated: 2024-10-02T02:58:35.495Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Console Mods: A Complete Tutorial on Adding an SSD to a PS5"
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/b07f8aafe5ebbf14ba4a69b2b5bb7f9ec0a78d9ab
  The_Pokémon Go_ buddy system is a feature that lets you show off your favorite Pokémon, earn candy, and receive in-app gifts and souvenirs. This guide explains how to play together with your buddy in_Pokémon Go_ , how to swap Pokémon buddies, and how to best use the buddy system to get the most out of the game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding a ‘Pokémon Go’ Buddy for the First Time
@@ -37,13 +37,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 ![Pokemon Go trainer screen with Buddy History icon highlighted.](https://www.lifewire.com/thmb/BdiPfIa8oWBYka7UEwDkhYUEZlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Buddy-icon-in-Pokemon-Go-0b51206346d144a0b55dda8d337fcc18.jpg)
 
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Change Your ‘Pokémon Go’ Buddy Pokémon
 
@@ -82,16 +75,23 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
 7. To feed your Pokémon buddy, tap and drag berries from the lower menu to your Pokémon. Three regular Razz, Nanab, or Pinap berries will be enough to have your buddy join you on the map. One Silver Pinap Berry, one Golden Razz Berry, or one Poffin will also do the job.  
  Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does Swapping Buddies Lose Progress?
 
@@ -100,16 +100,16 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
  However, if this buddy has reached Great Buddy or some other friendship level status, that progress will remain no matter how many times you swap the buddy out.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does It Matter Who Your Buddy Is in 'Pokémon Go'?
@@ -151,22 +151,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-discover-the-top-8-instagram-management-tools-for-iphone-and-android/"><u>[New] Discover the Top 8 Instagram Management Tools for iPhone and Android</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-10-must-have-tech-gadgets-for-seamless-video-meetings/"><u>[New] In 2024, 10 Must-Have Tech Gadgets for Seamless Video Meetings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-streamlining-meetings-integrate-slack-and-filmora-effortlessly/"><u>[New] Streamlining Meetings Integrate Slack & Filmora Effortlessly</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-key-destinations-enhancing-youtube-video-impact/"><u>2024 Approved Key Destinations Enhancing YouTube Video Impact</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bluetooth-integration-tutorial-pairing-sound-systems-to-computers-successfully/"><u>Bluetooth Integration Tutorial: Pairing Sound Systems to Computers Successfully</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-lgbtq-friendly-netflix-shows-whats-hot-this-july/"><u>Discover the Ultimate List of LGBTQ-Friendly Netflix Shows - What's Hot This July!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/driving-change-whats-behind-the-global-shift-to-electric-cars/"><u>Driving Change: What's Behind the Global Shift to Electric Cars?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhance-performance-why-you-shouldnt-shut-down-apps-on-your-android-smartphone/"><u>Enhance Performance: Why You Shouldn't Shut Down Apps on Your Android Smartphone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-3-technological-advances-shaping-our-future/"><u>Essential 3 Technological Advances Shaping Our Future</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-must-watch-lgbtq-content-netflixs-latest-and-greatest-in-july-2024/"><u>Explore Must-Watch LGBTQ Content: Netflix's Latest and Greatest in July 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-power-and-capabilities-of-nvidia-rtx-gpu-technology/"><u>Exploring the Power and Capabilities of Nvidia RTX GPU Technology</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-meizu-21-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Meizu 21 Pro Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-power-of-consistency-steps-to-increase-youtube-views-and-subscriptions/"><u>In 2024, The Power of Consistency Steps to Increase YouTube Views and Subscriptions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/minimizing-distraction-by-eschewing-fb-reels/"><u>Minimizing Distraction by Eschewing FB Reels</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/restoring-access-solutions-for-a-forgotten-ipad-code/"><u>Restoring Access: Solutions for a Forgotten iPad Code</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-setting-up-dual-monitors-with-a-macbook-air-for-efficient-workflows/"><u>Step-by-Step Tutorial: Setting Up Dual Monitors with a MacBook Air for Efficient Workflows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-headline-economy-utilizing-slug-lines-smartly/"><u>[New] 2024 Approved Mastering Headline Economy Utilizing Slug Lines Smartly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-complete-obs-playback-handbook/"><u>[New] The Complete OBS Playback Handbook</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-step-by-step-guide-to-initiating-a-tiktok-stream-from-desktop/"><u>[Updated] 2024 Approved Step-by-Step Guide to Initiating a TikTok Stream From Desktop</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-step-by-step-to-facial-obscurity-in-image-editing/"><u>[Updated] A Step-by-Step to Facial Obscurity in Image Editing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/address-and-repair-windows-11-search-problems-efficiently/"><u>Address and Repair Windows 11 Search Problems Efficiently</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-diagnosing-and-repairing-missing-helperdll-files/"><u>Comprehensive Guide: Diagnosing and Repairing Missing Helper.dll Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/critical-steps-to-repair-missing-rockalldlldll-files-and-prevent-system-failures/"><u>Critical Steps to Repair Missing Rockalldll.dll Files and Prevent System Failures</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/cing-your-game-time-with-youtube-live-broadcasts-for-2024/"><u>Enhancing Your Game Time with YouTube Live Broadcasts for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hulu-vs-huluplus-explained-understanding-the-core-differences/"><u>Hulu Vs. Hulu+ Explained: Understanding the Core Differences</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y200-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y200 Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infuse-sound-with-microsoft-powerpoint-decks-for-2024/"><u>Infuse Sound with Microsoft PowerPoint Decks for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-and-effective-techniques-to-diagnose-and-repair-windows-code-19-error/"><u>Quick and Effective Techniques to Diagnose and Repair Windows -Code 19 Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-network-not-registered-issue-on-your-samsung-smartphone/"><u>Resolving 'Network Not Registered' Issue on Your Samsung Smartphone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/silicon-witnesses-the-comic-side-of-computing-history-and-cybersecurity/"><u>Silicon Witnesses: The Comic Side of Computing History & Cybersecurity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-optimal-email-programs-on-iphones/"><u>The Ultimate Guide to Optimal Email Programs on iPhones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-royal-match-hierarchy-exploring-its-tiered-structure/"><u>Understanding the 'Royal Match' Hierarchy: Exploring Its Tiered Structure</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/voyage-visionaries-guide-unveiling-the-most-efficient-7-free-travel-ais/"><u>Voyage Visionaries Guide – Unveiling the Most Efficient 7 Free Travel AIs</u></a></li>
 </ul></div>
 

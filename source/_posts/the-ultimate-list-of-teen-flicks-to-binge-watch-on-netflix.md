@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Teen Flicks to Binge-Watch on Netflix
-date: 2024-09-19T21:34:12.453Z
-updated: 2024-09-20T18:24:33.200Z
+date: 2024-09-25T08:29:22.339Z
+updated: 2024-10-01T23:56:50.120Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate List of Teen Flicks to Binge-Watch on Netflix
@@ -57,10 +57,10 @@ thumbnail: https://www.lifewire.com/thmb/7Szu3n05m3UWPbIHfNnwHzz0dHI=/540x405/fi
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
@@ -80,6 +80,13 @@ thumbnail: https://www.lifewire.com/thmb/7Szu3n05m3UWPbIHfNnwHzz0dHI=/540x405/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -91,10 +98,10 @@ thumbnail: https://www.lifewire.com/thmb/7Szu3n05m3UWPbIHfNnwHzz0dHI=/540x405/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
@@ -107,13 +114,6 @@ thumbnail: https://www.lifewire.com/thmb/7Szu3n05m3UWPbIHfNnwHzz0dHI=/540x405/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -125,6 +125,13 @@ thumbnail: https://www.lifewire.com/thmb/7Szu3n05m3UWPbIHfNnwHzz0dHI=/540x405/fi
 * **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
 
@@ -161,5 +168,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-dimming-the-spotlight-in-pre-production-pro-for-2024/"><u>[New] Dimming the Spotlight In Pre-Production Pro for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-depth-analysis-screenflow-performance-on-macbooks/"><u>[Updated] In-Depth Analysis ScreenFlow Performance on MacBooks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/descargar-e-instalacion-de-conversor-de-archivos-video-libre-y-gratuito-para-cambiar-mp4-a-formato-m4v-con-movavi/"><u>Descargar E Instalación De Conversor De Archivos Video Libre Y Gratuito Para Cambiar MP4 a Formato M4V Con Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disabling-microsofts-live-tiles-on-your-windows-11-start-menu-a-step-by-step-guide/"><u>Disabling Microsoft's Live Tiles on Your Windows 11 Start Menu: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-dnssddll-not-found-issues-for-smoother-operations/"><u>Fixing Dnssd.dll Not Found Issues for Smoother Operations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-vertically-striped-glitches-on-a-samsung-tv-display/"><u>Fixing Vertically Striped Glitches on a Samsung TV Display</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-data-to-dialogue-crafting-a-bespoke-chatgpt/"><u>From Data to Dialogue: Crafting a Bespoke ChatGPT</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-boost-your-youtube-facebook-integration-with-hd-streams/"><u>In 2024, Boost Your YouTube-Facebook Integration with HD Streams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-microsoft-teams-experiencing-downtime-identifying-if-its-a-service-interruption-or-your-network/"><u>Is Microsoft Teams Experiencing Downtime? Identifying if It's a Service Interruption or Your Network</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/overcoming-instagrams-video-length-restrictions/"><u>Overcoming Instagram's Video Length Restrictions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-ac6-fires-of-rubicon-crash-issues-on-windowslinux-pcs/"><u>Solving AC6 'Fires of Rubicon' Crash Issues on Windows/Linux PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-hidden-risks-in-government-use-of-big-technology-platforms-insights-from-microsoft-service-interruptions/"><u>The Hidden Risks in Government Use of Big Technology Platforms - Insights From Microsoft Service Interruptions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-facebook-discover-its-roots-popularity-factors-and-main-attributes/"><u>Unveiling Facebook: Discover Its Roots, Popularity Factors & Main Attributes</u></a></li>
+</ul></div>
 

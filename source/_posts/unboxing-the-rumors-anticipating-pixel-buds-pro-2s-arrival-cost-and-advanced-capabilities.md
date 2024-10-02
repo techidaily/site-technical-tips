@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the Rumors: Anticipating Pixel Buds Pro 2'S Arrival, Cost, and Advanced Capabilities"
-date: 2024-09-19T20:02:21.976Z
-updated: 2024-09-20T19:53:00.389Z
+date: 2024-09-30T12:48:16.957Z
+updated: 2024-10-01T17:56:39.775Z
 categories:
   - BestProducts
 description: "This Article Describes Unboxing the Rumors: Anticipating Pixel Buds Pro 2'S Arrival, Cost, and Advanced Capabilities"
@@ -53,10 +53,16 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Google Pixel 9 Features
@@ -68,9 +74,23 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Offline location tracking** : Android 15 will introduce Google's Find My Device network for locating compatible items via Bluetooth. The Pixel 9 might be the first Google phone to be findable even when it's turned off.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Google Pixel 9 Specs and Hardware
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Display
 
@@ -87,10 +107,10 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cameras
@@ -98,13 +118,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
  This year's Pixels are changing up the camera bar. Compared to the Pixel 8's camera housing, it looks a bit more compact and rounded, but also flatter on the sides. It now has a small gap on either end that distinguishes it from last year's phones.
 
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 MySmartPrice
 
@@ -117,13 +130,6 @@ MySmartPrice
  There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Other Specs
 
@@ -154,5 +160,20 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-professional-4k-at-your-fingertips-benq-bl2711u-uncovered/"><u>[New] In 2024, Professional 4K at Your Fingertips BenQ BL2711U Uncovered</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-inshot-app-how-to-integrate-external-songs-easily/"><u>[New] InShot App How to Integrate External Songs Easily</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-navigating-sharex-critical-thoughts-and-alternatives-for-2024/"><u>[New] Navigating ShareX Critical Thoughts & Alternatives for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/isualcut-pro-for-2024/"><u>[New] VisualCut Pro for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/balancing-content-creation-and-employment/"><u>Balancing Content Creation and Employment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/command-prompt-tricks-open-it-right-from-the-desired-folder/"><u>Command Prompt Tricks: Open It Right From the Desired Folder</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-handle-required-module-not-found-errors-on-windowsmacos/"><u>How to Correctly Handle 'Required Module Not Found' Errors on Windows/MacOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-play-pokemon-unite/"><u>How to Play ‘Pokémon Unite’</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hulu-basic-or-plus-a-comprehensive-guide-to-their-unique-features/"><u>Hulu Basic or Plus? A Comprehensive Guide to Their Unique Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-message-delivery-tips-for-sending-texts-via-your-ipad/"><u>Mastering Message Delivery: Tips for Sending Texts via Your iPad</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ideal-timing-for-your-next-phone-upgrade-explained/"><u>The Ideal Timing for Your Next Phone Upgrade Explained</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transform-your-photos-with-nixplay-iriss-cloud-capability/"><u>Transform Your Photos with Nixplay Iris's Cloud Capability</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turning-off-the-text-overlays-for-movies-and-shows-on-amazons-prime-video-platform/"><u>Turning Off The Text Overlays for Movies and Shows on Amazon's Prime Video Platform</u></a></li>
+</ul></div>
 

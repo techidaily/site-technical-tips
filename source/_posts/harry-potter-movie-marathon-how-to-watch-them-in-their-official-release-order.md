@@ -1,7 +1,7 @@
 ---
 title: "Harry Potter Movie Marathon: How to Watch Them in Their Official Release Order"
-date: 2024-09-21T01:15:03.775Z
-updated: 2024-09-27T08:58:20.496Z
+date: 2024-09-27T23:38:32.510Z
+updated: 2024-10-02T01:20:24.834Z
 categories:
   - BestProducts
 description: "This Article Describes Harry Potter Movie Marathon: How to Watch Them in Their Official Release Order"
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 
  The_Pokémon Go_ buddy system is a feature that lets you show off your favorite Pokémon, earn candy, and receive in-app gifts and souvenirs. This guide explains how to play together with your buddy in_Pokémon Go_ , how to swap Pokémon buddies, and how to best use the buddy system to get the most out of the game.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Adding a ‘Pokémon Go’ Buddy for the First Time
 
 _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it significantly in 2019 by letting your buddy appear on the map. The app directed all players through the process of adding a buddy Pokémon after each feature update, but if for some reason you managed to bypass these in-app tutorials, you can add your first Pokémon buddy by selecting your trainer profile icon from the lower-left corner of the map screen and tapping**Buddy History** or**Buddy** .
@@ -30,19 +37,26 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 ![Pokemon Go trainer screen with Buddy History icon highlighted.](https://www.lifewire.com/thmb/BdiPfIa8oWBYka7UEwDkhYUEZlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Buddy-icon-in-Pokemon-Go-0b51206346d144a0b55dda8d337fcc18.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Change Your ‘Pokémon Go’ Buddy Pokémon
 
@@ -53,13 +67,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 2. Scroll down to the bottom of the screen and select**Swap Buddies** .  
 ![Pokemon GO app with Pokemon buddy icon and Swap Buddies icons highlighted.](https://www.lifewire.com/thmb/6eTmPPyKyA71qCXG--scAbBsXPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Swap-Buddy-1b1fab1572ac45a599c81931d34db597.jpg)
 3. Tap**Yes** .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
@@ -77,19 +84,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
  You can completely ignore the Pokémon buddy feature if you like, but it is required if you want to 100 percent complete your Pokédex and challenges.
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Play Together With Your Buddy in 'Pokémon Go'
 
  The Play Together feature in_Pokémon Go_ lets you interact with your buddy Pokémon by patting it. The feature works much like the similar features in the various mainline Pokémon video games on the[Nintendo Switch](https://www.lifewire.com/what-is-the-nintendo-switch-4148184) and[3DS consoles](https://www.lifewire.com/nintendo-3ds-overview-1126249) . The main difference is that playing with your buddy Pokémon in_Pokémon Go_ lets you earn hearts, which in turn helps level up your buddy Pokémon to higher friendship levels.  
@@ -100,6 +94,14 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 4. Drag your finger back and forth to pat it. If you’re patting your Pokémon buddy correctly, you should see sparkles.  
 ![Pokemon GO with buddy Pokemon and Play icons highlighted](https://www.lifewire.com/thmb/ZJo8o9TObp3SUocJtYPzmQ-r3VA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Play-with-buddy-Pokemon-5d81ad40271c49dba320d76c94d2ae10.jpg)
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
 7. To feed your Pokémon buddy, tap and drag berries from the lower menu to your Pokémon. Three regular Razz, Nanab, or Pinap berries will be enough to have your buddy join you on the map. One Silver Pinap Berry, one Golden Razz Berry, or one Poffin will also do the job.  
  Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
@@ -110,19 +112,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
  Swapping a_Pokémon Go_ buddy for another one will delete any unfinished progress that’s currently in action, but it won’t remove any gained friendship level status. For example, if your buddy Pokémon is halfway into unlocking a candy, swapping the buddy out will remove this progress. The usual stats that reset at the end of each day will also clear with a swap.
 
  However, if this buddy has reached Great Buddy or some other friendship level status, that progress will remain no matter how many times you swap the buddy out.
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does It Matter Who Your Buddy Is in 'Pokémon Go'?
 
@@ -163,20 +152,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-superior-frame-rate-in-languid-videos/"><u>[New] In 2024, Superior Frame Rate in Languid Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-best-bits-of-bulb-tech-top-17-choices-for-2024/"><u>[Updated] Best Bits of Bulb Tech - Top 17 Choices for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-comparing-streaming-software-obs-vs-shadowplay/"><u>[Updated] In 2024, Comparing Streaming Software OBS vs ShadowPlay</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-tips-navigating-without-watching-edgenuity-content/"><u>2024 Approved Pro Tips Navigating Without Watching Edgenuity Content</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/7-things-that-belong-in-your-summer-edc/"><u>7 Things That Belong in Your Summer EDC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-charting-the-course-of-viral-stocks-and-stories/"><u>In 2024, Charting the Course of Viral Stocks & Stories</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prime-film-unveiling-series/"><u>In 2024, Prime Film Unveiling Series</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-it-possible-to-manage-multiple-youtube-accounts-simultaneously/"><u>Is It Possible to Manage Multiple YouTube Accounts Simultaneously?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/secrets-of-successful-ps3-game-recording-tactics-for-2024/"><u>Secrets of Successful PS3 Game Recording Tactics for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Set Your Preferred Job Location on LinkedIn App of your Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-navigating-and-utilizing-the-internet-archives-wayback-machine/"><u>Step-by-Step Guide: Navigating and Utilizing the Internet Archive's Wayback Machine</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-spotifys-dual-playback-capabilities-for-paired-users/"><u>Understanding Spotify's Dual Playback Capabilities for Paired Users.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-access-to-premium-sports-entertainment-gratis-top-5-streaming-portals-revealed/"><u>Unlock Access to Premium Sports Entertainment , Gratis! Top 5 Streaming Portals Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-advanced-features-in-microsoft-teams-through-copilot-automation/"><u>Unlocking Advanced Features in Microsoft Teams Through Copilot Automation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-roadmap-to-making-money-with-personal-videos/"><u>[New] In 2024, The Roadmap to Making Money with Personal Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-transforming-your-photos-into-timeless-slow-mo-artistry/"><u>[Updated] In 2024, Transforming Your Photos Into Timeless Slow-Mo Artistry</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/academic-integrity-and-ai-how-to-cite-chatgpt-correctly/"><u>Academic Integrity and AI: How to Cite ChatGPT Correctly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-samsungs-roadmap-to-2025-official-announcements-growing-rumors-and-cutting-edge-product-reveals/"><u>Decoding Samsung's Roadmap to 2025: Official Announcements, Growing Rumors & Cutting-Edge Product Reveals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dive-into-enchanting-escape-games-for-iphone-and-ipad-reminiscent-of-the-room-and-myst/"><u>Dive Into Enchanting Escape Games for iPhone & iPad Reminiscent of 'The Room' & 'Myst'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-tech-fixes-for-the-there-was-a-problem-resetting-your-pc-message/"><u>DIY Tech Fixes for the 'There Was a Problem Resetting Your PC' Message</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-fixes-for-when-your-samsung-soundbar-fails-to-work/"><u>Effective Fixes for When Your Samsung Soundbar Fails to Work</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-dell-wd19-hard-drive-drivers-here/"><u>Get the Latest Dell WD19 Hard Drive Drivers Here!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correct-the-not-found-opengl32dll-error-message/"><u>How To Correct The Not Found Opengl32.dll Error Message</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-next-step-after-vlc-top-media-players-reviewed/"><u>In 2024, The Next Step After VLC - Top Media Players Reviewed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/itunes-backup-file-restoration-how-to-retrieve-deleted-or-lost-ios-content-from-your-itunes-archive/"><u>ITunes Backup File Restoration: How to Retrieve Deleted or Lost iOS Content From Your iTunes Archive</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/phoenix-assistance-stellars-server-sos-help/"><u>Phoenix Assistance: Stellar's Server SOS Help</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/preventing-constant-game-crashes-in-rogue-company-tips-and-solutions-for-gamers/"><u>Preventing Constant Game Crashes in Rogue Company: Tips and Solutions for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-interaction-meta-quest-3-insights/"><u>Revolutionizing Interaction: Meta Quest 3 Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-connectivity-seamlessly-linking-oculus-quest-2-with-your-mobile-device/"><u>Wireless Connectivity: Seamlessly Linking Oculus Quest 2 with Your Mobile Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Managing Network Discovery Settings in Windows 11 Easily
-date: 2024-09-26T10:11:02.690Z
-updated: 2024-09-27T02:14:21.619Z
+date: 2024-09-28T02:15:13.037Z
+updated: 2024-10-02T08:09:23.007Z
 categories:
   - BestProducts
 description: This Article Describes Managing Network Discovery Settings in Windows 11 Easily
@@ -33,13 +33,6 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fullscreen Screenshot and Auto-save to Folder
 
  `Win+PrtSc`
@@ -53,10 +46,10 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Screenshot Part of the Screen
@@ -75,10 +68,10 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
@@ -89,6 +82,13 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.
@@ -98,10 +98,10 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
@@ -150,22 +150,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-launching-into-youtube-success-a-starter-guide-for-profit/"><u>[New] 2024 Approved Launching Into Youtube Success A Starter Guide for Profit</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-achieve-professionalism-in-sims-4-videography/"><u>[New] Achieve Professionalism in Sims 4 Videography</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-best-practices-for-secure-youtube-mp4-conversion-for-2024/"><u>[New] Best Practices for Secure YouTube MP4 Conversion for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-art-of-iphone-podcast-listening/"><u>[New] The Art of iPhone Podcast Listening</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-navigate-youtube-success-a-compreehensive-guide-to-analytics/"><u>[Updated] Navigate YouTube Success A Compreehensive Guide to Analytics</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-step-by-step-approach-to-finding-a-macbooks-unique-identifier-number/"><u>A Step-by-Step Approach to Finding a MacBook's Unique Identifier Number</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/creating-an-extended-wireless-sound-network-sync-your-bluetooth-speakers-together/"><u>Creating an Extended Wireless Sound Network: Sync Your Bluetooth Speakers Together</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-tesla-robotaxi-estimated-rates-projected-rollout-date-vehicle-specs-and-ongoing-urban-legends/"><u>Decoding Tesla Robotaxi: Estimated Rates, Projected Rollout Date, Vehicle Specs, and Ongoing Urban Legends</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortless-guide-step-by-step-manual-update-installation-for-windows-11/"><u>Effortless Guide: Step-by-Step Manual Update Installation for Windows 11</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/insights-and-potential-upsides-on-google-stadias-current-offerings/"><u>Insights and Potential Upsides on Google Stadia's Current Offerings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-fix-for-playback-hiccups-in-your-presentation-audios/"><u>Master the Fix for Playback Hiccups in Your Presentation Audios</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-mssocil32exe-cant-find-msodll-a-step-by-step-guide/"><u>Resolving 'mssocil32.exe' Can't Find mso.dll: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/samsungs-2023-revamp-bd-j5900-explored/"><u>Samsung's 2023 Revamp BD-J5900 Explored</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-download-of-lenovo-t430-drivers-on-windows-1187-systems/"><u>Step-by-Step Download of Lenovo T430 Drivers on Windows 11/8/7 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-best-true-crime-podcast-series/"><u>The Ultimate Selection: Best True Crime Podcast Series</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-techniques-for-dealing-with-x3daudiodll-missing-mismatch/"><u>Troubleshooting Techniques for Dealing With 'x3daudio.dll' Missing Mismatch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-solving-the-mystery-of-windows-11s-black-display-dilemma/"><u>Ultimate Guide: Solving the Mystery of Windows 11'S Black Display Dilemma</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2023s-top-no-cost-fb-photo-and-video-crafting/"><u>[New] 2023'S Top No-Cost FB Photo & Video Crafting</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-livestream-excellence-unveiling-the-best-practices-for-facebook-recorders/"><u>[Updated] Livestream Excellence Unveiling the Best Practices for Facebook Recorders</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/access-blockbuster-movies-and-tv-episodes-at-no-charge-discover-crackle-streaming/"><u>Access Blockbuster Movies & TV Episodes at No Charge - Discover Crackle Streaming!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722894163626-android-16-unveiled-price-scoop-release-date-and-features-stay-ahead-with-our-comprehensive-guide/"><u>Android 16 Unveiled: Price Scoop, Release Date & Features - Stay Ahead with Our Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conquering-connectivity-issues-the-ultimate-fixes-for-netflixs-nw-1-19-error-code/"><u>Conquering Connectivity Issues: The Ultimate Fixes for Netflix's NW-1-19 Error Code</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effective-strategies-for-mastering-slug-line-formats/"><u>Effective Strategies for Mastering Slug Line Formats</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-drained-to-energized-how-to-swap-out-your-ipads-battery-safely/"><u>From Drained to Energized: How to Swap Out Your iPad's Battery Safely</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-select-selections-elite-mac-video-grabbers-reviewed/"><u>In 2024, Select Selections Elite Mac Video Grabbers Reviewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-information-on-apples-latest-creation-touchscreen-macbook-what-to-expect-in-terms-of-cost-date-and-features/"><u>Inside Information on Apple's Latest Creation: Touchscreen MacBook - What to Expect in Terms of Cost, Date, and Features</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/optimal-zoom-audio-enhancing-quality-two-fold-approach/"><u>Optimal Zoom Audio Enhancing Quality, Two-Fold Approach</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/smart-savings-for-students-how-to-access-exclusive-deals-from-lenovo/"><u>Smart Savings for Students: How to Access Exclusive Deals From Lenovo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-chromebook-freeze-top-8-solutions/"><u>Solving the Chromebook Freeze: Top 8 Solutions</u></a></li>
 </ul></div>
 

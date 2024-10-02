@@ -1,7 +1,7 @@
 ---
 title: Can't Log Into PSN? Here's How to Find Out If You’re Alone in This Experience.
-date: 2024-09-25T02:35:14.810Z
-updated: 2024-09-26T23:21:43.998Z
+date: 2024-09-26T21:42:33.173Z
+updated: 2024-10-01T23:54:04.034Z
 categories:
   - BestProducts
 description: This Article Describes Can't Log Into PSN? Here's How to Find Out If You’re Alone in This Experience.
@@ -38,44 +38,39 @@ lolostock / Getty Images
 ![The Windows "Power User" Menu](https://www.lifewire.com/thmb/kgpd2560_TwRJkuY7a59tVapXF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-scan-from-printer-computer-2-fddf79dcabde4333869b9e58bb271f87.jpg)
 3. Select**Settings** .
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select**Devices** from the main Settings screen.  
 ![The Windows 10 Settings App Home Screen with Devices highlighted](https://www.lifewire.com/thmb/eDONGxJf7R2qCHBGD978GGxclL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Devices-d1d66147ad624e268dbeba04e5b237ca.jpg)
 5. Next, click**Printers & Scanners** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
 6. Click on your desired printer, then click**Manage** .  
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
 7. If the printer is a multi-function device, it will include a drop-down menu. Select the entry starting with**Scanner** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Windows 10 Settings App Printer Configuration Screen with Scanner function highlighted](https://www.lifewire.com/thmb/Y-QajltiFDvfDF-v2ir44sI--SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scanner-84125b5402814c6987469662d6d379c3.jpg)
 8. Click**Open scanner** , which will also open the**Scan** Windows app.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Windows 10 Settings App Scanner Configuration Screen with Open Scanner highlighted](https://www.lifewire.com/thmb/JsnzRlGh3OYThkvTZjjRhC3XJtc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-3eaf187241ed41408030d883203845f3.jpg)
 9. Arrange your document's page(s) either on the flatbed or in the feeder, making sure they're aligned correctly.
 10. Click the**Scan** button in the app.  
@@ -83,10 +78,10 @@ lolostock / Getty Images
  The Scan app's**Source** setting dictates if it will scan from the device's document feeder (if there is one), or from the flatbed. Unless you know you need to change it, it's a good idea to leave this set on**Auto** . Document feeders typically have a lever to detect if there are pages inside, and leaving this set to**Auto** will scan from the feeder if there’s something loaded, and the flatbed otherwise. Note that when scanning with the flatbed, you'll need to scan one page at a time.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
@@ -100,16 +95,24 @@ lolostock / Getty Images
 13. Select your printer, then click**Scan** .  
 ![The macOS System Preferences Printers & Scanners Screen with Scan button highlighted](https://www.lifewire.com/thmb/ktR2WSWzlEpbc2NybPodItSivPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c2dda167a6f64532b0d662ba60fbfe31.jpg)
 14. Click**Open Scanner** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The macOS System Preferences Scan Dialog with Open Scanner highlighted](https://www.lifewire.com/thmb/4DMwvMWBnIx8IPv3Hgkl-uBcm_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-14267d0b3c344e82bb76d483242ca332.jpg)
 15. In the Scanner program, you can select the folder to which your scans will be saved by making a select in the**Scan to** drop-down menu (shown as**Pictures** in the below image).  
 ![The macOS Scanner Application with the Picture folder highlighted](https://www.lifewire.com/thmb/4Q2yOFaCL5sBUADyZYmgtNYn9o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pictures-be3197066428416cb2444bb85fdf59dd.jpg)
 16. To the right, the**Size** drop-down menu (shown as**US Letter** in the above screenshot) will also let you choose the size of the item.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 17. If your scanner has a document feeder and you want to use it, select**Use Document Feeder** .
@@ -155,20 +158,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-elevate-your-creative-process-mastering-the-use-of-luts-in-pscc/"><u>[New] In 2024, Elevate Your Creative Process Mastering the Use of LUTs in PSCC</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mastering-the-art-of-iphone-speech-capture/"><u>[New] In 2024, Mastering the Art of iPhone Speech Capture</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-legends-reign-supreme-top-7-total-war-quests-for-2024/"><u>[New] Legends Reign Supreme Top 7 Total War Quests for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-styling-your-content-a-compreran-guide-to-insta-photo-watermarks-for-2024/"><u>[New] Styling Your Content A Compreran Guide to Insta Photo Watermarks for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-the-power-of-memes-a-guide-to-creating-funny-videos/"><u>[Updated] Unlocking the Power of Memes A Guide to Creating Funny Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unlocking-videos-on-fb-with-2023-mobile-utility/"><u>2024 Approved Unlocking Videos on FB with 2023 Mobile Utility</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/crucial-aspects-to-contemplate-before-investing-in-your-next-desktop-system/"><u>Crucial Aspects to Contemplate Before Investing in Your Next Desktop System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-the-scoop-anticipated-details-about-apples-upcoming-annulus-product-price-and-release-date-revealed/"><u>Get the Scoop: Anticipated Details About Apple's Upcoming Annulus Product – Price & Release Date Revealed</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-oppo-a79-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Oppo A79 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-image-lookups-on-facebook-a-comprehensive-guide/"><u>Mastering the Art of Image Lookups on Facebook: A Comprehensive Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/preventing-phantom-panels-post-power-cycle/"><u>Preventing Phantom Panels Post-Power Cycle</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/secrets-to-unlocking-youtube-premiums-educational-savings-a-step-by-step-guide/"><u>Secrets to Unlocking YouTube Premium's Educational Savings – A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722885613255-the-newest-apple-audio-gizmo-revealed-predictions-on-price-tag-drop-date-and-specs/"><u>The Newest Apple Audio Gizmo Revealed? Predictions on Price Tag, Drop Date and Specs!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-best-note-taking-applications-for-your-ipad-and-ipad-pro/"><u>Top 7 Best Note-Taking Applications for Your iPad & iPad Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-causes-youtube-to-stop-functioning-properly/"><u>What Causes YouTube to Stop Functioning Properly?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-navigating-through-the-top-5-new-facebook-shifts-for-2024/"><u>[New] Navigating Through the Top 5 New Facebook Shifts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-youtube-potential-with-perpetual-creative-commons-membership/"><u>[New] Unlocking YouTube Potential with Perpetual Creative Commons Membership</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-visualcut-content-checker/"><u>[Updated] 2024 Approved VisualCut Content Checker</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hilarityhatcher-create-comedy-with-a-click/"><u>[Updated] HilarityHatcher Create Comedy with a Click</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-silver-winners-prime-dvd-software-for-sierra-os/"><u>[Updated] Silver Winners Prime Dvd Software for Sierra OS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-tutorial-installing-microsofts-latest-operating-system-onto-fresh-hddssd/"><u>A Comprehensive Tutorial: Installing Microsoft's Latest Operating System Onto Fresh HDD/SSD</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/e-captivating-sports-videography-for-2024/"><u>Create Captivating Sports Videography for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-2024s-most-enjoyable-imessage-games/"><u>Discover the Ultimate List: 2024'S Most Enjoyable iMessage Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-hidden-password-lists-on-your-mac-a-step-by-step-guide/"><u>Discovering Hidden Password Lists on Your Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171200463-epic-game-retro-experience-for-modern-devices/"><u>Epic Game Retro Experience for Modern Devices!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-80s-movie-classics-a-guide-to-the-greatest-of-all-time/"><u>Essential '80S Movie Classics: A Guide to the Greatest of All Time</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ranked-top-free-virtual-sport-events-viewing-portals/"><u>Ranked: Top Free Virtual Sport Events Viewing Portals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-browsing-with-duckduckgo-is-it-the-answer-to-online-privacy-concerns/"><u>Secure Browsing with DuckDuckGo: Is It the Answer to Online Privacy Concerns?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-y78-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo Y78 5G Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-6-kid-friendly-movie-websites-with-free-screening-options/"><u>Top 6 Kid-Friendly Movie Websites with Free Screening Options</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-strategies-for-achieving-viral-success-on-youtube/"><u>Top 8 Strategies for Achieving Viral Success on YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-get-netflix-running-again-on-lg-tv-with-these-19-tips/"><u>Troubleshooting Guide: Get Netflix Running Again on LG TV with These 19 Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/wmaandroid-androidwma/"><u>WMAファイルが苦手なAndroidデバイス向けの優雅にてんこみました - AndroidとWMA再生の新しいコツ</u></a></li>
 </ul></div>
 

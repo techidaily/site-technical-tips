@@ -1,7 +1,7 @@
 ---
 title: Waterproof Capabilities of the Latest iPhone 15 Pro Max Revealed!
-date: 2024-09-25T19:21:48.542Z
-updated: 2024-09-27T02:57:58.926Z
+date: 2024-09-28T05:23:19.490Z
+updated: 2024-10-01T23:15:04.517Z
 categories:
   - BestProducts
 description: This Article Describes Waterproof Capabilities of the Latest iPhone 15 Pro Max Revealed!
@@ -32,10 +32,10 @@ thumbnail: https://www.lifewire.com/thmb/tjbZu8TyZ_Hgned3kiXPg5aRRR0=/400x300/fi
  Google is predicted to debut not only the Pixel 9 and Pixel 9 Pro but also the Pixel 9 Pro XL and Pixel 9 Pro Fold (aka[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ). All of these phones will likely be announced at the same event.[Follow our Google Event page](https://www.lifewire.com/google-event-5205756) for those updates.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
@@ -43,10 +43,10 @@ thumbnail: https://www.lifewire.com/thmb/tjbZu8TyZ_Hgned3kiXPg5aRRR0=/400x300/fi
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Google Pixel 9 Price Rumors
@@ -60,13 +60,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Pixel 9 Pro XL** \- $1,199
 * **Pixel 9 Pro Fold** \- $1,799
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pre-Order Information
 
  You can't pre-order the Pixel 9 just yet. We'll drop the link here when pre-ordering starts, which will likely be the same day Google unveils the phones.
@@ -74,10 +67,16 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Google Pixel 9 Features
@@ -119,6 +118,13 @@ MySmartPrice
 
  At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Battery
 
  There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
@@ -156,22 +162,19 @@ MySmartPrice
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-elevating-visuals-by-attaching-youtube-music-tracks/"><u>[New] Elevating Visuals by Attaching YouTube Music Tracks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-securely-sharing-video-on-youtube-with-settings/"><u>[Updated] Securely Sharing Video on YouTube with Settings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-essential-date-counting-tools-for-android-and-ios-users/"><u>2024 Approved Essential Date-Counting Tools for Android and iOS Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-about-samsung-galaxy-s25-ultra-anticipated-tech-specs-launch-date-and-cost-estimates-revealed-in-rumors/"><u>All About Samsung Galaxy S25 Ultra - Anticipated Tech Specs, Launch Date & Cost Estimates Revealed in Rumors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722898132666-beginners-guide-easily-access-command-prompt-on-any-windows-device/"><u>Beginners Guide: Easily Access Command Prompt on Any Windows Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/demystifying-the-0x80070570-mistake-solutions-for-a-smooth-pc-experience/"><u>Demystifying the 0X80070570 Mistake - Solutions for a Smooth PC Experience</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/embrace-change-on-the-move-with-flexible-tripod-12/"><u>Embrace Change on the Move with Flexible Tripod 12</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-history-and-features-of-aim-the-definitive-guide-to-aols-messaging-app/"><u>Exploring the History and Features of AIM: The Definitive Guide to AOL's Messaging App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gaming-pc-must-haves-a-guide-to-picking-out-the-best-system-for-your-needs/"><u>Gaming PC Must-Haves: A Guide to Picking Out the Best System for Your Needs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/great-iphone-and-ipad-pranks-to-pull-on-friends/"><u>Great iPhone and iPad Pranks to Pull on Friends</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-enable-setup-mode-on-an-echo-dot-device-a-step-by-step-tutorial/"><u>How To Enable Setup Mode On An Echo Dot Device – A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Oppo Reno 8T? | Dr.fone</u></a></li>
-<li><a href="https://discover-help.techidaily.com/how-to-transform-your-mts-videos-into-mp4-format-for-free-windowsmac/"><u>How to Transform Your MTS Videos Into MP4 Format for Free (Windows/Mac)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-practical-ways-to-save-and-download-vimeo-footage/"><u>In 2024, Practical Ways to Save and Download Vimeo Footage</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Samsung Galaxy F04? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/latest-driver-for-amds-hd-6950-graphics-on-w11-os/"><u>Latest Driver for AMD's HD 6950 Graphics on W11 OS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-unlocking-real-time-navigation-with-google-maps-live-view-feature/"><u>Step-by-Step Tutorial: Unlocking Real-Time Navigation with Google Maps' Live View Feature</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-step-up-to-the-challenge-full-screen-mastery-for-fb-vids/"><u>[New] Step Up to the Challenge Full-Screen Mastery for FB Vids</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-ultimate-list-of-legit-safe-follower-sources-for-2024/"><u>[New] The Ultimate List of Legit, Safe Follower Sources for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-filmmakers-lounge-app-for-2024/"><u>[Updated] Filmmaker's Lounge App for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-broadcasting-vids-directly-from-phone-twitter-without-retweets/"><u>2024 Approved Broadcasting Vids Directly From Phone – Twitter, Without Retweets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-about-the-next-gen-google-pixel-9-pricing-forecasts-release-timeline-and-potential-tech-innovations/"><u>All About the Next-Gen Google Pixel 9: Pricing Forecasts, Release Timeline, and Potential Tech Innovations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-newest-personal-robot-for-home-use-projections-of-cost-and-release-date-with-insights-into-capabilities/"><u>Apple's Newest Personal Robot for Home Use: Projections of Cost and Release Date with Insights Into Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-save-configuration-errors-in-pubg/"><u>Correcting Save Configuration Errors in PUBG</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/detailed-instructions-for-performing-a-clean-installation-on-dell-machines/"><u>Detailed Instructions for Performing a Clean Installation on Dell Machines</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-apple-iphone-14-pro-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone 14 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-multi-photo-posting-techniques-for-facebook-users/"><u>Effortless Multi-Photo Posting Techniques for Facebook Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/facebook-demystified-a-deep-dive-into-its-history-user-fascination-and-essential-features/"><u>Facebook Demystified: A Deep Dive Into Its History, User Fascination & Essential Features</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-samsung-galaxy-xcover-7-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Samsung Galaxy XCover 7 Phone that is Locked?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-pairing-your-apple-airpods-with-a-windows-based-hp-computer/"><u>Step-by-Step Guide: Pairing Your Apple AirPods with a Windows-Based HP Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-of-smartwatches-google-pixel-edition-3-unveiling-the-release-window-pricing-and-features-amidst-rumors/"><u>The Future of Smartwatches: Google Pixel Edition 3 – Unveiling the Release Window, Pricing & Features Amidst Rumors</u></a></li>
 </ul></div>
 

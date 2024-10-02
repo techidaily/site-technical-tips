@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Restoring Functionality in Microsoft Edge Browser
-date: 2024-09-26T01:31:28.095Z
-updated: 2024-09-26T18:38:34.310Z
+date: 2024-09-26T19:20:28.577Z
+updated: 2024-10-02T08:31:12.627Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Guide to Restoring Functionality in Microsoft Edge Browser
@@ -29,13 +29,6 @@ thumbnail: https://www.lifewire.com/thmb/j7Msol_mq4GAVPxtiy-zcdeSDHM=/400x300/fi
 
  If you're having issues[making HD video calls with Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) , there are a number of other factors that go into troubleshooting the reason.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 1: Reset Your Password
 
  Reset your password if you can't log in to Skype. Visit[Microsoft's Recover Your Account](https://account.live.com/resetpassword.aspx) page to walk through resetting your Skype password, or use our[step-by-step guide for resetting your Microsoft Account password](https://www.lifewire.com/how-to-reset-your-microsoft-account-password-2624953) (it's the same account).
@@ -52,13 +45,6 @@ thumbnail: https://www.lifewire.com/thmb/j7Msol_mq4GAVPxtiy-zcdeSDHM=/400x300/fi
 
 ![Skype Status Normal Service](https://www.lifewire.com/thmb/gelce_nk6NZFVOXIBopwnyukvrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-status-normal-service-002401f4bdd54451a46e388b733ee6d5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Something else you can do to troubleshoot the problem is to check[Skype's status on Down Detector](https://downdetector.com/status/skype/) to see if other users are reporting that it's down or having some other connection problem.
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
@@ -71,13 +57,6 @@ thumbnail: https://www.lifewire.com/thmb/j7Msol_mq4GAVPxtiy-zcdeSDHM=/400x300/fi
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 4: Check Skype's Audio Settings and Permissions
 
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
@@ -89,6 +68,13 @@ thumbnail: https://www.lifewire.com/thmb/j7Msol_mq4GAVPxtiy-zcdeSDHM=/400x300/fi
  If you're using Skype on a computer, open it and tap the **Alt** key so that you can see the main menu. Then, go to **Tools** \>**Audio & Video Settings** .
 
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
 * If the microphone doesn't work with Skype, select the menu next to**Microphone** and see if there are any other options; you might have the wrong device selected.
@@ -114,10 +100,16 @@ thumbnail: https://www.lifewire.com/thmb/j7Msol_mq4GAVPxtiy-zcdeSDHM=/400x300/fi
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 5: Check Skype's Video Settings and Permissions
@@ -146,6 +138,13 @@ thumbnail: https://www.lifewire.com/thmb/j7Msol_mq4GAVPxtiy-zcdeSDHM=/400x300/fi
 
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 6: Make a Test Call in Skype
 
  Now that you've made sure that the hardware is turned on and enabled in Skype, it's time to[make a test audio call](https://www.lifewire.com/skype-quick-audio-test-3426523) .
@@ -158,6 +157,13 @@ thumbnail: https://www.lifewire.com/thmb/j7Msol_mq4GAVPxtiy-zcdeSDHM=/400x300/fi
 
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 7: Reinstall Skype
 
  If Skype isn't working even after trying all these troubleshooting steps, and it's definitely not a problem with the service itself (Step 2), then remove the app completely and[download Skype](https://www.skype.com/en/get-skype/) again.
@@ -166,13 +172,6 @@ thumbnail: https://www.lifewire.com/thmb/j7Msol_mq4GAVPxtiy-zcdeSDHM=/400x300/fi
 
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 8: Update Device Drivers
 
  At this point, you've verified all the proper Skype-related settings are set up correctly, so it's time to move beyond the program and onto your actual computer and other hardware.
@@ -180,10 +179,10 @@ thumbnail: https://www.lifewire.com/thmb/j7Msol_mq4GAVPxtiy-zcdeSDHM=/400x300/fi
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 9: Verify the Microphone Works
@@ -191,6 +190,13 @@ thumbnail: https://www.lifewire.com/thmb/j7Msol_mq4GAVPxtiy-zcdeSDHM=/400x300/fi
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
 
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 10: Check the System Sound
 
@@ -231,22 +237,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://technical-tips.techidaily.com/spider-man-no-way-home-how-to-legally-view-and-stream-it/"><u>'Spider-Man: No Way Home': How to Legally View and Stream It?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-the-potential-of-your-phone-and-dslr-for-igtv-videos/"><u>[New] Unlocking the Potential of Your Phone & DSLR for IGTV Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-elevate-your-gaming-by-recording-ps3-games/"><u>[Updated] Elevate Your Gaming by Recording PS3 Games</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/buyers-guide-to-smartwatches-5-key-aspects-you-shouldnt-ignore/"><u>Buyer's Guide to Smartwatches: 5 Key Aspects You Shouldn't Ignore</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/delving-into-macos-montereys-features/"><u>Delving Into macOS Monterey's Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-methods-to-get-rid-of-pin-security-feature-in-microsofts-latest-operating-system/"><u>Effective Methods to Get Rid of Pin Security Feature in Microsoft's Latest Operating System</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-c12-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nokia C12 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-realme-c67-4g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Realme C67 4G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-motorola-g54-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Motorola G54 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-mspcm-bar-with-finesse-in-windows-11-environment/"><u>Navigating MSPCM Bar with Finesse in Windows 11 Environment</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/playing-pokemon-unite-on-pc-techniques-tricks-and-setup-advice/"><u>Playing Pokémon Unite on PC: Techniques, Tricks & Setup Advice</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-ieframedll-malfunction-a-step-by-step-guide/"><u>Resolving ieframe.dll Malfunction: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/snap-successfully-activating-and-using-timed-photo-mode-on-your-iphones-camera/"><u>Snap Successfully: Activating and Using Timed Photo Mode on Your iPhone's Camera</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-art-of-lenovos-video-screen-capture/"><u>The Art of Lenovo's Video Screen Capture</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-guide-to-watching-actresssinger-taylor-swifts-filmography/"><u>The Complete Guide to Watching Actress/Singer Taylor Swift’s Filmography</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-the-impact-of-memory-bandwidth-on-computer-performance/"><u>Understanding the Impact of Memory Bandwidth on Computer Performance</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-follow-your-favorites-top-6-mobile-apps-for-downloading-youtube-beats/"><u>[Updated] Follow Your Favorites Top 6 Mobile Apps for Downloading YouTube Beats</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unveiling-the-best-3-video-hosts-post-youtube-era/"><u>2024 Approved Unveiling the Best 3 Video Hosts Post-YouTube Era</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/t-advice-on-youtube-short-pitfalls-for-2024/"><u>Expert Advice on YouTube Short Pitfalls for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/explore-the-best-18-windows-compatible-movies-created-for-professional-use-on-windows-os-versions-1087/"><u>Explore the Best 18 Windows-Compatible Movies Created for Professional Use on Windows OS Versions 10/8/7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-streaming-media-from-your-mac-computer-to-the-television-via-airplay/"><u>Guide: Streaming Media From Your Mac Computer to the Television via AirPlay</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-infinix-smart-7-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Infinix Smart 7 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-screen-captures-a-step-by-step-guide-for-logitech-keyboards/"><u>Mastering Screen Captures: A Step-by-Step Guide for Logitech Keyboards</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-mfc71dll-file-missing-or-cannot-be-located-issues/"><u>Resolving MFC71.DLL File Missing or Cannot Be Located Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-how-to-fix-unresponsive-usb-portable-internet-sharing/"><u>Solutions: How to Fix Unresponsive USB Portable Internet Sharing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-crosswise-displacement-issues-on-monitors/"><u>Step-by-Step Guide: Resolving Crosswise Displacement Issues on Monitors</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-showdown-ps5s-edge-over-ps4-pro/"><u>The Ultimate Showdown: PS5's Edge Over PS4 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-15-free-ai-courses-your-ultimate-self-taught-journey-with-lifewire/"><u>Top 15 Free AI Courses: Your Ultimate Self-Taught Journey with Lifewire</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-storytellers-complete-vsco-tutorial/"><u>Visual Storyteller's Complete VSCO Tutorial</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-y77t-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo Y77t Phone Network-Ready</u></a></li>
 </ul></div>
 

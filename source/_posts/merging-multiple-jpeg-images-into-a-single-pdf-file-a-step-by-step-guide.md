@@ -1,7 +1,7 @@
 ---
 title: "Merging Multiple JPEG Images Into a Single PDF File: A Step-by-Step Guide"
-date: 2024-09-15T20:57:08.545Z
-updated: 2024-09-21T01:56:09.396Z
+date: 2024-09-28T05:58:36.797Z
+updated: 2024-10-01T17:48:28.174Z
 categories:
   - BestProducts
 description: "This Article Describes Merging Multiple JPEG Images Into a Single PDF File: A Step-by-Step Guide"
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What to Do When You Can't Connect to Discord
 
  There are several things you can try if Discord seems to be working fine for everyone else, but you're still having[connection issues](https://www.lifewire.com/fix-connection-issues-discord-5086484) :
@@ -50,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
 8. It's unlikely, but there could be an issue with your[DNS server](https://www.lifewire.com/what-is-a-dns-server-2625854) . If you want to try[switching DNS servers](https://www.lifewire.com/how-to-change-dns-server-settings-2617979) , there are plenty of ways to do so with a[free and public option](https://www.lifewire.com/free-and-public-dns-servers-2626062) , although bear in mind that it's quite an advanced solution.
 
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Discord Error Messages
 
@@ -89,18 +103,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-optimal-screen-record-settings-for-facetime-conversations/"><u>[New] In 2024, Optimal Screen Record Settings for FaceTime Conversations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-polarr-editor-explained-the-ultimate-visual-enhancement-pathway/"><u>[New] Polarr Editor Explained The Ultimate Visual Enhancement Pathway</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-guffaw-glory-top-downloads-of-jingles/"><u>[Updated] 2024 Approved Guffaw Glory Top Downloads of Jingles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-audioarchive-compiler-download-playback-and-test/"><u>[Updated] AudioArchive Compiler Download, Playback & Test</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-ai-powered-tool-for-transforming-words-into-melodies/"><u>Discover the Ultimate AI-Powered Tool for Transforming Words Into Melodies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ditching-the-cloud-why-you-should-consider-running-your-own-local-chatbot-today-and-4-compelling-reasons/"><u>Ditching the Cloud: Why You Should Consider Running Your Own Local Chatbot Today (And 4 Compelling Reasons)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-techniques-for-adjusting-views-with-zoompan-functionality-in-midjourney-platforms/"><u>Effective Techniques for Adjusting Views with Zoom/Pan Functionality in MidJourney Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/electric-vehicle-upkeep-vital-maintenance-routines-for-long-lasting-performance/"><u>Electric Vehicle Upkeep: Vital Maintenance Routines for Long-Lasting Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-tips-for-disinfecting-your-vr-gear-effectively-and-safely/"><u>Essential Tips for Disinfecting Your VR Gear Effectively and Safely</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-access-unveiling-chatgpts-enhanced-speaking-feature/"><u>Exclusive Access: Unveiling ChatGPT's Enhanced Speaking Feature</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-the-future-of-content-with-metan-ai-powered-video-generation/"><u>Experience the Future of Content with Meta'n AI-Powered Video Generation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-the-power-of-ai-anywhere-with-googles-latest-release-gemini-for-mobile/"><u>Experience the Power of AI Anywhere with Google's Latest Release: Gemini for Mobile</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a14-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A14 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-jump-into-action-how-to-start-someones-tiktok-session/"><u>In 2024, Jump Into Action How To Start Someone's TikTok Session</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mxf-to-avi-transformation-for-free-the-ultimate-guide-on-easy-conversion-techniques/"><u>MXF to AVI Transformation for Free - The Ultimate Guide on Easy Conversion Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/optimizing-facebook-ads-with-a-structured-triple-layered-copywriting-approach/"><u>Optimizing Facebook Ads with a Structured, Triple-Layered Copywriting Approach</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Complete Breakdown of USSD – What You Need to Know About Unstructured Data Services
-date: 2024-09-17T00:53:37.609Z
-updated: 2024-09-21T01:10:21.556Z
+date: 2024-09-27T20:59:26.459Z
+updated: 2024-10-02T10:01:13.855Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Breakdown of USSD – What You Need to Know About Unstructured Data Services
@@ -21,6 +21,13 @@ thumbnail: https://www.lifewire.com/thmb/Os_N3r14bsehI0Vy6R-Qc8T-HIA=/400x300/fi
 
  The USSD messaging protocol is part of the[Global System for Mobile Communications (GSM)](https://www.lifewire.com/definition-of-gsm-578670) digital cellular standard. Like[SMS](https://www.lifewire.com/what-is-sms-mms-iphone-2000247) and[MMS](https://www.lifewire.com/what-is-mms-picture-messaging-578671) , USSD facilitates communication without the need for a dedicated app. Unlike SMS, which is used for back-and-forth text messaging between two phones, USSD establishes a real-time connection between your phone and a[mobile network](https://www.lifewire.com/how-does-a-mobile-network-work-2373338) or a[server](https://www.lifewire.com/servers-in-computer-networking-817380) . That way, you can do things like add time to your phone plan, check your bank account, and more without having to download or install any apps on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is a USSD Code?
 
  USSD relies on codes made up of characters found on every mobile phone. When you dial a USSD code, your phone sends a request to a USSD[network gateway](https://www.lifewire.com/definition-of-gateway-817891) , which routes the request to a web-based application. The network gateway then returns a text-based menu that you can use to interact with the app.
@@ -33,18 +40,24 @@ thumbnail: https://www.lifewire.com/thmb/Os_N3r14bsehI0Vy6R-Qc8T-HIA=/400x300/fi
 
  Since USSD applications run on your mobile network rather than the device itself, they don't take up storage space or consume system resources, making them especially useful for older phones. No internet connection is required to use USSD apps; as long as you can connect to your[mobile carrier's](https://www.lifewire.com/what-is-a-mobile-carrier-2373339) network, you can take advantage of USSD codes.
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Feature Codes
 
  You don't need a[smartphone](https://www.lifewire.com/what-makes-a-smartphone-smart-579597) to use USSD codes; however, some codes are exclusive to specific types of phones. Also called quick codes or feature codes, these USSD codes are programmed into the device's[SIM card](https://www.lifewire.com/what-are-sim-cards-577532) .
 
  Some feature codes only serve one purpose. For example, dialing**\*#06#** on most[Android](https://www.lifewire.com/what-is-google-android-1616887) phones will display your[IMEI](https://www.lifewire.com/how-to-find-your-phones-imei-or-meid-number-2377713) number. On[iPhones](https://www.lifewire.com/apple-iphone-basics-features-1999727) , dialing**\*3001#12345#\*** with display information about your device and SIM card. Other codes are specific to your mobile carrier. For example, on T-Mobile phones, you can turn on call forwarding with the code**\*43#** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Other Uses for USSD
 
@@ -56,16 +69,10 @@ thumbnail: https://www.lifewire.com/thmb/Os_N3r14bsehI0Vy6R-Qc8T-HIA=/400x300/fi
 * Send virtual coupons
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Making Payments With USSD
@@ -75,6 +82,13 @@ thumbnail: https://www.lifewire.com/thmb/Os_N3r14bsehI0Vy6R-Qc8T-HIA=/400x300/fi
  When you dial**\*99#** again, you'll have the option to send money directly to another mobile user. For example, if they have USSD payments set up on their phone, you can send or request money by entering their phone number.
 
  USSD payments are more common outside of the U.S., particularly in parts of the world where internet connections are unreliable. The only major downside is that USSD codes do not work on all phones, but they are still more accessible than mobile apps designed for smartphones.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## USSD, MSS, and SMS
 
@@ -107,5 +121,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-game-changer-or-gamble-a-2021-review-of-vegas-pros-evolution/"><u>[Updated] Game Changer or Gamble? A 2021 Review of Vegas Pro's Evolution</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-your-ultimate-guide-to-mac-audio-capture-via-audacity/"><u>[Updated] In 2024, Your Ultimate Guide to Mac Audio Capture via Audacity</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-innovative-ideas-for-images-with-professional-color-palette/"><u>2024 Approved Innovative Ideas for Images with Professional Color Palette</u></a></li>
+<li><a href="https://article-tips.techidaily.com/economical-action-filmmaking-gear-for-the-aspiring-pro/"><u>Economical Action Filmmaking Gear for the Aspiring Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-techniques-to-test-website-connectivity-with-icmp-echo/"><u>Effective Techniques to Test Website Connectivity with ICMP Echo</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-speed-up-your-instagram-app-on-any-mobile-device-a-step-by-step-guide/"><u>How to Speed Up Your Instagram App on Any Mobile Device – A Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-c33-2023-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme C33 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-av1-compression-a-beginners-overview/"><u>In 2024, AV1 Compression A Beginner's Overview</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-a-dac-essential-for-audio-lovers-unveiling-the-truth/"><u>Is a DAC Essential For Audio Lovers? Unveiling The Truth</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-windows-code-28-issues-a-comprehensive-guide/"><u>Resolving Windows Code 28 Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-iphones-for-gaming-lovers-top-picks-and-reviews/"><u>Ultimate iPhones for Gaming Lovers: Top Picks and Reviews</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-tecno-pova-5-pro-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Tecno Pova 5 Pro Phone Network-Ready</u></a></li>
+</ul></div>
 

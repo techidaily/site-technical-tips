@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Walkthrough of Windows 11'S Power Management and Battery Report Functionality
-date: 2024-09-20T17:54:20.125Z
-updated: 2024-09-27T01:35:38.524Z
+date: 2024-09-30T02:11:28.221Z
+updated: 2024-10-01T20:17:12.494Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Walkthrough of Windows 11'S Power Management and Battery Report Functionality
@@ -35,23 +35,10 @@ thumbnail: https://www.lifewire.com/thmb/-ErWVirK-Kvqz_jdp6xfavPKXKY=/400x300/fi
 [The 12 Best Apps for 2024](https://www.lifewire.com/best-mobile-apps-4157439)  
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use AirDroid to Mirror Android on Windows 10
@@ -72,18 +59,27 @@ thumbnail: https://www.lifewire.com/thmb/-ErWVirK-Kvqz_jdp6xfavPKXKY=/400x300/fi
 13. Tap the toggle next to**Allow display over other apps** .  
 ![Continue, AirDroid, and the toggle highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/fsJsiMEafExGn_8nR-dfrcR-3qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B10-RunAndroidAppsonWindows10-annotated-0317e836163041fb8fdc907e4c24a251.jpg)
 14. Return to AirDroid and go to**Remote Control** \>**Enable remote control** \>**Still enable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Remote Control, Enable remote control, and Still enable highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/TwYRkcvTt5VICEB4zjl6wuqUaFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B11-RunAndroidAppsonWindows10-annotated-11ed8c49a76f4a19996a181f0675c9ad.jpg)
 15. Now you need to install a small add-on from the Play Store to actually enable remote control access between your computer and phone. To do this, follow the on-screen prompts to select**Download and install** \>**Download** \>**Install** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Download and install, Download, and Install buttons highlighted in AirDroid and Play Store.](https://www.lifewire.com/thmb/GuTDLA0vCwUfKRPNfUJUL8RL6OQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B12-RunAndroidAppsonWindows10-annotated-838eade9103c4f5f9c31b048bc90e969.jpg)
 16. Return to AirDroid and tap**Grant permissions** \>**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 17. Tap the toggle next to**Use AirDroid Control Add-on** , then tap**Allow** on the prompt.  
 ![Grant permissions, Use AirDroid, and Allow buttons highlighted in AirDroid and Settings for Android.](https://www.lifewire.com/thmb/9wwRzJ1bk6CSlYqjShS8rRLl3Eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B14-RunAndroidAppsonWindows10-annotated-f8f7e76cfbbb487b9b21a58fcd38c6e5.jpg)
 18. Tap**Done** on the screen that says remote control is enabled.
@@ -91,28 +87,30 @@ thumbnail: https://www.lifewire.com/thmb/-ErWVirK-Kvqz_jdp6xfavPKXKY=/400x300/fi
 20. On your computer, enter the[IP address](https://www.lifewire.com/what-is-an-ip-address-2625920) and port number shown in the AirDroid app.  
 ![Done, Transfer, AirDroid Web, and Option 2 paragraph highlighted in AirDroid.](https://www.lifewire.com/thmb/8yoCK74talFlTYj-YCYm5lIzqdY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B17-RunAndroidAppsonWindows10-annotated-093199afced14217a49962e06818d393.jpg)
 21. When AirDroid opens on your computer, use one of the sign in options at the bottom to log in to the same account you signed in to from your phone.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Sign in with options highlighted at the bottom of AirDroid on Windows.](https://www.lifewire.com/thmb/yihdd2n5vliGiBjdZ0a0lgTyd2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B18-RunAndroidAppsonWindows10-annotated-af9b005584844c549e138ac9586debbf.jpg)
 22. Select your Android device from the**Choose a device** prompt.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Google Pixel 7a highlighted in AirDroid on Windows](https://www.lifewire.com/thmb/rSTxohWXD6GAQ3V44jNWjAE0Zy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-select-device-0a3031475b7f42a1992483aaf18147f7.png)
 23. Select**Mirroring** from the AirDroid desktop on your computer.  
 ![Mirroring highlighted on the AirDroid desktop on Windows.](https://www.lifewire.com/thmb/MZkSyFVGUy34i_WC0wxca7axxn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B20-RunAndroidAppsonWindows10-annotated-240867983f69412f8df605137bf2b1db.jpg)
 24. You'll see your whole Android screen on your Windows computer. You can launch apps from either device to see them displayed on your Windows 10 PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![A Pixel 7 phone mirrored to a Windows computer](https://www.lifewire.com/thmb/8asRQPV_NwnOvS7jDbFVKsTq4l0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-screen-mirroring-8f3fe1ffb7e24040b82dea79dff7b029.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  FAQ
 
@@ -154,22 +152,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-enhancing-narrative-flow-integrating-chapters-into-your-youtube-content-for-2024/"><u>[New] Enhancing Narrative Flow Integrating Chapters Into Your YouTube Content for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mac-screen-capture-tool-with-sound-support/"><u>[Updated] 2024 Approved Mac Screen Capture Tool with Sound Support</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-lecture-transcription-at-zero-expense/"><u>[Updated] Lecture Transcription at Zero Expense</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-lgs-lg-360-camera-update-unveiled-and-analyzed-for-2024/"><u>[Updated] LG's LG 360 Camera Update Unveiled & Analyzed for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-comprehensive-guide-mastering-stealthy-surfing-with-chromes-private-browsing-mode/"><u>A Comprehensive Guide: Mastering Stealthy Surfing with Chrome's Private Browsing Mode</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808339667-boost-your-graphics-cards-power-instantly-master-the-art-of-gpu-benchmarking-today/"><u>Boost Your Graphics Card's Power Instantly - Master the Art of GPU Benchmarking Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fix-universal-realtek-hd-driver-issues-efficiently-step-by-step-solution/"><u>How to Fix Universal Realtek HD Driver Issues Efficiently – Step-by-Step Solution</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808220565-how-to-overclock-your-gpu-a-beginners-guide/"><u>How to Overclock Your GPU: A Beginner's Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-itel-a70-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Itel A70</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-samsung-galaxy-f15-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Samsung Galaxy F15 5G</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-se-2020-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone SE (2020) without Password?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808116661-mastering-directx-update-in-windows-111n-a-quick-straightforward-approach/"><u>Mastering DirectX Update in Windows 11/1N - A Quick, Straightforward Approach!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808211368-quick-guide-to-finding-and-downloading-your-hp-devices-windows-10-drivers/"><u>Quick Guide to Finding and Downloading Your HP Device's Windows 10 Drivers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808235464-transform-your-computer-experience-asus-aura-graphics-packages-for-windows-1011-ready-to-download/"><u>Transform Your Computer Experience - ASUS Aura Graphics Packages for Windows 10/11 Ready to Download</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/update-your-windows-usb-drivers-with-ease-compatible-with-windows-11-7-8-and-81/"><u>Update Your Windows' USB Drivers with Ease: Compatible with Windows 11, 7, 8 & 8.1</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/winsxs-folder-clean-up-and-save-space-on-windows-10-easily/"><u>WinSxS Folder: Clean Up and Save Space on Windows 10 Easily</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/winx-mediatrans-professioneller-dateiubertragungslosung-fur-ihr-iphone-und-ipad-perfekt-zum-exportieren-von-bildern-musik-und-filmen-zwischen-mac-und-window155/"><u>WinX MediaTrans™: Professioneller Dateiübertragungslösung Für Ihr iPhone Und iPad – Perfekt Zum Exportieren Von Bildern, Musik Und Filmen Zwischen Mac Und Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-elevate-video-quality-mastering-fb-1080p-streams/"><u>[Updated] 2024 Approved Elevate Video Quality Mastering FB 1080P Streams</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-non-retweeting-video-tweets-from-your-phone/"><u>[Updated] 2024 Approved Non-Retweeting Video Tweets From Your Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-hurdles-of-non-responsive-logitech-gaming-applications-expert-fixes-inside/"><u>Beat the Hurdles of Non-Responsive Logitech Gaming Applications – Expert Fixes Inside</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-meta-quest-3-whats-new-in-features-price-points-and-availability-timing/"><u>Comprehensive Guide to Meta Quest 3: What's New in Features, Price Points & Availability Timing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-instructions-canceling-and-cleaning-up-your-twitch-account/"><u>Comprehensive Instructions: Canceling and Cleaning Up Your Twitch Account</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722872600648-d3dx927dll-file-not-detected-follow-our-complete-solution/"><u>d3dx9_27.dll File Not Detected? Follow Our Complete Solution!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-most-effective-off-grid-linguistic-apps-ranked/"><u>Explore the Most Effective Off-Grid Linguistic Apps, Ranked</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-buzz-surrounding-apples-entrance-into-electric-cars-estimated-price-launch-date-and-rumored-features/"><u>Exploring the Buzz Surrounding Apple's Entrance Into Electric Cars - Estimated Price, Launch Date & Rumored Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fortnite-trick-for-integrating-several-gaming-ids-into-a-single-profile/"><u>Fortnite Trick for Integrating Several Gaming IDs Into a Single Profile</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-samsung-galaxy-s8-changes-high-definition-viewing-for-2024/"><u>How Samsung Galaxy S8 Changes High-Definition Viewing for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-nokia-c02-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Nokia C02</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/vanguard-vertex-tripod-stability-in-motion/"><u>Vanguard Vertex Tripod: Stability in Motion</u></a></li>
 </ul></div>
 

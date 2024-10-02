@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Steps to Make Invisible Files Visible on a Mac Through Terminal
-date: 2024-09-20T08:08:12.796Z
-updated: 2024-09-27T04:18:58.301Z
+date: 2024-09-29T21:04:45.475Z
+updated: 2024-10-02T09:39:48.085Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Steps to Make Invisible Files Visible on a Mac Through Terminal
@@ -34,10 +34,10 @@ thumbnail: https://www.lifewire.com/thmb/klGzkHFGCUaqiWyKpafLJvoSONc=/400x300/fi
 3. Entering the two lines above into Terminal allows you to use the[Finder](https://www.lifewire.com/use-mac-finder-2260739) to display all the hidden files on your Mac. The first line tells the Finder to display all files, regardless of how the hidden flag is set. The second line stops and restarts the Finder, so the changes can take effect. You may see your desktop disappear and reappear when you execute these commands; this is normal.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Was Hidden Can Now Be Seen
@@ -51,10 +51,10 @@ thumbnail: https://www.lifewire.com/thmb/klGzkHFGCUaqiWyKpafLJvoSONc=/400x300/fi
  Now that you can see all the hidden folders and files in the Finder, you'll probably want to hide them again, if only because they tend to clutter up Finder windows with extraneous items.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Hide the Clutter
@@ -67,17 +67,17 @@ thumbnail: https://www.lifewire.com/thmb/klGzkHFGCUaqiWyKpafLJvoSONc=/400x300/fi
 3. Poof! The hidden files are once again hidden. No hidden folder or file was harmed in the making of this Mac tip.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More About Terminal
@@ -113,18 +113,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-proven-hashtag-hacks-for-amplifying-your-tiktok-presence/"><u>[New] 2024 Approved Proven Hashtag Hacks for Amplifying Your TikTok Presence</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ssential-steps-for-chromakey-magic/"><u>[New] Essential Steps for Chromakey Magic</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-accelerate-your-vimeo-experience/"><u>[Updated] In 2024, Accelerate Your Vimeo Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-youthful-adventures-top-netflix-movie-picks-for-everyone/"><u>Best Youthful Adventures: Top Netflix Movie Picks for Everyone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-our-picks-the-ultimate-list-of-note-taking-apps-on-ipad-and-ipad-pro/"><u>Explore Our Picks: The Ultimate List of Note-Taking Apps on iPad and iPad Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-note-13-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Xiaomi Redmi Note 13 5G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-nubia-red-magic-8s-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Nubia Red Magic 8S Pro</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-speed-removing-ssgnatures-immediately/"><u>In 2024, Mastering Speed Removing Ssgnatures Immediately</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-game-halt-issues-with-fallout-n-on-modern-pcs-win-10-edition/"><u>Resolving Game Halt Issues with Fallout N on Modern PCs - Win 10 Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-puzzle-of-code-41-troubleshooting-techniques-for-device-manager-malfunctions/"><u>Solving the Puzzle of Code 41 Troubleshooting Techniques for Device Manager Malfunctions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-saving-memories-by-screencasting-ps4-gaming-adventures/"><u>Step-by-Step Tutorial: Saving Memories by Screencasting PS4 Gaming Adventures</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tv-programs-streaming-on-discovery-plus-this-july-2024/"><u>Top TV Programs Streaming on Discovery Plus This July 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-overwolf-solutions-when-it-wont-record/"><u>Troubleshooting Overwolf: Solutions When It Won't Record</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-nailing-the-perfect-capture-mac-tips-for-screencasting-streamed-video/"><u>[New] In 2024, Nailing the Perfect Capture Mac Tips for Screencasting Streamed Video</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-game-capture-without-xboxs-intrusive-game-bar/"><u>[Updated] 2024 Approved Game Capture without Xbox’s Intrusive Game Bar</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-definitive-guide-to-capturing-your-streams-netflix-mac-edition/"><u>[Updated] In 2024, The Definitive Guide to Capturing Your Streams Netflix Mac Edition</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-unlocking-the-secrets-of-successful-tiktok-hashtags/"><u>[Updated] In 2024, Unlocking the Secrets of Successful TikTok Hashtags</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-realme-c51-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Realme C51 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-iphone-email-clients-of-2024-our-picks/"><u>Best iPhone Email Clients of 2024: Our Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-resolving-the-rununk13-error-for-smooth-hulu-viewing/"><u>Expert Advice: Resolving the Rununk13 Error for Smooth Hulu Viewing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-beyond-the-basics-non-inshot-pc-video-tools/"><u>In 2024, Beyond the Basics Non-Inshot PC Video Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-maximizing-your-reach-with-youtube-shorts-templates/"><u>In 2024, Maximizing Your Reach with YouTube Shorts Templates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-look-at-what-you-should-know-about-samsungs-tv-app-ecosystem/"><u>In-Depth Look at What You Should Know About Samsung's TV App Ecosystem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mac-mastery-steps-to-reboot-network-preferences-and-fix-connectivity-issues/"><u>Mac Mastery: Steps to Reboot Network Preferences and Fix Connectivity Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722862707017-overcoming-stop-0x0000005c-halinitializationfailed-error-on-your-computer/"><u>Overcoming STOP 0X0000005C (HAL_INITIALIZATION_FAILED) Error on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-picks-where-to-watch-movies-online-without-paying-a-dime/"><u>Top Picks: Where to Watch Movies Online Without Paying a Dime</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/transform-your-digital-artistry-with-the-premium-huion-inspiroy-g10-t-series-tablet-a-detailed-performance-and-build-analysis/"><u>Transform Your Digital Artistry with the Premium Huion Inspiroy G10 T-Series Tablet - A Detailed Performance and Build Analysis</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-tutorial-adding-picture-in-picture-effects-to-your-videos/"><u>Updated Final Cut Pro Tutorial Adding Picture-in-Picture Effects to Your Videos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discovering the Unique Model Code of Your Apple MacBook Easily
-date: 2024-09-23T09:58:41.946Z
-updated: 2024-09-26T19:25:05.581Z
+date: 2024-09-27T13:30:47.653Z
+updated: 2024-10-02T12:06:40.444Z
 categories:
   - BestProducts
 description: This Article Describes Discovering the Unique Model Code of Your Apple MacBook Easily
@@ -31,10 +31,10 @@ thumbnail: https://www.lifewire.com/thmb/INqYOYl0gTK-jucGkSZxrYFEREU=/400x300/fi
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
@@ -55,6 +55,13 @@ thumbnail: https://www.lifewire.com/thmb/INqYOYl0gTK-jucGkSZxrYFEREU=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -63,18 +70,18 @@ thumbnail: https://www.lifewire.com/thmb/INqYOYl0gTK-jucGkSZxrYFEREU=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -86,13 +93,6 @@ thumbnail: https://www.lifewire.com/thmb/INqYOYl0gTK-jucGkSZxrYFEREU=/400x300/fi
 * **Undo last action (Ctrl** +**Z)** : Press**Ctrl** +**Z** to undo the previous action.
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
 
@@ -127,10 +127,10 @@ thumbnail: https://www.lifewire.com/thmb/INqYOYl0gTK-jucGkSZxrYFEREU=/400x300/fi
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
@@ -170,24 +170,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-the-world-of-kinemaster-and-ranking-10-online-competitors/"><u>[New] Explore the World of KineMaster & Ranking 10 Online Competitors</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-most-successful-profit-making-youtuber/"><u>[Updated] In 2024, Most Successful Profit-Making YouTuber</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-comprehensive-guide-to-bing-the-alternative-search-giant/"><u>A Comprehensive Guide to Bing: The Alternative Search Giant</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/critical-considerations-for-selecting-the-ideal-wearable-activity-tracker/"><u>Critical Considerations for Selecting the Ideal Wearable Activity Tracker</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/hering-youtubes-shorts-funding-mechanism-for-2024/"><u>Deciphering YouTube's Shorts Funding Mechanism for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/download-greatest-hits-15-free-music-platforms-revealed/"><u>Download Greatest Hits: 15 Free Music Platforms Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-get-the-magic-back-launching-and-running-thaumaturge-without-glitches-on-pc/"><u>Expert Tips to Get the Magic Back: Launching and Running Thaumaturge Without Glitches on PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-correctly-restore-and-repair-lost-or-hidden-user32dll-components/"><u>How to Correctly Restore and Repair Lost or Hidden User32.dll Components</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/how-to-verify-your-youtube-account/"><u>How to Verify Your YouTube Account?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-6-plus-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 6 Plus Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/innovative-model-conversion-from-text-to-video-within-hugging-faces-collaborative-ecosystem/"><u>Innovative Model Conversion From Text to Video Within Hugging Face's Collaborative Ecosystem</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ipad-pro-5th-gen-with-a12z-bionic-vs-macbook-air-w-apple-silicon-a-comprehensive-analysis/"><u>IPad Pro 5Th Gen with A12Z Bionic Vs. MacBook Air W/ Apple Silicon: A Comprehensive Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-windows-10-boot-loop-issue-in-minutes/"><u>Resolving the Windows 10 Boot Loop Issue in Minutes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-wlanapidll-missing-file-a-comprehensive-guide/"><u>Resolving wlanapi.dll Missing File: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/snickerslide-social-media-memes-made-simple-for-2024/"><u>SnickerSlide Social Media Memes Made Simple for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-basics-of-ussd-explained-insights-into-unstructured-supplementary-service-communication/"><u>The Basics of USSD Explained: Insights Into Unstructured Supplementary Service Communication</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-stop-persistent-android-apps-from-draining-your-power/"><u>The Ultimate Trick to Stop Persistent Android Apps From Draining Your Power</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-the-role-of-memory-velocity-and-delay-in-boosting-pc-efficiency/"><u>Understanding the Role of Memory Velocity & Delay in Boosting PC Efficiency</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unveiling-secrets-detecting-second-monitor/"><u>Unveiling Secrets: Detecting Second Monitor</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-latest-tech-blog-movavi-screencapture-update/"><u>[New] 2024 Approved Latest Tech Blog Movavi ScreenCapture Update</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-complete-stardew-compendium-focus-on-ginger-isle/"><u>[New] In 2024, The Complete Stardew Compendium Focus on Ginger Isle</u></a></li>
+<li><a href="https://facebook.techidaily.com/constructive-methods-for-cultivating-collaborative-communities-fb/"><u>Constructive Methods for Cultivating Collaborative Communities (FB)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-tips-the-finest-7-wet-proof-recorders/"><u>Expert Tips The Finest 7 Wet-Proof Recorders</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-elusive-binkw32dll-file-missing-dilemma-for-uninterrupted-viewing/"><u>Fixing the Elusive BinkW32.dll File Missing Dilemma for Uninterrupted Viewing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-zero-to-hero-on-instagram-proven-tactics-for-building-more-likes-and-followers/"><u>From Zero to Hero on Instagram: Proven Tactics for Building More Likes and Followers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-mini-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 mini To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-gt-3-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme GT 3 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-phone-to-fire-stick-casting-on-android-for-a-hassle-free-viewing-experience/"><u>Master the Art of Phone to Fire Stick Casting on Android for a Hassle-Free Viewing Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-through-the-netflix-maze-clear-your-path-of-error-nw-1-19/"><u>Navigate Through the Netflix Maze: Clear Your Path of Error NW-1-19</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-to-nearest-ev-chargers-using-google-maps-tips-and-tricks/"><u>Navigate to Nearest EV Chargers Using Google Maps - Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcome-streaming-glitches-effective-methods-when-netflix-titles-wont-play/"><u>Overcome Streaming Glitches: Effective Methods When Netflix Titles Won't Play</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-watch-netflix-for-free-a-step-by-step-breakdown/"><u>The Ultimate Trick to Watch Netflix for Free - A Step-by-Step Breakdown</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-latest-discover-the-new-apple-iphone-release-event/"><u>Unveiling the Latest: Discover the New Apple iPhone Release Event</u></a></li>
 </ul></div>
 

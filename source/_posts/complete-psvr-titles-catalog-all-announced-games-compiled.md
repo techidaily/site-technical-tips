@@ -1,7 +1,7 @@
 ---
 title: "Complete PSVR² Titles Catalog: All Announced Games Compiled"
-date: 2024-09-16T16:51:25.716Z
-updated: 2024-09-21T03:36:37.839Z
+date: 2024-10-01T10:27:08.273Z
+updated: 2024-10-02T14:51:26.509Z
 categories:
   - BestProducts
 description: "This Article Describes Complete PSVR² Titles Catalog: All Announced Games Compiled"
@@ -263,6 +263,13 @@ These games have all been announced, but some may not be out yet.
 * _Zombie Bar Simulator VR_
 * _Zombieland: Headshot Fever Reloaded_
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Best PlayStation VR 2 Games for Scares
 
  Looking for something scary? I recommend these titles to make you feel like you're fighting for your life inside a horror movie.
@@ -288,16 +295,16 @@ _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until D
 **Release Date** : August 2023  
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cosmodread
@@ -305,6 +312,13 @@ _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until D
  This rogue-like, space-based horror drops you into a huge, scary spaceship with a different layout every time you try. Your job is to escape to Earth, but all you have is a crossbow and a will to survive.
 
 **Release Date** : May 2023
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Best PSVR 2 Games for Sports Fans
 
@@ -332,6 +346,19 @@ Polyphony Digital
 
  While you don't have to do all the running yourself in this VR football game (that's what analog sticks are for), it will be up to you to block the defenders as you head for the end zone. This title prides itself on its passing physics, which will also exercise your arm.
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Best PSVR 2 Games to Relax With
 
  Your VR gaming time doesn't have to be non-stop action. Plenty of options are available that will help you unwind at the end of your day.
@@ -339,23 +366,10 @@ Polyphony Digital
 ![Tetris Effect: Connected video game on Xbox One, Xbox Series X, PS4, PS5, and Windows PC.](https://www.lifewire.com/thmb/7roJV1mYBrPIndXhqDXNT8DVyhM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tetris-effect-cheats-codes-and-secrets-04-09ea72d3f9a04970859a00d6f72e798f.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Puzzling Places
@@ -366,19 +380,6 @@ Polyphony Digital
 
 **Release Date** : December 2021
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Tetris Effect: Connected
 
  With this update, the legendary line-clearing game got a complete sensory overhaul, in which every move, flip, drop, and cleared line adds to the soundscape. It's also available "flat," but obviously the fully immersive musical world of_Tetris_ is the better way to play.
@@ -387,18 +388,18 @@ Polyphony Digital
 
 **Release Date** : February 2023
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Kayak VR: Mirage
 
 _Kayak VR: Mirage_ is a relaxing exploration game that takes you to Antarctica, Norway, and other locations in a tiny, virtual boat. You don't have many goals (although you can do races and speed trials), so you're free to paddle around and say hi to all the penguins.
 
 **Release Date** : February 2023
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Best PSVR 2 Action Games
 
@@ -411,6 +412,13 @@ _Kayak VR: Mirage_ is a relaxing exploration game that takes you to Antarctica, 
  The_Horizon_ series tasks players with navigating a post-apocalyptic world filled with a bunch of dangerous, animal-themed robots. This VR entry tells a new story with more challenges, and you're still fighting cybernetic dinosaurs with a bow and arrow, so the spirit is still there.
 
 **Release Date** : February 2023
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  The Walking Dead: Saints & Sinners (series)
 
@@ -439,6 +447,13 @@ Polyarc
  This fantasy series teams you up with Quill, a heroic mouse who goes on adventures. You'll help her solve puzzles and fight monsters along the way, and the whole story is fully narrated. It's whimsical and fun, and the mouse is so brave. I think these are some of the best all-around games for the PSVR 2, and I highly recommend them even if you aren't looking for a
 
 **Release Date** : March 2022
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Humanity
 
@@ -486,5 +501,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-perfect-every-moment-top-10-free-video-editing-apps-on-a-mac-for-2024/"><u>[New] Perfect Every Moment - Top 10 Free Video Editing Apps on a Mac for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-organizing-virtual-gatherings-syncing-slack-with-filmoras-features/"><u>2024 Approved Organizing Virtual Gatherings Syncing Slack with Filmora's Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-to-selecting-the-perfect-phone-sleeve-or-cover/"><u>A Step-by-Step Guide to Selecting the Perfect Phone Sleeve or Cover</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-7-ideal-smartphone-apps-to-navigate-through-traffic-seamlessly/"><u>Discover the 7 Ideal Smartphone Apps to Navigate Through Traffic Seamlessly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-and-speedy-download-of-amd-ryzen-5-2400g-graphics-drivers/"><u>Easy & Speedy Download of AMD Ryzen 5 2400G Graphics Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expanding-device-connectivity-instructions-for-sharing-your-printer-on-a-network/"><u>Expanding Device Connectivity: Instructions for Sharing Your Printer on a Network</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-lava-yuva-3-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Lava Yuva 3 to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p55-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P55 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-using-the-chkdsk-utility-in-windows-environments/"><u>The Complete Walkthrough: Using the Chkdsk Utility in Windows Environments</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-connection-errors-authenticating-your-android-device-with-wi-fi/"><u>Troubleshooting Connection Errors: Authenticating Your Android Device with Wi-Fi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-nokia-g310-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Nokia G310 without Him Knowing | Dr.fone</u></a></li>
+</ul></div>
 

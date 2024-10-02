@@ -1,7 +1,7 @@
 ---
 title: Easy Techniques to Consolidate Multiple JPEGs Into One Cohesive PDF File
-date: 2024-09-18T02:48:36.974Z
-updated: 2024-09-20T21:38:42.077Z
+date: 2024-09-29T05:58:49.235Z
+updated: 2024-10-01T18:06:56.627Z
 categories:
   - BestProducts
 description: This Article Describes Easy Techniques to Consolidate Multiple JPEGs Into One Cohesive PDF File
@@ -56,24 +56,18 @@ thumbnail: https://www.lifewire.com/thmb/Jpo_LyCb-iEZzSXeWw5OaRl0GUc=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -86,13 +80,6 @@ thumbnail: https://www.lifewire.com/thmb/Jpo_LyCb-iEZzSXeWw5OaRl0GUc=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -104,10 +91,16 @@ thumbnail: https://www.lifewire.com/thmb/Jpo_LyCb-iEZzSXeWw5OaRl0GUc=/400x300/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
@@ -120,6 +113,13 @@ thumbnail: https://www.lifewire.com/thmb/Jpo_LyCb-iEZzSXeWw5OaRl0GUc=/400x300/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -131,6 +131,13 @@ thumbnail: https://www.lifewire.com/thmb/Jpo_LyCb-iEZzSXeWw5OaRl0GUc=/400x300/fi
 * **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
 
@@ -167,5 +174,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enjoy-uninterrupted-viewing-top-20-youtube-download-apps/"><u>[Updated] In 2024, Enjoy Uninterrupted Viewing Top 20 YouTube Download Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-reviving-vintage-visual-storytelling-techniques-today/"><u>[Updated] Reviving Vintage Visual Storytelling Techniques Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-when-not-to-use-your-primary-credit-card-top-7-situations-explained/"><u>1. When Not to Use Your Primary Credit Card: Top 7 Situations Explained</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oppo-a1-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo A1 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enable-forced-dark-theme-across-all-websites-using-chrome/"><u>Enable Forced Dark Theme Across All Websites Using Chrome</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-lava-blaze-2-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Lava Blaze 2 5G</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-key-3d-tools-optimized-for-animation-workflows/"><u>In 2024, Key 3D Tools Optimized for Animation Workflows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-your-pcs-bios-options-essential-tweaks-for-optimal-performance/"><u>Navigating Your PC's BIOS Options: Essential Tweaks for Optimal Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-puzzles-in-nytimes-june-17-edition-solutions-revealed/"><u>Unlocking The Puzzles in NYTimes June 17 Edition – Solutions Revealed!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-the-mystery-how-do-ads-seem-so-relevant-even-when-you-dont-speak-about-them/"><u>Unraveling the Mystery: How Do Ads Seem So Relevant Even When You Don't Speak About Them?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/urgent-revamp-your-tiktok-privacy-controls-with-these-10-crucial-steps/"><u>Urgent: Revamp Your TikTok Privacy Controls with These 10 Crucial Steps</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-11-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-mozillas-firefox-remains-the-preferred-choice-despite-chrome-leading-the-pack/"><u>Why Mozilla's Firefox Remains the Preferred Choice Despite Chrome Leading the Pack</u></a></li>
+</ul></div>
 

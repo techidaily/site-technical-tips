@@ -1,7 +1,7 @@
 ---
 title: What's New with Oppo's Next Smartphone? - Pricing, Release Window, Spec Sheet Sneak Peeks
-date: 2024-09-22T18:40:56.562Z
-updated: 2024-09-27T02:33:31.926Z
+date: 2024-09-24T18:10:32.992Z
+updated: 2024-10-02T14:03:56.799Z
 categories:
   - BestProducts
 description: This Article Describes What's New with Oppo's Next Smartphone? - Pricing, Release Window, Spec Sheet Sneak Peeks
@@ -50,19 +50,6 @@ We're betting on a July 2025 release date for the Nothing Phone 3.
 
 ![Nothing Phone 2 on a glass tabletop](https://www.lifewire.com/thmb/PY8rVS-IBLbcIzX2pej9YWVT6Jg=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/NothingPhone2.7-bdc100925d154e10aa175c63ba8cddca.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Nothing Phone 2.
 
 Lifewire / Rob LeFebvre
@@ -71,9 +58,23 @@ Lifewire / Rob LeFebvre
 
  The Nothing Phone 3 hasn't yet been announced by Nothing, which means we don't have any pre-order information. Once we know more, we’ll update details here, so stay tuned. We’ll also detail how widely available the Phone 3 will be for pre-ordering.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Nothing Phone 3 Specs and Features
 
  Since the Phone 3 isn't an official product, it’s hard to say for sure what we’ll see in the Phone 3\. But here’s some reliable chatter so far.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### A Newer Chip (but Just How New)?
 
@@ -87,22 +88,15 @@ Lifewire / Rob LeFebvre
 
  The Phone 2 made significant strides with a 4,700-mAh battery, an impressive boost compared to the Phone 1's 4500 mAh (for comparison, the iPhone 15 Plus has a 4,383-mAh battery). The newest model is likely to improve upon these gains and catch up with competitors by offering faster wired charging and bigger capacity.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Improved Camera
 
  The dual-camera design of the Phone 1 and Phone 2 will likely carry over.[Phone Arena reports that the Phone 3 might get Sony's latest LYTIA sensor lineup](https://www.phonearena.com/nothing-phone-3-release-date-price-upgtades) , which could mean even more control and a richer photo-taking experience in various lighting conditions and environments.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Signature Glyph, Improved
@@ -112,28 +106,28 @@ Lifewire / Rob LeFebvre
 ![A render of the Nothing Phone 1 in black against a grey background. The rear Glyph lights are on and the home screen shows off the new features of Nothing OS 2.0. ](https://www.lifewire.com/thmb/RSttfod0lFQvSSIOh_trYZHRJnA=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nothing-phone-update-a48070f52beb4a9d8c8792a6e44bb927.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Nothing OS 2.0.
 
 Nothing
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### An Action Button
 
  Nothing CEO Carl Pei teased several shots of an updated design on X. Though the below post asks for feedback on Nothing OS user interface updates, many suspect that Pei might have leaked the Nothing Phone 3.
 
  In this rendering, it has an additional external button on the right side. Some speculate this button[could mimic the iPhone 15's Action Button](https://beebom.com/did-carl-pei-leak-nothing-phone-3-with-action-button/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Integrated AI
 
@@ -170,21 +164,24 @@ Nothing
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-from-base-to-pro-gopro-hero5-blacks-clash-with-hero4-silver/"><u>[New] From Base to Pro GoPro Hero5 Black's Clash with Hero4 Silver</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-techniques-for-swapping-video-content-in-android/"><u>[New] In 2024, Techniques for Swapping Video Content in Android</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-pixel-perfection-radeon-redux-review/"><u>[New] Pixel Perfection Radeon Redux Review</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-setting-up-auto-play-youtube-content-on-facebook-platform/"><u>[Updated] In 2024, Setting Up Auto-Play YouTube Content on Facebook Platform</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-huawei-nova-y91-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Huawei Nova Y91 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-instructions-for-deleting-windows-rebuild-zone/"><u>Comprehensive Instructions for Deleting Windows Rebuild Zone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/getting-started-with-microsoft-word-on-a-budget-free-edition-insights-and-tips/"><u>Getting Started with Microsoft Word on a Budget: Free Edition Insights and Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-pc-boot-failures-when-playing-outriders-recent-solutions-222/"><u>How to Resolve PC Boot Failures When Playing Outriders - Recent Solutions (2#22)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-seamlessly-download-and-setup-recent-ios-operating-system-enhancements/"><u>How To Seamlessly Download and Setup Recent iOS Operating System Enhancements</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-advanced-editing-text-insertion-tips-on-images-in-microsofts-photos/"><u>In 2024, Unlock Advanced Editing Text Insertion Tips on Images in Microsoft's Photos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-gaming-experience-how-to-play-old-and-new-ps4-titles-on-ps5/"><u>Seamless Gaming Experience: How to Play Old and New PS4 Titles On PS5</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-iphone-sound-issues-why-your-device-isnt-ringing-and-how-to-restore-it/"><u>Solving iPhone Sound Issues: Why Your Device Isn't Ringing and How to Restore It</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-building-your-own-diy-movie-projector-screen/"><u>Step-by-Step Guide: Building Your Own DIY Movie Projector Screen</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-10-free-movies-streaming-on-youtube-in-july-2024/"><u>Top 10 Free Movies Streaming on YouTube in July 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-game-stutter-in-code-vein/"><u>Troubleshooting Tips: Resolving Game Stutter in Code Vein</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/user-experiences-and-insights-on-the-line-mobile-chat-app/"><u>User Experiences and Insights on the LINE Mobile Chat App</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-speedy-switching-spree-from-srt-to-txt-files-done-quickly/"><u>[New] 2024 Approved Speedy Switching Spree From SRT to TXT Files Done Quickly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-step-by-step-recording-games-on-xbox-one/"><u>[Updated] In 2024, Step-by-Step Recording Games on Xbox One</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-enhancing-customer-engagement-with-snapchat-tactics/"><u>2024 Approved Enhancing Customer Engagement with Snapchat Tactics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/android-troubles-what-to-do-when-you-cant-receive-texts-any-more/"><u>Android Troubles: What to Do When You Can't Receive Texts Any More</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-world-of-exclusive-ps5-video-games-you-cant-miss/"><u>Explore the World of Exclusive PS5 Video Games You Can't Miss</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-honor-magic-6-lite-is-unlocked-by-drfone-android/"><u>How To Check if Your Honor Magic 6 Lite Is Unlocked</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-revive-a-stuck-macbook-air-effective-solutions-inside/"><u>How To Revive A Stuck MacBook Air: Effective Solutions Inside</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-ultimate-catalog-of-remarkable-education-websites/"><u>In 2024, The Ultimate Catalog of Remarkable Education Websites</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-blizzards-battlenet-experiencing-downtime-heres-what-you-need-to-know/"><u>Is Blizzard's Battle.net Experiencing Downtime? Here’s What You Need to Know!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-steam-refunds-a-comprehensive-guide/"><u>Master the Art of Steam Refunds: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-glitches-in-call-of-duty-modern-warfare-3-a-user-guide-for-uninterrupted-gaming/"><u>Overcoming the Glitches in Call of Duty Modern Warfare 3 - A User Guide for Uninterrupted Gaming</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/release-channeling-playlist-hits-online/"><u>Rush Release Channeling Playlist Hits Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722889488275-the-future-is-on-your-wrist-unpacking-rumors-surrounding-the-new-google-pixel-smartwatch-series-4-pricing-estimates-release-dates-and-speculative-specs/"><u>The Future Is on Your Wrist: Unpacking Rumors Surrounding the New Google Pixel Smartwatch Series 4 - Pricing Estimates, Release Dates & Speculative Specs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-savvy-students-secret-to-saving-on-dell-equipment-with-special-offers/"><u>The Savvy Student's Secret to Saving on Dell Equipment with Special Offers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-restoring-the-lost-nspr4dll-file-on-your-computer/"><u>The Ultimate Guide to Restoring the Lost nspr4.dll File on Your Computer</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-ranking-tools-the-simplest-way-to-capture-your-pc-screens-with-screenflow/"><u>Top Ranking Tools: The Simplest Way to Capture Your PC Screens with ScreenFlow</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-solutions-resolve-msxml4dll-file-missing-or-corrupted/"><u>Troubleshooting Solutions: Resolve 'Msxml4.dll' File Missing or Corrupted</u></a></li>
+<li><a href="https://extra-information.techidaily.com/visual-storytelling-made-gorgeous-expert-guides-to-grading-and-correction/"><u>Visual Storytelling Made Gorgeous Expert Guides to Grading & Correction</u></a></li>
 </ul></div>
 

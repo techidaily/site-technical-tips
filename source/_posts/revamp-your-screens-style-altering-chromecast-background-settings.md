@@ -1,7 +1,7 @@
 ---
 title: "Revamp Your Screen's Style: Altering Chromecast Background Settings"
-date: 2024-09-15T03:44:13.878Z
-updated: 2024-09-20T21:27:08.417Z
+date: 2024-09-24T16:07:49.641Z
+updated: 2024-10-02T04:05:58.767Z
 categories:
   - BestProducts
 description: "This Article Describes Revamp Your Screen's Style: Altering Chromecast Background Settings"
@@ -32,11 +32,33 @@ thumbnail: https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9
 2. Select**Trash** from the menu on the left. If you don't see it, select the**three-line** menu button at the top left.  
 ![The Trash menu item highlighted in Google Contacts.](https://www.lifewire.com/thmb/OMw5rrBEn05YHe01cLmVPj9hf7Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-FindDeletedPhoneNumbersonAndroid-annotated-a1dd410eec2a44f38b1ddb67b4dc14dd.jpg)  
  To do this from the mobile app, go to**Fix & manage** \>**Trash** .
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select a contact from the list.  
 ![A deleted contact highlighted in Google Contacts.](https://www.lifewire.com/thmb/EEQuRT7rucX1CfF5ZU4cm89v6k8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-FindDeletedPhoneNumbersonAndroid-annotated-4b1f46470012453b893ee092d52f7fb9.jpg)  
  Need help finding what you're after? Contacts sent to the trash are permanently deleted every 30 days so that you might have missed your opportunity. Additionally, if your phone hasn't been backing up your contacts, deleted entries will not appear here.
 4. Select**Recover** to pull the contact out of the trash and put it back into your regular list. If you want to keep the contact deleted, you can still copy the email address, phone number, or any other details from this screen.  
 ![The Recover button highlighted for a deleted contact in Google Contacts.](https://www.lifewire.com/thmb/a97wY8W86SgGdS9pEFTZVRtaU3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-FindDeletedPhoneNumbersonAndroid-annotated-3d74c1e6a99c4fac941e44dfe4c1ccda.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Get Deleted Numbers Back on a Samsung Phone
 
@@ -55,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9
 ![A Samsung phone user imports contacts](https://www.lifewire.com/thmb/G98RJqkST9u56OLvOkTB5WJqXOw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RetrieveDeletedNumbers07-2de9758e685a4be78eabfa70e20fbcae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can I Restore Deleted Numbers on Android Without a Computer?
@@ -103,5 +125,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-stabilize-iphone-videos/"><u>[New] How to Stabilize iPhone Videos?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-your-binge-sessions-leveraging-the-power-of-pip-on-netflix/"><u>[New] Streamline Your Binge Sessions Leveraging the Power of PIP on Netflix</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-capturecore-an-exhaustive-look-at-new-recording-technology/"><u>[Updated] 2024 Approved 'CaptureCore' An Exhaustive Look at New Recording Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-photos-to-feeds-selecting-the-best-9-gear-upgrades/"><u>[Updated] 2024 Approved From Photos to Feeds Selecting the Best 9 Gear Upgrades</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweet-visionary-free-transformation-of-youtube-vids-into-tweenish-graphics-for-2024/"><u>[Updated] Tweet Visionary Free Transformation of YouTube Vids Into Tweenish Graphics for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/achieve-peak-performance-for-your-iphone-battery-in-just-six-steps/"><u>Achieve Peak Performance for Your iPhone Battery in Just Six Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-accessing-downloads-of-user-guides-for-all-iphone-models/"><u>Comprehensive Guide: Accessing Downloads of User Guides for All iPhone Models</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/expanding-cultural-horizons-through-language-past-fifty/"><u>Expanding Cultural Horizons Through Language Past Fifty</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-often-should-you-upgrade-your-phone/"><u>How Often Should You Upgrade Your Phone?</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-unspecified-error-0x80004005-in-outlook-a-comprehensive-troubleshooting-manual/"><u>Overcoming 'Unspecified Error' (0X8^_^0004005) in Outlook: A Comprehensive Troubleshooting Manual</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-your-youtube-premium-the-ultimate-guide-to-student-discounts/"><u>Securing Your YouTube Premium: The Ultimate Guide to Student Discounts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-overcome-black-screen-problems-on-your-windows/"><u>Step-by-Step Solutions to Overcome Black Screen Problems on Your Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-for-deleting-mac-programs/"><u>The Ultimate How-To for Deleting Mac Programs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unique-and-captivating-instagram-captions-a-list-of-507plus-options/"><u>Unique and Captivating Instagram Captions : A List of 507+ Options</u></a></li>
+</ul></div>
 

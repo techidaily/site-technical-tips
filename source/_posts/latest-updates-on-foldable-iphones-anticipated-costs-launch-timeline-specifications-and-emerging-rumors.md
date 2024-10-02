@@ -1,7 +1,7 @@
 ---
 title: "Latest Updates on Foldable iPhones: Anticipated Costs, Launch Timeline, Specifications & Emerging Rumors"
-date: 2024-09-23T18:04:49.053Z
-updated: 2024-09-26T20:37:31.867Z
+date: 2024-09-26T08:11:34.774Z
+updated: 2024-10-02T13:07:20.846Z
 categories:
   - BestProducts
 description: "This Article Describes Latest Updates on Foldable iPhones: Anticipated Costs, Launch Timeline, Specifications & Emerging Rumors"
@@ -33,13 +33,6 @@ In This Article
 * **Price** : $2,000
 * **Specs** : Clamshell form factor, small outer screen
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## When Will the Foldable iPhone Be Released?
 
  Jeff Pu, an analyst at Haitong International Securities,[says Apple's first flip phone could come out](https://www.forbes.com/sites/ewanspence/2024/05/09/apple-folding-iphone-ipad-macbook-release-date/?sh=3862dfed1e98) in 2026\. This is backed up by a[2024 report from The Information](https://www.theinformation.com/articles/apple-moves-forward-with-foldable-iphone) and the Taiwanese newspaper_United Daily News_ which,[according to Patently Apple](https://www.patentlyapple.com/2024/02/a-new-supply-chain-report-claims-that-apples-foldable-iphone-project-is-still-in-the-works-with-vision-pro-team-members-now.html) , reports that part of the[Vision Pro](https://www.lifewire.com/apple-vr-headset-news-and-rumors-6744818) team is working on the foldable iPhone project with the intention of a 2026-2027 launch.
@@ -54,13 +47,6 @@ In This Article
 
 ![Foldable device illustration from patent US8929085B2](https://www.lifewire.com/thmb/wUd3t6RsFQmJnem6udFt2aVqAOw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/US08929085-foldable-device-dcde96bb968a4de2b7048ee2ea3d4e33.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Patent US8929085B2.
 
  Another[patent filed in 2019](https://patents.google.com/patent/US20190324503A1/en?oq=20190324503) is for a device with a wrap-around display:
@@ -69,9 +55,23 @@ Patent US8929085B2.
 
  Could it be worked into a foldable phone? We are eagerly waiting to see how/if they use these inventions.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 We don’t expect a foldable iPhone until at least 2026.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Foldable iPhone Price Rumors
 
@@ -85,20 +85,27 @@ We don’t expect a foldable iPhone until at least 2026.
 
 ![iPhone Fold concept](https://www.lifewire.com/thmb/rZm7q7oXYP54-AV8Jq5MPj1vPos=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 iPhone Fold concept.
 
 Michal Dufka
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pre-Order Information
 
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Foldable iPhone Features
 
@@ -136,13 +143,6 @@ Michal Dufka
 
  Bolstering the battery, processing power, and RAM will be a must to sustain multiple displays that could all independently multitask. Storage space might not change from the current iPhone lineup.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Latest News About the Foldable iPhone
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Here are some of the latest stories about foldable phones in particular:  
@@ -168,17 +168,20 @@ Michal Dufka
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-crafting-immersive-video-experiences-using-captivate/"><u>[New] 2024 Approved Crafting Immersive Video Experiences Using Captivate</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-capturing-youtube-icons-browser-extension-command-line-and-software-trio-for-2024/"><u>[New] Capturing Youtube Icons Browser Extension, Command Line & Software Trio for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-youtubes-latest-revenue-guidelines-for-2024/"><u>[Updated] Exploring YouTube's Latest Revenue Guidelines for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-sdr-vs-hdr-choosing-the-best-for-professional-outputs/"><u>2024 Approved SDR vs HDR Choosing the Best for Professional Outputs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-lava-blaze-curve-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-comprehensive-guide-to-smartwatch-capabilities-and-uses/"><u>A Comprehensive Guide to Smartwatch Capabilities & Uses</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-insta-chat-game-how-to-use-gifs-in-responses-effortlessly/"><u>Boost Your Insta Chat Game - How to Use GIFs in Responses Effortlessly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/les-enregistreurs-decran-n1-sans-frais-pour-windows-eb7-recommandes-par-movavi/"><u>Les Enregistreurs D'écran N°1 Sans Frais Pour Windows Eb7 Recommandés Par Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-microsoft-teams-with-ease-a-complete-guide-to-employing-copilot/"><u>Navigating Microsoft Teams with Ease: A Complete Guide to Employing Copilot</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/seamless-sojourns-the-most-important-93-spanish-phrases-for-travelers/"><u>Seamless Sojourns: The Most Important 93 Spanish Phrases for Travelers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-must-have-mobile-navigation-tools-the-best-traffic-apps/"><u>Top 7 Must-Have Mobile Navigation Tools: The Best Traffic Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transforming-your-desktop-aesthetic-with-a-new-taskbar-hue-for-windows-11/"><u>Transforming Your Desktop Aesthetic with a New Taskbar Hue for Windows 11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-early-birds-youtube-strategies-for-channel-and-revenue/"><u>[New] Early Bird's Youtube Strategies for Channel and Revenue</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-gigglemaker-step-by-step-to-fun-videos/"><u>[New] In 2024, GiggleMaker Step-by-Step to Fun Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-cutting-edge-video-recording-techniques-on-modern-win-11-devices/"><u>[Updated] 2024 Approved Cutting-Edge Video Recording Techniques on Modern Win 11 Devices</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-chromatic-brilliance-for-video-enthusiasts/"><u>[Updated] Chromatic Brilliance for Video Enthusiasts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-prime-video-the-twitterspheres-favorite-shows-of-23/"><u>2024 Approved Prime Video The Twittersphere's #Favorite Shows of '23</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-tale-architecting-network/"><u>2024 Approved Top Tale Architecting Network</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/addressing-xlivedll-not-found-strategies-and-solutions-for-a-clean-system-restore/"><u>Addressing 'Xlive.dll Not Found': Strategies and Solutions for a Clean System Restore</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-free-online-cinemas-a-guide-to-12-popular-choices/"><u>Best Free Online Cinemas: A Guide to 12 Popular Choices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-to-diagnose-and-resolve-mfplatdll-is-missing-or-unable-to-locate-problems-in-windows-systems/"><u>Easy Steps to Diagnose and Resolve 'mfplat.dll' Is Missing or Unable to Locate Problems in Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-troubleshooting-and-repairing-missing-d3dx925dll-errors/"><u>Guide To Troubleshooting And Repairing Missing d3dx9_25.dll Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-setting-up-automated-text-messaging-timers-on-your-iphone/"><u>Guide: Setting Up Automated Text Messaging Timers on Your iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-streaming-your-zoom-sessions-onto-your-television-easily/"><u>Guide: Streaming Your Zoom Sessions Onto Your Television Easily</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-7-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 7 With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-camtasia-ken-burns-technique-unveiled/"><u>In 2024, Mastering Camtasia Ken Burns Technique Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-strategy-for-accessing-student-discounts-at-microsoft-store/"><u>The Ultimate Strategy for Accessing Student Discounts at Microsoft Store</u></a></li>
 </ul></div>
 
