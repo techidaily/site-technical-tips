@@ -1,7 +1,7 @@
 ---
 title: How Does Apple Safeguard Your Artificial Intelligence Data in the Cloud? Understanding Their Security Approach | CyberGuardian
-date: 2024-09-26T03:45:50.823Z
-updated: 2024-10-02T04:02:15.814Z
+date: 2024-10-04T22:07:33.732Z
+updated: 2024-10-07T21:28:27.260Z
 tags:
   - apple
 categories:
@@ -34,6 +34,19 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
 Apple Intelligence represents a significant leap in on-device AI capabilities, directly bringing advanced machine learning and natural language processing to our phones. Unlike typical iOS or MacOS feature upgrades, Apple Intelligence loads a downsized version of Apple's Foundation Models, [a home-grown large language model (LLM)](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) with approximately 3 billion parameters. While impressive, this is tiny compared to models like [GPT-3.5 and GPT-4](https://www.zdnet.com/article/what-does-gpt-stand-for-understanding-gpt-3-5-gpt-4-and-more/), which boast hundreds of billions of parameters. Even Meta's open source Llama 3, which you can run on a desktop computer, has 8 billion parameters. 
@@ -59,16 +72,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -87,13 +94,6 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -103,10 +103,16 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -126,10 +132,16 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -172,19 +184,21 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/ar-merging-physical-and-fictional-worlds-for-2024/"><u>AR Merging Physical and Fictional Worlds for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/configuring-app-v-5-essential-guide-to-managing-folder-settings/"><u>Configuring App-V 5: Essential Guide to Managing Folder Settings</u></a></li>
-<li><a href="https://facebook.techidaily.com/duplicitous-dms-verify-user-authenticity/"><u>Duplicitous DMs: Verify User Authenticity</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/follow-mens-ncaa-tournament-on-the-airwaves-with-comprehensive-coverage-of-march-madness-and-final-four-games/"><u>Follow Men's NCAA Tournament on the Airwaves with Comprehensive Coverage of March Madness and Final Four Games</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-efficiently-upload-and-render-youtube-videos-with-precision/"><u>In 2024, Efficiently Upload and Render YouTube Videos with Precision</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-nord-ce-3-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change OnePlus Nord CE 3 5G Lock Screen Password?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-movie-magic-adjusting-netflix-speed/"><u>In 2024, Mastering Movie Magic Adjusting Netflix Speed</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-rated-flv-editor-for-windows-8-edit-videos-like-a-pro/"><u>New In 2024, Top-Rated FLV Editor for Windows 8 Edit Videos Like a Pro</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-basics-of-bass-management-technology-explained/"><u>The Basics of Bass Management Technology Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-foremost-8-mobile-game-experiences-for-gamers-on-the-go/"><u>The Foremost 8 Mobile Game Experiences for Gamers On-the-Go</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-importance-of-b-roll-diversity-in-filmmaking-for-2024/"><u>The Importance of B-Roll Diversity in Filmmaking for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-parent-friendly-online-protection-top-8-apps-and-services/"><u>The Ultimate Guide to Parent-Friendly Online Protection: Top 8 Apps and Services</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-when-you-cant-find-dnscryptdll-on-your-computer/"><u>Troubleshooting Tips When You Can't Find DNSCrypt.dll on Your Computer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-good-to-great-elevate-your-tiktok-edits/"><u>[New] From Good to Great Elevate Your TikTok Edits</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-walkthrough-to-deactivate-pin-security-on-windows-11-systems/"><u>Comprehensive Walkthrough to Deactivate PIN Security on Windows 11 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-story-behind-yahoo-messengers-launch-and-discontinuation/"><u>Decoding the Story Behind Yahoo! Messenger's Launch & Discontinuation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-these-10-fantastic-free-tv-and-movie-platforms-as-great-alternatives-to-netflix/"><u>Discover These 10 Fantastic Free TV and Movie Platforms as Great Alternatives to Netflix</u></a></li>
+<li><a href="https://blog-min.techidaily.com/efficient-avi-to-video-konverter-eerlijk-verhalen-over-de-functies-van-movavi/"><u>Efficiënt AVI-to-Video Konverter: Eerlijk Verhalen Over De Functies Van Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-disable-urgent-alerts-how-to-turn-off-emergency-and-amber-alerts-on-your-iphone/"><u>Guide to Disable Urgent Alerts: How to Turn Off Emergency and Amber Alerts on Your iPhone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-asus-rog-phone-7-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Asus ROG Phone 7 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-efficiently-send-scans-from-your-networked-printer-to-computer/"><u>How to Efficiently Send Scans From Your Networked Printer to Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oppo-reno-10-pro-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo Reno 10 Pro 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/queer-movie-recommendations-top-picks-from-netflix-in-jul-24/"><u>Queer Movie Recommendations: Top Picks From Netflix in Jul '24</u></a></li>
+<li><a href="https://facebook.techidaily.com/sculpting-your-facebook-profiles-privacy-settings/"><u>Sculpting Your Facebook Profile's Privacy Settings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-manycam-alternatives-best-live-streaming-and-vr-camera-solutions/"><u>Top ManyCam Alternatives: Best Live Streaming & VR Camera Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-mingwm10dll-files-in-your-system/"><u>Troubleshooting Missing mingwm10.dll Files in Your System</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo A38 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reveal & Operate the Incognito Shortcut Bar on File Explorer - A Step-by-Step Manual
-date: 2024-09-28T03:18:18.322Z
-updated: 2024-10-02T09:31:21.523Z
+date: 2024-10-06T16:16:38.769Z
+updated: 2024-10-07T22:47:08.132Z
 categories:
   - BestProducts
 description: This Article Describes Reveal & Operate the Incognito Shortcut Bar on File Explorer - A Step-by-Step Manual
@@ -23,19 +23,6 @@ thumbnail: https://www.lifewire.com/thmb/53_y4892ZcRtEQqZuTU0bqeSEho=/400x300/fi
 
  This article explains how to show the Mac Finder Path Bar. Information in this article applies to macOS Catalina (10.15) through OS X (10.5) Leopard.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable the Finder Path Bar
 
  The Finder Path Bar is disabled by default, but it only takes a few seconds to enable it.
@@ -45,10 +32,10 @@ thumbnail: https://www.lifewire.com/thmb/53_y4892ZcRtEQqZuTU0bqeSEho=/400x300/fi
 2. With a Finder window open, select**Show Path Bar** from the**View** menu.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Show Path Bar selection from Finder View menu](https://www.lifewire.com/thmb/p8hmSvudrGj6bJbYTBG0C2oeKis=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-use-macs-hidden-finder-path-bar-2260868-9d9472a91acd4a1b90d481c5b2d16f97.jpg)
@@ -59,6 +46,13 @@ thumbnail: https://www.lifewire.com/thmb/53_y4892ZcRtEQqZuTU0bqeSEho=/400x300/fi
 
  The Finder Path Bar is a small pane located at the bottom of a[Finder window](https://www.lifewire.com/use-mac-finder-2260739) , just below where files and folders are listed. The Path Bar shows you the path from the folder you're currently viewing to the top of the file system. To put it another way, it shows you the path you created when you clicked through the Finder to get to the current folder.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Turn Off the Finder Path Bar
 
  If you decide you prefer the more minimalistic Finder window, you can turn the Path Bar off just as quickly as you turned it on.
@@ -68,13 +62,20 @@ thumbnail: https://www.lifewire.com/thmb/53_y4892ZcRtEQqZuTU0bqeSEho=/400x300/fi
 ![Hide Path Bar selected in Finder View menu](https://www.lifewire.com/thmb/6TcHzm-tbM5wrShNj4W63rNiBLQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-use-macs-hidden-finder-path-bar-2260868-4a4198e2ffef4e8bbe0352fa791bbe2e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Path Bar disappears.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other Uses of the Finder Path Bar
 
@@ -86,6 +87,13 @@ thumbnail: https://www.lifewire.com/thmb/53_y4892ZcRtEQqZuTU0bqeSEho=/400x300/fi
 * Truncated folder names often show up in the Path Bar. You can expand the Finder window to see the folders' full names, but that doesn't work well if you have a lot of truncated folder names in the Path Bar. A better method is to place your cursor over a folder with a truncated name. After a second or two, the folder expands to show its full name.
 * The Path Bar also works when you're performing a[Finder search](https://www.lifewire.com/use-spotlight-keyword-searches-to-find-files-2260809) . When the results of a search are displayed in the Finder, you can discover where an item is stored by selecting the item in the search results and then glancing at the Path Bar.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Additional Ways to Show the Path
 
  The Path Bar is handy, but there are other ways to display the path to an item. One method is to[add the Path icon to the Finder's toolbar](https://www.lifewire.com/customize-finder-toolbar-2260859) by selecting**View** in the Finder menu bar and choosing**Customize Toolbar** .
@@ -95,13 +103,6 @@ thumbnail: https://www.lifewire.com/thmb/53_y4892ZcRtEQqZuTU0bqeSEho=/400x300/fi
  Drag the**Path** icon to the top of the Finder window.
 
 ![The Path icon applied to the top of the Finder](https://www.lifewire.com/thmb/sXjTsuUVrBaufWskUszQkAeKP-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-use-macs-hidden-finder-path-bar-2260868-dcd2a4bce60941beb1735c254c59d8fd.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Path icon displays the path to the currently selected item much as the Path Bar does. The difference is that the Path Bar shows the path in a horizontal format, while the Path icon uses a vertical format. The other difference is that the Path button only displays the path when the button is clicked.
 
@@ -121,13 +122,6 @@ thumbnail: https://www.lifewire.com/thmb/53_y4892ZcRtEQqZuTU0bqeSEho=/400x300/fi
 5. Press**Enter** or**Return** .
 
  The Finder restarts, after which any Finder window displays the long pathname to the current location of a folder.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Turn Off the Display of the Full Pathname
 
@@ -178,22 +172,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-efficient-selections-top-picks-for-6-fb-lite-vids/"><u>[New] Efficient Selections Top Picks for 6 FB Lite Vids</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-guide-testing-mycam-recording-capabilities/"><u>[New] Ultimate Guide Testing MyCam Recording Capabilities</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-complete-pathway-to-success-with-your-first-facebook-live-for-2024/"><u>[Updated] The Complete Pathway to Success with Your First Facebook Live for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-professional-path-to-broadcasting-full-dome-content-on-fb/"><u>[Updated] The Professional Path to Broadcasting Full-Dome Content on FB</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/adapting-videas-strand-ratio-easy-guide-to-changing-from-169-to-other-formats-435332/"><u>Adapting Videa's Strand Ratio - Easy Guide to Changing From 16:9 to Other Formats (4:3/5:3/3:2)</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/efficient-techniques-for-personalizing-and-updating-social-media-coverage-for-2024/"><u>Efficient Techniques for Personalizing and Updating Social Media Coverage for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-guide-protecting-your-privacy-with-a-vpn-on-vision-pro-and-similar-xr-devices-zdnet/"><u>Essential Guide: Protecting Your Privacy with a VPN on Vision Pro and Similar XR Devices | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-analysis-matterport-axis-software-overview-and-reviews-on-techradar/"><u>Expert Analysis: Matterport Axis Software Overview & Reviews on TechRadar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-virtual-reality-is-metas-new-policy-on-minimum-age-appropriate/"><u>Exploring Virtual Reality: Is Meta's New Policy on Minimum Age Appropriate?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/fast-track-your-media-files-speed-up-videos-and-audio-with-winxvideos-ai-gpu-tech/"><u>Fast-Track Your Media Files - Speed Up Videos and Audio with Winxvideo's AI GPU Tech</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/harnessing-the-power-duo-unveiling-ai-and-5gs-synergistic-impact-on-modern-advancements-articles-by-zdnet/"><u>Harnessing the Power Duo: Unveiling AI and 5G's Synergistic Impact on Modern Advancements | Articles by ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-the-apple-vision-pro-sold-out-checking-supply-and-demand-status-update/"><u>Is the Apple Vision Pro Sold Out? Checking Supply and Demand Status Update</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/managing-your-organization-with-the-apple-vision-pro-a-look-at-enhanced-enterprise-device-control/"><u>Managing Your Organization with the Apple Vision Pro: A Look at Enhanced Enterprise Device Control</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/meta-continues-price-reductions-on-oculus-quest-2-hits-record-low-pricing/"><u>Meta Continues Price Reductions on Oculus Quest 2, Hits Record Low Pricing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-obstacles-in-implementing-digital-twins-a-guide-to-tackling-7-key-business-hurdles-insights-from-zdnet/"><u>Overcoming Obstacles in Implementing Digital Twins: A Guide to Tackling 7 Key Business Hurdles - Insights From ZDNet</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/team-fortress-team-fortress-2-how-to-resolve-team-fortress-2-crashes-in-korean/"><u>Team Fortress 지미앤콜 런타운해제 방법 (Team Fortress 2 클러시를 해결하는 방법) - How to Resolve Team Fortress 2 Crashes in Korean</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-pedagogic-pros-the-finest-lecture-recording-devices-for-instructors-for-2024/"><u>[New] Pedagogic Pros The Finest Lecture Recording Devices for Instructors for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-superheroes-clash-black-vs-silver/"><u>[New] Superheroes Clash BLACK vs SILVER</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-from-fast-paced-footage-to-staggeringly-slow-motion-videos-a-comprehensive-ig-reel-guide/"><u>[Updated] In 2024, From Fast-Paced Footage to Staggeringly Slow Motion Videos A Comprehensive IG Reel Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-art-of-vrecorder-integration-simple-download-and-use-tutorials/"><u>[Updated] The Art of VRecorder Integration Simple Download & Use Tutorials</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-verified-journey-on-social-media-accelerate-followers-with-these-six-tips-for-2024/"><u>[Updated] The Verified Journey on Social Media Accelerate Followers with These Six Tips for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-microsoft-teams-efficiency-a-comprehensive-guide-to-leveraging-github-copilot/"><u>Boost Your Microsoft Teams Efficiency: A Comprehensive Guide to Leveraging GitHub Copilot</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-instructions-for-initiating-the-configuration-process-of-an-amazon-echo-dot/"><u>Easy Instructions for Initiating the Configuration Process of an Amazon Echo Dot</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-tecno-camon-20-by-drfone-android/"><u>Full Guide to Unlock Your Tecno Camon 20</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-stay-connected-across-continents-without-spending-a-penny-top-5-free-voice-communication-apps/"><u>How to Stay Connected Across Continents without Spending a Penny - Top 5 Free Voice Communication Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-a15-4g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy A15 4G Unlock Without Password</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-like-a-pro-comprehensive-guide-to-google-maps-live-view-capabilities/"><u>Navigating Like a Pro: Comprehensive Guide to Google Maps Live View Capabilities</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unlocking-adobe-premiere-a-step-by-step-guide-to-video-import-and-export/"><u>New In 2024, Unlocking Adobe Premiere A Step-by-Step Guide to Video Import and Export</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-no-cost-software-update-utilities-july-2024-edition/"><u>Top 8 No-Cost Software Update Utilities - July 2024 Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-correcting-the-dreaded-code-28-error-in-windows-systems/"><u>Troubleshooting and Correcting the Dreaded Code 28 Error in Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watch-all-the-star-trek-movies-in-correct-order-your-complete-roadmap/"><u>Watch All the Star Trek Movies in Correct Order - Your Complete Roadmap</u></a></li>
 </ul></div>
 

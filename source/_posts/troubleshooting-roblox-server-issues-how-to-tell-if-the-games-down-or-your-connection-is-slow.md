@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Roblox Server Issues: How to Tell If the Game's Down or Your Connection Is Slow"
-date: 2024-09-19T22:58:50.443Z
-updated: 2024-09-20T21:07:24.972Z
+date: 2024-10-02T20:01:40.588Z
+updated: 2024-10-07T19:40:35.965Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting Roblox Server Issues: How to Tell If the Game's Down or Your Connection Is Slow"
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/60ef5a3cb6d3ebf4383dc1944d7c5c6920d92b79f
 
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 2: Check to See if It's Skype's Problem
 
  See if others are having troubles with Skype, too. There isn't much you can do to fix it if it's not your problem to fix. Sometimes things go wrong on Skype's end and the only thing you can do is wait it out.
@@ -45,16 +52,16 @@ thumbnail: https://thmb.techidaily.com/60ef5a3cb6d3ebf4383dc1944d7c5c6920d92b79f
 
 ![Skype Status Normal Service](https://www.lifewire.com/thmb/gelce_nk6NZFVOXIBopwnyukvrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-status-normal-service-002401f4bdd54451a46e388b733ee6d5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Something else you can do to troubleshoot the problem is to check[Skype's status on Down Detector](https://downdetector.com/status/skype/) to see if other users are reporting that it's down or having some other connection problem.
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 3: Check Your Network Connection
 
@@ -70,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/60ef5a3cb6d3ebf4383dc1944d7c5c6920d92b79f
 
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Using Skype on a Computer
 
  If you're using Skype on a computer, open it and tap the **Alt** key so that you can see the main menu. Then, go to **Tools** \>**Audio & Video Settings** .
@@ -84,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/60ef5a3cb6d3ebf4383dc1944d7c5c6920d92b79f
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
@@ -96,19 +96,6 @@ thumbnail: https://thmb.techidaily.com/60ef5a3cb6d3ebf4383dc1944d7c5c6920d92b79f
 * To check the sound in Skype to make sure that it's using the right speakers, select**Test audio** under the**Speakers** option. You should hear sound in your headset or speakers.
 * If you don't hear anything when you play the sample sound, make sure your speakers or headphones are turned all the way up (some headphones have physical volume buttons) and that the on-screen settings are at**10** .
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Using Skype for Mobile Devices
 
@@ -126,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/60ef5a3cb6d3ebf4383dc1944d7c5c6920d92b79f
 2. Find and open**Skype** and then**Permissions** .
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 5: Check Skype's Video Settings and Permissions
 
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
@@ -141,13 +135,6 @@ thumbnail: https://thmb.techidaily.com/60ef5a3cb6d3ebf4383dc1944d7c5c6920d92b79f
 * Try unplugging and then reattaching the webcam if it's an external one.
 * Make sure that there's nothing physically blocking the camera.
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Skype for Mobile Devices
 
@@ -179,6 +166,19 @@ thumbnail: https://thmb.techidaily.com/60ef5a3cb6d3ebf4383dc1944d7c5c6920d92b79f
 
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 8: Update Device Drivers
 
  At this point, you've verified all the proper Skype-related settings are set up correctly, so it's time to move beyond the program and onto your actual computer and other hardware.
@@ -190,6 +190,13 @@ thumbnail: https://thmb.techidaily.com/60ef5a3cb6d3ebf4383dc1944d7c5c6920d92b79f
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
 
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 10: Check the System Sound
 
@@ -228,5 +235,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-ringers-paradise-top-downloads-for-skype-sounds/"><u>[New] Ringer's Paradise Top Downloads for Skype Sounds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-take-your-online-presence-to-new-heights-with-youtube-edits-in-sony-vegas/"><u>[New] Take Your Online Presence to New Heights with YouTube Edits in Sony Vegas</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unraveling-the-secrets-to-smooth-vimeo-video-downloads/"><u>[Updated] 2024 Approved Unraveling the Secrets to Smooth Vimeo Video Downloads</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-visual-vaults-expert-tips-on-capturing-and-storing-twitter-video/"><u>[Updated] 2024 Approved Visual Vaults Expert Tips on Capturing and Storing Twitter Video</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-learn-to-harness-funimates-downloading-power/"><u>2024 Approved Learn to Harness Funimate's Downloading Power</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-smooth-recording-techniques-for-gears-5s-battlegrounds/"><u>2024 Approved Smooth Recording Techniques for Gears 5'S Battlegrounds</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-apples-latest-reveals-at-the-worldwide-developers-conference-enhancements-in-ai-siri-updates-and-new-features-in-ios-18-detailed-164/"><u>All You Need to Know About Apple's Latest Reveals at the Worldwide Developers Conference: Enhancements in AI, Siri Updates & New Features in iOS 18 - Detailed Coverage</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-our-choice-of-5-premium-sleep-applications-for-the-apple-watch/"><u>Discover Our Choice of 5 Premium Sleep Applications for the Apple Watch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dyson-introduces-ontrac-a-wireless-audio-contender-against-apples-airpods-pro/"><u>Dyson Introduces OnTrac: A Wireless Audio Contender Against Apple's AirPods Pro</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/efficient-h264-video-conversion-guide-tips-and-tricks-for-macos-including-big-sur/"><u>Efficient H264 Video Conversion Guide: Tips & Tricks for macOS, Including Big Sur</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/global-mobile-market-leader-apple-surpasses-samsung-in-worldwide-smartphone-deliveries-insights/"><u>Global Mobile Market Leader: Apple Surpasses Samsung in Worldwide Smartphone Deliveries - Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-snapperview-4-review-synopsis/"><u>In 2024, SnapperView 4 Review Synopsis</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-sony-vegas-for-the-aspiring-youtube-editor-a-comprehensive-overview/"><u>In 2024, Sony Vegas for the Aspiring YouTube Editor A Comprehensive Overview</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-investing-in-exclusive-apple-insights-worth-your-20-per-month-discover-the-future-of-tech-trends/"><u>Is Investing in Exclusive Apple Insights Worth Your $20 per Month? Discover the Future of Tech Trends!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secrets-unveiled-the-10-techniques-for-blowing-up-on-tiktok/"><u>Secrets Unveiled: The 10 Techniques for Blowing Up on TikTok</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sign-up-simplified-bypassing-mobile-numbers-on-apps/"><u>Sign-Up Simplified: Bypassing Mobile Numbers on Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-36-unbeatable-amazon-prime-day-bargains-on-apple-products-exclusive-offers-not-yet-claimed/"><u>Top 36 Unbeatable Amazon Prime Day Bargains on Apple Products - Exclusive Offers Not Yet Claimed!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-apple-vision-pro-order-process-insider-guidance-for-flawless-facial-recognition-setup/"><u>Unlocking the Apple Vision Pro Order Process: Insider Guidance for Flawless Facial Recognition Setup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unstuck-windows-10-search-top-fixes-to-get-it-working-again/"><u>Unstuck Windows 10 Search - Top Fixes to Get It Working Again</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone & Apple Watch - Tutorial by ZDNet
-date: 2024-09-29T08:22:38.573Z
-updated: 2024-10-02T09:52:03.363Z
+date: 2024-10-03T22:11:06.537Z
+updated: 2024-10-07T20:06:52.270Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
@@ -57,13 +64,6 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
@@ -76,10 +76,10 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
@@ -87,16 +87,10 @@ Screenshot by David Gewirtz/ZDNET
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##   
@@ -116,6 +110,13 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -146,13 +147,6 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -193,24 +187,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-itunes-recording-proven-techniques-for-success/"><u>[New] ITunes Recording Proven Techniques for Success</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-perfect-places-to-procure-pixel-ringers-online/"><u>2024 Approved Perfect Places to Procure Pixel Ringers Online</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-jargon-uncovered-essential-terms-for-tech-professionals/"><u>AI Jargon Uncovered: Essential Terms for Tech Professionals</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-faces-new-competition-qualcomm-unveils-budget-friendly-vr-processor-that-rivals-metas-high-end-technology-zdnet-insights/"><u>Apple Faces New Competition: Qualcomm Unveils Budget-Friendly VR Processor That Rivals Meta's High-End Technology | ZDNET Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-pushes-back-launch-of-augmented-reality-spectacles-prioritizes-hybrid-vrar-device-instead/"><u>Apple Pushes Back Launch of Augmented Reality Spectacles, Prioritizes Hybrid VR/AR Device Instead</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-experience-surpassing-expectations-insights-from-a-new-user-on-zdnet/"><u>Apple Vision Pro Experience: Surpassing Expectations - Insights From a New User on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-spatial-computing-technology-understanding-its-functionality-features-and-impacts-perspectives-by-zdnet/"><u>Decoding Spatial Computing Technology: Understanding Its Functionality, Features & Impacts – Perspectives by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-cityscapes-in-a-new-dimension-how-augmented-reality-revolutionizes-urban-navigation-on-google-maps/"><u>Explore Cityscapes in a New Dimension: How Augmented Reality Revolutionizes Urban Navigation on Google Maps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/final-alert-grab-the-exclusive-oculus-quest-2-for-only-199-today-gadget-central/"><u>Final Alert: Grab the Exclusive Oculus Quest 2 for Only $199 Today | Gadget Central</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-x8b-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor X8b?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-look-how-qualcomm-joins-forces-with-samsung-and-google-to-revolutionize-arvr-with-cutting-edge-smart-glasses/"><u>Inside Look: How Qualcomm Joins Forces With Samsung and Google to Revolutionize AR/VR with Cutting-Edge Smart Glasses</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/introducing-apples-vision-pro-a-revolutionary-leap-in-entertainment-technology/"><u>Introducing Apple's Vision Pro, a Revolutionary Leap in Entertainment Technology!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-an-expensive-education-on-the-horizon-unveiling-mba-programs-via-apple-vision-pro-according-to-zdnet/"><u>Is an Expensive Education on the Horizon? Unveiling MBA Programs via Apple Vision Pro, According to ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-it-feasible-to-access-netflix-through-your-gaming-console-nintendo-switch-edition/"><u>Is It Feasible To Access Netflix Through Your Gaming Console: Nintendo Switch Edition?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/most-effective-smartphone-power-supplies-on-the-market-2023-edition/"><u>Most Effective Smartphone Power Supplies on the Market - 2023 Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pro-playbook-elevate-your-game-with-these-absolutely-critical-to-avoid-any-potential-negative-impact-on-the-environment-and-human-health/"><u>Pro Playbook: Elevate Your Game with These Absolutely Critical to Avoid Any Potential Negative Impact on the Environment and Human Health.</u></a></li>
-<li><a href="https://win-dash.techidaily.com/secure-your-epson-wf-2750-printing-experience-download-the-latest-drivers-and-installation-guide/"><u>Secure Your Epson WF-2750 Printing Experience: Download the Latest Drivers & Installation Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725284831698-avchdflv/"><u>あらゆる動画形式に最適化した高速変換方法 - AVCHDからFLVまでのワンストップソリューション</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-navigating-netizen-networks-examining-your-and-competing-channels/"><u>[New] In 2024, Navigating Netizen Networks Examining Your and Competing Channels</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unleash-your-stories-gratis-facebook-enhancers-online-and-on-the-go-for-2024/"><u>[New] Unleash Your Stories Gratis, Facebook Enhancers Online & On-The-Go for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-scrutinizing-the-benefits-of-itops-screencasting-for-2024/"><u>[Updated] Scrutinizing the Benefits of ITop's Screencasting for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-keeping-your-most-important-imchats-at-the-forefront/"><u>A Step-by-Step Guide: Keeping Your Most Important IMChats at the Forefront</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/androids-ultimate-guide-to-photo-editors-is-pickup-a-contender-for-2024/"><u>Android’s Ultimate Guide to Photo Editors Is PickUp a Contender for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/farming-to-the-next-level-stardews-leading-mods-listed-for-2024/"><u>Farming to the Next Level Stardew's Leading Mods Listed for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-silence-to-sonata-cropping-and-mixing-music-into-video-content/"><u>From Silence to Sonata Cropping & Mixing Music Into Video Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-sending-voice-notes-via-iphone-effortlessly/"><u>Guide: Sending Voice Notes via iPhone Effortlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-interpret-your-laptops-power-meter-in-windows-10-for-optimal-performance/"><u>How to Interpret Your Laptop's Power Meter in Windows 10 for Optimal Performance</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-reno-9a-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 9A without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-deleting-cache-easy-methods-for-leading-browsers/"><u>Master the Art of Deleting Cache: Easy Methods for Leading Browsers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-blizzard-battlenet-downtime-how-to-tell-if-the-problem-lies-with-the-servers-or-your-own-setup/"><u>Navigating Through Blizzard Battle.net Downtime - How to Tell if the Problem Lies with the Servers or Your Own Setup</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-enhancing-virtual-presence-the-ultimate-tutorial-on-using-morphvox-for-gamers-vocal-transformation/"><u>New 2024 Approved Enhancing Virtual Presence The Ultimate Tutorial on Using Morphvox for Gamers Vocal Transformation</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fix-for-forgotten-ps5-subscriptions/"><u>Quick Fix for Forgotten PS5 Subscriptions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-correcting-oleaut32dll-is-unavailable-error-message/"><u>Step-by-Step Guide: Correcting 'Oleaut32.dll' Is Unavailable Error Message</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-tips-for-connecting-and-streaming-online-content-on-your-residential-movie-setup/"><u>Top Tips for Connecting and Streaming Online Content on Your Residential Movie Setup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-xbox-network-service-interruption-or-personal-setup-problems/"><u>Troubleshooting Xbox Network: Service Interruption or Personal Setup Problems?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-secrets-of-chatgpt-a-comprehensive-guide/"><u>Unveiling the Secrets of ChatGPT: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effective Strategies for Sharing and Editing Apple Pages Files Using iCloud: Insights From ZDNet"
-date: 2024-09-28T20:21:24.529Z
-updated: 2024-10-02T13:42:43.811Z
+date: 2024-10-03T17:09:53.550Z
+updated: 2024-10-07T22:20:52.058Z
 tags:
   - apple
 categories:
@@ -27,19 +27,6 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
@@ -47,15 +34,22 @@ The only things you'll need to make this work are a running instance of MacOS (w
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -73,33 +67,7 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Enable the Collaboration feature
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -108,6 +76,13 @@ The first thing you must do is open the Pages document that will be shared with 
 **Figure 3**: Apple Pages open and the Collaborate button is ready to use.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Enable the Collaborate feature
 
@@ -134,6 +109,13 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -175,24 +157,18 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-echoes-of-amusement-comical-tune-transformations-for-2024/"><u>[Updated] Echoes of Amusement Comical Tune Transformations for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-hilarious-highlights-reddit-and-twitters-best-bits/"><u>[Updated] In 2024, Hilarious Highlights Reddit and Twitter's Best Bits</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-master-commanders-unleashed-ranking-7-total-war-champions/"><u>[Updated] In 2024, Master Commanders Unleashed Ranking 7 Total War Champions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-maximize-impact-sharing-youtube-videos-on-social-media-fb/"><u>[Updated] In 2024, Maximize Impact Sharing YouTube Videos on Social Media (FB)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-streamlined-recording-of-powerpoint-slides-via-webcam/"><u>[Updated] In 2024, Streamlined Recording of PowerPoint Slides via Webcam</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-assortment-professional-webcam-platforms/"><u>2024 Approved Best Assortment Professional Webcam Platforms</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-from-a-symphony-of-surroundings-to-silent-solitude-the-pathway-to-muting-background-noise/"><u>2024 Approved From a Symphony of Surroundings to Silent Solitude The Pathway to Muting Background Noise</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-d-link-passwords-guide-updated-for-july-2024/"><u>Comprehensive D-Link Passwords Guide Updated for July 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/discerning-the-causes-of-discord-sound-interruptions-the-definitive-2024-solution-manual/"><u>Discerning the Causes of Discord Sound Interruptions - The Definitive 2024 Solution Manual</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-leading-news-collectors-of-2024-our-picks/"><u>Discover the Leading News Collectors of 2024 – Our Picks!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-when-you-cant-watch-netflix-on-your-roku-step-by-step-guide/"><u>Easy Fixes for When You Can't Watch Netflix on Your Roku - Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/efficient-methods-to-shut-down-facebook-functionality-on-android-phones/"><u>Efficient Methods to Shut Down Facebook Functionality on Android Phones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-best-futuristic-eyewear-options/"><u>Exploring the Best Futuristic Eyewear Options</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-msvbvm50dll-not-found-issues-on-your-windows-device/"><u>Fixing MSVBVM50.DLL Not Found Issues on Your Windows Device</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722982969081-palworld-not-loading-or-launching-quick-fixes/"><u>Palworld Not Loading or Launching - Quick Fixes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-start-to-microsoft-365-setup-a-user-friendly-guide-for-windowsmac-users/"><u>Quick Start to Microsoft 365 Setup - A User Friendly Guide for Windows/Mac Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/spotify-masterclass-seamlessly-blending-multiple-playlists-together/"><u>Spotify Masterclass: Seamlessly Blending Multiple Playlists Together</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-linking-your-amazon-firestick-to-a-projector/"><u>Step-by-Step Guide: Linking Your Amazon Firestick to a Projector</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-essential-tips-for-crafting-perfect-drone-video-edits/"><u>2024 Approved Essential Tips for Crafting Perfect Drone Video Edits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-shape-viral-memes-using-adobe/"><u>2024 Approved Shape Viral Memes Using Adobe</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/clearing-out-old-data-a-users-manual-for-android-cache-removal/"><u>Clearing Out Old Data: A User's Manual for Android Cache Removal</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-excellence-in-entertainment-leading-tv-streamers-of-2-8/"><u>Discover Excellence in Entertainment: Leading TV Streamers of 2# #8</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-home-theater-connecting-your-samsung-soundbar-with-the-perfect-audio-visual-experience/"><u>Enhancing Home Theater: Connecting Your Samsung Soundbar with the Perfect Audio-Visual Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-the-scoop-on-the-playstation-portal-unveiling-the-launch-date-costs-specifications-and-retail-outlets/"><u>Get the Scoop on the PlayStation Portal: Unveiling the Launch Date, Costs, Specifications & Retail Outlets!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-enhance-performance-updating-the-driver-for-your-intel-centrino-advanced-n-6239-wireless-card/"><u>How to Enhance Performance: Updating the Driver for Your Intel Centrino Advanced-N 6239 Wireless Card</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-d3dx930dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_30.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-mobile-fm-listening-a-step-by-step-guide-for-iphone-and-android-users/"><u>Mastering Mobile FM Listening: A Step-by-Step Guide for iPhone & Android Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-removing-pictures-from-icloud-without-losing-iphone-copies/"><u>Step-by-Step Guide: Removing Pictures From iCloud without Losing iPhone Copies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-making-full-use-of-your-android-devices-fast-settings-feature/"><u>The Ultimate How-To: Making Full Use of Your Android Device’s Fast Settings Feature</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-edit-mp4-files-on-mac-mavericks-a-comprehensive-guide/"><u>Updated 2024 Approved Edit MP4 Files on Mac Mavericks A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Secretive Launch From Apple: Innovative New Accessories Released With Distinct Personalities - All Exposed Here | TechNewsZDNet"
-date: 2024-09-27T13:58:13.696Z
-updated: 2024-10-02T01:51:03.267Z
+date: 2024-10-05T18:00:52.883Z
+updated: 2024-10-07T20:03:13.768Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +68,10 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +83,10 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,16 +131,19 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-perfect-your-pitch-with-android-the-ultimate-list-of-voice-alteration-apps-for-2024/"><u>[New] Perfect Your Pitch with Android The Ultimate List of Voice Alteration Apps for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-advancements-will-chatgpt-replace-human-expertise-in-finance/"><u>AI Advancements: Will ChatGPT Replace Human Expertise in Finance?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808045850-error-code-80240020-comprehensive-troubleshooting-steps-for-windows-10-installation-issues-resolved/"><u>Error Code 80240020: Comprehensive Troubleshooting Steps for Windows 10 Installation Issues Resolved!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expand-your-xbox-one-storage-connecting-and-using-an-external-hard-disk/"><u>Expand Your Xbox One Storage - Connecting and Using an External Hard Disk</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/highest-scoring-smartphone-cameras-for-video-making-for-2024/"><u>Highest Scoring Smartphone Cameras for Video Making for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/master-facebook-broadcasting-with-devices-and-obs-studio/"><u>Master Facebook Broadcasting with Devices and OBS Studio</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-motherboards-the-7-crucial-aspects-every-buyer-should-evaluate/"><u>Mastering Motherboards: The 7 Crucial Aspects Every Buyer Should Evaluate</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-time-settings-on-your-kindle-paperwhite-device/"><u>Mastering Time Settings on Your Kindle Paperwhite Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/prime-retailers-for-acquiring-new-or-used-mobile-phones/"><u>Prime Retailers for Acquiring New or Used Mobile Phones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-on-your-computer-after-a-recent-windows-11-software-patch/"><u>Restoring Audio on Your Computer After a Recent Windows 11 Software Patch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-haldll-issues-a-step-by-step-guide-for-windows-111087vista/"><u>Solving hal.dll Issues: A Step-by-Step Guide for Windows 11/10/8/7/Vista</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/urate-your-learning-best-15-science-yt-experts/"><u>[New] Curate Your Learning Best 15 Science YT Experts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-cutting-edge-clarity-optimal-4k-panels-for-video-production/"><u>[New] Cutting-Edge Clarity Optimal 4K Panels for Video Production</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-ancestral-aesthetics-art-without-restrictive-rights/"><u>2024 Approved Ancestral Aesthetics Art Without Restrictive Rights</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-gif-to-sticker-guide-mastering-conversion-on-discord-whatsapp-telegram/"><u>2024 Approved GIF to Sticker Guide Mastering Conversion on Discord, WhatsApp, Telegram</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-sml385btbk-karaoke-machine-analysis-ultimate-user-friendly-and-vibrant-singing-experience/"><u>Comprehensive SML385BTBK Karaoke Machine Analysis: Ultimate User-Friendly & Vibrant Singing Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-fixes-for-when-your-macbook-pros-keys-stop-responding/"><u>Effective Fixes for When Your MacBook Pro's Keys Stop Responding</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-smart-tv-choices-a-comprehensive-guide/"><u>Essential Smart TV Choices: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-utilizing-the-telnet-client-effectively-on-your-pc/"><u>Expert Tips: Utilizing the Telnet Client Effectively on Your PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-you-cast-your-apple-iphone-13-pro-max-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>In 2024, How Can You Cast Your Apple iPhone 13 Pro Max to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-smiling-photos-and-videos-iphones/"><u>In 2024, Smiling Photos & Videos (iPhones)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-downloading-and-setting-up-apps-on-samsungs-smart-tv-platform/"><u>Step-by-Step Tutorial: Downloading and Setting Up Apps on Samsung's Smart TV Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/strategies-for-locating-a-persons-contact-information-on-the-web/"><u>Strategies for Locating a Person's Contact Information on the Web</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-guide-to-the-most-unmissable-movies-from-the-1980s/"><u>The Definitive Guide to the Most Unmissable Movies From the 1980S</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/understanding-the-abbyy-cloud-privacy-policy-key-terms-universal-dpa-adherence-and-integration-of-gdpr-standards/"><u>Understanding the ABBYY Cloud Privacy Policy: Key Terms, Universal DPA Adherence and Integration of GDPR Standards</u></a></li>
 </ul></div>
 

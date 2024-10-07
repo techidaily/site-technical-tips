@@ -1,7 +1,7 @@
 ---
 title: "Preventing Unwanted Auto-Play: A Guide to Pausing Apple Music Streams"
-date: 2024-09-16T16:12:47.266Z
-updated: 2024-09-20T20:00:53.048Z
+date: 2024-10-01T20:35:33.155Z
+updated: 2024-10-07T22:09:12.084Z
 categories:
   - BestProducts
 description: "This Article Describes Preventing Unwanted Auto-Play: A Guide to Pausing Apple Music Streams"
@@ -40,10 +40,32 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 4. If Autoplay is activated, you should see an Autoplay playlist in the lower half of the screen and a highlighted Autoplay icon to the right of the song playing. Tap the**Autoplay** icon to disable it.  
 ![Turning off Autoplay settings in Apple Music app on iPhone.](https://www.lifewire.com/thmb/5RZwYhTcpXjS0K1VBHG9SGvcj9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW10-d805952bf4c34b1bbaef6067467b8299.jpg)  
  The**Autoplay** icon is the one that looks like an infinity symbol.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. If done correctly, the Autoplay playlist should immediately disappear, and Apple Music will now stop automatically playing.
 6. You can now return to the app's front screen by tapping the**Up Next** icon once again and then swiping down to minimize the player.  
 ![Turning off Autoplay settings in Apple Music app on iPhone.](https://www.lifewire.com/thmb/YoFjmsf47ULgcOPG60luN9ht2os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW11-526478ba77314060b7b3b20047261680.jpg)  
  To enable Autoplay in Apple Music, repeat these steps and make sure that the icon is highlighted and the Autoplay playlist is visible.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips to Stop Apple Music From Playing Automatically
 
@@ -56,6 +78,14 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 * **Disable Handoff** . The[iPhone’s Handoff feature](https://www.lifewire.com/everything-you-need-to-know-about-handoff-4079966) continues media playback on devices once they’re detected automatically. You can customize and even disable Handoff by opening**Settings** and going to**General** \>**AirPlay & Handoff** .  
 ![iPhone Settings showing path to AirPlay & Handoff](https://www.lifewire.com/thmb/-G0RK2zIvlOyL5-54T1esisg2Ws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-stop-apple-music-from-automatically-playing-5119158-a00b00cf58384f85a4071b2272798f2c.jpg)  
  FAQ  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * How do I stop an Apple Music subscription?  
     To[cancel an Apple Music subscription](https://www.lifewire.com/cancel-apple-music-subscription-1999488) on an iPhone, launch**Settings** , tap**your** **name** \>**Subscriptions** , select**Apple Music** , and tap**Cancel Subscription** . Or, go to the[Apple Music website](https://music.apple.com/browse) , sign in, tap your**account** icon >**Settings** \>**Subscriptions** \>**Manage** , and choose**Cancel Subscription** .  
 * How do I stop SharePlay on Apple Music?  
@@ -90,12 +120,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-5-innovative-youtube-thumbnail-designers-for-aspiring-filmmakers-for-2024/"><u>[New] 5 Innovative YouTube Thumbnail Designers for Aspiring Filmmakers for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-transition-tactics-in-audio-leveraging-adobes-fading-effects/"><u>[New] In 2024, Transition Tactics in Audio Leveraging Adobe’s Fading Effects</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-immersive-narratives-vr-storytelling-breakthroughs/"><u>2024 Approved Immersive Narratives VR Storytelling Breakthroughs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-how-you-can-watch-netflix-without-spending-money/"><u>Discover How You Can Watch Netflix Without Spending Money</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/how-to-convert-4k-videos-to-mp4-a-step-by-step-guide-for-2024/"><u>How to Convert 4K Videos to MP4 A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-sign-up-and-use-the-facebook-marketplace-platform/"><u>How to Sign Up and Use the Facebook Marketplace Platform</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-xs-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone XS without App | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-cyberpunk-2077-to-use-gpu-on-a-windows-10-machine/"><u>Optimizing Cyberpunk 2077 to Use GPU on a Windows 10 Machine</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-connect-quest-reestablish-your-screens-signal/"><u>Quick-Connect Quest: Reestablish Your Screen's Signal</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-14-pro-max-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone 14 Pro Max from iCloud</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-tutorial-creating-and-sharing-playlists-with-friends-on-apple-music/"><u>The Ultimate Tutorial: Creating and Sharing Playlists with Friends on Apple Music</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-physxdriverdll-files-effective-strategies/"><u>Troubleshooting Missing PhysXDriver.dll Files: Effective Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-libxml2dll-file-not-found-dilemma-for-programs-like-internet-explorer/"><u>Troubleshooting the libxml2.dll File Not Found Dilemma for Programs Like Internet Explorer</u></a></li>
+</ul></div>
 

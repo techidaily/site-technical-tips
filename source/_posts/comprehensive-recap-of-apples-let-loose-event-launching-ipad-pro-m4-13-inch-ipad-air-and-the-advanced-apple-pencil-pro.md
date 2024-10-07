@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Recap of Apple's 'Let Loose' Event - Launching iPad Pro M4, 13-Inch iPad Air & the Advanced Apple Pencil Pro
-date: 2024-09-29T12:54:03.830Z
-updated: 2024-10-02T06:51:10.624Z
+date: 2024-10-03T18:06:08.897Z
+updated: 2024-10-07T22:07:55.568Z
 tags:
   - apple
 categories:
@@ -53,10 +53,10 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -76,10 +76,10 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -105,15 +105,22 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -126,13 +133,6 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -168,20 +168,20 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-affordable-hardware-excellent-obs-setup/"><u>[Updated] 2024 Approved Affordable Hardware Excellent OBS Setup</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-guide-to-the-top-10-historical-education-channels-for-2024/"><u>[Updated] Guide to the Top 10 Historical Education Channels for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-ages-welcome-the-greatest-childrens-movies-available-on-netflix/"><u>All Ages Welcome: The Greatest Children's Movies Available on Netflix</u></a></li>
-<li><a href="https://discover-help.techidaily.com/easy-guide-converting-your-videos-and-audios-across-various-formats/"><u>Easy Guide: Converting Your Videos and Audios Across Various Formats</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/find-nutrition-success-a-guide-to-the-best-6-food-logging-apps-available/"><u>Find Nutrition Success: A Guide to the Best 6 Food Logging Apps Available</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-x8b-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor X8b To Phone | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-elevating-visual-experience-youtubes-quality-boosting-guide/"><u>In 2024, Elevating Visual Experience YouTube's Quality Boosting Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-full-spectrum-assessment-dji-phantom-4-unveiled/"><u>In 2024, Full Spectrum Assessment DJI Phantom 4 Unveiled</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-essential-guide-for-cost-free-google-meet-management/"><u>In 2024, The Essential Guide for Cost-Free Google Meet Management</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sony-s6700-latest-features-reviewed-for-2024/"><u>Sony S6700 Latest Features Reviewed for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-flushing-your-android-devices-memory-cache/"><u>Step-by-Step Guide to Flushing Your Android Device's Memory Cache</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-integrating-multiple-fortnite-accounts/"><u>The Ultimate How-To: Integrating Multiple Fortnite Accounts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tricks-and-treats-with-winxdvd-a-terrifyingly-delightful-halloween-selection/"><u>Tricks & Treats with WinXDVD: A Terrifyingly Delightful Halloween Selection!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-apple-watch-solving-issues-with-cellular-connectivity/"><u>Troubleshooting Apple Watch: Solving Issues with Cellular Connectivity</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-how-to-snapping-quick-images-of-your-desktop-display/"><u>Ultimate How-To: Snapping Quick Images of Your Desktop Display</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-streamlining-video-production-with-top-mac-mp4-tools/"><u>[New] Streamlining Video Production with Top Mac MP4 Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-installation-of-asus-bluetooth-drivers-with-latest-downloads-and-patches/"><u>Effortless Installation of ASUS Bluetooth Drivers with Latest Downloads and Patches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-user-engagement-with-our-cookiebot-integration-services/"><u>Enhance User Engagement with Our Cookiebot Integration Services</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-roundup-videonix-editors-capabilities/"><u>Expert Roundup Videonix Editor's Capabilities</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/extend-your-playtime-top-5-tips-for-lengthening-ps5-dualsense-charge/"><u>Extend Your Playtime: Top 5 Tips for Lengthening PS5 DualSense Charge</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-motorola-edge-40-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Motorola Edge 40 Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-honor-90-lite-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Honor 90 Lite Unlock Without Password</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-stitching-gopro-content-in-extended-panorama-videos/"><u>In 2024, Master Stitching GoPro Content in Extended Panorama Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-your-gaming-performance-boosting-fps-essential-strategies/"><u>Maximize Your Gaming Performance: Boosting FPS - Essential Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-your-laptops-potential-with-these-10-performance-boosting-tips/"><u>Maximize Your Laptop's Potential with These 10 Performance-Boosting Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimizing-your-pc-far-cry-5-essential-hardware-specs-and-expert-advice/"><u>Optimizing Your PC: Far Cry 5 Essential Hardware Specs & Expert Advice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-freeing-up-storage-space-in-windows-10/"><u>Ultimate Guide: Freeing Up Storage Space in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-on-linking-laptop-and-television-through-hdmi-visual-steps-included/"><u>Ultimate Tutorial on Linking Laptop and Television Through HDMI – Visual Steps Included</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-fixing-sudden-system-failures-when-playing-games-on-your-computer/"><u>Understanding and Fixing Sudden System Failures When Playing Games on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-global-tv-shows-the-five-finest-vpns-for-enhancing-your-netflix-library/"><u>Unlock Global TV Shows: The Five Finest VPNs for Enhancing Your Netflix Library</u></a></li>
 </ul></div>
 

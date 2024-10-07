@@ -1,7 +1,7 @@
 ---
 title: "Mastering Motherboards: The 7 Crucial Aspects Every Buyer Should Evaluate"
-date: 2024-09-19T16:39:16.863Z
-updated: 2024-09-20T16:10:07.091Z
+date: 2024-10-06T18:35:57.934Z
+updated: 2024-10-07T22:33:05.483Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Motherboards: The 7 Crucial Aspects Every Buyer Should Evaluate"
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 
 lolostock / Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Capturing a Scan From a Printer on a Windows PC
 
  Your printer model may come with software including not only its[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) but also a suite of programs to use all the device's functionality. If this is the case, then within those programs there's also likely a scanning program.
@@ -44,14 +51,43 @@ lolostock / Getty Images
 6. Click on your desired printer, then click**Manage** .  
 ![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
 7. If the printer is a multi-function device, it will include a drop-down menu. Select the entry starting with**Scanner** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Windows 10 Settings App Printer Configuration Screen with Scanner function highlighted](https://www.lifewire.com/thmb/Y-QajltiFDvfDF-v2ir44sI--SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scanner-84125b5402814c6987469662d6d379c3.jpg)
 8. Click**Open scanner** , which will also open the**Scan** Windows app.  
 ![The Windows 10 Settings App Scanner Configuration Screen with Open Scanner highlighted](https://www.lifewire.com/thmb/JsnzRlGh3OYThkvTZjjRhC3XJtc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-3eaf187241ed41408030d883203845f3.jpg)
 9. Arrange your document's page(s) either on the flatbed or in the feeder, making sure they're aligned correctly.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 10. Click the**Scan** button in the app.  
 ![The Windows 10 Scan App with the Scan button highlighted](https://www.lifewire.com/thmb/WLr6RpHDDLddotjF9KKk8SDNUEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c4149a12b3204f6aaba63680ccbfd6b7.jpg)  
  The Scan app's**Source** setting dictates if it will scan from the device's document feeder (if there is one), or from the flatbed. Unless you know you need to change it, it's a good idea to leave this set on**Auto** . Document feeders typically have a lever to detect if there are pages inside, and leaving this set to**Auto** will scan from the feeder if there’s something loaded, and the flatbed otherwise. Note that when scanning with the flatbed, you'll need to scan one page at a time.  
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Capturing a Scan From a Printer on a Mac
 
@@ -60,6 +96,14 @@ lolostock / Getty Images
 12. Click**Printers & Scanners** .  
 ![The macOS System Preferences Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/kKB-VHVfmhPQBA1nK35yWTJhURw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PrintersScanners-08c144e554c34b8fb7d8712f0b93da0c.jpg)
 13. Select your printer, then click**Scan** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The macOS System Preferences Printers & Scanners Screen with Scan button highlighted](https://www.lifewire.com/thmb/ktR2WSWzlEpbc2NybPodItSivPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c2dda167a6f64532b0d662ba60fbfe31.jpg)
 14. Click**Open Scanner** .  
 ![The macOS System Preferences Scan Dialog with Open Scanner highlighted](https://www.lifewire.com/thmb/4DMwvMWBnIx8IPv3Hgkl-uBcm_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-14267d0b3c344e82bb76d483242ca332.jpg)
@@ -107,12 +151,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-earn-big-without-the-hustle-top-13-strategies-for-novices-on-reddit/"><u>[New] 2024 Approved Earn Big Without the Hustle Top 13 Strategies for Novices on Reddit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-dimming-down-soundtracks-in-premiere-pro/"><u>[New] The Ultimate Guide to Dimming Down Soundtracks in Premiere Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/299-post-prime-day-offer-get-the-new-apple-ipad-10th-generation-exclusive-deals-on-zdnet/"><u>$299 Post-Prime Day Offer: Get the New Apple iPad 10Th Generation - Exclusive Deals on ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-list-igtv-masterminds-and-maestros/"><u>2024 Approved The Ultimate List IGTV Masterminds & Maestros</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722571522513-achieve-your-fitness-goals-easily-using-fitbit-versa-3s-built-in-gps-and-wellness-software-for-daily-encouragement/"><u>Achieve Your Fitness Goals Easily Using Fitbit Versa 3'S Built-In GPS & Wellness Software for Daily Encouragement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-lovers-rejoice-lg-tvs-now-boast-exclusive-complimentary-sound-enhancements-discover-the-perks/"><u>Apple Lovers Rejoice: LG TVs Now Boast Exclusive, Complimentary Sound Enhancements - Discover the Perks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-new-launch-apple-watch-series-9-and-ultra-availability-restored-after-legal-hiatus/"><u>Apple's New Launch: Apple Watch Series 9 & Ultra Availability Restored After Legal Hiatus</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exclusive-insights-top-30-hidden-windows-11-tips-uncovered/"><u>Exclusive Insights Top 30 Hidden Windows 11 Tips Uncovered</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-top-3-new-features-in-the-latest-apple-airpod-series-unveiled-available-soon/"><u>Exclusive: Top 3 New Features in the Latest Apple AirPod Series Unveiled - Available Soon</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-cutting-edge-arithmetic-with-the-new-advanced-calculator-on-your-ipad-why-its-worth-picking-up-an-apple-pencil-today-zdnet-insights/"><u>Experience Cutting-Edge Arithmetic with the New Advanced Calculator on Your iPad - Why It's Worth Picking Up an Apple Pencil Today! | ZDNET Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-converting-srt-into-sub-quick-effective-ways/"><u>In 2024, Converting SRT Into SUB Quick, Effective Ways</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-how-to-stand-out-in-snapchat-spotlight/"><u>In 2024, How to Stand Out in Snapchat Spotlight</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/newly-uncovered-default-passwords-for-d-link-network-gear-july-edition/"><u>Newly Uncovered Default Passwords for D-Link Network Gear - July Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/quick-access-to-quality-sound-with-easy-vrecorder-downloads-for-2024/"><u>Quick Access to Quality Sound with Easy VRecorder Downloads for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/smart-shoppers-what-to-evaluate-for-a-4k-lens-for-2024/"><u>Smart Shoppers What to Evaluate for a 4K Lens for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-platform-faceoff-twitchs-challenge-to-youtube/"><u>The Platform Faceoff Twitch's Challenge to YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-apples-picks-discover-the-ultimate-selection-of-apps-and-games-unveiled-by-zdnet/"><u>Top Apple's Picks: Discover the Ultimate Selection of Apps & Games - Unveiled by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-ranking-ipad-applications-for-enhancing-efficiency-streamline-your-tasks-with-these-tools-insights-from-zdnet/"><u>Top-Ranking iPad Applications for Enhancing Efficiency: Streamline Your Tasks with These Tools - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-list-of-key-applications-for-pc-and-mac-users-insights-from-a-seasoned-pro-at-zdnet/"><u>Ultimate List of Key Applications for PC & Mac Users: Insights From a Seasoned Pro at ZDNet</u></a></li>
+</ul></div>
 

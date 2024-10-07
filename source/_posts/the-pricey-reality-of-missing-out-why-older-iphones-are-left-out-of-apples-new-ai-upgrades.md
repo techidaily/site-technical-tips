@@ -1,7 +1,7 @@
 ---
 title: "The Pricey Reality of Missing Out: Why Older iPhones Are Left Out of Apple’s New AI Upgrades"
-date: 2024-10-01T07:31:19.856Z
-updated: 2024-10-02T09:36:18.088Z
+date: 2024-10-01T21:40:13.040Z
+updated: 2024-10-07T19:07:06.841Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -65,6 +65,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -81,13 +88,6 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -97,10 +97,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -120,10 +120,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,22 +166,17 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-transforming-viewers-experience-obs-strategies-on-youtube-and-twitch-for-2024/"><u>[New] Transforming Viewers' Experience OBS Strategies on YouTube & Twitch for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-beyond-likes-and-shares-concealed-factors-that-impact-story-consumption/"><u>[Updated] Beyond Likes & Shares Concealed Factors That Impact Story Consumption</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/captivating-chronicles-youtube-stories-to-follow-for-2024/"><u>Captivating Chronicles YouTube Stories to Follow for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-tutorial-on-setting-up-ps-vr-compatibility-with-desktop-systems/"><u>Complete Tutorial on Setting Up PS VR Compatibility with Desktop Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehvew-managing-and-changing-your-facebook-sign-in-details/"><u>Comprehvew: Managing and Changing Your Facebook Sign-In Details</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connecting-pc-and-display-a-step-by-step-tutorial-using-hdmi/"><u>Connecting PC and Display: A Step-by-Step Tutorial Using HDMI</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-steps-to-troubleshoot-and-fix-netflix-problems-on-lg-screens/"><u>Easy Steps to Troubleshoot and Fix Netflix Problems on LG Screens</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-sync-a-ps4-controller/"><u>How to Sync a PS4 Controller</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c32-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nokia C32 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/join-the-trend-expert-tips-for-making-memorable-duet-videos-on-tiktok/"><u>Join the Trend: Expert Tips for Making Memorable Duet Videos on TikTok</u></a></li>
-<li><a href="https://windows11.techidaily.com/monitoring-for-failed-windows-logins-a-security-checkers-guide/"><u>Monitoring for Failed Windows Logins: A Security Checker's Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsungs-sound-revolution-the-galaxy-buds-pro-story/"><u>Samsung's Sound Revolution: The Galaxy Buds Pro Story</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-adding-audio-tracks-to-instagram-footage/"><u>Step-by-Step Tutorial on Adding Audio Tracks to Instagram Footage</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-14-youtube-titles-to-skyrocket-your-gaming-channels-popularity-for-2024/"><u>Top 14 YouTube Titles to Skyrocket Your Gaming Channel's Popularity for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-factors-you-should-evaluate-prior-to-purchasing-high-quality-speakers/"><u>Top 5 Factors You Should Evaluate Prior to Purchasing High-Quality Speakers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-content-creators-revenue-gain-from-each-click/"><u>[Updated] 2024 Approved Content Creators' Revenue Gain From Each Click</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-razer-blade-17-driver-rejuvenation-maximizing-compatibility-with-windows-11-10-8-and-7/"><u>Comprehensive Razer Blade 17 Driver Rejuvenation: Maximizing Compatibility with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-power-of-hp-omnibook-x-experience-long-lasting-efficiency-with-snapdragons-innovation/"><u>Inside the Power of HP OmniBook X: Experience Long-Lasting Efficiency with Snapdragon's Innovation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-building-insights-from-toms-hardware-review-channel/"><u>Mastering PC Building - Insights From Tom's Hardware Review Channel</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimizing-ad-revenue-on-youtube-with-new-strategies-for-2024/"><u>Optimizing Ad Revenue on YouTube with New Strategies for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-issue-of-undetected-earbudsheadset-on-windows-11-laptop/"><u>Resolving the Issue of Undetected Earbuds/Headset on Windows 11 Laptop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-tricks-to-quickly-reach-advanced-boot-options-on-your-windows-10-pc/"><u>Simple Tricks to Quickly Reach Advanced Boot Options on Your Windows 10 PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solution-guide-resolving-the-issue-of-non-detectable-external-hard-drives-in-windows-7-systems/"><u>Solution Guide: Resolving the Issue of Non-Detectable External Hard Drives in Windows 7 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-rebooting-your-toshiba-notebook-back-to-its-original-settings/"><u>Step-by-Step Instructions for Rebooting Your Toshiba Notebook Back to Its Original Settings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-critical-reynolds-number-for-pipe-flow-is-approximately-200-(-re-(-4000-below-this-range-indicates-laminar-flow-and-above-suggests-turbulent-flow/"><u>The Critical Reynolds Number for Pipe Flow Is Approximately 200 < Re < 4000; Below This Range Indicates Laminar Flow and Above Suggests Turbulent Flow.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-hidden-pitfalls-of-purchasing-pre-packaged-fire-starters-and-all-in-one-kits-why-you-should-think-twice/"><u>The Hidden Pitfalls of Purchasing Pre-Packaged Fire Starters and All-in-One Kits: Why You Should Think Twice</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Nokia C22 | Dr.fone</u></a></li>
 </ul></div>
 

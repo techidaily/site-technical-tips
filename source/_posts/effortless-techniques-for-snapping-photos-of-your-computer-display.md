@@ -1,7 +1,7 @@
 ---
 title: Effortless Techniques for Snapping Photos of Your Computer Display
-date: 2024-09-26T02:08:29.139Z
-updated: 2024-10-02T09:48:16.954Z
+date: 2024-10-02T21:12:40.874Z
+updated: 2024-10-07T16:15:56.985Z
 categories:
   - BestProducts
 description: This Article Describes Effortless Techniques for Snapping Photos of Your Computer Display
@@ -27,6 +27,13 @@ thumbnail: https://www.lifewire.com/thmb/J5VrLObE_7W_SXAOuQKvFEH28rg=/540x405/fi
 
 lolostock / Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Capturing a Scan From a Printer on a Windows PC
 
  Your printer model may come with software including not only its[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) but also a suite of programs to use all the device's functionality. If this is the case, then within those programs there's also likely a scanning program.
@@ -38,26 +45,20 @@ lolostock / Getty Images
 ![The Windows "Power User" Menu](https://www.lifewire.com/thmb/kgpd2560_TwRJkuY7a59tVapXF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-scan-from-printer-computer-2-fddf79dcabde4333869b9e58bb271f87.jpg)
 3. Select**Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select**Devices** from the main Settings screen.  
 ![The Windows 10 Settings App Home Screen with Devices highlighted](https://www.lifewire.com/thmb/eDONGxJf7R2qCHBGD978GGxclL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Devices-d1d66147ad624e268dbeba04e5b237ca.jpg)
 5. Next, click**Printers & Scanners** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
 6. Click on your desired printer, then click**Manage** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
 7. If the printer is a multi-function device, it will include a drop-down menu. Select the entry starting with**Scanner** .  
 ![The Windows 10 Settings App Printer Configuration Screen with Scanner function highlighted](https://www.lifewire.com/thmb/Y-QajltiFDvfDF-v2ir44sI--SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scanner-84125b5402814c6987469662d6d379c3.jpg)
@@ -70,10 +71,10 @@ lolostock / Getty Images
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capturing a Scan From a Printer on a Mac
@@ -87,27 +88,28 @@ lolostock / Getty Images
 14. Click**Open Scanner** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The macOS System Preferences Scan Dialog with Open Scanner highlighted](https://www.lifewire.com/thmb/4DMwvMWBnIx8IPv3Hgkl-uBcm_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-14267d0b3c344e82bb76d483242ca332.jpg)
 15. In the Scanner program, you can select the folder to which your scans will be saved by making a select in the**Scan to** drop-down menu (shown as**Pictures** in the below image).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The macOS Scanner Application with the Picture folder highlighted](https://www.lifewire.com/thmb/4Q2yOFaCL5sBUADyZYmgtNYn9o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pictures-be3197066428416cb2444bb85fdf59dd.jpg)
 16. To the right, the**Size** drop-down menu (shown as**US Letter** in the above screenshot) will also let you choose the size of the item.
 17. If your scanner has a document feeder and you want to use it, select**Use Document Feeder** .
 18. Clicking on**Show Details** will display a number of additional options, as follows:**Scan Mode** (Flatbed or Document Feeder),**Kind** (Text, Black & White, or Color),**Resolution** (quality of the image in DPI),**Rotation Angle** (to change the rotation of the saved image),**Auto Selection** (which can try to detect multiple items on the flatbed and save them separately, for example),**Name** ,**Format** , and**Image Correction** (which provides options to adjust coloring).  
 ![The macOS Scanner Application Scanning a Document with Details highlighted](https://www.lifewire.com/thmb/_CU3M_zojdub71CJo_K9LWxslG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScanDetails-74517a6b0c814e1f8cf950c48fa53b2f.jpg)
 19. Click**Scan** to start your scanning job.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  FAQ
 
@@ -147,24 +149,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-earning-edge-reached-for-subscribers-above-500/"><u>[New] 2024 Approved Earning Edge Reached for Subscribers Above 500</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-make-snapchat-memories-shine-2-lens-creation-methods-for-2024/"><u>[New] Make Snapchat Memories Shine 2 Lens-Creation Methods for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-perfect-obs-settings-for-low-cost-hardware/"><u>[Updated] 2024 Approved Perfect OBS Settings for Low-Cost Hardware</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ultimate-guide-top-10-high-quality-no-cost-recording-tools/"><u>[Updated] 2024 Approved Ultimate Guide Top 10 High-Quality, No-Cost Recording Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-free-learning-tools-for-students-returning-to-school/"><u>Essential Free Learning Tools for Students Returning to School</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/evolving-narratives-in-virtual-cinema-landscapes-for-2024/"><u>Evolving Narratives in Virtual Cinema Landscapes for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/getting-your-idevices-keyboard-back-to-work-six-crucial-solutions-for-iphone-and-ipad-users/"><u>Getting Your iDevice's Keyboard Back to Work: Six Crucial Solutions for iPhone and iPad Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-tecno-spark-20c-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Tecno Spark 20C.</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-epic-battle-royale-thumbnails-done-fast/"><u>In 2024, Epic Battle Royale Thumbnails, Done Fast</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/must-try-titles-for-tranquil-touchscreen-time/"><u>Must-Try Titles for Tranquil Touchscreen Time</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/new-apple-wearable-tech-featuring-audio-capability-price-forecasts-availability-date-technical-details-and-current-gossip/"><u>New Apple Wearable Tech Featuring Audio Capability: Price Forecasts, Availability Date, Technical Details & Current Gossip</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/our-favorite-lgbt-movies-on-netflix-right-now-july-2024/"><u>Our Favorite LGBT Movies on Netflix Right Now (July 2024)</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/overhaul-of-data-protection-policies/"><u>Overhaul of Data Protection Policies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/securing-mobile-privacy-a-step-by-step-guide-to-hiding-your-phone-number-on-android/"><u>Securing Mobile Privacy: A Step-by-Step Guide to Hiding Your Phone Number on Android</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-puzzle-what-to-do-when-you-encounter-a-4nnot-authorized-error-401/"><u>Solving the Puzzle: What To Do When You Encounter a 4Nnot Authorized Error (401)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-12-popular-free-internet-calling-apps-for-2n4/"><u>The Ultimate Selection: 12 Popular Free Internet Calling Apps for 2N4</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-finding-and-restoring-accidentally-erased-gmail-correspondence/"><u>The Ultimate Trick to Finding and Restoring Accidentally Erased Gmail Correspondence</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-non-functioning-spell-check-in-outlook-a-step-by-step-guide/"><u>Troubleshooting the Non-Functioning Spell Check in Outlook - A Step by Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-secret-language-of-snapchat-mastering-emoji-interpretations/"><u>Unveiling the Secret Language of Snapchat: Mastering Emoji Interpretations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-ideal-approaches-to-correct-iphone-hdr-overexposure-in-adobe-premiere-for-2024/"><u>[Expert] Ideal Approaches to Correct iPhone HDR Overexposure in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-essential-insights-on-making-your-podcast-name-unforgettable/"><u>[New] 2024 Approved Essential Insights on Making Your Podcast Name Unforgettable</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/treamlining-discovery-the-key-to-effective-video-titling-for-2024/"><u>[New] Streamlining Discovery The Key to Effective Video Titling for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-directface-vidcutter-utility/"><u>[Updated] DirectFace VidCutter Utility</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-into-the-metaverse-top-8-vr-wearables-listed/"><u>[Updated] Into the Metaverse Top 8 VR Wearables Listed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-aerial-artistry-mastering-the-craft-of-drone-video-editing/"><u>2024 Approved Aerial Artistry Mastering the Craft of Drone Video Editing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/an-insightful-dive-into-the-history-of-electric-transportation/"><u>An Insightful Dive Into the History of Electric Transportation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bringing-back-light-to-your-android-screen-essential-fixes-for-a-blank-canvas/"><u>Bringing Back Light to Your Android Screen: Essential Fixes for a Blank Canvas</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-pinterest-game-with-these-5-scheduling-wonders/"><u>Elevate Your Pinterest Game with These 5 Scheduling Wonders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-guide-to-streamlining-tasks-with-ios-shortcuts-top-18-techniques/"><u>Expert Guide to Streamlining Tasks with iOS Shortcuts - Top 18 Techniques</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-gt-5-pro-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme GT 5 Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-geforce-on-windows-11-now-works/"><u>Nvidia GeForce on Windows 11 - Now Works!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/professional-tips-for-iphone-360-videography-for-2024/"><u>Professional Tips for iPhone 360 Videography for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-watch-7-unveiled-learn-about-the-costs-launch-timeline-features-and-latest-updates/"><u>Samsung Galaxy Watch 7 Unveiled: Learn About the Costs, Launch Timeline, Features & Latest Updates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-install-and-enjoy-apple-tv-apps-on-your-amazon-firestick/"><u>Steps to Install and Enjoy Apple TV Apps on Your Amazon Firestick</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-do-when-you-encounter-a-missing-coredll-file-expert-advice/"><u>What To Do When You Encounter a Missing Core.dll File: Expert Advice</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IPad Maintenance Made Simple: How to Swap Out an Old Battery Correctly"
-date: 2024-09-25T00:59:56.802Z
-updated: 2024-10-02T08:49:35.604Z
+date: 2024-10-06T19:58:02.198Z
+updated: 2024-10-07T19:01:33.068Z
 categories:
   - BestProducts
 description: "This Article Describes IPad Maintenance Made Simple: How to Swap Out an Old Battery Correctly"
@@ -33,17 +33,18 @@ These instructions apply to PCs running Windows 10 and up.
 2. Hold down the**Windows button** on your keyboard and then press the**. (Period)** . This sequence will bring up a small emoji keyboard.  
 ![Opening emoji keyboard on Windows 10.](https://www.lifewire.com/thmb/-WDCEXTJDwtJV5m28dICzk7cOjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-make-a-heart-on-a-keyboard-215e5e67aeb0414fadcda95a45f78ac4.jpg)
 3. Click the**Symbols** category in the bottom right corner (the heart icon).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Selecting heart emoji on Windows 10.](https://www.lifewire.com/thmb/CMP4tPIZk0BE6YGFylNX7stmONg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-make-a-heart-on-a-keyboard-8e8ecaec35874828964402365c012483.jpg)
 4. Click the**Heart Symbol** you’d like to type and it will appear in the text box.  
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Type a Heart on a Mac Keyboard
 
@@ -57,22 +58,30 @@ These instructions apply to PCs running Windows 10 and up.
 3. Click the**Symbols** category in the bottom row. It’s located between the**Objects** (lightbulb) and**Flags** categories.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Selecting Symbols category on Mac emoji keyboard.](https://www.lifewire.com/thmb/rvQxI5-vlnziApmdyIgVo24JizM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-make-a-heart-on-a-keyboard-332f4f0c46524b5cada3fad81d8ee5bb.jpg)
 4. Click the heart you'd like to type and it will appear in the text box.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Alt Code for a Heart?
@@ -97,22 +106,21 @@ These instructions apply to PCs running Windows 10 and up.
 ![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatives include downloading a Numpad emulator or using an external keyboard with a Numpad built-in.
 
  If you don't know the alt code for a particular symbol or can't find an emoji in the emoji keyboard, you can search for it using Google or another search engine and copy/paste it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Do You Get the White Heart Emoji on Your Keyboard?
 
@@ -158,18 +166,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-audiovisual-quality-its-significance-in-video-ranking/"><u>[Updated] 2024 Approved Audiovisual Quality Its Significance in Video Ranking</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-audiovisual-collection-computer-and-voice-archives/"><u>2024 Approved Audiovisual Collection Computer & Voice Archives</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/forging-a-future-in-artistic-expression-and-commerce/"><u>Forging a Future in Artistic Expression and Commerce</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/from-pixels-to-prints-master-snapseed-fundamentals/"><u>From Pixels to Prints Master Snapseed Fundamentals</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/harry-potter-movie-marathon-how-to-watch-them-in-their-official-release-order/"><u>Harry Potter Movie Marathon: How to Watch Them in Their Official Release Order</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-huawei-nova-y71-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Huawei Nova Y71</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-iphone-landscape-photography-excellence/"><u>In 2024, The Ultimate Guide to iPhone Landscape Photography Excellence</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/july-2024-security-unlocking-linksys-devices-with-new-default-password-insights/"><u>July 2024 Security: Unlocking Linksys Devices with New Default Password Insights</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/navigating-mobile-meetings-using-googles-facetime-feature/"><u>Navigating Mobile Meetings Using Google's Facetime Feature</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-start-download-your-samsung-m2020-driver-today/"><u>Quick Start: Download Your Samsung M2020 Driver Today!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/shade-smarts-mastering-the-art-of-color-correction-with-speed-for-2024/"><u>Shade Smarts Mastering the Art of Color Correction with Speed for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-mastering-the-art-of-pinned-conversations-on-instagram/"><u>Step-by-Step Guide: Mastering the Art of Pinned Conversations on Instagram</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unfolding-the-mystery-apples-foldable-phone-predicted-costs-specs-launch-time-and-hidden-rumors-revealed/"><u>Unfolding the Mystery: Apple’s Foldable Phone – Predicted Costs, Specs, Launch Time, and Hidden Rumors Revealed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-best-6-android-video-capture-apps-for-screen-recording-for-2024/"><u>[New] Best 6 Android Video Capture Apps for Screen Recording for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-utilizing-the-virtual-whiteboard-in-webinars-cross-platform-tips-and-tricks/"><u>[New] Utilizing the Virtual Whiteboard in Webinars Cross-Platform Tips and Tricks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-essential-vr-devices-for-drone-enthusiasts-for-2024/"><u>[Updated] Essential VR Devices for Drone Enthusiasts for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-optimizing-your-youtube-music-selection/"><u>[Updated] In 2024, Optimizing Your YouTube Music Selection</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-understanding-youtube-shorts-revenue-strategy/"><u>[Updated] Understanding YouTube Shorts Revenue Strategy</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/annual-compilation-of-premium-free-lut-choices-for-2024/"><u>Annual Compilation of Premium Free LUT Choices for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-instructions-for-incorporating-smileys-in-iphone-conversations/"><u>Comprehensive Instructions for Incorporating Smileys in iPhone Conversations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-idleness-tranquil-phone-game-recommendations/"><u>Essential Idleness Tranquil Phone Game Recommendations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-infinix-hot-40i-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Infinix Hot 40i?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/professional-advice-on-preserving-the-clarity-of-your-flat-screen-television-display/"><u>Professional Advice on Preserving the Clarity of Your Flat-Screen Television Display</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-fixes-for-lameencdll-problems-with-audacity-mp3-encoder/"><u>Step-by-Step Fixes for lame_enc.dll Problems with Audacity MP3 Encoder</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-capturing-images-with-your-xbox-one/"><u>Step-by-Step Guide: Capturing Images with Your Xbox One</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-solutions-when-microsoft-edge-wont-start/"><u>Step-by-Step Guide: Solutions when Microsoft Edge Won't Start</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-future-of-tiktok-master-video-trends-and-techniques/"><u>The Future of TikTok - Master Video Trends and Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-insiders-look-at-what-to-expect-during-amazon-prime-day-2024/"><u>The Ultimate Insider's Look at What to Expect During Amazon Prime Day 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-zoo-matic-guide-to-improved-snapchat-media/"><u>The Zoo-Matic Guide to Improved Snapchat Media</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-apple-watch-connectivity-solutions-when-it-wont-detect-your-activity/"><u>Troubleshooting Apple Watch Connectivity: Solutions When It Won't Detect Your Activity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-not-found-message-for-oleaut32dll-effective-solutions/"><u>Troubleshooting the 'Not Found' Message for oleAut32.dll - Effective Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleashing-efficiency-on-facebook-with-our-5-effective-techniques/"><u>Unleashing Efficiency on Facebook with Our 5 Effective Techniques</u></a></li>
 </ul></div>
 

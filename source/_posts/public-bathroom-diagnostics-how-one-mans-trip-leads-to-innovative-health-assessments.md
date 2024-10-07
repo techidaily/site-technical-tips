@@ -1,7 +1,7 @@
 ---
 title: "Public Bathroom Diagnostics: How One Man's Trip Leads to Innovative Health Assessments"
-date: 2024-10-01T13:32:01.881Z
-updated: 2024-10-02T02:30:48.688Z
+date: 2024-10-01T20:57:57.654Z
+updated: 2024-10-07T21:26:39.947Z
 tags:
   - apple
 categories:
@@ -39,10 +39,16 @@ When I upgraded to the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-
 [ZDNET RECOMMENDS Tech21 FlexPro Tech21's FlexPro is one of the most advanced cases on the market, combining sustainability with amazing impact protection, boasting an impressive 20ft FlexShock multi-drop feature. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRDB2ZM%2FA%2Ftech21-flexpro-for-iphone-15-plus-magsafe-compatible&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tech 21 FlexPro features
@@ -89,10 +95,10 @@ This case can also take quite a beating. In the few months that I've owned the i
 For the record, I'm using a screen protector for added durability. I think this case is certainly one of the best I've tested in a long time, and the first in quite a while that I felt compelled to write about.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,16 +137,22 @@ My testing suggests cases don't get much better than the [Tech 21's FlexPro](htt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/rafting-team-videos-to-foster-viewership-and-following-for-2024/"><u>[New] Crafting Team Videos to Foster Viewership and Following for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-perfect-your-minecraft-recording-with-these-hacks/"><u>[New] In 2024, Perfect Your Minecraft Recording with These Hacks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-inspirational-insta-captions-to-elevate-your-social-presence/"><u>[Updated] 2024 Approved Inspirational Insta Captions to Elevate Your Social Presence</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discovering-your-hidden-gems-a-guide-to-locating-saved-instagram-reels/"><u>Discovering Your Hidden Gems: A Guide to Locating Saved Instagram Reels</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-non-syncing-gmail-expert-advice/"><u>How To Fix Non-Syncing Gmail: Expert Advice</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-techniques-enhancing-pet-eyes-in-pictures-a-step-by-step-tutorial/"><u>Master Techniques: Enhancing Pet Eyes in Pictures – A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-motorola-edge-2023-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Motorola Edge 2023? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-a-502-bad-gateway-failure-tips-for-quick-resolution/"><u>Troubleshooting a 502 Bad Gateway Failure: Tips for Quick Resolution</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unfolding-the-samsung-galaxy-z-fold-6-latest-info-on-cost-launch-timeline-and-specifications/"><u>Unfolding the Samsung Galaxy Z Fold 6 - Latest Info on Cost, Launch Timeline & Specifications</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/update-required-fixing-incompatible-device-drivers-on-windows-operating-systems/"><u>Update Required: Fixing Incompatible Device Drivers on Windows Operating Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-essential-recorder-tools-the-8-best-lists/"><u>[New] In 2024, Essential Recorder Tools The 8 Best Lists</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-infographic-insight-whats-hot-on-23-social-sphere/"><u>[New] In 2024, Infographic Insight What's Hot on '23 Social Sphere</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-the-secret-of-highest-quality-youtube-mp3s-for-2024/"><u>[Updated] Decoding the Secret of Highest Quality YouTube MP3s for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-effortlessly-enhance-your-watchlist-mastering-dual-display-in-netflix-for-2024/"><u>[Updated] Effortlessly Enhance Your Watchlist - Mastering Dual Display in Netflix for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-fluidity-in-filming-a-deep-dive-into-inshots-transition-features/"><u>2024 Approved Fluidity in Filming A Deep Dive Into Inshot's Transition Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-viral-marketing-mastering-instagram-fame-through-9-key-tips/"><u>2024 Approved The Art of Viral Marketing Mastering Instagram Fame Through 9 Key Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-windows-server-update-services-unlocking-the-key-benefits/"><u>Comprehensive Guide to Windows Server Update Services: Unlocking the Key Benefits</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decode-and-defend-against-hxtsrexe-errors-on-windows-11-step-by-step-guide/"><u>Decode & Defend Against HxTsr.exe Errors on Windows 11 [Step-by-Step Guide]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dual-display-mastery-configuring-multiple-monitors-in-windows-11/"><u>Dual Display Mastery: Configuring Multiple Monitors in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-for-screenshotting-windows-11-pcs-a-comprehensive-how-to/"><u>Easy Steps for Screenshotting Windows 11 PCs - A Comprehensive How-To</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-oneplus-nord-n30-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-top-7-ways-to-optimize-your-pubg-gameplay-performance/"><u>Ultimate Guide: Top 7 Ways to Optimize Your PUBG Gameplay Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uninstalling-nvidia-drivers-made-easy-for-windows-11-users/"><u>Uninstalling NVIDIA Drivers Made Easy for Windows 11 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/we-cant-sign-into-your-account-in-windows-11-solved/"><u>We Can't Sign Into Your Account in Windows 11 [Solved]</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/what-are-drive-through-security-vulnerabilities-insights-from-malwarefox-experts/"><u>What Are Drive-Through Security Vulnerabilities? Insights From MalwareFox Experts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-10-optimization-expert-advice-on-shortening-boot-times/"><u>Windows 10 Optimization: Expert Advice on Shortening Boot Times</u></a></li>
 </ul></div>
 

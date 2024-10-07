@@ -1,7 +1,7 @@
 ---
 title: "Apple's Newest Gem: The Vision Pro Unveils Immediate Access to Key Microsoft Suite Apps on Day One | Insights for Tech Enthusiasts at ZDNET"
-date: 2024-09-28T16:30:12.691Z
-updated: 2024-10-02T04:18:45.121Z
+date: 2024-10-03T19:51:25.470Z
+updated: 2024-10-07T17:22:33.309Z
 tags:
   - apple
 categories:
@@ -47,13 +47,6 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -101,6 +94,13 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### More Microsoft
 
 * [The best Windows laptop models: Comparing Dell, Samsung, Lenovo, and more](https://www.zdnet.com/article/best-windows-laptop/)
@@ -124,13 +124,6 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -140,19 +133,6 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -165,6 +145,13 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 **Also:** [**Want a touchscreen MacBook? This portable monitor makes it possible**](https://www.zdnet.com/home-and-office/smart-office/want-a-touchscreen-macbook-this-portable-monitor-makes-it-possible/)
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -179,13 +166,26 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -224,24 +224,15 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-20-mindfulness-tracks-legal-and-copyright-free-downloads/"><u>[New] In 2024, 20 Mindfulness Tracks Legal and Copyright-Free Downloads</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-syncopated-science-of-video-and-music-on-vimeo/"><u>[New] In 2024, The Syncopated Science of Video and Music on Vimeo</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-streamlining-call-logs-the-4-step-guide-for-fb-calls-for-2024/"><u>[Updated] Streamlining Call Logs The 4-Step Guide for FB Calls for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-diving-deep-into-vidmas-screen-recording-features/"><u>2024 Approved Diving Deep Into Vidma's Screen Recording Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/5-things-to-consider-before-you-buy-a-smartwatch/"><u>5 Things to Consider Before You Buy a Smartwatch</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-chatbot-language-bias-revealed-by-stanford-research-the-struggle-with-non-english-languages-zdnet/"><u>AI Chatbot Language Bias Revealed by Stanford Research - The Struggle with Non-English Languages | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conquering-the-ferocious-lynel-ultimate-strategies-and-tips/"><u>Conquering the Ferocious Lynel: Ultimate Strategies and Tips</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-multiple-pdfs-to-ebooks-free-of-charge-with-epub-on-flipbuilder/"><u>Convert Multiple PDFs to eBooks Free of Charge with ePub on FlipBuilder</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/hilarity-ensues-as-martian-metropolis-emerges-amidst-chaotic-winds-and-playfulness/"><u>Hilarity Ensues as Martian Metropolis Emerges Amidst Chaotic Winds and Playfulness</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-realme-11-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Realme 11 Pro to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722896385336-luxurious-advanced-technology-products-with-affordable-pricing-to-test-out/"><u>Luxurious, Advanced Technology Products with Affordable Pricing to Test Out</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mastering-ebook-cost-saving-strategies-a-guide-to-finding-the-lowest-prices-with-a-comparison-platform/"><u>Mastering eBook Cost-Saving Strategies: A Guide to Finding the Lowest Prices with a Comparison Platform</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-seas-of-education-savings-claiming-your-rightful-place-with-a-tidal-scholarly-cutback/"><u>Navigating the Seas of Education Savings: Claiming Your Rightful Place with a Tidal Scholarly Cutback</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-the-500-internal-server-mistake-a-comprehensive-guide/"><u>Solving the Mystery of the 500 Internal Server Mistake: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-nonfunctional-optical-media-readers/"><u>Step-by-Step Solutions for Nonfunctional Optical Media Readers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-changing-your-discord-display-image/"><u>Step-by-Step Tutorial on Changing Your Discord Display Image</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-definitive-guide-to-deleting-photos-from-your-facebook-account-with-ease/"><u>The Definitive Guide to Deleting Photos From Your Facebook Account with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-isnt-mozilla-thunderbird-launching-find-out-how-to-rectify-it/"><u>Why Isn't Mozilla Thunderbird Launching? Find Out How to Rectify It!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-dissecting-the-efficacy-of-vidma-as-a-recorder/"><u>[New] In 2024, Dissecting the Efficacy of Vidma as a Recorder</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-editors-edge-advanced-techniques-for-youtube-creations/"><u>[Updated] The Editor's Edge Advanced Techniques for YouTube Creations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/character-depth-and-complexity-through-11-ingenious-chatgpt-prompts/"><u>Character Depth and Complexity Through 11 Ingenious ChatGPT Prompts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-reasons-behind-your-car-audio-system-failure/"><u>Discover the Reasons Behind Your Car Audio System Failure</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-use-a-mobile-phone-as-a-wifi-router-for-your-fire-stick-device/"><u>How to Use a Mobile Phone as a WiFi Router for Your Fire Stick Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-look-unraveling-the-secrets-of-the-popular-netflix-streaming-platform/"><u>Inside Look: Unraveling the Secrets of the Popular Netflix Streaming Platform</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/step-by-step-tutorial-on-free-dvd-to-h265hevc-mp4-format-upgrade-top-quality-results/"><u>Step-by-Step Tutorial on FREE DVD to H.265/HEVC MP4 Format Upgrade - Top Quality Results!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-common-issues-why-your-ipad-wont-connect-to-wi-fi-printers/"><u>Troubleshooting Common Issues: Why Your iPad Won't Connect to Wi-Fi Printers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-library-classes-on-windows-11-systems-top-strategies/"><u>Troubleshooting Missing Library Classes on Windows 11 Systems - Top Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-eliminating-dota-2s-vac-ban-issue/"><u>Ultimate Guide: Eliminating Dota 2'S VAC Ban Issue</u></a></li>
 </ul></div>
 

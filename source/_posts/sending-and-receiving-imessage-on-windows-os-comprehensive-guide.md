@@ -1,7 +1,7 @@
 ---
 title: Sending & Receiving iMessage on Windows OS - Comprehensive Guide
-date: 2024-09-28T09:59:32.051Z
-updated: 2024-10-02T04:25:05.373Z
+date: 2024-10-05T21:32:45.600Z
+updated: 2024-10-07T17:55:01.475Z
 tags:
   - apple
 categories:
@@ -78,11 +78,25 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -97,19 +111,19 @@ You can also start a new conversation. To do this, select one of your displayed 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Intel Unison
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
@@ -119,13 +133,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -139,18 +146,18 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -163,13 +170,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,24 +207,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-from-silence-to-sounds-recording-with-audacity-on-a-mac/"><u>[New] From Silence to Sounds Recording with Audacity on a Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-no-cost-substitutes-for-netflix-you-shouldnt-miss/"><u>Best No-Cost Substitutes for Netflix You Shouldn't Miss</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bluetooth-boost-how-to-effortlessly-hook-up-various-speakers-to-one-device/"><u>Bluetooth Boost: How To Effortlessly Hook Up Various Speakers To One Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-usb-20-unveiling-speeds-cord-varieties-and-connection-types/"><u>Exploring USB 2.0: Unveiling Speeds, Cord Varieties, and Connection Types</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-spark-20c-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Spark 20C Phones with/without a PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-troubleshoot-a-website-facing-a-503-service-error-message/"><u>How to Troubleshoot a Website Facing a 503 Service Error Message</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-cut-cost-unlock-creativity-step-by-step-guide-to-professional-green-screen-effects-from-top-4-channels/"><u>In 2024, Cut Cost, Unlock Creativity Step-by-Step Guide to Professional Green Screen Effects From Top 4 Channels</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-maintain-consistency-in-voice-posts-on-instagram/"><u>In 2024, How to Maintain Consistency in Voice Posts on Instagram</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-xr-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone XR to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-copilot-integration-with-microsoft-teams-a-step-by-step-guide/"><u>Mastering Copilot Integration with Microsoft Teams: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/streaming-and-surfing-from-the-comfort-of-your-couch-how-to-get-your-home-theater-online/"><u>Streaming and Surfing From the Comfort of Your Couch: How to Get Your Home Theater Online</u></a></li>
-<li><a href="https://win-answers.techidaily.com/struggling-with-fortnite-login-errors-get-back-to-gaming-faster/"><u>Struggling with Fortnite Login Errors? Get Back to Gaming Faster!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/summer-essentials-the-ultimate-list-of-7-accessories-for-your-daily-gobag/"><u>Summer Essentials: The Ultimate List of 7 Accessories for Your Daily GoBag</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-latest-android-to-ios-with-chatgpt/"><u>The Latest Android to iOS with ChatGPT</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-streamers-blueprint-achieving-peak-performance-on-macos/"><u>The Streamer's Blueprint Achieving Peak Performance on macOS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-elusive-stop-0x000abcd-error-solutions-and-prevention-tips/"><u>Troubleshooting the Elusive STOP 0X000abcd Error: Solutions and Prevention Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-the-world-of-cloud-play-your-essential-xbox-game-pass-ultimate-handbook/"><u>Unlock the World of Cloud Play: Your Essential Xbox Game Pass Ultimate Handbook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-tiktok-popularity-discover-10-proven-methods-for-virality/"><u>Unlocking TikTok Popularity: Discover 10 Proven Methods for Virality</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-facebooks-shift-to-short-videos-a-look-into-2023-trends/"><u>[Updated] 2024 Approved Facebook's Shift to Short Videos A Look Into 2023 Trends</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/creative-apple-pranks-amazing-ways-to-playfully-confuse-friends-with-their-phones/"><u>Creative Apple Pranks: Amazing Ways to Playfully Confuse Friends with Their Phones!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortlessly-conceal-your-environment-the-ultimate-tutorial-for-blurring-backgrounds-on-google-meet/"><u>Effortlessly Conceal Your Environment: The Ultimate Tutorial for Blurring Backgrounds on Google Meet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-ahead-of-the-curve-with-info-on-apples-next-gen-iphone-price-specs-and-launch-date-rumors/"><u>Get Ahead of the Curve with Info on Apple’s Next-Gen iPhone: Price, Specs & Launch Date Rumors</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-14-plus-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 14 Plus Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-on-iphone-se-2022-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-conversion-wizardry-zip-to-subrip-transformation/"><u>In 2024, Conversion Wizardry ZIP to SubRip Transformation</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-honor-x50-gt-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Honor X50 GT Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-system-restrictions-a-step-by-step-guide-to-modifying-trustedinstaller-in-windows-10-systems/"><u>Mastering System Restrictions: A Step-by-Step Guide to Modifying TrustedInstaller in Windows 10 Systems</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-5-tiktok-voice-generators-you-should-try/"><u>New 2024 Approved Top 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-updating-your-password-on-the-revamped-x-platform/"><u>Step-by-Step Guide: Updating Your Password on the Revamped X Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-technique-for-adding-soundtracks-to-instagram-video-content/"><u>The Ultimate Technique for Adding Soundtracks to Instagram Video Content</u></a></li>
 </ul></div>
 

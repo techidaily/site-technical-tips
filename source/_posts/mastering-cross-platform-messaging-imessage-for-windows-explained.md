@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Messaging: IMessage for Windows Explained"
-date: 2024-09-30T01:18:18.096Z
-updated: 2024-10-02T10:53:33.045Z
+date: 2024-10-06T22:28:47.492Z
+updated: 2024-10-07T20:13:55.047Z
 tags:
   - apple
 categories:
@@ -62,6 +62,13 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -71,6 +78,13 @@ At the screen to pair your devices, tap "Link to Windows" to download and instal
 You should see pairing prompts on both your iPhone and your Windows 11 computer. Select the Pair button on both devices and wait for the two to pair.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
 
@@ -96,13 +110,20 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use Intel Unison
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
@@ -112,13 +133,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -132,25 +146,11 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -158,18 +158,24 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,22 +213,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-harness-the-power-of-insights-a-curated-list-of-instagram-performance-trackers/"><u>[New] 2024 Approved Harness the Power of Insights A Curated List of Instagram Performance Trackers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-discover-the-top-8-instagram-management-tools-for-iphone-and-android/"><u>[Updated] In 2024, Discover the Top 8 Instagram Management Tools for iPhone and Android</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-script-craftsmanship-dialogues-that-captivate/"><u>[Updated] Script Craftsmanship Dialogues That Captivate</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/achieve-cinematic-brilliance-setting-up-your-samsung-uhd-tv-picture/"><u>Achieve Cinematic Brilliance: Setting Up Your Samsung UHD TV Picture</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capture-safeguard-and-soar-top-cloud-options-reviewed/"><u>Capture, Safeguard, and Soar - Top Cloud Options Reviewed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-download-options-for-every-generation-of-iphone-handbook-and-support-documents/"><u>Easy Download Options for Every Generation of iPhone Handbook and Support Documents</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-next-frontier-of-classroom-technology-vr/"><u>In 2024, The Next Frontier of Classroom Technology - VR</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-with-insight-the-top-5-artificial-intelligence-tools-in-business/"><u>Leading With Insight: The Top 5 Artificial Intelligence Tools in Business</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-timeouts-an-expert-guide-to-handling-http-408-on-your-site/"><u>Mastering Timeouts: An Expert Guide to Handling HTTP 408 on Your Site</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-google-home-app-for-pc-users-tips-and-tricks/"><u>Navigating the Google Home App for PC Users: Tips & Tricks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/order-matters-a-comprehensive-way-to-enjoy-the-matrix-trilogy/"><u>Order Matters: A Comprehensive Way to Enjoy The Matrix Trilogy</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-how-to-empty-your-cache-across-different-web-browsers/"><u>The Ultimate Tutorial: How to Empty Your Cache Across Different Web Browsers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tips-for-teaming-up-and-catching-pokemon-with-pals-in-go/"><u>Top Tips for Teaming Up and Catching Pokémon with Pals in 'Go'</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-rated-complimentary-premiere-pro-blueprints-for-2024/"><u>Top-Rated, Complimentary Premiere Pro Blueprints for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/unleash-potential-best-budget-apps-to-manage-social-sites/"><u>Unleash Potential - Best Budget Apps to Manage Social Sites</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upcoming-samsung-galaxy-s25-unveiling-the-latest-rumors-on-specs-price-and-launch-details/"><u>Upcoming Samsung Galaxy S25 - Unveiling the Latest Rumors on Specs, Price & Launch Details</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-affordable-asmr-capturing-selecting-premium-gear-for-budget-conscious-users/"><u>[New] Affordable ASMR Capturing Selecting Premium Gear for Budget-Conscious Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-pixelated-performance-making-music-videos-on-the-go-for-2024/"><u>[New] Pixelated Performance Making Music Videos on the Go for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-quick-and-easy-xbox-one-image-snaps-for-gaming/"><u>[Updated] Quick & Easy Xbox One Image Snaps for Gaming</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-lava-yuva-2-pro-phone-by-drfone-android/"><u>How to Reset a Locked Lava Yuva 2 Pro Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-successfully-revoke-nvidia-drivers-in-windows-10-system/"><u>How To Successfully Revoke Nvidia Drivers in Windows 10 System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-turn-off-and-on-hibernate-feature-in-windows-10/"><u>How to Turn Off and On Hibernate Feature in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/immediate-action-a-fast-way-to-modify-your-facebook-sign-in-key/"><u>Immediate Action: A Fast Way to Modify Your FaceBook Sign-In Key</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-audio-modification-solutions-magically-effective/"><u>In 2024, Premium Audio Modification Solutions Magically Effective</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-productivity-using-your-laptop-as-an-additional-screen/"><u>Maximize Productivity: Using Your Laptop as an Additional Screen</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unlock-efficient-video-editing-top-5-free-mpeg-video-splitters/"><u>New Unlock Efficient Video Editing Top 5 Free MPEG Video Splitters</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-to-move-and-enjoy-your-itunes-collection-on-android-phones-and-tablets/"><u>Ultimate Guide to Move and Enjoy Your iTunes Collection on Android Phones & Tablets</u></a></li>
 </ul></div>
 

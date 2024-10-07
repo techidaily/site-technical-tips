@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of VisionOS Innovations We Hope Apple Will Unveil at This Year's WWDC | Tech Insights
-date: 2024-10-01T14:22:40.555Z
-updated: 2024-10-02T13:49:09.822Z
+date: 2024-10-06T18:45:38.200Z
+updated: 2024-10-07T19:22:52.888Z
 tags:
   - apple
 categories:
@@ -34,13 +34,6 @@ I previously showed [how to connect a trackpad and keyboard to the Vision Pro](h
 
 I'd like to see Apple introduce full mouse support to the Vision Pro. And, Apple, please don't limit it to the not-so-Magic Mouse or [Magic Mouse 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Magic-Mouse-Wireless-Rechargeable%2Fdp%2FB08PL57CBR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4e0887ab-b0f0-4a12-9c6e-4ff1bfbfedb4%7Cdtp&dtb=1). Since Apple is still shipping a less-than-optimal mouse design from 2009, only slightly updated way back in 2015, many users have moved on to better models, like the various [Logitech devices](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HM94VDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4e0887ab-b0f0-4a12-9c6e-4ff1bfbfedb4%7Cdtp&dtb=1). 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  2\. Better Bluetooth support for non-Apple devices
 
 You can [easily pair your AirPods to the Vision Pro](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/). But when I tried to pair an inexpensive set of non-Apple Bluetooth earbuds to the Vision Pro, I couldn't get it to work. Those earbuds did, however, work with my iPhone and iPad, so they're good enough. 
@@ -63,6 +56,19 @@ Working in any of the virtual environments (I prefer Mount Hood) is great, but t
 
 I'd like the ability to create a passthrough opening that allows me to see the keyboard and the mouse (and I wouldn't mind one that lets me also see my coffee cup) while in virtual space. Ideally, an AI would be smart enough to recognize my keyboard (even if it's not Apple branded), but a reasonable first step would be merely allowing users to define passthrough zones by hand in the Vision Pro. 
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. Less draconian media restrictions
 
 Apple Vision Pro does not allow any screenshots of entertainment media. Period. Do I want to show you a screenshot of the impressive rhino sanctuary or Parkour immersive videos? Yes. Can I? No. No screenshots, no video. I also can't mirror any video to the Apple TV from the Vision Pro. 
@@ -73,19 +79,6 @@ That precludes using the Vision Pro's mirror-to-Apple TV feature to help a perso
 
 Look, I get the whole piracy thing. But limiting even a single screenshot is overkill. Apple, please fix this. It makes it much harder to help you sell your products. Shutting down the ability to mirror any Apple TV+ content from the Vision Pro to the Apple TV is baffling. I, for example, subscribe to the Apple One Premier plan, which allows us to use Family Sharing to share among up to five people. So why is Apple blocking this capability on the Vision Pro? 
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  5\. More native spatial apps
 
 Apple still ships Books, Calendar, Clock, Home, Maps, Podcasts, Reminders, Shortcuts, Stocks, and Voice Memos in the Compatibility Mode folder. While some of these, like Podcasts, won't benefit much from spatial conversion, others will. Maps, for example, would be the obvious beneficiary of a spatial upgrade, since the app itself tries to present 3D projections on a 2D screen. 
@@ -93,6 +86,13 @@ Apple still ships Books, Calendar, Clock, Home, Maps, Podcasts, Reminders, Short
 **Also: [Apple to give Control Center its most useful customization feature ever with iOS 18](https://www.zdnet.com/article/apple-to-give-control-center-its-most-useful-customization-feature-ever-with-ios-18/)**
 
 But I also think it might be nice to have some clocks you could actually place in mixed reality or a calendar you could hang on the wall. And where could Books go if the interactive features that are already so great in Books could be extended to a fully 3D world? Oh, the stories we could show and tell! 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. More environments and third-party environments
 
@@ -130,13 +130,6 @@ While many reviewers have described the Vision Pro's hand and eye tracking as "m
 
 This needs to improve, and I hope to see an upgrade in VisionOS 2.0\. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  10\. Find My support
 
 It's weird, but there's no Find My app for the Apple Vision Pro. You can't even download it. It's just not there. Now, given [how important it is to be able to use AirPods with the Vision Pro](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/) when around family members, I would think Find My (which regularly helps me find one or the other of my dropped AirPods) would be a necessity. But it's not available. 
@@ -144,21 +137,22 @@ It's weird, but there's no Find My app for the Apple Vision Pro. You can't even 
 Even cooler would be a heads-up display version of Find My that puts an arrow in your field of view as you look for what's missing. 
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Bonus: Better personas
 
 Wow, those things are creepy. We need to get them out of the uncanny valley. 'Nuff said. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Looking forward to VisionOS 2.0
 
@@ -198,17 +192,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-the-essentials-for-transforming-your-google-meet-into-youtube-live/"><u>[New] In 2024, The Essentials for Transforming Your Google Meet Into Youtube Live</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-the-insiders-guide-to-facebook-live-with-360-degrees/"><u>[New] The Insider's Guide to Facebook Live with 360 Degrees</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-applying-luts-in-obs-streaming/"><u>[New] The Ultimate Guide to Applying LUTs in OBS Streaming</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-worth-of-instagram-video-selfie-authenticity-for-2024/"><u>[New] The Worth of Instagram Video Selfie Authenticity for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhance-your-travel-and-student-experience-with-easy-to-use-hoteldorm-roku-setup/"><u>Enhance Your Travel and Student Experience with Easy-to-Use Hotel/Dorm Roku Setup</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-enable-live-sports-and-entertainment-with-fubotv-on-your-firestick/"><u>How to Enable Live Sports and Entertainment with FuboTV on Your Firestick</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-find-x7-ultra-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo Find X7 Ultra Location | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-restoring-zooms-video-capture-function/"><u>Step-by-Step Guide to Restoring Zoom's Video Capture Function</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-erasing-data-on-your-dell-computer/"><u>Step-by-Step Guide: Erasing Data on Your Dell Computer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721441494783-the-mystery-of-an-offline-find-my-iphone-device-heres-what-you-can-do/"><u>The Mystery of an Offline Find My iPhone Device? Here’s What You Can Do</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tip-for-finding-vanished-contact-details-on-android-phones/"><u>The Ultimate Tip for Finding Vanished Contact Details on Android Phones</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-toms-hardware-insights/"><u>Unveiling the Latest in Computing - Tom's Hardware Insights</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-video-productions-15-top-tier-free-music-websites/"><u>[New] Elevate Your Video Productions 15 Top-Tier Free Music Websites</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-analysis-comprehensive-camstudio-recorder/"><u>[Updated] Expert Analysis Comprehensive CamStudio Recorder</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-fashion-filming-simplified-for-macos-users/"><u>[Updated] In 2024, Fashion Filming Simplified for MacOS Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-introduce-natural-photo-smear-in-ps/"><u>[Updated] Introduce Natural Photo Smear in PS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/chromecast-makeover-tips-and-tricks-for-setting-a-brand-new-background-image/"><u>Chromecast Makeover: Tips and Tricks for Setting a Brand New Background Image</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/download-facebook-stories-with-ease-essential-tips-and-tricks-mobiledesktop-for-2024/"><u>Download Facebook Stories with Ease Essential Tips and Tricks (Mobile/Desktop) for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ensuring-a-safe-web-experience-correcting-insecure-connection-notices-on-your-site/"><u>Ensuring a Safe Web Experience: Correcting Insecure Connection Notices on Your Site</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-backup-software-ranked-a-curated-review-of-the-top-32-tools-available-today/"><u>Free Backup Software Ranked: A Curated Review of the Top 32 Tools Available Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-lameencdll-errors-audacity-lame-mp3/"><u>How to Fix Lame_enc.dll Errors (Audacity LAME MP3)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-quickly-fix-parsing-problems-in-your-android-project/"><u>How to Quickly Fix Parsing Problems in Your Android Project</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superb-simple-countdown-apps-for-free/"><u>In 2024, Superb Simple Countdown Apps for Free</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-home-charging-for-your-electric-car-a-step-by-step-manual/"><u>Mastering Home Charging for Your Electric Car: A Step-by-Step Manual</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-art-of-online-photo-trimming-for-2024/"><u>Navigating the Art of Online Photo Trimming for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/professionelle-bildverbesserung-and-restaurierung-auf-4k-8k-und-10k-mit-winxvideo-kunstlicher-intelligenz/"><u>Professionelle Bildverbesserung & -Restaurierung Auf 4K, 8K Und 10K Mit Winxvideo Künstlicher Intelligenz</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-ntdlldll-issues-on-your-pc-a-guide-for-windows-xp-vista-and-beyond/"><u>Solving ntdll.dll Issues on Your PC: A Guide for Windows XP, Vista, and Beyond</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-formula-for-virality-10-proven-methods-to-dominate-tiktoks-algorithm/"><u>The Formula for Virality: 10 Proven Methods to Dominate TikTok's Algorithm</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-elite-2024s-top-ranking-video-streaming-services-list/"><u>Unveiling the Elite - 2024'S Top-Ranking Video Streaming Services List</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-extract-audio-from-mp4-top-rated-mp4-to-mp3-converters-for-2024/"><u>Updated Extract Audio From MP4 Top-Rated MP4 to MP3 Converters for 2024</u></a></li>
 </ul></div>
 

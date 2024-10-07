@@ -1,7 +1,7 @@
 ---
 title: Discover How to Track Document Access in Google Docs
-date: 2024-09-26T09:06:44.689Z
-updated: 2024-10-01T17:13:09.717Z
+date: 2024-10-05T18:30:53.068Z
+updated: 2024-10-07T16:26:03.276Z
 categories:
   - BestProducts
 description: This Article Describes Discover How to Track Document Access in Google Docs
@@ -54,6 +54,13 @@ of 17
 
 ![ManyBooks horror books](https://www.lifewire.com/thmb/VUNvSbfPj4JxsPpoQ-aeLSDRMoo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/manybooks-horror-66393c2957f74d4e887e11a46e63cbae.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  What We Like
 
 * Selection includes more than just classics and Creative Commons books.
@@ -77,15 +84,28 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [Open Library](https://openlibrary.org/)
 
 ![Open Library free fantasy books](https://www.lifewire.com/thmb/-ctO4xId9XQoiLRkftJcE3RwBc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/open-library-free-books-90d83651ac8441ecbcf38bd648ad33ce.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  What We Like
@@ -114,13 +134,6 @@ of 17
 
 ![Librivox free book downloads](https://www.lifewire.com/thmb/3CD8SNYd6sSu5_LvoNlASuUJVzQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/librivox-free-books-d032914dc8884c46b3d9e5604101ac6b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  What We Like
 
 * Free audiobooks.
@@ -142,15 +155,22 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [Google Play Books](https://play.google.com/store/books)
 
 ![Google Play's top free ebooks](https://www.lifewire.com/thmb/rWdOx4g3sL9wBs75Gen-8fKmwLc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-play-free-books-7805ff6114d3413b981bad07ad9309a9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  What We Like
@@ -174,15 +194,28 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [Internet Archive](https://archive.org/details/texts)
 
 ![Internet Archive free eBooks and other texts](https://www.lifewire.com/thmb/jDuBEHJF6iF3cOdcjrbXS3IFuZw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-ebooks-text-1ce561bf073649359dd672d540bcc568.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  What We Like
@@ -207,13 +240,6 @@ of 17
 07
 
 of 17
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## [Authorama](https://www.authorama.com/)
 
@@ -267,13 +293,6 @@ of 17
 
 of 17
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [Wikibooks](https://www.wikibooks.org/)
 
 ![Wikibooks home page](https://www.lifewire.com/thmb/YF1AE5jQiXAwL2BMn0sqD0bT3hg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wikibooks-db10b097678243d9af53a357b0730389.png)
@@ -303,13 +322,6 @@ of 17
 
 ![free-ebooks.net romance books](https://www.lifewire.com/thmb/MFwV8nsWimWGfjT3kr47omFtjzM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-ebooks-romance-books-e1de021c14b64c58b4e148e0d206c144.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  What We Like
 
 * Diverse selection.
@@ -333,6 +345,13 @@ of 17
 ## [The Online Books Page](https://digital.library.upenn.edu/books/)
 
 ![The Online Books Page](https://www.lifewire.com/thmb/NtXfFY_H2MOVz3zuO7C0KZ49Fs8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/online-books-page-292c14fbd74942d0bb05d4b5241be408.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -385,13 +404,6 @@ of 17
 ## [International Children's Digital Library](http://childrenslibrary.org/)
 
 ![International Children's Digital Library](https://www.lifewire.com/thmb/BfmcMPozUonvQpPrd_lOJrsHPRk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/international-childrens-digital-library-2bc17e8bfa0c4a8f87f80e695d36b273.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -539,18 +551,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-communicating-confidently-on-google-meet/"><u>[New] Communicating Confidently on Google Meet</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-earn-with-each-screen-capture/"><u>[Updated] 2024 Approved Earn With Each Screen Capture</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-best-virtual-racing-for-cyclists-for-2024/"><u>[Updated] Best Virtual Racing for Cyclists for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/amazons-alexa-or-google-assistant-a-comprehensive-guide-to-determining-the-perfect-choice-for-you/"><u>Amazon's Alexa or Google Assistant: A Comprehensive Guide to Determining the Perfect Choice for You</u></a></li>
-<li><a href="https://extra-information.techidaily.com/complete-critique-the-ultimate-review-for-bublcam-360-camera-for-2024/"><u>Complete Critique The Ultimate Review for Bublcam 360 Camera for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-hulu-vs-hulu-plus-which-one-fits-your-needs/"><u>Decoding Hulu Vs. Hulu Plus: Which One Fits Your Needs?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-our-selection-of-6-top-ranking-journaling-tools-online/"><u>Explore Our Selection of 6 Top-Ranking Journaling Tools Online</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/latest-macbook-model-whats-new-in-apple-laptops/"><u>Latest MacBook Model: What's New in Apple Laptops</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/platinum-dvd-ripper-pro-high-speed-dvd-conversion-using-gpu-power/"><u>Platinum DVD Ripper Pro: High-Speed DVD Conversion Using GPU Power</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pokemon-unite-strategies-a-beginners-roadmap-to-victory/"><u>Pokémon Unite Strategies: A Beginner's Roadmap to Victory</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simplified-steps-the-right-way-to-delete-unwanted-apps-from-a-samsung-tv/"><u>Simplified Steps: The Right Way to Delete Unwanted Apps From a Samsung TV</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-iphone-email-clients-of-2024-our-recommended-picks/"><u>Top 5 iPhone Email Clients of 2024: Our Recommended Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-macs-inability-to-recognize-exterior-monitor/"><u>Troubleshooting Guide: Resolving Mac's Inability to Recognize Exterior Monitor</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-capture-and-crop-with-ios-top-iphone-apps-reviewed-for-2024/"><u>[New] Capture & Crop with iOS Top iPhone Apps Reviewed for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-urban-jungles-and-beyond-top-10-without-gta/"><u>[New] In 2024, Urban Jungles and Beyond - Top 10 Without GTA</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-10-strategies-for-impactful-spotify-ads/"><u>[New] Top 10 Strategies for Impactful Spotify Ads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-5-best-3d-intro-makers-for-youtube-for-2024/"><u>[Updated] Top 5 Best 3D Intro Makers for YouTube for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/15-essential-cost-free-software-erasers-an-in-depth-look/"><u>15 Essential, Cost-Free Software Erasers: An In-Depth Look</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-share-and-smile-discovering-the-best-meme-designs-10/"><u>2024 Approved Share & Smile Discovering the Best Meme Designs #10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-specifications-the-contrast-between-ipad-mini-and-ipad-air/"><u>Decoding Specifications: The Contrast Between iPad Mini and iPad Air</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enhancing-images-with-prints-essential-techniques-within-adobe-photoshop/"><u>Enhancing Images with Prints: Essential Techniques Within Adobe Photoshop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-and-repair-the-shelldll-file-mistake/"><u>How to Correctly Address and Repair the Shell.DLL File Mistake</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-apple-iphone-13-pro-max-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On Apple iPhone 13 Pro Max - 4 Easy Ways</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-find-n3-flip-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Oppo Find N3 Flip Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-mystery-of-the-500-internal-server-mishap-a-step-by-step-guide/"><u>Resolving the Mystery of the 500 Internal Server Mishap: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-on-how-to-set-up-and-sync-your-chromecast-remote/"><u>Step-by-Step Instructions on How to Set Up and Sync Your Chromecast Remote</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-list-of-beautiful-wedding-clips-youtube-and-vimeo-for-2024/"><u>The Ultimate List of Beautiful Wedding Clips - Youtube & Vimeo for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-macos-evolution-an-exhaustive-overview-of-each-version/"><u>Understanding MacOS Evolution: An Exhaustive Overview of Each Version</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722899368981-wininetdll-missing-heres-how-to-correctly-restore-it/"><u>Wininet.dll Missing? Here's How to Correctly Restore It</u></a></li>
 </ul></div>
 

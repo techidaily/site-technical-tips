@@ -1,7 +1,7 @@
 ---
 title: "How Apple iOS Update in iPhones Could Expose You: Learn To Hide Your Device From Unwanted Attention | ZDNet"
-date: 2024-09-29T19:00:16.554Z
-updated: 2024-10-02T03:40:11.744Z
+date: 2024-10-04T22:42:51.634Z
+updated: 2024-10-07T16:04:33.611Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
@@ -47,16 +40,16 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -64,24 +57,31 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -92,16 +92,10 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
@@ -175,20 +169,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unlocking-the-full-potential-of-iphone-7-screen-save-for-2024/"><u>[Updated] Unlocking the Full Potential of iPhone 7 Screen Save for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unwind-and-capture-your-games-in-peace/"><u>[Updated] Unwind and Capture Your Games in Peace</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-record-real-time-webcam-footage-easily/"><u>2024 Approved Record Real-Time Webcam Footage Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-secret-of-checking-if-your-emails-have-been-seen-on-gmail/"><u>Discover the Secret of Checking if Your Emails Have Been Seen on Gmail</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-steps-for-when-you-cant-find-d3dx933dll-error/"><u>Fix Steps for When You Can't Find d3dx9_33.dll Error</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-m34-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy M34?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-buzzing-noise-in-headphones/"><u>How to Fix Buzzing Noise in Headphones</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-12-video-channels-at-your-command-seamless-viewing/"><u>In 2024, 12 Video Channels at Your Command – Seamless Viewing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-your-internet-causing-discord-errors-or-are-there-actual-server-disruptions-affecting-users-worldwide/"><u>Is Your Internet Causing Discord Errors, or Are There Actual Server Disruptions Affecting Users Worldwide?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/new-release-fsps-premium-2000w-power-supply-tailored-for-latest-nvidia-and-amd-gpu-models/"><u>New Release: FSP's Premium 2000W Power Supply Tailored for Latest Nvidia and AMD GPU Models</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/secure-your-profile-how-to-modify-your-facebook-password-safely/"><u>Secure Your Profile: How To Modify Your Facebook Password Safely</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/streamlining-capture-procedures-with-adobe-presenter-for-2024/"><u>Streamlining Capture Procedures with Adobe Presenter for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-essential-factors-when-shopping-for-pre-owned-notebooks/"><u>Top 5 Essential Factors When Shopping for Pre-Owned Notebooks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-prospective-details-of-samsung-z-fold-4-release-schedule-pricing-info-and-specs-inside/"><u>Unveiling the Prospective Details of Samsung Z Fold 4 - Release Schedule, Pricing Info & Specs Inside</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-efficient-use-of-obs-with-zoom-video-platform/"><u>[New] Efficient Use of OBS with Zoom Video Platform</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/op-15-channels-for-aspiring-stock-professionals-for-2024/"><u>[New] Top 15 Channels for Aspiring Stock Professionals for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-are-podcasters-paid/"><u>[Updated] How Are Podcasters Paid?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieve-better-digital-broadcast-quality-at-home-using-an-effective-indoor-antenna/"><u>Achieve Better Digital Broadcast Quality at Home Using an Effective Indoor Antenna</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-watch-ultra-edition-2-anticipated-launch-details-pricing-insights-specifications-and-latest-rumors/"><u>Apple Watch Ultra Edition 2: Anticipated Launch Details, Pricing Insights, Specifications & Latest Rumors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/create-neon-effects-online-8-simple-and-free-tools-to-get-you-started/"><u>Create Neon Effects Online 8 Simple and Free Tools to Get You Started</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhancing-graphics-with-ai-seamless-motion-and-improved-fps/"><u>Enhancing Graphics with AI: Seamless Motion and Improved FPS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/error-503-explained-overcoming-service-unavailable-messages-in-web-hosting/"><u>Error 503 Explained - Overcoming 'Service Unavailable' Messages in Web Hosting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-tech-must-haves-laptops-mobile-devices-and-book-collections/"><u>Essential Tech Must-Haves: Laptops, Mobile Devices & Book Collections</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-spotify-playback-problems-on-android-auto-quickly-13-tips/"><u>How to Fix Spotify Playback Problems on Android Auto Quickly (13 Tips)</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-navigate-a-flippingbook-pdf-in-reverse-right-to-left-reading-tips-for-bidirectional-text/"><u>How to Navigate a FlippingBook PDF in Reverse (Right-to-Left Reading) - Tips for Bidirectional Text</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone XS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-solution-resolve-your-magic-mouse-trackpad-glitch/"><u>Quick Solution: Resolve Your Magic Mouse Trackpad Glitch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-your-ps5-controllers-battery-life-effective-fixes-for-charging-woes/"><u>Reviving Your PS5 Controller’s Battery Life: Effective Fixes for Charging Woes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-listening-experience-how-to-link-samsung-earbuds-with-a-desktop-pc/"><u>Seamless Listening Experience: How to Link Samsung Earbuds with a Desktop PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/speedy-ai-conversion-transform-videos-and-audios-instantly-using-winxvideos-powerful-gpu-acceleration/"><u>Speedy AI Conversion: Transform Videos & Audios Instantly Using WinxVideo's Powerful GPU Acceleration</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-best-gopro-for-action-compare-max-and-hero-11/"><u>The Best GoPro for Action Compare Max and Hero 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-inside-scoop-on-chatgpt-by-microsoft-transformative-power-of-modern-nlp-tools/"><u>The Inside Scoop on ChatGPT by Microsoft: Transformative Power of Modern NLP Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-tutorial-on-permanently-removing-your-instagram-profile/"><u>The Ultimate Tutorial on Permanently Removing Your Instagram Profile</u></a></li>
 </ul></div>
 

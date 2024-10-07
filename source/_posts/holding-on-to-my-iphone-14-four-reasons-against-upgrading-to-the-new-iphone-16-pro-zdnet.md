@@ -1,7 +1,7 @@
 ---
 title: "Holding on to My iPhone 14: Four Reasons Against Upgrading to the New iPhone 16 Pro | ZDNet"
-date: 2024-09-29T06:31:53.988Z
-updated: 2024-10-02T07:47:02.681Z
+date: 2024-09-30T16:27:27.330Z
+updated: 2024-10-07T21:22:56.712Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,16 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -135,18 +129,20 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-manuals.techidaily.com/1726221590413-movavi/"><u>網路無限財富指數還本 - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-human-touch-and-machine-precision-in-editing/"><u>Balancing Human Touch and Machine Precision in Editing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/error-code-23-in-apex-legends-demystified-the-ultimate-fix-guide/"><u>Error Code 23 in Apex Legends Demystified: The Ultimate Fix Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-a-revolution-in-mobile-tech-a-comparison-showdown-why-this-advanced-android-phones-exceptional-heat-management-leaves-the-iphone-behind-zdnet/"><u>Experience a Revolution in Mobile Tech: A Comparison Showdown! Why This Advanced Android Phone's Exceptional Heat Management Leaves the iPhone Behind | ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-the-eclipse-like-never-before-with-a-homemade-camera-obscura-step-by-step-instructions/"><u>Experience the Eclipse Like Never Before with a Homemade Camera Obscura - Step-by-Step Instructions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-most-advanced-bird-feeders-a-review-by-smarttechtimes/"><u>Exploring the Most Advanced Bird Feeders : A Review by SmartTechTimes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/future-tech-review-the-ultimate-list-of-portable-projector-reviews-by-zdnet-experts/"><u>Future Tech Review: The Ultimate List of Portable Projector Reviews by ZDNet Experts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-the-ultimate-in-smart-cctv-with-a-special-offer-on-arlo-pro/"><u>Get the Ultimate in Smart CCTV with a Special Offer on Arlo Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-your-jackery-explorer-1000-generator-now-at-a-huge-discount-for-black-friday-special-price-cut-of-250/"><u>Get Your Jackery Explorer 1000 Generator Now at a Huge Discount for Black Friday! Special Price Cut of $250.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-fast-fixes-for-the-installation-could-not-complete-error-on-pcs/"><u>Mastering Fast Fixes for the 'Installation Could Not Complete' Error on PCs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mastering-game-control-avoiding-interference-from-windows-key-and-accessibility-shortcuts/"><u>Mastering Game Control: Avoiding Interference From Windows Key & Accessibility Shortcuts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/perfect-compatibility-for-logitech-g13-keyboards-essential-driver-download-tips/"><u>Perfect Compatibility for Logitech G13 Keyboards: Essential Driver Download Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revive-your-connections-effective-techniques-for-finding-wiped-out-numbers-on-android/"><u>Revive Your Connections: Effective Techniques for Finding Wiped Out Numbers on Android</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-discover-the-best-methods-to-record-audio-using-windows-11-tools/"><u>[New] 2024 Approved Discover the Best Methods to Record Audio Using Windows 11 Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-obs-chronology-control-building-a-personalized-countdown-for-2024/"><u>[New] Obs Chronology Control Building a Personalized Countdown for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-holographic-horizons-trendsetting-wallpapers/"><u>[Updated] Holographic Horizons Trendsetting Wallpapers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-indoor-tv-reception-the-ultimate-guide-to-choosing-the-right-antenna/"><u>Enhancing Indoor TV Reception: The Ultimate Guide to Choosing the Right Antenna</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-new-frontier-in-phones-with-samsungs-latest-release/"><u>Exploring the New Frontier in Phones with Samsung's Latest Release</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-missing-cygwin1dll-files-tips-and-techniques-that-work/"><u>Fixing Missing cygwin1.dll Files: Tips and Techniques That Work</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-send-and-receive-faxes-for-free-online-the-leading-options/"><u>How to Send & Receive Faxes for Free Online – The Leading Options</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-12-pro-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 12 Pro when Phone is Broken?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c51-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme C51 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premium-mkv-encoder-software-achieve-high-quality-conversions-of-your-videos-to-mkv/"><u>Premium MKV Encoder Software: Achieve High-Quality Conversions of Your Videos to MKV</u></a></li>
+<li><a href="https://extra-support.techidaily.com/securing-yourself-from-motion-sickness-in-vr-for-2024/"><u>Securing Yourself From Motion Sickness in VR for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-evolution-how-facebook-twitter-instagram-and-youtube-shape-communication/"><u>Social Media Evolution: How Facebook, Twitter, Instagram & YouTube Shape Communication</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-fix-for-the-elusive-mingwm10dll-error-message/"><u>Step-by-Step Fix for the Elusive mingwm10.dll Error Message</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-solutions-to-correct-parsing-issues-in-your-android-app/"><u>Top 8 Solutions to Correct Parsing Issues in Your Android App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/vlc-expansion-guide-play-any-video-content-on-your-apple-tv-with-ease/"><u>VLC Expansion Guide: Play Any Video Content on Your Apple TV with Ease</u></a></li>
 </ul></div>
 

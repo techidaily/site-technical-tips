@@ -1,7 +1,7 @@
 ---
 title: "Unhide the Invisible: A Comprehensive Guide to Finding Concealed Files Using macOS Terminal"
-date: 2024-09-15T20:00:34.947Z
-updated: 2024-09-21T03:17:07.207Z
+date: 2024-09-30T22:38:35.799Z
+updated: 2024-10-07T22:26:30.639Z
 categories:
   - BestProducts
 description: "This Article Describes Unhide the Invisible: A Comprehensive Guide to Finding Concealed Files Using macOS Terminal"
@@ -33,6 +33,19 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 ![Terminal window with commands inline](https://www.lifewire.com/thmb/z9u9E5cQZxfSmppiqZSimKAfX_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_view-hidden-mac-folders-using-terminal-2260776-5c2ea73546e0fb0001415cda.jpg)
 3. Entering the two lines above into Terminal allows you to use the[Finder](https://www.lifewire.com/use-mac-finder-2260739) to display all the hidden files on your Mac. The first line tells the Finder to display all files, regardless of how the hidden flag is set. The second line stops and restarts the Finder, so the changes can take effect. You may see your desktop disappear and reappear when you execute these commands; this is normal.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Was Hidden Can Now Be Seen
 
  Now that the Finder is displaying[hidden files](https://www.lifewire.com/what-is-a-hidden-file-2625898) and folders, just what can you see? The answer depends on the specific folder you're looking at, but in just about every folder, you'll see a file named**.DS\_Store** . The DS\_Store file contains information about the current folder, including the icon to use for the folder, the location its window will open in, and other bits of information the system needs.
@@ -42,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
  Go ahead and look around the Library folder, but don't make any changes unless you have a specific problem that you're attempting to fix.
 
  Now that you can see all the hidden folders and files in the Finder, you'll probably want to hide them again, if only because they tend to clutter up Finder windows with extraneous items.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Hide the Clutter
 
@@ -53,10 +73,17 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 3. Poof! The hidden files are once again hidden. No hidden folder or file was harmed in the making of this Mac tip.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More About Terminal
@@ -90,5 +117,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-step-into-windows-xp-a-filmmakers-companion/"><u>[New] 2024 Approved Step Into Windows XP A Filmmaker's Companion</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/arning-through-youtube-partnerships/"><u>[New] Earning Through YouTube Partnerships</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-enhance-interaction-mobile-screenshotting-on-android-for-2024/"><u>[New] Enhance Interaction Mobile Screenshotting on Android for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-top-quality-work-flooring-systems/"><u>Choosing Top-Quality Work Flooring Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-solutions-unraveling-the-mystery-of-code-43-mishaps/"><u>Expert Solutions: Unraveling the Mystery of Code 43 Mishaps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-getting-apple-tv-running-on-your-firestick-device/"><u>Expert Tips for Getting Apple TV Running on Your Firestick Device</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-creating-a-memorable-tiktok-end-credits/"><u>In 2024, Creating a Memorable TikTok End Credits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/kernel32dll-crashes-effective-strategies-for-stability-and-performance-restoration/"><u>Kernel32.dll Crashes: Effective Strategies for Stability and Performance Restoration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/petr-skarpantel-artistic-director-golden-violin-in-recognition-of-his-work-on-the-world-soloist-competition/"><u>Petr Škarpantel (Artistic Director) - Golden Violin in Recognition of His Work on the World Soloist Competition.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-msstdfmtdll-not-found-issues-step-by-step-guide/"><u>Solving Msstdfmt.dll Not Found Issues - Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/tips-to-incorrante-tv-with-facebook-live-integration-for-2024/"><u>Tips to Incorrante TV with Facebook Live Integration for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-the-rununk13-error-on-hulu/"><u>Troubleshooting Guide: Resolving the 'RUNUNK13' Error on Hulu</u></a></li>
+</ul></div>
 

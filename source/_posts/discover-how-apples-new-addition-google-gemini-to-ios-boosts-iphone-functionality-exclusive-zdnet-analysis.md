@@ -1,7 +1,7 @@
 ---
 title: Discover How Apple's New Addition, Google Gemini to iOS, Boosts iPhone Functionality | Exclusive ZDNet Analysis
-date: 2024-09-26T22:41:35.744Z
-updated: 2024-10-02T04:40:36.758Z
+date: 2024-10-06T16:07:58.415Z
+updated: 2024-10-07T20:03:19.783Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -60,10 +60,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -71,10 +71,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -115,15 +115,14 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-chortle-curators-humor-hunt/"><u>[New] 2024 Approved Chortle Curators Humor Hunt</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-achieve-unprecedented-image-quality-via-av1-on-youtube/"><u>[Updated] In 2024, Achieve Unprecedented Image Quality via AV1 on YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-practices-in-picking-a-surge-protector-for-home-electronics/"><u>Best Practices in Picking a Surge Protector for Home Electronics</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722892858434-chronological-viewing-plan-for-all-major-x-men-films-watch-like-a-pro/"><u>Chronological Viewing Plan for All Major X-Men Films – Watch Like a Pro!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/comprehensive-user-manual-mastering-the-apowersoft-android-screen-recording-tool/"><u>Comprehensive User Manual: Mastering the Apowersoft Android Screen Recording Tool</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-brother-hl-l2300d-printer-software/"><u>Download the Latest Brother HL-L2300D Printer Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-writing-workflow-with-8-advanced-ai-tools/"><u>Elevate Writing Workflow with 8 Advanced AI Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-these-15-amazing-free-music-download-resources-on-the-internet/"><u>Explore These 15 Amazing Free Music Download Resources on the Internet</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-z-fold-5-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy Z Fold 5 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-pros-and-cons-of-buying-a-blu-ray-player-is-it-time-to-upgrade/"><u>The Pros and Cons of Buying a Blu-Ray Player – Is It Time to Upgrade?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dj-beats-unleashed-high-fidelity-templates-downloaded-easily/"><u>[New] 2024 Approved DJ Beats Unleashed High-Fidelity Templates Downloaded Easily</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-decadal-list-prime-meme-designs-for-2024/"><u>[New] Decadal List Prime Meme Designs for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-add-auditory-components-to-premiere-pro-videos/"><u>[New] In 2024, Add Auditory Components to Premiere Pro Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevating-home-entertainment-tcl-unveils-an-impressive-array-of-19-new-smart-tv-models-for-their-q-and-s-classes/"><u>Elevating Home Entertainment: TCL Unveils an Impressive Array of 19 New Smart TV Models for Their Q and S Classes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-nokia-c300-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Nokia C300</u></a></li>
+<li><a href="https://program-issues.techidaily.com/join-deacon-st-john-embark-on-a-post-apocalyptic-journey-with-days-gone-for-pc-gamers/"><u>Join Deacon St. John: Embark on a Post-Apocalyptic Journey with 'Days Gone' For PC Gamers!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-issues-with-the-iphoness-default-email-client/"><u>Resolving Issues with the iPhones's Default Email Client</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-mfplatdll-missing-error-step-by-step-troubleshooting-guide/"><u>Resolving mfplat.dll Missing Error: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-guide-to-repairing-msvcr1e-dll-file-errors-on-pc/"><u>The Definitive Guide to Repairing MSVCR1e DLL File Errors on PC</u></a></li>
 </ul></div>
 

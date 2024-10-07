@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Photography Timers with Your iPhone
-date: 2024-09-25T06:55:51.869Z
-updated: 2024-10-01T23:11:53.904Z
+date: 2024-10-02T21:43:43.167Z
+updated: 2024-10-07T22:20:42.486Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the Art of Photography Timers with Your iPhone
@@ -24,15 +24,22 @@ thumbnail: https://www.lifewire.com/thmb/hoOuvzdnbkZQB53jeYnE2CJSmz4=/540x405/fi
  This article shows you how to set the time on your iPhone camera and includes instructions for iOS 15.5 and earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Do iPhone Cameras Have a Timer?
 
  The short answer is yes; the iPhone camera does have a timer. You'll find it in the settings for the Photo and Portrait modes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set the Timer on Your iPhone Camera
 
@@ -46,16 +53,10 @@ thumbnail: https://www.lifewire.com/thmb/hoOuvzdnbkZQB53jeYnE2CJSmz4=/540x405/fi
 3. Select the**Shutter Timer** icon (it looks a bit like a clock). It may be in different locations on the menu, depending on what Mode you're using and what version of iOS you're running, but the icon will always remain the same.  
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Shutter Timer icon will turn yellow to indicate it is selected.  
@@ -64,13 +65,6 @@ thumbnail: https://www.lifewire.com/thmb/hoOuvzdnbkZQB53jeYnE2CJSmz4=/540x405/fi
 ![The iPhone Camera timer icon and seconds option ](https://www.lifewire.com/thmb/PM6ta0sZIEEhXzZoxIMnZQU5G7g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-set-timer-on-iphone-camera-5180782-09f0c5bf9652403c803f0774a8ec0eae.jpg)
 5. Then press the shutter button and get into position. The countdown will flash on-screen as it counts down. Once the timer is done, the shutter will fire, taking a series of 10 shots in a short burst.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want your camera to take a burst of 10 shots like it does in Live Mode, then you need to be Live Mode is enabled before you tap the timer. If you haven't enabled Live Mode, the camera will only take one picture, regardless of whether it's on Portrait or Photo Mode.
 
  Once you capture a picture, open it in the Gallery app to edit it. You can select the Live Mode icon and choose which of the photos you would like to use.
@@ -78,10 +72,10 @@ thumbnail: https://www.lifewire.com/thmb/hoOuvzdnbkZQB53jeYnE2CJSmz4=/540x405/fi
 [Everything You Need to Know About iPhone Live Photos](https://www.lifewire.com/iphone-live-photos-1999618)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does iPhone 11 Have a Camera Timer?
@@ -124,15 +118,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-essentials-of-making-professional-level-facebook-reels/"><u>[New] 2024 Approved The Essentials of Making Professional-Level Facebook Reels</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conquer-subway-surfers-a-gamers-top-tier-strategies-compiled/"><u>Conquer 'Subway Surfers': A Gamer's Top-Tier Strategies Compiled</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-productivity-in-ai-communications-organize-chatgpt-sessions-with-smart-folder-techniques/"><u>Enhance Productivity in AI Communications: Organize ChatGPT Sessions with Smart Folder Techniques</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-drivers-for-your-amd-vega-64-graphics-card-compatible-with-windows-systems/"><u>Latest Drivers for Your AMD Vega 64 Graphics Card - Compatible with Windows Systems</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/theyoucamguidetoeffectivewebcapture/"><u>TheYouCamGuideToEffectiveWebCapture</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-the-xlivedll-missing-or-unavailable-on-your-pc/"><u>Troubleshooting Tips for the Xlive.dll Missing or Unavailable on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-inspiration-the-ultimate-list-of-uplifting-movies/"><u>Unlocking Inspiration: The Ultimate List of Uplifting Movies</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-google-nest-wi-fi-a-review-of-its-superior-and-effortless-network-speed/"><u>Unlocking the Potential of Google Nest Wi-Fi: A Review of Its Superior and Effortless Network Speed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-of-microsofts-educational-offers-a-guide-for-students/"><u>Unlocking the Secrets of Microsoft's Educational Offers: A Guide for Students</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/youtube-tv-and-hulu-live-compared-key-factors-you-need-to-consider-when-deciding-between-them/"><u>YouTube TV and Hulu Live Compared: Key Factors You Need to Consider When Deciding Between Them</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-optimize-chromes-voice-the-best-web-based-vocal-modification-apps/"><u>[New] Optimize Chrome's Voice The Best Web-Based Vocal Modification Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-fine-tuning-fade-effects-in-music-software/"><u>[Updated] In 2024, Fine-Tuning Fade Effects in Music Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-through-youtubes-top-favorite-shorters/"><u>[Updated] Navigating Through YouTube’s Top Favorite Shorters</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/crafting-viral-sensations-on-tiktok-learn-the-top-10-methods-for-success/"><u>Crafting Viral Sensations on TikTok: Learn the Top 10 Methods for Success</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722878190363-discover-our-choice-of-the-best-6-free-movie-sites-for-children/"><u>Discover Our Choice of the Best 6 Free Movie Sites for Children</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-x50i-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor X50i</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/navigating-through-facebooks-recent-content-policy-shifts/"><u>Navigating Through Facebook's Recent Content Policy Shifts</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/portable-gaming-revolutionized-evaluating-the-features-and-value-of-the-nintendo-switch-lite/"><u>Portable Gaming Revolutionized: Evaluating the Features and Value of the Nintendo Switch Lite</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-stadia-headset-connectivity-problems-expert-tips-and-tricks/"><u>Solving Stadia Headset Connectivity Problems: Expert Tips and Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/track-your-digital-footprint-efficient-techniques-for-assessing-data-use/"><u>Track Your Digital Footprint: Efficient Techniques for Assessing Data Use</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-list-of-the-top-8-mobile-game-experiences/"><u>Ultimate List of the Top 8 Mobile Game Experiences</u></a></li>
 </ul></div>
 

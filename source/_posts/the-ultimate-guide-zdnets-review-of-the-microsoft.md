@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: ZDNet's Review of the Microsoft"
-date: 2024-09-30T20:29:43.660Z
-updated: 2024-10-02T08:01:04.978Z
+date: 2024-10-01T16:20:04.178Z
+updated: 2024-10-07T17:28:59.457Z
 tags:
   - apple
 categories:
@@ -70,6 +70,13 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -87,10 +94,10 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -100,19 +107,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -147,6 +141,13 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -160,16 +161,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -185,13 +180,6 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 ## FAQ
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -230,16 +218,18 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-immersive-experience-logging-top-tips-and-techniques-for-minecraft-recordings/"><u>[New] Immersive Experience Logging Top Tips & Techniques for Minecraft Recordings</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-inside-the-innovative-world-of-intova-x/"><u>[New] Inside the Innovative World of Intova X</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-advanced-screenshot-options-for-windows-users-for-2024/"><u>[Updated] Advanced Screenshot Options for Windows Users for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/brighten-up-your-desktop-techniques-for-adjusting-mac-folder-colors/"><u>Brighten Up Your Desktop: Techniques for Adjusting Mac Folder Colors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/configuring-your-external-drive-as-a-network-location-on-a-mac-computer/"><u>Configuring Your External Drive as a Network Location on a Mac Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-connecting-an-external-monitor-to-your-mac-successfully/"><u>Expert Tips for Connecting an External Monitor to Your Mac Successfully</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-clear-cmos-aka-reset-bios-settings/"><u>How to Clear CMOS (AKA Reset BIOS Settings)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oppo-find-x6-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Oppo Find X6</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-common-errors-a-user-friendly-guide-when-netflix-wont-stream-titles-correctly/"><u>Overcoming Common Errors: A User-Friendly Guide When Netflix Won’t Stream Titles Correctly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-13-key-tactics-for-enhanced-visibility-in-facebook-videography/"><u>[New] 13 Key Tactics for Enhanced Visibility in Facebook Videography</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-dancefloor-directives-expert-dj-video-downloads/"><u>[New] 2024 Approved Dancefloor Directives Expert DJ Video Downloads</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-a-comprehensive-list-of-top-10-video-communication-apps-for-2024/"><u>[New] A Comprehensive List of Top 10 Video Communication Apps for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-eternal-display-documentation/"><u>[Updated] 2024 Approved Eternal Display Documentation</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-melodic-matchmaking-music-that-matters-on-social-media/"><u>[Updated] 2024 Approved Melodic Matchmaking Music That Matters on Social Media</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/device-wont-initiate-master-the-art-of-correcting-error-code-10-failures/"><u>Device Won't Initiate? Master the Art of Correcting Error Code 10 Failures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/engage-in-confidential-conversations-with-chatgpt-and-others-using-duckduckgos-secure-ai-chat-platform/"><u>Engage in Confidential Conversations with ChatGPT & Others Using DuckDuckGo's Secure AI Chat Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-guide-resolving-wireless-connectivity-problems-in-under-10-steps/"><u>Essential Guide: Resolving Wireless Connectivity Problems in Under 10 Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-get-a-tidal-student-discount/"><u>How to Get a Tidal Student Discount</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-ions-bold-step-forward-with-pro-3-a-comprehensive-camera-review/"><u>In 2024, ION's Bold Step Forward with Pro 3 - A Comprehensive Camera Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-noticing-lack-of-interaction-in-chatworld/"><u>In 2024, Noticing Lack of Interaction in Chatworld</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-multi-party-communication-software-a-guide-to-the-best-services/"><u>Leading Multi-Party Communication Software: A Guide to the Best Services</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-steps-to-broadcast-your-zoom-session-on-television/"><u>Simple Steps to Broadcast Your Zoom Session on Television</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "To Upgrade or Not: Expert Advice on Why You Should Consider the Latest iPhone N [16] - A Comprehensive Guide by ZDNET Editors"
-date: 2024-09-30T04:01:25.412Z
-updated: 2024-10-02T06:31:11.027Z
+date: 2024-10-04T17:32:12.074Z
+updated: 2024-10-07T22:21:39.205Z
 tags:
   - apple
 categories:
@@ -34,6 +34,13 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. The camera
 
 Perhaps one of the most important features of any smartphone these days is the camera, so it is no surprise that camera quality is a big consideration for ZDNET editors. It probably is for you, too. The iPhone 16 lineup includes a new [Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/) feature that works in landscape or portrait mode with a button on the side of the iPhone. In addition, you can lightly press the button to show camera functions you can choose from, such as zoom, exposure, or focal lengths, by swiping between the options. 
@@ -47,10 +54,10 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
@@ -64,13 +71,6 @@ ZDNET contributor Ed Bott is planning to upgrade his iPhone 12 Pro Max for a new
 And if you're looking to change carriers, like managing editor Alison DeNisco Rayome, some of the trade-in offers make it hard to resist. "I still have the 13, and the trade-in deals are making it worth it for me to upgrade to the 16 (plus we want to switch carriers, so even better)," she says. 
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. For work
 
@@ -98,13 +98,6 @@ ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. The Apple Intelligence features aren't perfect
 
 Apple's biggest flexes over the last few months have been their Apple Intelligence and AI features, [which the iPhone 16 is the guinea pig for](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). While some of these new AI features are undeniably cool, like the new Camera Control, enhanced Siri features, and more, the features are still limited to the iPhone 15 Pro and above and rolling out only in beta over the next few weeks. 
@@ -115,6 +108,13 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -123,18 +123,18 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Expense and hassle
 
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -176,18 +176,24 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ransforming-ideas-into-viral-video-hits-on-youtube/"><u>[New] Transforming Ideas Into Viral Video Hits on YouTube</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-best-5-camera-apps-to-shoot-and-record-videos-on-iphone-and-andriod/"><u>[Updated] 2024 Approved Best 5 Camera Apps to Shoot and Record Videos on iPhone and Andriod</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/4-ways-to-record-facebook-live-stream-for-2024/"><u>4 Ways to Record Facebook Live Stream for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722899753799-choosing-your-smartphone-iphone-or-android-find-the-perfect-match/"><u>Choosing Your Smartphone: IPhone or Android – Find the Perfect Match!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comctl32dll-missing-heres-how-to-find-and-repair-this-essential-system-file/"><u>Comctl32.dll MISSING? Here's How to Find and Repair This Essential System File</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-methods-for-deleting-your-pcs-crash-dumps-on-windows-11/"><u>Easy Methods for Deleting Your PC's Crash Dumps on Windows 11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/facebook-video-integration-for-pc-and-android-users-explained-for-2024/"><u>Facebook Video Integration for PC & Android Users Explained for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-meizu-21-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Meizu 21 Pro FRP</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-modifying-directory-view-modes-a-closer-look-at-main-and-subfolders/"><u>Mastering the Art of Modifying Directory View Modes: A Closer Look at Main and Subfolders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-your-potential-top-10-effortless-pdf-solutions/"><u>Maximize Your Potential: Top 10 Effortless PDF Solutions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-the-features-of-linksys-ea8300-the-ultimate-gateway-for-connected-devices/"><u>Navigating Through the Features of Linksys EA8300: The Ultimate Gateway for Connected Devices</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleash-your-creativity-a-comprehensive-guide-to-jaycut-free-video-editing/"><u>New In 2024, Unleash Your Creativity A Comprehensive Guide to Jaycut Free Video Editing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/sorting-the-skies-of-berk-watch-how-to-train-your-dragon-movies-in-proper-order/"><u>Sorting the Skies of Berk: Watch How to Train Your Dragon Movies in Proper Order!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/oogle-account-integration-for-private-youtube-video-sharing-for-2024/"><u>[New] Google Account Integration for Private YouTube Video Sharing for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spectacular-4k-tvs-nine-picks-for-exceptional-color-fidelity/"><u>[New] Spectacular 4K TVs Nine Picks for Exceptional Color Fidelity</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-printer-not-connected-quickly-and-easily/"><u>[Solved] Printer Not Connected | Quickly & Easily</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-voice-logging-access-and-evaluation/"><u>[Updated] In 2024, Voice Logging Access & Evaluation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-art-of-interaction-in-online-google-meet-spaces/"><u>[Updated] The Art of Interaction in Online Google Meet Spaces</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-video-creators-guide-to-igtv-and-youtube-finding-the-right-fit/"><u>2024 Approved The Video Creator’s Guide to IGTV & YouTube Finding the Right Fit</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/debugging-made-easy-8-solutions-to-correct-parsing-mistakes-on-android/"><u>Debugging Made Easy: 8 Solutions to Correct Parsing Mistakes on Android</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722995771306-diablo-stability-issues-now-solved-and-discussed/"><u>Diablo Ⅲ Stability Issues: Now Solved and Discussed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-most-popular-and-effective-samsung-smart-tv-apps-of-2e-upgrade-your-home-cinema-now/"><u>Discover the Most Popular and Effective Samsung Smart TV Apps of 2E – Upgrade Your Home Cinema Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-video-description-crafting-and-attaching-captions-for-insta-stories/"><u>DIY Video Description: Crafting and Attaching Captions for Insta Stories</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/efficiently-plan-your-twitter-content-with-these-posting-tips/"><u>Efficiently Plan Your Twitter Content with These Posting Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-review-on-apples-newest-streaming-device-apple-tv-hd-series-3-4k/"><u>Expert Review on Apple's Newest Streaming Device - Apple TV HD Series 3 4K</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-features-and-capabilities-of-the-telegram-chat-app/"><u>Exploring the Features and Capabilities of the Telegram Chat App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-reasons-driving-the-switch-to-ev-technology/"><u>Exploring the Reasons Driving the Switch to EV Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spectacular-screens-7-premium-photo-editing-tools/"><u>Spectacular Screens 7 Premium Photo Editing Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-repair-dvdcdbd-drives-stuck-on-closed-position/"><u>Step-by-Step Solutions to Repair DVD/CD/BD Drives Stuck on Closed Position</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-assessment-of-the-nokia-xprite-7-delivering-premium-experience-on-a-budget/"><u>The Ultimate Assessment of the Nokia Xprite 7: Delivering Premium Experience on a Budget</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-time-lapse-magic-configuring-iphone-camera-for-auto-shooting/"><u>Unlock Time-Lapse Magic: Configuring iPhone Camera for Auto Shooting</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209839929-what-is-xinput13dll-and-what-to-do-when-its-missing/"><u>What Is XINPUT1_3.dll (and What to Do When It’s Missing)</u></a></li>
 </ul></div>
 

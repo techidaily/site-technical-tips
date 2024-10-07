@@ -1,7 +1,7 @@
 ---
 title: "Crafting Personalized Mac Focus Filters in Monterey: Strategies for Minimizing Interruptions | ZDNet"
-date: 2024-09-25T00:36:02.449Z
-updated: 2024-10-02T02:41:34.504Z
+date: 2024-10-04T16:39:55.946Z
+updated: 2024-10-07T20:46:51.194Z
 tags:
   - apple
 categories:
@@ -29,10 +29,10 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -40,10 +40,10 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -55,10 +55,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -68,6 +68,13 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -98,13 +105,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -148,24 +148,21 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-navigating-inter-service-playlist-shuffling-with-ease/"><u>[New] 2024 Approved Navigating Inter-Service Playlist Shuffling with Ease</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-cut-to-perfection-premier-android-editing-software/"><u>[New] In 2024, Cut to Perfection Premier Android Editing Software</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-dimensions-and-edits-the-imovie-crop-enigma/"><u>[New] In 2024, Dimensions and Edits The iMovie Crop Enigma</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-easy-screenshot-methods-for-mac-users-for-2024/"><u>[Updated] Easy Screenshot Methods for Mac Users for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-shortcuts-to-turn-off-instagrams-igtv-for-2024/"><u>[Updated] Shortcuts to Turn Off Instagram's IGTV for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connecting-with-snapchat-customer-service-best-practices-and-methods/"><u>Connecting with Snapchat Customer Service: Best Practices and Methods</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/conversione-rapida-e-di-alta-qualita-da-mkv-a-mp4-senza-perdite/"><u>Conversione Rapida E Di Alta Qualità Da MKV a MP4 Senza Perdite</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/googles-platform-unveiled-for-professional-podcasters-for-2024/"><u>Google's Platform Unveiled for Professional Podcasters for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-repair-your-wireless-connection-10-effective-methods-for-fixing-ap-or-adapter-problems/"><u>How To Repair Your Wireless Connection: 10 Effective Methods for Fixing AP or Adapter Problems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-lava-blaze-2-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Lava Blaze 2 Pro FRP In 3 Different Ways</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/insta-fame-blueprint-10-proven-strategies-for-a-viral-sensation/"><u>Insta-Fame Blueprint: 10 Proven Strategies for a Viral Sensation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-there-a-roblox-outage-or-could-connectivity-problems-be-causing-gameplay-disruption/"><u>Is There a Roblox Outage, or Could Connectivity Problems Be Causing Gameplay Disruption?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-hype-a-closer-look-at-announcements-for-googles-next-big-occasion/"><u>Navigating the Hype: A Closer Look at Announcements for Google’s Next Big Occasion</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fix-guide-synchronize-your-ps4-dualshock-with-effortless-steps/"><u>Quick Fix Guide: Synchronize Your PS4 DualShock with Effortless Steps</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-6-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 6 Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/spotlight-must-see-lgbtqplus-tv-shows-currently-available-on-netflix/"><u>Spotlight: Must-See LGBTQ+ TV Shows Currently Available on Netflix</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-8-best-mobile-games/"><u>The 8 Best Mobile Games</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-blogging-essentials-choosing-the-best-cameras-and-lenses/"><u>Video Blogging Essentials Choosing the Best Cameras and Lenses</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/which-models-of-the-ipad-come-pre-enabled-with-gps-functionality/"><u>Which Models of the iPad Come Pre-Enabled With GPS Functionality?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-from-novice-to-pro-an-extensive-guide-to-capturing-top-notch-audio-on-zoom/"><u>[Updated] 2024 Approved From Novice to Pro An Extensive Guide to Capturing Top-Notch Audio on Zoom</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-the-market-essential-youtube-finance-channels/"><u>[Updated] Mastering the Market Essential YouTube Finance Channels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-perfecting-screen-magnification-techniques-on-ms-teams/"><u>[Updated] Perfecting Screen Magnification Techniques on MS Teams</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-online-exposure-on-youtube-by-keeping-up-creative-commons-usage/"><u>2024 Approved Maximizing Online Exposure on YouTube by Keeping Up Creative Commons Usage</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/25-top-free-tips-to-stream-online-learning-events-effectively/"><u>25 Top Free Tips to Stream Online Learning Events Effectively</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bring-out-the-best-in-your-hp-laserjet-on-win11/"><u>Bring Out the Best in Your HP Laserjet on Win11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-viral-videos-to-goodbye-closing-your-tiktok-account-securely/"><u>From Viral Videos to Goodbye: Closing Your TikTok Account Securely</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-insert-a-line-in-word/"><u>How to Insert a Line in Word</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-f25-pro-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Oppo F25 Pro 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/inquiring-the-internets-intelligence-assessing-feed-preferences/"><u>Inquiring the Internet's Intelligence: Assessing Feed Preferences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/managing-icloud-photo-deletion-while-retaining-copies-on-your-iphone-device/"><u>Managing iCloud Photo Deletion While Retaining Copies On Your iPhone Device</u></a></li>
+<li><a href="https://article-files.techidaily.com/optimal-zoom-techniques-for-efficient-skype-communication-for-2024/"><u>Optimal Zoom Techniques for Efficient Skype Communication for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-solutions-reinstating-original-configurations-in-samsung-soundbars/"><u>Simple Solutions: Reinstating Original Configurations in Samsung Soundbars</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplify-purchases-a-step-by-step-tutorial-for-using-apple-pay-feature-on-the-apple-watch/"><u>Simplify Purchases: A Step-by-Step Tutorial for Using Apple Pay Feature on the Apple Watch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-tips-for-pinning-live-chats-on-your-instagram-profile/"><u>Top Tips for Pinning Live Chats on Your Instagram Profile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-a-new-world-of-sound-the-top-15-movies-featuring-dolby-atmos-technology-perfect-for-in-home-enjoyment/"><u>Unlock a New World of Sound: The Top 15 Movies Featuring Dolby Atmos Technology, Perfect for In-Home Enjoyment</u></a></li>
 </ul></div>
 

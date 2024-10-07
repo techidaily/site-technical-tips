@@ -1,7 +1,7 @@
 ---
 title: "Costly Constraints: Understanding Apple's Newest AI Exclusions for Legacy iPhones - An In-Depth Analysis"
-date: 2024-09-25T04:00:11.838Z
-updated: 2024-10-02T12:16:40.752Z
+date: 2024-09-30T16:42:27.193Z
+updated: 2024-10-07T18:22:01.980Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What does Apple Intelligence do?
 
 Apple
@@ -61,13 +54,6 @@ Some of the biggest AI features from Apple Intelligence include:
 Aside from these AI features, iOS 18 will include new customizable icons and interface updates for Control Center, Settings, and Messages. Apple is also launching a new [Passwords app](https://www.zdnet.com/article/apple-to-unveil-password-manager-app-at-wwdc-2024-what-it-is-and-how-it-works/) to replace the iCloud Keychain and give users a more user-friendly option, similar to 1Password and LastPass.
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
 
@@ -97,13 +83,6 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How does systemwide AI text generation work?
 
 Apple
@@ -116,6 +95,13 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is Image Playground?
 
 Apple
@@ -127,6 +113,13 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -141,10 +134,10 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -177,6 +170,13 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -218,20 +218,17 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-live-stream-frontier-deciding-between-obs-and-twitch-space/"><u>[New] In 2024, Live Stream Frontier Deciding Between OBS and Twitch Space</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-best-youtube-banner-size-and-channel-art-dimension-the-ultimate-guide/"><u>[Updated] Best YouTube Banner Size and Channel Art Dimension (The Ultimate Guide)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-5-choice-of-online-meeting-recorder-gadgets-for-2024/"><u>[Updated] Ultimate 5 Choice of Online Meeting Recorder Gadgets for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-free-mov-video-editing-software-for-2024/"><u>Best Free MOV Video Editing Software for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-task-execution-with-these-4-powerful-chatgpt-methods/"><u>Enhance Task Execution with These 4 Powerful ChatGPT Methods</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722869221610-explore-the-best-and-brightest-imessage-games-of-2024/"><u>Explore the Best and Brightest iMessage Games of 2024!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-these-top-12-gratis-typewriting-classes-designed-just-right-for-any-ages/"><u>Explore These Top 12 Gratis Typewriting Classes Designed Just Right for Any Ages!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuito-conversor-de-imagens-para-videos-ao-vivo-formato-mp4-m2v-e-mpeg-movavi/"><u>Gratuito Conversor De Imagens Para Vídeos Ao Vivo: Formato MP4, M2V E MPEG - Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-infinix-note-30-vip-racing-edition-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Infinix Note 30 VIP Racing Edition Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-vivo-y100a-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Vivo Y100A without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/july-2024s-choice-the-best-13-hard-drive-testing-applications-for-free/"><u>July 2024'S Choice: The Best 13 Hard Drive Testing Applications for Free</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reviving-the-search-in-windows-11-top-tips-for-a-smooth-experience/"><u>Reviving the Search in Windows 11: Top Tips for a Smooth Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-must-watch-uk-series-streaming-on-netflix-today/"><u>Top 5 Must-Watch UK Series Streaming On Netflix Today</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/whos-been-peeking-discover-how-to-monitor-who-views-your-google-doc-files/"><u>Who's Been Peeking? Discover How to Monitor Who Views Your Google Doc Files</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-creating-captivating-content-for-instagram/"><u>[New] 2024 Approved Creating Captivating Content for Instagram</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fastest-mobile-apps-for-speeding-up-sound-tracks/"><u>[New] Fastest Mobile Apps for Speeding Up Sound Tracks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-techniques-for-superior-pics-free-of-charge/"><u>2024 Approved Harnessing Techniques for Superior Pics, Free of Charge</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-sites-to-enjoy-music-vids-our-top-picks/"><u>Discover the Ultimate Sites to Enjoy Music Vids - Our Top Picks</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6 Plus without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-essential-virtual-reality-cinema-experiences/"><u>In 2024, Essential Virtual Reality Cinema Experiences</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do I Stop Someone From Tracking My Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-unveiling-top-rated-video-recorders-for-windows/"><u>In 2024, Unveiling Top-Rated Video Recorders for Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-fix-for-missing-ssleay3-32dll-error-a-step-by-step-solution-guide/"><u>The Ultimate Fix for Missing 'ssLeay3 32.dll' Error: A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-issues-when-mozilla-thunderbird-wont-launch/"><u>Troubleshooting Steps: Resolving Issues When Mozilla Thunderbird Won't Launch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-youtube-stardom-the-8-essential-tactics-to-go-viral-with-your-content/"><u>Unlocking YouTube Stardom: The 8 Essential Tactics to Go Viral with Your Content</u></a></li>
 </ul></div>
 

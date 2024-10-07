@@ -1,7 +1,7 @@
 ---
 title: "Apple MacBook Air Face-Off: Is It Time to Upgrade From M2 to the Latest M3 Chip?"
-date: 2024-09-28T04:55:30.413Z
-updated: 2024-10-02T15:50:53.750Z
+date: 2024-10-02T16:45:34.644Z
+updated: 2024-10-07T22:40:51.213Z
 tags:
   - apple
 categories:
@@ -46,13 +46,6 @@ But if you have the M1 MacBook Pro, the question of upgrading becomes a little t
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the M1 MacBook Pro if...
 
 Jason Cipriani/ZDNET
@@ -64,13 +57,6 @@ While you might expect the newest device to have the [better battery life](https
 **Also: [MacBook Pro vs MacBook Air: How to decide which Apple laptop to buy](https://www.zdnet.com/article/macbook-air-vs-macbook-pro-how-to-decide-which-apple-laptop-to-buy/)**
 
 Now, it's worth noting that most people do use their MacBooks plugged in, and going more than half a day without access to an outlet is pretty rare. But, in the event that you often find yourself in situations where a power supply isn't readily available and you work very long days, the M1 should be your choice. This is, of course, by Apple's numbers.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  2\. You're doing mostly web-based work or don't need the absolute fastest option
 
@@ -88,6 +74,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  3\. You prefer a smaller overall size and touch bar
 
 The M1 and M2 versions of the MacBook Pro had a 13-inch option, but that choice is missing from the M3\. So, if you prefer a smaller layout for your MacBook, you'll want to look to the M1\. Perhaps the bigger loss here, though, is the [touch bar](https://www.zdnet.com/article/apple-finally-admits-it-made-a-mistake-and-backtracks-on-three-foolish-macbook-pro-design-decisions/), which is no longer available on any M3 model. While most people weren't fans of the touch bar, which was essentially an OLED strip of buttons that changed depending on context, it still had its core users. Are you one of them?
@@ -95,10 +88,10 @@ The M1 and M2 versions of the MacBook Pro had a 13-inch option, but that choice 
 [Buy the M1 MacBook Pro View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-14-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQWSQK7%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caa003a5d-2fbe-4f3c-aafd-87bf6b8f53fe%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the M3 MacBook Pro if...
@@ -112,10 +105,10 @@ Jason Hiner/ZDNET
 One of the biggest differences between the M1 and the M3 is the overall brightness. For SDR content, the M1 tops out at 500 nits while the M3 triples that with 1,600 nits. In a standard office environment, the former would be just fine. But in a sunny outdoor environment or a very bright indoor setting, this is going to be a noticeable difference. There are some third-party apps that let you increase the screen brightness of the M1, but if you want the best brightness, you'll need to get the newest device.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You're doing very intensive or time-sensitive tasks
@@ -131,6 +124,13 @@ If you're working in a very fast-paced environment (say, live sports or entertai
 It's been almost three years since Apple launched its M1-powered systems, so the chances of you finding one in brand-new condition today are rare. Instead, the fresher MacBook Pro with M3 chip is guaranteed to be available at your local Apple store, third-party retailers, and more. You can also expect [better deals on the M3 model](https://www.zdnet.com/article/buy-a-new-macbook-pro-with-m3-pro-chip-for-200-off-right-now/) going into the holiday shopping season. For the M1, it's buying a second-hand device or keeping your fingers crossed that somewhere on the internet is still selling one in pristine condition.
 
 [Buy the MacBook Pro M3 View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5KC8X7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caa003a5d-2fbe-4f3c-aafd-87bf6b8f53fe%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -166,22 +166,20 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-golden-threshold-of-youtubes-monetization-for-2024/"><u>[Updated] The Golden Threshold of YouTube's Monetization for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/anticipate-more-details-for-the-upcoming-samsung-galaxy-z-fold-6-pricing-structure-release-calendar-and-hardware-specs-revealed/"><u>Anticipate More Details for the Upcoming Samsung Galaxy Z Fold 6: Pricing Structure, Release Calendar & Hardware Specs Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/clearing-up-troubles-with-missing-or-lost-mfc42dll-files-on-your-computer/"><u>Clearing Up Troubles with Missing or Lost mfc42.dll Files on Your Computer</u></a></li>
-<li><a href="https://win-top.techidaily.com/conversion-facile-et-gratuite-de-fichiers-3gp-en-format-mpeg-sur-le-web-service-gratuit-par-movavi/"><u>Conversion Facile Et Gratuite De Fichiers 3GP en Format MPEG Sur Le Web - Service Gratuit Par Movavi</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/craft-a-masterpiece-techniques-for-engaging-viral-tiktok-unpacks-for-2024/"><u>Craft a Masterpiece Techniques for Engaging, Viral TikTok Unpacks for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-magic-mouse-repair-a-step-by-step-guide-for-smooth-tracking/"><u>DIY Magic Mouse Repair: A Step-by-Step Guide for Smooth Tracking</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-summer-edc-list-7-indispensable-items-for-day-trips/"><u>Essential Summer EDC List: 7 Indispensable Items for Day Trips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-how-to-take-off-and-install-a-new-glass-guard-for-your-cellphone/"><u>Expert Advice: How to Take Off and Install a New Glass Guard for Your Cellphone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Asus ROG Phone 8? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-obs-broadcasting-directly-on-instagram/"><u>In 2024, OBS Broadcasting Directly on Instagram</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/learning-from-big-tech-hiccups-the-need-for-diverse-solutions-in-public-sector-it-infrastructure/"><u>Learning From Big Tech Hiccups: The Need for Diverse Solutions in Public Sector IT Infrastructure</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-free-m4a-editing-solutions-top-5-software/"><u>New 2024 Approved Free M4A Editing Solutions Top 5 Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/nintendo-switch-setup-made-simple-connecting-your-handheld-to-the-big-screen/"><u>Nintendo Switch Setup Made Simple: Connecting Your Handheld to the Big Screen</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/secrets-of-windows-10-effortless-media-importation-methods/"><u>Secrets of Windows 10 Effortless Media Importation Methods</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/showcase-every-detail-how-to-successfully-share-large-photos-on-instagram/"><u>Showcase Every Detail: How to Successfully Share Large Photos on Instagram</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-ultimate-guide-to-creating-click-enticing-youtube-thumbnails/"><u>The Ultimate Guide to Creating Click-Enticing YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-making-sense-of-virtual-realitys-promise-and-peril/"><u>[New] 2024 Approved Making Sense of Virtual Reality's Promise and Peril</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-breathe-life-into-your-reel-tips-for-perfect-slow-motion-for-2024/"><u>[New] Breathe Life Into Your Reel Tips for Perfect Slow Motion for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/echoing-giggles-ultimate-ringtone-vaults/"><u>Echoing Giggles Ultimate Ringtone Vaults</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-missing-wininetdll-error-fixes/"><u>Effective Solutions for Missing Wininet.dll Error Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-guide-to-d-link-default-passwords-new-update-jul-2024/"><u>Essential Guide to D-Link Default Passwords – New Update (Jul 2024)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-a1x-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo A1x 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-y27-4g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo Y27 4G PC | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-exercise-management-apps-your-ultimate-guide-to-stay-on-top/"><u>Leading Exercise Management Apps: Your Ultimate Guide to Stay on Top</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-convenience-setting-up-seamless-sign-in-for-windows-users/"><u>Mastering Convenience: Setting Up Seamless Sign-In for Windows Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/streamlined-techniques-for-discovering-highly-engaged-youtube-remarks-for-2024/"><u>Streamlined Techniques for Discovering Highly Engaged YouTube Remarks for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-x-fold-2-by-drfone-android/"><u>Universal Unlock Pattern for Vivo X Fold 2</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-entertainment-the-ultimate-list-of-8-favourite-free-roku-services/"><u>Unlock Entertainment: The Ultimate List of 8 Favourite Free Roku Services</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-a-comprehensive-guide-on-securing-your-microsoft-education-offer/"><u>Unlocking the Secrets: A Comprehensive Guide on Securing Your Microsoft Education Offer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/updated-august-2024-your-ultimate-resource-for-d-link-default-login-credentials/"><u>Updated August 2024: Your Ultimate Resource for D-Link Default Login Credentials</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Itel P55+ | Dr.fone</u></a></li>
 </ul></div>
 

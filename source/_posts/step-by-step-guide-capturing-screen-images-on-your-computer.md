@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Capturing Screen Images on Your Computer"
-date: 2024-09-16T20:48:18.481Z
-updated: 2024-09-20T21:50:49.864Z
+date: 2024-09-30T20:11:11.332Z
+updated: 2024-10-07T17:01:42.907Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Capturing Screen Images on Your Computer"
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 * **Win** +**Shift** +**S** lets you pick a window or section of the screen.
 
  This article explains all the different ways to make Windows 11 screenshots.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use PrtScn to Screenshot the Whole Screen
 
@@ -61,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
@@ -76,16 +83,10 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Delayed Screenshots With Snipping Tool
@@ -95,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
  Taking screenshots of open menus and other areas of Windows can sometimes be difficult if triggering the screenshot breaks whatever it is you're doing. Snipping Tool has a timed screenshot option, so you can do what you need to and then wait for the screenshot to happen automatically, hands-free.
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
 
@@ -140,5 +148,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-navigating-video-uploads-on-social-platforms/"><u>[Updated] In 2024, Navigating Video Uploads on Social Platforms</u></a></li>
+<li><a href="https://techidaily.com/beginners-guide-setting-up-your-pc-with-a-gaming-wheel-for-an-immersive-experience/"><u>Beginner's Guide: Setting Up Your PC With A Gaming Wheel For An Immersive Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-guide-to-scooping-up-hot-deals-top-18-laptops-at-great-prices-during-prime-day-featuring-hp-apple-and-razer-on-zdnet/"><u>Discover the Ultimate Guide to Scooping Up Hot Deals: Top 18 Laptops at Great Prices During Prime Day | Featuring HP, Apple, and Razer on ZDNET!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enabling-and-utilizing-apples-imessage-feature-for-windows-users-a-step-by-step-tutorial/"><u>Enabling and Utilizing Apple's iMessage Feature for Windows Users - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-the-scoop-on-apples-latest-rumored-touchscreen-macbook-price-estimates-and-speculated-specifications-inside/"><u>Get the Scoop on Apple's Latest Rumored Touchscreen MacBook - Price Estimates and Speculated Specifications Inside!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-performance-low-cost-storage-comprehensive-review-of-the-hatdrive-nano-ssd-for-pi-enthusiasts/"><u>High-Performance, Low-Cost Storage: Comprehensive Review of the HatDrive! Nano SSD for Pi Enthusiasts</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-enhances-video-production-with-apples-new-final-cut-feature/"><u>IPhone Enhances Video Production with Apple's New 'Final Cut' Feature</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/presidents-day-specials-continue-find-the-latest-deals-at-major-retailers-like-amazon-and-walmart-zdnet-insights/"><u>President's Day Specials Continue! Find the Latest Deals at Major Retailers Like Amazon and Walmart | Zdnet Insights</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-3d-video-production-made-easy-top-free-and-paid-tools/"><u>Updated In 2024, 3D Video Production Made Easy Top Free and Paid Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723010174955-use-smaller-brushes-for-fine-details-like-lines-dots-or-small-shapes/"><u>Use Smaller Brushes for Fine Details Like Lines, Dots, or Small Shapes.</u></a></li>
+</ul></div>
 

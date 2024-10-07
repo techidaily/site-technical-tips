@@ -1,7 +1,7 @@
 ---
 title: "Thousands Embrace Apple's Latest Offering: Comprehensive Artificnial Intelligence Training Program | ZDNet"
-date: 2024-09-29T00:37:38.973Z
-updated: 2024-10-02T08:21:52.903Z
+date: 2024-10-06T17:23:38.288Z
+updated: 2024-10-07T21:22:43.759Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What does Apple Intelligence do?
 
 Apple
@@ -62,6 +55,13 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -79,10 +79,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -122,10 +122,10 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -156,6 +156,13 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -170,13 +177,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -218,20 +218,17 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-reel-in-attention-by-emulating-tiktok-stardom-on-instagram/"><u>[New] In 2024, Reel In Attention by Emulating TikTok Stardom on Instagram</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-insight-into-highlighted-video-discussion-threads/"><u>[Updated] 2024 Approved Insight Into Highlighted Video Discussion Threads</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-vidma-to-go-screen-record-and-beyond-alternatives/"><u>[Updated] 2024 Approved Vidma to Go Screen Record and Beyond Alternatives</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-say-goodbye-to-boring-photos-addons-for-iphones-and-android-screenshots/"><u>[Updated] Say Goodbye to Boring Photos – Addons for iPhones and Android Screenshots</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-app-to-track-your-games-journeys/"><u>Best App to Track Your Games' Journeys</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/choosing-the-best-xr-experience-top-vs-reviews-of-vision-pro-and-competitors-by-zdnets-chief-gadgeteer/"><u>Choosing the Best XR Experience? Top Vs-Reviews of Vision Pro and Competitors by ZDNet's Chief Gadgeteer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhance-your-meta-quest-3-experience-with-apples-revolutionary-3d-spatial-video-tutorial-discover-the-easy-steps-on-zdnet/"><u>Enhance Your Meta Quest 3 Experience with Apple's Revolutionary 3D Spatial Video Tutorial: Discover the Easy Steps on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-enhancements-for-apple-vision-pros-success-a-strategic-guide-from-zdnet/"><u>Essential Enhancements for Apple Vision Pro's Success: A Strategic Guide From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-analysis-on-apples-expensive-vision-pro-glasses-user-opinions-and-reviews-of-the-high-end-ar-device/"><u>Expert Analysis on Apple's Expensive Vision Pro Glasses: User Opinions & Reviews of the High-End AR Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-corporations-pioneering-the-future-of-the-metaverse-insights-from-zdnet/"><u>Exploring Corporations Pioneering the Future of the Metaverse: Insights From ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-xiaomi-redmi-12-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Xiaomi Redmi 12 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/meta-unveils-pro-style-vr-gadget-incorporating-apples-infamous-capabilities-zdnet-insights/"><u>Meta Unveils Pro-Style VR Gadget, Incorporating Apple's Infamous Capabilities | ZDNet Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-intersection-of-reality-and-illusion-through-ar-for-2024/"><u>The Intersection of Reality and Illusion Through AR for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-10-essential-educational-apps-every-teen-should-have/"><u>Top 10 Essential Educational Apps Every Teen Should Have</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/when-virtuality-overwhelms-the-real-world-exploring-the-impact-of-apples-arvr-devices-zdnet/"><u>When Virtuality Overwhelms the Real World: Exploring the Impact of Apple's AR/VR Devices | ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-reels-rhythm-mixing-in-musical-elements/"><u>[New] In 2024, Instagram Reels Rhythm Mixing in Musical Elements</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-creating-time-bending-hyperlapse-films/"><u>[Updated] Creating Time-Bending Hyperlapse Films</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-building-interactive-elements-a-guide-to-html-input-fields/"><u>2024 Approved Building Interactive Elements A Guide to HTML Input Fields</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/6-from-just-599/"><u>6 - From Just $599</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/error-free-operation-a-step-by-step-guide-to-resolving-the-device-wont-start-problem-including-code-10-mishaps/"><u>Error-Free Operation: A Step-by-Step Guide to Resolving the 'Device Won't Start' Problem, Including Code 10 Mishaps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-performance-lags-in-avatar-frontiers-of-pandora-tips-and-tricks-for-smooth-gaming/"><u>Fixing Performance Lags in 'Avatar: Frontiers of Pandora': Tips and Tricks for Smooth Gaming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-elegant-volume-attenuation-using-lumafusion/"><u>In 2024, Elegant Volume Attenuation Using Lumafusion</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-14-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Xiaomi 14 FRP Locks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-converters-handbook-from-srt-to-multiple-formats/"><u>In 2024, Ultimate Converter's Handbook From SRT to Multiple Formats</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/restoring-your-facebook-steps-to-bring-back-dark-mode/"><u>Restoring Your Facebook: Steps to Bring Back Dark Mode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revealing-why-electric-vehicles-excel-in-performance-against-gasoline-models/"><u>Revealing Why Electric Vehicles Excel in Performance Against Gasoline Models</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-troubleshooting-guide-reconnecting-your-stadia-headset/"><u>Ultimate Troubleshooting Guide: Reconnecting Your Stadia Headset</u></a></li>
 </ul></div>
 

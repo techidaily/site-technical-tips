@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reports: Apple's Unwavering Tight Hold Over iPhones Spark Debate Across Europe"
-date: 2024-09-27T21:58:05.118Z
-updated: 2024-10-02T12:17:01.069Z
+date: 2024-10-02T20:13:42.910Z
+updated: 2024-10-07T20:59:09.378Z
 tags:
   - apple
 categories:
@@ -45,16 +45,16 @@ But before we get ahead of ourselves, let's dive into all the differences and he
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 14 Pro if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  1\. You want the cheaper option
 
@@ -63,6 +63,19 @@ Shortly after Apple announced the iPhone 15 lineup, iPhone 14 prices saw a deep 
 **Review: [iPhone 15 Pro: Coming from iPhone 12 Pro or earlier? This upgrade will wow you](https://www.zdnet.com/article/iphone-15-pro-review/)**
 
 However, Apple typically discontinues last year's Pro models shortly after announcing a new iPhone lineup to avoid interference with the new iPhone's sales. So, if you want to buy an iPhone 14 Pro, you'll have to consult other vendors like Amazon, Best Buy, or your cell service provider while supplies last.
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  2\. You're not ready to give up your Lightning cable(s)
 
@@ -92,16 +105,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 15 Pro if...
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  1\. You just have to have the Action Button
 
@@ -111,13 +130,6 @@ The Action Button, first introduced on the [Apple Watch Ultra](https://www.zdnet
 
 You can toggle between actions that can interact with Dynamic Island, like Voice Memos and Camera, and run shortcuts created in the Shortcuts app. Instead of a switch, the iPhone 15 Pro's Action Button looks like the volume up and down buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. You want USB-C charging
 
 The iPhone 15 Pro is in the first generation of iPhones to utilize USB-C charging. The USB-C charging port is very common among almost all non-Apple consumer tech products, so if you have a non-Apple tablet, pair of headphones, or smartwatch, chances are you have a small collection of USB-C cables.
@@ -125,6 +137,13 @@ The iPhone 15 Pro is in the first generation of iPhones to utilize USB-C chargin
 **Also:** [**iPhone 15 review: I spent a month with Apple's base model and found it more 'Pro' than ever**](https://www.zdnet.com/article/iphone-15-plus-review/)
 
 Additionally, the iPhone 15 USB-C cables are color-coordinated with the iPhone color you purchase. So, not only do you now have universal charging, but you also have a matching cable. Cute.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  3\. You want better performance
 
@@ -136,13 +155,6 @@ Couple the new chip with increased RAM, and iPhone 15 Pro users should experienc
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How much better is the iPhone 15 Pro camera?
 
 The iPhone 15 Pro has an upgraded main camera with a larger sensor than the iPhone 14 Pro. Both phones share the same 48MP pixel count, but iPhone 15 Pro users can change the camera's focal length, choosing from 24, 28, or 25mm options. A camera's focal length dictates how much of the surrounding scene your camera captures.
@@ -152,10 +164,16 @@ The iPhone 15 Pro also has improved computational photography features, specific
 Additionally, users can change a picture's subject after taking a photo. If there are two subjects in a photo, iPhone 15 Pro users can decide which subject should be in the foreground and which should be in the background.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will the iPhone 15 Pro fit in iPhone 14 Pro cases?
@@ -216,17 +234,24 @@ If you trade in your device with your mobile carrier, you won't receive a refund
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://technical-tips.techidaily.com/spider-man-no-way-home-online-viewing-options-where-and-how-to-start-streaming/"><u>'Spider-Man: No Way Home' Online Viewing Options – Where and How to Start Streaming</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-ditching-the-undesired-backdrop-the-path-less-cluttered/"><u>[New] Ditching the Undesired Backdrop The Path Less Cluttered</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-unlocking-the-power-of-your-everyday-webcam/"><u>[New] In 2024, Unlocking the Power of Your Everyday Webcam</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-unlocking-success-with-instagrams-business-platform-for-2024/"><u>[New] Unlocking Success with Instagram's Business Platform for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-10-best-desktop-and-online-gif-tools-ranked/"><u>[Updated] In 2024, 10 Best Desktop & Online GIF Tools Ranked</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-the-art-of-crafting-an-engaging-facebook-biography-in-under-157-characters-for-2024/"><u>[Updated] The Art of Crafting an Engaging Facebook Biography in Under 157 Characters for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-conquer-iphone-photography-by-perfecting-motion-capture/"><u>2024 Approved Conquer iPhone Photography by Perfecting Motion Capture</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/android-troubleshooting-tips-addressing-the-problem-of-undelivered-texts/"><u>Android Troubleshooting Tips: Addressing the Problem of Undelivered Texts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-techniques-to-correctly-address-haldll-errors-on-various-windows-platforms/"><u>Effective Techniques to Correctly Address Hal.dll Errors on Various Windows Platforms</u></a></li>
-<li><a href="https://solve-news.techidaily.com/live-streaming-with-manycam-top-software-and-online-camera-alternatives/"><u>Live Streaming with ManyCam: Top Software and Online Camera Alternatives</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-pc-accessibility-of-googles-voice-controlled-assistant-via-mobile-applications/"><u>Mastering PC Accessibility of Google's Voice-Controlled Assistant via Mobile Applications</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-your-workflows-microsoft-to-do-plus-ifttt/"><u>Streamline Your Workflows: Microsoft To-Do + IFTTT</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-top-8-techniques-for-grabbing-attention-in-yt-thumbnails/"><u>[New] In 2024, Top 8 Techniques for Grabbing Attention in YT Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-5-tips-to-get-more-views-with-youtube-optimization-free-checklist/"><u>[Updated] 2024 Approved 5 Tips to Get More Views with YouTube Optimization [Free Checklist]</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-exploring-high-res-videography-with-nikon-j5/"><u>[Updated] Exploring High-Res Videography with Nikon J5</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-process-to-master-color-grading-with-luts-in-pscc/"><u>2024 Approved Step-by-Step Process to Master Color Grading with LUTs in PSCC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-correcting-critical-errors-within-directx-systems/"><u>Diagnosing and Correcting Critical Errors Within DirectX Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eliminar-ruido-de-video-com-eficiencia-um-guia-sobre-as-quatro-ferramentas-mais-importantes-para-profissionais-de-multimidia/"><u>Eliminar Ruído De Vídeo Com Eficiência - Um Guia Sobre as Quatro Ferramentas Mais Importantes Para Profissionais De Multimídia</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-world-of-streaming-gadgets-what-are-they-and-how-do-they-work/"><u>Exploring the World of Streaming Gadgets: What Are They and How Do They Work?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-error-0x80070570-expert-guide-to-restoring-your-data-flow/"><u>Fixing Error 0X80070570: Expert Guide to Restoring Your Data Flow</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y100a-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-your-facebooks-lost-dark-mode-a-step-by-step-guide/"><u>Reviving Your Facebook's Lost Dark Mode: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-discovering-your-bookmarked-instagram-reels-easily/"><u>Step-by-Step Guide: Discovering Your Bookmarked Instagram Reels Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-repair-why-is-my-playstation-5-controller-not-charging/"><u>Step-by-Step Repair: Why Is My PlayStation 5 Controller Not Charging?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-correct-the-drivers-issues-causing-windows-error-code-19/"><u>Step-by-Step Solutions to Correct the Drivers Issues Causing Windows Error Code 19</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-budget-friendly-vfx-resources-your-go-to-guide-for-cost-effective-edits/"><u>Top Budget-Friendly VFX Resources - Your Go-To Guide for Cost-Effective Edits</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-solving-your-subwoofers-unwanted-vibrations/"><u>Ultimate Guide: Solving Your Subwoofer's Unwanted Vibrations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-selection-of-11-uplifting-and-inspiring-movies/"><u>Ultimate Selection of 11 Uplifting and Inspiring Movies</u></a></li>
+<li><a href="https://techidaily.com/understanding-vpn-tunnels-a-comprehensive-guide-to-different-vpn-tunneling-techniques/"><u>Understanding VPN Tunnels: A Comprehensive Guide to Different VPN Tunneling Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-new-generation-the-cutting-edge-ipad-you-need-to-know-about/"><u>Unveiling the New Generation - The Cutting Edge iPad You Need to Know About</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-truthgpt-the-ai-initiative-spearheaded-by-elon-musk/"><u>Unveiling TruthGPT: The AI Initiative Spearheaded by Elon Musk</u></a></li>
 </ul></div>
 

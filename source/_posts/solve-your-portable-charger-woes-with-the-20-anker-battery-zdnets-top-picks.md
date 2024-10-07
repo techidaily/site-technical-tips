@@ -1,7 +1,7 @@
 ---
 title: Solve Your Portable Charger Woes with the $20 Anker Battery - ZDNet's Top Picks!
-date: 2024-09-27T17:52:08.540Z
-updated: 2024-10-01T21:52:24.094Z
+date: 2024-10-05T17:56:56.824Z
+updated: 2024-10-07T21:50:51.660Z
 tags:
   - apple
 categories:
@@ -38,6 +38,13 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 Lipstick-sized charger
 
@@ -64,16 +71,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Impressive charging power for its size
@@ -83,13 +84,6 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 **Also:** [**My everyday Anker power bank has a genius feature that makes it irreplaceable**](https://www.zdnet.com/article/my-everyday-anker-power-bank-has-a-genius-feature-that-makes-it-irreplaceable/)
 
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
 
@@ -104,10 +98,10 @@ Sabrina Ortiz/ZDNET
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -115,10 +109,10 @@ The charger comes in five colors: blue, black, white, green, and pink, matching 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C05074e4d-6a18-4a4a-bea2-d894584cc071%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -155,20 +149,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-scaling-up-content-convert-youtube-to-igtv-for-2024/"><u>[Updated] Scaling Up Content Convert YouTube to IGTV for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-superior-7-streamers-choice-for-videos/"><u>[Updated] Superior 7 Streamer's Choice for Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/bring-back-the-light-solutions-for-gaming-screens-turned-black-with-obs-for-2024/"><u>Bring Back the Light Solutions for Gaming Screens Turned Black with OBS for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/building-brilliance-top-6-minecraft-homes/"><u>Building Brilliance Top 6 Minecraft Homes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connect-to-fm-frequencies-a-users-manual-for-iphones-and-android-phones/"><u>Connect to FM Frequencies: A User's Manual for iPhones and Android Phones</u></a></li>
-<li><a href="https://blog-min.techidaily.com/exklusive-winxdvd-software-losung-dvd-ripper-videoqualitatserhoherer-and-konverter-fur-iphone-datenubertragung-and-filmbearbeitung/"><u>Exklusive WinXDVD Software Lösung – DVD Ripper, Videoqualitätserhöherer & Konverter Für iPhone Datenübertragung & Filmbearbeitung</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-accessing-facetime-on-a-pc-with-windows-operating-system/"><u>Guide: Accessing FaceTime on a PC with Windows Operating System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-address-and-resolve-incorrect-pc-booting-issues/"><u>How to Successfully Address and Resolve Incorrect PC Booting Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/macos-network-troubleshooting-how-to-perform-a-complete-settings-reset/"><u>MacOS Network Troubleshooting: How to Perform a Complete Settings Reset</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigate-to-the-best-uninterruptible-power-supplies-elite-selections/"><u>Navigate to the Best Uninterruptible Power Supplies: Elite Selections</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/samsungs-upcoming-marvel-the-galaxy-z-flip-7-teased-with-potential-cost-launch-window-and-exclusive-specs/"><u>Samsung's Upcoming Marvel: The Galaxy Z Flip 7 Teased with Potential Cost, Launch Window & Exclusive Specs</u></a></li>
-<li><a href="https://fox-http.techidaily.com/speedy-windows-file-checkout-tutorial-for-2024/"><u>Speedy Windows File Checkout Tutorial for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unleash-your-inner-athlete-with-these-10-iconic-sports-movies-streaming-now/"><u>Unleash Your Inner Athlete with These 10 Iconic Sports Movies Streaming Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-toms-gadget-reviews-the-ultimate-guide-to-hardware-innovations/"><u>Unveiling Tom's Gadget Reviews: The Ultimate Guide to Hardware Innovations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/visualize-and-create-with-top-7-innovative-animation-suites/"><u>Visualize & Create with Top 7 Innovative Animation Suites</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-digital-memory-management-saving-snaps-from-social-platforms-for-2024/"><u>[New] Digital Memory Management Saving Snaps From Social Platforms for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategizing-visibility-for-podcasts-through-design/"><u>[New] Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-exploring-the-capabilities-of-toolwiz-a-comprehensive-mobile-review/"><u>2024 Approved Exploring the Capabilities of Toolwiz – A Comprehensive Mobile Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-detailed-walkthrough-for-requesting-a-game-refund-on-steam/"><u>A Detailed Walkthrough for Requesting a Game Refund on Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-unique-screencaps-for-win11/"><u>Crafting Unique Screencaps for Win11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-usb-20-fast-performance-various-cables-and-compatible-connectors/"><u>Demystifying USB 2.0: Fast Performance, Various Cables, and Compatible Connectors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/efficient-solutions-for-the-binkw32dll-file-error-in-your-computer/"><u>Efficient Solutions for the binkw32.dll File Error in Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/embark-on-a-journey-to-windows-insider-program/"><u>Embark on a Journey to Windows Insider Program</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-top-tweets-from-tiktok-stars-a-viral-snapshot/"><u>In 2024, Top Tweets From TikTok Stars A Viral Snapshot</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-with-ease-the-ultimate-list-of-iphones-favorite-gps-apps/"><u>Navigate with Ease: The Ultimate List of iPhone's Favorite GPS Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/pedagogical-pros-ultimate-10-devices-for-lecture-preservation-for-2024/"><u>Pedagogical Pros Ultimate 10 Devices for Lecture Preservation for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-stabilization-solutions-for-iphoneandroiddslr/"><u>Premium Stabilization Solutions for iPhone/Android/DSLR</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-for-non-functional-iphone-mail-app/"><u>Troubleshooting Steps for Non-Functional iPhone Mail App</u></a></li>
 </ul></div>
 

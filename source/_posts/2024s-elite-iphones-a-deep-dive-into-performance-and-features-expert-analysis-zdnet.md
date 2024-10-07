@@ -1,7 +1,7 @@
 ---
 title: "2024'S Elite iPhones: A Deep Dive Into Performance and Features | Expert Analysis | ZDNET"
-date: 2024-09-29T12:23:04.768Z
-updated: 2024-10-02T13:41:36.547Z
+date: 2024-10-06T18:09:11.642Z
+updated: 2024-10-07T20:36:06.995Z
 tags:
   - apple
 categories:
@@ -46,10 +46,10 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -66,13 +66,6 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 | Price        | Starting at $799                                  | Starting at $899                                  |
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
@@ -135,16 +128,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -162,16 +155,16 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 ---
 
 <!-- affiliate ads begin -->
-<span id="1993647">
+<span id="1977023">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -189,6 +182,13 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -224,21 +224,22 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-streaming-facebook-made-easy-pcmaclaptop-tips-and-tricks/"><u>[New] In 2024, Streaming Facebook Made Easy PC/Mac/Laptop Tips and Tricks</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-sifting-through-the-elements-of-instagram-stories/"><u>[New] Sifting Through the Elements of Instagram Stories</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-streaming-success-gamers-software-for-2024/"><u>[Updated] Streaming Success Gamers' Software for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-videos-top-windows-phones-video-apps/"><u>2024 Approved Mastering Videos Top Windows Phones Video Apps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-tale-of-three-ais-facing-the-same-crafted-prompts/"><u>A Tale of Three AI's Facing the Same Crafted Prompts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/beat-the-buzz-effective-techniques-to-quiet-down-your-pcs-loud-cooling-unit/"><u>Beat the Buzz: Effective Techniques to Quiet Down Your PC's Loud Cooling Unit</u></a></li>
-<li><a href="https://driver-download.techidaily.com/comprehensive-guide-to-acquiring-and-refreshing-mbox-2-drivers-on-microsofts-os/"><u>Comprehensive Guide to Acquiring and Refreshing MBox 2 Drivers on Microsoft's OS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722892069182-eliminate-your-missing-d3dx927dll-error-with-these-simple-fixes/"><u>Eliminate Your Missing d3dx9_27.dll Error with These Simple Fixes!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-overcoming-the-0x0000007b-blue-screen-of-death-errors-on-your-pc/"><u>Expert Advice: Overcoming the 0X0000007B Blue Screen of Death Errors on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-textbooks-to-streaming-a-students-roadmap-to-cheaper-youtube-premium-access/"><u>From Textbooks to Streaming: A Student's Roadmap to Cheaper YouTube Premium Access</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-d3dx934dll-is-missing-or-not-found-errors/"><u>How to Fix D3dx9_34.dll Is Missing or Not Found Errors</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-harnessing-hobbies-for-hefty-helpings-on-digital-domains/"><u>In 2024, Harnessing Hobbies for Hefty Helpings on Digital Domains</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722904023352-iphone-users-guide-to-preventing-unwanted-calls-from-private-numbers/"><u>IPhone Users Guide to Preventing Unwanted Calls From Private Numbers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimizing-performance-and-fixing-crashes-in-robocop-the-future-noir-for-pc-players/"><u>Optimizing Performance and Fixing Crashes in 'RoboCop: The Future Noir' For PC Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-your-non-functional-logitech-c920-webcam/"><u>Troubleshooting Guide: Fixing Your Non-Functional Logitech C920 Webcam</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/your-essential-selection-best-free-pdf-manipulation-programs-july-2024/"><u>Your Essential Selection: Best Free PDF Manipulation Programs - July 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-development-and-application-of-vr-shopping-for-2024/"><u>[New] The Development and Application of VR Shopping for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-exploring-video-threads-on-youtube/"><u>[Updated] 2024 Approved Exploring Video Threads on YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-analytics-understanding-metrics-without-fancy-tools/"><u>[Updated] The Art of Analytics Understanding Metrics Without Fancy Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-optimize-tasks-the-8-superior-facebook-schedulers/"><u>2024 Approved Optimize Tasks The 8 Superior Facebook Schedulers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-image-editor-repertoire-for-text-addition/"><u>2024 Approved The Ultimate Image Editor Repertoire for Text Addition</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-infinix-smart-8-plus-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Infinix Smart 8 Plus PC | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/beyond-brand-promotion-real-insights-into-instagram-reels-for-2024/"><u>Beyond Brand Promotion Real Insights Into Instagram Reels for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/essential-tactics-for-elevating-your-facebook-profile-ranks/"><u>Essential Tactics for Elevating Your Facebook Profile Ranks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-quick-screenshots-a-beginners-guide-to-capturing-your-screen-on-windows-8/"><u>Mastering Quick Screenshots: A Beginner's Guide to Capturing Your Screen on Windows 8</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-around-torrent-site-censorship-tips-and-safe-platform-choices/"><u>Navigating Around Torrent Site Censorship: Tips & Safe Platform Choices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimizing-performance-comprehensive-guide-to-smoothing-out-gameplay-glitches-and-stuttering-in-pcs-apex-legends/"><u>Optimizing Performance: Comprehensive Guide to Smoothing Out Gameplay Glitches and Stuttering in PC's Apex Legends</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcome-your-windows-11-hurdle-effective-fixes-for-the-sleep-feature-glitch/"><u>Overcome Your Windows 11 Hurdle: Effective Fixes for the Sleep Feature Glitch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-common-screen-sharing-hurdles-on-zoom-a-2024-guide/"><u>Overcoming Common Screen Sharing Hurdles on Zoom: A 2024 Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-playback-problems-how-to-get-spotify-back-up-and-running-on-your-windows-pc/"><u>Overcoming Playback Problems: How to Get Spotify Back Up and Running on Your Windows PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-guide-to-finding-and-downloading-your-hp-devices-windows-10-drivers/"><u>Quick Guide to Finding and Downloading Your HP Device's Windows 10 Drivers!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-guide-turn-off-driver-signature-protection-in-windows-11-without-hassle/"><u>Quick Guide: Turn Off Driver Signature Protection in Windows 11 Without Hassle!</u></a></li>
+<li><a href="https://discover-help.techidaily.com/top-ranking-free-mp4-converter-tools-and-downloads-effortless-video-format-transformation/"><u>Top-Ranking Free MP4 Converter Tools & Downloads – Effortless Video Format Transformation</u></a></li>
 </ul></div>
 

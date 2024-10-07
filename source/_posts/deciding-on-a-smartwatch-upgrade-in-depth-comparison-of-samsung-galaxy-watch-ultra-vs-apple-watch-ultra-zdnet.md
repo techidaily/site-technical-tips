@@ -1,7 +1,7 @@
 ---
 title: "Deciding on a Smartwatch Upgrade: In-Depth Comparison of Samsung Galaxy Watch Ultra Vs. Apple Watch Ultra | ZDNET"
-date: 2024-09-30T04:40:24.835Z
-updated: 2024-10-01T18:26:13.746Z
+date: 2024-10-02T19:37:17.189Z
+updated: 2024-10-07T22:16:44.267Z
 tags:
   - apple
 categories:
@@ -44,16 +44,16 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the Apple Watch Ultra if…
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. You're ready for a new Apple Watch design
 
@@ -65,13 +65,6 @@ The 49mm housing is also the biggest Apple Watch made to date, and with double t
 
 With a new design comes new bands, as well. There are [three completely new watchband designs](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/), each one designed for different activities such as outdoor adventures, endurance training and water sports. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. You ride, hike or dive… a lot
 
 Speaking of outdoor activities, the Ultra is specifically made for extreme fitness enthusiasts who need longer battery life, a better, brighter display and improved GPS tracking. 
@@ -79,6 +72,13 @@ Speaking of outdoor activities, the Ultra is specifically made for extreme fitne
 Apple touts 36 hours of battery life for the Ultra during normal use, or 60 hours when you activate low power mode. The Ultra is compatible with two different GPS frequencies, L1 and L5, which should provide [accurate and precise location information](https://www.zdnet.com/article/what-is-l5-precision-dual-frequency-gps-why-is-apple-using-it-and-do-you-need-it) regardless of your surroundings. The new compass app will track your route during a hike or bike ride, and then provide waypoints for you to find your way back -- should you get lost. 
 
 Every Apple Watch Ultra comes with LTE capabilities, so as long as you pay your wireless carrier for an additional plan (usually around $10 a month), your watch will always be connected, even if you leave your iPhone behind. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. You need a ruggedized watch
 
@@ -96,13 +96,6 @@ There's even an 86-decibel siren built into the watch should you need emergency 
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. You want a traditional Apple Watch design
 
 If the Apple Watch Ultra's design isn't all that appealing to you, the Apple Watch Series 8 may be the better choice. It uses the same design as the last few Apple Watch models and comes in 41mm and 45mm sizes. On the right side of the aluminum (or steel) housing is the digital crown and side button that's used for navigating the watch. 
@@ -113,6 +106,13 @@ The Series 8 is available in four aluminum colors this year. There's Starlight, 
 
 **See also:** [**New Apple Watch Ultra bands work with other Apple Watch models, too**](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. You're not ready to pay $799 for a watch
 
 The Apple Watch SE is the most affordable watch in Apple's lineup, with models [starting at $249](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-se&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). However, it lacks some of the key health features that the Series 8 and Ultra have -- such as ECG and blood oxygen level monitoring. 
@@ -122,13 +122,6 @@ The Series 8 [starts at $399](https://apple.sjv.io/c/159047/435031/7613?&sharedI
 For $399 you can get a [41mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), or for $429 you can pick up a [45mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Both of those prices are for an aluminum body and lack cellular connectivity. If you want to add cellular capabilities, you'll pay a $100 premium -- bringing the total to $499 and $529, respectively. 
 
 Still, those prices are more affordable than the Ultra's price tag and the Series 8 is sure to last a few years, or at least until Apple stops providing software updates to it. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Don't need all of the extreme outdoor features
 
@@ -141,6 +134,13 @@ The Series 8 is water resistant, as well, and can be used while swimming or even
 **More: [The best Apple Watch models of 2022](https://www.zdnet.com/article/best-apple-watch/)**
 
 [Apple Watch Series 8 $399 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -178,24 +178,14 @@ Open to other Apple Watch prospects? Consider the also-new Apple Watch SE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-prime-filters-for-smooth-streaming-sessions/"><u>[New] 2024 Approved Prime Filters for Smooth Streaming Sessions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-unlocking-whatsapps-secret-capabilities-for-efficiency/"><u>[New] 2024 Approved Unlocking WhatsApp's Secret Capabilities for Efficiency</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-mastering-the-craft-of-youtubers-music-reaction-videos-essentials/"><u>[New] In 2024, Mastering the Craft of Youtubers Music Reaction Videos Essentials</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unveiling-top-techniques-for-vhs-image-transformation/"><u>[Updated] 2024 Approved Unveiling Top Techniques for VHS Image Transformation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-ultimate-easygoing-pc-game-guide/"><u>2024 Approved The Ultimate Easygoing PC Game Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-windows-11-hacks-and-tips/"><u>2024 Approved Ultimate Windows 11 Hacks and Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/airpod-compatibility-can-they-be-connected-to-the-nintendo-switch/"><u>AirPod Compatibility: Can They Be Connected to the Nintendo Switch?</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-cost-vs-benefit-rtx-4090-dilemna/"><u>Evaluating Cost Vs. Benefit: RTX 4090 Dilemna</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-communication-tools-better-than-skype-best-picks-of-2024/"><u>Free Communication Tools Better Than Skype - Best Picks of 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/future-google-pixel-wrist-device-cost-estimates-availability-date-and-hardware-details-gathering-insights/"><u>Future Google Pixel Wrist Device: Cost Estimates, Availability Date & Hardware Details – Gathering Insights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/heartfelt-goodbyes-free-or-subscribed-video-endings-for-2024/"><u>Heartfelt Goodbyes Free or Subscribed Video Endings for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-motorola-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Motorola Lock Screen Password?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-espnplus-explained-a-comprehensive-look-at-how-it-revolutionizes-sports-viewing/"><u>Navigating ESPN+ Explained: A Comprehensive Look at How It Revolutionizes Sports Viewing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-the-missing-d3dx9n40dll-error-effective-troubleshooting-techniques/"><u>Overcoming the 'Missing d3dx9_n40.dll' Error: Effective Troubleshooting Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/should-i-invest-in-a-ps5-top-4-benefits-of-owning-sonys-latest-console/"><u>Should I Invest in a PS5? Top 4 Benefits of Owning Sony's Latest Console</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-definitive-how-to-guide-removing-or-pausing-facebook-from-your-android-device/"><u>The Definitive How-To Guide: Removing or Pausing Facebook From Your Android Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-diy-way-to-dust-and-deodorize-household-stereo-speakers/"><u>The DIY Way to Dust and Deodorize Household Stereo Speakers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-timing-and-techniques-for-dropping-followers-on-x/"><u>The Ultimate Guide: Timing & Techniques for Dropping Followers on X</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-securely-reconnect-a-fallen-off-key-from-your-notebook/"><u>The Ultimate Trick to Securely Reconnect a Fallen-Off Key From Your Notebook</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-clearer-streams-youtube-video-borderless-adjustment/"><u>[Updated] 2024 Approved Clearer Streams YouTube Video Borderless Adjustment</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-facebooks-visual-journey-capturing-videos/"><u>[Updated] In 2024, Facebook's Visual Journey Capturing Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-outstanding-book-trailer-samples-for-2024/"><u>[Updated] Outstanding Book Trailer Samples for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-power-of-vsco-color-grading/"><u>[Updated] Unveiling the Power of VSCO Color Grading</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-essential-summer-edc-items-every-adventurer-should-carry/"><u>Expert Tips: Essential Summer EDC Items Every Adventurer Should Carry</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722902675396-find-the-hottest-verizon-contract-termination-and-upgrade-promotions-now/"><u>Find the Hottest Verizon Contract Termination and Upgrade Promotions Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/joining-the-duet-craze-a-beginners-handbook-to-co-creating-content-on-tiktok/"><u>Joining the Duet Craze: A Beginner's Handbook to Co-Creating Content on TikTok</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-minefield-of-fabricated-acquaintances-in-the-virtual-world/"><u>Navigating the Minefield of Fabricated Acquaintances in the Virtual World</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/reliable-iphone-data-retrieval-tool-secure-your-information/"><u>Reliable iPhone Data Retrieval Tool: Secure Your Information</u></a></li>
 </ul></div>
 

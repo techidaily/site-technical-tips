@@ -1,7 +1,7 @@
 ---
 title: How Three Key Apple Watch Series 10 Features Won Me Over - Insights From ZDNet
-date: 2024-09-25T11:30:15.982Z
-updated: 2024-10-02T15:15:58.471Z
+date: 2024-10-02T16:28:02.554Z
+updated: 2024-10-07T18:56:49.885Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ The Apple Watch Series 10 got its first big redesign since the launch of the Ser
 We didn't get a redesigned Apple Watch Ultra, as Apple is expected to focus on internal updates rather than the physical look, but we did see a new Satin Black finish.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Extra health tracking: sleep apnea
@@ -59,13 +59,6 @@ The Apple Watch's sleep apnea detection isn't expected to be immediately availab
 
 Apple also announced new WatchOS 11 features for the Apple Watch, including offline maps and water features like Depth, Water Temperature, and Tides. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. New Apple Watch finishes
 
 The [Apple Watch SE](https://www.zdnet.com/article/the-apple-watch-se-2nd-gen-is-still-80-off-after-amazon-prime-day/) is due for an upgrade -- but while we expected Apple to release new versions of all Apple Watch models for the first time in a couple of years, Apple only announced a new Apple Watch Series 10 and the new Apple Watch Ultra 2 color and band. 
@@ -77,15 +70,22 @@ The Apple Watch Series 10 is available in Jet Black, Rose Gold, and Silver Alumi
 The Apple Watch Series 10 starts at $399, available for pre-order today, with general availability on September 20\. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What we didn't get with the Apple Watch Series 10
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Blood oxygen tracking has yet to return
 
@@ -98,10 +98,10 @@ Unfortunately, the new Apple Watch models didn't bring back the blood oxygen mon
 Currently, the Apple Watch Series 9 and Ultra don't have the blood oxygen sensor enabled, so users looking to upgrade from an older model (Apple Watch Series 6, 7, 8, and Ultra) should know they'll likely lose that feature until Apple resolves its issue.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. No hypertension capabilities yet
@@ -142,18 +142,18 @@ Many users have expected Apple to release blood pressure monitoring on the Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-professional-thumbnails-for-engaging-igtv-posts/"><u>[Updated] 2024 Approved Professional Thumbnails for Engaging IGTV Posts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-secure-and-fast-instagram-to-mp4-conversion-for-windowsmac-users/"><u>[Updated] In 2024, Secure & Fast Instagram to MP4 Conversion for Windows/Mac Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/breathtaking-bounds-of-2022-skaters/"><u>Breathtaking Bounds of 2022 Skaters</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-guide-clearing-browsing-history-and-caches-across-all-top-web-browsers/"><u>Complete Guide: Clearing Browsing History & Caches Across All Top Web Browsers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-hooking-up-three-screens-to-one-computer-system/"><u>Expert Tips for Hooking Up Three Screens to One Computer System</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-x3daudiodll-missing-or-not-found-errors/"><u>How to Fix X3daudio.dll Missing or Not Found Errors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-build-your-mark-affordable-logo-creation-with-tailored-templates/"><u>In 2024, Build Your Mark Affordable Logo Creation with Tailored Templates</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a78-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A78 5G Phone FRP Lock</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-pro-tips-how-to-effortlessly-record-and-send-voice-messages/"><u>IPhone Pro-Tips: How To Effortlessly Record and Send Voice Messages</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-202n-apple-macbook-air-m1-13-inch-a-leap-in-laptop-technology/"><u>The Ultimate Guide to the 202N Apple MacBook Air (M1, 13-Inch): A Leap in Laptop Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-tips-for-configuring-parental-filters-on-your-discord-account/"><u>Ultimate Tips for Configuring Parental Filters on Your Discord Account</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-your-phones-potential-making-tiktok-rhythms-your-alarm-for-2024/"><u>Unlocking Your Phone's Potential Making TikTok Rhythms Your Alarm for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-decoding-youtubes-earning-rules-update/"><u>[New] 2024 Approved Decoding YouTube's Earning Rules Update</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-ultimate-guide-to-choosing-game-bar-substitutes/"><u>[New] In 2024, The Ultimate Guide to Choosing Game Bar Substitutes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-nuances-of-video-sound-design/"><u>[New] Mastering the Nuances of Video Sound Design</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-7-superior-mac-video-applications-for-2024/"><u>[Updated] 7 Superior Mac Video Applications for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-your-treasure-trove-of-free-marketing-50plus-youtube-ads-ready-to-go/"><u>[Updated] Your Treasure Trove of Free Marketing 50+ YouTube Ads Ready to Go!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/10-incredible-secrets-behind-the-world-of-emojis/"><u>10 Incredible Secrets Behind the World of Emojis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-ways-to-resolve-apple-magic-mouse-movement-errors/"><u>Effortless Ways to Resolve Apple Magic Mouse Movement Errors</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-privacy-vulnerability-fixing-it-now/"><u>Facebook Privacy Vulnerability: Fixing It Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-dll-hiccups-repairing-microsofts-directinput-and-directx-components-successfully/"><u>Overcoming DLL Hiccups: Repairing Microsoft's DirectInput & DirectX Components Successfully</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/perfecting-portraits-techniques-for-editing-animal-eye-flaws/"><u>Perfecting Portraits: Techniques for Editing Animal Eye Flaws</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-teso-update-fixes-blackwood-performance-issues/"><u>Resolved: TESO Update Fixes Blackwood Performance Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-on-viewing-samsungs-virtual-unveiling/"><u>Step-by-Step Instructions on Viewing Samsung's Virtual Unveiling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-roblox-unrecoverable-errors/"><u>Strategies to Overcome Roblox Unrecoverable Errors</u></a></li>
 </ul></div>
 

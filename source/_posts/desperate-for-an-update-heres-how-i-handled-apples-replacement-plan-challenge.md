@@ -1,7 +1,7 @@
 ---
 title: Desperate for an Update? Here's How I Handled Apple's Replacement Plan Challenge
-date: 2024-09-29T01:36:07.299Z
-updated: 2024-10-02T03:34:31.172Z
+date: 2024-10-02T19:38:10.011Z
+updated: 2024-10-07T16:25:24.920Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 
 ## What Apple Intelligence will bring to the company's operating system platforms
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### AI on the device and in the cloud
 
 Apple Intelligence brings powerful generative models to iPhone, iPad, and [Mac](https://www.zdnet.com/article/best-mac/). On-device capabilities require an A17 Pro chip, limiting them to [iPhone 15 Pro](https://www.zdnet.com/article/iphone-15-plus-review/) and Pro Max users for enhanced security and privacy. Similarly, only iPads with M-series chips (like the latest iPad Air and iPad Pro) and Macs running Apple Silicon will be compatible. Many users with older devices or non-Pro models will miss these advanced features.
@@ -52,13 +59,6 @@ In terms of AI infrastructure, Apple also introduced its [Foundation Models](htt
 
 **Room for Improvement:** Apple fell short in AI infrastructure leadership by not announcing AI-accelerated server appliances at the edge, which would allow less capable devices, like the base iPhone 15 and earlier iOS 18-supported models, to use Apple Intelligence's more advanced features. While the hybrid AI model with on-device and PCC is a step in the right direction, AI-accelerated edge network devices were not mentioned to enhance performance and reduce latency. Apple is typically not transparent about deploying resources in its data centers, so it may plan to deploy these appliances at the edge without disclosing specifics. While the short list of Responsible AI Principles that the company [has documented here](https://machinelearning.apple.com/research/introducing-apple-foundation-models) is a good start, an AI [ethical disclosure](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf) statement [along the lines of what Adobe is doing](https://www.adobe.com/ai/overview/ethics.html) would further bolster trust and transparency.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Embracing third-party AI providers
 
 Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration, indicating a willingness to integrate third-party services and partner with multiple AI providers. During [the keynote](https://www.zdnet.com/article/live-updates-everything-apple-announced-at-wwdc-2024-including-ios-18-siri-ai-more/), Apple said it would partner to allow third-party large language models (LLM) in addition to OpenAI ChatGPT (free, [Plus](https://www.zdnet.com/article/how-to-subscribe-to-chatgpt-plus-and-why/), and presumably Enterprise) but did not name those models. Potential models include [Microsoft Copilot](https://www.zdnet.com/article/build-2024-microsoft-enhances-productivity-with-new-copilot-transforming-teamwork-and-projects/), [Google Gemini](https://www.zdnet.com/article/what-is-google-gemini/), Meta Llama 3, Amazon Titan, and Hugging Face, among many others.
@@ -67,13 +67,6 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Smart notifications and writing tools
 
 Smart notifications in Apple's operating systems will leverage on-device LLMs to sift through the noise and ensure that only the most important alerts make it through. This is part of the new Reduce Interruptions Focus, which shows users key details for each notification. System-wide writing tools can write, proofread, and summarize text for users, from short messages to long blog posts, with the Rewrite feature providing multiple versions of text based on the intended audience.
@@ -81,6 +74,13 @@ Smart notifications in Apple's operating systems will leverage on-device LLMs to
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 **Room for improvement:** Building on the Reduce Interruptions Focus, further development in proactive assistance features that anticipate user needs based on past behavior and context would be beneficial.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### AI image generation and Genmoji
 
@@ -102,13 +102,6 @@ Apple Intelligence also performs actions within apps on behalf of the user. It c
 
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### AI capabilities across Apple products
 
 Lastly, enhancing AI capabilities across all Apple products, including Siri, Apple Music, Apple News, Health, Fitness+, TV, and HomeKit, was a major recommendation. While Apple's AI features are integrated across devices, the specific enhancements for services like Apple Music and HomeKit were limited, at least as addressed in the WWDC keynote.
@@ -116,6 +109,13 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Also: [What is Apple Intelligence? How the iPhone's on-device and cloud-based AI works](https://www.zdnet.com/article/what-is-apple-intelligence-how-the-iphones-on-device-and-cloud-based-ai-will-work/)**
 
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The developer story
 
@@ -142,10 +142,10 @@ Finally, the new Translation API will be unveiled. It will help developers build
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
@@ -188,16 +188,15 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ncover-the-globes-secrets-with-these-youtubers-for-2024/"><u>[New] Uncover the Globe's Secrets with These Youtubers for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-ideal-virtual-screenscapes-for-streamers/"><u>[Updated] Ideal Virtual Screenscapes for Streamers</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-mend-error-non-playing-vids-in-chrome/"><u>2024 Approved Mend Error Non-Playing Vids in Chrome</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-overview-of-samsung-televisions-and-their-integrated-app-ecosystem/"><u>Comprehensive Overview of Samsung Televisions and Their Integrated App Ecosystem</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-instructions-for-modifying-time-configuration-on-kindle-paperwhite/"><u>Easy Instructions for Modifying Time Configuration on Kindle Paperwhite</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-canon-devices-mx870-legacy-and-modern-windows/"><u>Install Canon Devices: MX870, Legacy & Modern Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-compatible-drivers-available-now-download-updated-hp-deskjet-ink-advantage-f381-wi-fi-all-in-one-printer/"><u>Latest Compatible Drivers Available Now: Download Updated HP DeskJet Ink Advantage F381 Wi-Fi All-in-One Printer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/overcoming-the-urge-understanding-why-you-keep-buying-new-headsets/"><u>Overcoming the Urge: Understanding Why You Keep Buying New Headsets</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-missing-ksuserdll-file-a-comprehensive-guide/"><u>Resolving Missing ksUSER.DLL File: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-insights-uncover-the-smart-and-sophisticated-world-within-samsung-un6un65ru8000fxza-led-tv/"><u>Review Insights: Uncover the Smart and Sophisticated World Within Samsung UN6#UN65RU8000FXZA LED TV</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-essentials-of-rtx-gpus-explained-for-enthusiasts-and-gamers-alike/"><u>The Essentials of RTX GPUs Explained for Enthusiasts and Gamers Alike</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-listeners-language-decoded-without-the-charge/"><u>[Updated] 2024 Approved Listeners' Language Decoded, Without the Charge</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transformative-notetaking-the-mematic-way/"><u>2024 Approved Transformative Notetaking The Mematic Way</u></a></li>
+<li><a href="https://facebook.techidaily.com/dodge-facebooks-data-mining-safety-tips-revealed/"><u>Dodge Facebook's Data Mining: Safety Tips Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-news-and-interests-high-memory-and-cpu-usage-on-windows-10-and-11/"><u>How to Fix News and Interests' High Memory and CPU Usage on Windows 10 and 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-nokia-c12-plus-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Nokia C12 Plus</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-windows-ndis-errors-instantly/"><u>Mastering Windows NDIS Errors Instantly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/nintendo-switch-screen-capturing-made-easy-how-and-where-to-share-them/"><u>Nintendo Switch Screen Capturing Made Easy – How & Where to Share Them</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-apple-watch-screen-issues-why-is-it-unresponsive-and-how-to-resolve-it/"><u>Overcoming Apple Watch Screen Issues: Why Is It Unresponsive and How to Resolve It?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-configuring-and-mapping-drives-on-macos/"><u>Step-by-Step Guide: Configuring and Mapping Drives on macOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-for-paramountplus-not-working-properly-on-firestick/"><u>Step-by-Step Solution for Paramount+ Not Working Properly on Firestick</u></a></li>
 </ul></div>
 

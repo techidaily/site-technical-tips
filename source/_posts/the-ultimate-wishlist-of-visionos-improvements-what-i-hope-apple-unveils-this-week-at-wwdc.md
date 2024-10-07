@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Wishlist of VisionOS Improvements - What I Hope Apple Unveils This Week at WWDC
-date: 2024-09-28T09:00:09.189Z
-updated: 2024-10-01T16:54:42.973Z
+date: 2024-10-05T22:15:45.378Z
+updated: 2024-10-07T18:16:20.610Z
 tags:
   - apple
 categories:
@@ -56,13 +56,6 @@ Working in any of the virtual environments (I prefer Mount Hood) is great, but t
 
 I'd like the ability to create a passthrough opening that allows me to see the keyboard and the mouse (and I wouldn't mind one that lets me also see my coffee cup) while in virtual space. Ideally, an AI would be smart enough to recognize my keyboard (even if it's not Apple branded), but a reasonable first step would be merely allowing users to define passthrough zones by hand in the Vision Pro. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  4\. Less draconian media restrictions
 
 Apple Vision Pro does not allow any screenshots of entertainment media. Period. Do I want to show you a screenshot of the impressive rhino sanctuary or Parkour immersive videos? Yes. Can I? No. No screenshots, no video. I also can't mirror any video to the Apple TV from the Vision Pro. 
@@ -88,10 +81,10 @@ Apple currently allows just a few fully immersive environments. While the surfac
 I'd love to see more immersive environments for the Vision Pro. There is a category of long-running videos on YouTube called "ambience videos." They consist of cozy animated scenes with some background music like [this serene coffee shop](https://www.youtube.com/watch?v=W5qamfXh3Q4&t=11737s). How nice would it be to set up work virtually in a coffee shop like this, chill, and be productive? I can see a great app market for well-designed third-party ambience environments. Heck, I'd pay a couple of bucks to work in a selection of charming coffee shops! 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  7\. Larger play space boundary
@@ -107,10 +100,10 @@ There's more flexibility on the Quest 3\. Using a [fairly dangerous optional set
 Maybe, with VisionOS 2.0, Apple will allow for some flexibility in play space boundary size. 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  8\. VR controller support
@@ -124,6 +117,13 @@ I'll give you one example. I really enjoy the game [Puzzling Places on the Quest
 This situation was also apparent in [the Marvel What…If? immersive experience](https://www.zdnet.com/article/marvels-what-if-brings-immersive-vr-to-apple-vision-pro-for-free/) I just explored. I found that the hand gestures, while fun, had some lag. [Adam Savage's Tested experienced the same issues](https://www.youtube.com/watch?v=coMrs5KgiV8). 
 
 Most likely, Apple will someday introduce its own controllers, if only to meet some special purpose large-scale enterprise need. But given that Meta has added support for Apple's spatial videos to the Quest 3, it seems only fair for Apple to add support for Quest controllers. I haven't found Quest 3 controllers available separately, but [since the Quest 2 is only $199](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOculus-Quest-Advanced-All-One-Virtual%2Fdp%2FB099VMT8VZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2d1b14e3-42ab-4a80-9634-98b84b012ea0%7Cdtp&dtb=1), folks could buy it and get the Quest 2 controllers. Hey, at $199, it's the same price as a [spare Vision Pro battery](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMW283LL%2FA%2Fapple-vision-pro-battery&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) or [Vision Pro carrying case](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMW2F3LL%2FA%2Fapple-vision-pro-travel-case&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Better and more accurate hand and eye tracking
 
@@ -142,10 +142,10 @@ Even cooler would be a heads-up display version of Find My that puts an arrow in
 Wow, those things are creepy. We need to get them out of the uncanny valley. 'Nuff said. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Looking forward to VisionOS 2.0
@@ -186,22 +186,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-elite-mobile-apps-for-high-quality-android-screenshots/"><u>[New] 2024 Approved Elite Mobile Apps for High-Quality Android Screenshots</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-hear-the-hd-story-from-youtube-to-twitters-vids/"><u>[New] 2024 Approved Hear the HD Story From YouTube to Twitter's Vids</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-digital-video-capturing-demystified-systematic-guide-for-2024/"><u>[New] Digital Video Capturing Demystified Systematic Guide for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-pro-tips-effortless-capture-of-hulu-videos-across-windowsmaciphone/"><u>[New] Pro Tips Effortless Capture of Hulu Videos Across Windows/Mac/iPhone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/15-app-that-diagnoses-and-heals-your-unwell-garden-plants-according-to-zdnet-review/"><u>$15 App That Diagnoses & Heals Your Unwell Garden Plants, According to ZDNet Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1-top-6-active-power-plant-offers-in-february-2023-find-your-energy-savings-with-zdnet/"><u>1. Top 6 Active Power Plant Offers in February 2023 - Find Your Energy Savings with ZDNet!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/americas-hotspots-revealed-how-to-find-your-perfect-pickleball-state-in-the-us-tops-3-unveiled-zdnet/"><u>America's Hotspots Revealed: How to Find Your Perfect Pickleball State in the US, Tops 3 Unveiled | ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-inflatable-lounge-products-for-a-summer-splash-a-zdnet-guide/"><u>Best Inflatable Lounge Products for a Summer Splash : A ZDNet Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/capture-stunning-up-close-photos-of-hummingbirds-with-the-latest-innovative-smart-bird-feeder-exclusive-review/"><u>Capture Stunning Up-Close Photos of Hummingbirds with the Latest Innovative Smart Bird Feeder - Exclusive Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-elite-5-walkie-talkies-ranked-on-zdnets-expert-list/"><u>Discover the Elite 5 Walkie-Talkies Ranked on ZDnet's Expert List</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-ready-to-have-fun-while-perfecting-your-lawn-discover-the-ultimate-remote-controlled-lawnmower-thats-changing-yard-care-game-insights-by-zdnet/"><u>Get Ready to Have Fun While Perfecting Your Lawn: Discover the Ultimate Remote-Controlled Lawnmower That's Changing Yard Care Game | Insights by ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-my-expectations-were-shattered-by-the-ring-spotlight-cam-pro-an-unforeseen-experience-zdnet/"><u>How My Expectations Were Shattered by The Ring Spotlight Cam Pro: An Unforeseen Experience | ZDNET</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-instagram-fcpxs-guide-to-vertical-video-editing/"><u>In 2024, Mastering Instagram FCPX's Guide to Vertical Video Editing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-creativity-new-font-addition-strategies-for-ae/"><u>In 2024, Unleashing Creativity New Font Addition Strategies for AE</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/savor-success-ideas-to-bolster-cookery-channel-brands-for-2024/"><u>Savor Success Ideas to Bolster Cookery Channel Brands for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/synching-melodies-to-photos-virtually/"><u>Synching Melodies to Photos Virtually</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-tone-must-be-urgent-and-passionate-as-if-the-ai-robot-caretaker-is-deeply-concerned-about-the-topic/"><u>The Tone Must Be Urgent and Passionate as if the AI Robot Caretaker Is Deeply Concerned About the Topic.</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-capturing-attention-from-content-creation-to-commerce/"><u>[New] 2024 Approved Capturing Attention From Content Creation to Commerce</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-elevate-your-gameplay-with-the-12-unmatched-tycoon-experiences/"><u>[New] 2024 Approved Elevate Your Gameplay with the #12 Unmatched Tycoon Experiences</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-effortlessly-formulating-cohesive-skype-chats-across-windowsmac-platforms/"><u>[New] Effortlessly Formulating Cohesive Skype Chats Across Windows/Mac Platforms</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-navigating-the-maze-of-tiktoks-bulk-video-transfer/"><u>[New] In 2024, Navigating the Maze of TikTok's Bulk Video Transfer</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-channel-success-story-turning-budget-into-brands/"><u>[Updated] 2024 Approved Channel Success Story Turning Budget Into Brands</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-twitter-and-facebook-integration/"><u>[Updated] Navigating Twitter & Facebook Integration</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-next-level-gaming-with-the-affordable-hp-omen-obelisk-comprehensive-analysis-inside/"><u>Experience Next-Level Gaming with the Affordable HP OMEN Obelisk - Comprehensive Analysis Inside!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-apple-iphone-6-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or Apple iPhone 6 Stuck On Activation Lock?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Circle Everything You Need to Know On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/recording-rivalry-obs-versus/"><u>Recording Rivalry OBS Versus</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-elevated-processor-demand-in-windows-10-systems-a-comprehensive-guide/"><u>Resolving Elevated Processor Demand in Windows 10 Systems: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/say-goodbye-to-unwanted-calls-seamless-blocking-guide-for-your-smartphone/"><u>Say Goodbye to Unwanted Calls: Seamless Blocking Guide for Your Smartphone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplified-steps-to-reach-windows-10s-advanced-boot-options-easily/"><u>Simplified Steps to Reach Windows 10'S Advanced Boot Options Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-cleanly-disconnecting-your-printer-from-windows-os/"><u>Step-by-Step Guide to Cleanly Disconnecting Your Printer From Windows OS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-removing-programs-on-a-windows-10-pc/"><u>Step-by-Step Guide: Removing Programs on a Windows 10 PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-for-mastering-multi-display-setup-with-3-monitors/"><u>The Complete Walkthrough for Mastering Multi-Display Setup with 3 Monitors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-easy-way-to-grab-films-a-comprehensive-utorrent-tutorial-for-beginners/"><u>The Easy Way to Grab Films: A Comprehensive uTorrent Tutorial for Beginners</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-strategies-for-eliminating-computer-viruses-in-windows-11-explained/"><u>Top 4 Strategies for Eliminating Computer Viruses in Windows 11 Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-fixes-for-frame-drop-issues-in-obs-studio-updated/"><u>Top 5 Fixes for Frame Drop Issues in OBS Studio, Updated</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Put an Echo Dot in Setup Mode
-date: 2024-09-25T10:49:07.702Z
-updated: 2024-10-02T15:02:57.513Z
+date: 2024-10-05T19:35:13.274Z
+updated: 2024-10-07T21:51:37.447Z
 categories:
   - BestProducts
 description: This Article Describes How to Put an Echo Dot in Setup Mode
@@ -23,13 +23,6 @@ thumbnail: https://www.lifewire.com/thmb/TAj0k0D07l5D1heFlyOxsiDwW6c=/400x300/fi
 
  This article explains how to recall an email, the requirements for recalling Outlook emails, and potential results and delays that can occur during the process. Instructions in this article apply to all versions of Outlook, including Outlook 2021 through 2007, Outlook 365, New Outlook for Windows, and Outlook on the Web.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Recall Email in Outlook (and Replace It)
 
  Directions vary slightly between the different versions of Outlook. Below are instructions for recalling an email in the desktop and web versions.
@@ -40,22 +33,38 @@ thumbnail: https://www.lifewire.com/thmb/TAj0k0D07l5D1heFlyOxsiDwW6c=/400x300/fi
  The options to recall a message are not available when the message is displayed in the Reading Pane.  
 ![Email opened in a separate window in Outlook](https://www.lifewire.com/thmb/XNP-I5zN7JlTMoJ36H2aMcQiwr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_recall-a-message-in-outlook-4161319-74861f0552094a7e8215d2fcae8c39ec.jpg)
 3. If you're using the latest version of Outlook for Windows or you're on the web version, select**Recall Message** in the toolbar and then choose**OK** . Skip down to Step 7.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For older versions of Outlook, go to the**Message** tab, select the**Actions** dropdown arrow, and choose**Recall This Message** .  
  If you don't see those options, select the**three-dot** menu and go to**Actions** \>**Recall This Message** .  
 ![Recall This Message menu item in Outlook](https://www.lifewire.com/thmb/XnrsAKAkhegnZiJl3-wRh82zXLU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_recall-a-message-in-outlook-4161319-01e67a25438345789124c6cb9f2ef5c9.jpg)
 4. In the dialog box, select one of the following:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    * **Delete unread copies of this message** to recall the message.  
    * **Delete unread copies and replace with a new message** to replace the message with a new one.  
 ![Recall This Message options in Outlook](https://www.lifewire.com/thmb/fPnPFvwG_oNIeJoMcg0B88xXeBw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_recall-a-message-in-outlook-4161319-23d620dbc44343e0a54f4bafdc93d678.png)  
  Do you want to receive a notification of the results? Tick the box next to **Tell me if recall succeeds or fails for each recipient** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select**OK** .
 6. If you selected**Delete unread copies and replace with a new message** , modify the original message and select**Send** .
 7. You'll receive an Outlook notification message regarding the success or failure of your attempt to retract or replace the email.
@@ -70,13 +79,6 @@ thumbnail: https://www.lifewire.com/thmb/TAj0k0D07l5D1heFlyOxsiDwW6c=/400x300/fi
 * The message was not touched by any process, such as a rule, spam filter, or add-in.
 
  If any of these requirements are not met, your recall will fail.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Possible Results When You Recall an Outlook Email
 
@@ -98,10 +100,16 @@ thumbnail: https://www.lifewire.com/thmb/TAj0k0D07l5D1heFlyOxsiDwW6c=/400x300/fi
  In addition, if you use Outlook on a mobile device and attempt to recall a message, the process will likely fail.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Delay Sending Messages
@@ -144,19 +152,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-speeding-up-periscope-live-streams-explained/"><u>[Updated] Speeding Up Periscope Live Streams Explained</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-premium-cloud-apps-for-android-the-most-reliable/"><u>2024 Approved Premium Cloud Apps for Android The Most Reliable</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/huawei-mediapad-m5-reviewed-a-premier-choice-for-enthusiasts-in-picture-and-sound-quality/"><u>Huawei MediaPad M5 Reviewed: A Premier Choice for Enthusiasts in Picture and Sound Quality</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-samsung-galaxy-a14-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Samsung Galaxy A14 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-realme-10t-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Realme 10T 5G FRP</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-unbeatable-free-webcam-matchups/"><u>In 2024, Unbeatable Free Webcam Matchups</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-full-screen-posts-a-guide-to-perfecting-your-images-on-instagram/"><u>Mastering the Art of Full-Screen Posts: A Guide to Perfecting Your Images on Instagram</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-download-virtualdub-mpeg2-and-use-to-compress-mpeg2-videos/"><u>New 2024 Approved Download VirtualDub MPEG2 & Use to Compress MPEG2 Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/rectifying-win1011-portaudio-hiccups-within-audacity-application/"><u>Rectifying Win10/11 PortAudio Hiccups Within Audacity Application</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simultaneous-spotify-sessions-can-you-and-your-buddy-listen-at-once/"><u>Simultaneous Spotify Sessions: Can You and Your Buddy Listen at Once?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solve-unfocused-photos-on-iphone-with-these-effective-solutions/"><u>Solve Unfocused Photos on iPhone with These Effective Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-issue-of-unreceived-texts-on-android-phones-a-complete-guide/"><u>Solving the Issue of Unreceived Texts on Android Phones – A Complete Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-rebooting-your-macs-network-configuration/"><u>Step-by-Step Guide: Rebooting Your Mac's Network Configuration</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-effective-techniques-for-speaker-sanitation-at-home/"><u>Ultimate Guide: Effective Techniques for Speaker Sanitation at Home</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-best-10-free-downloads-legal-meditation-melodies/"><u>[New] In 2024, Best 10 Free Downloads Legal Meditation Melodies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secure-smooth-cinematography-the-best-stabilizer-brands-guide/"><u>[New] Secure Smooth Cinematography The Best Stabilizer Brands Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ic-shots-infusing-energy-into-your-youtube-videos/"><u>Dynamic Shots Infusing Energy Into Your YouTube Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-seamlessly-install-newest-kodi-version-on-your-windows-10-device-a-comprehensive-tutorial/"><u>How To Seamlessly Install Newest Kodi Version on Your Windows 10 Device - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-note-12-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi Note 12 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-essential-screen-recording-tips-for-windows-8-pros/"><u>In 2024, Essential Screen Recording Tips for Windows 8 Pros</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/reliable-vox-file-transformation-step-by-step-guide-on-converting-vox-to-mp3-and-wav/"><u>Reliable VOX File Transformation: Step-by-Step Guide on Converting VOX to MP3 & WAV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/successfully-overcoming-the-windows-update-error-code-0x80248007-in-windows-11/"><u>Successfully Overcoming the Windows Update Error Code 0X80248007 in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-retrieving-missing-desktop-icons-in-windows-11-solved/"><u>The Ultimate Guide: Retrieving Missing Desktop Icons in Windows 11 - Solved</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-2-techniques-for-seamless-audio-extraction-from-youtube-videos/"><u>Top 2 Techniques for Seamless Audio Extraction From YouTube Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-overcoming-delay-in-logitech-mice-expert-tips-and-tricks/"><u>Troubleshooting and Overcoming Delay in Logitech Mice – Expert Tips & Tricks</u></a></li>
 </ul></div>
 

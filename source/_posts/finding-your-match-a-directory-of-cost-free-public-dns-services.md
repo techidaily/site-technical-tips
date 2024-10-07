@@ -1,7 +1,7 @@
 ---
 title: "Finding Your Match: A Directory of Cost-Free Public DNS Services"
-date: 2024-09-13T19:21:52.607Z
-updated: 2024-09-21T01:17:06.177Z
+date: 2024-10-03T20:22:16.136Z
+updated: 2024-10-07T18:24:02.921Z
 categories:
   - BestProducts
 description: "This Article Describes Finding Your Match: A Directory of Cost-Free Public DNS Services"
@@ -42,6 +42,19 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 ### Google: 8.8.8.8 & 8.8.4.4
 
 ![Google Public DNS website](https://www.lifewire.com/thmb/qWj4pMgWHD-gbazU6kh9AaxjDBY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-public-dns-383e413f3f374b509aec7d6c195bbbae.png)
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Google Public DNS](https://developers.google.com/speed/public-dns/) promises three core benefits: a faster browsing experience, improved security, and accurate results without redirects. It's what I use on my devices.
 
@@ -93,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
 ![OpenDNS public DNS server website](https://www.lifewire.com/thmb/5votPFdjy1TRMp-5wxWdB3e_74c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opendns-518a9ef00d6a4215964245aa4dfd6688.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Used by tens of millions of users around the world,[OpenDNS](https://www.opendns.com/) claims 100 percent reliability and uptime (since 2006!). They offer two sets of free public DNS servers, one of which is just for parental controls with dozens of filtering options.
 
 * **Primary DNS** : 208.67.222.222
@@ -114,16 +120,16 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
  For DNS servers that block adult content, use[OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield) : 208.67.222.123 and 208.67.220.123\. Those two also[support DNS over HTTPS](https://support.opendns.com/hc/en-us/articles/360038086532-Using-DNS-over-HTTPS-DoH-with-OpenDNS) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Cloudflare: 1.1.1.1 & 1.0.0.1
 
 ![Cloudflare 1.1.1.1 public DNS server website](https://www.lifewire.com/thmb/8O47Sc85B2ywZWpyfsbqiBMLIEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-and-public-dns-servers-2626062-cloudflare-1111-7977c2b8a42e408c81b0d59694bd634f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Cloudflare](https://one.one.one.one/dns/) built 1.1.1.1 to be the "internet’s fastest DNS directory" ([here's how DNSPerf ranks them](https://www.dnsperf.com/#!dns-resolvers) ). I like them for the privacy commitment—they will never log your IP address, never sell your data, and never use your data to target ads.
 
@@ -142,10 +148,10 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 ![AdGuard DNS website](https://www.lifewire.com/thmb/VGFWb-Sg7jSxs7MM04dHcD40dbQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/adguard-dns-b78348dab9e240bc94d94fd9be62e8e6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [AdGuard DNS](https://adguard-dns.io/en/public-dns.html) has three sets of DNS servers, each with different features. Two are designed to block ads in games, videos, apps, and web pages. I used these "Default" servers for several months to block ads and trackers, and I was pleased with its performance, despite ads slipping through at times:
@@ -160,9 +166,23 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
  There are also "Family protection" servers (94.140.14.15 and 2a10:50c0::bad1:ff) that block adult content, plus everything included in the "Default" servers. Non-filtering servers are available if you're not interested in blocking anything: 94.140.14.140 and 2a10:50c0::1:ff. These servers are also available as DNS over HTTPS, TLS, and QUIC, as well as DNSCrypt. Compared to[paid AdGuard DNS plans](https://adguard-dns.io/en/license.html) , free users have zero customer support and limited monthly requests, device access, rules, and servers.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### CleanBrowsing: 185.228.168.9 & 185.228.169.9
 
 ![CleanBrowsing public DNS servers](https://www.lifewire.com/thmb/vXD5OF-pxtI8y-8lcOMqbwGDDAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cleanbrowsing-44622bf548554faa886745618c97b08a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [CleanBrowsing has three free public DNS server options](https://cleanbrowsing.org/filters/) : a security filter, adult filter, and family filter. These are the DNS servers for the security filter, the most basic of the three that updates hourly to block malware and phishing sites:
 
@@ -176,16 +196,16 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
  The adult filter (185.228.168.10) prevents access to adult domains, and the family filter (185.228.168.168) blocks proxies, VPNs, and mixed adult content. They both also block the same domains supported by the security filter. For more features, subscribe to one of the[CleanBrowsing premium plans](https://cleanbrowsing.org/pricing/) . This service supports DoH and DoT as well.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Alternate DNS: 76.76.19.19 & 76.223.122.150
 
 ![Alternate DNS website](https://www.lifewire.com/thmb/-4LtpRDVaV8Hg2TKADqt1kg7jSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alternate-dns-b37b229caddf47a3b4808394e1d80350.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Alternate DNS](https://alternate-dns.com/) is a free public DNS service that blocks ads before they reach your network. It works pretty well in my experience, but it's not 100 percent perfect.
 
@@ -212,10 +232,10 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
  Finally, in case there is any confusion, free DNS servers do_not_ give you[free internet access](https://www.lifewire.com/best-ways-to-get-free-internet-at-home-4845257) . You still need an ISP for access—DNS servers just translate between IP addresses and domain names so that you can access websites with a human-readable name (like_lifewire.com_ ) instead of a difficult-to-remember IP address.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Additional DNS Servers
@@ -279,5 +299,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-assessing-social-media-preference-the-case-for-tiktok-or-youtubes-shorts/"><u>[Updated] In 2024, Assessing Social Media Preference The Case for TikTok or YouTubes' Shorts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-youtubes-unwanted-green-screen-effects/"><u>Conquering Youtube's Unwanted Green Screen Effects</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-overcome-the-steam-disk-write-failure/"><u>Effective Strategies to Overcome the Steam Disk Write Failure</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-tech-gadgets-the-top-9-must-have-devices-for-students/"><u>Essential Tech Gadgets: The Top 9 Must-Have Devices for Students</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/important-questions-you-should-ask-yourself-before-selecting-a-video-capture-unit/"><u>Important Questions You Should Ask Yourself Before Selecting a Video Capture Unit</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a59-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-samsung-gear-s3-frontier-examination-powerful-smartwatch-with-extensive-capabilities/"><u>In-Depth Samsung Gear S3 Frontier Examination - Powerful Smartwatch with Extensive Capabilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211624188-keyboard-malfunction-get-your-numeric-buttons-working-smoothly-in-no-time/"><u>Keyboard Malfunction? Get Your Numeric Buttons Working Smoothly in No Time</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-win11win10-drivers-for-gtx-1650-gpus/"><u>Latest Win11/Win10 Drivers for GTX 1650 GPUs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-common-mapi32dll-not-detected-or-absent-problems/"><u>Troubleshooting the Common Mapi32.dll Not Detected or Absent Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unplugged-and-online-innovative-methods-for-a-wireless-web-connection-at-home-or-office/"><u>Unplugged & Online: Innovative Methods for a Wireless Web Connection at Home or Office</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-7/"><u>Windows 7スクリーンレコーダー・無料アプリとウェブサイトの推奨 - オススメ</u></a></li>
+</ul></div>
 

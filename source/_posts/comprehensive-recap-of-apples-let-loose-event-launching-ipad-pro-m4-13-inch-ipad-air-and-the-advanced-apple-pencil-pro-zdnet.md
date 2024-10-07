@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Recap of Apple's 'Let Loose' Event - Launching iPad Pro M4, 13-Inch iPad Air & the Advanced Apple Pencil Pro | ZDNET
-date: 2024-09-27T03:13:15.050Z
-updated: 2024-10-02T07:37:13.242Z
+date: 2024-10-05T20:22:57.097Z
+updated: 2024-10-07T21:04:11.614Z
 tags:
   - apple
 categories:
@@ -53,10 +53,10 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -91,13 +91,6 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
@@ -105,15 +98,22 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -128,16 +128,10 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -174,18 +168,24 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-decoding-the-hidden-cause-for-non-existent-fb-video-picks/"><u>[Updated] 2024 Approved Decoding the Hidden Cause for Non-Existent FB Video Picks</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-simplified-guide-to-advanced-xbox-video-recording-methods/"><u>[Updated] In 2024, Simplified Guide to Advanced Xbox Video Recording Methods</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-inshots-music-integration-techniques/"><u>2024 Approved InShot's Music Integration Techniques</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/adobe-premiere-pro-the-complete-guide-to-importing-and-exporting-videos-for-2024/"><u>Adobe Premiere Pro The Complete Guide to Importing and Exporting Videos for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-fixes-for-kernel-data-page-error-handling-techniques/"><u>Comprehensive Fixes for Kernel Data Page Error Handling Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhance-your-desktop-aesthetics-changing-the-color-of-your-windows-1e-taskbar-made-easy/"><u>Enhance Your Desktop Aesthetics: Changing the Color of Your Windows 1E Taskbar Made Easy</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-address-and-avoid-gtfo-application-disruptions/"><u>How to Address and Avoid GTFO Application Disruptions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/proven-strategies-for-earning-a-checkmark-on-x-heir-to-the-twitter-legacy/"><u>Proven Strategies for Earning a Checkmark on X, Heir to the Twitter Legacy</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-msxml4dll-file-not-found-steps-and-solutions/"><u>Resolving the Msxml4.dll File Not Found: Steps and Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tackle-the-most-vexing-iphone-x-issues-with-these-effective-fixes/"><u>Tackle the Most Vexing iPhone X Issues with These Effective Fixes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-finding-and-restoring-deleted-e-mails-in-google-mail/"><u>The Ultimate Trick: Finding and Restoring Deleted E-Mails in Google Mail</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-cannot-find-d3dx920-file-issue-easily/"><u>Troubleshooting the 'Cannot Find D3DX9_20 File' Issue Easily</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-infinix-hot-40-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Infinix Hot 40 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-optimizing-video-content-with-powerful-hashtags-on-youtube/"><u>[New] 2024 Approved Optimizing Video Content with Powerful Hashtags on YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-beginners-walkthrough-for-screencastify-recorder-for-2024/"><u>[New] Beginner's Walkthrough for Screencastify Recorder for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-vector-artistry-unleashed-picks-of-the-year-for-designers/"><u>[New] Vector Artistry Unleashed Picks of the Year for Designers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2-steps-to-get-ready-for-windows-11-creators-update/"><u>2 Steps to Get Ready for Windows 11 Creators Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-tuf-monitor-sale-spot-the-ultra-smooth-165hz-gameplay-for-99-at-newegg/"><u>ASUS TUF Monitor Sale: Spot the Ultra-Smooth 165Hz Gameplay for $99 at Newegg.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808272543-cant-reach-oculus-runtime-service-how-to-fix-your-oculus-rift/"><u>Can’t Reach Oculus Runtime Service? How to Fix Your Oculus Rift</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808291102-cant-remove-printer-on-windows-solved/"><u>Can't Remove Printer on Windows [Solved]</u></a></li>
+<li><a href="https://fox-links.techidaily.com/filmfusion-studio-win8/"><u>FilmFusion Studio Win8</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-usb-30-drivers-for-windows-step-by-step-download-and-setup/"><u>Get the Latest USB 3.0 Drivers for Windows - Step-by-Step Download and Setup</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Tecno Phone with Broken Screen</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-podcast-production-perfection-from-draft-to-audio-bliss/"><u>In 2024, Podcast Production Perfection From Draft to Audio Bliss</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808341857-rapid-fire-direct3d-acquisition-made-easy/"><u>Rapid-Fire Direct3D Acquisition Made Easy!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/smile-sob-and-snicker-with-these-ig-meme-masters-of-humor/"><u>Smile, Sob and Snicker with These IG Meme Masters of Humor</u></a></li>
+<li><a href="https://article-files.techidaily.com/tiktok-effect-overhaul-the-two-pronged-approach-for-2024/"><u>TikTok Effect Overhaul The Two-Pronged Approach for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-halting-all-updates-on-your-windows-10-system/"><u>Ultimate Guide: Halting All Updates on Your Windows 10 System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unplugged-gaming-success-essential-tips-for-streamlined-steam-games-in-offline-mode/"><u>Unplugged Gaming Success: Essential Tips for Streamlined Steam Games in Offline Mode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-upgrades-like-the-long-awaited-transition-to-ethereum-20-with-its-proof-of-stake-consensus-mechanism-sharding-and-scalability-improvements/"><u>Upcoming Upgrades Like the Long-Awaited Transition to Ethereum 2.0 with Its Proof-of-Stake Consensus Mechanism, Sharding, and Scalability Improvements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/win-10-compatibility-issue-solved-making-seagate-extermal-hdds-appear-on-your-pc/"><u>Win 10 Compatibility Issue Solved! Making Seagate Extermal HDDs Appear on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-10-couldnt-be-installed-error-code-80240020-solved/"><u>Windows 10 Couldn’t Be Installed Error Code 80240020 [Solved]</u></a></li>
 </ul></div>
 

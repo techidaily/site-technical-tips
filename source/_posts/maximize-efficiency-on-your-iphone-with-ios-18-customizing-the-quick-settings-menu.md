@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on Your iPhone with iOS 18 - Customizing the Quick Settings Menu
-date: 2024-09-27T05:55:28.966Z
-updated: 2024-10-02T15:29:38.607Z
+date: 2024-09-30T18:27:26.517Z
+updated: 2024-10-07T22:15:43.807Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ Voice dictation is another voice input mode. This is most often initiated by tap
 As it turns out, though, there's an incredibly powerful voice input mode that's hidden from most users because it's turned off by default. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Introducing Voice Control
@@ -56,10 +56,10 @@ You can say things like "tap number" or "pan up number", "swipe left" with an it
 To find out what commands work with Voice Control, start by saying, "What can I say?" iMore has an [excellent comprehensive list of all the commands](https://www.imore.com/everything-you-can-do-voice-control-iphone-and-ipad). Just point your browser there to see all that's available. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Enabling Voice Control on your phone
@@ -69,10 +69,10 @@ Not only is Voice Control not turned on by default, but the code that runs Voice
 You'll know Voice Control is enabled when there's a little blue microphone icon at the top of your screen.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Additional features
@@ -115,18 +115,22 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-top-vr-headset-companies-for-2024/"><u>[New] Top VR Headset Companies for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-ideal-app-selection-top-10-tools-for-instagram-reel-excellence/"><u>2024 Approved Ideal App Selection Top 10 Tools for Instagram Reel Excellence</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-experts-list-of-top-vector-stock-portals/"><u>2024 Approved The Expert's List of Top Vector Stock Portals</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/budget-friendly-amazonbasics-reusable-6-sheet-paper-shredder-a-comprehensive-review/"><u>Budget-Friendly AmazonBasics Reusable 6-Sheet Paper Shredder - A Comprehensive Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/corrective-measures-for-when-you-cant-locate-netbiosdsdll-on-your-system/"><u>Corrective Measures for When You Can't Locate Netbiosds.dll on Your System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-how-to-turn-on-and-navigate-with-ease-using-the-covert-trail-feature-in-windows-explorer/"><u>Discover How to Turn On and Navigate with Ease Using the Covert Trail Feature in Windows Explorer</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a25-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A25 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-vn-video-editor-review-the-good-the-bad-and-the-ugly/"><u>New VN Video Editor Review The Good, the Bad, and the Ugly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-capturing-screen-images-on-your-computer/"><u>Step-by-Step Guide: Capturing Screen Images on Your Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-science-behind-electric-bikes-a-comprehensive-guide-to-their-operation/"><u>The Science Behind Electric Bikes: A Comprehensive Guide to Their Operation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-what-steps-should-you-take-if-your-emails-arent-synching-with-gmail/"><u>Troubleshooting Guide: What Steps Should You Take If Your Emails Aren't Synching with Gmail?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-selection-32-leading-free-backup-tools-evaluated-and-rated/"><u>Ultimate Selection: 32 Leading Free Backup Tools Evaluated and Rated</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-essential-macos-apps-for-watching-mkv-files/"><u>[New] Essential macOS Apps for Watching MKV Files</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-how-to-make-a-slideshow-with-music/"><u>2024 Approved How to Make a Slideshow with Music</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/asias-top-verbal-formulas-priority-store-reverse-order/"><u>Asia’s Top Verbal Formulas: Priority Store, Reverse Order</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creative-composers-cache-essential-no-cost-afx-tools/"><u>Creative Composer's Cache Essential, No-Cost AFX Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-top-workout-logging-apps-for-fitness-enthusiasts/"><u>Discover the Ultimate List of Top Workout Logging Apps for Fitness Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-to-follow-tutorial-implementing-the-latest-ios-update-on-your-iphoneipad/"><u>Easy-to-Follow Tutorial: Implementing The Latest iOS Update on Your iPhone/iPad</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-windows-11s-power-management-an-insight-into-the-battery-report-feature/"><u>Exploring Windows 11'S Power Management: An Insight Into the Battery Report Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-when-your-backspace-key-isnt-functioning-correctly/"><u>How to Resolve When Your Backspace Key Isn't Functioning Correctly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hunt-for-hot-electronics-discounts-on-amazon-prime-day-extravaganza/"><u>Hunt for Hot Electronics Discounts on Amazon Prime Day Extravaganza</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-14-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 14 When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-safe-to-use-an-iphone-13-underwater/"><u>Is It Safe to Use an iPhone 13 Underwater?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-the-maze-of-tiktoks-bulk-video-transfer/"><u>Navigating the Maze of TikTok's Bulk Video Transfer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-missing-rpcrt4dll-a-step-by-step-guide/"><u>Solving the Mystery of Missing rpcrt4.dll: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stop-unwanted-apple-music-playback-effective-methods-explored/"><u>Stop Unwanted Apple Music Playback: Effective Methods Explored</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-essential-guide-to-choosing-between-ipad-mini-and-ipad-air/"><u>The Essential Guide to Choosing Between iPad Mini and iPad Air</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-science-behind-engaging-video-content-on-fb-for-2024/"><u>The Science Behind Engaging Video Content on FB for 2024</u></a></li>
 </ul></div>
 

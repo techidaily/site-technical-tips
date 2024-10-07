@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to the Best Note-Taking Tablets of 2024 - Rigorously Reviewed | ZDNET
-date: 2024-09-28T22:18:27.165Z
-updated: 2024-10-02T15:35:52.620Z
+date: 2024-10-05T18:35:32.094Z
+updated: 2024-10-07T17:46:23.208Z
 tags:
   - apple
 categories:
@@ -27,10 +27,10 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C369026fc-8906-4d8d-97bc-ba3c3cb5d6f8%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best small tablets of 2024
@@ -49,13 +49,20 @@ Cons
 * Expensive
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple iPad Mini 6th Generation
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -120,14 +127,14 @@ Cons
 * Expensive
 * Some complaints of lag
 
-## Boox Tab Mini C
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Boox Tab Mini C
 
 ### Best small tablet for note-taking
 
@@ -155,13 +162,6 @@ Pros
 Cons 
 * Web browser functionality could be better
 * No warm light option
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Amazon Kindle 11th generation
 
@@ -195,6 +195,13 @@ Cons
 
 ## Samsung Galaxy Tab A7 Lite
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best Samsung small tablet
 
 [Samsung's tablet lineup](https://www.zdnet.com/article/best-samsung-tablet/) spans price, capability, and screen size. The Galaxy Tab A7 Lite is a small Android tablet that combines affordability and usefulness. Its 8.7-inch screen features a 1340x800 display, making it worthy of streaming, working, and more.
@@ -206,6 +213,13 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 **Samsung Galaxy Tab A7 Lite tech specs: Display**: 8.7-inch, 1340x800 display | **Processor**: MediaTek MT8768N | **Storage**: 32GB or 64GB | **Colors**: Gray | **Cameras**: 2MP front and 8MP rear | **Weight**: 0.81lbs | **Dimensions**: 8.37 x 4.91 x 0.31 inches | **Connections**: 3.5mm headphone jack, USB-C | **Battery:** 10 to 12 hours
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the best small tablet?
 
@@ -220,10 +234,10 @@ The best small tablet is the iPad Mini because of its sharp display and impressi
 | Samsung Galaxy A7 Lite | $100      | 8.7 inches          | 1340x800 pixels   |
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which small tablet is right for you?
@@ -259,13 +273,6 @@ We also compare the display's performance with what the manufacturer promised, t
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the smallest tablet screen size?
 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
@@ -279,13 +286,6 @@ Tablets made by Apple, Samsung, and Microsoft are the best-made tablets in terms
 Keep in mind in certain cases (Apple, Samsung), you can pair your other devices with the tablet. In the case of Apple tablets, you can log in using your Apple ID to access the same apps, pictures, and more from your phone on your iPad. 
 
 Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the app on your phone and tablet. You can connect your tablet to your phone via Bluetooth or Wi-Fi. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are mini Android tablets worth it?
 
@@ -343,16 +343,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-leap-into-the-spotlight-with-tiktok-lives/"><u>[Updated] Leap Into the Spotlight with TikTok Lives</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725289991918-8-ai/"><u>8가지 가장 좋은 AI 기술 - 무료로 오래된 사진을 다시 만드는 방법</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-solution-for-the-mfplatdll-not-found-error/"><u>Comprehensive Solution for the 'mfplat.dll Not Found' Error</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-6-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 6</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-conquering-cinematic-recording-a-guide-to-windowsmacosios/"><u>In 2024, Conquering Cinematic Recording A Guide to Windows/macOS/iOS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/le-ottime-scelte-tra-gli-utilita-per-trasformare-i-file-heic-in-immagini-jpg-il-tuo-guida-ai-10-migliori-strumenti/"><u>Le Ottime Scelte Tra Gli Utilità per Trasformare I File HEIC in Immagini JPG: Il Tuo Guida Ai 10 Migliori Strumenti</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fixes-a-user-friendly-guide-to-rebooting-your-macbook-pro/"><u>Quick Fixes: A User-Friendly Guide to Rebooting Your MacBook Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-nero-software-a-step-by-step-guide-to-fix-advrcntr2dll-missing-error/"><u>Resolving Nero Software: A Step-by-Step Guide to Fix 'Advrcntr2.dll' Missing Error</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamlining-your-room-for-oculus-vr-for-2024/"><u>Streamlining Your Room for Oculus VR for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-15-free-self-directed-artificial-intelligence-learning-programs-comprehensive-guide/"><u>Top 15 Free, Self-Directed Artificial Intelligence Learning Programs – Comprehensive Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-3-simple-techniques-to-transform-3gpp-audio-files-into-mp3-without-cost/"><u>Top 3 Simple Techniques to Transform 3GPP Audio Files Into MP3 Without Cost</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-auditory-cataloguing-pc-noises-and-speech-recordings/"><u>[New] Auditory Cataloguing PC Noises & Speech Recordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-from-zero-to-zoom-expert-launching-successful-webinars/"><u>[New] In 2024, From Zero to Zoom Expert Launching Successful Webinars</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-innovative-designs-in-syma-x8c-for-2024/"><u>[New] Innovative Designs in Syma X8C for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-steps-to-restore-obs-fullscreen-for-2024/"><u>[New] Steps to Restore OBS Fullscreen for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-insiders-guide-to-flawless-game-recordings-on-playstation-4/"><u>[New] The Insider’s Guide to Flawless Game Recordings on PlayStation 4</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/customer-vision-our-video-endorsements/"><u>Customer Vision: Our Video Endorsements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-kernel32dll-error-messages-on-windows-devices/"><u>How To Correctly Address Kernel32.dll Error Messages on Windows Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-pova-5-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Pova 5 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-powerpoint-playback-fixing-common-audio-issues-with-ease/"><u>Mastering PowerPoint Playback: Fixing Common Audio Issues with Ease</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-wireless-access-point-problems-a-step-by-step-guide-top-10-fixes/"><u>Solve Wireless Access Point Problems: A Step-by-Step Guide (Top 10 Fixes)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-nero-advrcntr2dll-not-found-a-step-by-step-guide/"><u>Solving Nero advrcntr2.dll Not Found: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-insiders-handbook-to-resolving-windows-system-error-code-28/"><u>The Insider's Handbook to Resolving Windows System Error Code 28</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-11-and-wireless-security-unveiled-effortlessly-locate-your-wi-fi-password-today/"><u>Windows 11 and Wireless Security Unveiled: Effortlessly Locate Your Wi-Fi Password Today!</u></a></li>
 </ul></div>
 

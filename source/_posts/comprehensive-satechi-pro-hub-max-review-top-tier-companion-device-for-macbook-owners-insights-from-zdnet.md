@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Satechi Pro Hub Max Review: Top-Tier Companion Device for MacBook Owners - Insights From ZDNet"
-date: 2024-09-30T22:28:20.704Z
-updated: 2024-10-01T18:42:57.581Z
+date: 2024-10-02T16:21:06.234Z
+updated: 2024-10-07T18:57:52.970Z
 tags:
   - apple
 categories:
@@ -37,16 +37,10 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -96,19 +90,6 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How does systemwide AI text generation work?
 
 Apple
@@ -122,10 +103,10 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -139,6 +120,13 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -169,10 +157,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -230,24 +218,17 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-path-from-conceptualization-to-consuming-your-mukbang-masterpiece/"><u>[New] In 2024, The Path From Conceptualization to Consuming Your Mukbang Masterpiece</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-long-term-stability-of-syma-x8c/"><u>[New] Long-Term Stability of Syma X8C</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-mind-puzzling-stats-a-graphed-journey-through-yt-17/"><u>[New] Mind-Puzzling Stats A Graphed Journey Through YT '17</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-guide-to-top-video-editors-for-webcams-for-2024/"><u>[New] Ultimate Guide to Top Video Editors for Webcams for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-vivavideo-review-the-users-perspective/"><u>[Updated] In 2024, VivaVideo Review The User's Perspective</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pro-level-strategies-to-purge-backgrounds-in-figma/"><u>[Updated] Pro-Level Strategies to Purge Backgrounds in Figma</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-ways-to-address-zlibdll-missing-error-on-your-computer/"><u>Effective Ways to Address 'zlib.dll' Missing Error on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-steps-to-correct-discord-setup-failures-get-started-now/"><u>Effortless Steps to Correct Discord Setup Failures – Get Started Now!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-11-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus 11 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-redmi-note-12-pro-4g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi Redmi Note 12 Pro 4G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mac-users-handbook-effortless-rar-file-extraction-techniques/"><u>Mac Users' Handbook: Effortless RAR File Extraction Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/managing-network-discovery-settings-in-windows-11-easily/"><u>Managing Network Discovery Settings in Windows 11 Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-art-of-virality-8-essential-tips-for-hitting-big-on-youtube/"><u>Master the Art of Virality: 8 Essential Tips for Hitting Big on YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/steps-to-deactivate-enhanced-cursor-movement-on-mac-systems/"><u>Steps to Deactivate Enhanced Cursor Movement on Mac Systems</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719154626988-strengthen-your-security-end-to-end-encrypted-messaging-on-facebooks-social-network/"><u>Strengthen Your Security: End-to-End Encrypted Messaging on Facebook’s Social Network</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/to-purchase-or-not-are-blu-ray-players-still-relevant/"><u>To Purchase or Not: Are Blu-Ray Players Still Relevant?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-9-expert-advice-on-acing-your-skype-job-interview/"><u>Top 9 Expert Advice on Acing Your Skype Job Interview</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-tiktoks-secrets-10-steps-to-make-your-videos-go-viral/"><u>Unlocking TikTok's Secrets: 10 Steps to Make Your Videos Go Viral</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-tcls-latest-additions-19-cutting-edge-q-and-s-class-smart-tvs-now-available/"><u>Unveiling TCL's Latest Additions: 19 Cutting-Edge Q and S Class Smart TVs Now Available</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-do-shopping-blogs-have-a-payment-scheme-for-reports-for-2024/"><u>[Updated] Do Shopping Blogs Have a Payment Scheme for Reports for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-elevating-your-itunes-media-library-with-recordings/"><u>2024 Approved Elevating Your iTunes Media Library with Recordings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-techniques-for-effective-webp-to-jpeg-change/"><u>2024 Approved Leading Techniques for Effective WebP to JPEG Change</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-metaverse-marketing-revolutionizing-customer-outreach/"><u>2024 Approved Metaverse Marketing Revolutionizing Customer Outreach</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bend-the-rules-of-livestreaming-on-youtube-without-a-subscriber-hurdle-for-2024/"><u>Bend the Rules of Livestreaming on YouTube, Without a Subscriber Hurdle for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-why-electric-cars-excel-beyond-their-gasoline-competitors/"><u>Discover Why Electric Cars Excel Beyond Their Gasoline Competitors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/enhance-your-binge-watch-list-with-these-six-mac-methods-for-netflix-recording-for-2024/"><u>Enhance Your Binge-Watch List with These Six Mac Methods for Netflix Recording for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-your-non-responsive-laptop-touchpad-on-pcs-with-windows-1187-guide/"><u>Fixing Your Non-Responsive Laptop Touchpad on PCs with Windows 11/8/7 (Guide)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-infinix-smart-8-hd-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Infinix Smart 8 HD to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-restoring-wi-fi-functionality-on-the-microsoft-surface-pro/"><u>Step-by-Step Guide: Restoring Wi-Fi Functionality on the Microsoft Surface Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-secrets-behind-oled-detailed-insights-into-its-workings/"><u>Unveiling the Secrets Behind OLED - Detailed Insights Into Its Workings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/update-your-viewing-experience-how-to-install-a-new-internet-browser-on-your-samsung-tv/"><u>Update Your Viewing Experience: How to Install a New Internet Browser on Your Samsung TV</u></a></li>
 </ul></div>
 

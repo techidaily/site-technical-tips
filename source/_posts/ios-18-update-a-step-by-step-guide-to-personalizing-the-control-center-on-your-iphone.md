@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Update: A Step-by-Step Guide to Personalizing the Control Center on Your iPhone"
-date: 2024-09-26T09:20:32.319Z
-updated: 2024-10-02T05:38:36.593Z
+date: 2024-09-30T17:11:37.753Z
+updated: 2024-10-07T19:02:04.171Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -44,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -58,6 +51,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -65,10 +65,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -76,13 +76,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -97,6 +90,13 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,16 +134,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-from-front-to-back-a-step-by-step-guide-for-instagram-video-angles/"><u>[New] From Front to Back A Step-by-Step Guide for Instagram Video Angles</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unveiling-obs-screen-recorder-functionality-deeply/"><u>[New] Unveiling OBS Screen Recorder Functionality Deeply</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/access-high-quality-printing-with-canons-imageclass-mf4800-free-driver-downloads-now/"><u>Access High-Quality Printing with Canon's ImageCLASS MF4800: Free Driver Downloads Now!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-best-free-system-boosters-26-choice-registry-cleaner-programs-of-this-year/"><u>Explore Best Free System Boosters: 26 Choice Registry Cleaner Programs of This Year</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-pagewide-pro-ebp477dw-driver-for-windows-11108-systems/"><u>Get the Latest HP PageWide Pro Ebp477dw Driver for Windows 11/10/8 Systems</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/mastery-of-gesture-recognition-all-methods-explained/"><u>Mastery of Gesture Recognition All Methods Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/modern-students-modern-tools-a-guide-to-the-9-most-important-tech-gadgets-for-school/"><u>Modern Students, Modern Tools: A Guide to The 9 Most Important Tech Gadgets for School</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-msidll-missing-or-unreachable-issues-a-comprehensive-guide/"><u>Resolving msi.dll Missing or Unreachable Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-intermittent-youtube-connectivity-problems/"><u>Solving the Mystery of Intermittent YouTube Connectivity Problems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-accessing-and-viewing-pages-files-on-your-windows-computer/"><u>Ultimate Guide: Accessing and Viewing Pages Files on Your Windows Computer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/venturing-beyond-standard-definition-a-look-at-4k-tvs/"><u>Venturing Beyond Standard Definition: A Look at 4K TVs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-ultimate-compendium-hands-free-device-interaction-for-2024/"><u>[New] The Ultimate Compendium Hands-Free Device Interaction for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-navigating-the-markets-youtubes-top-picks-for-2024/"><u>[Updated] Navigating the Markets YouTube's Top Picks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamsavvy-exploring-alternatives-to-dacast/"><u>[Updated] StreamSavvy Exploring Alternatives to DaCast</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/capturing-adrenaline-with-the-latest-yi-technology-for-2024/"><u>Capturing Adrenaline with the Latest Yi Technology for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-past-of-im-technology-insights-into-what-is-aim/"><u>Decoding the Past of IM Technology - Insights Into What Is AIM?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disabling-microsofts-sticky-keys-feature-in-windows-a-comprehensive-guide/"><u>Disabling Microsoft's Sticky Keys Feature in Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/expert-analysis-of-cyberpowerpcs-gamer-xtreme-combining-affordability-with-extensive-customization-options/"><u>Expert Analysis of CyberPowerPC's Gamer Xtreme: Combining Affordability with Extensive Customization Options</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-zlibdll-not-found-or-missing-errors/"><u>How to Fix Zlib.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-2024-hotlist-best-free-streaming-platforms-on-roku/"><u>Unveiling the 2024 Hotlist: Best Free Streaming Platforms on Roku</u></a></li>
 </ul></div>
 

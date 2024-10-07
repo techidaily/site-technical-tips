@@ -1,7 +1,7 @@
 ---
 title: "All You Need to Know About Apple's Latest Reveals at the Worldwide Developers Conference: Enhancements in AI, Siri Updates & New Features in iOS 18 - Detailed Coverage"
-date: 2024-09-26T14:46:04.119Z
-updated: 2024-10-02T07:53:18.008Z
+date: 2024-10-06T21:17:49.317Z
+updated: 2024-10-07T17:20:44.976Z
 tags:
   - apple
 categories:
@@ -42,25 +42,11 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
 
@@ -69,6 +55,19 @@ While it's easy enough to open Vision Pro's home view (the field of app icons) b
 In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers opens the app view. Flipping your hand over will give you time and battery level. A finger tap in this position will open up Control Center. 
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
 
@@ -85,10 +84,10 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. New developer APIs
@@ -100,6 +99,13 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Volumetric API:** Allows complex 3D apps to run side-by-side. A volumetric API is at the core of most 3D content, because it allows developers to create, manage, and present volumetric content. My read on this announcement is not the introduction of a Volumetric API, but that it can allow multiple 3D apps to run concurrently.
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
 
@@ -120,10 +126,10 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -179,16 +185,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-step-by-step-guide-to-swap-fins-sounds-on-windows/"><u>[Updated] 2024 Approved Step-by-Step Guide to Swap Fins' Sounds on Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-the-perfect-tone-accessible-software-for-effortless-vocal-transformation/"><u>2024 Approved Crafting the Perfect Tone Accessible Software for Effortless Vocal Transformation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-spectrum-in-hands-on-recognition-technology/"><u>2024 Approved Navigating the Spectrum in Hands-On Recognition Technology</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>2024 Approved Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-free-tools-top-5-aac-audio-files-compression-software/"><u>Best Free Tools: Top 5 AAC Audio Files Compression Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/capturing-the-details-easy-guide-to-zooming-inout-on-iphones-or-ipads/"><u>Capturing the Details: Easy Guide to Zooming In/Out on iPhones or iPads</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-scoop-the-price-release-date-and-tech-specs-of-the-new-apple-household-helper-bot-uncovered/"><u>Exclusive Scoop: The Price, Release Date, and Tech Specs of the New Apple Household Helper Bot Uncovered.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-6s-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 6s Data From iOS iTunes? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/roblox-status-check-server-issues-or-personal-connectivity/"><u>Roblox Status Check: Server Issues or Personal Connectivity?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/tips-and-tricks-for-recording-ps3-games-with-flawless-results/"><u>Tips and Tricks for Recording PS3 Games with Flawless Results</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-what-to-do-when-your-alexa-device-wont-respond/"><u>Troubleshooting Guide: What to Do When Your Alexa Device Won't Respond</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-from-novice-to-pro-a-comprehensive-guide-to-using-audacity-on-a-mac/"><u>[New] From Novice to Pro A Comprehensive Guide to Using Audacity on a Mac</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-record-your-rush-make-every-game-count-for-2024/"><u>[New] Record Your Rush Make Every Game Count for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-ultimate-test-nikon-d7500-vs-competitors-for-2024/"><u>[New] The Ultimate Test Nikon D7500 vs Competitors for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-to-using-the-photo-cutout-tool-on-your-iphone-with-ios-16/"><u>A Step-by-Step Guide to Using the Photo Cutout Tool on Your iPhone with iOS 16</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-fixes-for-quick-recovery-from-fortnite-sign-in-problems/"><u>Easy Fixes for Quick Recovery From Fortnite Sign-In Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/embark-on-epic-adventures-meet-your-new-favorite-twitter-travel-gurus-for-exceptional-deals-and-advice/"><u>Embark on Epic Adventures: Meet Your New Favorite Twitter Travel Gurus for Exceptional Deals & Advice</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y78t-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/rediscovered-passion-for-communication-through-multilingualism-in-fifties/"><u>Rediscovered Passion for Communication Through Multilingualism in Fifties</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-selection-of-favorite-free-email-services/"><u>The Definitive Selection of Favorite Free Email Services</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/travel-enthusiasts-on-twitter-you-cant-miss-the-ultimate-selection-of-66-for-exclusive-discounts-and-tales/"><u>Travel Enthusiasts on Twitter You Can't Miss: The Ultimate Selection of 66 for Exclusive Discounts & Tales</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-dev-error-in-call-of-duty-vanguard-error-code-5573-explained/"><u>Troubleshooting Dev Error in Call of Duty Vanguard - Error Code 55^73 Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-twitch-accessibility-how-to-tell-if-the-service-is-down-or-if-your-connection-fails/"><u>Troubleshooting Twitch Accessibility - How to Tell if the Service Is Down or If Your Connection Fails</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-y55s-5g-2023-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo Y55s 5G (2023) Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

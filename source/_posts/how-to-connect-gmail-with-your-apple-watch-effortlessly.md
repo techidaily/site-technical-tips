@@ -1,7 +1,7 @@
 ---
 title: How to Connect Gmail with Your Apple Watch Effortlessly
-date: 2024-09-16T00:57:18.448Z
-updated: 2024-09-20T18:52:43.253Z
+date: 2024-10-04T21:38:55.645Z
+updated: 2024-10-07T18:35:10.373Z
 categories:
   - BestProducts
 description: This Article Describes How to Connect Gmail with Your Apple Watch Effortlessly
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/ZaqhPXMIaj_6TyYlqBXtwmLaWZ4=/540x405/fi
 
  This article explains how to delete the[DNS cache](https://www.lifewire.com/what-is-a-dns-cache-817514) on a Mac.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use the macOS Flush DNS Command
 
  If you’re experiencing internet connectivity issues, you may be able to fix them by resetting the[DNS](https://www.lifewire.com/what-is-dns-domain-name-system-2625855) cache with a[Terminal command](https://www.lifewire.com/mac-terminal-commands-4774997) . It should only take a few moments.  
@@ -30,10 +37,26 @@ thumbnail: https://www.lifewire.com/thmb/ZaqhPXMIaj_6TyYlqBXtwmLaWZ4=/540x405/fi
 1. [Open Terminal](https://www.lifewire.com/macos-terminal-4774149) . One quick way is to press**Command** +**Space** to launch[Spotlight](https://www.lifewire.com/use-spotlight-mac-4586951) . Then, type**Terminal** and select it from the results.  
 ![Terminal highlighted in Spotlight on a Mac.](https://www.lifewire.com/thmb/QGngs7Naa2bQVtWQWVaRG0K34yc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Terminal-6e4ba7528a4c4220a28542f84f214676.jpg)  
  You can also access Terminal by navigating to**Go** \>**Utilities** \>**Terminal** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Type (or[copy and paste](https://www.lifewire.com/cut-copy-paste-on-mac-4427671) ) this command into Terminal and then press**Enter** :  
  `sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder`  
 ![Command highlighted in Terminal window](https://www.lifewire.com/thmb/S2U8vSx5U_PgZI2ZZR_uTWdGHcw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Command-e05651de1b2f44e7b99903d8f00910f5.jpg)  
  This command only works in[macOS](https://www.lifewire.com/what-is-macos-4691239) 10.12 Sierra and newer. If you have an older version, check the next section for the correct command.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Type your password and then press**return** . The DNS cache will be reset immediately, but there will be no message to that effect. When a new line appears, it indicates the command has been carried out.  
 ![Entering a password in Terminal on a Mac.](https://www.lifewire.com/thmb/hvFn07N8xnjZ9XJQvgMitPvCTVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Password-902f4015f672459598066969c7900b2f.jpg)  
 The password will not appear in Terminal as you type it.
@@ -50,16 +73,10 @@ The password will not appear in Terminal as you type it.
 * **Tiger** : lookupd -flushcache
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Does Flushing DNS Do?
@@ -108,5 +125,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-understanding-the-fundamentals-of-online-tales/"><u>[New] Understanding the Fundamentals of Online Tales</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-your-route-to-youtube-entrepreneurship-top-10-easy-channels/"><u>[New] Your Route to YouTube Entrepreneurship Top 10 Easy Channels</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-how-to-fix-resident-evil-4-remake-crashing/"><u>[Solved] How to Fix Resident Evil 4 Remake Crashing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultimate-10-final-cut-pro-enhancers/"><u>[Updated] 2024 Approved The Ultimate 10 Final Cut Pro Enhancers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-best-8-platforms-for-professional-linux-editing-for-2024/"><u>[Updated] Best 8 Platforms for Professional Linux Editing for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-geforce-rtx-3080-driver-download-for-microsoft-windows-platforms-10-8-and-7/"><u>Free GeForce RTX 3080 Driver Download for Microsoft Windows Platforms (10, 8 & 7)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-ipados-version-18-launch-details-dates-costs-and-innovative-features/"><u>Free IPadOS Version 18 Launch Details: Dates, Costs & Innovative Features</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-dialect-dashboard-simplest-languages-overview/"><u>Global Dialect Dashboard: Simplest Languages Overview</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-instant-windows-photograph-gazing-tool/"><u>In 2024, Best Instant Windows Photograph Gazing Tool</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/marchs-ultimate-guide-to-scoring-great-apple-watch-discounts/"><u>March's Ultimate Guide to Scoring Great Apple Watch Discounts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-missing-python24dll-a-step-by-step-guide/"><u>Resolving 'Missing python24.dll': A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-overcoming-the-netflix-error-ui-800-3/"><u>Step-by-Step Solution: Overcoming the Netflix Error (UI-800-3)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-connecting-apple-airpods-with-your-nintendo-switch/"><u>Step-by-Step Tutorial: Connecting Apple AirPods with Your Nintendo Switch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-selection-leading-ceiling-audio-units-for-the-year-2024/"><u>Ultimate Selection: Leading Ceiling Audio Units for the Year 2024</u></a></li>
+</ul></div>
 

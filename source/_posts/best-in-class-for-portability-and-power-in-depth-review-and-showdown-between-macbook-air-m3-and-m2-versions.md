@@ -1,7 +1,7 @@
 ---
 title: "Best in Class for Portability & Power: In-Depth Review and Showdown Between MacBook Air M3 & M2 Versions"
-date: 2024-09-26T17:14:03.130Z
-updated: 2024-10-02T14:48:46.703Z
+date: 2024-09-30T20:13:18.027Z
+updated: 2024-10-07T17:03:57.696Z
 tags:
   - apple
 categories:
@@ -59,10 +59,16 @@ Before you move on to the next step, be sure that Xcode is fully installed, that
 Once all of that is done, we can move on. 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Configure the VM hosting app in Xcode
@@ -98,10 +104,10 @@ You're ready to start running the VM. Hit the little arrow to build and run.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Installing Ubuntu
@@ -137,10 +143,10 @@ Use the default, which is to allow the installer to erase the virtual disk and s
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Run Ubuntu
@@ -154,10 +160,10 @@ Once you restart, you'll be in a standard environment, with a nice little virtua
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Final thoughts
@@ -204,22 +210,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-guide-to-camstudio-recording-and-capturing/"><u>[New] Ultimate Guide to CamStudio Recording and Capturing</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-maximizing-your-experience-with-youtube-tv/"><u>[Updated] In 2024, Maximizing Your Experience with YouTube TV</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ignite-fitness-goals-with-the-ultimate-music-mix/"><u>2024 Approved Ignite Fitness Goals with the Ultimate Music Mix</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2024s-must-have-protective-phones-shells-for-splashes-and-spills/"><u>2024'S Must-Have Protective Phones Shells for Splashes and Spills</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/are-you-getting-the-most-out-of-your-wi-fi-with-mesh-networking-technology/"><u>Are You Getting the Most Out of Your Wi-Fi with Mesh Networking Technology?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/cookiebot-inspired-technologies-streamlining-web-interactions/"><u>Cookiebot-Inspired Technologies: Streamlining Web Interactions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/eliminate-screen-tremors-and-glitches-a-troubleshooting-guide-for-surface-owners/"><u>Eliminate Screen Tremors and Glitches: A Troubleshooting Guide for Surface Owners</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ensuring-proper-phone-functionality-on-samsung-galaxy-watch-a-step-by-step-guide-to-answering-calls-successfully/"><u>Ensuring Proper Phone Functionality on Samsung Galaxy Watch – A Step-by-Step Guide to Answering Calls Successfully</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722902375194-fix-wlanapidll-file-missing-step-by-step-solutions/"><u>Fix 'WLanapi.dll' File Missing? Step-by-Step Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-image-innovation-at-its-peak-8-leaders-in-photogridding/"><u>In 2024, Image Innovation at Its Peak 8 Leaders in Photogridding</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722890114033-m3-macbook-pro-news-update-insider-info-on-costs-launch-schedule-and-in-depth-specifications/"><u>M3 MacBook Pro News Update: Insider Info on Costs, Launch Schedule, and In-Depth Specifications!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-bring-your-ideas-to-life-top-animation-software-for-beginners-and-pros/"><u>New Bring Your Ideas to Life Top Animation Software for Beginners and Pros</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-vehicle-load-for-this-equipment/"><u>No Vehicle Load for This Equipment</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sony-49-4k-ultra-hd-smart-led-tv-xbr49x900f-comprehensive-product-assessment/"><u>Sony 49 4K Ultra HD Smart LED TV XBR49X900F - Comprehensive Product Assessment</u></a></li>
-<li><a href="https://common-error.techidaily.com/technological-termination-device-fatality/"><u>Technological Termination: Device Fatality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tech-toolkit-a-students-guide-to-navigating-education/"><u>The Ultimate Tech Toolkit: A Student's Guide to Navigating Education</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-essential-notetaking-tools-for-apples-ipad-and-ipad-pro/"><u>Top 7 Essential Notetaking Tools for Apple's iPad & iPad Pro</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-compiling-chords-and-crafting-a-unique-youtube-playlist/"><u>[New] 2024 Approved Compiling Chords and Crafting a Unique YouTube Playlist</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-groundbreaking-biodegradable-film-technology-advice/"><u>[New] 2024 Approved Groundbreaking Biodegradable Film Technology Advice</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeos-revenue-revolution-strategies-for-successful-advertising-earning/"><u>[New] 2024 Approved Vimeo's Revenue Revolution Strategies for Successful Advertising Earning</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-renderer-resurgence-new-radeon-edition/"><u>[Updated] 2024 Approved Renderer Resurgence New Radeon Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-acer-predator-orion-5000-laptop-review-top-value-and-high-end-specs/"><u>Best Acer Predator Orion 5000 Laptop Review: Top Value and High-End Specs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connecting-and-utilizing-external-storage-with-your-xbox-one-a-step-by-step-guide/"><u>Connecting and Utilizing External Storage with Your Xbox One: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cost-effective-starter-packs-for-aspiring-home-movie-buffs/"><u>Cost-Effective Starter Packs for Aspiring Home Movie Buffs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/detailed-analysis-of-the-line-messaging-app/"><u>Detailed Analysis of the Line Messaging App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-selection-the-5-star-workout-logging-tools-of-2024/"><u>Discover the Ultimate Selection: The 5 Star Workout Logging Tools of 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-guide-downloading-your-favorite-shows-from-netflix-onto-your-laptop/"><u>Easy Guide: Downloading Your Favorite Shows From Netflix Onto Your Laptop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-integrating-pinterest-features-into-your-facebook-business-profile/"><u>Guide: Integrating Pinterest Features Into Your Facebook Business Profile</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-edge-40-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Motorola Edge 40 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone 11 Pro Max</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-live-activities-in-ios-16-a-comprehensive-guide/"><u>Mastering Live Activities in iOS 16: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-made-simple-resolving-issues-with-your-iphone-remote-control-feature/"><u>Troubleshooting Made Simple: Resolving Issues with Your iPhone Remote Control Feature</u></a></li>
 </ul></div>
 

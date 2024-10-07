@@ -1,7 +1,7 @@
 ---
 title: "Discover Leading Trends in Mobility: How On-Device AI and Next-Gen Smartphones Are Shaping the Future"
-date: 2024-09-27T21:27:48.438Z
-updated: 2024-10-02T12:47:46.911Z
+date: 2024-10-06T21:54:19.641Z
+updated: 2024-10-07T16:02:27.984Z
 tags:
   - apple
 categories:
@@ -31,16 +31,10 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -58,16 +52,10 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
@@ -87,10 +75,10 @@ Now that the major players have entered the competition, the big question this y
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
@@ -109,6 +97,13 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Periscope lenses push cameras to further distances
 
 The iPhone 15 Pro Max features Apple's first true telephoto lens, which the company calls "Tetraprism". 
@@ -126,13 +121,6 @@ Companies like Samsung have long adopted periscope lenses to improve their camer
 As manufacturers continue to figure out ways to shrink and fit better components within the framework of smartphones, expect better, more capable cameras in 2024 and beyond.
 
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
 
@@ -188,22 +176,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-lights-spectrum-in-focus-pro-hdr-creation-tips-for-ps/"><u>[Updated] 2024 Approved Light's Spectrum in Focus Pro HDR Creation Tips for PS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-prime-racing-game-selection-top-five/"><u>[Updated] 2024 Approved Prime Racing Game Selection Top Five</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-blueprint-for-captivating-instagram-unboxing-vids/"><u>[Updated] The Blueprint for Captivating Instagram Unboxing Vids</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-upside-down-up-in-popularity-the-instagram-way-for-2024/"><u>[Updated] Upside Down, Up in Popularity The Instagram Way for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/az-capture-tool-full-app-testing-and-options-guide/"><u>AZ Capture Tool Full App Testing & Options Guide</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/critiquing-the-newest-microsoft-os-has-windows-11-earned-its-unpopular-status-too-quickly/"><u>Critiquing the Newest Microsoft OS: Has Windows 11 Earned Its Unpopular Status Too Quickly?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-ways-to-project-your-online-meetings-on-the-big-screen-using-zoom-and-tv-together/"><u>Easy Ways to Project Your Online Meetings on the Big Screen: Using Zoom & TV Together</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exciting-imessage-challenges-the-best-games-on-your-iphone-as-we-step-into-2024/"><u>Exciting iMessage Challenges: The Best Games on Your iPhone as We Step Into 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/getting-windows-11-search-to-work-top-troubleshooting-tips-you-need/"><u>Getting Windows 11 Search to Work: Top Troubleshooting Tips You Need</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-resolve-d3dx939dll-error-messages-for-windows-users/"><u>How to Resolve 'd3dx9_39.dll' Error Messages for Windows Users</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-ace-3frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Ace 3FRP Lock</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-how-to-batch-select-multiple-messages-in-gmail/"><u>Step-by-Step Tutorial: How to Batch Select Multiple Messages in Gmail</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-unlocking-built-in-fm-radio-on-smartphones/"><u>The Ultimate Walkthrough: Unlocking Built-In FM Radio on Smartphones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tips-and-techniques-for-uncovering-personal-email-information-online/"><u>Tips and Techniques for Uncovering Personal Email Information Online</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-lg-gram-17-notebook-top-performance-in-an-ultra-thin-frame/"><u>Unpacking the LG Gram 17 Notebook: Top Performance in an Ultra-Thin Frame</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/whatsapp-and-signal-face-off-exploring-their-main-features-and-privacy-policies/"><u>WhatsApp and Signal Face-Off: Exploring Their Main Features & Privacy Policies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-definitive-list-of-tools-for-computer-and-microphone-capture/"><u>[New] 2024 Approved The Definitive List of Tools for Computer & Microphone Capture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-easywebcamusage-recordingtipsandtricks/"><u>[New] EasyWebCamUsage RecordingTipsAndTricks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-accessing-hidden-social-engagement-in-video-streams/"><u>[Updated] 2024 Approved Accessing Hidden Social Engagement in Video Streams</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-beat-the-standard-a-complete-tutorial-for-adding-ringtones-and-sounds-to-android/"><u>[Updated] Beat the Standard A Complete Tutorial for Adding Ringtones & Sounds to Android</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-pro-mac-and-pc-screen-capture-experts/"><u>[Updated] In 2024, Pro Mac & PC Screen Capture Experts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-exclusive-list-top-5-affordable-screen-recorders-for-windows/"><u>2024 Approved Exclusive List Top 5 Affordable Screen Recorders for Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/avoid-spending-discover-the-finest-free-mac-screen-recorders/"><u>Avoid Spending Discover the Finest Free Mac Screen Recorders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-elite-selection-of-tv-streaming-services-for-2econd-quarter-2024/"><u>Discover the Elite Selection of TV Streaming Services for 2Econd Quarter, 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-a78-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo A78 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-sync-the-time-correctly-on-a-kindle-paperwhite-quick-tips/"><u>How to Sync the Time Correctly on a Kindle Paperwhite: Quick Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/losungen-fur-haufig-auftretende-probleme-mit-dvds-wenn-sie-nicht-funktionieren/"><u>Lösungen Für Häufig Auftretende Probleme Mit DVDs: Wenn Sie Nicht Funktionieren</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pro-tip-effortlessly-conceal-your-environment-in-microsoft-teams-video-calls/"><u>Pro Tip: Effortlessly Conceal Your Environment in Microsoft Teams Video Calls</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-resolving-mfc42dll-file-missing-issues/"><u>Solutions for Resolving 'MFC42.dll' File Missing Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-utilizing-google-meets-blur-effect-to-enhance-virtual-meeting-aesthetics/"><u>Step-by-Step Tutorial: Utilizing Google Meet's Blur Effect to Enhance Virtual Meeting Aesthetics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-507-instagram-caption-ideas-for-hitting-the-high-notes/"><u>Top 507 Instagram Caption Ideas for Hitting the High Notes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-bing-microsofts-search-engine-explained/"><u>Understanding Bing: Microsoft's Search Engine Explained</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Identifying Surveillance: How to Spot If Someone's Using an AirTag for Tracking | Expert Advice"
-date: 2024-09-30T19:59:13.757Z
-updated: 2024-10-02T08:59:30.220Z
+date: 2024-10-01T20:18:41.887Z
+updated: 2024-10-07T19:31:08.275Z
 tags:
   - apple
 categories:
@@ -44,6 +44,19 @@ If you suspect someone is tracking your movements using an AirTag, your iOS or A
 
 **Also: [How to clear the cache on your iPhone](https://www.zdnet.com/article/how-to-clear-cache-on-iphone-and-why-you-should/)**
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. You may receive an alert on your iPhone
 
 If you own an iPhone, and it detects an AirTag, your phone may alert you of an "AirTag found moving with you." This will happen if these things are true:
@@ -75,13 +88,6 @@ In System Services, we're going to enable Tracking Notifications.
 
 Screenshot by Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Check the Find My app
 
 When an AirTag is separated from its owner, it may play a sound to make it easier for others to find it. If you hear an AirTag -- or another sound you can't recognize that you believe could be an AirTag -- open the Find My app on your Apple device and check to see if it found an AirTag.
@@ -91,13 +97,6 @@ When an AirTag is separated from its owner, it may play a sound to make it easie
 Check your belongings for the hidden AirTag, making sure to pat down jackets and bags, and thoroughly check your pockets, purse, and wallet. 
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Play a sound on AirTag
 
@@ -129,13 +128,6 @@ Tapping an Apple AirTag with an NFC-enabled smartphone will let you see its info
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Disable the AirTag
 
 Disabling an AirTag means the owner will no longer be able to see its current location or get updates for it. 
@@ -145,13 +137,6 @@ To disable an AirTag, just remove its battery. You can do this by pushing down o
 Maria Diaz/ZDNET
 
 If you're concerned about unwanted tracking or fear for your safety, take screenshots throughout this process, including the device's serial number and owner's information, contact local law enforcement, and give the disabled AirTag to authorities.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -165,6 +150,13 @@ If you are an Android user, [Google offers "unknown tracker alerts"](https://www
 
 If your Android smartphone detects an AirTag moving with you that has been separated from its owner, it will let you scan for the tracker and play a sound to find it -- all without ever letting the owner know it's been found.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do AirTags have GPS?
 
 AirTags don't have [GPS](https://www.zdnet.com/article/best-gps-trackers-and-devices-for-kids/). Instead, they use the Find My network of almost 2 billion [iPhones, iPads, Apple Watches, and Macs](https://www.zdnet.com/article/the-apple-products-you-shouldnt-buy-this-month-april-2023-edition/). AirTag tracking works by sending anonymous Bluetooth signals that can be picked up by any of these devices within 30 feet. Then, these devices send the AirTag's location to iCloud, allowing you to see it in your own Find My app. 
@@ -172,6 +164,13 @@ AirTags don't have [GPS](https://www.zdnet.com/article/best-gps-trackers-and-dev
 **Also:** [**The best AirTag wallets**](https://www.zdnet.com/article/best-airtag-wallet/)
 
 With so many Apple devices worldwide, Apple's Find My network has become very reliable. Each Apple device is a node that grows the network, so a lost AirTag can transmit an accurate location without GPS if it's near Find My devices. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does an AirTag battery last?
 
@@ -190,10 +189,10 @@ Yes, other Bluetooth trackers may or may not be compatible with the Find My netw
 Apple's Find My network isn't the only one with this feature. If a Samsung Tag is found moving with you, you'll also get a notification. Google's newer Find My feature also gives you alerts when an unknown Bluetooth tracker is found moving with you.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I stop an Apple AirTag from tracking me?
@@ -203,6 +202,13 @@ Removing the AirTag's battery is the easiest way to stop it from tracking you. T
 **Also:** [**This accessory lets you add an AirTag to your Apple TV remote**](https://www.zdnet.com/home-and-office/home-entertainment/this-accessory-lets-you-add-an-airtag-to-your-apple-tv-remote/)
 
 The Find My network connects different iPhones and Apple devices to AirTags, to track their location. An AirTag can continue tracking you unless you disable it by removing its battery or if you permanently stay outside the Find My network, a difficult task with as many iPhone users as there are in the world. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -244,24 +250,18 @@ Although someone else won't be able to track your AirTag, they can hear it if it
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/igital-detox-how-to-turn-off-youtube-on-computers-and-phones/"><u>[New] Digital Detox How to Turn Off Youtube on Computers and Phones</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-comprehensive-update-best-android-apps-for-downloading-facebook-videos/"><u>[Updated] 2024 Approved Comprehensive Update Best Android Apps for Downloading Facebook Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/achieve-perfect-slumber-with-these-top-5-apple-watch-sleep-companions/"><u>Achieve Perfect Slumber with These Top 5 Apple Watch Sleep Companions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/analyzing-the-truecaller-application-a-detailed-review/"><u>Analyzing the Truecaller Application: A Detailed Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-the-mystery-of-the-elusive-d3dx920-file-a-comprehensive-fix/"><u>Decoding the Mystery of the Elusive D3DX9_20 File – A Comprehensive Fix</u></a></li>
-<li><a href="https://fox-making.techidaily.com/enhance-offline-watching-of-globo-channels-by-downloading-and-converting-videos-into-mp4-and-wmv-files/"><u>Enhance Offline Watching of Globo Channels by Downloading and Converting Videos Into MP4 & WMV Files</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-ahead-with-rumors-on-the-new-samsung-galaxy-s2er-price-forecast-release-timeline-and-key-specifications/"><u>Get Ahead with Rumors on the New Samsung Galaxy S2er - Price Forecast, Release Timeline & Key Specifications</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/gratuit-converting-avi-to-mp4-en-ligne-avec-movavi-easy-and-fast/"><u>Gratuit Converting AVI to MP4 en Ligne Avec Movavi - Easy & Fast!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-exclusive-list-of-elite-christian-streaming-services/"><u>In 2024, The Exclusive List of Elite Christian Streaming Services</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-xiaomi-redmi-note-12-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Xiaomi Redmi Note 12 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/innovative-approaches-to-leveraging-meta-ai-for-instagram-marketing-success/"><u>Innovative Approaches to Leveraging Meta AI for Instagram Marketing Success</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/linguistic-landscape-belgiums-native-and-foreign-speeches/"><u>Linguistic Landscape: Belgium's Native and Foreign Speeches</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-process-securing-a-spot-at-an-apple-expert-session/"><u>Navigating the Process: Securing a Spot at an Apple Expert Session</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcome-your-apple-watch-stand-count-dilemma-expert-tips-for-accurate-fitness-monitoring/"><u>Overcome Your Apple Watch Stand Count Dilemma - Expert Tips for Accurate Fitness Monitoring</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/reel-in-the-solution-to-instagram-video-glitches-for-2024/"><u>Reel in the Solution to Instagram Video Glitches for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-issue-what-to-do-when-you-encounter-a-missing-winhttpdll-file/"><u>Resolving the Issue: What To Do When You Encounter a Missing Winhttp.dll File</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/star-wars-universe-awaiting-you-ordered-viewing-experience-on-disneyplus-platform/"><u>Star Wars Universe Awaiting You: Ordered Viewing Experience on Disney+ Platform</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723005023142-step-by-step-fix-for-acrocefexe-errors-on-windows-expert-tips/"><u>Step-by-Step Fix for AcroCEF.exe Errors on Windows – Expert Tips!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-sending-voice-notes-via-iphone/"><u>Ultimate Guide: Sending Voice Notes via iPhone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-how-to-harness-the-power-of-obs-on-android-gadgets/"><u>[New] How to Harness the Power of OBS on Android Gadgets</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-ios-psp-gamepads-emulation-2023s-best-list-for-2024/"><u>[New] Top iOS PSP Gamepads Emulation - 2023'S Best List for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-captivate-audiences-quickly-shortcuts-for-youtube-trailers-with-filmora/"><u>[Updated] In 2024, Captivate Audiences Quickly Shortcuts for YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-guide-to-capturing-your-beloved-tv-for-2024/"><u>[Updated] The Ultimate Guide to Capturing Your Beloved TV for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-fixing-when-your-surface-pro-wont-connect-to-wi-fi-networks/"><u>Expert Tips for Fixing When Your Surface Pro Won't Connect to Wi-Fi Networks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-a-step-by-step-methodology-for-precisentic-google-meeting-arrangements/"><u>In 2024, A Step-by-Step Methodology for Precisentic Google Meeting Arrangements</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-placing-multiple-waypoints-in-google-maps/"><u>Mastering the Art of Placing Multiple Waypoints in Google Maps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/motorola-moto-g77-comprehensive-performance-evaluation/"><u>Motorola Moto G77 - Comprehensive Performance Evaluation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722852090793-the-ultimate-fix-for-when-your-ipad-wont-pair-with-wi-fi-at-home-or-work/"><u>The Ultimate Fix for When Your iPad Won't Pair with Wi-Fi at Home or Work!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-12-estensioni-di-google-chrome-per-la-registrazione-dello-schermo/"><u>Top 12 Estensioni Di Google Chrome Per La Registrazione Dello Schermo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-connection-issues-is-the-battlenet-server-down/"><u>Troubleshooting Connection Issues: Is the Battle.net Server Down?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-resolving-hulus-rununk13-playback-error/"><u>Troubleshooting Tips: Resolving Hulu's RUNUNK13 Playback Error</u></a></li>
 </ul></div>
 

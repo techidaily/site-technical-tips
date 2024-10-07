@@ -1,7 +1,7 @@
 ---
 title: "Eye-Control Revolutionizes Apple Devices: Navigate iPhones and iPads Using Just Your Gaze - Insights for the Visually Impaired"
-date: 2024-09-25T10:36:00.789Z
-updated: 2024-10-02T02:16:14.654Z
+date: 2024-09-30T20:25:49.624Z
+updated: 2024-10-07T20:40:53.408Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Read on for a look at some of the new accessibility features coming to Apple har
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -46,10 +46,10 @@ Apple is bringing a new feature to both iOS and iPadOS that will let you navigat
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -60,18 +60,18 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### New CarPlay features
 
@@ -80,10 +80,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -120,21 +120,14 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-eliminating-pc-hacks-and-freezes-during-(span-stylecolor-0078af)halo-3(span)-sessions/"><u>[Comprehensive Solutions] Eliminating PC Hacks and Freezes During <Span Style=color: #0078AF;>Halo 3</Span> Sessions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-intense-dissection-unveiling-the-secrets-of-the-bublcam-camera/"><u>[New] Intense Dissection Unveiling the Secrets of the Bublcam Camera</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/astering-youtube-stat-tracking-essentials-for-2024/"><u>[New] Mastering YouTube Stat Tracking Essentials for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pushing-boundaries-with-time-lapse-full-slomo-review-2024/"><u>[New] Pushing Boundaries with Time-Lapse Full SloMo Review, 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse-for-2024/"><u>[Updated] Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/7-steps-to-sensational-surprise-revelation/"><u>7 Steps to Sensational Surprise Revelation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/electric-vehicle-durability-thriving-in-both-freezing-temperatures-and-sweltering-heats/"><u>Electric Vehicle Durability: Thriving in Both Freezing Temperatures and Sweltering Heats</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-accurate-is-the-dolby-atmos-experience-on-your-audio-setup/"><u>How Accurate Is The Dolby Atmos Experience On Your Audio Setup?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-xiaomi-13t-by-drfone-android/"><u>In 2024, How to Bypass FRP from Xiaomi 13T?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-instagram-how-to-boost-your-following/"><u>Mastering the Art of Instagram: How to Boost Your Following</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mfc4ndll-error-fix-effective-strategies-to-get-the-file-back/"><u>mfc4n.dll Error Fix: Effective Strategies to Get the File Back</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-common-among-us-voice-call-problems-for-pc-users-a-step-by-step-guide/"><u>Overcoming Common Among Us Voice Call Problems for PC Users: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/reentry-guide-regaining-access-on-omegle-after-a-ban/"><u>Reentry Guide Regaining Access on Omegle After a Ban</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-years-top-picks-for-cable-modem-and-router-combos/"><u>The Year's Top Picks for Cable Modem and Router Combos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-modifying-system-network-parameters-on-your-mac/"><u>Troubleshooting Guide: Modifying System Network Parameters on Your Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-does-my-car-battery-keep-giving-up-explore-these-6-critical-reasons/"><u>Why Does My Car Battery Keep Giving Up? Explore These 6 Critical Reasons.</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-smile-station-quick-tips-for-chuckling-creations/"><u>2024 Approved Smile Station Quick Tips for Chuckling Creations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-oppo-reno-10-proplus-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Oppo Reno 10 Pro+ 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/beat-the-boredom-alone-during-covid-1ve-lockdown-ultimate-list-of-self-entertainment-options/"><u>Beat the Boredom Alone During COVID-1ve Lockdown: Ultimate List of Self-Entertainment Options!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-speedy-filing-with-macs-finder-path-bar-a-user-friendly-guide-to-easier-navigation/"><u>Discover Speedy Filing with Mac's Finder Path Bar – A User-Friendly Guide to Easier Navigation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-comparison-the-new-galaxy-s24-vs-its-predecessor-the-s23-ultra/"><u>Head to Head Comparison: The New Galaxy S24 Vs. Its Predecessor, the S23 Ultra</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-resolving-nspr4dll-file-missing-issues-on-your-pc/"><u>Solutions for Resolving 'Nspr4.dll File Missing' Issues on Your PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-invisible-dimensions-of-instagram-story-fans-for-2024/"><u>The Invisible Dimensions of Instagram Story Fans for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-strategies-for-creating-an-instagram-sensation/"><u>Top 10 Strategies for Creating an Instagram Sensation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-secrets-of-efficiently-locating-pictures-with-a-facebook-search/"><u>Unlock the Secrets of Efficiently Locating Pictures with a Facebook Search</u></a></li>
 </ul></div>
 

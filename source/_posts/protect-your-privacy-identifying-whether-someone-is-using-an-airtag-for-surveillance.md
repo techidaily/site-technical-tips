@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Privacy: Identifying Whether Someone Is Using an AirTag for Surveillance"
-date: 2024-09-26T14:51:42.668Z
-updated: 2024-10-01T21:15:58.135Z
+date: 2024-10-06T19:14:08.625Z
+updated: 2024-10-07T17:04:47.426Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -93,13 +86,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -114,6 +100,13 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,6 +116,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -136,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -159,6 +159,13 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -166,13 +173,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,14 +218,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-flagship-firefox-screenshot-tools/"><u>[New] 2024 Approved Flagship Firefox Screenshot Tools</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-download-premium-video-covers-free-fast-and-easy-for-2024/"><u>[Updated] Download Premium Video Covers - Free, Fast & Easy for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-tackling-code-19-troubleshooting-in-microsoft-windows/"><u>Easy Fixes for Tackling Code 19 Troubleshooting in Microsoft Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719296840588-end-of-year-sale-windows-10-starting-at-an-insanely-low-612/"><u>End of Year Sale: Windows 10, Starting at an Insanely Low $6.12!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-your-discord-overlay-issue-fast-and-simple-solutions/"><u>Fix Your Discord Overlay Issue - Fast & Simple Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-lava-yuva-2-pro-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Lava Yuva 2 Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-windows-11-expert-strategies-for-recording-high-quality-sounds/"><u>In 2024, Windows 11 Expert Strategies for Recording High-Quality Sounds</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-recovery-from-comctl32dll-not-found-a-helpful-guide-for-users/"><u>Step-by-Step Recovery From 'Comctl32.dll Not Found': A Helpful Guide for Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-ev-charging-the-in-depth-breakdown-of-levels-1-to-3/"><u>Understanding EV Charging: The In-Depth Breakdown of Levels 1 to 3</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-boosting-video-appeal-implementing-neon-borders-in-thumbnails-for-2024/"><u>[New] Boosting Video Appeal Implementing Neon Borders in Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-garmins-action-camera-triumph-a-comprehensible-look-at-ultra-30/"><u>[Updated] In 2024, Garmin's Action Camera Triumph - A Comprehensible Look at Ultra 30</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unlocking-the-potential-of-bandicam-your-ultimate-guide/"><u>[Updated] Unlocking the Potential of Bandicam – Your Ultimate Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-joke-fusion-best-meme-concepts-for-special-occasions/"><u>2024 Approved Joke Fusion Best Meme Concepts for Special Occasions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-techniques-for-fast-tracking-stalled-print-tasks-a-complete-guide/"><u>Effortless Techniques for Fast-Tracking Stalled Print Tasks: A Complete Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expand-your-workspace-a-step-by-step-on-dual-monitor-setup-for-windows-11/"><u>Expand Your Workspace: A Step-by-Step on Dual Monitor Setup for Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-setting-up-a-brother-printing-solution-with-wi-fi-connectivity/"><u>Expert Tips for Setting Up a Brother Printing Solution with Wi-Fi Connectivity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-how-to-easily-disable-chrome-plugins-and-extensions/"><u>Expert Tips: How to Easily Disable Chrome Plugins and Extensions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-walkthrough-mastering-the-art-of-rebooting-your-hp-laptop-with-a-factory-reset/"><u>Expert Walkthrough: Mastering the Art of Rebooting Your HP Laptop with a Factory Reset</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tise-unleashed-professional-insights-into-video-editing/"><u>Expertise Unleashed Professional Insights Into Video Editing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-windows-11-update-error-0x80070422-a-comprehensive-guide/"><u>Fixing the Windows 11 Update Error 0X80070422: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fortnite-skin-glitch-removal-actual-solutions-for-eliminating-edit-lag/"><u>Fortnite Skin Glitch Removal: Actual Solutions for Eliminating Edit Lag</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-address-windows-11-not-entering-sleep-mode-a-comprehensive-guide/"><u>How to Address Windows 11 Not Entering Sleep Mode – A Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-xiaomi-redmi-13c-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Xiaomi Redmi 13C Phone Now with These Tips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-itunes-archives-in-3-easy-steps-for-2024/"><u>Mastering iTunes Archives in 3 Easy Steps for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/perfecting-the-synergy-of-visuals-and-voiceovers-in-videos/"><u>Perfecting the Synergy of Visuals and Voiceovers in Videos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: Sharing and Editing Files on Apple Pages Through iCloud - Tips"
-date: 2024-09-27T11:10:57.610Z
-updated: 2024-10-02T01:38:37.073Z
+date: 2024-09-30T17:01:44.435Z
+updated: 2024-10-07T18:03:09.333Z
 tags:
   - apple
 categories:
@@ -27,22 +27,29 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -52,19 +59,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -73,14 +67,14 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Enable the Collaboration feature
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -97,13 +91,6 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -122,6 +109,13 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -163,22 +157,20 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-maximize-your-footage-pro-level-tips-for-gopro-studio-users-for-2024/"><u>[New] Maximize Your Footage Pro-Level Tips for GoPro Studio Users for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-maximize-engagement-on-instagram-using-these-top-25-tags/"><u>[Updated] In 2024, Maximize Engagement on Instagram Using These Top 25 Tags</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-different-types-of-bsod-errors-and-their-meanings/"><u>All You Need to Know About Different Types of BSoD Errors and Their Meanings</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-5-pinterest-video-clips-download-for-no-cost/"><u>Best 5 Pinterest Video Clips, Download for No Cost</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/concluding-your-digital-footprint-with-linkedins-deactivation-process-for-2024/"><u>Concluding Your Digital Footprint with LinkedIn's Deactivation Process for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/creating-composition-magic-leading-lines-on-iphone/"><u>Creating Composition Magic Leading Lines on iPhone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/deciphering-rcs-protocol-next-level-sms-functionality-explained/"><u>Deciphering RCS Protocol: Next-Level SMS Functionality Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-the-most-popular-book-apps-in-february-2024/"><u>Explore the Most Popular Book Apps in February 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/how-to-add-chapters-to-vimeo-video/"><u>How to Add Chapters to Vimeo Video?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-non-openai-pos-applications-for-modern-businesses/"><u>Innovative Non-OpenAI POS Applications for Modern Businesses</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/preserve-and-protect-discover-five-key-methods-for-keeping-your-digital-data-safe-from-harm/"><u>Preserve and Protect: Discover Five Key Methods for Keeping Your Digital Data Safe From Harm</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionizing-communication-again-anticipating-the-latest-iphone-launch/"><u>Revolutionizing Communication Again: Anticipating the Latest iPhone Launch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/roku-travel-hacks-turning-your-tv-into-a-wireless-lifeline-in-hotels-and-dorms/"><u>Roku Travel Hacks: Turning Your TV Into a Wireless Lifeline in Hotels and Dorms</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-how-to-hide-or-remove-suggested-posts-on-instagram/"><u>Step-by-Step Guide: How to Hide or Remove Suggested Posts on Instagram</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-for-arranging-a-meeting-with-apple-specialists/"><u>The Complete Walkthrough for Arranging a Meeting with Apple Specialists</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-7-plus-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 7 Plus Apps to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/updated-july-2024-list-of-standard-netgear-user-credentials/"><u>Updated July 2024 List of Standard NETGEAR User Credentials</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-mastering-jump-cuts-for-dynamic-vlogging/"><u>[New] 2024 Approved Mastering Jump Cuts for Dynamic Vlogging</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-troubleshoot-mute-audio-in-tweeted-vids/"><u>[Updated] Troubleshoot Mute Audio in Tweeted Vids</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-access-tons-of-free-vocal-textures/"><u>2024 Approved Access Tons of Free Vocal Textures!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-lava-blaze-2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Lava Blaze 2 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-plan-your-getaway-with-7-free-ai-travel-assistants-and-chatgpt-for-instant-routes/"><u>How to Plan Your Getaway with 7 Free AI Travel Assistants & ChatGPT for Instant Routes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-grasping-av1-starters-guidebook/"><u>In 2024, Grasping AV1 Starter's Guidebook</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-12-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme 12 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/lenovo-device-reboot-mastering-the-process-of-a-clean-system-installation/"><u>Lenovo Device Reboot: Mastering the Process of a Clean System Installation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-watch-call-handling-identifying-and-correcting-non-responsive-behavior/"><u>Samsung Galaxy Watch Call Handling: Identifying & Correcting Non-Responsive Behavior</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/spotify-group-listening-sessions-connect-and-groove-with-your-budds/"><u>Spotify Group Listening Sessions: Connect and Groove With Your Budds</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-battle-of-streaming-devices-examining-the-differences-between-roku-express-and-stick/"><u>The Battle of Streaming Devices: Examining the Differences Between Roku Express and Stick</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-classic-80s-cinema-gems-you-cant-miss/"><u>The Ultimate List of Classic '80S Cinema Gems You Can't Miss</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-for-no-sound-when-screencasting-with-powerpoint/"><u>Troubleshooting for No Sound when Screencasting with PowerPoint</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-http-status-code-401-step-by-step-tips/"><u>Troubleshooting HTTP Status Code 401 – Step-by-Step Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-cause-of-xbox-connectivity-issues-is-it-a-server-malfunction-or-local-network-glitches/"><u>Understanding the Cause of Xbox Connectivity Issues: Is It a Server Malfunction or Local Network Glitches?</u></a></li>
 </ul></div>
 

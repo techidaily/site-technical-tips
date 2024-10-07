@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Computing Unveiled: Meet the Mac Studio, Where Mac Mini's Legacy Continues to Thrive | Innovations"
-date: 2024-09-28T18:14:46.870Z
-updated: 2024-10-02T04:23:52.397Z
+date: 2024-10-05T18:13:58.442Z
+updated: 2024-10-07T20:32:44.965Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -76,10 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -115,10 +108,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -131,6 +124,13 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -141,13 +141,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -165,6 +158,19 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -218,22 +224,15 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-that.techidaily.com/12-effective-tips-to-restore-iphones-flashlight-functionality/"><u>12 Effective Tips to Restore iPhone's Flashlight Functionality</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-easy-recording-techniques-for-live-gameplay/"><u>2024 Approved Easy Recording Techniques for Live Gameplay</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-unveiled-ultimate-guide-to-perfect-screenshots-recordings-without-glitches/"><u>Apple Vision Pro Unveiled: Ultimate Guide to Perfect Screenshots, Recordings Without Glitches</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/cant-sleep-after-discovering-a-metaverse-lover-on-zdnet-a-deep-dive-into-virtual-reality-obsessions/"><u>Can't Sleep After Discovering a Metaverse Lover on ZDNet - A Deep Dive Into Virtual Reality Obsessions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/developer-access-granted-apple-launches-visionos-sdk-and-offers-vision-pro-hacking-kits-learn-how-to-get-yours-techcrunch/"><u>Developer Access Granted: Apple Launches VisionOS SDK & Offers Vision Pro Hacking Kits - Learn How to Get Yours! | TechCrunch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-an-immersive-scrolling-journey-on-vision-pro-as-it-embraces-tiktoks-dynamic-features-zdnet-insight/"><u>Discover an Immersive Scrolling Journey on Vision Pro as It Embraces TikTok's Dynamic Features | ZDNET Insight</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhanced-immersive-scrolling-unveiled-tiktok-integrates-with-microsofts-vision-pro-platform-latest-update-from-zdnet/"><u>Enhanced Immersive Scrolling Unveiled: TikTok Integrates with Microsoft's Vision Pro Platform - Latest Update From ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-basic-to-bold-installing-unique-customizable-ringtones-and-sounds-on-android/"><u>From Basic to Bold Installing Unique, Customizable Ringtones & Sounds on Android</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978747396-get-the-best-performance-how-to-downloadupgrade-your-amd-vega-drivers-today/"><u>Get the Best Performance - How to Download/Upgrade Your AMD Vega Drivers Today</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oneplus-open-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from OnePlus Open to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/introducing-flipbuilders-multilingual-feature-build-and-publish-in-german-easily/"><u>Introducing FlipBuilder's Multilingual Feature: Build and Publish in German Easily!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-xiaomi-redmi-note-12t-pro-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Xiaomi Redmi Note 12T Pro, is it possible?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862821380-save-big-with-the-discounted-acer-nitro-get-your-24-165hz-curved-gaming-monitor-now-at-just-81/"><u>Save Big with the Discounted Acer Nitro: Get Your 24 165Hz Curved Gaming Monitor Now at Just $81!</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/step-by-step-masterclass-on-playing-mp4-files-via-windows-media-player/"><u>Step-by-Step Masterclass on Playing MP4 Files via Windows Media Player</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-enterprises-pioneering-the-future-of-the-metaverse-insights-from-zdnet/"><u>Top Enterprises Pioneering the Future of the Metaverse: Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-meta-vision-pro-a-virtual-reality-experience-with-innovative-apple-inspired-technology-zdnet-coverage/"><u>Unveiling the Meta Vision Pro: A Virtual Reality Experience with Innovative Apple-Inspired Technology - ZDNet Coverage</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/vr-discomfort-vanishing-act-surprising-solutions-to-beat-motion-sickness-in-virtual-reality-insights-from-zdnet/"><u>VR Discomfort Vanishing Act: Surprising Solutions to Beat Motion Sickness in Virtual Reality - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-new-skies-with-syma-x5c-an-experts-take-for-novices/"><u>[New] Navigating New Skies with Syma X5C – An Expert’s Take for Novices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-premier-mac-recording-software-top-5-innovations-revealed/"><u>2024 Approved Premier Mac Recording Software Top 5 Innovations Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-navigating-and-resolving-chatgpt-moderation-mistakes/"><u>Comprehensive Guide: Navigating and Resolving ChatGPT Moderation Mistakes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/enlarge-your-feed-footprint-with-full-screen-videos/"><u>Enlarge Your Feed Footprint with Full-Screen Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-redmi-k70-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Redmi K70 Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-analysis-the-third-gen-apple-tv-4k-with-3-camera-setup-unveiled/"><u>In-Depth Analysis: The Third Gen Apple TV 4K with 3-Camera Setup Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/masterclass-on-resolving-the-absent-shelldll-problem/"><u>Masterclass on Resolving the Absent Shell.dll Problem</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-9-affordable-switch-games-no-pay-required/"><u>Top 9 Affordable Switch Games: No Pay Required</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-solving-connection-issues-with-your-stadia-gaming-headset/"><u>Troubleshooting Guide: Solving Connection Issues with Your Stadia Gaming Headset</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722899589396-unexpected-black-screen-blues-heres-how-to-get-your-computer-showing-again/"><u>Unexpected Black Screen Blues? Here's How To Get Your Computer Showing Again!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Guide to Scooping Up Hot Deals: Top 18 Laptops at Great Prices During Prime Day | Featuring HP, Apple, and Razer on ZDNET!"
-date: 2024-09-28T02:12:36.255Z
-updated: 2024-10-02T04:19:53.905Z
+date: 2024-10-03T21:16:40.225Z
+updated: 2024-10-07T22:42:45.630Z
 tags:
   - apple
 categories:
@@ -75,13 +75,6 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727521200000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cef98421e-11a6-45f3-8f29-f5a1cad0b404%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -98,19 +91,6 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cef98421e-11a6-45f3-8f29-f5a1cad0b404%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cef98421e-11a6-45f3-8f29-f5a1cad0b404%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day HP laptop deals
 
 HPZDNET
@@ -125,6 +105,13 @@ Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cef98421e-11a6-45f3-8f29-f5a1cad0b404%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cef98421e-11a6-45f3-8f29-f5a1cad0b404%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -149,33 +136,27 @@ Kyle Kucharski/ZDNET
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What's the best gaming laptop deal on Prime Day?
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cef98421e-11a6-45f3-8f29-f5a1cad0b404%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -184,15 +165,22 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -257,15 +245,17 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/get-back-to-clear-communication-fixing-zoom-sound-issues-on-windows-and-mac/"><u>Get Back To Clear Communication: Fixing Zoom Sound Issues On Windows & Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/going-big-or-going-home-master-the-art-of-creating-viral-videos-on-youtube-in-8-steps/"><u>Going Big or Going Home: Master the Art of Creating Viral Videos on YouTube in 8 Steps</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-xcover-7-phone-by-drfone-android/"><u>How to Reset a Locked Samsung Galaxy XCover 7 Phone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-master-the-momentum-sending-viral-videos-soaring/"><u>In 2024, Master the Momentum Sending Viral Videos Soaring</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/install-amd-radeon-cards-most-recent-software-version-v2410-now/"><u>Install AMD Radeon Card's Most Recent Software Version v24.10 Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-installing-new-steelseries-device-drivers-on-your-window-machine/"><u>Step-by-Step Instructions for Installing New SteelSeries Device Drivers on Your Window Machine</u></a></li>
-<li><a href="https://app-tips.techidaily.com/taming-the-disarray-in-linuxopen-source-manuals-expert-fixes-on-zdnet/"><u>Taming the Disarray in Linux/Open Source Manuals: Expert Fixes on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-reaching-120-frames-per-second-in-your-ps5-games/"><u>The Ultimate Tutorial: Reaching 120 Frames Per Second in Your PS5 Games</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-must-have-mobile-apps-for-boosting-website-visitors/"><u>Top 7 Must-Have Mobile Apps for Boosting Website Visitors</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-step-by-step-manual-how-to-successfully-convert-drm-protected-ebooks/"><u>Ultimate Step-by-Step Manual: How to Successfully Convert DRM Protected Ebooks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-top-15-youtube-openings-elevate-your-contents-impact/"><u>[New] 2024 Approved Top 15 YouTube Openings Elevate Your Content's Impact</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-boost-your-channels-subscribers-on-a-shoestring-budget-for-2024/"><u>[New] Boost Your Channel's Subscribers on a Shoestring Budget for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-path-to-flawless-streams-a-guide-to-recording-on-steam/"><u>[Updated] The Path to Flawless Streams A Guide to Recording on Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/classic-legacy-restoration-for-modern-users/"><u>Classic Legacy Restoration for Modern Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-the-errors-of-mfc42ddll-missing-or-undetectable-on-your-pc-a-users-manual/"><u>Fix the Errors of MFC42D.DLL Missing or Undetectable on Your PC: A User’s Manual</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gmail-hack-proof-effective-ways-to-manage-and-add-multiple-emails-securely/"><u>Gmail Hack-Proof: Effective Ways to Manage and Add Multiple Emails Securely</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-world-of-fitness-trackers-5-must-ask-questions-before-buying/"><u>Navigating the World of Fitness Trackers: 5 Must-Ask Questions Before Buying</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/selecting-the-right-components-for-an-optimal-gaming-experience-a-buyers-checklist/"><u>Selecting the Right Components for an Optimal Gaming Experience: A Buyer's Checklist</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-magic-6-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-minecraft-errors-overcoming-compatibility-problems-with-windows-graphics-drivers/"><u>Troubleshooting Minecraft Errors: Overcoming Compatibility Problems with Windows Graphics Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tips-and-tricks-getting-started-with-pokemon-unite/"><u>Ultimate Tips and Tricks: Getting Started with Pokémon Unite</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-free-video-shrinking-software-for-windows-10-this-year-for-2024/"><u>Updated Best Free Video Shrinking Software for Windows 10 This Year for 2024</u></a></li>
 </ul></div>
 

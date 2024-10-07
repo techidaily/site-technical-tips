@@ -1,7 +1,7 @@
 ---
 title: "Samsung Galaxy S23 Vs. IPhone 14 Faceoff: Expert Analysis and Buyer's Guide on Which Device Reigns Supreme"
-date: 2024-10-01T03:20:09.084Z
-updated: 2024-10-02T03:58:05.065Z
+date: 2024-10-06T16:47:35.121Z
+updated: 2024-10-07T20:41:07.558Z
 tags:
   - apple
 categories:
@@ -60,18 +60,18 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -128,10 +128,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -148,19 +148,6 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -174,15 +161,22 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -218,20 +212,19 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-revolutionize-your-movie-experience-with-free-apps/"><u>[Updated] 2024 Approved Revolutionize Your Movie Experience with Free Apps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-find-the-right-aspect-ratio-for-your-video-for-2024/"><u>[Updated] Find The Right Aspect Ratio For Your Video for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-scriptsmiths-network-for-2024/"><u>[Updated] Ultimate Scriptsmiths Network for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-fixes-for-missing-system-file-errors-in-your-pc/"><u>Comprehensive Fixes for Missing System File Errors in Your PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-canoscan-lide-120-printer-drivers-latest-version/"><u>Download and Install CanoScan LiDE 120 Printer Drivers: Latest Version</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-the-clouds-of-video-editing-best-drones-tools-ranked/"><u>In 2024, Navigating the Clouds of Video Editing Best Drones Tools Ranked</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-video-file-management-in-adobe-premiere-import-edit-and-export-like-a-pro/"><u>New 2024 Approved Video File Management in Adobe Premiere Import, Edit, and Export Like a Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/rumors-surrounding-android-16-expected-announcement-zero-price-tag-and-device-capabilities-revealed/"><u>Rumors Surrounding Android 16: Expected Announcement, Zero Price Tag, and Device Capabilities Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-xinput1ndll-file-missing-a-comprehensive-guide/"><u>Solving 'Xinput1_n.dll' File Missing - A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-d3dx927dll-the-ultimate-guide-to-fix-missing-and-not-found-errors/"><u>Solving d3dx9_27.dll: The Ultimate Guide to Fix 'Missing' And 'Not Found' Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-resolving-non-delivery-of-emails-in-yahoo-mail/"><u>Troubleshooting Tips: Resolving Non-Delivery of Emails in Yahoo Mail</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722896440562-unlock-ultimate-bargains-6-premier-coupons-and-deals-galore/"><u>Unlock Ultimate Bargains: 6 Premier Coupons & Deals Galore!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-effective-one-channel-streaming-techniques/"><u>Unlocking Effective One-Channel Streaming Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-are-wireless-network-distributors-unveiling-their-functionality/"><u>What Are Wireless Network Distributors? Unveiling Their Functionality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-harnessing-power-a-complete-ez-grabber-manual-for-2024/"><u>[Updated] Harnessing Power A Complete EZ Grabber Manual for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-nvidia-unveils-new-accelerated-instruction-modules-aims-for-enhanced-gen-ai-performance-tech-news-on-zdnet/"><u>1. NVIDIA Unveils New Accelerated Instruction Modules (AIMs) for Enhanced GEN AI Performance - Tech News on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-free-movie-picks-of-the-month-july-2024-streaming-on-youtube/"><u>Best Free Movie Picks of the Month - July 2024 | Streaming on YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-how-to-get-your-razer-blackshark-v2-microphone-working-again/"><u>Expert Advice: How to Get Your Razer BlackShark V2 Microphone Working Again</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-visiovista-android-and-ios-instagram-tile-artisan/"><u>In 2024, VisioVista Android & iOS Instagram Tile Artisan</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-1nuevo-pro-max-durability-tested-is-it-waterproof/"><u>Iphone 1Nuevo Pro Max Durability Tested - Is It Waterproof?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mastering-video-without-audible-elements/"><u>Mastering Video Without Audible Elements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-reviving-a-laptop-or-desktop-with-no-signal-light-activity/"><u>Solutions for Reviving a Laptop or Desktop With No Signal Light Activity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/spotlight-on-technologys-top-3-emerging-movements/"><u>Spotlight on Technology's Top 3 Emerging Movements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-resolve-instagram-story-upload-failures/"><u>Step by Step Guide to Resolve Instagram Story Upload Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-common-opengl-issues-in-minecraft/"><u>Troubleshooting Tips: Resolving Common OpenGL Issues in Minecraft</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-how-to-seamlessly-integrate-your-amazon-firestick-with-a-home-theater-projector-system/"><u>Ultimate Guide: How to Seamlessly Integrate Your Amazon Firestick with a Home Theater Projector System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wirelessly-enjoy-entertainment-using-roku-in-dorms-and-hotels-made-easy/"><u>Wirelessly Enjoy Entertainment: Using Roku in Dorms and Hotels Made Easy</u></a></li>
 </ul></div>
 

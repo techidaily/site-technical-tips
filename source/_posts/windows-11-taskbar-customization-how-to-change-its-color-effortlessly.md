@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Taskbar Customization: How To Change Its Color Effortlessly"
-date: 2024-09-27T19:46:47.856Z
-updated: 2024-10-02T09:30:26.324Z
+date: 2024-10-01T21:29:30.540Z
+updated: 2024-10-07T19:28:03.028Z
 categories:
   - BestProducts
 description: "This Article Describes Windows 11 Taskbar Customization: How To Change Its Color Effortlessly"
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
  This article explains how to change the color of the taskbar in Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Change the Taskbar Color in Windows 10
 
  Windows 10 gives you the ability to choose the color of your taskbar. If you don’t want fine control over the color, simply switching between light and[dark mode](https://www.lifewire.com/turn-on-windows-10-dark-theme-4587692) will change the color of your taskbar. You can also access Windows settings via the[Start Menu](https://www.lifewire.com/windows-10-start-menu-tour-3506815) for some color personalization options, including the ability to change the taskbar color to whatever you like.
@@ -33,17 +40,18 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 ![Settings highlighted in the Windows 10 start menu.](https://www.lifewire.com/thmb/_3yFCu2vpkCj2sGFGwRKhs5fhyk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Settings-743b3fd7d16d4bd497ba9c57acea34e9.jpg)
 2. Click**Personalization** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Personalization highlighted in Windows 10 settings.](https://www.lifewire.com/thmb/wVm6EMDfsoVarlbSfz8mkWF1nWU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Personalizationannotated-23cf54124d3b4f02a4b3e7df15707474.jpg)
 3. Click**Colors** .  
 ![Colors highlighted in Windows personalization settings.](https://www.lifewire.com/thmb/h4AKm5Ov_-l9-WUa59FFlmGeFXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Colorsannotated-3e87b0199bfb45ea813801b762278806.jpg)
 4. Click the**Choose your color** drop down, and select**Custom** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Custom highlighted in the choose your color Windows personalization dropdown box.](https://www.lifewire.com/thmb/eA7uewut5FM7kZcZg4i8rTtsoAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Customannotated-e732222a31ff4e7084109b0cde824d2f.jpg)
 5. Under**Choose your default Windows mode** , click**Dark** .  
 ![Dark highlighted under Choose your default Windows mode.](https://www.lifewire.com/thmb/hwscXAtkVVGnRXJOxVPrK4-g_N0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Darkannotated-24f27a05096643cbaea9db7154eb3c20.jpg)
@@ -56,20 +64,19 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 9. Your taskbar will now reflect the custom color you chose.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![A Windows taskbar with a custom color.](https://www.lifewire.com/thmb/hvjLb5gR-qGVHlTSnJhsrlMQwBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Taskbarannotated-749a9acd40234ceeb4d1894fa675beca.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Can’t I Change the Color of My Taskbar?
 
@@ -78,19 +85,19 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 ![Colors menu in Windows 10. This menu houses the dark mode option.](https://www.lifewire.com/thmb/fUzWLhtj_44EGlchuXXx4vjABx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/darkthemescreenshot-5c76fc2cc9e77c0001fd594b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can set App Mode to either Light or Dark, but you won’t be able to change the color of the taskbar if you've set Windows Mode to Light. If the Start, taskbar, and action center box in your color settings are grayed out, it’s usually because Windows Mode is on the Light setting.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Has My Taskbar Changed Color in Windows 10?
@@ -141,24 +148,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/hannel-success-strategy-joining-ytp2024-now/"><u>[New] Channel Success Strategy - Joining YTP2024 Now!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-avoiding-motion-illusions-tips-for-vr-users/"><u>[Updated] Avoiding Motion Illusions Tips for VR Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-capturing-audio-masterpieces-using-audacity/"><u>[Updated] Capturing Audio Masterpieces Using Audacity</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-youtube-to-webm-unveiling-the-premium-converters/"><u>[Updated] In 2024, From YouTube to WebM Unveiling the Premium Converters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/extensive-review-gopro-hero4-silver-for-2024/"><u>Extensive Review GoPro HERO4 Silver for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/find-your-perfect-roku-at-a-steal-this-prime-day-exclusive-offers-inside/"><u>Find Your Perfect Roku at a Steal This Prime Day - Exclusive Offers Inside</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/geeky-gatherings-best-general-trivia-streams-for-2024/"><u>Geeky Gatherings Best General Trivia Streams for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-does-bass-management-work-an-in-depth-look/"><u>How Does Bass Management Work? An In-Depth Look</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-resolve-common-problems-in-microsoft-edge-for-a-smooth-browsing-experience/"><u>How To Resolve Common Problems in Microsoft Edge for a Smooth Browsing Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-successfully-perform-a-software-upgrade-on-your-samsung-tv-set/"><u>How to Successfully Perform a Software Upgrade on Your Samsung TV Set</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-v27-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo V27 Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mozillas-latest-advancement-in-communication-the-thunderbird-v52-guide/"><u>Mozilla's Latest Advancement in Communication: The Thunderbird v52 Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/open-source-text-messaging-platforms-for-your-apple-mobile-gadgets/"><u>Open Source Text Messaging Platforms for Your Apple Mobile Gadgets</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stand-out-on-social-media-with-507-killer-instagram-captions-of-2024/"><u>Stand Out on Social Media with 507 Killer Instagram Captions of 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-clearing-browser-caches-across-all-top-browsers/"><u>Step-by-Step Guide: Clearing Browser Caches Across All Top Browsers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-solution-to-d3d9dll-not-detected-issues-in-windows/"><u>The Ultimate Solution to d3d9.dll Not Detected Issues in Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-why-your-roku-tv-is-not-powering-up/"><u>Troubleshooting Steps: Why Your Roku TV Is Not Powering Up</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-your-aol-email-troubles-is-there-a-service-outage-or-an-individual-glitch/"><u>Understanding Your AOL Email Troubles - Is There a Service Outage or an Individual Glitch?</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-oppo-reno-10-pro-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo Reno 10 Pro 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/debugging-windows-app-failure-the-zeroxc000003e-hex-issue/"><u>Debugging Windows App Failure: The ZeroXc000003e Hex Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-captivating-coming-of-age-dramas-and-adventures-for-teens-on-netflix/"><u>Discover Captivating Coming-of-Age Dramas and Adventures for Teens on Netflix</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-honor-magic-5-frp-by-drfone-android/"><u>How Can We Bypass Honor Magic 5 FRP?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-v30-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo V30 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-copyright-clarity-how-to-verify-video-rights-pre-upload/"><u>In 2024, Copyright Clarity How to Verify Video Rights Pre-Upload</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fitness-beatdowns-20-electrifying-tunes-for-your-exercising-playlist/"><u>In 2024, Fitness Beatdowns 20 Electrifying Tunes for Your Exercising Playlist</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-message-recovery-a-universal-approach-for-all-phones/"><u>Mastering Message Recovery: A Universal Approach for All Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-troubleshooting-steps-for-magic-mouse-malfunctions/"><u>Simple Troubleshooting Steps for Magic Mouse Malfunctions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-repair-non-responsive-installation-of-ccleaner-on-win1011/"><u>Strategies to Repair Non-Responsive Installation of CCleaner on Win10/11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-adding-fun-and-flair-to-instagram-discussions-through-gif-comments/"><u>The Ultimate How-To: Adding Fun and Flair to Instagram Discussions Through GIF Comments</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722852192203-troubleshoot-hulus-rununk13-issue-comprehensive-fixes-unveiled/"><u>Troubleshoot Hulu's RUNUNK13 Issue – Comprehensive Fixes Unveiled</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixes-for-overcoming-tfla0002-error-on-windows/"><u>Troubleshooting and Fixes for Overcoming TFLA0002 Error on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-android-call-issues/"><u>Troubleshooting Guide: Resolving Android Call Issues</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-daily-life-replay-facebook-guide/"><u>Unlocking Daily Life Replay: Facebook Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-secrets-of-metro-by-t-mobiles-extensive-coverage-and-unlimited-options/"><u>Unveiling the Secrets of Metro by T-Mobile's Extensive Coverage and Unlimited Options</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-new-with-the-samsung-galaxy-z-fold-6-price-features-and-release-timeline/"><u>What's New with the Samsung Galaxy Z Fold 6? Price, Features & Release Timeline</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-eliminate-fuzzy-visuals/"><u>Windows: Eliminate Fuzzy Visuals</u></a></li>
 </ul></div>
 

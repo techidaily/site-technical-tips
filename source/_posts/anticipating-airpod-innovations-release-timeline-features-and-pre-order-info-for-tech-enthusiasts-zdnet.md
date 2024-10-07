@@ -1,7 +1,7 @@
 ---
 title: "Anticipating AirPod Innovations: Release Timeline, Features & Pre-Order Info for Tech Enthusiasts | ZDNET"
-date: 2024-09-28T15:03:25.704Z
-updated: 2024-10-02T03:54:02.390Z
+date: 2024-09-30T20:30:45.805Z
+updated: 2024-10-07T16:59:03.300Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -93,13 +86,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -115,16 +101,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -137,6 +117,13 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -147,6 +134,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -165,13 +159,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -179,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -224,17 +218,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-best-practices-the-8-truly-effective-promotion-techniques-for-2024/"><u>[Updated] Best Practices The 8 Truly Effective Promotion Techniques for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unveiling-social-media-stars-your-niches-influencers-guide/"><u>2024 Approved Unveiling Social Media Stars Your Niche’s Influencers Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/distinguishing-features-between-roku-express-and-roku-stick-a-comprehensive-guide/"><u>Distinguishing Features Between Roku Express and Roku Stick - A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-turn-off-sticky-keys-on-windows/"><u>How to Turn Off Sticky Keys on Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Meizu 21 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-se-2022-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone SE (2022) to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 13 mini</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-uncover-the-secrets-to-quieting-tiktoks-background-noise-simple-tricks-revealed/"><u>New 2024 Approved Uncover the Secrets to Quieting TikToks Background Noise Simple Tricks Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-issue-why-isnt-my-wi-fi-appearing-find-out-how/"><u>Solving the Issue: Why Isn't My Wi-Fi Appearing? Find Out How</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-where-to-find-and-enjoy-free-music-streaming/"><u>Ultimate Guide: Where to Find and Enjoy Free Music Streaming</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-tablet-technology-how-does-the-ipad-distinguish-itself/"><u>Understanding Tablet Technology: How Does the iPad Distinguish Itself?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-no-cost-solutions-top-5-free-3gp-video-rotation-tools/"><u>Updated 2024 Approved No-Cost Solutions Top 5 Free 3GP Video Rotation Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-launching-a-vlog-top-kit-and-applications/"><u>[New] Launching a Vlog Top Kit & Applications</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-4-time-saving-ways-to-perfect-loops-in-your-instagram-videos-for-2024/"><u>[Updated] 4 Time-Saving Ways to Perfect Loops in Your Instagram Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-personalizing-interactions-deepening-connections-with-viewers/"><u>[Updated] Personalizing Interactions Deepening Connections with Viewers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unleash-the-full-potential-in-the-metaverse-with-this-list-for-2024/"><u>[Updated] Unleash the Full Potential in the Metaverse with This List for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-a-fitness-coach-crafting-personalized-training-routines-for-success/"><u>ChatGPT as a Fitness Coach: Crafting Personalized Training Routines for Success</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-duckduckgo-a-deep-dive-into-its-privacy-focused-platform/"><u>Discovering DuckDuckGo: A Deep Dive Into Its Privacy-Focused Platform</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/discovering-the-leading-speech-to-text-apps-for-ipads-3-for-2024/"><u>Discovering the Leading Speech-to-Text Apps for iPads #3 for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ethical-approaches-to-locate-an-iphone-owner-a-step-by-nstep-guide/"><u>Ethical Approaches to Locate an iPhone Owner: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-scoop-on-the-new-samsung-galaxy-z-fold-eblows-expected-launch-date-pricing-and-speculated-details/"><u>Exclusive Scoop on the New Samsung Galaxy Z Fold Eblows Expected Launch Date, Pricing & Speculated Details</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-ftd2xxdll-is-missing-or-not-found-errors/"><u>How to Fix Ftd2xx.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-mystery-of-a-missing-msstdfmtdll-file-a-step-by-step-guide/"><u>Resolving the Mystery of a Missing Msstdfmt.dll File: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-setting-up-your-twitter-scheduling-toolkit/"><u>Step-by-Step Tutorial: Setting Up Your Twitter Scheduling Toolkit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-list-of-accessories-to-enhance-your-sj4000/"><u>The Ultimate List of Accessories to Enhance Your SJ4000</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-factors-you-should-assess-when-shopping-for-a-new-desktop-computer/"><u>Top 8 Factors You Should Assess When Shopping for a New Desktop Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-internet-explorer-has-crashed-error/"><u>Troubleshooting Steps: Resolving 'Internet Explorer Has Crashed' Error</u></a></li>
 </ul></div>
 

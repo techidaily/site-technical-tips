@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Update: A Comprehensive Guide to Personalizing Your iPhone's Control Center on iOS 18 - Tips"
-date: 2024-09-27T14:26:36.587Z
-updated: 2024-10-02T02:10:54.973Z
+date: 2024-09-30T21:01:31.570Z
+updated: 2024-10-07T19:31:27.688Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -44,10 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -58,6 +58,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -65,10 +72,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -90,13 +97,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,15 +134,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-drone-footage-battlegrounds-djis-pro-vs-gopro-hero3-for-2024/"><u>[New] Drone Footage Battlegrounds DJI's Pro VS GoPro HERO3 for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-macs-best-capture-exploring-leading-screen-recording-software/"><u>[Updated] In 2024, Mac's Best Capture Exploring Leading Screen Recording Software</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-top-websites-for-rhythmic-alerts-unique-sounds-for-2024/"><u>[Updated] Top Websites for Rhythmic Alerts Unique Sounds for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-14-text-animation-examples-for-2024/"><u>Best 14 Text Animation Examples for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-how-these-five-social-apps-can-assist-in-building-your-friend-network/"><u>Discover How These Five Social Apps Can Assist in Building Your Friend Network</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-8-travel-planning-apps-you-cant-miss/"><u>Discover the Best 8 Travel Planning Apps You Can't Miss</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-desktop-inaccessible-issue-on-systemprofile-a-step-by-step-guide/"><u>Fixing the Desktop Inaccessible Issue on SystemProfile: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-device-startup-errors-mastering-the-fixes-for-code-10-challenges/"><u>Overcoming Device Startup Errors: Mastering the Fixes for Code 10 Challenges</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-msvcr70dll-file-not-found-expert-advice-and-solutions/"><u>Resolving 'MSVCR70.dll File Not Found': Expert Advice and Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/topplista-av-aktivitetsregisterorjing-program-for-windows-7-gratismedel-i-2024/"><u>Topplista Av Aktivitetsregisterörjing Program För Windows 7 - Gratismedel I 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-building-a-bountiful-beauty-channel-fortune/"><u>[New] 2024 Approved Building a Bountiful Beauty Channel Fortune</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-explore-top-10-apples-affordable-and-free-image-collage-applications/"><u>[New] In 2024, Explore Top 10 Apple's Affordable & Free Image Collage Applications</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-maximizing-creativity-find-your-next-project-on-these-top-12-photo-websites-for-2024/"><u>[Updated] Maximizing Creativity - Find Your Next Project on These Top 12 Photo Websites for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-picking-drones-balance-equipment/"><u>2024 Approved The Ultimate Guide to Picking Drones' Balance Equipment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-strategies-to-implement-broadband-in-household-entertainment-systems/"><u>Comprehensive Strategies to Implement Broadband in Household Entertainment Systems</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expand-your-network-across-top-platforms-facebook-to-linkedin-and-youtube/"><u>Expand Your Network Across Top Platforms: Facebook to LinkedIn & YouTube</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-meizu-easily-by-drfone-android/"><u>How To Unlock a Meizu Easily?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-60-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme Narzo 60 5G Phone without PIN</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/improve-engagement-with-effortless-techniques-for-typing-captions-in-instagram-stories/"><u>Improve Engagement with Effortless Techniques for Typing Captions in Instagram Stories</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mac-users-ultimate-tutorial-how-to-easily-uninstall-programs/"><u>Mac Users' Ultimate Tutorial: How to Easily Uninstall Programs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-insecure-connection-warnings-tips-for-securing-your-websites-links/"><u>Overcoming ‘Insecure Connection’ Warnings – Tips for Securing Your Website's Links</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/rapid-photovideo-resurrection-tactics-for-2024/"><u>Rapid Photo/Video Resurrection Tactics for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revamping-your-desktop-aesthetics-how-to-switch-up-your-taskbars-hue-in-windows-10/"><u>Revamping Your Desktop Aesthetics: How to Switch Up Your Taskbar's Hue in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/save-big-the-best-6-online-coupon-hubs-for-budget-friendly-shopping/"><u>Save Big: The Best 6 Online Coupon Hubs for Budget-Friendly Shopping</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-tecno-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Tecno</u></a></li>
 </ul></div>
 

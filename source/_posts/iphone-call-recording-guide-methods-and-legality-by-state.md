@@ -1,7 +1,7 @@
 ---
 title: "IPhone Call Recording Guide: Methods & Legality by State"
-date: 2024-09-30T10:16:35.117Z
-updated: 2024-10-01T18:23:40.020Z
+date: 2024-10-05T17:03:34.099Z
+updated: 2024-10-07T18:11:00.442Z
 tags:
   - apple
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 * One [iPhone](https://www.zdnet.com/article/best-iphone/) to host the call, which we recommend putting on speakerphone
 * Another recording device (this could be another iPhone, an [iPad](https://www.zdnet.com/article/best-ipad/), or even an Android device) using Voice Memos or another recording app to record the call
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Test your Voice Memos app
 
 First, ensure you have an iPhone and another iOS device, such as a Mac, iPad, or another iPhone, with the Voice Memos app. The Voice Memos app comes preinstalled on most devices, but is also free on the [App Store](https://www.apple.com/app-store/). If using an Android device, check that it has a recording app, like [this free one](https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorder&hl=en%5FUS&gl=US&pli=1).
@@ -64,13 +77,6 @@ Open the Voice Memos app, tap the red record button, and start speaking for long
 Voice recordings autosave under different names based on whether Location Services are turned on.
 
 Screenshot by Radhika Rajkumar/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Play back the audio file and make adjustments
 
@@ -108,6 +114,13 @@ Spikes in the red waveform bar indicate a louder sound. A flatter bar indicates 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. End the recording and transfer the file
 
 When the conversation is over or you've got the information you need, end the recording by tapping the red button. 
@@ -126,18 +139,18 @@ Following the steps above is the easiest, most efficient, and most discreet way 
 
 Note: Many apps that record phone calls likely need to conference into the call before recording begins, which may take a moment and could be detectable by the other person on the call. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Rev Voice Recorder
 
 Rev has a few options depending on what you need. If you want to record phone calls, try their [Call Recorder](https://apps.apple.com/us/app/rev-call-recorder/id1314427915) app -- it's free, with no limits on recording lengths, and even has in-app legal guidance. For recording other conversations, Rev's [Voice Recorder](https://apps.apple.com/US/app/id1314427915?mt=8) app is also free and has an easy-to-use interface. 
 
 Plus, Rev offers AI-supported [transcription](https://www.rev.com/pricing) of your recordings for $0.25 per minute, or you can have a human professionally transcribe your recording for $1.50 per minute. Once you download your file, it will appear as an MP3 file on your device. This is a great option for recording phone calls and narrating screen recordings. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Google Voice
 
@@ -156,20 +169,13 @@ Once everyone is on the call, press the number four (4) on the keypad to start a
 As the name suggests, this app is designed for users to be able to whip out their phones and start recording whenever, wherever. If you download the app and use it on an iPad to record, you can drag and drop recordings with the Files or other recording apps for further transcriptions, or to consolidate recordings. 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is it illegal to record phone calls?
 
@@ -178,10 +184,16 @@ Federal law requires at least one party's consent, which means that you need to 
 Before recording a conversation, [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22check%22%7D) your state laws. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is there an app to record calls on iPhone?
@@ -234,24 +246,20 @@ The Voice Memos app can record for an unlimited amount of time as long as you ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-premium-combo-exclusive-afx-design-tools-for-2024/"><u>[New] Premium Combo Exclusive AFX Design Tools for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-real-time-broadcasting-softwares-edge-over-gear/"><u>[New] Real-Time Broadcasting Software's Edge Over Gear?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-visionsplit-assessment-overview/"><u>[Updated] 2024 Approved VisionSplit Assessment Overview</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-3-elemental-strategies-for-writing-effective-social-media-promotions-for-2024/"><u>[Updated] The 3 Elemental Strategies for Writing Effective Social Media Promotions for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-for-windows/"><u>「無料Stellarデータ回復ツール for Windows環境」</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722890621182-effective-strategies-to-address-and-mend-missing-dynamic-link-library-problems/"><u>Effective Strategies to Address and Mend Missing Dynamic Link Library Problems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/efficient-techniques-for-app-management-and-removal-on-samsung-smart-tvs/"><u>Efficient Techniques for App Management & Removal on Samsung Smart TVs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-iphones-dialing-troubles-with-these-10-expert-tips/"><u>Fix Your iPhone's Dialing Troubles with These 10 Expert Tips</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-risk-and-revelation-10-roguelike-game-selection/"><u>In 2024, Risk and Revelation #10 Roguelike Game Selection</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-depth-analysis-av1-encoding-format-strengths-and-weaknesses-versus-hevc-and-versatile-video-coding-vvc/"><u>In-Depth Analysis: AV1 Encoding Format - Strengths & Weaknesses versus HEVC & Versatile Video Coding (VVC)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/journey-through-time-key-milestones-in-the-development-of-electric-vehicles/"><u>Journey Through Time: Key Milestones in the Development of Electric Vehicles</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-android-troubleshooting-a-step-by-nstep-guide-to-call-recovery/"><u>Mastering Android Troubleshooting: A Step-by-nStep Guide to Call Recovery</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-gaming-galore-top-websites-to-download-games/"><u>New In 2024, Gaming Galore Top Websites to Download Games</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722900288471-no-ejector-tool-heres-how-to-safely-open-your-iphone-sim-case/"><u>No Ejector Tool? Here's How to Safely Open Your iPhone SIM Case</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/open-iphone-sim-card-panel-without-ejector-pin-tips-and-tricks/"><u>Open iPhone Sim Card Panel without Ejector Pin – Tips & Tricks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-beginners-path-to-broadcasting-your-gaming-adventures-on-ps4/"><u>The Beginner's Path to Broadcasting Your Gaming Adventures on PS4</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-future-in-flight-djis-mavic-pro-breakdown-for-2024/"><u>The Future in Flight DJI's Mavic Pro Breakdown for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-techniques-for-streamlining-your-twitter-content-calendar/"><u>Top Techniques for Streamlining Your Twitter Content Calendar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-the-secrets-top-9-venues-for-playful-gratuitous-learning-games-for-youngsters/"><u>Unlock the Secrets: Top 9 Venues for Playful, Gratuitous Learning Games for Youngsters</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-swiftly-upgrade-your-videos-with-top-tips-for-adding-youtube-closed-captions/"><u>[New] 2024 Approved Swiftly Upgrade Your Videos with Top Tips for Adding YouTube Closed Captions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-premium-zero-cost-live-capture-program/"><u>[New] In 2024, Premium Zero-Cost Live Capture Program</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-aligning-objectives-brands-and-youtube-collaborative-moves/"><u>2024 Approved Aligning Objectives Brands and YouTube Collaborative Moves</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-mere-color-to-spectacle-hdr-vs-sdr-in-editing/"><u>2024 Approved From Mere Color to Spectacle HDR vs SDR in Editing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avoiding-spammy-sms-effective-ways-to-prevent-unwanted-messages-on-iphones/"><u>Avoiding Spammy SMS: Effective Ways to Prevent Unwanted Messages on iPhones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cable-television-vs-on-demand-streaming-identifying-the-main-variables/"><u>Cable Television vs On-Demand Streaming: Identifying the Main Variables</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/craft-a-customized-calendar-on-your-windows-device-with-outlook/"><u>Craft a Customized Calendar on Your Windows Device with Outlook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-when-the-wii-console-fails-to-read-game-discs/"><u>How to Fix When The Wii Console Fails to Read Game Discs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-iphone-x-secrets-restoring-face-id-functionality/"><u>In 2024, Unlocking iPhone X Secrets Restoring Face ID Functionality</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-make-a-imovie-photo-slideshow-with-music-imovie-tutorial/"><u>New 2024 Approved How to Make a iMovie Photo Slideshow with Music? IMovie Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-installing-applications-on-your-samsung-smart-tv/"><u>Step-by-Step Guide: Installing Applications on Your Samsung Smart TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-overcoming-initialization-problems-in-mozilla-thunderbird/"><u>Step-by-Step Guide: Overcoming Initialization Problems in Mozilla Thunderbird</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-rcra-provides-federal-guidelines-for-the-management-of-hazardous-waste-from-its-creation-to-disposal/"><u>The RCRA Provides Federal Guidelines for the Management of Hazardous Waste From Its Creation to Disposal.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-mobile-experience-chatgpt-now-on-android-phones-and-tablets/"><u>Transform Your Mobile Experience - ChatGPT Now on Android Phones and Tablets!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-access-blocks-strategies-for-resolving-401-authentication-issues/"><u>Unlocking Access Blocks: Strategies for Resolving 401 Authentication Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Saying Goodbye to AltspaceVR: Microsoft Ends Virtual Reality Venture, Details by ZDNet"
-date: 2024-09-14T02:49:19.010Z
-updated: 2024-09-21T01:28:46.853Z
+date: 2024-09-30T17:41:52.425Z
+updated: 2024-10-07T20:52:50.369Z
 tags:
   - ar+vr
 categories:
@@ -71,12 +71,27 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-effortless-guide-to-free-melodies-in-youtube-productions/"><u>[Updated] Effortless Guide to Free Melodies in YouTube Productions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-7-notetaking-solutions-optimized-for-the-latest-ipad-generation/"><u>Best 7 Notetaking Solutions Optimized for the Latest iPad Generation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-server-productivity-a-comprehensive-guide-to-adding-bots-on-discord/"><u>Boosting Server Productivity: A Comprehensive Guide to Adding Bots on Discord</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discord-safety-a-step-by-step-tutorial-for-enabling-parental-controls/"><u>Discord Safety: A Step-by-Step Tutorial for Enabling Parental Controls</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-epson-artisan-143n-printer-software-on-windows-11-10-and-8-download-your-driver-now/"><u>Easy Installation of Epson Artisan 143N Printer Software on Windows 11, 10 and 8 - Download Your Driver Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/eliminating-dcom-errors-in-directinputdll-techniques-and-best-practices/"><u>Eliminating DCOM Errors in Directinput.dll: Techniques and Best Practices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-s18e-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo S18e Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-tecno-pop-8-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Tecno Pop 8? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-take-your-editing-to-the-next-level-top-40-fcpx-keyboard-shortcuts-and-tricks/"><u>New Take Your Editing to the Next Level Top 40 FCPX Keyboard Shortcuts and Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-fixes-for-when-you-cant-find-the-helperdll-file/"><u>The Ultimate Fixes for When You Can't Find the Helper.dll File</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-the-xlivedll-file-not-detected-issue/"><u>Ultimate Guide: Resolving the xlive.dll File Not Detected Issue</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/what-to-do-if-the-facebook-message-shows-its-you-in-this-video-in-2024/"><u>What To Do If the Facebook Message Shows It’s You in This Video, In 2024</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

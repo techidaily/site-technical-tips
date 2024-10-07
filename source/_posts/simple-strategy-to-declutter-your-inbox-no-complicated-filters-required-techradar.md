@@ -1,7 +1,7 @@
 ---
 title: "Simple Strategy to Declutter Your Inbox: No Complicated Filters Required! | TechRadar"
-date: 2024-09-29T05:44:36.599Z
-updated: 2024-10-02T11:51:05.459Z
+date: 2024-10-03T19:00:10.932Z
+updated: 2024-10-07T22:13:02.527Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +76,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +93,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,10 +110,10 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -154,24 +154,24 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-15-techniques-to-ensure-facebook-videos-are-spotlighted/"><u>[New] 2024 Approved 15 Techniques to Ensure Facebook Videos Are Spotlighted</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-melodic-content-and-legalities-on-insta/"><u>[Updated] Melodic Content and Legalities on Insta</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/7-must-have-shared-digital-calendars-simplifying-planning-for-busy-parenting-units/"><u>7 Must-Have Shared Digital Calendars: Simplifying Planning for Busy Parenting Units</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquering-f1-2020s-pc-crashes-tips-and-solutions-to-keep-your-race-running-uninterrupted/"><u>Conquering F1 2020'S PC Crashes: Tips and Solutions to Keep Your Race Running Uninterrupted</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/evaluating-performance-and-features-of-apples-top-devices-ipad-pro-m1-vs-macbook-air-m1/"><u>Evaluating Performance & Features of Apple's Top Devices: IPad Pro M1 Vs. MacBook Air M1</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/future-tech-showdown-the-leading-consoles-of-2024-decoded/"><u>Future Tech Showdown: The Leading Consoles of 2024 Decoded</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-fixing-absence-of-smsmms-on-your-android-phone/"><u>Guide to Fixing Absence of SMS/MMS on Your Android Phone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-14-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 14 Pro without Password?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-reno-11f-5g-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Reno 11F 5G.</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-motorola-moto-e13-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Motorola Moto E13 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-mosaicmind-pro-unleashing-creative-potential/"><u>In 2024, MosaicMind Pro Unleashing Creative Potential</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-fix-for-msvcrtdll-not-found-essential-steps-unveiled/"><u>Mastering the Fix for 'Msvcrt.dll Not Found' - Essential Steps Unveiled</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/retrieve-wi-fi-security-codes-effortlessly-for-windows-11-users/"><u>Retrieve Wi-Fi Security Codes Effortlessly for Windows 11 Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-xinput13dll-error-comprehensive-guide/"><u>Solving the xinput1_3.dll Error: Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-key-factors-in-finding-and-selecting-the-right-phone-skin-or-shell/"><u>The Key Factors in Finding and Selecting the Right Phone Skin or Shell</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-no-cost-web-based-faxing-solutions/"><u>Top 7 No-Cost Web-Based Faxing Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tune-into-tech-effortlessly-incorporate-music-to-videos/"><u>Tune Into Tech Effortlessly Incorporate Music to Videos</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-best-video-editing-apps-for-children-a-mix-of-free-and-paid-favorites-for-2024/"><u>Updated Best Video Editing Apps for Children A Mix of Free and Paid Favorites for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/waking-up-to-a-well-rested-win11-machine/"><u>Waking Up to a Well-Rested Win11 Machine</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-skype-recording-excellence-the-years-leading-tools/"><u>[New] 2024 Approved Skype Recording Excellence The Year's Leading Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-tiktok-number-modification-easy-to-follow-steps/"><u>[New] TikTok Number Modification Easy to Follow Steps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-prodigy-vs-creative-hub-beta-edition/"><u>[New] YouTube Prodigy Vs. Creative Hub Beta Edition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-efficient-laptop-recording-with-top-screenrec-tools/"><u>[Updated] 2024 Approved Efficient Laptop Recording with Top ScreenRec Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unveiling-the-world-of-alternative-augmented-reality-decorations-for-2024/"><u>[Updated] Unveiling the World of Alternative Augmented Reality Decorations for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-sync-facebook-media-for-larger-display-views/"><u>2024 Approved Sync Facebook Media for Larger Display Views</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-apple-watch-series-8-availability-hardware-specs-and-market-price/"><u>All You Need to Know About Apple Watch Series 8 - Availability, Hardware Specs & Market Price</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-remedies-correcting-missing-or-lost-mfplatdll-problems/"><u>Effective Remedies: Correcting Missing or Lost mfplat.dll Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fire-stick-woes-heres-how-to-repair-a-broken-or-unresponsive-remote/"><u>Fire Stick Woes? Here's How to Repair a Broken or Unresponsive Remote</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975313511-get-your-sound-blaster-z-up-and-running-on-windows-11-freshest-driver-download-here/"><u>Get Your Sound Blaster Z Up and Running on Windows 11 – Freshest Driver Download Here!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-xiaomi-redmi-12-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Xiaomi Redmi 12 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-users-faqs-how-to-effectively-hide-youtube-content/"><u>IPad Users' FAQs: How to Effectively Hide YouTube Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-pathway-to-affordable-learning-how-students-can-earn-lenovo-savings/"><u>Navigating the Pathway to Affordable Learning: How Students Can Earn Lenovo Savings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securely-registering-your-email-on-whitelists-essential-tips-and-techniques/"><u>Securely Registering Your Email on Whitelists - Essential Tips and Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/skyrocket-your-brands-impact-top-ten-seo-tips-for-facebook-marketers/"><u>Skyrocket Your Brand's Impact Top Ten SEO Tips for Facebook Marketers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-unlock-the-power-of-google-maps-live-view-feature/"><u>Step-by-Step Tutorial: Unlock the Power of Google Maps Live View Feature</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-for-stable-hp-display-function/"><u>Steps for Stable HP Display Function</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-essential-facts-about-lg-channels-you-should-know/"><u>Unveiling Essential Facts About LG Channels You Should Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-just-hit-shelves-dive-into-the-features-of-the-newest-ipad/"><u>What Just Hit Shelves? Dive Into the Features of the Newest iPad</u></a></li>
 </ul></div>
 

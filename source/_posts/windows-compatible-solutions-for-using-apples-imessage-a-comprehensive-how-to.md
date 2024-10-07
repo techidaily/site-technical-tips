@@ -1,7 +1,7 @@
 ---
 title: "Windows Compatible Solutions for Using Apple's iMessage: A Comprehensive How-To"
-date: 2024-09-28T09:05:45.537Z
-updated: 2024-10-01T19:16:17.141Z
+date: 2024-09-30T20:56:15.832Z
+updated: 2024-10-07T19:36:40.802Z
 tags:
   - apple
 categories:
@@ -62,6 +62,13 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -72,25 +79,11 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
 
@@ -98,18 +91,18 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Start a new chat
 
@@ -127,6 +120,13 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Pair your phone and computer
 
 You should then be asked to pair your phone and PC. Scan the QR code with your phone and tap the link to download and install the Unison mobile app from the Apple App Store.
@@ -139,6 +139,13 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -146,10 +153,10 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
@@ -163,13 +170,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,20 +207,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-cutting-edge-approaches-for-secure-and-precise-call-logging/"><u>[New] 2024 Approved Cutting-Edge Approaches for Secure and Precise Call Logging</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-innovative-apps-revolutionizing-video-talks/"><u>[Updated] Innovative Apps Revolutionizing Video Talks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-acquires-mira-revolutionizing-the-workplace-with-innovative-ar-headsets-unveiled-by-zdnet/"><u>Apple Acquires Mira: Revolutionizing the Workplace with Innovative AR Headsets - Unveiled by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-innovative-visionpro-applications-set-to-revolutionize-healthcare-insights-from-zdnet/"><u>Apple's Innovative VisionPro Applications Set to Revolutionize Healthcare: Insights From ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/canvas-and-chroma-mastering-color-interaction-for-2024/"><u>Canvas and Chroma Mastering Color Interaction for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comprehensive-review-of-vivavideo-app/"><u>Comprehensive Review of VivaVideo App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-what-drew-folks-back-to-apple-vision-pro-a-deep-dive-into-reddit-discussions-zdnet/"><u>Discover What Drew Folks Back to Apple Vision Pro: A Deep Dive Into Reddit Discussions | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhancing-business-efficiency-managing-enterprise-devices-with-the-new-apple-vision-pro-insights-from-zdnet/"><u>Enhancing Business Efficiency: Managing Enterprise Devices with the New Apple Vision Pro - Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-tiny-world-of-apple-vision-pro-cases-half-the-size-full-quality-zdnet-analysis/"><u>Exploring the Tiny World of Apple Vision Pro Cases - Half the Size, Full Quality? | ZDNet Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-swiftly-can-you-receive-the-latest-apple-vision-pro-exclusive-insights/"><u>How Swiftly Can You Receive the Latest Apple Vision Pro - Exclusive Insights!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-a05s-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on A05s</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-framing-the-frame-top-camera-techniques-for-visuals/"><u>In 2024, Framing the Frame Top Camera Techniques for Visuals</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Tecno Spark Go (2024)? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/premium-free-gopro-hd-to-4k-converter-tools-for-windows-and-macos-systems/"><u>Premium Free GoPro HD to 4K Converter Tools for Windows and macOS Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unusual-video-orientation-what-causes-sideway-images-on-instagram/"><u>Unusual Video Orientation What Causes Sideway Images on Instagram</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-discovering-ideal-hashtags-for-your-youtube-videos/"><u>[Updated] 2024 Approved Discovering Ideal Hashtags for Your YouTube Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-professional-grade-8-filters-for-live-feeds/"><u>[Updated] 2024 Approved Professional-Grade 8 Filters for Live Feeds</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-enhance-your-vtuber-experience-with-top-voice-modification-tools/"><u>[Updated] In 2024, Enhance Your VTuber Experience with Top Voice Modification Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-making-your-mark-with-youtubes-creative-commons-tools/"><u>2024 Approved Making Your Mark with YouTube’s Creative Commons Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/audio-linking-ps5-meets-bluetooth-headphones/"><u>Audio Linking: PS5 Meets Bluetooth Headphones</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/cool-down-tools-for-coastal-vacations/"><u>Cool Down Tools for Coastal Vacations</u></a></li>
+<li><a href="https://article-posts.techidaily.com/crypto-clout-how-much-does-the-youtube-gamer-make-for-2024/"><u>Crypto Clout How Much Does the YouTube Gamer Make for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/driving-change-whats-behind-the-global-shift-to-electric-cars/"><u>Driving Change: What's Behind the Global Shift to Electric Cars?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enabling-and-using-in-built-fm-receivers-in-mobile-phones/"><u>Enabling and Using In-Built FM Receivers in Mobile Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-power-and-capabilities-of-nvidia-rtx-gpu-technology/"><u>Exploring the Power and Capabilities of Nvidia RTX GPU Technology</u></a></li>
+<li><a href="https://win-able.techidaily.com/preventing-disruptions-in-mass-effect-legendary-edition-fixes-for-pc-and-xbox-users/"><u>Preventing Disruptions in Mass Effect Legendary Edition - Fixes for PC & Xbox Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/restoring-access-solutions-for-a-forgotten-ipad-code/"><u>Restoring Access: Solutions for a Forgotten iPad Code</u></a></li>
 </ul></div>
 

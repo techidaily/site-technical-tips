@@ -1,7 +1,7 @@
 ---
 title: Apple Unveils Revolutionary On-Device AI, ReaLMSurpasses GPT-4 in Performance - ZDNet
-date: 2024-09-28T02:58:24.788Z
-updated: 2024-10-02T09:59:23.951Z
+date: 2024-09-30T17:06:41.190Z
+updated: 2024-10-07T19:21:19.180Z
 tags:
   - apple
 categories:
@@ -77,23 +77,26 @@ Apple has yet to confirm whether this research will play a role in iOS 18 or its
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-26-low-cost-strategies-capture-webinars-without-spending-money-for-2024/"><u>[New] 26 Low-Cost Strategies Capture Webinars Without Spending Money for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-mastering-zoom-video-quality-a-step-by-step-guide/"><u>[Updated] In 2024, Mastering Zoom Video Quality A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mobile-mastery-best-downloading-apps-for-android-and-ios-users-for-2024/"><u>[Updated] Mobile Mastery Best Downloading Apps for Android & iOS Users for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-your-comprehensible-guide-to-economical-webinars-on-youtube/"><u>2024 Approved Your Comprehensible Guide to Economical Webinars on YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-comprehensive-approach-to-fixing-kernel-memory-page-errors/"><u>A Comprehensive Approach to Fixing Kernel Memory Page Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diagnosing-and-repairing-code-39-malfunctions-on-windows/"><u>Diagnosing and Repairing Code 39 Malfunctions on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-light-function-on-a-non-responsive-corsair-keyboard/"><u>How to Restore Light Function on a Non-Responsive Corsair Keyboard</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-se-2020-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone SE (2020) for Free? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-challenges-a-users-guide-to-fixing-malfunctioning-samsung-tv-apps/"><u>Overcoming Challenges: A User's Guide to Fixing Malfunctioning Samsung TV Apps</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revitalize-your-iphone-without-saving-history-a-complete-guide/"><u>Revitalize Your Iphone Without Saving History: A Complete Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-quintessential-guide-to-choosing-your-perfect-free-offline-car-racing-game-2024-edition/"><u>The Quintessential Guide to Choosing Your Perfect Free Offline Car Racing Game - 2024 Edition</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-flv-video-unification-techniques/"><u>[New] FLV Video Unification Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-how-to-use-luts-in-after-effect/"><u>[New] How to Use LUTs in After Effect</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unique-ways-to-document-your-console-games/"><u>[New] Unique Ways to Document Your Console Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-tips-for-configuring-a-freshly-bought-echo-dot-into-setup-mode/"><u>Easy Tips for Configuring a Freshly Bought Echo Dot Into Setup Mode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-line-insertion-techniques-for-professional-word-presentations/"><u>Effortless Line Insertion Techniques for Professional Word Presentations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expand-your-inbox-control-how-to-automate-organization-in-gmail-efficiently/"><u>Expand Your Inbox Control: How to Automate Organization in Gmail Efficiently</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On Apple iPhone 13</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-premium-5-android-capture-and-screen-save-apps/"><u>In 2024, Premium 5 Android Capture & Screen Save Apps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-with-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Landscape with Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-know-about-some-efficient-slow-motion-video-editors-read-this-article-to-find-out-the-best-slow-motion-video-editing-tools-that-you/"><u>New 2024 Approved Do You Know About some Efficient Slow-Motion Video Editors? Read This Article to Find Out the Best Slow-Motion Video Editing Tools that You Can Try</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-viewing-how-to-mirror-apple-tvplus-content-on-a-chromecast-device/"><u>Seamless Viewing: How to Mirror Apple TV+ Content on a Chromecast Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-high-cpu-usage-in-dropbox-on-windows-pcs/"><u>Tackling High CPU Usage in Dropbox on Windows PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722860872343-unbeatable-apple-watch-prices-for-month-shop-smart-save-more/"><u>Unbeatable Apple Watch Prices for [Month]: Shop Smart, Save More!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-facebook-a-comprehensive-guide-to-its-beginnings-popularity-and-core-attributes/"><u>Unveiling Facebook: A Comprehensive Guide to Its Beginnings, Popularity, and Core Attributes</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

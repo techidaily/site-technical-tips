@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest AI Innovations From WWDC: Yawn-Inducing but Essential - Insights"
-date: 2024-09-28T19:02:27.431Z
-updated: 2024-10-02T06:34:07.841Z
+date: 2024-10-01T20:40:00.518Z
+updated: 2024-10-07T16:09:29.659Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -67,13 +74,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -107,6 +107,13 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -118,16 +125,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -140,13 +141,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -165,6 +159,13 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -172,13 +173,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -224,21 +218,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-advanced-tech-webcams-the-ultimate-guide-to-the-top-5-with-sound/"><u>[New] Advanced Tech Webcams - The Ultimate Guide to the Top 5 With Sound</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-earnings-escalate-500-subscriber-marker-achieved-for-2024/"><u>[New] Earnings Escalate 500-Subscriber Marker Achieved for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-quick-tips-to-produce-quality-thumbnails-fast/"><u>[New] Quick Tips to Produce Quality Thumbnails Fast</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-engagement-avoiding-common-youtube-thumbnail-errors/"><u>[Updated] Maximizing Engagement Avoiding Common YouTube Thumbnail Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/dealing-with-acpi-device-id-33a0-faults/"><u>Dealing with Acpi Device ID 33A0 Faults</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-lava-blaze-pro-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-animated-gif-makers-with-looping-features/"><u>In 2024, Best Animated GIF Makers with Looping Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/psvr-2-unveiled-insights-into-specifications-market-price-and-availability-schedule/"><u>PSVR 2 Unveiled: Insights Into Specifications, Market Price, and Availability Schedule</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reviving-your-deactivated-snapchat-profile-a-step-by-step-guide/"><u>Reviving Your Deactivated Snapchat Profile: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/texting-simplified-a-step-by-step-guide-to-messaging-from-your-ipad/"><u>Texting Simplified: A Step-by-Step Guide to Messaging From Your iPad</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-a60s-by-fonelab-android-recover-video/"><u>The way to get back lost videos from A60s</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/top-10-instagram-hashtags-you-need-to-start-using-today/"><u>Top 10 Instagram Hashtags You Need to Start Using Today</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-repairing-the-infamous-windows-code-28-error/"><u>Troubleshooting and Repairing the Infamous Windows Code #28 Error</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-seamless-multilingual-interactions-our-pick-of-top-6-offline-translator-tools/"><u>Unlock Seamless Multilingual Interactions: Our Pick of Top 6 Offline Translator Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-samsung-galaxy-s2n-prospective-price-points-debut-date-and-specs-revealed/"><u>Unveiling the Samsung Galaxy S2n: Prospective Price Points, Debut Date & Specs Revealed!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-do-when-your-roku-device-fails-to-boot-essential-fixes/"><u>What to Do When Your Roku Device Fails to Boot - Essential Fixes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unveiling-the-top-10-historic-content-creators-on-youtube/"><u>[New] 2024 Approved Unveiling the Top 10 Historic Content Creators on YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ow-to-view-youtube-statistics-for-2024/"><u>[New] How to View YouTube Statistics for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-rev-up-your-video-earning-game-with-vimeo-strategies/"><u>[New] Rev Up Your Video Earning Game with Vimeo Strategies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-essential-vr-gear-for-aerial-devices/"><u>2024 Approved Essential VR Gear for Aerial Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cracking-the-code-to-join-the-elusive-world-of-facebook-marketplace/"><u>Cracking the Code to Join the Elusive World of Facebook Marketplace</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ensuring-seamless-communication-adding-safe-senders-in-the-macos-mail-app/"><u>Ensuring Seamless Communication: Adding Safe Senders in the macOS Mail App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-our-curated-selection-of-favorite-imessage-games-2oops-i-meant-2024/"><u>Explore Our Curated Selection of Favorite iMessage Games - 2^Oops, I Meant 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/game-hall-fame-celebrating-top-10-action-adventure-favorites-for-2024/"><u>Game Hall Fame Celebrating Top 10 Action-Adventure Favorites for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-watch-without-subtitles-learn-the-trick-for-amazon-prime-video/"><u>How To Watch Without Subtitles? Learn the Trick For Amazon Prime Video</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-millions-watch-but-how-much-do-they-earn/"><u>In 2024, Millions Watch, But How Much Do They Earn?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-10-best-montage-songs-for-your-montage-video/"><u>New 10 Best Montage Songs for Your Montage Video</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/smart-sms-habits-to-prevent-overspending-on-cellular-data-plans/"><u>Smart SMS Habits to Prevent Overspending on Cellular Data Plans</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-affordable-home-theater-system-bundles-the-ultimate-guide/"><u>Top Affordable Home Theater System Bundles: The Ultimate Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-solving-python2e4dll-not-found-in-python-setup/"><u>Ultimate Guide to Solving 'python2e4.dll Not Found' In Python Setup</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-s23-fe-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy S23 FE Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

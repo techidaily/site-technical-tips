@@ -1,7 +1,7 @@
 ---
 title: "Apple Launches Advanced Video Editing Tool with Final Cut on iPhone: A Game Changer for Amateur Filmmakers"
-date: 2024-09-27T03:47:45.894Z
-updated: 2024-10-02T03:43:09.929Z
+date: 2024-10-01T18:53:12.950Z
+updated: 2024-10-07T17:31:01.369Z
 tags:
   - apple
 categories:
@@ -68,6 +68,13 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -86,6 +93,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -99,13 +113,6 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -128,19 +135,6 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -159,16 +153,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -180,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -230,20 +218,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-top-15-facebook-videograbber-add-ons-compatible-with-firefox/"><u>[New] 2024 Approved Top 15 Facebook Videograbber Add-Ons, Compatible with FireFox</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-circulating-camera-mounts-for-vr/"><u>[Updated] Circulating Camera Mounts for VR</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-speed-in-video-production/"><u>2024 Approved Unlock the Power of Speed in Video Production</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-voice-communication-issues-during-content-warning-scenarios/"><u>Fixing Voice Communication Issues During Content Warning Scenarios</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-optimize-your-pc-swift-and-straightforward-intel-iris-540-graphics-driver-upgrade/"><u>How to Optimize Your PC: Swift and Straightforward Intel Iris 540 Graphics Driver Upgrade</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-resolve-realme-11-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme 11 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mastering-video-import-and-export-in-adobe-premiere-pro/"><u>Mastering Video Import and Export in Adobe Premiere Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/next-morning-analysis-fresh-insights/"><u>Next Morning Analysis Fresh Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-stylish-modern-tiny-house-models-featured-on-zdnet/"><u>Top 5 Stylish Modern Tiny House Models Featured on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-6-essential-party-must-haves-transform-your-backyard-events-with-these-life-changing-gadgets/"><u>Top 6 Essential Party Must-Haves: Transform Your Backyard Events with These Life-Changing Gadgets</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-barbecue-essentials-the-ultimate-toolkit-reviewed-zdnet/"><u>Top Barbecue Essentials: The Ultimate Toolkit Reviewed - ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-picks-ultimate-guide-to-choosing-the-ideal-2024-floodlights-for-enhanced-home-safety-and-security-zdnet/"><u>Top Picks: Ultimate Guide to Choosing the Ideal 2024 Floodlights for Enhanced Home Safety & Security (ZDNet)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-2024-lawn-mowers-comprehensive-review-by-zdnet/"><u>Top Rated 2024 Lawn Mowers: Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-2024-led-torches-industry-experts-reviews-and-ratings-zdnet/"><u>Top-Rated 2024 LED Torches: Industry Experts' Reviews & Ratings - ZDNet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-rising-to-the-top-essential-youtube-video-seo-techniques-for-success/"><u>[Updated] In 2024, Rising to the Top Essential YouTube Video SEO Techniques for Success</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-mastering-vlc-media-player-for-efficient-video-format-changes/"><u>2024 Approved Mastering VLC Media Player for Efficient Video Format Changes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-softer-side-of-promotion-elevating-your-audience-count/"><u>2024 Approved The Softer Side of Promotion Elevating Your Audience Count</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ballot-box-bonanza-topping-politic-simulations-for-2024/"><u>Ballot Box Bonanza Topping Politic Simulations for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-strategies-to-repair-common-problems-in-windows-11-and-windows-10-systems/"><u>Comprehensive Strategies to Repair Common Problems in Windows 11 and Windows 10 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cyberpunk-2077-display-problems-solved-achieve-crisp-visual-quality-now/"><u>Cyberpunk 2077 Display Problems Solved - Achieve Crisp Visual Quality Now!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/descargar-e-instalar-el-mejor-conversor-de-mp3-a-vob-online-gratuito-por-movavi/"><u>Descargar E Instalar El Mejor Conversor De MP3 a VOB Online Gratuito Por Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-controlling-excessive-cpu-use-by-windows-update-components-on-windows-11/"><u>Diagnosing and Controlling Excessive CPU Use by Windows Update Components on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dive-into-windows-10-creators-update-the-latest-advancements-in-insider-build-1503/"><u>Dive Into Windows 10 Creators Update: The Latest Advancements in Insider Build 1503</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808349928-how-to-pause-driver-upgrades-when-performing-windows-10-updates-effortlessly-resolve-the-issue/"><u>How to Pause Driver Upgrades When Performing Windows 10 Updates – Effortlessly Resolve the Issue</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-guide-to-using-eraser-tool-in-photoshop/"><u>In 2024, Guide to Using Eraser Tool In Photoshop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-evolution-of-hand-tracking-systems-over-time/"><u>In 2024, The Evolution of Hand Tracking Systems Over Time</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808300832-lost-gmail-password-recover-it-with-these-2022-verification-tips/"><u>Lost Gmail Password? Recover It with These 2022 Verification Tips!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-add-ons-the-best-new-filmmakers-starter-list-for-2024/"><u>Prime Add-Ons The Best New Filmmaker’s Starter List for 2024</u></a></li>
 </ul></div>
 

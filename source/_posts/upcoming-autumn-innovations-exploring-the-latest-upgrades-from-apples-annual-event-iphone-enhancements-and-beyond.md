@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Autumn Innovations: Exploring the Latest Upgrades From Apple's Annual Event - iPhone Enhancements & Beyond"
-date: 2024-09-30T11:09:43.843Z
-updated: 2024-10-02T02:52:30.963Z
+date: 2024-10-02T17:12:07.171Z
+updated: 2024-10-07T16:25:11.464Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -74,13 +74,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -101,10 +94,16 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -130,6 +129,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -160,10 +166,16 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -218,16 +230,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-prior-upgrades-key-points-revisited/"><u>[Updated] Prior Upgrades? Key Points Revisited</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-instagram-to-tik-tok-a-social-pivot-blueprint/"><u>2024 Approved Instagram to Tik Tok - A Social Pivot Blueprint</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-snapseed-simplified-the-photographers-first-toolkit/"><u>2024 Approved Snapseed Simplified The Photographer's First Toolkit</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo S18 Pro? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-our-picks-best-free-movie-downloads-in-one-handy-list/"><u>Explore Our Picks: Best Free Movie Downloads in One Handy List</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-your-pc-when-ntldr-goes-awol-comprehensive-troubleshooting-tips/"><u>Fixing Your PC When NTLDR Goes AWOL: Comprehensive Troubleshooting Tips</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-6-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 6 online without jailbreak</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-silence-a-guide-to-rectifying-your-iphones-inability-to-make-calls/"><u>Solving Silence: A Guide to Rectifying Your iPhone's Inability to Make Calls</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-guide-to-streaming-netflix-content-on-the-nintendo-switch/"><u>The Complete Guide to Streaming Netflix Content on the Nintendo Switch.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/update-windows-11-admin-credentials-quickly/"><u>Update Windows 11 Admin Credentials Quickly</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/virtual-accessory-fb-story-saves-for-2024/"><u>Virtual Accessory - FB Story Saves for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-instagram-sequence-steps-to-reach-1k-monthly-followers/"><u>[New] 2024 Approved The Instagram Sequence Steps to Reach 1K Monthly Followers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-engaging-audiences-facebook-live-meets-tv/"><u>[New] Engaging Audiences Facebook Live Meets TV</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-animatedapp-full-guide-and-review-24-overview-for-2024/"><u>[Updated] AnimatedApp Full Guide & Review '24 Overview for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-get-top-quality-gifs-on-your-mac-instantly-for-2024/"><u>[Updated] Get Top-Quality GIFs on Your Mac Instantly for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-ole-automation-error-missing-oleaut32dll-solutions/"><u>Fixing the OLE Automation Error - Missing oleAut32.dll Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-user-to-ghost-erasing-yourself-from-the-tiktok-universe/"><u>From User to Ghost: Erasing Yourself From the TikTok Universe</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-v30-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo V30 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10-steps-to-become-a-successful-smm/"><u>In 2024, 10 Steps to Become a Successful SMM</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-from-play-to-watch-recording-with-a-nintendo-switch/"><u>In 2024, From Play to Watch Recording with a Nintendo Switch</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-huawei-p60-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Huawei P60 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/making-the-switch-what-you-need-to-know-before-upgrading-to-ios-14/"><u>Making the Switch: What You Need to Know Before Upgrading to iOS 14</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionary-ways-to-charge-your-smartphone-without-traditional-outlets/"><u>Revolutionary Ways to Charge Your Smartphone Without Traditional Outlets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-troubleshooting-for-msi-dll-file-missing-error-solutions-and-fixes/"><u>The Ultimate Troubleshooting for MSI DLL File Missing Error: Solutions and Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-15-free-window-11-skins-enhance-your-pc-experience/"><u>Top 15 Free Window 11 Skins: Enhance Your PC Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watch-movies-and-tv-shows-for-free-on-crackles-streaming-service/"><u>Watch Movies & TV Shows for Free on Crackle's Streaming Service.</u></a></li>
 </ul></div>
 

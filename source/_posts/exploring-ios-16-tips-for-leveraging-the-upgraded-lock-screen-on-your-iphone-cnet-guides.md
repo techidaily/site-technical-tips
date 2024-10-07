@@ -1,7 +1,7 @@
 ---
 title: "Exploring IOS 16: Tips for Leveraging the Upgraded Lock Screen on Your iPhone | CNET Guides"
-date: 2024-09-26T11:57:44.652Z
-updated: 2024-10-01T19:19:24.796Z
+date: 2024-10-04T22:02:25.853Z
+updated: 2024-10-07T19:04:44.405Z
 tags:
   - apple
 categories:
@@ -43,10 +43,16 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-outlook/id951937596)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Outlook
@@ -64,13 +70,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-office/id541164041)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Microsoft Office
 
@@ -91,10 +90,10 @@ Show less
 ## Microsoft OneNote
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The hidden gem of the Office family
@@ -110,6 +109,13 @@ Show Expert Take Show less
 Show less 
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-onedrive/id477537958)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Microsoft OneDrive
 
@@ -145,13 +151,6 @@ Show less
 
 ## Microsoft Teams
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### One stop for video chats, meetings, files, tasks, and calendars
 
 The global pandemic of 2020 propelled Microsoft Teams into the limelight, alongside Zoom and a host of other video conferencing services. If your small business or school uses Teams for remote working and learning, you'll want to have the iOS app at hand for meetings and video calls when you're away from your desk.
@@ -168,6 +167,13 @@ Show less
 
 ## Microsoft To Do
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Keep track of Projects and tasks and send reminders to yourself or your team
 
 People who are passionate about to-do list software can be ... well, _passionate_. And if you're reading this section and spoiling for a chance to explain why Microsoft was foolish to replace Wunderlist with Microsoft To Do, thanks, but we don't need to rehash that decision here. I feel your passion, though.
@@ -183,10 +189,10 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/remote-desktop-mobile/id714464092)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Remote Desktop Mobile
@@ -206,32 +212,13 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-lists/id1530637363)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Lists
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Keep track of assets, inventory, issues, and more
 
@@ -240,6 +227,13 @@ When you're firmly entrenched in Microsoft's world as a developer or IT pro and 
 Think of Microsoft Lists as OneNote without all the annoying paragraphs. You can use lists to track issues like customer support requests, or assets in your business, or customers or inventory or ... well, you get the idea. The real secret of Microsoft Lists is not creating personal lists but rather in sharing lists with a team, complete with enterprise-grade security and customizable views that can keep everyone on the same extremely orderly page.
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##   
 
@@ -273,18 +267,14 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-a-hands-on-manual-to-easily-navigate-trending-youtube-comments/"><u>[Updated] A Hands-On Manual to Easily Navigate Trending YouTube Comments</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-quick-and-easy-way-to-record-iphone-screens/"><u>[Updated] In 2024, Quick & Easy Way to Record iPhone Screens</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bridging-devices-transferring-your-windows-display-to-a-smart-tv-via-chromecast-technology/"><u>Bridging Devices: Transferring Your Window's Display to a Smart TV via Chromecast Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-home-charging-station-setup-for-electric-vehicles/"><u>Comprehensive Guide to Home Charging Station Setup for Electric Vehicles</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-correct-the-problem-when-youre-not-receiving-emails-via-yahoo-mail/"><u>How To Correct the Problem When You're Not Receiving Emails via Yahoo Mail</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-engagement-game-changers-the-top-25-hashtags-you-need/"><u>In 2024, Instagram Engagement Game-Changers The Top 25 Hashtags You Need</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-micromobility-universe-key-events-latest-updates-and-insider-information/"><u>Navigating the Micromobility Universe: Key Events, Latest Updates & Insider Information</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fix-for-invisible-wi-fi-networks-on-your-devices/"><u>Step-by-Step Fix for Invisible Wi-Fi Networks on Your Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-sustainable-wlanextexe-operation/"><u>Techniques for Sustainable WLANEXT.EXE Operation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-10-text-tools-elevating-creative-compositions-for-2024/"><u>Top 10 Text Tools Elevating Creative Compositions for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-removing-applications-from-your-samsung-smart-tv/"><u>Ultimate Guide: Removing Applications From Your Samsung Smart TV</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-11-lag-no-more-strategies-to-optimize-and-accelerate-your-system/"><u>Windows 11 Lag No More: Strategies to Optimize and Accelerate Your System</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/levate-your-content-strategies-to-climb-youtube-ranks-for-2024/"><u>[New] Elevate Your Content Strategies to Climb YouTube Ranks for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-simplifying-video-production-with-captivate/"><u>[Updated] Simplifying Video Production with Captivate</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/banish-libxml2dll-not-found-messages-proven-fixes-to-get-your-system-running-again/"><u>Banish 'Libxml2.dll Not Found' Messages: Proven Fixes to Get Your System Running Again</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/download-corsair-k70-mouse-software-and-drivers-get-started/"><u>Download Corsair K70 Mouse Software & Drivers - Get Started</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-top-5-free-alternatives-to-skype-in-2e-e/"><u>Explore the Top 5 Free Alternatives to Skype in 2E! (E)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-enhance-snapchat-media-with-smart-zooming-hacks/"><u>In 2024, Enhance Snapchat Media with Smart Zooming Hacks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-from-play-to-record-the-fraps-verdict/"><u>In 2024, From Play to Record The Fraps Verdict</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-engaging-content-the-definitive-guide-to-the-507-greatest-instagram-captions/"><u>Master Engaging Content: The Definitive Guide to the 507 Greatest Instagram Captions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/simplify-your-youtube-presence-with-flawless-shorts-thumbnails-for-2024/"><u>Simplify Your YouTube Presence with Flawless Shorts Thumbnails for 2024</u></a></li>
 </ul></div>
 

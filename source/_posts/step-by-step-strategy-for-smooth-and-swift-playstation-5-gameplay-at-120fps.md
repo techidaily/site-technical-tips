@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Strategy for Smooth and Swift PlayStation 5 Gameplay at 120Fps
-date: 2024-09-13T23:55:19.580Z
-updated: 2024-09-20T21:07:48.253Z
+date: 2024-09-30T16:27:39.136Z
+updated: 2024-10-07T19:41:56.294Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Strategy for Smooth and Swift PlayStation 5 Gameplay at 120Fps
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/g6eunERrX2Z0qk3SqB75G5E2H_Y=/540x405/fi
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Turn On 120 FPS on PS5
 
  Most games that support 120 FPS also have other graphical modes that run at different frame rates, like 30 FPS and 60 FPS. You'll want to check your in-game settings for a 120 FPS toggle or a "Performance Mode" that you can turn on.
@@ -32,10 +39,26 @@ thumbnail: https://www.lifewire.com/thmb/g6eunERrX2Z0qk3SqB75G5E2H_Y=/540x405/fi
 1. Turn on your PS5, and open**Settings** from the main menu.  
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
@@ -52,10 +75,10 @@ thumbnail: https://www.lifewire.com/thmb/g6eunERrX2Z0qk3SqB75G5E2H_Y=/540x405/fi
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which PS5 Games Support 120 FPS?
@@ -102,5 +125,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-evening-epics-a-look-at-video-driven-bedtime-fables/"><u>[Updated] Evening Epics A Look at Video-Driven Bedtime Fables</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-elite-uploader-mp4-files-directly-for-fb/"><u>[Updated] In 2024, Elite Uploader MP4 Files Directly for FB</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/amp-up-your-audiovideo-quality-with-these-10-android-players/"><u>Amp Up Your Audio/Video Quality with These 10 Android Players</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-newest-gem-the-vision-pro-unveils-immediate-access-to-key-microsoft-suite-apps-on-day-one-insights-for-tech-enthusiasts-at-zdnet/"><u>Apple's Newest Gem: The Vision Pro Unveils Immediate Access to Key Microsoft Suite Apps on Day One | Insights for Tech Enthusiasts at ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoiding-common-blunders-using-chatgpt-wisely-for-your-content-strategy/"><u>Avoiding Common Blunders: Using ChatGPT Wisely for Your Content Strategy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fast-charging-made-cool-esr-unveils-qi2-magsafe-series-supercharges-iphone-16-in-no-time-with-cryoboost-technology-insights-from-zdnet/"><u>Fast-Charging Made Cool: ESR Unveils Qi2 MagSafe Series, Supercharges iPhone 16 in No Time with CryoBoost Technology – Insights From ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-cod-modern-warfare-continuous-freezing-issues/"><u>Fixes for Cod: Modern Warfare Continuous Freezing Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-madden-nfl-20-pc-game-crash-issues-solutions-and-tips/"><u>Fixing Madden NFL 20 PC Game Crash Issues - Solutions & Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-contrast-to-clarity-discerning-the-distinct-roles-of-siri-and-chatgpt-in-modern-tech/"><u>From Contrast to Clarity: Discerning the Distinct Roles of Siri and ChatGPT in Modern Tech</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube/"><u>In 2024, Break It Down Free Techniques to Go Frame by Frame on YouTube</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-tecno-phantom-v-flip-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Tecno Phantom V Flip to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/journey-through-royal-match-a-countdown-of-its-complex-level-system/"><u>Journey Through Royal Match: A Countdown of Its Complex Level System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-fixes-for-the-notorious-504-gateway-timeout-problems/"><u>Mastering Fixes for the Notorious 504 Gateway Timeout Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-new-technology-with-toms-comprehensive-hardware-reviews/"><u>Navigating New Technology with Tom's Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pioneering-websites-for-modern-letterforms-for-2024/"><u>Pioneering Websites for Modern Letterforms for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-is-bright-and-colorful-exploring-the-impact-of-apples-tandem-oled-on-upcoming-screen-innovations-wiredtechexplorer/"><u>The Future Is Bright and Colorful: Exploring the Impact of Apple's Tandem OLED on Upcoming Screen Innovations | WiredTechExplorer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-15-no-cost-antivirus-software-free-bootable-options-for-optimal-security/"><u>Top 15 No-Cost Antivirus Software: Free Bootable Options for Optimal Security</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unveiling-effective-techniques-for-setting-up-and-gauging-fbs-instream-ads/"><u>Unveiling Effective Techniques for Setting Up and Gauging FB's Instream Ads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-autumn-innovations-exploring-the-latest-upgrades-from-apples-annual-event-iphone-enhancements-and-beyond/"><u>Upcoming Autumn Innovations: Exploring the Latest Upgrades From Apple's Annual Event - iPhone Enhancements & Beyond</u></a></li>
+</ul></div>
 

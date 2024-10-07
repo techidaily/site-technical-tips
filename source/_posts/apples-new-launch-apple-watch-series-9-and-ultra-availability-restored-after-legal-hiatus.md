@@ -1,7 +1,7 @@
 ---
 title: "Apple's New Launch: Apple Watch Series 9 & Ultra Availability Restored After Legal Hiatus"
-date: 2024-09-30T11:44:08.723Z
-updated: 2024-10-02T11:22:40.514Z
+date: 2024-10-03T18:48:27.532Z
+updated: 2024-10-07T19:26:30.165Z
 tags:
   - apple
 categories:
@@ -29,16 +29,16 @@ Matthew Miller/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
@@ -102,10 +102,10 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -119,10 +119,10 @@ If you don't have an Apple Watch Ultra but are interested in buying one, the Ult
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -159,17 +159,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-photo-perfection-top-6-iphone-utilities-to-exclude-unwanted-elements/"><u>[New] Photo Perfection Top 6 iPhone Utilities to Exclude Unwanted Elements</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-achieving-professional-hdr-images-with-adobe-ps/"><u>[Updated] Achieving Professional HDR Images with Adobe PS</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-best-camera-stabilizers-for-youtubers-for-2024/"><u>[Updated] Best Camera Stabilizers for YouTubers for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-best-picks-no-charging-high-definition-video-players-for-pcmacos/"><u>[Updated] In 2024, Best Picks No-Charging, High Definition Video Players for PC/MacOS</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-content-creation-to-revenue-recognition-the-systematic-3-step-formula-for-youtube-income-examination/"><u>2024 Approved From Content Creation to Revenue Recognition The Systematic 3-Step Formula for YouTube Income Examination</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-watch-not-tracking-activity-correctly-heres-how-to-resolve-it/"><u>Apple Watch Not Tracking Activity Correctly? Here’s How to Resolve It!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/boosting-your-stream-quality-with-zoom-and-fb-live/"><u>Boosting Your Stream Quality with ZOOM & FB Live</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-overview-discovering-the-latest-version-of-macos-your-ultimate-guide/"><u>Comprehensive Overview: Discovering the Latest Version of macOS - Your Ultimate Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/crafting-compelling-content-507-instagram-caption-phrases-to-boost-interaction/"><u>Crafting Compelling Content: 507 Instagram Caption Phrases to Boost Interaction</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-6-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone 6 without Password?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-crafting-an-easy-homemade-projector-screen/"><u>Step-by-Step Tutorial on Crafting an Easy Homemade Projector Screen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-value-driven-entry-level-home-cinema-systems/"><u>Top Value-Driven Entry-Level Home Cinema Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-action-cam-showdown-which-holds-the-crown-gopro-or-yi/"><u>[New] 2024 Approved Action Cam Showdown Which Holds the Crown - GoPro or Yi?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-digital-dreamer-turning-images-into-animated-wonders-on-pc-mac-for-2024/"><u>[New] Digital Dreamer Turning Images Into Animated Wonders on PC, Mac for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-speedy-file-assessment-on-windows-pcs/"><u>[New] Speedy File Assessment on Windows PCs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-hand-tracking-explained/"><u>[Updated] Comprehensive Hand Tracking Explained</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-breaking-personal-barriers-in-yt-content-creation/"><u>[Updated] In 2024, Breaking Personal Barriers in YT Content Creation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-market-mastery-in-3-easy-steps-with-key-vocabulary/"><u>2024 Approved Market Mastery in 3 Easy Steps with Key Vocabulary</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anti-spyware-tools-free-download-for-windows/"><u>Anti-Spyware Tools Free Download for Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bypass-the-wait-expert-tips-on-expediting-windows-1eboot-installation-times/"><u>Bypass the Wait: Expert Tips on Expediting Windows 1Eboot Installation Times</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easily-back-up-drivers-before-a-fresh-install-of-windows-10-7-8-81or-xp/"><u>Easily Back Up Drivers Before a Fresh Install of Windows 10, 7, 8, 8.1or XP</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-call-blocking-techniques-master-the-art-of-silencing-intruders-on-iphone-and-android/"><u>Effortless Call-Blocking Techniques: Master the Art of Silencing Intruders on iPhone and Android!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/finding-the-elusive-msvcr100dll-step-by-step-troubleshooting-for-windows-users/"><u>Finding the Elusive MSVCR100.dll: Step-by-Step Troubleshooting for Windows Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-dell-driver-issue-the-update-installer-operation-is-unsuccessful/"><u>Fix Dell Driver Issue: The Update Installer Operation Is Unsuccessful</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-your-free-up-to-date-dell-drivers-for-windows-11-here/"><u>Get Your Free Up-to-Date Dell Drivers for Windows 11 Here!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808041492-how-to-play-fortnite-on-pc-easy-guide-for-beginners/"><u>How to Play Fortnite on PC - Easy Guide for Beginners!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rating-playlist-videos-from-youtube-on-websites-for-2024/"><u>Integrating Playlist Videos From YouTube on Websites for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/minimum-cpu-requirements-not-met-improve-your-setup-for-running-vanguard-seamlessly/"><u>Minimum CPU Requirements Not Met? Improve Your Setup for Running Vanguard Seamlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-our-favorite-no-cost-pdf-tools-for-july-2024/"><u>Unveiling Our Favorite No-Cost PDF Tools for July 2024</u></a></li>
 </ul></div>
 

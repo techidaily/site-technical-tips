@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Typing a Love Symbol: Step-by-Step Guide"
-date: 2024-09-28T12:55:05.235Z
-updated: 2024-10-01T23:32:25.381Z
+date: 2024-10-03T16:37:24.109Z
+updated: 2024-10-07T21:28:43.060Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Art of Typing a Love Symbol: Step-by-Step Guide"
@@ -35,16 +35,37 @@ These instructions apply to PCs running Windows 10 and up.
 3. Click the**Symbols** category in the bottom right corner (the heart icon).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Selecting heart emoji on Windows 10.](https://www.lifewire.com/thmb/CMP4tPIZk0BE6YGFylNX7stmONg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-make-a-heart-on-a-keyboard-8e8ecaec35874828964402365c012483.jpg)
 4. Click the**Heart Symbol** you’d like to type and it will appear in the text box.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Type a Heart on a Mac Keyboard
 
@@ -56,23 +77,24 @@ These instructions apply to PCs running Windows 10 and up.
 2. Press**Cmd+Ctrl+Space** on your keyboard at the same time. An emoji keyboard will appear.  
 ![Opening emoji keyboard on Mac.](https://www.lifewire.com/thmb/ETIxJzIACqgZ-FEusK1zp244QwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-make-a-heart-on-a-keyboard-d7effa6578c54270a6f1975aa35bf968.jpg)
 3. Click the**Symbols** category in the bottom row. It’s located between the**Objects** (lightbulb) and**Flags** categories.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Selecting Symbols category on Mac emoji keyboard.](https://www.lifewire.com/thmb/rvQxI5-vlnziApmdyIgVo24JizM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-make-a-heart-on-a-keyboard-332f4f0c46524b5cada3fad81d8ee5bb.jpg)
 4. Click the heart you'd like to type and it will appear in the text box.
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Alt Code for a Heart?
@@ -82,13 +104,6 @@ These instructions apply to PCs running Windows 10 and up.
  Things work a little differently on Macs, as the Apple keyboard uses option keys to insert symbols. However, you’ll have to change your keyboard settings to use the Unicode Hex Input method to do this.
 
  It’s much easier to use**Cmd+Ctrl+Space** and bring up the emoji keyboard, as Unicode is a complicated, somewhat limited method.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Do You Make a Heart Without a Number Pad?
 
@@ -101,13 +116,6 @@ These instructions apply to PCs running Windows 10 and up.
 3. Check**Turn on numeric key pad** .  
 ![Turning on Windows virtual keyboard numberpad.](https://www.lifewire.com/thmb/A-KAtlGevfPdZ_MVGGtIkNOa5AY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-make-a-heart-on-a-keyboard-5b2a0072033c44808c10fd4dd331a596.jpg)
 4. Click the**NumLock button** to bring up the number pad.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
 
@@ -159,20 +167,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-securely-download-your-youtube-playlist-at-any-time/"><u>[New] Securely Download Your YouTube Playlist at Any Time</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-erase-unwanted-boards-from-old-youtube-videos-for-clearer-viewing/"><u>[Updated] Erase Unwanted Boards From Old YouTube Videos for Clearer Viewing</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/becoming-part-of-the-global-community-your-guide-to-facebook/"><u>Becoming Part of the Global Community Your Guide to Facebook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-no-cost-communication-solutions-for-remote-workers-skype-replacements/"><u>Best No-Cost Communication Solutions for Remote Workers (Skype Replacements)</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/decoding-misconceptions-the-overrated-importance-of-reviewing-digital-entertainment-services/"><u>Decoding Misconceptions: The Overrated Importance of Reviewing Digital Entertainment Services</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-entry-activating-and-using-auto-logon-in-windows-systems/"><u>Effortless Entry: Activating and Using Auto Logon in Windows Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-access-lowest-prices-for-ipads-right-now/"><u>Exclusive Access: Lowest Prices for iPads Right Now</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-smart-8-plus-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Smart 8 Plus Face Lock?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-add-extra-security-layer-with-two-factor-auth-in-gmail/"><u>How to Add Extra Security Layer with Two-Factor Auth in Gmail</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-7-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 7 Passcode not Working?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-epson-stylus-nx420-driver-software-for-windows-operating-systems-win-7810/"><u>Latest Epson Stylus NX420 Driver Software for Windows Operating Systems (Win 7/8/10)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-install-for-acer-wifi-driver-free-downloads-available-now/"><u>Quick Install for Acer WiFi Driver – Free Downloads Available Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/scanning-made-simple-connecting-and-transferring-data-between-printers-and-computers/"><u>Scanning Made Simple: Connecting and Transferring Data Between Printers & Computers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-bass-management-an-in-depth-guide/"><u>Understanding Bass Management: An In-Depth Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-weaving-worthy-movie-openings/"><u>[New] Weaving Worthy Movie Openings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-making-the-most-of-both-worlds-tweeting-and-sending-videos-with-whatsapp/"><u>2024 Approved Making the Most of Both Worlds Tweeting & Sending Videos with WhatsApp</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/boosting-gameplay-with-ai-frame-interpolation-higher-fps-and-seamless-scene-changes/"><u>Boosting Gameplay with AI Frame Interpolation: Higher FPS and Seamless Scene Changes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-gt-neo-5-se-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722881191029-easy-to-follow-strategies-for-mending-prevalent-tv-problems/"><u>Easy-to-Follow Strategies for Mending Prevalent TV Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175718934-experience-unprecedented-comfort-with-grizzlys-new-thermal-pad-shifts-between-states-above-45c/"><u>Experience Unprecedented Comfort with Grizzly's New Thermal Pad – Shifts Between States Above 45°C!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-the-inaccessible-rockaldlldll-error-on-your-pc/"><u>Quick Fixes for the Inaccessible rockaldll.dll Error on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-the-notorious-black-screen-problem/"><u>Resolved: How to Fix the Notorious 'Black Screen' Problem</u></a></li>
+<li><a href="https://win11.techidaily.com/the-blueprint-for-beginning-your-steam-gamers-journey-anew/"><u>The Blueprint for Beginning Your Steam Gamers' Journey Anew</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-ai-conversational-tools-comparable-to-chatgpt/"><u>Top 10 AI Conversational Tools Comparable to ChatGPT</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-pc-video-editing-made-easy-a-vn-editor-review-for-2024/"><u>Updated PC Video Editing Made Easy A VN Editor Review for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-do-when-you-encounter-the-missing-msstdfmtdll-quick-fixes-explained/"><u>What to Do When You Encounter the 'Missing msstdfmt.dll': Quick Fixes Explained</u></a></li>
 </ul></div>
 
