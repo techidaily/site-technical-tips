@@ -1,7 +1,7 @@
 ---
 title: Optimizing Your Workflow in macOS Monterey with Customizable Focus Filters | Expert Guide
-date: 2024-10-06T16:50:23.864Z
-updated: 2024-10-07T18:30:47.526Z
+date: 2024-10-08T16:02:27.407Z
+updated: 2024-10-13T16:09:05.610Z
 tags:
   - apple
 categories:
@@ -28,28 +28,15 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -60,6 +47,13 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -67,6 +61,13 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -84,13 +85,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -106,10 +100,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -154,16 +148,16 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-best-tools-for-live-gameplay-screen-grabs/"><u>[New] 2024 Approved Best Tools for Live Gameplay Screen Grabs</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-bridging-the-digital-divide-with-gratuitous-animations/"><u>[New] 2024 Approved Bridging the Digital Divide with Gratuitous Animations</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-apex-10-royale-showdowns/"><u>[New] Apex 10 Royale Showdowns</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-choreographing-the-finale-for-your-tiktok-story-for-2024/"><u>[Updated] Choreographing the Finale for Your TikTok Story for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-influential-vr-development-studios/"><u>[Updated] Influential VR Development Studios</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/android-tips-for-protecting-your-personal-phone-number-from-unwanted-views/"><u>Android Tips for Protecting Your Personal Phone Number From Unwanted Views</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-insights-on-lg-channels-a-complete-guide/"><u>Essential Insights on LG Channels - A Complete Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722899819887-explore-the-best-ai-conversational-agents-beyond-chatgpt/"><u>Explore the Best AI Conversational Agents Beyond ChatGPT</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Samsung Galaxy XCover 6 Pro Tactical Edition Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-streaming-disneyplus-on-your-tv-via-chromecast/"><u>Step-by-Step Guide: Streaming Disney+ on Your TV via Chromecast</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-enjoying-android-experience-on-your-windows-10-computer/"><u>Step-by-Step Instructions for Enjoying Android Experience on Your Windows 10 Computer</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-tying-iphone-videos-in-seamless-bundles/"><u>[New] 2024 Approved Tying IPhone Videos in Seamless Bundles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-facetime-call-screen-recording-the-beginners-guide/"><u>[Updated] 2024 Approved FaceTime Call Screen Recording The Beginner's Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-globe-spin-cameras-versus-three-dimensional-photography-for-2024/"><u>[Updated] Globe-Spin Cameras versus Three-Dimensional Photography for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-integrating-facebook-video-into-home-screen-apps-for-2024/"><u>[Updated] Integrating Facebook Video Into Home Screen Apps for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726225189674-flac-wmv-movavi/"><u>免費在线 FLAC 到 WMV 傳輸 - 使用 Movavi 转换器</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726227838025-avimp4-movavi/"><u>無限制線上AVI到MP4格式轉換器 - 選擇 Movavi 進行高效率導航</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-samsung-galaxy-s23-fe-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Samsung Galaxy S23 FE to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-nyts-puzzles-and-solutions-for-august-15-430-a-guide-to-todays-brain-teasers/"><u>Explore NYT's Puzzles & Solutions for August 15 (#430) – A Guide to Today’s Brain Teasers!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-call-of-duty-wwii-issue-resolving-error-code-4128/"><u>Fixing Call of Duty: WWII Issue - Resolving Error Code 4128</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guia-passo-a-passo-para-migrar-filmes-de-formato-rmvb-para-mp4-com-a-ferramenta-de-conversao-da-movavi/"><u>Guia Passo-a-Passo Para Migrar Filmes De Formato RMVB Para MP4 Com a Ferramenta De Conversão Da Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726220160373-10/"><u>이 연도에 선보여진다: 10명의 무료 음악 프로그램 훌륭한 선택</u></a></li>
 </ul></div>
 

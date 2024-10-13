@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Dealing With a Failed Gmail Sync"
-date: 2024-10-01T22:57:45.449Z
-updated: 2024-10-07T16:13:38.830Z
+date: 2024-10-08T16:06:57.768Z
+updated: 2024-10-13T16:08:23.339Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Solution: Dealing With a Failed Gmail Sync"
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/11ac2fbc2d55a16e83a13ae11b90d85bbbd47dc0f
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable a New Mail Sound for Gmail
 
  If you want to hear a new email sound when you use Gmail in your desktop web browser, you can make that happen—just not in Gmail itself.
@@ -35,46 +42,45 @@ thumbnail: https://thmb.techidaily.com/11ac2fbc2d55a16e83a13ae11b90d85bbbd47dc0f
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
 
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Enable a Pop-Up Notification
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
@@ -123,17 +129,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-expert-tips-for-pc-gamers-ideal-snapshots/"><u>[New] 2024 Approved Expert Tips for PC Gamer's Ideal Snapshots</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-boost-communication-how-to-use-google-hangouts-on-mobile/"><u>[New] Boost Communication How to Use Google Hangouts on Mobile</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-how-to-change-name-in-google-meet-in-2024/"><u>[New] How to Change Name in Google Meet, In 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-the-secrets-of-instagrams-saved-content/"><u>[New] Unlocking the Secrets of Instagram's Saved Content</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-from-clicks-to-cash-how-jake-paul-leveraged-youtube/"><u>[Updated] 2024 Approved From Clicks to Cash How Jake Paul Leveraged YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-role-of-refresh-rates-for-optimal-immersion-in-vr-technology/"><u>Exploring the Role of Refresh Rates for Optimal Immersion in VR Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-science-fiction-to-tech-slang-exploring-how-grok-entered-the-world-of-technology/"><u>From Science Fiction to Tech Slang: Exploring How 'Grok' Entered the World of Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/general-motors-commits-to-protecting-customer-vehicle-information-privacy/"><u>General Motors Commits to Protecting Customer Vehicle Information Privacy</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-ready-for-the-new-era-upcoming-launch-of-central-bank-electronic-money-systems/"><u>Get Ready for the New Era: Upcoming Launch of Central Bank Electronic Money Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/improving-performance-tips-for-increasing-fps-on-ring-of-elysium/"><u>Improving Performance: Tips for Increasing FPS on Ring of Elysium</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-samsung-galaxy-z-flip-5-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-7-budget-friendly-high-res-4k-cameras/"><u>Top 7 Budget-Friendly High-Res 4K Cameras</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-highest-quality-screen-time-movie-hits-list/"><u>[New] 2024 Approved Highest-Quality Screen Time Movie Hits List</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-enhancing-watchlist-restoring-suggested-videos/"><u>[New] In 2024, Enhancing Watchlist Restoring Suggested Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-channel-upgrade-made-simple-embrace-tubebuddy-techniques/"><u>[Updated] 2024 Approved Channel Upgrade Made Simple - Embrace TubeBuddy Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-exclusive-roundup-best-windows-11-video-recording-options/"><u>[Updated] 2024 Approved Exclusive Roundup Best Windows 11 Video Recording Options</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-where-to-find-high-quality-pixel-ringers/"><u>[Updated] In 2024, Where to Find High-Quality Pixel Ringers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bluetooth-basics-for-techies-connecting-pcs-with-high-quality-sound-systems/"><u>Bluetooth Basics for Techies: Connecting PCs with High-Quality Sound Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-look-at-sonys-next-vr-device-price-estimates-availability-forecast-specifications/"><u>Exclusive Look at Sony's Next VR Device: Price Estimates, Availability Forecast, Specifications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-category-5-to-6-exploring-the-differences-that-matter-for-your-internet-connection/"><u>From Category 5 to 6: Exploring the Differences That Matter for Your Internet Connection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-enable-and-use-remote-functionality-on-your-samsung-qled-or-led-tvs/"><u>How To Enable and Use Remote Functionality on Your Samsung QLED or LED TVs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-8-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone 8 without Password?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-reno-11f-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Reno 11F 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-todays-virtual-realty-hardware-exploration/"><u>In 2024, Today’s Virtual Realty Hardware Exploration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722895912433-overcoming-yahoo-mail-hurdles-what-to-do-if-your-email-isnt-coming-through/"><u>Overcoming Yahoo Mail Hurdles: What to Do If Your Email Isn't Coming Through</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-gaming-iphones-which-model-takes-the-crown/"><u>Top Gaming iPhones: Which Model Takes the Crown?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshoot-the-missing-dciman32dll-error-with-easy-fixes/"><u>Troubleshoot the Missing dciman32.dll Error with Easy Fixes</u></a></li>
 </ul></div>
 

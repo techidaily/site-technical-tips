@@ -1,7 +1,7 @@
 ---
 title: Innovative Singaporean Team Develops High-Tech Glove Enabling Superior Virtual Sensations - ZDNet
-date: 2024-09-18T17:09:17.591Z
-updated: 2024-09-21T00:32:37.691Z
+date: 2024-10-09T16:03:39.919Z
+updated: 2024-10-13T16:00:34.088Z
 tags:
   - ar+vr
 categories:
@@ -71,12 +71,29 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-transforming-song-words-into-visual-storytelling-with-lyric-video-maker/"><u>[New] 2024 Approved Transforming Song Words Into Visual Storytelling with Lyric Video Maker</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-free-logos-sculpt-your-brand-with-stock-imagery/"><u>[New] In 2024, Free Logos Sculpt Your Brand with Stock Imagery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-world-of-audio-editing-with-garageband/"><u>[Updated] Navigating the World of Audio Editing with GarageBand</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-androids-new-frontier-the-impact-of-kinemaster-app/"><u>2024 Approved Android's New Frontier The Impact of KineMaster App</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-guide-to-iphone-silhouette-photos/"><u>2024 Approved The Ultimate Guide to iPhone Silhouette Photos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722895514741-android-communication-breakdown-fix-incomingoutgoing-call-problems-here/"><u>Android Communication Breakdown? Fix Incoming/Outgoing Call Problems Here!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/capturing-your-screen-a-step-by-step-guide-for-hp-notebook-users/"><u>Capturing Your Screen: A Step-by-Step Guide for HP Notebook Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/crucial-considerations-before-purchasing-your-next-high-quality-projector/"><u>Crucial Considerations Before Purchasing Your Next High-Quality Projector</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-led-light-colors-understanding-your-ps4-controllers-messages/"><u>Decoding LED Light Colors: Understanding Your PS4 Controller's Messages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-code-43-error-rectification/"><u>Effective Strategies for Code 43 Error Rectification</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-skype-interview-advice-mastering-remote-meetings-in-2nd4/"><u>Essential Skype Interview Advice: Mastering Remote Meetings in 2nD4</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-updates-for-intel-integrated-graphics-on-windows-1011-download-and-installation-instructions/"><u>Latest Updates for Intel Integrated Graphics on Windows 10/11: Download & Installation Instructions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-digital-tv-signal-enhancement-with-effective-in-house-antennas/"><u>Master the Art of Digital TV Signal Enhancement with Effective In-House Antennas</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-latency-challenges-in-the-updated-gaming-experience/"><u>Overcoming Latency Challenges in the Updated Gaming Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-start-guide-deploying-windows-10-on-an-empty-hard-disk-with-full-instructions/"><u>Quick Start Guide: Deploying Windows 10 on an Empty Hard Disk with Full Instructions</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

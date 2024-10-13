@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Release: All You Need to Know About the Latest AirPods Version - Pre-Order Info Inside"
-date: 2024-10-06T16:42:48.837Z
-updated: 2024-10-07T19:36:10.005Z
+date: 2024-10-06T16:03:35.511Z
+updated: 2024-10-13T16:13:24.023Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +72,16 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +95,10 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,15 +139,22 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-elevate-your-engagement-essential-apps-for-insta-growth/"><u>[New] In 2024, Elevate Your Engagement Essential Apps for Insta Growth</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-steps-to-secure-clear-image-collections/"><u>[New] In 2024, Steps to Secure, Clear Image Collections</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-steps-for-resolving-dll-not-found-and-related-issues/"><u>Essential Steps for Resolving 'DLL Not Found' And Related Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-top-free-video-conferencing-apps-of-2nndy-four-alternatives-to-skype/"><u>Explore Top Free Video Conferencing Apps of 2Nndy Four - Alternatives To Skype</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-tecno-spark-20-pro-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Tecno Spark 20 Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-merge-playlists-on-spotify/"><u>How to Merge Playlists on Spotify</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-z-flip-5-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy Z Flip 5 to PC? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-logitech-m185-webcam-drivers-free-software-installation-steps/"><u>Latest Logitech M185 Webcam Drivers: Free Software Installation Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tips-for-speeding-up-your-sluggish-internet/"><u>Top Tips for Speeding Up Your Sluggish Internet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-11-nightmare-unraveled-proven-solutions-to-tackle-the-ominous-black-screen-fault/"><u>Windows 11 Nightmare Unraveled: Proven Solutions to Tackle the Ominous Black Screen Fault</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-edge-enhancing-vertical-videos-using-fcpx-techniques/"><u>[Updated] 2024 Approved Instagram Edge Enhancing Vertical Videos Using FCPX Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-green-frameworks-30plus-downloads-that-transform-your-videography-skills/"><u>[Updated] In 2024, Green Frameworks 30+ Downloads That Transform Your Videography Skills</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm5pya5paw44ki44ol44oh44ov44oq44o844km44kn44kk5bqd5zgk44gn5a6j5ywo44gq54sh5paz6kaw6ig044ox44op44od44oi44ov44kp44o844og44ks55m66kal77yb44cn/"><u>「最新アニメフリーウェイ広告で安全な無料視聴プラットフォームを発見！」</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-shine-through-the-game-fixes-for-dark-capture-by-obs/"><u>2024 Approved Shine Through the Game Fixes for Dark Capture by OBS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-windows-snapshot-simplified-2-methods/"><u>2024 Approved Windows Snapshot Simplified (2 Methods)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/addressing-and-correcting-the-xinput13dll-not-located-error-tips-and-tricks/"><u>Addressing and Correcting the 'xinput1_3.dll Not Located' Error: Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722862156037-dealing-with-mfc-42-dll-file-not-found-heres-your-guide-to-quick-recovery/"><u>Dealing with MFC 42 DLL File Not Found? Here's Your Guide to Quick Recovery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-guide-to-inputting-heart-emoji-using-keyboard-characters/"><u>Effortless Guide to Inputting Heart Emoji Using Keyboard Characters</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-optimize-your-online-presence-with-effective-pinging-methods/"><u>Expert Advice: Optimize Your Online Presence with Effective Pinging Methods</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-camera-roll-to-feed-adding-photos-on-instagram-for-2024/"><u>From Camera Roll to Feed Adding Photos on Instagram for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-issues-with-unopened-applications-on-your-mac/"><u>How To Resolve Issues with Unopened Applications on Your Mac</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-masterful-methods-to-log-lol-bouts/"><u>In 2024, Masterful Methods to Log LOL Bouts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/preventing-unwanted-auto-play-a-guide-to-pausing-apple-music-streams/"><u>Preventing Unwanted Auto-Play: A Guide to Pausing Apple Music Streams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-essential-note-taking-apps-for-ipad-and-ipad-pro-enthusiasts/"><u>Top 7 Essential Note-Taking Apps for iPad & iPad Pro Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unhide-the-invisible-a-comprehensive-guide-to-finding-concealed-files-using-macos-terminal/"><u>Unhide the Invisible: A Comprehensive Guide to Finding Concealed Files Using macOS Terminal</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/youtube-to-mp4-get-free-hd1080p-from-facebook-vids-for-2024/"><u>YouTube-to-MP4 Get Free HD/1080P From Facebook Vids for 2024</u></a></li>
 </ul></div>
 

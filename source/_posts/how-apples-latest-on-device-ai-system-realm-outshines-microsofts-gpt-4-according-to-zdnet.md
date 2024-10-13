@@ -1,7 +1,7 @@
 ---
 title: How Apple's Latest On-Device AI System ReaLM Outshines Microsoft's GPT-4, According to ZDNet
-date: 2024-09-30T16:35:01.896Z
-updated: 2024-10-07T19:25:31.044Z
+date: 2024-10-08T16:02:42.896Z
+updated: 2024-10-13T16:09:55.789Z
 tags:
   - apple
 categories:
@@ -77,27 +77,29 @@ Time is of the essence for Apple to make some changes, however. The DMA's implem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-capturing-gameplay-moments-flawlessly/"><u>[New] In 2024, Capturing Gameplay Moments Flawlessly</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-revolutionizing-reality-top-vr-peripherals-for-2024/"><u>[New] Revolutionizing Reality Top VR Peripherals for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-viral-potential-the-key-to-popularizing-your-videos/"><u>[Updated] Mastering Viral Potential The Key to Popularizing Your Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-webcam-buying-simplified-the-best-10-options/"><u>[Updated] Webcam Buying Simplified The Best 10 Options</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-hooking-up-a-firestick-with-a-projector/"><u>Comprehensive Tutorial on Hooking Up a Firestick with a Projector</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connect-on-the-go-mastering-roku-in-hotels-and-dorms/"><u>Connect on the Go: Mastering Roku in Hotels and Dorms</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/expedited-guide-to-effective-double-take-technique/"><u>Expedited Guide to Effective Double-Take Technique</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-reasons-behind-youtubes-occasional-performance-glitches/"><u>Exploring Reasons Behind YouTube's Occasional Performance Glitches</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-the-d3dx92edll-is-absent-problem-expert-tips-and-tricks/"><u>Fix the 'd3dx9_2e.dll Is Absent' Problem: Expert Tips and Tricks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-tweeting-etiquette-knowing-when-to-disconnect-from-x-users/"><u>Mastering the Art of Tweeting Etiquette: Knowing When to Disconnect From X Users</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/perfect-balance-in-flipping-books-adjusting-width-to-height-ratios-with-ease-on-flipbuilder/"><u>Perfect Balance in Flipping Books: Adjusting Width-to-Height Ratios with Ease on FlipBuilder</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/seamless-multi-screen-browsing-in-chrome-using-pip/"><u>Seamless Multi-Screen Browsing in Chrome Using PIP</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-ac1st16dll-not-found-expert-tips-and-tricks/"><u>Solving 'ac1st16.dll Not Found': Expert Tips and Tricks</u></a></li>
-<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-pre-purchase-considerations-a-list-of-5-crucial-elements-in-selecting-a-smartwatch/"><u>Understanding Pre-Purchase Considerations: A List of 5 Crucial Elements in Selecting a Smartwatch</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-precision-recording-a-stepwise-plan-for-pc-ios-macbooks/"><u>[New] Precision Recording A Stepwise Plan for PC, iOS, MacBooks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unlocking-online-potential-essential-fb-advice-for-businesses-for-2024/"><u>[New] Unlocking Online Potential Essential FB Advice for Businesses for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-fine-tuning-your-obs-live-feeds-for-facebook-audience/"><u>[Updated] 2024 Approved Fine-Tuning Your OBS Live Feeds for Facebook Audience</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-tricks-for-swift-vimeo-watch-for-2024/"><u>[Updated] Tricks for Swift Vimeo Watch for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-secret-to-stability-overcoming-handheld-videography-challenges/"><u>2024 Approved The Secret to Stability Overcoming Handheld Videography Challenges</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/advanced-ar-glasses-review-zdnets-ultimate-selection/"><u>Advanced AR Glasses Review: ZDNet's Ultimate Selection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/affordable-vr-experience-discovering-visionpros-power-with-this-compact-and-lightweight-headset-insights-from-zdnet/"><u>Affordable VR Experience: Discovering VisionPro's Power with This Compact and Lightweight Headset - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-pushes-back-launch-of-augmented-reality-spectacles-prioritizes-hybrid-vrar-device-instead/"><u>Apple Pushes Back Launch of Augmented Reality Spectacles, Prioritizes Hybrid VR/AR Device Instead</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-spatial-computing-technology-understanding-its-functionality-features-and-impacts-perspectives-by-zdnet/"><u>Decoding Spatial Computing Technology: Understanding Its Functionality, Features & Impacts – Perspectives by ZDNet</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/die-effizientesten-methoden-zur-beseitigung-von-windows-11-updates-einfuhrende-losungen-fur-optimierer/"><u>Die Effizientesten Methoden Zur Beseitigung Von Windows 11 Updates: Einführende Lösungen Für Optimierer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-cityscapes-in-a-new-dimension-how-augmented-reality-revolutionizes-urban-navigation-on-google-maps/"><u>Explore Cityscapes in a New Dimension: How Augmented Reality Revolutionizes Urban Navigation on Google Maps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/final-alert-grab-the-exclusive-oculus-quest-2-for-only-199-today-gadget-central/"><u>Final Alert: Grab the Exclusive Oculus Quest 2 for Only $199 Today | Gadget Central</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oppo-find-n3-flip-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Oppo Find N3 Flip Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-look-how-qualcomm-joins-forces-with-samsung-and-google-to-revolutionize-arvr-with-cutting-edge-smart-glasses/"><u>Inside Look: How Qualcomm Joins Forces With Samsung and Google to Revolutionize AR/VR with Cutting-Edge Smart Glasses</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-an-expensive-education-on-the-horizon-unveiling-mba-programs-via-apple-vision-pro-according-to-zdnet/"><u>Is an Expensive Education on the Horizon? Unveiling MBA Programs via Apple Vision Pro, According to ZDNet</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-ultimate-list-of-adobe-premiere-pro-plugins-free-downloads-inside/"><u>New In 2024, The Ultimate List of Adobe Premiere Pro Plugins Free Downloads Inside</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/reasons-behind-missing-video-on-sony-a6400-for-2024/"><u>Reasons Behind Missing Video on Sony A6400 for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

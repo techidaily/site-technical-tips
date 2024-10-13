@@ -1,7 +1,7 @@
 ---
 title: Meta Broadens Reach to Asus & Lenovo, Opens up Quest OS for External VR Devices | Tech News on ZDNET
-date: 2024-09-15T02:02:50.558Z
-updated: 2024-09-20T23:49:39.417Z
+date: 2024-10-08T16:01:07.373Z
+updated: 2024-10-13T16:01:25.415Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,30 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-comparative-analysis-is-pickup-the-best-editor-for-your-android-device/"><u>[New] Comparative Analysis Is PickUp The Best Editor for Your Android Device?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-flash-video-insights-guide/"><u>2024 Approved Flash Video Insights Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/3d-printing-in-medicine/"><u>3D Printing in Medicine</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-revamps-ai-with-promising-upgrades-yet-challenges-remain-an-in-depth-analysis/"><u>Apple Revamps AI with Promising Upgrades, Yet Challenges Remain: An In-Depth Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-major-event-highlights-the-arrival-of-powerful-ipad-lineup-featuring-m4-ipad-pro-expanded-ipad-air-and-the-next-gen-apple-pencil-tech-analysis/"><u>Apple's Major Event Highlights: The Arrival of Powerful iPad Lineup Featuring M4 iPad Pro, Expanded iPad Air, and the Next-Gen Apple Pencil | Tech Analysis</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-restore-excel-2003-file-by-stellar-guide/"><u>How Do I Restore Excel 2003 File ?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-honor-90-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-the-new-iphone-16-worth-it-expert-advice-on-why-to-embrace-or-avoid-the-upgrade-analysis/"><u>Is the New iPhone 16 Worth It? Expert Advice on Why to Embrace or Avoid the Upgrade Analysis</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/microsoft-steps-up-in-iot-as-google-pulls-out-the-future-of-smart-devices/"><u>Microsoft Steps Up in IoT as Google Pulls Out: The Future of Smart Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/premium-choices-in-virtual-meeting-applications-enhance-your-teams-connectivity/"><u>Premium Choices in Virtual Meeting Applications – Enhance Your Team's Connectivity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-using-and-understanding-the-western-digital-data-lifeguard-diagnostic-software-detailed-review/"><u>The Ultimate Guide to Using & Understanding the Western Digital Data LifeGuard Diagnostic Software: Detailed Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-non-functioning-microphone-on-the-turtle-beach-elite-atlas/"><u>Troubleshooting Guide: How to Fix Non-Functioning Microphone on the Turtle Beach Elite Atlas</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstick-your-sea-of-thieves-game-from-the-loading-phase-expert-advice-and-tips/"><u>Unstick Your Sea of Thieves Game From the Loading Phase: Expert Advice and Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-lackluster-appeal-how-apples-latest-ai-innovations-at-wwdc-may-fail-to-impress-techinsights/"><u>Unveiling the Lackluster Appeal: How Apple's Latest AI Innovations at WWDC May Fail to Impress | TechInsights</u></a></li>
+<li><a href="https://techidaily.com/what-to-do-if-iphone-6s-plus-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 6s Plus is not listed when I run the software? | Stellar</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

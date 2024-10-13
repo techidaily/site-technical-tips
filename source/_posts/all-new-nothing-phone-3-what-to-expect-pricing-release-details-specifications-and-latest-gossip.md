@@ -1,7 +1,7 @@
 ---
 title: "All-New Nothing Phone 3: What to Expect - Pricing, Release Details, Specifications & Latest Gossip"
-date: 2024-10-01T20:24:32.105Z
-updated: 2024-10-07T20:12:28.347Z
+date: 2024-10-06T16:07:31.570Z
+updated: 2024-10-13T16:03:00.446Z
 categories:
   - BestProducts
 description: "This Article Describes All-New Nothing Phone 3: What to Expect - Pricing, Release Details, Specifications & Latest Gossip"
@@ -32,19 +32,6 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 
  Given that hint, we suspect a July 2025 reveal based on prior Nothing phone flagship releases: The Nothing Phone 1 arrived in July 2022, followed by the Nothing Phone 2 in July 2023.
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Lifewire's Release Date Estimate
 
 We're betting on a July 2025 release date for the Nothing Phone 3.
@@ -63,31 +50,31 @@ We're betting on a July 2025 release date for the Nothing Phone 3.
 
 ![Nothing Phone 2 on a glass tabletop](https://www.lifewire.com/thmb/PY8rVS-IBLbcIzX2pej9YWVT6Jg=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/NothingPhone2.7-bdc100925d154e10aa175c63ba8cddca.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Nothing Phone 2.
 
 Lifewire / Rob LeFebvre
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Pre-Order Information
 
  The Nothing Phone 3 hasn't yet been announced by Nothing, which means we don't have any pre-order information. Once we know more, we’ll update details here, so stay tuned. We’ll also detail how widely available the Phone 3 will be for pre-ordering.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Nothing Phone 3 Specs and Features
 
  Since the Phone 3 isn't an official product, it’s hard to say for sure what we’ll see in the Phone 3\. But here’s some reliable chatter so far.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### A Newer Chip (but Just How New)?
 
@@ -102,15 +89,22 @@ Lifewire / Rob LeFebvre
  The Phone 2 made significant strides with a 4,700-mAh battery, an impressive boost compared to the Phone 1's 4500 mAh (for comparison, the iPhone 15 Plus has a 4,383-mAh battery). The newest model is likely to improve upon these gains and catch up with competitors by offering faster wired charging and bigger capacity.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Improved Camera
 
  The dual-camera design of the Phone 1 and Phone 2 will likely carry over.[Phone Arena reports that the Phone 3 might get Sony's latest LYTIA sensor lineup](https://www.phonearena.com/nothing-phone-3-release-date-price-upgtades) , which could mean even more control and a richer photo-taking experience in various lighting conditions and environments.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Signature Glyph, Improved
 
@@ -121,6 +115,13 @@ Lifewire / Rob LeFebvre
 Nothing OS 2.0.
 
 Nothing
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### An Action Button
 
@@ -135,13 +136,6 @@ Nothing
  The only timing clue Pei offered was a "next year" tag for the slow rollout of AI, starting with the Nothing Phone 3.  
 
  We’ll continue to make updates as we learn about more rumors, leaks, and official word from Nothing.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Latest News About the Nothing Phone 3
 
@@ -170,20 +164,19 @@ Nothing
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-step-by-step-successful-uploads-on-google-podcast/"><u>[New] 2024 Approved Step-by-Step Successful Uploads on Google Podcast</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-strategic-marketing-insights-for-maximizing-youtube-shorts-popularity/"><u>[Updated] 2024 Approved Strategic Marketing Insights for Maximizing YouTube Shorts Popularity</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-fb-sounds-unlimited-grab-and-go/"><u>[Updated] In 2024, FB Sounds Unlimited Grab & Go</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-next-level-vfx-gear-for-the-eco-savvy/"><u>[Updated] In 2024, Next-Level VFX Gear for the Eco-Savvy</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-leveraging-likes-and-comments-enhancing-engagement-on-instagram-stories/"><u>2024 Approved Leveraging Likes and Comments Enhancing Engagement on Instagram Stories</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/gyao/"><u>無料GYAO動画コレクション｜保存ツール付きダウンロードガイドで最適な体験</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/chromebook-not-responding-try-these-8-troubleshooting-tips/"><u>Chromebook Not Responding? Try These 8 Troubleshooting Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-on-retrieving-bookmarks-in-safari-after-itunes-restoration/"><u>Comprehensive Tutorial on Retrieving Bookmarks in Safari After iTunes Restoration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decode-and-defuse-msmpengineexes-greedy-cpu-behavior-in-windows-10-detailed-steps-to-resolve/"><u>Decode and Defuse MsMpEngine.exe's Greedy CPU Behavior in Windows 10 - Detailed Steps to Resolve</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-4-key-applications-for-following-twitter-hashtags-successfully/"><u>Discover the 4 Key Applications for Following Twitter Hashtags Successfully</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/embark-on-a-reality-shifting-journey-creating-an-account-for-your-oculus-quest-or-quest-2-headset/"><u>Embark on a Reality-Shifting Journey - Creating an Account for Your Oculus Quest or Quest 2 Headset</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pixel-buds-pro-2-unveiled-anticipated-features-launch-timeline-and-cost-estimates/"><u>Pixel Buds Pro 2 Unveiled? Anticipated Features, Launch Timeline & Cost Estimates</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/save-big-premier-tech-discounts-for-amazon-prime-day-shoppers/"><u>Save Big: Premier Tech Discounts for Amazon Prime Day Shoppers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/streamline-your-getaways-using-these-8-exceptional-mobile-planning-tools-for-nomads/"><u>Streamline Your Getaways Using These 8 Exceptional Mobile Planning Tools for Nomads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-strategic-moves-for-earning-through-product-sponsorships-on-youtube/"><u>2024 Approved Strategic Moves for Earning Through Product Sponsorships on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-x-capture-pro-for-home-systems/"><u>2024 Approved X-Capture Pro for Home Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-crucial-modifications-to-revolutionize-the-windows-11-taskbar/"><u>6 Crucial Modifications to Revolutionize the Windows 11 Taskbar</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breathe-life-into-tweets-animating-insta-story-texts-for-2024/"><u>Breathe Life Into Tweets Animating Insta Story Texts for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-gaps-in-window-systems-reliability-vs-performance/"><u>Bridging Gaps in Window Systems: Reliability Vs. Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/data-organization-simplified-combining-columns-in-microsoft-excel-with-ease/"><u>Data Organization Simplified: Combining Columns in Microsoft Excel with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dive-deep-into-computer-specs-and-reviews-with-toms-hardware-hub/"><u>Dive Deep Into Computer Specs and Reviews with Tom's Hardware Hub</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-picks-best-free-software-to-update-your-drivers-in-july-2024/"><u>Expert Picks: Best Free Software to Update Your Drivers in July 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oneplus-open-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from OnePlus Open to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Infinix Zero 30 5G</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-extra-memory-for-sony-a7c-model/"><u>In 2024, Ideal Extra Memory for Sony A7C Model</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-honor-x50iplus-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Honor X50i+ Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-resolving-rpcrt4dll-file-unavailable-mishaps/"><u>Solutions for Resolving 'RPCRT4.DLL' File Unavailable Mishaps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-watching-the-live-samsung-product-reveal-event-virtually/"><u>The Ultimate Tutorial on Watching the Live Samsung Product Reveal Event Virtually</u></a></li>
 </ul></div>
 

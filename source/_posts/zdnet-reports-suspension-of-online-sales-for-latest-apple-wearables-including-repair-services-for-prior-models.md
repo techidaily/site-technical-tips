@@ -1,7 +1,7 @@
 ---
 title: ZDNet Reports Suspension of Online Sales for Latest Apple Wearables, Including Repair Services for Prior Models
-date: 2024-10-01T20:13:16.489Z
-updated: 2024-10-07T20:51:02.657Z
+date: 2024-10-09T16:04:04.954Z
+updated: 2024-10-13T16:01:31.237Z
 tags:
   - apple
 categories:
@@ -41,16 +41,22 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## You should buy the iPhone 16 Pro if…
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. You want Apple Intelligence
 
@@ -61,10 +67,16 @@ Apple's artificial intelligence push, aptly named Apple Intelligence, will be av
 To run smoothly, the Apple Intelligence features require an A17 chip or newer and at least 8GB of RAM, but the iPhone 14 Pro has the A16 chip and only 6GB of RAM. The iPhone 16 Pro features an A18 Pro chip and 8GB of RAM, making it a good device to run Apple's AI features. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. You'd like to get your hands on the bigger screen
@@ -76,10 +88,16 @@ Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretch
 The larger smartphone also means that the iPhone 16 Pro has a larger battery than the 14 Pro, at 3,355 mAh compared to 3,200 mAh. But even without the welcome battery upgrade, the new Pro models support faster charging than ever. The iPhone 16 Pro supports 40W wired charging and 20W of MagSafe charging, so if you find the iPhone 14 Pro's charging slow, it could be time to upgrade.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. You love taking beautiful photos
@@ -115,10 +133,10 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 [iPhone 14 Pro (Pre-owned) $602.48 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN95FRW9%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7731a1c6-ddf3-463f-ba3a-43e9158c0add%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -155,18 +173,18 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-tips.techidaily.com/affordable-tech-insights-why-samsung-galaxy-a2-is-a-hidden-gem-in-budget-phones/"><u>Affordable Tech Insights: Why Samsung Galaxy A2# Is a Hidden Gem in Budget Phones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-aether-unveiling-its-nature-and-steps-to-become-a-member/"><u>Discover Aether: Unveiling Its Nature & Steps to Become a Member</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210243867-error-code-0x80072f8f-on-your-computer-heres-how-you-can-troubleshoot-windows-1110-issues-easily/"><u>Error Code 0X80072F8F on Your Computer? Here's How You Can Troubleshoot Windows 11/10 Issues Easily!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/future-of-siri-apples-strategic-move-to-boost-intelligence-by-2025-the-latest-news-on-zdnet/"><u>Future of Siri: Apple's Strategic Move to Boost Intelligence by 2025 - The Latest News on ZDNet</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y27-4g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y27 4G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-proven-approaches-to-sound-recording-on-computers/"><u>In 2024, Proven Approaches to Sound Recording on Computers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/latest-updates-on-playstation-5-slim-costs-launch-timeline-and-technical-details/"><u>Latest Updates on PlayStation 5 Slim: Costs, Launch Timeline & Technical Details</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-bsod-problem-with-tcpipsys-in-windows-operating-systems-11-7-and-eight-edition/"><u>Resolving the BSOD Problem with tcpip.sys in Windows Operating Systems: 11, 7 and Eight Edition</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellars-repair-software-photo-preservation-redefined/"><u>Stellar's Repair Software: Photo Preservation Redefined</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-made-easy-solve-netflix-malfunctions-on-lg-tv-with-19-handy-strategies/"><u>Troubleshooting Made Easy: Solve Netflix Malfunctions on LG TV with 19 Handy Strategies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-the-distinctions-neo-qled-vs-oled-tv-innovations-unveiled/"><u>Understanding the Distinctions: Neo QLED Vs. OLED TV Innovations Unveiled</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unlocking-the-past-with-playstation-plus-premium-a-necessity-for-classic-game-lovers/"><u>Unlocking the Past with PlayStation Plus Premium - A Necessity for Classic Game Lovers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-latest-in-computer-hardware-a-dive-into-toms-world-of-technology/"><u>Unveiling the Latest in Computer Hardware - A Dive Into Tom's World of Technology</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-crafting-a-digital-identity-simple-steps-to-create-businesspersonal-youtube-channels-on-smartphones/"><u>[New] 2024 Approved Crafting a Digital Identity Simple Steps to Create Business/Personal YouTube Channels on Smartphones</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-elevate-viewership-must-use-youtube-seo-tools/"><u>[New] 2024 Approved Elevate Viewership Must-Use YouTube SEO Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-power-of-jump-cuts-in-engaging-videos/"><u>[New] 2024 Approved The Power of Jump Cuts in Engaging Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-zero-to-hero-in-instagram-world-top-9-pathways-unveiled/"><u>[Updated] From Zero to Hero in Instagram World Top 9 Pathways Unveiled</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-tailored-solutions-for-high-quality-iptv-capture/"><u>[Updated] In 2024, Tailored Solutions for High-Quality IPTV Capture</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-tv-fixes-step-by-step-resolution-of-common-televison-faults/"><u>DIY TV Fixes: Step-by-Step Resolution of Common Televison Faults</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-methods-to-consolidate-your-different-fortnite-identities-today/"><u>Easy Methods to Consolidate Your Different Fortnite Identities Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-effortless-gameplay-streaming-on-ps5/"><u>Expert Tips for Effortless Gameplay Streaming on PS5</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-handbook-to-effective-spotify-marketing/"><u>In 2024, The Ultimate Handbook to Effective Spotify Marketing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-strategy-boost-your-presence-on-apple-tv-platforms/"><u>Step-by-Step Strategy: Boost Your Presence on Apple TV Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-role-of-cas-latencies-in-determining-pc-speed-and-efficiency/"><u>The Role of CAS Latencies in Determining PC Speed and Efficiency</u></a></li>
 </ul></div>
 

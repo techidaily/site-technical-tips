@@ -1,7 +1,7 @@
 ---
 title: Simplify Your Inbox with One Simple Tactic – No Complicated Filters Needed, as Explained by ZDNet
-date: 2024-10-04T17:27:24.595Z
-updated: 2024-10-07T17:44:51.487Z
+date: 2024-10-06T16:11:05.300Z
+updated: 2024-10-13T16:13:04.477Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +76,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +93,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,16 +110,10 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -160,19 +154,24 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-inside-the-dji-phantom-3-pro-advantages/"><u>[New] Inside the DJI Phantom 3 Pro Advantages</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-strategies-for-effective-content-promotion-on-youtube/"><u>[New] Strategies for Effective Content Promotion on YouTube</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-unlock-advanced-features-of-obs-studio-on-android-platforms-for-2024/"><u>[New] Unlock Advanced Features of OBS Studio on Android Platforms for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-non-athletic-games-the-best-10-front-rows/"><u>[Updated] 2024 Approved Non-Athletic Games The Best 10 Front Rows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-kid-friendly-digital-games-a-list-of-7-favorites-for-playtime/"><u>Best Kid-Friendly Digital Games: A List of 7 Favorites for Playtime!</u></a></li>
-<li><a href="https://win-hot.techidaily.com/best-practices-for-recording-academic-sessions-compatible-with-pc-and-mac-os/"><u>Best Practices for Recording Academic Sessions: Compatible with PC & Mac OS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/demystifying-the-processes-powering-modern-electromobility-motorbikes-explained/"><u>Demystifying the Processes Powering Modern Electromobility: Motorbikes Explained</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-6s-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 6s Screen Mirroring You Must Know | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimizing-podcasts-on-googles-platform/"><u>Optimizing Podcasts on Google's Platform</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/powerpoint-revamp-strategies-how-to-successfully-update-presentations/"><u>PowerPoint Revamp Strategies: How to Successfully Update Presentations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722889270689-smartphone-showdown-comparing-iphones-and-androids-to-suit-your-lifestyle/"><u>Smartphone Showdown: Comparing iPhones and Androids to Suit Your Lifestyle.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/solving-the-problem-effective-strategies-for-repairing-msi-webcams/"><u>Solving the Problem: Effective Strategies for Repairing MSI Webcams</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-correcting-your-computers-cmos-data-integrity-issue/"><u>The Ultimate Guide: Correcting Your Computer's CMOS Data Integrity Issue</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-article-below-will-show-you-some-of-the-best-apps-to-convert-a-video-to-a-live-photo-and-how-to-set-up-live-photos-as-wallpaper-on/"><u>Updated 2024 Approved The Article Below Will Show You some of the Best Apps to Convert a Video to a Live Photo, and How to Set up Live Photos as Wallpaper on iPhone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-the-art-of-twilight-portraits/"><u>[New] 2024 Approved Mastering the Art of Twilight Portraits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-industrys-mightiest-drone-fleet-compilation/"><u>[Updated] Industry's Mightiest Drone Fleet Compilation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-deep-dive-into-organic-light-emitting-diodes-oled-working-principles-revealed/"><u>A Deep Dive Into Organic Light-Emitting Diodes (OLED): Working Principles Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-how-you-can-view-public-instagram-profiles-without-being-a-user/"><u>Discover How You Can View Public Instagram Profiles Without Being a User</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ending-the-nuisance-a-guide-to-blocking-unsolicited-messages-on-your-iphone/"><u>Ending the Nuisance: A Guide to Blocking Unsolicited Messages on Your iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-controller-battery-duration-on-xbox/"><u>Enhancing Controller Battery Duration on Xbox</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>How to Bypass FRP from Xiaomi Redmi Note 12 5G?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-x90s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-apple-iphone-6s-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On Apple iPhone 6s Smoothly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722903232497-inside-look-ahead-to-samsung-galaxy-z-fold-7-rumored-specs-estimated-pricing-and-launch-dates-revealed/"><u>Inside Look Ahead to Samsung Galaxy Z Fold 7 - Rumored Specs, Estimated Pricing, and Launch Dates Revealed!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-users-handbook-prevent-unwanted-sms-intrusions/"><u>IPhone User's Handbook: Prevent Unwanted SMS Intrusions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-fix-procedures-for-persistent-code-39-troubles-in-windows-environment/"><u>Mastering Fix Procedures for Persistent Code 39 Troubles in Windows Environment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-chromecast-updates-a-comprehensive-guide/"><u>Mastering the Art of Chromecast Updates: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-dota-2-freezes-during-load-fixes-applied/"><u>Resolved: Dota 2 Freezes During Load - Fixes Applied</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-sailing-ahead-fixing-persistent-subnautica-below-zero-crashes-on-windows/"><u>Smooth Sailing Ahead! Fixing Persistent Subnautica: Below Zero Crashes on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-teen-flicks-to-binge-watch-on-netflix/"><u>The Ultimate List of Teen Flicks to Binge-Watch on Netflix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-6-strategies-for-selecting-the-ideal-selfie-extender/"><u>Top 6 Strategies for Selecting the Ideal Selfie Extender</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Setting Up a Convenient Appointment at the Apple Genius Bar"
-date: 2024-09-30T22:30:07.992Z
-updated: 2024-10-07T21:13:42.752Z
+date: 2024-10-07T16:05:03.569Z
+updated: 2024-10-13T16:09:06.100Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Advice: Setting Up a Convenient Appointment at the Apple Genius Bar"
@@ -33,24 +33,32 @@ thumbnail: https://thmb.techidaily.com/51ce8e2d4e344c8b82645f25a39faba4287a1c5da
 ![The "My Devices," "Repairs & Physical Damage," and problem options in the Apple Support app](https://www.lifewire.com/thmb/UlwcbBbGGUKP7TBki_iBvOT4Dgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-01-26333c8d674d49e19071966928058213.jpg)
 5. Select**View Locations** under**Bring in for Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Select an Apple Store from the map, and then choose**Schedule** .  
 ![The "View Locations" and "Schedule" buttons in the Apple Support app](https://www.lifewire.com/thmb/cB9ItxxAZXnwcwJmMXziGbxmnUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-02-2194ff8238d744b4a17213561151e3b2.jpg)
 7. On the next screen, pick an available date and time.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Then, enter your phone number for text reminders about your appointment (you'll still get email notifications if you don't). Choose**Reserve** to finish booking.  
 ![The appointment calendar and Reserve button in the Apple Support app](https://www.lifewire.com/thmb/lDGmgwpBMuvG-sTPNN7bjiJtq60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-03-d98a742dc0b547f990d2f5e7e8a30091.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using the Apple Store App to Make Appointments
@@ -68,29 +76,22 @@ thumbnail: https://thmb.techidaily.com/51ce8e2d4e344c8b82645f25a39faba4287a1c5da
 ![A Store, the "Make a reservation" link, and the "Tell us what's happening" field in the Apple Store app](https://www.lifewire.com/thmb/ircG1uYJS77_UHCiiZH0GISmswg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-02-e508d0091eb04923ba10576b908d07ad.jpg)
 7. Depending on your device's issue, the app may ask you clarifying questions. Eventually, you'll see an option to**Schedule a repair** . Choose**Find a location** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. If you're signed in to your Apple ID on the Support site, you can choose one of your devices. You can also select**Continue without device** if you like, or enter a serial number.
 9. Find your Apple Store on the map.  
 ![Scheduling and device selection in the Apple Store app](https://www.lifewire.com/thmb/19JBK9MoG4FtpkecPBA_RsEyeJ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-03-9d185dce717b4f6eab42ca4d444f64da.jpg)
 10. Pick a day and time using the calculator and drop-down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 11. Optionally, enter your phone number if you want a representative from the Apple Store to call you. Tap**Continue** .
 12. Review your reservation date and time, and then select**Reserve now** to confirm.  
 ![Appointment scheduling in the Apple Store app](https://www.lifewire.com/thmb/0DQo_2TNcmLggPBm0e9UGISsEXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_make-apple-store-appointment-with-app-1999600-efc9e969642f4e5886401ca69a1eba64.jpg)
 13. Your appointment is set. You'll receive a confirmation at your email address (and by phone, if you entered it in Step 10).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [How to Fix An iPhone That Won't Turn Off](https://www.lifewire.com/fix-iphone-wont-turn-of-4134989)
 
@@ -130,20 +131,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-unlocking-spotifys-advertising-opportunities-a-roadmap/"><u>[New] In 2024, Unlocking Spotify’s Advertising Opportunities A Roadmap</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-paving-the-way-to-a-more-engaging-profile-adding-linktree-on-tiktok/"><u>[New] Paving the Way to a More Engaging Profile Adding Linktree on TikTok</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-10plus-free-apps-to-convert-youtube-videos-on-demand/"><u>[Updated] 2024 Approved 10+ Free Apps to Convert YouTube Videos on Demand</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-oneplus-ace-2-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from OnePlus Ace 2 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/an-easy-fix-for-a-magic-mouse-tracking-problem/"><u>An Easy Fix for a Magic Mouse Tracking Problem</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-set-up-a-chromecast-connection-for-displaying-windows-on-tv/"><u>How to Set Up a ChromeCast Connection for Displaying Windows on TV</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-12-pro-max-with-imei-code-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Max with IMEI Code?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/hues-in-harmony-applying-color-principles-for-2024/"><u>Hues in Harmony Applying Color Principles for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-your-travel-adventures-with-these-8-ideal-planner-applications/"><u>Master Your Travel Adventures with These 8 Ideal Planner Applications</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reattaching-a-keys-from-your-computer-keyboard-a-step-by-step-guide/"><u>Reattaching a Keys From Your Computer Keyboard: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/smart-sms-habits-to-keep-your-cell-phone-usage-within-wi-fi-areas/"><u>Smart SMS Habits to Keep Your Cell Phone Usage Within Wi-Fi Areas</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sync-your-samsung-wireless-remote-with-any-tv-a-comprehensive-guide-to-getting-started/"><u>Sync Your Samsung Wireless Remote with Any TV: A Comprehensive Guide to Getting Started</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-tale-of-two-tech-titans-snapchats-myai-and-openais-gpt/"><u>The Tale of Two Tech Titans: Snapchat's MyAI & OpenAI’s GPT</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-lava-blaze-pro-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from Lava Blaze Pro 5G</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-quiet-moments-resolve-iphones-no-ringtone-issue-easily/"><u>Troubleshooting Quiet Moments: Resolve iPhone's No-Ringtone Issue Easily!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-duel-masters-switch-edition-the-best-of-ten-for-2024/"><u>[Updated] Duel Masters Switch Edition - The Best of Ten for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-navigate-facebooks-video-playback-like-a-pro/"><u>[Updated] In 2024, Navigate Facebook's Video Playback Like a Pro</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unveiling-the-next-gen-cinema-through-vr/"><u>[Updated] Unveiling the Next Gen Cinema Through VR</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-breath-control-and-articulation-for-clear-ppt-speaking/"><u>2024 Approved Breath Control and Articulation for Clear PPT Speaking</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/aiff-to-mp4-by-movavi/"><u>無償オンライン変換ツール：AIFF to MP4 by Movavi - 簡単操作</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversione-gratuita-file-mkv-in-mp4-online-con-moviemaker/"><u>Conversione Gratuita File MKV in MP4 Online Con MovieMaker</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/converti-file-mod-a-mp4-senza-costi-servizi-di-masterizzatori-professionali/"><u>Converti File MOD a MP4 Senza Costi - Servizi Di Masterizzatori Professionali</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/en-ligne-gratuit-convertissez-votre-fichier-avi-en-mp3-sans-frais-avec-movavi/"><u>En Ligne Gratuit : Convertissez Votre Fichier AVI en MP3 Sans Frais Avec Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-converter-change-mov-files-to-avi-format/"><u>Free Online Converter: Change MOV Files to AVI Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kodi-playback-smoother-now-how-to-overcome-buffering-troubles/"><u>Kodi Playback Smoother Now - How to Overcome Buffering Troubles</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-5-best-online-stop-motion-makers/"><u>New 2024 Approved 5 Best Online Stop Motion Makers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/rtx-2060-super-graphics-card-drivers-free-download-for-windows-11-users/"><u>RTX 2060 Super Graphics Card Drivers: Free Download for Windows 11 Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-wav-mp3-mp4/"><u>원탁해 - Movavi에서 WAV 파일이나 MP3를 MP4로 쉽게 전환</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mjpegavimovavi/"><u>シェアせよ! MJPEG形式からAVIへ、Movaviが解決します。無料変換サービス</u></a></li>
 </ul></div>
 

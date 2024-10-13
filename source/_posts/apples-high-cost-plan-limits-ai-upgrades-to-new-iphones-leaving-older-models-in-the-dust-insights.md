@@ -1,7 +1,7 @@
 ---
 title: Apple's High-Cost Plan Limits AI Upgrades to New iPhones, Leaving Older Models in the Dust - Insights
-date: 2024-09-30T22:51:23.360Z
-updated: 2024-10-07T22:05:37.369Z
+date: 2024-10-07T16:15:56.788Z
+updated: 2024-10-13T16:01:04.682Z
 tags:
   - apple
 categories:
@@ -45,16 +45,10 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -66,10 +60,10 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -83,10 +77,10 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -131,18 +125,14 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-captureone-expert-tutorial-series/"><u>[Updated] CaptureOne Expert Tutorial Series</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-evaluating-top-6-choices-4k-youtube-to-mp3-software/"><u>2024 Approved Evaluating Top 6 Choices 4K Youtube-to-MP3 Software</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-start-saving-youtube-videos-as-screen-captures-today-completely-free/"><u>2024 Approved Start Saving YouTube Videos as Screen Captures Today - Completely Free</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-for-reading-vitalsource-library-ebooks-on-the-kindle-ereader-and-fire-tablet/"><u>Comprehensive Tutorial for Reading VitalSource Library EBooks on the Kindle eReader & Fire Tablet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-hp-laserjet-pro-m404n-printer-drivers-faster-reliable-support/"><u>Download the Latest HP LaserJet Pro M404n Printer Drivers - Faster, Reliable Support</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/invisible-audiences-viewing-instagram-stories-privately-from-pcandroidios-screens-for-2024/"><u>Invisible Audiences Viewing Instagram Stories Privately From PC/Android/iOS Screens for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-free-mp3-segmentation-and-combination-apps-top-picks/"><u>Ultimate Guide to Free MP3 Segmentation & Combination Apps - Top Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-repairing-and-editing-damaged-epub-books/"><u>Ultimate Guide: Repairing and Editing Damaged EPUB Books</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-step-by-step-ebook-mastery-a-comprehensive-calibre-tutorial/"><u>Ultimate Step-by-Step Ebook Mastery: A Comprehensive Calibre Tutorial</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-your-ebooks-step-by-step-tutorial-on-removing-amazons-drm-for-universal-reading-access/"><u>Unlock Your eBooks: Step-by-Step Tutorial on Removing Amazon's DRM for Universal Reading Access</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-pdfs-effective-techniques-for-removing-drm-restrictions/"><u>Unlocking PDFs: Effective Techniques for Removing DRM Restrictions</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-guide-to-the-top-5-windows-snipper-tools/"><u>[New] 2024 Approved Essential Guide to The Top 5 Windows Snipper Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-apple-m1-breakdown-a-glimpse-into-the-future/"><u>[Updated] The Apple M1 Breakdown A Glimpse Into the Future</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-huawei-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Huawei Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-mobile-privacy-a-step-by-step-guide-to-hiding-your-phone-number-on-android/"><u>Securing Mobile Privacy: A Step-by-Step Guide to Hiding Your Phone Number on Android</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-puzzle-what-to-do-when-you-encounter-a-4nnot-authorized-error-401/"><u>Solving the Puzzle: What To Do When You Encounter a 4Nnot Authorized Error (401)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-12-popular-free-internet-calling-apps-for-2n4/"><u>The Ultimate Selection: 12 Popular Free Internet Calling Apps for 2N4</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-solution-for-overcoming-steam-write-disc-issues/"><u>The Ultimate Solution for Overcoming Steam Write Disc Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/waking-up-to-a-well-rested-win11-machine/"><u>Waking Up to a Well-Rested Win11 Machine</u></a></li>
 </ul></div>
 

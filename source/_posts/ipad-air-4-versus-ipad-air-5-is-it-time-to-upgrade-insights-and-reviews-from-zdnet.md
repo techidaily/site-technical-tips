@@ -1,7 +1,7 @@
 ---
 title: "IPad Air 4 Versus iPad Air 5: Is It Time to Upgrade? Insights & Reviews From ZDNET"
-date: 2024-09-30T20:12:58.745Z
-updated: 2024-10-07T16:27:49.230Z
+date: 2024-10-09T16:05:36.173Z
+updated: 2024-10-13T16:05:31.222Z
 tags:
   - apple
 categories:
@@ -37,6 +37,19 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 **Also: [The best iPad Air cases](https://www.zdnet.com/article/best-ipad-air-case/)**
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | | iPad Air 4 (2020)        | iPad Air 5 (2022)                              |                                                |
@@ -64,6 +77,13 @@ The saying you can't teach an old dog new tricks doesn't really apply to the iPa
 
 That's a significant step up, considering both iPads start on equal footing with 8GB of RAM. While the iPad Air 5 didn't get Apple's newer [M2 chip](https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/), the M1 is still a powerhouse for graphics-intensive apps, such as video editors, 3D racing games, augmented reality, and general multitasking.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. You want a better front camera and FaceTime experience
 
 Camera performance isn't typically the key selling point for tablets, let alone iPads. But with the iPad Air 5, Apple does emphasize its new and improved front-facing camera.
@@ -80,23 +100,9 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 
 [Apple iPad Air (2022) $499.97 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DD2F93LD%2Fref%3Dasc%5Fdf%5FB0DD2F93LD1726916400000%3Fcreative%3D395261%26creativeASIN%3DB0DD2F93LD%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff7b4c72-ce64-4598-99df-8abdf10d6d11%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy the iPad Air 4 (2020) if...
 
 Image: Apple
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Price comes before anything else
 
@@ -104,13 +110,20 @@ With the release of the new iPad Air, most third-party retailers have since mark
 
 [Apple iPad Air (2020) $358.86 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08J61FCVN%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff7b4c72-ce64-4598-99df-8abdf10d6d11%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should I get the iPad Air 4 (2020) or the iPad Air 5 (2022)?
@@ -122,13 +135,6 @@ You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M
 The 1st-gen Apple Pencil is not compatible with either of the two iPad Air models mentioned in this article. Instead, you'll have to buy Apple's 2nd-gen stylus, which uses USB-C for charging and pairing, for the newer tablets.
 
 Our [guide to finding the right Apple Pencil and how to pair it](https://www.zdnet.com/article/how-to-pair-and-charge-your-apple-pencil/) breaks down the full list of compatible devices.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What's the best alternative to the iPad Air?
 
@@ -170,17 +176,16 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-prime-steadicams-to-elevate-uav-video-production-quality/"><u>[New] Prime Steadicams to Elevate UAV Video Production Quality</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/adrenaline-rushes-and-epic-missions-top-10-gaming-winners-for-2024/"><u>Adrenaline Rushes & Epic Missions Top 10 Gaming Winners for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-tips-to-fix-missing-dsounddll-error-on-your-system/"><u>Comprehensive Tips to Fix Missing dsound.dll Error on Your System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connecting-portable-sound-systems-to-desktop-computers-a-users-handbook/"><u>Connecting Portable Sound Systems to Desktop Computers - A User’s Handbook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decode-the-buzz-around-googles-imminent-event-key-announcements-ahead/"><u>Decode the Buzz Around Google’s Imminent Event – Key Announcements Ahead</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-direct-mac-pics-to-a-new-saving-area/"><u>In 2024, Direct Mac Pics to a New Saving Area</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ipad-or-generic-tablet-understanding-key-contrasts/"><u>IPad or Generic Tablet? Understanding Key Contrasts</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-t2-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo T2 5G FRP Without Computer</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Honor Magic 6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-list-of-ios-tools-for-erasing-intrusive-images/"><u>The Ultimate List of iOS Tools for Erasing Intrusive Images</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-tecno-spark-10-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Tecno Spark 10 Pro Device</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-11-7-wacom-driver-rollback-process/"><u>Windows 11-7 Wacom Driver Rollback Process</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/udio-to-video-bridge-easy-3-step-guide-for-mp3-to-youtube-uploads-for-2024/"><u>[New] Audio-to-Video Bridge Easy 3-Step Guide for MP3 to YouTube Uploads for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-precision-review-of-the-dji-inspire-2-drone/"><u>[Updated] Precision Review of the DJI Inspire 2 Drone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-premium-7-video-gear-ideas-for-captivating-vloggers/"><u>2024 Approved Premium 7 Video Gear Ideas for Captivating Vloggers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-easy-to-use-software-solutions-for-professional-4k-video-editing/"><u>Discover the Best Easy-to-Use Software Solutions for Professional 4K Video Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-methods-to-convert-wmv-files-into-mp4-format-on-your-mac/"><u>Free Methods to Convert WMV Files Into MP4 Format on Your Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratis-omzettingen-ogm-in-mpeg-online-dit-doet-movavi/"><u>Gratis Omzettingen OGM in MPEG Online - Dit Doet Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/instagram-stories-not-loading-heres-how-you-can-fix-them-easily/"><u>Instagram Stories Not Loading? Here’s How You Can Fix Them Easily!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-m4a-mp3/"><u>Movavi의 M4A 파일을 MP3로 정품으로 가동하는 원격적인 무료 서비스 – 시대를 앞이어진 기술</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-cutest-and-most-informative-igtvs-now/"><u>The Cutest & Most Informative IGTVs Now</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-editing-in-apple-m1-macbook-air/"><u>Video Editing in Apple M1 MacBook Air</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/voor-geen-enkele-cent-omwandseltarief-van-aiff-naar-wav-online-met-movavi-leesgraag-gemaakt/"><u>Voor Geen Enkele Cent Omwandseltarief Van AIFF Naar WAV Online Met Movavi - Leesgraag Gemaakt!</u></a></li>
 </ul></div>
 

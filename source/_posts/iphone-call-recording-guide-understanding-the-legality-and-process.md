@@ -1,7 +1,7 @@
 ---
 title: "IPhone Call Recording Guide: Understanding the Legality and Process"
-date: 2024-09-30T18:01:53.954Z
-updated: 2024-10-07T18:33:40.842Z
+date: 2024-10-07T16:10:25.476Z
+updated: 2024-10-13T16:07:17.325Z
 tags:
   - apple
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 * Another recording device (this could be another iPhone, an [iPad](https://www.zdnet.com/article/best-ipad/), or even an Android device) using Voice Memos or another recording app to record the call
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Test your Voice Memos app
@@ -72,13 +72,6 @@ Voice recordings autosave under different names based on whether Location Servic
 
 Screenshot by Radhika Rajkumar/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Play back the audio file and make adjustments
 
 Now, play the file back and see if the audio is discernible. Make the adjustments you need _before_ you record a phone call. 
@@ -86,6 +79,19 @@ Now, play the file back and see if the audio is discernible. Make the adjustment
 **Also:** [**How to clear the cache on your iPhone (and why you should)**](https://www.zdnet.com/article/how-to-clear-cache-on-iphone-and-why-you-should/)
 
 For example, if the sound quality is too low, you may need to speak louder, increase the microphone sensitivity (go to Settings > Sounds & Haptics), or put the speaker closer to your mouth. 
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Check whether you need to inform the other party that you're recording
 
@@ -96,10 +102,10 @@ Always [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-s
 One-party states require only one person on the call -- which would be you -- to consent. An all-party state requires both the person recording and the person(s) being recorded to consent. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Start recording
@@ -135,10 +141,10 @@ Open up sharing options. You can also trim or rename the recording to something 
 Screenshot by Radhika Rajkumar/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other ways to record
@@ -194,10 +200,10 @@ Unfortunately, no -- at least not yet. Apple itself doesn't have an app, but the
 Screen recording while on an audio or FaceTime call will only record your screen -- it won't capture any audio from you or your phone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does iPhone's Voice Memos have a time limit?
@@ -234,24 +240,24 @@ The Voice Memos app can record for an unlimited amount of time as long as you ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-luts-implementation-for-cinematographic-coloring/"><u>[New] 2024 Approved Luts Implementation for Cinematographic Coloring</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-gaming-adventure-list-ghost-of-tsushimas-allies-for-2024/"><u>[New] Ultimate Gaming Adventure List – Ghost of Tsushima's Allies for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-creating-compelling-solo-videos-on-a-budget/"><u>[Updated] In 2024, Creating Compelling Solo Videos on a Budget</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-enhancing-your-gopro-footage-with-iosandroid-apps/"><u>2024 Approved Enhancing Your GoPro Footage with iOS/Android Apps</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/5-mp4avi/"><u>提高效率：市場前5名最流行的影片轉換軟件選擇 - MP4到AVI快速切換指南</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-to-perfectly-execute-background-blur-in-windows-11-photos-app/"><u>Expert Tips to Perfectly Execute Background Blur in Windows 11 Photos App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-to-resolve-lameencdll-trouble-when-using-audacity-mp3-encoder/"><u>Expert Tips to Resolve lame_enc.dll Trouble When Using Audacity MP3 Encoder</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-kickstart-your-quality-home-entertainment-on-a-budget-with-essential-kit-recommendations/"><u>How to Kickstart Your Quality Home Entertainment on a Budget with Essential Kit Recommendations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-overcome-the-mss3ndll-not-found-hurdle-on-pc/"><u>How To Overcome The 'mss3n.dll Not Found' Hurdle on PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-x9afrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor X9aFRP Lock</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-missing-or-corrupt-msodll-expert-strategies-and-solutions/"><u>Overcoming 'Missing or Corrupt mso.dll': Expert Strategies and Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722901280554-pixel-phone-10-revealed-upcoming-features-cost-estimates-and-launch-window-uncovered/"><u>Pixel Phone 10 Revealed? Upcoming Features, Cost Estimates & Launch Window Uncovered!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-identifying-visitors-of-your-google-docs/"><u>Step-by-Step Guide: Identifying Visitors of Your Google Docs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/streamline-your-device-control-ingenious-ways-to-teach-your-universal-remote/"><u>Streamline Your Device Control: Ingenious Ways to Teach Your Universal Remote</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/sync-up-songs-and-screenshots-on-snapchat-for-2024/"><u>Sync-Up Songs and Screenshots on Snapchat for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-tackling-excessive-cpu-use-in-discord/"><u>Ultimate Guide: Tackling Excessive CPU Use in Discord</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/unraveling-the-mystery-of-lightning-mode-an-in-depth-exploration-of-its-working-mechanism/"><u>Unraveling the Mystery of Lightning Mode: An In-Depth Exploration of Its Working Mechanism</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-apple-watch-series-eb-expected-release-timeline-features-cost-breakdown-and-fresh-announcements/"><u>Unveiling the Apple Watch Series Eb: Expected Release Timeline, Features, Cost Breakdown & Fresh Announcements</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-latest-in-computing-a-guide-to-toms-hardware/"><u>Unveiling the Latest in Computing - A Guide to Tom's Hardware</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-edgeresolve-pixelperfect-booster-windowsmacos/"><u>[New] 2024 Approved EdgeResolve PixelPerfect Booster (Windows/MacOS)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-guide-to-making-money-with-vimeo-monetization-for-2024/"><u>[New] The Ultimate Guide to Making Money with Vimeo Monetization for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-a-list-to-remember-reddits-highly-endorsed-top-threads/"><u>[Updated] 2024 Approved A List to Remember Reddit’s Highly Endorsed Top Threads</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-beginners-blueprint-for-youtube-gear/"><u>2024 Approved The Beginner's Blueprint for YouTube Gear</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-ultimate-top-5-low-weight-action-recorders-list/"><u>2024 Approved Ultimate Top 5 Low-Weight Action Recorders List</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-and-analysis-top-rated-software-for-restoring-lost-files-spotlight-on-recuva/"><u>Complete Guide & Analysis: Top Rated Software For Restoring Lost Files - Spotlight on Recuva</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-solution-for-the-mfplatdll-not-found-error/"><u>Comprehensive Solution for the 'mfplat.dll Not Found' Error</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-downloading-and-setup-for-linksys-wusb6300-network-adapter-drivers/"><u>Easy Downloading and Setup for Linksys WUSB6300 Network Adapter Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/efficient-solutions-for-when-you-cant-watch-paramount-plus-on-a-roku-or-fire-stick-device/"><u>Efficient Solutions for When You Can't Watch Paramount Plus on a Roku or Fire Stick Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-how-to-retrieve-or-withdraw-an-email-after-its-been-sent-using-outlook/"><u>Expert Advice: How to Retrieve or Withdraw an Email After It's Been Sent Using Outlook</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-7-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 7 Plus Space | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004562049-hell-let-loose-pc-compatibility-optimized-ensuring-smooth-gaming-experience/"><u>Hell Let Loose PC Compatibility Optimized: Ensuring Smooth Gaming Experience!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-easily-download-and-update-sata-controller-drivers-on-windows-systems/"><u>How to Easily DownLoad and Update SATA Controller Drivers on Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fixes-a-user-friendly-guide-to-rebooting-your-macbook-pro/"><u>Quick Fixes: A User-Friendly Guide to Rebooting Your MacBook Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolve-android-parsing-errors-with-these-8-simple-techniques/"><u>Resolve Android Parsing Errors with These 8 Simple Techniques</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-acpisys-issues-a-comprehensive-tutorial-for-windows-11-users/"><u>Solving acpi.sys Issues: A Comprehensive Tutorial for Windows 11 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-15-free-self-directed-artificial-intelligence-learning-programs-comprehensive-guide/"><u>Top 15 Free, Self-Directed Artificial Intelligence Learning Programs – Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-d3dx9amooreddll-files-effectively/"><u>Troubleshooting Missing d3dx9_amoored.dll Files Effectively</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-layers-the-number-of-strata-within-royal-match/"><u>Unveiling Layers: The Number of Strata Within 'Royal Match'</u></a></li>
 </ul></div>
 

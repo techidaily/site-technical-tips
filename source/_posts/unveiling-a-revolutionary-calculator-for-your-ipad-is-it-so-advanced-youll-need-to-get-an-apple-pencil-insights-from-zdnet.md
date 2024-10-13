@@ -1,7 +1,7 @@
 ---
 title: Unveiling a Revolutionary Calculator for Your iPad – Is It So Advanced You'll Need to Get an Apple Pencil? Insights From ZDNet
-date: 2024-10-06T22:42:11.852Z
-updated: 2024-10-07T21:56:24.334Z
+date: 2024-10-11T16:04:32.161Z
+updated: 2024-10-13T16:11:22.705Z
 tags:
   - apple
 categories:
@@ -69,10 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -92,13 +92,6 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -123,6 +116,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -153,10 +153,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -168,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,20 +218,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-elevate-engagement-amplify-audience-youtube-marketing/"><u>[New] 2024 Approved Elevate Engagement, Amplify Audience (YouTube Marketing)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-complete-guide-to-macbook-webcam-recording/"><u>[New] In 2024, The Complete Guide to MacBook Webcam Recording</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-quickcopy-custodians-judgment/"><u>[Updated] QuickCopy Custodians' Judgment</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2-dont-panic-solutions-to-resetting-your-forgotten-mac-computer-password/"><u>2. Don’t Panic! Solutions to Resetting Your Forgotten Mac Computer Password</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-12-pro-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 12 Pro & iPad Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boosting-your-linux-workflow-using-kde-activity-features/"><u>Boosting Your Linux Workflow Using KDE Activity Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/debunking-the-seven-greatest-myths-in-linux-operating-systems/"><u>Debunking the Seven Greatest Myths in Linux Operating Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-hidden-space-consumed-by-old-scans-on-your-mac-learn-how-to-reclaim-it/"><u>Discover the Hidden Space Consumed by Old Scans on Your Mac – Learn How to Reclaim It</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-correcting-watchdog-performance-issues-in-windows-11-systems/"><u>Effective Solutions for Correcting 'Watchdog' Performance Issues in Windows 11 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-controlling-your-windows-10-printer-a-comprehensive-guide/"><u>Effective Strategies for Controlling Your Windows 10 Printer: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-multitasking-on-macos-the-ultimate-split-screen-tutorial/"><u>Effortless Multitasking on macOS: The Ultimate Split-Screen Tutorial</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c51-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme C51 Phone without PIN</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-video-editing-a-step-by-step-guide-on-integrating-seamless-transitions/"><u>Mastering Video Editing: A Step-by-Step Guide on Integrating Seamless Transitions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-chatgpts-personalized-directive-mode-features-and-usage-explained/"><u>Navigating ChatGPT's Personalized Directive Mode: Features and Usage Explained</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-remove-tiktok-watermarks-in-seconds-best-online-methods/"><u>Updated In 2024, Remove TikTok Watermarks in Seconds Best Online Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-cameras-for-automotive-tracking-unveiled/"><u>[New] Leading Cameras for Automotive Tracking Unveiled</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-navigating-instagrams-video-limit-regulations/"><u>[New] Navigating Instagram's Video Limit Regulations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-nightly-narratives-video-guide-and-critiques/"><u>2024 Approved Nightly Narratives Video Guide & Critiques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-optimizing-video-sharing-whatsapp-and-facebook-integration/"><u>2024 Approved Optimizing Video Sharing WhatsApp & Facebook Integration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/browser-cleanup-essentials-how-to-empty-cache-in-leading-browsers/"><u>Browser Cleanup Essentials: How to Empty Cache in Leading Browsers</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-the-advrcntr2dll-file-not-found-issue-in-nero-programs/"><u>Easy Fixes for the Advrcntr2.dll File Not Found Issue in Nero Programs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-no-cost-html-editors-for-pcs-uncovering-the-top-8-picks/"><u>Essential No-Cost HTML Editors for PCs: Uncovering the Top 8 Picks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Samsung Galaxy M34 5G.</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-fb-searches-uncover-personal-connections-through-our-top-6-techniques/"><u>Mastering FB Searches: Uncover Personal Connections Through Our Top 6 Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mystery-meets-technology-join-the-world-of-4-ai-driven-escapades/"><u>Mystery Meets Technology: Join the World of 4 AI-Driven Escapades</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rapid-rise-to-fame-master-these-10-tips-for-an-instagram-phenomenon/"><u>Rapid Rise to Fame: Master These 10 Tips for an Instagram Phenomenon</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-click-automation-find-out-which-top-5-auto-clickers-are-perfect-for-your-android-device-no-rooting-required/"><u>Seamless Click Automation: Find Out Which Top 5 Auto-Clickers Are Perfect for Your Android Device (No Rooting Required)</u></a></li>
+<li><a href="https://facebook.techidaily.com/simplifying-group-discussions-with-channels-integration/"><u>Simplifying Group Discussions with Channels Integration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-xlivedll-file-absence-a-comprehensive-guide/"><u>Solving the 'Xlive.dll' File Absence: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-complimentary-cad-software-options-you-should-know-about/"><u>Top 4 Complimentary CAD Software Options You Should Know About</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple's Major Event Highlights: The Arrival of Powerful iPad Lineup Featuring M4 iPad Pro, Expanded iPad Air, and the Next-Gen Apple Pencil | Tech Analysis"
-date: 2024-10-05T18:45:30.531Z
-updated: 2024-10-07T22:51:21.886Z
+date: 2024-10-07T16:11:03.615Z
+updated: 2024-10-13T16:09:46.697Z
 tags:
   - apple
 categories:
@@ -33,10 +33,10 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -59,6 +59,13 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -76,10 +83,10 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -105,10 +112,10 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
@@ -126,13 +133,6 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -168,20 +168,17 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-boost-your-like-ratio-tips-for-squaring-up-videos/"><u>[Updated] Boost Your Like Ratio Tips for Squaring Up Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-humor-the-art-of-mememaking/"><u>2024 Approved Crafting Humor The Art of Mememaking</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-honor-magic-v2-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Honor Magic V2</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/converting-video-content-from-twitter-to-an-audiophile-written-mp3-format/"><u>Converting Video Content From Twitter to an Audiophile' Written MP3 Format</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-enjoy-fandango-movies-from-home-with-apple-tv/"><u>Guide: Enjoy Fandango Movies From Home with Apple TV</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improving-system-usability-icon-addition-to-desktop-space/"><u>Improving System Usability: Icon Addition to Desktop Space</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mobile-carriers-explained-the-key-players-behind-phone-services/"><u>Mobile Carriers Explained: The Key Players Behind Phone Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-boosting-windows-11-for-elite-gamers-peak-performance/"><u>Step-by-Step Guide: Boosting Windows 11 for Elite Gamers' Peak Performance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-definitive-insiders-handbook-to-cloud-gaming-through-xbox-game-pass-ultimate/"><u>The Definitive Insider's Handbook to Cloud Gaming Through Xbox Game Pass Ultimate</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-itel-a60s-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-overhead-audio-systems/"><u>Top-Rated Overhead Audio Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshoot-windows-10-how-to-repair-non-functional-search-feature/"><u>Troubleshoot Windows 10: How To Repair Non-Functional Search Feature</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tutorial-seamlessly-integrate-songs-into-your-instagram-videos-like-a-pro/"><u>Tutorial: Seamlessly Integrate Songs Into Your Instagram Videos Like a Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-details-of-apples-upcoming-showcase-timelines-gossip-and-potential-surprises/"><u>Unveiling the Details of Apple's Upcoming Showcase: Timelines, Gossip, & Potential Surprises</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-cross-platform-sharing-tweeting-videos-across-fb-for-2024/"><u>[Updated] Cross-Platform Sharing Tweeting Videos Across FB for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-establishing-a-solid-foundation-with-zoom-setup-for-2024/"><u>[Updated] Establishing a Solid Foundation with Zoom Setup for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-surveillance-avoidance-tips-for-instagrams-livestreams/"><u>[Updated] The Ultimate Surveillance Avoidance Tips for Instagram's Livestreams</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-engagement-discover-these-top-12-techniques-for-video-success/"><u>Elevate Engagement - Discover These Top 12 Techniques for Video Success</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-evaluation-unlocking-new-features-with-onetastic-for-microsoft-onenote/"><u>Expert Evaluation: Unlocking New Features with Onetastic for Microsoft OneNote</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-vast-frontier-of-the-metaverse-predictions-and-possibilities-for-its-next-phase-digitalinsightzone/"><u>Exploring the Vast Frontier of the Metaverse: Predictions and Possibilities for Its Next Phase | DigitalInsightZONE</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-varieties-in-gesture-tech/"><u>In 2024, Exploring Varieties in Gesture Tech</u></a></li>
+<li><a href="https://article-tips.techidaily.com/pioneering-performance-a-deep-dive-into-toms-hardware-selections/"><u>Pioneering Performance: A Deep Dive Into Tom's Hardware Selections</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-connection-linking-your-quest-3-device-with-airpods-without-disturbing-others/"><u>Seamless Connection: Linking Your Quest 3 Device with AirPods Without Disturbing Others</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-your-virtual-adventures-the-importance-of-a-vpn-for-enhanced-privacy-in-xr-devices-like-vision-pro-zdnet/"><u>Securing Your Virtual Adventures: The Importance of a VPN for Enhanced Privacy in XR Devices Like Vision Pro | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-to-identify-saviors-of-your-instagram-photos/"><u>Step-by-Step Tutorial to Identify Saviors of Your Instagram Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/wsl-contribution-to-linux-user-growth/"><u>WSL Contribution to Linux User Growth</u></a></li>
 </ul></div>
 

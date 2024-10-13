@@ -1,7 +1,7 @@
 ---
 title: Exploring Virtual Worlds with Disney’s Innovative Multiplayer Treadmill for Immersive VR Experiences | ZDNet
-date: 2024-09-17T04:37:39.773Z
-updated: 2024-09-21T01:44:43.155Z
+date: 2024-10-12T16:00:55.504Z
+updated: 2024-10-13T16:00:45.774Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,30 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-prime-time-video-capture-for-windows-users-10-best/"><u>[New] 2024 Approved Prime Time Video Capture for Windows Users - 10 Best</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-discover-the-10-cutestscariest-tiktok-filters-ever/"><u>[Updated] Discover the 10 Cutest/Scariest TikTok Filters Ever</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-how-to-use-twitter-archive/"><u>[Updated] How to Use Twitter Archive?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieve-more-on-facebook-discover-our-top-5-time-saving-tips/"><u>Achieve More on Facebook: Discover Our Top 5 Time-Saving Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-the-upcoming-samsung-galaxy-s2vee-plus-specs-launch-date-and-price-forecasts/"><u>All You Need to Know About the Upcoming Samsung Galaxy S2vee Plus: Specs, Launch Date, and Price Forecasts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-the-best-free-iphone-management-tools-for-pc-windows-10-and-11/"><u>Download the Best Free iPhone Management Tools for PC (Windows 10 & 11)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-for-reconfiguring-your-dell-computer-to-its-original-state/"><u>Easy Steps for Reconfiguring Your Dell Computer to Its Original State</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-unique-features-that-set-apart-gpt-4-gpt-4-turbo-and-phi-platforms/"><u>Exploring the Unique Features That Set Apart GPT-4, GPT-4 Turbo, and Phi Platforms</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-15-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 15 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-msvcr70dll-file-not-detected-a-comprehensive-guide/"><u>Solving the Msvcr70.dll File Not Detected: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streamlined-steps-for-ios-voice-recordings-for-2024/"><u>Streamlined Steps for iOS Voice Recordings for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tints-and-tonality-applying-theoretical-insight-for-2024/"><u>Tints & Tonality Applying Theoretical Insight for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-ranking-mac-devices-a-comprehensive-guide/"><u>Top-Ranking Mac Devices : A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlimited-wireless-metro-by-t-mobile-wireless-roaming-policy/"><u>Unlimited Wireless: Metro by T-Mobile Wireless Roaming Policy</u></a></li>
+<li><a href="https://win-latest.techidaily.com/user-friendly-and-streamlined-backup-solutions-for-vmware-vsphere-basics/"><u>User-Friendly & Streamlined Backup Solutions for VMware vSphere Basics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnets-insider-picks-professional-reviewers-share-their-chosen-phones/"><u>ZDNet's Insider Picks: Professional Reviewers Share Their Chosen Phones</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

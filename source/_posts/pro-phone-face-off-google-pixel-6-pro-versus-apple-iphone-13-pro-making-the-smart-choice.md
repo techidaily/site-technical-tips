@@ -1,7 +1,7 @@
 ---
 title: "Pro Phone Face-Off: Google Pixel ‌6 Pro versus Apple iPhone 13 Pro – Making the Smart Choice"
-date: 2024-10-02T21:56:17.002Z
-updated: 2024-10-07T19:34:42.095Z
+date: 2024-10-10T16:04:45.969Z
+updated: 2024-10-13T16:05:16.154Z
 tags:
   - apple
 categories:
@@ -77,10 +77,10 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 I would prefer the iPhone shot for this particular image, but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A clear winner in night time
@@ -110,16 +110,10 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL gets good at selfies
@@ -133,10 +127,10 @@ I like the selfie shooter on the iPhone 15 Pro and have found it better than And
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
@@ -181,17 +175,16 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-correcting-obs-darkness-during-live-streams/"><u>[New] 2024 Approved Correcting OBS Darkness During Live Streams</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-foundations-of-easing-volume-control-in-audition-for-2024/"><u>[New] Foundations of Easing Volume Control in Audition for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-elevate-video-popularity-12-key-strategies-unveiled/"><u>[New] In 2024, Elevate Video Popularity 12 Key Strategies Unveiled</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-ultimate-guide-to-convert-srt-to-txt-in-minutes-2023/"><u>[Updated] Ultimate Guide to Convert SRT to TXT in Minutes 2023</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-broadcasts-with-manycam-top-ranked-live-video-and-remote-webcam-software/"><u>Enhance Your Broadcasts with ManyCam: Top-Ranked Live Video and Remote Webcam Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-managing-and-unpacking-rar-compressed-data-on-macos/"><u>Expert Advice: Managing and Unpacking RAR Compressed Data on macOS</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-f54-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy F54 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-mozilla-thunderbird-not-starting/"><u>How to Fix Mozilla Thunderbird Not Starting</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-issues-with-the-wininetdll-file-steps-to-address-missing-and-not-found-errors/"><u>Resolving Issues with the Wininet.dll File: Steps to Address 'Missing' And 'Not Found' Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-17-graphic-design-tools-for-stunning-visuals-and-creative-projects/"><u>Top 17 Graphic Design Tools for Stunning Visuals and Creative Projects</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-capturing-eats-a-chefs-handbook-to-food-photography-for-2024/"><u>[New] Capturing Eats A Chef's Handbook to Food Photography for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-high-definition-flight-testing-xiaomi-mi-drone-probe/"><u>[New] High-Definition Flight Testing - Xiaomi Mi Drone Probe</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-essential-blueprint-a-simple-guide-to-facebook-ad-success/"><u>[Updated] 2024 Approved Essential Blueprint A Simple Guide to Facebook Ad Success</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-complete-walkthrough-to-grab-youtube-playlists/"><u>[Updated] Complete Walkthrough to Grab YouTube Playlists</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-your-hidden-gems-a-guide-to-locating-saved-instagram-reels/"><u>Discovering Your Hidden Gems: A Guide to Locating Saved Instagram Reels</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-tackling-code-19-troubleshooting-in-microsoft-windows/"><u>Easy Fixes for Tackling Code 19 Troubleshooting in Microsoft Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-tecno-pova-6-pro-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Tecno Pova 6 Pro 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-techniques-enhancing-pet-eyes-in-pictures-a-step-by-step-tutorial/"><u>Master Techniques: Enhancing Pet Eyes in Pictures – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-recovery-from-comctl32dll-not-found-a-helpful-guide-for-users/"><u>Step-by-Step Recovery From 'Comctl32.dll Not Found': A Helpful Guide for Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unfolding-the-samsung-galaxy-z-fold-6-latest-info-on-cost-launch-timeline-and-specifications/"><u>Unfolding the Samsung Galaxy Z Fold 6 - Latest Info on Cost, Launch Timeline & Specifications</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-cursor-sight-resolution/"><u>Win11 Cursor Sight - Resolution</u></a></li>
 </ul></div>
 

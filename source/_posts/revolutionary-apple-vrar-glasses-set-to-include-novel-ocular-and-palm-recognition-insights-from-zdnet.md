@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Apple VR/AR Glasses Set to Include Novel Ocular & Palm Recognition: Insights From ZDNet"
-date: 2024-09-15T16:45:48.774Z
-updated: 2024-09-20T23:21:20.540Z
+date: 2024-10-11T16:02:14.594Z
+updated: 2024-10-13T16:02:44.839Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,33 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-free-10-best-intro-maker-apps-for-iphone-and-android/"><u>[Updated] FREE 10 Best Intro Maker Apps for iPhone and Android</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-pure-sound-capture-on-your-mac/"><u>[Updated] In 2024, Pure Sound Capture on Your Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-consumer-connection-reimagining-receiving/"><u>2024 Approved Crafting Consumer Connection Reimagining Receiving</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-manipulate-your-instagram-storys-playback-velocity/"><u>2024 Approved How to Manipulate Your Instagram Story's Playback Velocity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/accessing-and-viewing-roku-original-programming-without-an-actual-roku-unit-tips-and-tricks/"><u>Accessing and Viewing Roku Original Programming without an Actual Roku Unit: Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-free-pdf-software-of-2024-a-selection-of-top-13-tools-reviewed/"><u>Best Free PDF Software of 2024: A Selection of Top 13 Tools Reviewed</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-6-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-the-taylor-swift-cinematic-journey-watch-her-movies-in-order/"><u>Complete the Taylor Swift Cinematic Journey: Watch Her Movies in Order</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-ipados-update-manual-a-complete-version-history/"><u>Comprehensive iPadOS Update Manual: A Complete Version History</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-15-pro-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 15 Pro Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-new-era-facebook-video-autoplay-explained/"><u>In 2024, The New Era Facebook Video Autoplay Explained</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/leveraging-nvidia-tools-for-screen-capture/"><u>Leveraging NVIDIA Tools for Screen Capture</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-gadgets-and-pc-parts-at-toms-hardware-store/"><u>Mastering Gadgets and PC Parts at Tom's Hardware Store</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-leading-resources-for-collecting-lofi-playlists-and-designs/"><u>New In 2024, Leading Resources for Collecting Lofi Playlists and Designs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-network-not-registered-issues-a-step-by-step-guide-for-your-samsung-galaxy-device/"><u>Resolving 'Network Not Registered' Issues: A Step-by-Step Guide for Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamline-social-sharing-upload-multiple-pictures-to-facebook-easily/"><u>Streamline Social Sharing: Upload Multiple Pictures to Facebook Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-guide-to-lg-channel-functionality-and-importance/"><u>The Complete Guide to LG Channel Functionality and Importance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-imperative-quintet-of-software-every-successful-twitch-host-must-embrace/"><u>The Imperative Quintet of Software Every Successful Twitch Host Must Embrace</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

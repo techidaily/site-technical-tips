@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Latest Innovations of VisionOS 2 Showcased at Apple's Worldwide Developers Conference: Insights and Curiosities - ZDNet"
-date: 2024-10-04T17:21:45.357Z
-updated: 2024-10-07T21:16:33.014Z
+date: 2024-10-08T16:09:21.695Z
+updated: 2024-10-13T16:14:32.447Z
 tags:
   - apple
 categories:
@@ -45,10 +45,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -56,10 +62,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -71,10 +77,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -83,18 +89,18 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -130,21 +136,19 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-best-15-gear-to-secure-your-gopro-on-movement/"><u>[New] In 2024, Best 15 Gear to Secure Your GoPro on Movement</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-top-10-best-gopro-cases-review/"><u>[New] Top 10 Best GoPro Cases Review</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unlocked-treasures-art-without-intellectual-property-restrictions/"><u>[Updated] Unlocked Treasures Art Without Intellectual Property Restrictions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-professionals-guide-to-4k-monitors-spotlight-on-bl2711u-by-benq/"><u>2024 Approved The Professional's Guide to 4K Monitors - Spotlight on BL2711U by BenQ</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ultimate-adventures-galore-the-best-games-unveiled/"><u>2024 Approved Ultimate Adventures Galore – The Best Games Unveiled</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-seamless-use-of-your-logitech-g510-mouse-on-windows-download-drivers-for-win7-win8-and-win10/"><u>Ensure Seamless Use of Your Logitech G510 Mouse on Windows - Download Drivers for Win7, Win8 & Win10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-eliminating-ghostly-afterimages-from-any-screen-type/"><u>Expert Advice: Eliminating Ghostly Afterimages From Any Screen Type</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-strategies-for-overcoming-the-black-screen-challenge-in-windows-11-systems/"><u>Expert Strategies for Overcoming the Black Screen Challenge in Windows 11 Systems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-realme-12plus-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Realme 12+ 5G Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-speedy-sonic-tuning-devices-index-pc-tablet/"><u>In 2024, Speedy Sonic Tuning Devices Index (PC, Tablet)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-puzzle-a-step-by-step-guide-to-overcoming-netflix-error-nw-1-19/"><u>Solving the Puzzle: A Step-by-Step Guide to Overcoming Netflix Error NW-1-19</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-accessing-command-prompt-on-windows-operating-systems/"><u>Step-by-Step Guide: Accessing Command Prompt on Windows Operating Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-securing-your-icloud-email-with-a-dual-authentication-process/"><u>Step-by-Step Tutorial: Securing Your iCloud Email with a Dual Authentication Process</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-evolution-of-viewership-how-cable-differs-from-modern-streaming/"><u>The Evolution of Viewership: How Cable Differs From Modern Streaming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-apples-audio-content-guidelines-for-2024/"><u>Understanding Apple’s Audio Content Guidelines for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/update-your-pc-with-newest-rtx-2080-super-graphics-card-drivers-on-windows-11-free-download/"><u>Update Your PC with Newest RTX #2080 Super Graphics Card Drivers on Windows 11 - Free Download</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-highly-effective-ways-to-stream-and-record-sports-games/"><u>[Updated] In 2024, Highly Effective Ways to Stream and Record Sports Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boost-your-home-project-film-quality-fast-and-simple/"><u>Boost Your Home Project Film Quality Fast and Simple</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-how-to-install-and-update-directx-12-on-your-windows-10-pc/"><u>Complete Guide: How to Install and Update DirectX 12 on Your Windows 10 PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enabling-and-optimizing-pip-feature-on-android-devices-tips-and-tricks/"><u>Enabling and Optimizing PiP Feature on Android Devices: Tips & Tricks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/enabling-pip-for-youtube-viewing-on-your-iphone-for-2024/"><u>Enabling PIP for YouTube Viewing on Your iPhone for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-vivo-s17t-by-fonelab-android-recover-video/"><u>How to recover old videos from your Vivo S17t</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-creating-impactful-youtube-conclusion/"><u>In 2024, Creating Impactful YouTube Conclusion</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-the-challenge-of-a-lost-rpcrt4dll-file-on-your-computer/"><u>Overcoming the Challenge of a Lost rpcrt4.dll File on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/retrieve-deleted-texts-across-different-phones-easy-methods-revealed/"><u>Retrieve Deleted Texts Across Different Phones - Easy Methods Revealed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/text-tactics-top-10-best-practices/"><u>Text Tactics Top 10 Best Practices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-comprehensive-walkthrough-for-imessage-on-your-ipad/"><u>The Comprehensive Walkthrough for iMessage on Your iPad</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-contenders-shaping-the-future-of-transportation-the-best-driverless-car-makers/"><u>Top Contenders Shaping the Future of Transportation: The Best Driverless Car Makers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722850776336-top-ranked-visual-voicemail-solutions/"><u>Top-Ranked Visual Voicemail Solutions</u></a></li>
 </ul></div>
 

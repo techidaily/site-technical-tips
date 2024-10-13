@@ -1,7 +1,7 @@
 ---
 title: Busting the Myths About Portable Power - Why the $20 Anker Charger Is a Game-Changer, as Spotlighted by ZDNET
-date: 2024-10-04T18:10:18.327Z
-updated: 2024-10-07T17:52:08.403Z
+date: 2024-10-06T16:03:17.662Z
+updated: 2024-10-13T16:11:28.939Z
 tags:
   - apple
 categories:
@@ -64,10 +64,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Impressive charging power for its size
@@ -79,10 +79,10 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
@@ -98,10 +98,10 @@ Sabrina Ortiz/ZDNET
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -109,10 +109,10 @@ The charger comes in five colors: blue, black, white, green, and pink, matching 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb10a6ebd-0c29-4c64-8a3a-63e3a7f56555%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -149,24 +149,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-going-back-in-time-your-android-movie-method/"><u>[New] In 2024, Going Back in Time Your Android Movie Method</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-digital-audio-streaming-and-recording/"><u>[New] In 2024, The Ultimate Guide to Digital Audio Streaming & Recording</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-experts-pick-essential-plugins-to-elevate-your-ae-projects/"><u>[Updated] 2024 Approved Expert's Pick Essential Plugins to Elevate Your AE Projects</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-elaborate-breakdown-straightforward-dynamic-range-for-2024/"><u>[Updated] Elaborate Breakdown Straightforward Dynamic Range for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-fixes-for-when-you-cant-find-mfc42dll-on-your-computer/"><u>Comprehensive Fixes for When You Can't Find Mfc42.dll on Your Computer</u></a></li>
-<li><a href="https://win-forum.techidaily.com/engage-audiences-on-major-platforms-mastering-facebook-twitter-instagram-and-youtube-strategies/"><u>Engage Audiences on Major Platforms: Mastering Facebook, Twitter, Instagram, and YouTube Strategies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-what-carriers-mean-for-your-smartphone-connection/"><u>Exploring What Carriers Mean for Your Smartphone Connection</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-address-and-repair-missing-file-msodll-in-windows-computers/"><u>How to Address and Repair 'Missing File: MSO.DLL' In Windows Computers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/how-to-take-screenshots-on-a-chromebook/"><u>How to Take Screenshots on A Chromebook</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-motorola-moto-e13-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Motorola Moto E13 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-make-a-statement-with-free-profile-pics/"><u>In 2024, Make a Statement With Free Profile Pics</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revamp-your-desktop-altering-windows-11-taskbar-color-schemes/"><u>Revamp Your Desktop: Altering Windows 11 Taskbar Color Schemes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-problem-of-time-discrepancy-in-chromecast-audio-playback/"><u>Solving the Problem of Time Discrepancy in Chromecast Audio Playback</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-removing-your-ipads-passcode-permanently/"><u>Step-by-Step Guide: Removing Your iPad's Passcode Permanently</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-setting-up-automatic-text-messaging-timers-on-ios-devices/"><u>Step-by-Step Guide: Setting Up Automatic Text Messaging Timers on iOS Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-deciphering-your-laptops-energy-consumption-with-windows-10s-battery-insights/"><u>The Ultimate Guide to Deciphering Your Laptop's Energy Consumption with Windows 10'S Battery Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-how-to-correct-the-phase0exception-stop-0x00000078-issue/"><u>Troubleshooting Guide: How to Correct the PHASE0_EXCEPTION (Stop 0X00000078) Issue</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-portable-games-may-not-always-win/"><u>Why Portable Games May Not Always Win</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-maximizing-tweet-control-15-premier-unfollow-utilities/"><u>[New] In 2024, Maximizing Tweet Control 15 Premier Unfollow Utilities</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-strategy-for-highlight-image-success-in-instagram/"><u>[New] In 2024, The Ultimate Strategy for Highlight Image Success in Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-your-channels-potential-the-cost-analysis/"><u>2024 Approved Unlocking Your Channel's Potential The Cost Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/activating-siris-text-readback-abilities-on-iphones-and-macos-systems/"><u>Activating Siri's Text Readback Abilities on iPhones and macOS Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/building-the-perfect-blend-of-vintage-aesthetic-and-modern-tech-fanless-mini-pc-with-usb4-powered-ssd-ecosystem/"><u>Building the Perfect Blend of Vintage Aesthetic and Modern Tech: Fanless Mini PC with USB4 Powered SSD Ecosystem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-adobe-crash-on-startup-solutions-for-error-0xc0000022/"><u>Fixing Adobe Crash on Startup: Solutions for Error 0xC0000022</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-apple-iphone-se-2020-by-drfone-ios/"><u>How To Create an Apple Developer Account From Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oppo-find-n3-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Oppo Find N3</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-audio-messaging-on-apples-mobile-devices/"><u>Mastering Audio Messaging on Apple's Mobile Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-mfc42dll-file-not-found-effective-strategies/"><u>Resolving the mfc42.dll File Not Found: Effective Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sound-setup-showdown-unveiling-the-key-differences-between-home-theatre-and-stereo-receivers/"><u>Sound Setup Showdown: Unveiling the Key Differences Between Home Theatre & Stereo Receivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tackling-security-lockouts-proven-methods-for-fixing-4n-authorization-mishaps/"><u>Tackling Security Lockouts: Proven Methods for Fixing 4N Authorization Mishaps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-childrens-films-available-on-netflix/"><u>Top Children's Films Available on Netflix</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlocking-fun-for-everyone-professional-assessment-of-the-maisto-rc-rock-crawler/"><u>Unlocking Fun for Everyone: Professional Assessment of the Maisto RC Rock Crawler</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Inside Apple's AI Innovation: Comprehensive Guide to Upcoming AI Enhanced Features on iOS and macOS Devices"
-date: 2024-10-02T19:28:50.163Z
-updated: 2024-10-07T18:21:18.325Z
+date: 2024-10-07T16:05:02.327Z
+updated: 2024-10-13T16:08:00.456Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -61,6 +61,13 @@ Some of the biggest AI features from Apple Intelligence include:
 Aside from these AI features, iOS 18 will include new customizable icons and interface updates for Control Center, Settings, and Messages. Apple is also launching a new [Passwords app](https://www.zdnet.com/article/apple-to-unveil-password-manager-app-at-wwdc-2024-what-it-is-and-how-it-works/) to replace the iCloud Keychain and give users a more user-friendly option, similar to 1Password and LastPass.
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
 
@@ -90,13 +97,6 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How does systemwide AI text generation work?
 
 Apple
@@ -120,6 +120,13 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -149,13 +156,6 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -172,10 +172,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -218,22 +218,22 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/2024-approved-unexplained-angle-flip-sideways-vids-in-instagram-world/"><u>2024 Approved Unexplained Angle Flip Sideways Vids in Instagram World</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-shopping-for-virtual-experiences-on-the-metas-oculus-quest2-device/"><u>Comprehensive Guide to Shopping for Virtual Experiences on the Meta's Oculus Quest^2 Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-chilling-crimes-through-our-top-picks-of-true-crime-audios/"><u>Discover Chilling Crimes Through Our Top Picks of True Crime Audios</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-power-of-personalized-ai-with-openais-latest-gpt-store-begin-your-journey-here/"><u>Discover the Power of Personalized AI with OpenAI's Latest GPT Store - Begin Your Journey Here</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-12-most-popular-free-internet-calling-apps/"><u>Exploring the 12 Most Popular Free Internet Calling Apps</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/fusion-of-foreign-fluency/"><u>Fusion of Foreign Fluency</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-can-i-use-imessage-if-im-not-a-mac-user/"><u>How Can I Use iMessage if I'm Not a Mac User?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-compre-written-guide-to-the-latest-videoshow-version/"><u>In 2024, Compre Written Guide to the Latest VideoShow Version</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-experts-companion-navigating-the-nuances-of-mobizen-screen-recording/"><u>In 2024, Expert's Companion Navigating the Nuances of Mobizen Screen Recording</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-tecno-spark-10c-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Tecno Spark 10C to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-k11-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo K11 5G Device</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-tier-text-transitions-reels/"><u>In 2024, Top-Tier Text Transitions Reels</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-the-iconic-19-core-addon-in-kodi-version-19-matrix/"><u>Step-by-Step Guide: Setting Up the Iconic 19 Core Addon in Kodi Version 19 Matrix</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/steps-to-overcome-not-found-d3dx941dll-errors-a-detailed-walkthrough/"><u>Steps to Overcome Not Found D3dx9_41.dll Errors: A Detailed Walkthrough</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/streamline-learning-with-these-6-must-have-apps-for-homework-success/"><u>Streamline Learning with These 6 Must-Have Apps for Homework Success</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-essential-factors-to-evaluate-when-purchasing-your-next-smartwatch/"><u>Top 5 Essential Factors to Evaluate When Purchasing Your Next Smartwatch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-11-pin-withdrawal-procedure-for-enhanced-access/"><u>Windows 11 PIN Withdrawal Procedure for Enhanced Access</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-path-to-precision-audio-a-no-mic-approach/"><u>[New] 2024 Approved The Path to Precision Audio A No-Mic Approach</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-becoming-professionally-active-registering-a-business-on-ig/"><u>[New] Becoming Professionally Active Registering a Business on IG</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-enable-youtube-videos-to-self-play-on-facebook/"><u>[New] How to Enable Youtube Videos to Self-Play on Facebook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mpg-movavi-m4v/"><u>「オンラインで自由にMPGへ変換! Movavi M4Vファイルのシームレスな変更方法」</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-breaking-down-mp4s-removing-sound-tracks-and-silence/"><u>2024 Approved Breaking Down MP4s Removing Sound Tracks and Silence</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-seamless-sounds-for-your-podcasts-using-garageband/"><u>2024 Approved Crafting Seamless Sounds for Your Podcasts Using GarageBand</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-snd-movavi/"><u>線上全面FREE SND改版轉移功能 – Movavi解決方案</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversione-gratuita-di-filmati-avi-a-formato-mpeg-tramite-lutilita-web-di-movavi/"><u>Conversione Gratuita Di Filmati AVI a Formato MPEG Tramite L'utilità Web Di Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversione-rapida-e-gratuita-da-mpeg-a-m4v-su-internet-utilizzando-il-servizio-di-movavi-video-converter/"><u>Conversione Rapida E Gratuita: Da MPEG a M4V Su Internet Utilizzando Il Servizio Di Movavi Video Converter</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/crea-file-mp3-gratuitamente-da-wmv-online-con-convertitore-audio-guida-rapida-di-movavi/"><u>Crea File MP3 Gratuitamente Da WMV Online Con Convertitore Audio: Guida Rapida Di Movavi</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/effizienz-steigern-durch-das-implementieren-von-digital-twins-in-ihren-geschaftsprozessen/"><u>Effizienz Steigern Durch Das Implementieren Von Digital Twins in Ihren Geschäftsprozessen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-avi-to-mp4-converter-moveavi/"><u>Free Online AVI to MP4 Converter - MoveAVI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratuit-konverteren-van-vob-naar-aiff-formaat-online-moovavi/"><u>Gratuit Konverteren Van VOB Naar AIFF-Formaat Online - Moovavi</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-fitbit-versa-an-economical-choice-for-a-smartwatch/"><u>In-Depth Analysis of the Fitbit Versa: An Economical Choice for a Smartwatch</u></a></li>
+<li><a href="https://win-news.techidaily.com/mejora-tu-disco-duro-tres-formas-sencillas-de-incrementar-espacio-en-unidad-c-en-windows-11/"><u>Mejora Tu Disco Duro: Tres Formas Sencillas De Incrementar Espacio en Unidad C en Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-insights-t17239718716229/"><u>Tom's Tech Review: In-Depth Analysis and Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-12-premium-pc-sound-capture-devices-reviewed-by-movavi/"><u>Top 12 Premium PC Sound Capture Devices Reviewed by Movavi</u></a></li>
 </ul></div>
 

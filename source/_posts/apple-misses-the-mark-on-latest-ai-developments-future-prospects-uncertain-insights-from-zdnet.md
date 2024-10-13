@@ -1,7 +1,7 @@
 ---
 title: Apple Misses the Mark on Latest AI Developments, Future Prospects Uncertain - Insights From ZDNet
-date: 2024-10-02T17:04:48.325Z
-updated: 2024-10-07T21:51:36.020Z
+date: 2024-10-09T16:13:20.770Z
+updated: 2024-10-13T16:12:58.999Z
 tags:
   - apple
 categories:
@@ -53,10 +53,10 @@ Dr. Illenberger suggests, "Educating potential users about the practical benefit
 Apple must effectively present the value of Vision Pro by showcasing real-world applications and demonstrating how the product has made a tangible impact in a business environment.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Development of compelling vertical industry apps
@@ -70,6 +70,13 @@ The Vision Pro requires industry-specific applications to target the business se
 **Also: [Apple Vision Pro review: Fascinating, flawed, and needs to fix 5 things](https://www.zdnet.com/article/apple-vision-pro-review/)**
 
 "The success of Vision Pro in business environments will depend on the development of industry-specific applications," Dr. Illenberger emphasizes. "Applications that solve real-world problems and offer tangible benefits will encourage adoption."
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Improved device management and enterprise integration
 
@@ -91,13 +98,6 @@ While the Vision Pro's $3,500 price tag is hefty, it's not unprecedented in ente
 
 Apple, take note: Show the value, and enterprises will follow. If a company can see a clear ROI, the upfront cost becomes less of a hurdle. Think about industries like automotive or aerospace, where the cost of a single mistake far outweighs the price of a VR headset.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Access to full sensor capabilities
 
 To fully exploit the Vision Pro's potential, developers need unrestricted access to its sensor data. Some restricted capabilities limit the device's use in high-stakes environments such as pilot training or surgical simulations. By providing full access to sensor data, Apple can enable developers to create highly specialized applications that meet the demands of various professional fields.
@@ -107,13 +107,6 @@ To fully exploit the Vision Pro's potential, developers need unrestricted access
 "For high-stakes applications, developers need full access to the device's capabilities," says Dr. Illenberger. "Restrictions on sensor data limit the potential uses of Vision Pro in critical environments."
 
 In other words, let the device breathe and watch it soar in diverse applications. Imagine surgeons practicing complex procedures in a risk-free virtual environment, honing their skills before touching a real patient.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Stronger processing power and battery life with better connectivity to the cloud and the edge
 
@@ -133,6 +126,13 @@ These developments are not solely in Apple's hands. We need faster and more reli
 
 Dr. Illenberger remarks, "The deployment of robust network infrastructure is crucial for the future of AR and VR technologies. Without it, the full potential of devices like Vision Pro cannot be realized."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. User-friendly developer tools, support, and an open ecosystem
 
 For Vision Pro to succeed in business, Apple must provide user-friendly developer tools and comprehensive support. This includes detailed documentation, sample code, and a responsive developer community. By making it easier for developers to create and deploy applications, Apple can accelerate the adoption of Vision Pro in various industries. 
@@ -146,10 +146,10 @@ The easier Apple makes supporting the Vision Pro for developers, the faster we'l
 "You need to have access to the device's full capabilities," says Dr. Illenberger. "If Apple remains too restrictive, it will limit the device's potential and deter developers."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Vision Pro: Ready to do business?
@@ -190,19 +190,22 @@ As Dr. Illenberger aptly puts it, "Enterprises need tools that fit into their cu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/aining-ground-on-the-groundswell-of-online-viewers/"><u>[New] Gaining Ground on the Groundswell of Online Viewers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-fine-tuning-your-linkedin-headline-for-2024/"><u>[Updated] Fine-Tuning Your LinkedIn Headline for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-supercharge-your-content-consumption-these-best-free-online-video-downloaders-for-youtube-shorts/"><u>[Updated] Supercharge Your Content Consumption These Best Free, Online Video Downloaders for YouTube Shorts</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-for-beginners-best-film-and-point-shoot-cameras-reviewed/"><u>2024 Approved For Beginners Best Film and Point-Shoot Cameras Reviewed</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-hook-it-game-winning-podcast-beginnings/"><u>2024 Approved The Hook-It Game Winning Podcast Beginnings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-comprehensive-guide-to-finding-and-showing-hidden-ios-applications/"><u>A Comprehensive Guide to Finding and Showing Hidden iOS Applications</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-getting-your-email-list-onto-whoissafe/"><u>Effective Strategies for Getting Your Email List Onto WhoisSafe</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/from-fire-to-star-the-rise-of-chromecast-with-google-tv-in-the-streaming-universe/"><u>From Fire to Star: The Rise of Chromecast with Google TV in the Streaming Universe</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-pro-fullscreen-techniques-compendium/"><u>In 2024, Premier Pro Fullscreen Techniques Compendium</u></a></li>
-<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-the-new-iphone-15-pro-max-splash-proof/"><u>Is the New iPhone 15 Pro Max Splash-Proof?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximize-game-library-how-to-hook-up-and-use-an-external-hdd-with-your-xbox-one/"><u>Maximize Game Library: How to Hook Up & Use an External HDD with Your Xbox One</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/permanent-deletion-process-for-your-yahoo-mail-a-detailed-walkthrough/"><u>Permanent Deletion Process for Your Yahoo Mail - A Detailed Walkthrough</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-viewing-the-transformers-series-chronologically/"><u>The Ultimate Guide to Viewing the Transformers Series Chronologically</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-lg-ultrafine-4k-monitor-complete-review/"><u>[New] LG UltraFine 4K Monitor Complete Review</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-guide-to-capturing-memorable-moments-on-tiktok-with-filmmaker-tools/"><u>[Updated] 2024 Approved The Ultimate Guide to Capturing Memorable Moments on TikTok with Filmmaker Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-footage-to-polished-highlights/"><u>[Updated] In 2024, From Raw Footage to Polished Highlights</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-yt-highlights-year-end-spotlight-on-top-music-reactions/"><u>[Updated] YT Highlights Year-End Spotlight on Top Music Reactions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/affordable-xr-glasses-overcome-apple-visions-pro-features-for-me-saving-on-cost-a-detailed-review-by-zdnet/"><u>Affordable XR Glasses Overcome Apple Vision's Pro Features for Me, Saving on Cost: A Detailed Review by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-new-upgrades-revolutionizing-meta-quest-experience-perfect-for-gamers-and-media-lovers-zdnet/"><u>Discover the New Upgrades Revolutionizing Meta Quest Experience – Perfect for Gamers & Media Lovers | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expanding-horizons-high-fidelity-ventures-into-the-second-life-realm-to-enhance-digital-existence-zdnet-insights/"><u>Expanding Horizons: High Fidelity Ventures Into the 'Second Life' Realm to Enhance Digital Existence | ZDNet Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-unseen-expenses-accounting-for-additional-fees-in-your-apple-vision-pro-arvr-spending-plan-insights-from-zdnet/"><u>Exploring Unseen Expenses: Accounting for Additional Fees in Your Apple Vision Pro AR/VR Spending Plan - Insights From ZDNet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-7-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 7 Passcode not Working?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-tecno-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Tecno ?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-vr-ar-and-xr-are-gaining-traction-according-to-new-studies-by-mit-experts-zdnet/"><u>How VR, AR, and XR Are Gaining Traction According to New Studies by MIT Experts | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/htc-vive-xr-elite-pros-and-cons-of-securing-your-spot-now-zdnets-guide-for-gamers/"><u>HTC Vive XR Elite: Pros and Cons of Securing Your Spot Now - ZDNet's Guide for Gamers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-samsung-galaxy-a05s-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Samsung Galaxy A05s to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-sensational-screens-the-top-10-tech-for-live-recordings/"><u>In 2024, Sensational Screens The Top 10 Tech for Live Recordings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/masterclass-in-ai-exploring-chatgpts-premium-edge/"><u>Masterclass in AI: Exploring ChatGPT's Premium Edge</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/meta-drops-minimum-age-requirement-for-ownership-of-quest-accounts-is-it-safe-for-youngsters-to-dive-into-virtual-reality/"><u>Meta Drops Minimum Age Requirement for Ownership of Quest Accounts: Is It Safe for Youngsters to Dive Into Virtual Reality?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-ranked-ar-headsets-a-comprehensive-review-by-zdnet/"><u>Top-Ranked AR Headsets : A Comprehensive Review by ZDNet</u></a></li>
 </ul></div>
 

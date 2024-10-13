@@ -1,7 +1,7 @@
 ---
 title: "IMessage Communication Guide: Sending & Receiving Texts on Your PC with Windows"
-date: 2024-09-30T22:17:41.571Z
-updated: 2024-10-07T22:40:50.576Z
+date: 2024-10-08T16:09:00.206Z
+updated: 2024-10-13T16:03:04.687Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 ## How to send and receive iMessages on Windows
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Microsoft Phone Link
@@ -70,10 +70,10 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
@@ -98,13 +98,6 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
@@ -117,20 +110,14 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -153,16 +140,16 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Launch the Windows Unison app
@@ -170,6 +157,13 @@ Screenshot by Lance Whitney/ZDNET
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -219,24 +213,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-6s-plus-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 6s Plus Without a Passcode</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-iphone-models-for-enhanced-gaming-performance/"><u>Best iPhone Models for Enhanced Gaming Performance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-the-real-contrasts-mac-versus-pc-explained/"><u>Decoding the Real Contrasts: Mac Versus PC Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-7-no-cost-web-based-fax-applications/"><u>Discover 7 No-Cost Web-Based Fax Applications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-art-of-ai-creation-using-free-dall-e-3-on-microsoft-bing/"><u>Discover the Art of AI Creation: Using Free DALL-E 3 on Microsoft Bing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/download-newest-amd-radeon-gpu-drivers-v2410-for-optimal-performance/"><u>Download Newest AMD Radeon GPU Drivers v24.10 for Optimal Performance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/find-your-favorite-films-here-the-11-premier-free-download-options/"><u>Find Your Favorite Films Here: The 11 Premier Free Download Options</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-y100t-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo Y100t Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-5-rapid-ways-to-access-obliviated-reddit-content/"><u>In 2024, 5 Rapid Ways to Access Obliviated Reddit Content</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-pathway-to-youtube-partnerships-simplifying-the-process-for-small-creators/"><u>In 2024, Pathway to YouTube Partnerships Simplifying the Process for Small Creators</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-professional-video-techniques-top-10-edits/"><u>In 2024, Professional Video Techniques Top 10 Edits</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-connecting-printers-for-shared-device-access/"><u>Step-by-Step Tutorial on Connecting Printers for Shared Device Access</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-definitive-guide-to-screencast-editors/"><u>The Definitive Guide to Screencast Editors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-fix-for-mapi32dll-not-detected-issues-quick-solutions-inside/"><u>The Ultimate Fix for Mapi32.dll Not Detected Issues – Quick Solutions Inside</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721476804182-top-6-frequent-challenges-with-the-iphone-13-solutions-inside/"><u>Top 6 Frequent Challenges with the iPhone 13: Solutions Inside!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-fixes-for-the-elusive-btballoondll-error/"><u>Troubleshooting and Fixes for The Elusive BTBalloon.DLL Error</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-hidden-data-top-software-picks-for-getting-back-your-erased-iphone-notes/"><u>Unlock Hidden Data: Top Software Picks for Getting Back Your Erased iPhone Notes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-to-ps5-exclusive-video-game-selection/"><u>Unlocking the Secrets to PS5 Exclusive Video Game Selection!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-boosting-buzz-and-views-masterful-strategies-for-youtube-success/"><u>[Updated] Boosting Buzz & Views Masterful Strategies for YouTube Success</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-the-waterfront-top-5-cameras-for-big-waters/"><u>[Updated] Master the Waterfront Top 5 Cameras For Big Waters</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-navigating-google-chromes-picture-in-picture-feature-for-2024/"><u>[Updated] Navigating Google Chrome's Picture In Picture Feature for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-5-goggles-securing-victory-in-air-races/"><u>2024 Approved Premier 5 Goggles Securing Victory in Air Races</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/descargar-e-importar-peliculas-vob-como-archivos-wma-sin-coste-con-la-herramienta-de-conversion-en-linea-de-movavi/"><u>Descargar E Importar Películas VOB Como Archivos WMA Sin Coste Con La Herramienta De Conversión en Línea De Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-mp4mpeg-4-to-3gp-transformation-at-no-cost-with-movavis-tool/"><u>Effortless MP4/MPEG-4 to 3GP Transformation at No Cost with Movavi's Tool</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/en-ligne-et-gratuit-convertissez-vos-fichiers-mp3-en-format-wmv-avec-laide-de-movavi/"><u>En Ligne Et Gratuit: Convertissez Vos Fichiers MP3 en Format WMV Avec L'aide De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freelancers-ai-assistant-showdown-which-language-tool-prevails/"><u>Freelancer's AI Assistant Showdown: Which Language Tool Prevails?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratuita-herramienta-de-conversion-para-transformar-imagenes-dpx-en-gif-movavi/"><u>Gratuita Herramienta De Conversión Para Transformar Imágenes DPX en GIF - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-per-la-selezione-dei-migliori-convertitori-video-gratuiti-disponibili/"><u>Guide per La Selezione Dei Migliori Convertitori Video Gratuiti Disponibili</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-nubia-z50-ultra-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Nubia Z50 Ultra Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mov-mp4wmv/"><u>MOVファイルの変換手順: MP4、WMVへの変換と元に戻し方</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/securing-access-to-public-broadcasts-no-fee-for-c-span-videos/"><u>Securing Access to Public Broadcasts No Fee for C-Span Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/topo-das-melhores-cinefilos-online-gratis-substitutas-para-o-windows/"><u>Topo Das Melhores Cinéfilos Online Grátis - Substitutas Para O Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformar-imagens-em-memoraveis-tecnica-de-aplicacao-do-video-vinheta-as-fotografias/"><u>Transformar Imagens Em Memoráveis: Técnica De Aplicação Do Vídeo-Vinheta Às Fotografias</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-movie-maker-vs-movavi-video-editor-a-comprehensive-feature-and-performance-showdown/"><u>Windows Movie Maker Vs. Movavi Video Editor: A Comprehensive Feature and Performance Showdown</u></a></li>
 </ul></div>
 

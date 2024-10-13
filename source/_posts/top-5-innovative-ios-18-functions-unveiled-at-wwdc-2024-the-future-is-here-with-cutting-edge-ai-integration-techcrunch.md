@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Innovative iOS 18 Functions Unveiled at WWDC 2024: The Future Is Here with Cutting-Edge AI Integration | TechCrunch"
-date: 2024-09-30T17:21:31.424Z
-updated: 2024-10-07T16:28:31.068Z
+date: 2024-10-11T16:02:56.748Z
+updated: 2024-10-13T16:09:47.082Z
 tags:
   - apple
 categories:
@@ -38,9 +38,23 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Pause your rings
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
 
@@ -51,13 +65,6 @@ WatchOS 11 will help those who are pregnant log their physical and mental health
 The feature plays into the Apple Watch's cycle-tracking experience, so everything remains cohesive and easy to find.
 
 Apple
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. More widgets for your Smart Stack, including Live Activities
 
@@ -75,13 +82,6 @@ The Photos face is one of the most popular faces on the Apple Watch, given its h
 
 Your watch will use machine learning to analyze your photo library and find the best snaps to use as a watch face based on aesthetics, composition, and facial expressions. Apple's algorithm will then optimize the image for the watch face and add depth effects, different colored backgrounds, fonts, and more. You can customize it on your own to your heart's content, plus get treated to a new look every time you raise your wrist.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double Tap now works with any app
 
 One of the biggest complaints with the [Apple Watch Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) and [Ultra 2](https://www.zdnet.com/article/i-spent-a-week-with-the-apple-watch-ultra-2-and-heres-what-stood-out-the-most/) was how limited Double Tap was. Up until now, the feature has only worked in select apps that supported scrolling by tapping your fingers. But now, it's expanding to all apps and third-party apps with WatchOS 11\. Apple will also roll out the Double Tap API, which will let developers implement the feature in their apps.
@@ -94,13 +94,6 @@ Jason Hiner/ZDNET
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Tap to Cash for quick payments
 
 Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. Tap to Cash lets you hold your Apple Watch near another watch or iPhone to quickly send Apple Cash to someone else.
@@ -111,20 +104,27 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Improved workout tracking for GPS-specific workouts
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 11\. Tickets in your Wallet get an upgrade
 
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
 
@@ -160,18 +160,21 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/wift-introduction-the-art-of-green-screening/"><u>[New] Swift Introduction The Art of Green Screening</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-calming-chorus-proven-voices-aid-sleep/"><u>[New] The Calming Chorus Proven Voices Aid Sleep</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-obs-armada-cameras-at-full-power-again/"><u>2024 Approved OBS Armada Cameras at Full Power Again</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/changing-the-display-how-to-alter-chromecast-themes/"><u>Changing the Display: How to Alter Chromecast Themes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dealing-with-dll-errors-how-to-recover-from-msstfmtdll-is-unavailable-issues/"><u>Dealing with DLL Errors: How to Recover From 'msstfmt.dll' Is Unavailable Issues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-find-x7-ultra-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Find X7 Ultra to New Android? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-network-settings-in-windows-11-learn-how-to-control-your-computers-visibility-online/"><u>Mastering Network Settings in Windows 11: Learn How to Control Your Computer's Visibility Online</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fix-guide-for-windows-update-issue-error-0x800f0831/"><u>Quick Fix Guide for Windows Update Issue - Error 0X800f0831</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revive-your-router-effective-ways-to-boost-and-accelerate-your-home-network/"><u>Revive Your Router: Effective Ways to Boost and Accelerate Your Home Network</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-correct-chronology-for-enjoying-every-episode-of-dragon-ball-a-watchers-guide/"><u>The Correct Chronology for Enjoying Every Episode of Dragon Ball - A Watcher's Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-solving-issues-with-microsoft-edge-browser/"><u>Troubleshooting Guide: Solving Issues with Microsoft Edge Browser</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/which-is-better-a-deep-dive-into-the-unique-features-of-ipad-pro-vs-macbook-air/"><u>Which Is Better? A Deep Dive Into the Unique Features of iPad Pro Vs. MacBook Air</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2022s-ultimate-guide-to-portable-air-compressors-for-car-tires-reviewed-by-zdnet/"><u>2022'S Ultimate Guide to Portable Air Compressors for Car Tires - Reviewed by ZDNET</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-share-vimeo-video-in-instagram-stories/"><u>2024 Approved How to Share Vimeo Video in Instagram Stories</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/affordable-lawn-care-solutions-find-the-best-value-ride-on-and-push-lawn-mowers-reviewed/"><u>Affordable Lawn Care Solutions - Find the Best Value Ride-On and Push Lawn Mowers Reviewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/april-2024-total-lunar-eclipse-guide-viewing-tips-essential-gear-and-expert-advice-for-an-unforgettable-celestial-experience-zdnet/"><u>April 2024 Total Lunar Eclipse Guide: Viewing Tips, Essential Gear & Expert Advice for an Unforgettable Celestial Experience - ZDNet</u></a></li>
+<li><a href="https://fox-search.techidaily.com/exploring-additional-navigational-controls-for-flip-book-interfaces-on-flipbuildercom/"><u>Exploring Additional Navigational Controls for Flip Book Interfaces on FlipBuilder.com</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-secrets-of-windows-10-effortless-media-importation-methods/"><u>In 2024, Secrets of Windows 10 Effortless Media Importation Methods</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-tecno-spark-20-pro-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Tecno Spark 20 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-answers.techidaily.com/preventing-wallpaper-engine-from-crashing-in-windows-operating-systems-windows-10-and-11/"><u>Preventing Wallpaper Engine From Crashing in Windows Operating Systems (Windows 10 and 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/recovering-database-connections-resolving-malwarebytes-service-issues/"><u>Recovering Database Connections: Resolving Malwarebytes Service Issues</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/seamless-video-meetings-from-home-a-guide-to-proficient-use-of-skypes-screen-sharing-for-2024/"><u>Seamless Video Meetings From Home A Guide to Proficient Use of Skype's Screen Sharing for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unboxing-the-ecoflow-river-3-a-standout-starter-kit-for-portable-energy-systems-reviewed-by-tech-experts-at-zdnet/"><u>Unboxing the EcoFlow River 3: A Standout Starter Kit for Portable Energy Systems, Reviewed by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleash-the-power-of-ultra-performance-how-this-durable-android-outshines-your-dull-iphone-with-incredible-heat-management-zdnet/"><u>Unleash the Power of Ultra-Performance: How This Durable Android Outshines Your Dull iPhone with Incredible Heat Management - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watching-a-solar-eclipse-safely-with-homemade-camera-obscura-how-to-sciencehub/"><u>Watching a Solar Eclipse Safely with Homemade Camera Obscura - How To | ScienceHub</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/your-ultimate-resource-on-the-upcoming-solar-spectacle-in-april-202n-how-to-safely-observe-required-equipment-and-vital-information-zdnet-news/"><u>Your Ultimate Resource on the Upcoming Solar Spectacle in April 202N - How to Safely Observe, Required Equipment & Vital Information | ZDNET News</u></a></li>
 </ul></div>
 

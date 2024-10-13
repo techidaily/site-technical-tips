@@ -1,7 +1,7 @@
 ---
 title: Watching a Solar Eclipse Safely with Homemade Camera Obscura - How To | ScienceHub
-date: 2024-09-18T18:22:21.782Z
-updated: 2024-09-21T03:41:50.666Z
+date: 2024-10-12T16:03:10.965Z
+updated: 2024-10-13T16:07:21.782Z
 tags:
   - yard-outdoors
 categories:
@@ -20,6 +20,19 @@ Maria Diaz/ZDNET
 The [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfc654aac-451d-4428-990d-834c2c6ab84a%7Cdtp&dtb=1) is $30 off, available for $200 through [Labor Day](https://www.zdnet.com/article/best-labor-day-deals-2024-8-29/).
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -79,6 +92,13 @@ Maria Diaz/ZDNET
 
 The Ring Protect plan ranges from $5-$20 monthly, and aside from the mentioned features, it includes person alerts, the ability to arm and disarm the Ring system digitally, rich notifications, snapshot capture, and video history stored in the cloud for up to six months.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After using the [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfc654aac-451d-4428-990d-834c2c6ab84a%7Cdtp&dtb=1) for a few weeks, I found it to be a reliable home security camera with all the extra features worth the price. The two-way talk audio quality was the most impressive I've ever tried, delivering crystal clear audio without echo. 
@@ -92,10 +112,10 @@ A security camera of that resolution is not disappointing on its own, but it's a
 Additionally, many smart home users aren't prepared to pay monthly subscription fees to access plan-exclusive features, but plenty of users prefer the convenience of not having to worry about local storage and enjoy the extra perks a paid plan offers. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -130,5 +150,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-free-guide-to-premium-mp4-screen-recorders-for-2024/"><u>[Updated] Free Guide to Premium MP4 Screen Recorders for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-favorite-tiktoks-the-ultimate-list/"><u>[Updated] In 2024, Twitter's Favorite TikToks The Ultimate List</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-steady-shots-expert-tips-on-tripods-in-vlog-production-for-2024/"><u>[Updated] Steady Shots Expert Tips on Tripods in Vlog Production for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-lost-in-translation-no-videos-on-a6400/"><u>2024 Approved Lost in Translation No Videos on A6400</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-windows-11s-missing-wi-fi-functionality/"><u>Boosting Windows 11'S Missing Wi-Fi Functionality</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974916970-canon-mf7e-3s-series-get-your-windows-driver-downloads-now/"><u>Canon MF7e-3s Series - Get Your Windows Driver Downloads Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/capture-your-screen-ultimate-guide-on-using-skjermopptak-download-now/"><u>Capture Your Screen: Ultimate Guide on Using Skjermopptak - Download Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversa-gratuitamente-archivos-de-audio-opus-a-linea-con-movavi-la-mejor-herramienta-sin-coste/"><u>Conversa Gratuitamente Archivos De Audio OPUS a Línea Con Movavi: La Mejor Herramienta Sin Coste</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversion-gratuita-de-archivos-wav-a-formato-aac-online-con-movavi/"><u>Conversión Gratuita De Archivos WAV a Formato AAC Online Con Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convert-pgm-images-to-bmp-file-type-without-cost-quick-and-easy-solution-by-movavi/"><u>Convert PGM Images to BMP File Type Without Cost, Quick & Easy Solution by Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-hp-beats-audio-issues-on-windows-10-8-and-7-a-comprehensive-guide/"><u>Fixing HP Beats Audio Issues on Windows 10, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-s17e-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo S17e without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/las-9-formas-mas-exitosas-de-minimizar-videos-para-optimizacion-de-correos-electronicos-guia-completa/"><u>Las 9 Formas Más Exitosas De Minimizar Videos Para Optimización De Correos Electrónicos: Guía Completa</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-outils-de-conversion-des-fichiers-mp3-gratuits-et-facilement-accessibles/"><u>Top 8 Outils De Conversion Des Fichiers MP3 Gratuits Et Facilement Accessibles</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/vidi-fix-comeback-for-compromised-clips/"><u>Vidi-Fix: Comeback for Compromised Clips</u></a></li>
+</ul></div>
 

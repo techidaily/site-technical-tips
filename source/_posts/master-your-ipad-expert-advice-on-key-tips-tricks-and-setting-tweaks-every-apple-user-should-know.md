@@ -1,7 +1,7 @@
 ---
 title: "Master Your iPad: Expert Advice on Key Tips, Tricks & Setting Tweaks Every Apple User Should Know"
-date: 2024-10-03T21:01:19.235Z
-updated: 2024-10-07T21:29:20.283Z
+date: 2024-10-06T16:02:24.655Z
+updated: 2024-10-13T16:09:45.197Z
 tags:
   - apple
 categories:
@@ -54,6 +54,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -67,10 +74,10 @@ You can customize the size of the window, bring up secondary apps in the same vi
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Save your eyes at night with Night Shift
@@ -82,10 +89,10 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
@@ -104,13 +111,6 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Split or float your keyboard
 
 Max Buondonno/ZDNET
@@ -125,6 +125,13 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -132,13 +139,6 @@ Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increa
 Of course, while the feature is enabled out of the box, there's always a chance you aren't taking advantage of it on your iPad Pro, and I wouldn't be doing my due diligence if I didn't ask you to check the setting.
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
 
@@ -188,20 +188,17 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-aquatic-videography-evolved-top-camcorders-of-the-year/"><u>[New] 2024 Approved Aquatic Videography Evolved - Top Camcorders of the Year</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-essential-equipment-list-secure-your-zoom-sessions-for-2024/"><u>[New] Essential Equipment List Secure Your Zoom Sessions for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-pioneering-digital-realms-comparing-metaverse-and-omniverse/"><u>[Updated] In 2024, Pioneering Digital Realms Comparing Metaverse & Omniverse</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-illuminating-the-world-of-photography-with-adobes-hdr-techniques/"><u>2024 Approved Illuminating the World of Photography with Adobe's HDR Techniques</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-whats-new-at-samsung-unpacked-2025-release-dates-announcements-and-rumored-gadgets-revealed/"><u>Discover What's New at Samsung Unpacked 2025 - Release Dates, Announcements & Rumored Gadgets Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/immersive-puzzle-experiences-for-ios-devices-akin-to-the-room-and-myst/"><u>Immersive Puzzle Experiences for iOS Devices Akin to 'The Room' And 'Myst'</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/july-2024s-fresh-round-of-microsoft-windows-upgrades-a-detailed-look-at-new-service-packs-and-patches/"><u>July 2024'S Fresh Round of Microsoft Windows Upgrades: A Detailed Look at New Service Packs & Patches</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/make-the-right-choice-a-detailed-comparison-between-iphone-and-android-devices/"><u>Make The Right Choice: A Detailed Comparison Between iPhone and Android Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-netflix-error-ui-800-3-expert-fixing-strategies/"><u>Overcoming Netflix Error UI-800-3: Expert Fixing Strategies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-silence-solutions-for-non-responsive-alexa-devices/"><u>Overcoming Silence: Solutions for Non-Responsive Alexa Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-whats-airing-now-on-max-entertainment-channel/"><u>The Ultimate Selection: What’s Airing Now on Max Entertainment Channel</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/travel-tech-essentials-mastering-roku-connectivity-in-academic-settings-and-hotel-rooms/"><u>Travel Tech Essentials: Mastering Roku Connectivity in Academic Settings and Hotel Rooms</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-transform-imagination-to-reality-top-10-graphic-designers-on-android/"><u>[New] In 2024, Transform Imagination to Reality Top 10 Graphic Designers on Android</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-self-animated-wonders-cutting-edge-techniques-for-you-for-2024/"><u>[Updated] Self-Animated Wonders Cutting Edge Techniques for You for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-complete-process-to-reinvent-your-tiktok-look-for-2024/"><u>[Updated] The Complete Process to Reinvent Your TikTok Look for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-craft-exceptional-videos-on-iphone-pro-tips-from-the-experts-8/"><u>2024 Approved Craft Exceptional Videos on iPhone Pro Tips From the Experts (8)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-reno-9a-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Reno 9A to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-when-you-cant-find-or-access-msodll/"><u>Effective Solutions for When You Can’t Find or Access mso.dll</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-infinix-hot-40i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Infinix Hot 40i Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-performance-mac-editors-ranked-1-to-5/"><u>In 2024, High-Performance Mac Editors - Ranked #1 to #5</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-technique-for-creating-an-uneasy-potion-in-minecraft-realms/"><u>The Ultimate Technique for Creating an Uneasy Potion in Minecraft Realms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-essentials-for-choosing-the-right-smart-tv/"><u>Top 7 Essentials for Choosing the Right Smart TV</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transitioning-photos-from-physical-to-digital-storage/"><u>Transitioning Photos From Physical to Digital Storage</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-quick-access-to-command-line-tools-from-any-folder-on-windows/"><u>Unlocking Quick Access to Command Line Tools From Any Folder on Windows</u></a></li>
 </ul></div>
 

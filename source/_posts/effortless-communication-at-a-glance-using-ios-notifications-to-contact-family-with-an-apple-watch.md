@@ -1,7 +1,7 @@
 ---
 title: "Effortless Communication at a Glance: Using iOS Notifications to Contact Family with an Apple Watch"
-date: 2024-10-03T20:33:35.503Z
-updated: 2024-10-07T20:43:17.538Z
+date: 2024-10-08T16:11:30.800Z
+updated: 2024-10-13T16:04:12.880Z
 tags:
   - apple
 categories:
@@ -47,10 +47,10 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -70,10 +70,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -92,18 +92,18 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -113,18 +113,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -162,17 +162,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-joint-filmmaking-and-gaining-followers-quickly/"><u>[New] 2024 Approved Joint Filmmaking & Gaining Followers Quickly</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-av1-compression-a-beginners-overview/"><u>[New] AV1 Compression A Beginner's Overview</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/crafting-memorable-dialogues-a-screenwriters-guide/"><u>Crafting Memorable Dialogues A Screenwriter's Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dealing-with-missing-or-not-found-d3dx925dll-files-expert-tips-and-tricks/"><u>Dealing with Missing or Not Found d3dx9_25.dll Files: Expert Tips and Tricks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-lock-the-frame-in-video-playback-on-windows-mac-android-and-iphone/"><u>How To Lock The Frame In Video Playback On Windows, Mac, Android & iPhone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-digital-spaces-ethical-ways-to-retrieve-someones-email/"><u>Navigating Through Digital Spaces: Ethical Ways to Retrieve Someone's Email</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-twitch-connectivity-woes-are-you-alone-in-this-situation/"><u>Navigating Through Twitch Connectivity Woes - Are You Alone in This Situation?</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-overestimated-world-of-facebook-statistics/"><u>The Overestimated World of Facebook Statistics</u></a></li>
-<li><a href="https://driver-install.techidaily.com/transform-your-huion-h420-performance-in-minutes/"><u>Transform Your Huion H420 Performance in Minutes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-recuva-the-top-file-restoration-software-on-the-market/"><u>Ultimate Guide to Recuva: The Top File Restoration Software on the Market</u></a></li>
-<li><a href="https://discover-best.techidaily.com/utilizing-cookiebot-technology-for-advanced-web-insights-and-visitor-analysis/"><u>Utilizing Cookiebot Technology for Advanced Web Insights & Visitor Analysis</u></a></li>
-<li><a href="https://extra-information.techidaily.com/utilizing-snapchats-prominent-personalities-highlight/"><u>Utilizing Snapchat's Prominent Personalities Highlight</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-camstudio-recording-tech-a-comprehensive-2023-analysis/"><u>[New] CamStudio Recording Tech A Comprehensive 2023 Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-turbocharged-windows-content-assessment/"><u>[New] Turbocharged Windows Content Assessment</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-quick-retrieval-downloading-gifs-from-twitter-apps/"><u>[Updated] In 2024, Quick Retrieval Downloading GIFs From Twitter Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-rx-memory-treasure-for-2024/"><u>[Updated] RX Memory Treasure for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722895418111-android-app-for-remote-control-of-fire-stick-how-it-works/"><u>Android App for Remote Control of Fire Stick - How It Works!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-online-tools-for-efficient-apartment-hunting/"><u>Best Online Tools for Efficient Apartment Hunting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-your-twitter-engagement-the-ultimate-guide-to-attracting-followers/"><u>Boosting Your Twitter Engagement: The Ultimate Guide to Attracting Followers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-our-picks-15-no-cost-antivirus-solutions-that-boot-directly/"><u>Discover Our Picks: 15 No-Cost Antivirus Solutions That Boot Directly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-ensure-your-samsung-smart-tv-is-current-with-latest-software-updates/"><u>How to Ensure Your Samsung Smart TV Is Current with Latest Software Updates</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-chuckle-away-with-premium-complimentary-meme-templates/"><u>In 2024, Chuckle Away with Premium Complimentary Meme Templates</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-innovations-in-wearable-tech-the-smartest-frames-for-2n4/"><u>Leading Innovations in Wearable Tech: The Smartest Frames for 2N4</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-photo-transformation-apps-for-2024/"><u>Mastering the Art of Photo Transformation Apps for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-fixing-msxml4dll-missing-errors/"><u>The Ultimate Guide to Fixing MsXML4.DLL Missing Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-7-best-alarm-clock-apps-reviewed/"><u>The Ultimate List: 7 Best Alarm Clock Apps Reviewed!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/which-iphone-tops-in-gaming-performance-and-playability/"><u>Which iPhone Tops in Gaming Performance and Playability?</u></a></li>
 </ul></div>
 

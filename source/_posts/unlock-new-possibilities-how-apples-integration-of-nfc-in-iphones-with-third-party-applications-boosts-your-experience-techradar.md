@@ -1,7 +1,7 @@
 ---
 title: "Unlock New Possibilities: How Apple's Integration of NFC in iPhones with Third-Party Applications Boosts Your Experience | TechRadar"
-date: 2024-10-03T16:18:10.043Z
-updated: 2024-10-07T17:02:32.262Z
+date: 2024-10-09T16:00:00.596Z
+updated: 2024-10-13T16:12:15.160Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -56,10 +56,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -71,10 +71,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -83,18 +83,18 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -130,24 +130,21 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-crafting-engaging-live-streamed-gaming-experiences/"><u>[New] 2024 Approved Crafting Engaging Live-Streamed Gaming Experiences</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-dynamic-expression-techniques-for-animated-text-in-ig-stories/"><u>[New] Dynamic Expression Techniques for Animated Text in IG Stories</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-complete-hulu-recording-manual-for-pc-mac-and-mobile-users/"><u>[New] The Complete Hulu Recording Manual for PC, Mac & Mobile Users</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-collect-priceless-imagery-from-trusted-4-youtube-directories/"><u>[Updated] 2024 Approved Collect Priceless Imagery From Trusted 4 YouTube Directories</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-unbeatable-titles-the-creme-de-la-liste-of-10-vimeo-extractors-for-2024/"><u>[Updated] Unbeatable Titles The Crème De La Liste of 10 Vimeo Extractors for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-masters-tutorial-total-deep-dive-into-xmedia-suite-workshop/"><u>2024 Approved Master's Tutorial Total Deep Dive Into XMedia Suite Workshop</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-safekeeping-sensitive-visuals-from-public-eyes/"><u>2024 Approved Safekeeping Sensitive Visuals From Public Eyes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-when-your-alexa-device-wont-respond/"><u>Effective Solutions for When Your Alexa Device Won't Respond</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-speeding-up-your-sluggish-wi-fi/"><u>Effective Strategies for Speeding Up Your Sluggish Wi-Fi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elevate-your-search-capabilities-using-google-gemini-techniques/"><u>Elevate Your Search Capabilities Using Google Gemini Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-flawlessly-refresh-your-chromecast-settings/"><u>How to Flawlessly Refresh Your Chromecast Settings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-techniques-resolving-cygwin1dll-not-found-system-errors/"><u>Master the Techniques: Resolving 'Cygwin1.dll' Not Found System Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-ins-and-outs-of-power-management-in-windows-11-the-battery-report-explained/"><u>Navigating the Ins and Outs of Power Management in Windows 11: The Battery Report Explained</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-lag-ultimate-guide-to-solving-warframes-freezing-glitches/"><u>Overcoming Lag: Ultimate Guide to Solving Warframe's Freezing Glitches</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-dolby-advanced-audio-unable-to-start-the-dolby-audio-driver-in-windows-10/"><u>Solved Dolby Advanced Audio: Unable to Start the Dolby Audio Driver in Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-tackle-bsod-on-your-pc/"><u>Step-by-Step Solutions to Tackle BSOD on Your PC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unleash-vivid-graphics-on-your-windows-machine/"><u>Unleash Vivid Graphics on Your Windows Machine</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upcoming-samsung-galaxy-z-fold-7-predicted-release-timeline-cost-estimates-and-rumored-features-explained/"><u>Upcoming Samsung Galaxy Z Fold 7 - Predicted Release Timeline, Cost Estimates & Rumored Features Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-does-ray-tracing-mean-in-graphics-technology/"><u>What Does Ray Tracing Mean in Graphics Technology?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-immersive-video-warfare-samsung-vs-lg-cam-clash/"><u>[Updated] Immersive Video Warfare Samsung VS LG Cam Clash</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-keep-your-digital-treasures-storing-insta-media-on-iphone-for-2024/"><u>[Updated] Keep Your Digital Treasures Storing Insta Media on iPhone for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-radio-playscript-artistry/"><u>[Updated] Prime Radio Playscript Artistry</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cat5-vs-cat6-cable-guide-features-benefits-and-performance-differences/"><u>Cat5 Vs. Cat6 Cable Guide: Features, Benefits, and Performance Differences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-insights-into-the-world-of-netflix-the-ultimate-streaming-giant/"><u>Comprehensive Insights Into the World of Netflix: The Ultimate Streaming Giant</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-parent-guard-software-expert-picks-s-best-options/"><u>Essential Parent Guard Software: Expert Picks 'S Best Options</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-frost-on-macbook-air-how-to-defrost-quickly-and-safely/"><u>Fixing Frost on MacBook Air: How To Defrost Quickly and Safely</u></a></li>
+<li><a href="https://solve-help.techidaily.com/freie-downloadliste-neue-adventslieder-fur-das-jahr-2023/"><u>Freie Downloadliste: Neue Adventslieder Für Das Jahr 2023</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-optimal-video-posting-frequency-for-increased-youtube-popularity/"><u>In 2024, Optimal Video Posting Frequency for Increased YouTube Popularity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/optimal-techniques-for-high-quality-video-compression-on-youtube/"><u>Optimal Techniques for High-Quality Video Compression on YouTube</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/schritt-fur-schritt-anleitung-zum-wiederinstallieren-von-backups-von-windows-7-auf-eine-neue-ssd/"><u>Schritt-Für-Schritt-Anleitung Zum Wiederinstallieren Von Backups Von Windows 지원 7 Auf Eine Neue SSD</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-3-emerging-technology-trends-you-cant-ignore/"><u>Top 3 Emerging Technology Trends You Can't Ignore</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-strategies-to-enhance-pc-performance-swiftly/"><u>Top 7 Strategies to Enhance PC Performance Swiftly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-mastering-the-art-of-video-playback-reversal-on-snapchat/"><u>Ultimate Guide: Mastering the Art of Video Playback Reversal on Snapchat</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-solving-the-no-matches-found-issue-in-bumble/"><u>Ultimate Guide: Solving the 'No Matches Found' Issue in Bumble</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-toon-up-a-beginners-guide-to-converting-digital-videos-into-cartoons/"><u>Updated 2024 Approved Toon Up! A Beginners Guide to Converting Digital Videos Into Cartoons</u></a></li>
 </ul></div>
 

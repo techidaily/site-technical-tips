@@ -1,7 +1,7 @@
 ---
 title: Why Many Are Regretting the Switch to iPhone on iOS 18 - Insights and Discussions | ZDNet
-date: 2024-10-02T20:07:09.486Z
-updated: 2024-10-07T17:47:39.089Z
+date: 2024-10-11T16:07:10.189Z
+updated: 2024-10-13T16:02:11.123Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,16 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -135,22 +129,18 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-fade-to-black-in-premiere-pro/"><u>[New] Fade To Black In Premiere Pro</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-streamlining-social-interaction-via-multi-view-broadcasting-in-facebook/"><u>[Updated] In 2024, Streamlining Social Interaction via Multi-View Broadcasting in Facebook</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-unlock-the-power-of-live-broadcasting-with-tiktok-from-pc-for-2024/"><u>[Updated] Unlock the Power of Live Broadcasting with TikTok From PC for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-reveling-in-creativity-the-best-of-filmoras-edits/"><u>2024 Approved Reveling in Creativity The Best of Filmora's Edits</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-12-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi 12 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-a60s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel A60s to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-infinix-smart-8-hd-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ntly-boost-youtube-performance-master-render-and-upload-for-2024/"><u>Instantly Boost YouTube Performance - Master Render and Upload for 2024</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-in-2024-the-essential-guide-to-emoji-memoji-animoji-and-bitmoji/"><u>New In 2024, The Essential Guide to Emoji, Memoji, Animoji, and Bitmoji</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-converting-mobi-format-for-your-kindle-or-kindle-fire-device/"><u>Step-by-Step Guide: Converting Mobi Format for Your Kindle or Kindle Fire Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-removing-epubor-from-your-mac/"><u>Step-by-Step Guide: Removing Epubor From Your Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-sharing-your-nook-ebooks-with-pals/"><u>Step-by-Step Guide: Sharing Your Nook Ebooks With Pals</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-check-out-e-books-from-the-library-onto-your-kindle-device/"><u>Step-by-Step Instructions: Check Out E-Books From the Library Onto Your Kindle Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-how-to-uninstall-or-remove-digital-books-via-google-play-platform/"><u>Step-by-Step Instructions: How to Uninstall or Remove Digital Books via Google Play Platform</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/strategies-for-resolving-stubborn-digital-rights-management-delays/"><u>Strategies for Resolving Stubborn Digital Rights Management Delays</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-4-amazing-book-readers-on-a-mac/"><u>The Ultimate Guide to 4 Amazing Book Readers on a Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-best-loading-mechanisms-beyond-the-30-06-springfield/"><u>Top 5 Best Loading Mechanisms Beyond the .30-06 Springfield</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-tier-mac-recorder-feature-visuals-and-voices-for-2024/"><u>[New] Top-Tier Mac Recorder Feature Visuals & Voices for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-pro-editor-picks-craft-the-perfect-instagram-reel-masterpiece/"><u>[Updated] In 2024, Pro Editor Picks - Craft the Perfect Instagram Reel Masterpiece</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-7-cameras-to-document-your-fresh-powder-runs/"><u>[Updated] In 2024, Top 7 Cameras to Document Your Fresh Powder Runs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-perfecting-text-in-after-effects-the-best-10-for-2024/"><u>[Updated] Perfecting Text in After Effects The Best 10 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/4-minimalist-devices-compact-windows-edition/"><u>4 Minimalist Devices: Compact Windows Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-xiaomi-redmi-13c-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Xiaomi Redmi 13C via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/has-fb-shared-my-personal-details-unintentionally/"><u>Has FB Shared My Personal Details Unintentionally?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-modifying-directory-view-modes-a-closer-look-at-main-and-subfolders/"><u>Mastering the Art of Modifying Directory View Modes: A Closer Look at Main and Subfolders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/nintendo-switch-photography-101-capturing-editing-and-sharing-gameplay-scenes/"><u>Nintendo Switch Photography 101: Capturing, Editing and Sharing Gameplay Scenes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sorting-the-skies-of-berk-watch-how-to-train-your-dragon-movies-in-proper-order/"><u>Sorting the Skies of Berk: Watch How to Train Your Dragon Movies in Proper Order!</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-6-best-reasons-for-dialing-down-online-engagement/"><u>The 6 Best Reasons for Dialing Down Online Engagement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-6-best-off-line-translation-applications-you-cant-miss/"><u>Top 6 Best Off-Line Translation Applications You Can't Miss</u></a></li>
 </ul></div>
 

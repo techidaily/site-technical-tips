@@ -1,7 +1,7 @@
 ---
 title: Is the New iPhone 16 Worth It? Expert Advice on Why to Embrace or Avoid the Upgrade Analysis
-date: 2024-10-03T18:46:40.816Z
-updated: 2024-10-07T17:27:32.364Z
+date: 2024-10-10T16:05:42.471Z
+updated: 2024-10-13T16:13:05.663Z
 tags:
   - apple
 categories:
@@ -46,13 +46,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Trade-in deals and carrier offers
 
 I told you we're really all just like you. Some ZDNET tech experts are ready to jump to the new iPhone 16 thanks to great carrier and trade-in offers on the models and are even more enthusiastic if they're ready for an upgrade. 
@@ -64,13 +57,6 @@ ZDNET contributor Ed Bott is planning to upgrade his iPhone 12 Pro Max for a new
 And if you're looking to change carriers, like managing editor Alison DeNisco Rayome, some of the trade-in offers make it hard to resist. "I still have the 13, and the trade-in deals are making it worth it for me to upgrade to the 16 (plus we want to switch carriers, so even better)," she says. 
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. For work
 
@@ -95,10 +81,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
@@ -106,10 +98,16 @@ ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
@@ -122,6 +120,13 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -129,6 +134,13 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
 
@@ -176,20 +188,18 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-humorhub-generate-hilarious-jokes-and-gifs-easily/"><u>[New] In 2024, HumorHub Generate Hilarious Jokes and GIFs Easily</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-from-zip-to-sub-transforming-compressed-texts-to-srt-format/"><u>[Updated] In 2024, From Zip to Sub Transforming Compressed Texts to SRT Format</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-most-popular-shows-on-discovery-plus-for-july-2024/"><u>Discover the Most Popular Shows on Discovery Plus for July 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elevate-your-spirit-with-these-top-11-cinematic-masterpieces-of-inspiration/"><u>Elevate Your Spirit with These Top 11 Cinematic Masterpieces of Inspiration</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-easily-fix-a-non-ejectable-disc-drive-dvd-bd-and-cd-edition/"><u>How to Easily Fix a Non-Ejectable Disc Drive: DVD, BD & CD Edition</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-tecno-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Tecno .</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-simplifying-your-snapchat-experience-3-essential-steps/"><u>In 2024, Simplifying Your Snapchat Experience - 3 Essential Steps</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h265-hevc-video-on-redmi-k70e-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Redmi K70E</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-file-recovery-an-in-depth-analysis-of-recuvas-leading-undelete-solution/"><u>Mastering File Recovery: An In-Depth Analysis of Recuva's Leading Undelete Solution</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-definitive-guide-to-repairing-missing-or-lost-steamdll-files/"><u>The Definitive Guide to Repairing Missing or Lost Steam.dll Files</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-10-fast-and-easy-x-hacks-for-newbies/"><u>Top 10 Fast and Easy X Hacks for Newbies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-picks-the-best-childrens-films-to-watch-on-disneyplus-this-july/"><u>Top Picks: The Best Children's Films to Watch on Disney+ This July</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722846141296-what-exactly-is-a-dts-play-fi-system-explained/"><u>What Exactly Is a DTS Play-Fi System? Explained</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-best-android-photo-editor-is-pickup-top-in-2024/"><u>[New] Best Android Photo Editor Is PickUp Top, In 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-handbook-to-producing-viral-facebook-reels/"><u>[Updated] The Ultimate Handbook to Producing Viral Facebook Reels</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avoid-total-loss-learn-how-to-safeguard-your-information-with-these-5-reliable-backup-solutions/"><u>Avoid Total Loss: Learn How to Safeguard Your Information with These 5 Reliable Backup Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-jpg-to-gif-tools-online-free-and-easy-for-2024/"><u>Best JPG to GIF Tools Online, Free and Easy for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-solutions-for-unresponsive-optical-drives-how-to-get-them-opening-again/"><u>DIY Solutions for Unresponsive Optical Drives - How to Get Them Opening Again</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-iphone-remote-control-app-problems-a-comprehensive-solution/"><u>Easy Fixes for iPhone Remote Control App Problems - A Comprehensive Solution</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-review-on-nest-audio-elevating-your-listening-experience-with-a-cleverly-designed-speaker/"><u>Expert Review on Nest Audio: Elevating Your Listening Experience with a Cleverly Designed Speaker</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-potential-creating-your-youtube-identity/"><u>In 2024, Unlocking Potential Creating Your YouTube Identity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-a-non-responsive-google-chrome-immediate-reload-options/"><u>Resolving a Non-Responsive Google Chrome: Immediate Reload Options</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/retrieve-erased-phone-contacts-efficiently-techniques-for-android-users/"><u>Retrieve Erased Phone Contacts Efficiently: Techniques for Android Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-dilemma-steps-to-recover-lost-ipad-passwords-and-lock-codes/"><u>Solving the Dilemma: Steps to Recover Lost iPad Passwords & Lock Codes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/starting-out-right-key-actions-for-optimizing-your-brand-new-computer/"><u>Starting Out Right: Key Actions for Optimizing Your Brand-New Computer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723067510664-top-rated-rotibox-heated-hat-and-bluetooth-earpiece-combo-for-ultimate-convenience/"><u>Top Rated Rotibox Heated Hat and Bluetooth Earpiece Combo for Ultimate Convenience</u></a></li>
 </ul></div>
 

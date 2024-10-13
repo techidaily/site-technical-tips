@@ -1,7 +1,7 @@
 ---
 title: Quick and Easy Ways to Take Perfect Screenshots on a Personal Computer
-date: 2024-10-02T16:09:20.150Z
-updated: 2024-10-07T22:29:47.531Z
+date: 2024-10-06T16:07:17.542Z
+updated: 2024-10-13T16:09:15.087Z
 categories:
   - BestProducts
 description: This Article Describes Quick and Easy Ways to Take Perfect Screenshots on a Personal Computer
@@ -27,10 +27,10 @@ Close
  This article explains how to take screenshots on a Windows PC. Instructions apply to Windows 7 and later.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Take a Screenshot
@@ -40,19 +40,6 @@ Close
 * **PrtScn:** Press the button once to save a screenshot of the entire screen. If you have multiple monitors connected, a single press of the print screen button will save a screenshot of all the screens in one single image.
 * **Alt** +**PrtScn:** Press these buttons at the same time to take a screenshot of a single window that you're focused on. Select the window once to make sure it's in focus, and then press these keys.
 * **Win** +**PrtScn:** Using the Windows key with the print screen button (in Windows 8 and newer) will take a screenshot of the whole screen and then save it in the default Pictures folder in a subfolder called Screenshots (e.g.**C:\\Users\\\[user\]\\Pictures\\Screenshots** ).
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Paste or Save a Screenshot
 
@@ -65,30 +52,30 @@ Close
 ![Opening Microsoft Paint](https://www.lifewire.com/thmb/fYsJ6UVx8AAQfRLYJZOpRg0WNKY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mspaint-566c41d2e9cc4a3f942e2bd6e41de3c6.jpg)
 3. With Microsoft Paint open, and the screenshot still saved in the clipboard, use**Ctrl** +**V** to paste it into Paint, or select**Paste** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Screenshot of Paste button in Paint](https://www.lifewire.com/thmb/eY_JnmlU4nZDW3O3M9fb-WXW-rg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mspaintpaste-055a89525bb94cf8923a30a3e044df3f.jpg)
 4. Press**Ctrl** +**S** , or select **File** \>**Save as** to save the screenshot.  
 !["Save as" selection in Paint](https://www.lifewire.com/thmb/jsFWbGEcpxz02bT2lKrhU9QKdlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mssaveas-3117783b3b4044e2a4e2861e24ac4b27.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  At this point, you may notice that the image you saved looks a bit off. If the image doesn't take up the_entire_  canvas in Paint, it will leave white space around it. To fix this, drag the bottom right corner of the canvas toward the top left of the screen until you reach the corners of your screenshot.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Take a Screenshot on PC With the Windows Snipping Tool
@@ -100,6 +87,13 @@ Close
 * In Windows 7, select the**Start** button, type**snipping tool** in the search box, and select the**Snipping Tool** from the list of results.
 
 ![Screenshot of Snipping Tool](https://www.lifewire.com/thmb/gvaURFm7e70fhDRPUiHnJfiWs-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Capture-dda252c0f1e74031bd28f4705d461c47.JPG) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [ How to Use Snip and Sketch ](https://www.lifewire.com/snip-and-sketch-windows-10-4774799) 
 
@@ -147,22 +141,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-thorough-assessment-samsungs-hololens-like-spinning-lens/"><u>[New] In 2024, Thorough Assessment Samsung's Hololens-Like Spinning Lens</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-tools-and-tricks-creating-compelling-youtube-video-ads/"><u>[Updated] In 2024, Free Tools and Tricks Creating Compelling YouTube Video Ads</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-screensavers-supreme-mastering-the-art-of-twitvid-archiving/"><u>[Updated] In 2024, ScreenSavers Supreme Mastering the Art of TwitVid Archiving</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-dive-into-youtubes-best-practices-for-playlist-design/"><u>2024 Approved Dive Into Youtube's Best Practices for Playlist Design</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonizing-images-essential-tutorials-for-color-mastery/"><u>2024 Approved Harmonizing Images Essential Tutorials for Color Mastery</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-free-streaming-options-as-great-replacements-for-netflix-top-10-picks/"><u>Best Free Streaming Options as Great Replacements for Netflix – Top 10 Picks!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/convert-wmv-files-from-rm-format-at-no-cost-with-these-top-5-high-quality-preservation-techniques/"><u>Convert .WMV Files From RM Format at No Cost with These Top 5 High-Quality Preservation Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/future-proof-energy-backups-elite-ups-selections-for-the-upcoming-year/"><u>Future-Proof Energy Backups: Elite UPS Selections for the Upcoming Year</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-sas-driver-installations-for-windows-operating-systems-windows-1087/"><u>Latest SAS Driver Installations for Windows Operating Systems (Windows 10/8/7)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-measuring-with-your-android-a-comprehensive-guide/"><u>Mastering Measuring with Your Android: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-online-securely-an-introduction-to-googles-gemini-browser/"><u>Navigating Online Securely: An Introduction to Google's Gemini Browser</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-correcting-the-msvcp80dll-file-not-found-problem/"><u>Step-by-Step Solutions: Correcting the msvcp80.dll File Not Found Problem</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-apple-watch-apps-to-enhance-your-slumber/"><u>Top 5 Apple Watch Apps to Enhance Your Slumber</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/touchscreen-macbook-teaser-prospective-cost-analysis-and-launch-window-details-shared/"><u>Touchscreen MacBook Teaser: Prospective Cost Analysis and Launch Window Details Shared</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ate-screen-companionship-the-right-cms-guidebook/"><u>Ultimate Screen Companionship The Right CMS Guidebook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-visual-performance-tips-for-setting-up-a-samsung-uhd-tv/"><u>Ultimate Visual Performance Tips for Setting Up a Samsung UHD TV</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-essential-vr-adventures-on-oculus-devices/"><u>[New] 2024 Approved Essential VR Adventures on Oculus Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-proven-techniques-for-capturing-dynamic-and-engaging-ppts/"><u>[Updated] 2024 Approved Proven Techniques for Capturing Dynamic and Engaging PPTs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-which-video-sharing-giant-suits-your-content-best-igtv-or-youtube-analysis/"><u>[Updated] Which Video-Sharing Giant Suits Your Content Best? - IGTV or YouTube Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/9-crucial-aspects-you-shouldnt-overlook-before-investing-in-a-dash-cam/"><u>9 Crucial Aspects You Shouldn't Overlook Before Investing in a Dash Cam</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/binge-watch-your-favorite-movies-via-fandango-on-the-comfort-of-your-apple-tv/"><u>Binge-Watch Your Favorite Movies via Fandango on the Comfort of Your Apple TV</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-down-the-barriers-to-knowing-your-fans-for-2024/"><u>Breaking Down the Barriers to Knowing Your Fans for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-free-sites-to-stream-sports-events-live-2024-edition/"><u>Discover the Best Free Sites to Stream Sports Events Live - 2024 Edition</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-infinix-note-30-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Infinix Note 30 Pro Phone | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-clean-up-icloud-with-no-loss-of-iphone-images/"><u>How to Clean Up iCloud with No Loss of iPhone Images</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-get-the-voice-chat-function-back-on-in-discord-solutions-here/"><u>How To Get The Voice Chat Function Back On In Discord - Solutions Here</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-sites-to-discover-3d-golden-tinted-typography-for-2024/"><u>Ideal Sites to Discover 3D Golden Tinted Typography for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-samsung-galaxy-a05s-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Samsung Galaxy A05s to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-analysis-western-digital-data-lifeguard-a-comprehensive-software-tool-evaluation/"><u>In-Depth Analysis: Western Digital Data Lifeguard - A Comprehensive Software Tool Evaluation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mac-users-ultimate-tutorial-opening-and-extracting-rar-files/"><u>Mac User's Ultimate Tutorial: Opening and Extracting RAR Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-social-maze-strategies-to-identify-and-reject-phony-connection-pleas/"><u>Navigating the Social Maze: Strategies to Identify and Reject Phony Connection Pleas</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-game-performance-addressing-modern-warfare-stutters-and-freezes-on-desktop-systems/"><u>Optimizing Game Performance: Addressing 'Modern Warfare' Stutters and Freezes on Desktop Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-windows-ts-0x80073712-error-with-these-effective-solutions-guide/"><u>Resolve Your Windows T's 0X80073712 Error with These Effective Solutions [GUIDE]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-fixes-for-smooth-gameplay-no-more-stuttering-in-minecraft-on-your-computer-2023-insights/"><u>The Ultimate Fixes for Smooth Gameplay: No More Stuttering in Minecraft on Your Computer (2023 Insights)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-personalized-internet-use-how-to-permit-cookies-on-any-web-browser/"><u>Unlocking Personalized Internet Use: How to Permit Cookies on Any Web Browser</u></a></li>
 </ul></div>
 

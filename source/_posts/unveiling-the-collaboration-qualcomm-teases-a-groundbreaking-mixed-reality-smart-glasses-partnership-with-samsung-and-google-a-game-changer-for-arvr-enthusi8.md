@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Collaboration: Qualcomm Teases a Groundbreaking Mixed Reality Smart Glasses Partnership with Samsung & Google – A Game-Changer for AR/VR Enthusiasts"
-date: 2024-09-13T19:07:57.406Z
-updated: 2024-09-20T21:20:57.138Z
+date: 2024-10-09T16:05:25.252Z
+updated: 2024-10-13T16:04:51.255Z
 tags:
   - ar+vr
 categories:
@@ -67,18 +67,23 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-pro-tips-effortless-capture-of-hulu-videos-across-windowsmaciphone-for-2024/"><u>[New] Pro Tips Effortless Capture of Hulu Videos Across Windows/Mac/iPhone for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-macos-11-big-sur-system-and-hardware-requirements/"><u>[Updated] 2024 Approved MacOS 11 Big Sur System and Hardware Requirements</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-screen-saves-on-iphone-7/"><u>[Updated] 2024 Approved Mastering Screen Saves on iPhone 7</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-expert-hashtag-analyzers-for-social-media-giants-fbtweetig/"><u>2024 Approved Expert Hashtag Analyzers for Social Media Giants (FB/Tweet/IG)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-12-free-touch-typing-tutorials-ideal-for-all-generations-online/"><u>Best 12 Free Touch-Typing Tutorials Ideal for All Generations Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-discovering-contact-details-on-the-web/"><u>Step-by-Step Guide: Discovering Contact Details on the Web</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-fixing-the-notorious-504-gateway-timeout-error-quickly/"><u>Step-by-Step Solutions for Fixing the Notorious 504 Gateway Timeout Error Quickly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722903095862-upcoming-apple-home-assistant-anticipated-cost-and-launch-timeline-revealed/"><u>Upcoming Apple Home Assistant: Anticipated Cost & Launch Timeline Revealed</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-best-of-both-worlds-top-android-video-editor-apps-for-chromebook-users/"><u>Updated 2024 Approved Best of Both Worlds Top Android Video Editor Apps for Chromebook Users</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: How VR, AR, and XR Are Gaining Traction According to New Studies by MIT Experts | ZDNet
-date: 2024-09-14T22:29:35.878Z
-updated: 2024-09-21T00:42:37.386Z
+date: 2024-10-12T16:00:36.217Z
+updated: 2024-10-13T16:02:46.558Z
 tags:
   - ar+vr
 categories:
@@ -71,18 +71,31 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-adobes-jestful-journey-to-meme-making/"><u>[New] Adobe's Jestful Journey to Meme-Making</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-twitch-time-reversal-17-methods-to-master-your-live-stream/"><u>[New] Twitch Time Reversal 17 Methods to Master Your Live Stream</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bypass-mac-development-verification-failures-clear-instructions-for-users/"><u>Bypass Mac Development Verification Failures: Clear Instructions for Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-repairing-the-coredll-not-present-issue/"><u>Comprehensive Guide to Repairing the 'core.dll' Not Present Issue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehvew-to-deploying-chatgpt-for-windows-users/"><u>Comprehvew to Deploying ChatGPT for Windows Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-endless-entertainment-free-childrens-films-on-our-favorite-five-sites/"><u>Enjoy Endless Entertainment: Free Children’s Films on Our Favorite Five Sites</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-overcome-the-502-server-gateway-interface-challenge-and-get-back-online/"><u>How to Overcome the '502 Server Gateway Interface' Challenge and Get Back Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-your-chromebooks-freeze-issues-with-8-simple-steps/"><u>How to Resolve Your Chromebook's Freeze Issues with 8 Simple Steps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-capture-flawless-underwater-images-easily-in-7-steps/"><u>In 2024, Capture Flawless Underwater Images Easily in 7 Steps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-syncing-platforms-for-video-upload/"><u>In 2024, Syncing Platforms for Video Upload</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-and-green-gaming-memory-on-test-a-thorough-analysis-of-the-t-force-vulcan-by-teamgroup-c30-2x16gb/"><u>Innovative and Green Gaming Memory on Test - A Thorough Analysis of the T-Force Vulcan by TeamGroup (C30, 2X16GB)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-dying-lights-first-person-coop-survival-challenge-with-skillful-parkour-techniques/"><u>Mastering Dying Light's First-Person Coop Survival Challenge with Skillful Parkour Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-effortless-cleaning-techniques-for-your-flat-screen-television/"><u>Step-by-Step Guide: Effortless Cleaning Techniques for Your Flat Screen Television</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-non-functioning-xbox-series-x-and-s-headset-problems/"><u>Step-by-Step Solutions for Non-Functioning Xbox Series X & S Headset Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-for-bulk-deletion-of-connections-in-snapchat/"><u>The Ultimate Trick for Bulk Deletion of Connections in Snapchat</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-complimentary-iphone-music-applications-your-ultimate-guide/"><u>Top 8 Complimentary iPhone Music Applications: Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiled-at-google-io-202n-top-7-mind-blowing-features-of-the-latest-bard-ai/"><u>Unveiled at Google I/O 202N: Top 7 Mind-Blowing Features of the Latest Bard AI</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

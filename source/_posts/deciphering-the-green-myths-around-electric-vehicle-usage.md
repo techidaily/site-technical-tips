@@ -1,7 +1,7 @@
 ---
 title: Deciphering the Green Myths Around Electric Vehicle Usage
-date: 2024-10-01T22:50:35.353Z
-updated: 2024-10-07T17:46:14.110Z
+date: 2024-10-08T16:13:35.518Z
+updated: 2024-10-13T16:09:01.450Z
 categories:
   - BestProducts
 description: This Article Describes Deciphering the Green Myths Around Electric Vehicle Usage
@@ -24,6 +24,13 @@ thumbnail: https://www.lifewire.com/thmb/vcmXbHunp9JwyRSTiPWFvmsHQ2Y=/400x300/fi
 
  In the U.S., the Environmental Protection Agency says that transportation related to the burning of fossil fuels accounts for 29 percent of the country’s greenhouse gas emissions. Worldwide, transportation is responsible for a quarter of carbon dioxide emissions, while a few cities even estimate that it’s the cause of more than half of their emissions problem. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Yes, Even Some EVs Can Generate Emissions
 
  Of course, there’s no such thing as a free lunch or, in this case, a free ride. Just because electric vehicles don’t have tailpipes doesn’t mean they are perfectly clean. In fact, electric vehicles actually generate more emissions during their construction than gasoline-powered cars due to the use of materials that must be mined and other manufacturing issues.
@@ -35,10 +42,16 @@ thumbnail: https://www.lifewire.com/thmb/vcmXbHunp9JwyRSTiPWFvmsHQ2Y=/400x300/fi
  Hybrid EVs, of course, can contribute plenty of emissions since most hybrids use some sort of fossil-fuel and electric combination for power, despite the fact those emissions can ultimately be less than those of gasoline powered cars. Still, even when those issues are factored in, EVs that run strictly on battery power seem to come out on top from a green perspective.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Green Is an EV in General?
@@ -68,10 +81,10 @@ Bailey Mariner
  Given the fact that the average gasoline-powered vehicle generates those 6 tons of emissions on average annually, that still gives both EVs the edge when it comes to saving the planet.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Some People Say Electric Vehicles are a Green Dream
@@ -83,13 +96,6 @@ Bailey Mariner
  It’s true that electric vehicles use some very special materials in their construction. Rare earth metals are required to build batteries, electric motors, and the electronics to control it all. Extracting cobalt, lithium, and neodymium is responsible for soil and water pollution. The miners of those materials, which sometimes include children, often go without basic protections. 
 
  On the flip side, new processes and technology are in constant development, reducing the materials required or using them more efficiently. Responsible company policies are reducing the impact on man and planet day by day.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Electric Vehicles are Hard to Recycle
 
@@ -110,10 +116,10 @@ Bailey Mariner
 [  The Electric Grid Is Actually Cleaner Than You Think ](https://www.lifewire.com/the-electric-grid-is-actually-cleaner-than-you-think-5202010) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Can Electric Vehicles Save the Planet?
@@ -145,24 +151,18 @@ Bailey Mariner
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-final-cut-pro-x-a-guide-to-instagrams-vertical-preference-for-2024/"><u>[New] Final Cut Pro X A Guide to Instagram’s Vertical Preference for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-free-cam-screen-recorder-review-and-best-alternatives/"><u>[New] In 2024, Free Cam Screen Recorder Review and Best Alternatives</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-long-winded-to-concise-the-art-of-youtube-trimming/"><u>[New] In 2024, From Long-Winded to Concise The Art of YouTube Trimming</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-profiles-profits-and-partnerships-joining-a-youtube-mcn/"><u>[Updated] In 2024, Profiles, Profits & Partnerships Joining a YouTube MCN</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-premium-sound-to-text-converters-for-2024/"><u>[Updated] Premium Sound to Text Converters for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unleashing-fun-kinemaster-reviewed-for-android-devices/"><u>[Updated] Unleashing Fun KineMaster Reviewed for Android Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/addressing-dll-dilemmas-how-to-correctly-deal-with-x3daudio-file-loss/"><u>Addressing DLL Dilemmas: How to Correctly Deal with X3DAudio File Loss</u></a></li>
-<li><a href="https://games-able.techidaily.com/confronting-the-hype-around-high-game-refresh-rates/"><u>Confronting the Hype Around High Game Refresh Rates</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/crossing-platform-barriers-execute-android-apps-using-windows-11-features/"><u>Crossing Platform Barriers: Execute Android Apps Using Windows 11 Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/delving-deep-into-every-facet-of-netflix-online-entertainment-service/"><u>Delving Deep Into Every Facet of Netflix Online Entertainment Service</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-error-code-0x00000078-in-windows-easy-troubleshooting-steps/"><u>Fixing Error Code 0X00000078 in Windows - Easy Troubleshooting Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-control-and-adjust-network-discovery-options-in-the-latest-version-of-windows/"><u>Guide to Control and Adjust Network Discovery Options in the Latest Version of Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-a-blu-ray-player-essential-in-the-age-of-streaming/"><u>Is a Blu-Ray Player Essential in the Age of Streaming?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/legal-docs-download-and-install-windows-x64-edition-with-a-licensing-contract-from-digiarty/"><u>Legal Docs: Download and Install Windows X64 Edition with a Licensing Contract From Digiarty</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-the-challenge-effective-solutions-for-stop-0x0000007b-crashes-in-windows/"><u>Overcoming the Challenge: Effective Solutions for Stop 0X0000007B Crashes in Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/qled-vs-oled-tvs-understanding-the-key-distinctions/"><u>QLED Vs. OLED TVs: Understanding the Key Distinctions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-8-gmail-substitutes-you-should-try/"><u>Top 8 Gmail Substitutes You Should Try</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-espnplus-a-complete-guide-to-the-digital-sports-platform/"><u>Understanding ESPN+: A Complete Guide to the Digital Sports Platform</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/user-friendly-instructions-to-adjust-and-improve-your-standard-sata-ahci-controllers-software/"><u>User-Friendly Instructions to Adjust and Improve Your Standard SATA AHCI Controller's Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-dealing-with-copyright-infringement-notices-on-youtube/"><u>[New] 2024 Approved Dealing with Copyright Infringement Notices on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-innovative-recording-solutions-for-igadgets/"><u>[Updated] Innovative Recording Solutions for iGadgets</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-c50-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco C50 To Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-premium-virtual-meetup-software-titles/"><u>In 2024, Premium Virtual Meetup Software Titles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/machine-brains-evolve-from-weak-to-formidable/"><u>Machine Brains Evolve: From Weak to Formidable</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/realme-gt-2022-insights-on-upcoming-release-date-price-estimates-and-detailed-features/"><u>Realme GT 2022 - Insights on Upcoming Release Date, Price Estimates & Detailed Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/smartwatch-shopping-here-are-the-most-important-things-to-think-about-first/"><u>Smartwatch Shopping? Here Are the Most Important Things To Think About First!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/sound-engineering-tips-to-elevate-your-video-content-for-2024/"><u>Sound Engineering Tips to Elevate Your Video Content for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stay-updated-with-microsoft-latest-windows-service-packs-and-updates-in-july-2024/"><u>Stay Updated with Microsoft - Latest Windows Service Packs & Updates in July 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-essential-checklist-pre-purchase-guide-for-your-new-wearable-fitness-device/"><u>The Essential Checklist: Pre-Purchase Guide For Your New Wearable Fitness Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-activating-built-in-fm-chips-on-iphones-and-android-phones/"><u>The Ultimate Guide to Activating Built-In FM Chips on iPhones and Android Phones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-access-issues-when-enumerating-objects-in-windows-10-a-step-by-step-fix/"><u>Troubleshooting Access Issues When Enumerating Objects in Windows 10 - A Step-by-Step Fix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-ar-vr-mr-and-xr-distinguishing-between-these-immersive-technologies/"><u>Understanding AR, VR, MR & XR: Distinguishing Between These Immersive Technologies</u></a></li>
 </ul></div>
 

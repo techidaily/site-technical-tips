@@ -1,7 +1,7 @@
 ---
 title: New Vision Pro Controller Inspired by Apple Pencil? Insights From Recent Patent Filing - ZDNet
-date: 2024-09-17T18:31:27.305Z
-updated: 2024-09-21T02:49:17.368Z
+date: 2024-10-07T16:00:04.113Z
+updated: 2024-10-13T16:00:53.851Z
 tags:
   - ar+vr
 categories:
@@ -71,12 +71,26 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-dusk-to-dawn-iphone-night-photography-essentials-for-2024/"><u>[New] Dusk to Dawn IPhone Night Photography Essentials for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/xclusive-access-sharing-restricted-youtube-content-with-emailid/"><u>[New] Exclusive Access Sharing Restricted YouTube Content with EmailID</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-youtube-tech-basics-essential-equipment-guide/"><u>[New] In 2024, YouTube Tech Basics Essential Equipment Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-expert-iphone-tips-change-image-dimensions-proficiently/"><u>[Updated] 2024 Approved Expert iPhone Tips Change Image Dimensions Proficiently</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-latest-innovations-from-apples-iphone-16-launch-introducing-glowtime-ai-features-and-new-apple-watch-series-10-all-covered/"><u>Discover the Latest Innovations From Apple’s iPhone 16 Launch: Introducing ‘Glowtime,’ AI Features, and New Apple Watch Series 10 - All Covered</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-call-clarity-tips-for-boosting-iphone-audio-output/"><u>Enhance Call Clarity: Tips for Boosting iPhone Audio Output</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-youtube-subscriber-boost4-simplest-tricks-to-grow-your-channel/"><u>In 2024, YouTube Subscriber Boost–4 Simplest Tricks to Grow Your Channel</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-10-free-video-stabilization-tools-to-smooth-out-your-footage/"><u>New Top 10 Free Video Stabilization Tools to Smooth Out Your Footage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-troubleshooting-the-livekernelevent-117-mistake/"><u>Step-by-Step Guide: Troubleshooting the LiveKernelEvent 117 Mistake</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-apples-labeling-of-devices-as-vintage-or-obsolete-implications-and-explanations/"><u>Understanding Apple's Labeling of Devices as Vintage or Obsolete: Implications & Explanations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-exclusive-innovative-ar-spectacles-and-budget-friendly-eyewear-projects-underway-by-apple-inc/"><u>ZDNet Exclusive: Innovative AR Spectacles & Budget-Friendly Eyewear Projects Underway by Apple Inc.</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

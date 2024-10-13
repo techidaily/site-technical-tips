@@ -1,7 +1,7 @@
 ---
 title: "IMessage Communication Guide: Sending & Receiving From Windows PCs - Tips & Tricks"
-date: 2024-09-30T16:33:22.769Z
-updated: 2024-10-07T17:15:45.787Z
+date: 2024-10-09T16:11:10.333Z
+updated: 2024-10-13T16:04:39.632Z
 tags:
   - apple
 categories:
@@ -45,10 +45,16 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 ## How to send and receive iMessages on Windows
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Microsoft Phone Link
@@ -85,18 +91,18 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -113,10 +119,10 @@ Screenshot by Lance Whitney/ZDNET
 ## Use Intel Unison
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
@@ -128,10 +134,10 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
@@ -146,6 +152,13 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -157,13 +170,6 @@ Screenshot by Lance Whitney/ZDNET
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -207,16 +213,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-personalized-audio-endings-without-the-price-tag/"><u>[Updated] Personalized Audio Endings Without the Price Tag</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-comprehensible-guide-to-wincams-bests/"><u>[Updated] The Comprehensible Guide to WinCams' Bests</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/7-must-have-gratis-learning-apps-every-student-needs-before-school-starts/"><u>7 Must-Have Gratis Learning Apps Every Student Needs Before School Starts</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-graphics-output-dpi-adjustment-guide/"><u>Customizing Graphics Output: DPI Adjustment Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-honor-magic-6-pro-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Honor Magic 6 Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/identifying-inauthentic-friends-a-guide-to-detecting-phony-connection-requests/"><u>Identifying Inauthentic Friends: A Guide to Detecting Phony Connection Requests</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ios-18-arrives-d-day-insights-zero-charge-entry-functional-highlights-and-fresh-news/"><u>IOS 18 Arrives: D-Day Insights, Zero Charge Entry, Functional Highlights & Fresh News</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-steps-to-secure-your-verification-badge-on-instagram/"><u>The Ultimate Guide: Steps to Secure Your Verification Badge on Instagram</u></a></li>
-<li><a href="https://win-web3.techidaily.com/title-option-2/"><u>Title Option 2</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-cheat-sheet-exploring-different-ipados-releases/"><u>Ultimate Cheat Sheet: Exploring Different iPadOS Releases</u></a></li>
-<li><a href="https://win-hot.techidaily.com/ultimate-pc-safeguard-preventing-unwanted-access-with-pc-locker/"><u>Ultimate PC Safeguard: Preventing Unwanted Access with PC Locker</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-itel-p55t-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/breaking-down-stress-with-5-chatbot-tech-solutions/"><u>Breaking Down Stress with 5 Chatbot Tech Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mpe-mp4-movavi/"><u>MPE 파일을 MP4로 원형화: 영구제 공사 - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/online-free-converter-transform-aac-files-into-wma-format-with-ease-moveavi/"><u>Online Free Converter: Transform AAC Files Into WMA Format with Ease - Moveavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/online-tiff-bmp/"><u>Online 무료 구현: TIFF 및 BMP 이미지를 원활하게 바꾸기 - 모바비</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/professional-audio-techniques-in-audacity/"><u>Professional Audio Techniques in Audacity</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-resolution-for-windows-1er-update-failures-cracking-the-0x800705b4-error-code-in-windows-10/"><u>Step-by-Step Resolution for Windows 1Er Update Failures: Cracking the 0X800705B4 Error Code in Windows 10</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-transforming-your-windows-11-machine-into-an-easy-to-use-dlna-server/"><u>Step-by-Step Tutorial: Transforming Your Windows 11 Machine Into an Easy-to-Use DLNA Server</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/trasforma-i-tuoi-file-png-in-tiff-senza-costi-con-il-convertitore-online-di-movavi/"><u>Trasforma I Tuoi File PNG in TIFF Senza Costi Con Il Convertitore Online Di Movavi</u></a></li>
 </ul></div>
 

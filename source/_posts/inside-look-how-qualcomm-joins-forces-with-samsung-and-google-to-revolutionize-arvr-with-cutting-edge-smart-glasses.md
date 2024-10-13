@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: How Qualcomm Joins Forces With Samsung and Google to Revolutionize AR/VR with Cutting-Edge Smart Glasses"
-date: 2024-09-14T18:35:20.818Z
-updated: 2024-09-20T22:19:29.426Z
+date: 2024-10-07T16:01:20.896Z
+updated: 2024-10-13T16:00:20.423Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,26 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-5-pro-snipers-on-macos-for-2024/"><u>[New] Top 5 Pro Snipers on macOS for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-easy-laughter-the-art-of-creating-funny-memes/"><u>[Updated] 2024 Approved Easy Laughter The Art of Creating Funny Memes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-creating-a-softer-focus-iphone-image-blurring-explained-for-2024/"><u>[Updated] Creating a Softer Focus IPhone Image Blurring Explained for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-nubia-red-magic-9-proplus-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Nubia Red Magic 9 Pro+ to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-how-to-correctly-handle-openal32dll-not-detected-or-lost/"><u>Expert Tips: How to Correctly Handle 'openAL32.dll Not Detected or Lost'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-keeping-your-mac-awake-tips-and-tricks-for-no-more-hibernation/"><u>Guide: Keeping Your Mac Awake - Tips and Tricks for No More Hibernation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-full-potential-best-trio-for-zoom-conversion/"><u>In 2024, Unlock Full Potential Best Trio for Zoom Conversion</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-the-new-era-an-update-on-verizons-5g-services/"><u>Navigating Through the New Era: An Update on Verizon's 5G Services</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/quick-insights-into-simplified-ipad-and-iphone-recording/"><u>Quick Insights Into Simplified iPad & iPhone Recording</u></a></li>
+<li><a href="https://win-data.techidaily.com/seamless-guide-to-transferring-your-data-migrate-from-hdd-to-ssd-on-windows/"><u>Seamless Guide to Transferring Your Data: Migrate From HDD to SSD on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-fix-for-windows-error-0x80070570-not-found-message-troubleshooting/"><u>Step-by-Step Fix for Windows Error 0X80070570: Not Found Message Troubleshooting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-turning-on-and-resuming-use-of-your-snapchat-after-deactivation/"><u>The Ultimate Guide to Turning On and Resuming Use of Your Snapchat After Deactivation</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

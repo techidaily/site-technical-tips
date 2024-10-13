@@ -1,7 +1,7 @@
 ---
 title: Updating Your Apple Studio Display's Firmware - A Simple Guide | ZDNet
-date: 2024-09-30T19:16:36.303Z
-updated: 2024-10-07T19:24:47.970Z
+date: 2024-10-10T16:07:13.413Z
+updated: 2024-10-13T16:03:49.264Z
 tags:
   - apple
 categories:
@@ -37,13 +37,6 @@ That's why it was such a surprise to me, and many other unsuspecting Mac Mini bu
 
 Sure, the diminutive PC does come equipped with an HDMI port as well. But what about folks upgrading from an Intel-based Mac Mini who were already using two Thunderbolt displays? Or those, like me, who had wrongly assumed when placing an order for the new Mac Mini that it would support two displays? Unfortunately, Apple has never provided a solution, unless you want to upgrade to a much more expensive, M1 Pro- or M1 Max-powered system like the [Mac Studio](https://www.zdnet.com/article/apple-mac-studio-review/). So, it's up to us to find a way to make up for the M1 Mini's problematic downgrade. Apple might hope you'll drop hundreds, or thousands, more on an upgraded Mac to power your secondary Thunderbolt displays. I'll show you how to do it for less than $30\. 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to add a second Thunderbolt display to your M1 Mac Mini
 
 My personal Mac Mini with the required HDMI-to-Thunderbolt adapter (bottom left), its included USB-A-to-Micro-USB cable (top left), and the Thunderbolt 3 cable we'll be using to connect to our monitor (right).
@@ -56,6 +49,13 @@ Michael Gariffo/ZDNET
 * Two Thunderbolt-enabled displays
 * An HDMI-to-Thunderbolt adapter
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Estimated time:
 
 5 minutes 
@@ -63,13 +63,6 @@ Michael Gariffo/ZDNET
 ### Estimated cost:
 
 $30 (assuming you already have the Mac Mini and displays needed)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1: Acquire the specialized adapter
 
@@ -93,13 +86,6 @@ Michael Gariffo/ZDNET
 
 Once you have the adapter you need, the next step is to attach it to your Mac Mini system. First, insert the included HDMI cable into the HDMI port on the rear of your Mini. Then, insert the USB-A-to-Micro-USB cable into a free USB-A port on the back of your Mini and into the DC5V (or similarly named port) on your adapter. If you don't have a free USB-A port on your Mini, you can also plug the USB-A end of the 5VDC power cable into a powered hub or even a 5V plug-in power adapter. As long as it receives the required 5V of power to complete its conversion process, just about any source should work. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Step 3: Connect the adapter to your Thunderbolt monitor
 
 This is where the Thunderbolt input is located on my Samsung M7\. This will vary between monitor models.
@@ -111,6 +97,13 @@ Chances are if you've made it this far, you've already got two Thunderbolt displ
 [iVanky Thunderbolt 3 Cable 2.3ft $19.99 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB097T5CGXN%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd26ed57-6b61-4ed1-b09d-842c808d3d89%7Cdtp&dtb=1)
 
 Thunderbolt 4 cables will also work, but they're more expensive, and there's no additional benefit from using them in this situation. Once you've got your Thunderbolt cable, insert one end into the port on the adapter and the other end into the Thunderbolt input on your monitor. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 4: Select the correct source on your monitor
 
@@ -127,13 +120,20 @@ If you're interested in the specific 43-inch M7 display I use, it can be found b
 From here, you should be able to use the newly connected display like any other Thunderbolt monitor, with the only exception being that it won't receive any power from the Mac Mini.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there other ways to add additional displays to a Mac Mini?
 
@@ -189,24 +189,15 @@ Displays with Thunderbolt inputs are also made by Acer, Samsung, LG, Viewsonic, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-navigating-the-world-of-snapchat-for-professional-growth/"><u>[New] Navigating the World of Snapchat for Professional Growth</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-dissecting-sharex-opinions-and-picks/"><u>2024 Approved Dissecting ShareX Opinions & Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/d-link-default-access-codes-2024-list-of-common-passwords-and-patterns/"><u>D-Link Default Access Codes: 2024 List of Common Passwords and Patterns</u></a></li>
-<li><a href="https://fox-that.techidaily.com/elevating-your-smartphone-photography-despite-having-a-lower-megapixel-iphone-camera/"><u>Elevating Your Smartphone Photography Despite Having a Lower Megapixel iPhone Camera</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-gaming-groups-heroes-havens/"><u>Elite Gaming Groups: Heroes' Havens</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-insights-into-lg-channel-management/"><u>Essential Insights Into LG Channel Management</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-top-5-tools-and-platforms-every-successful-twitch-broadcaster-must-utilize/"><u>Essential Top 5 Tools and Platforms Every Successful Twitch Broadcaster Must Utilize</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-comedy-gold-twitters-hottest-jokes/"><u>In 2024, Comedy Gold Twitter's Hottest Jokes</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-personalized-melodies-made-easy-building-a-youtube-music-collection-on-webmobile/"><u>In 2024, Personalized Melodies Made Easy Building a YouTube Music Collection on Web/Mobile</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-lava-yuva-2-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Lava Yuva 2 Pro to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-unleash-gaming-potential-using-obs-recording-features/"><u>In 2024, Unleash Gaming Potential - Using OBS Recording Features</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/optimizing-twitter-video-shares-for-facebook-users-for-2024/"><u>Optimizing Twitter Video Shares for Facebook Users for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-issues-with-mozilla-thunderbird-failing-to-start/"><u>Resolving Issues with Mozilla Thunderbird Failing to Start</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-integrating-apples-airpods-into-your-hewlett-packard-pc/"><u>Step-by-Step Guide: Integrating Apple's AirPods Into Your Hewlett-Packard PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-linking-your-apple-homepod-to-your-television-setup/"><u>Step-by-Step Guide: Linking Your Apple HomePod to Your Television Setup</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-definition-and-significance-of-tag-in-digital-contexts/"><u>The Definition & Significance of Tag in Digital Contexts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-building-custom-filters-and-rules-for-your-gmail-account/"><u>The Ultimate Trick: Building Custom Filters and Rules for Your Gmail Account</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tips-for-securing-fandango-on-amazons-fire-tv-a-simple-guide/"><u>Top Tips for Securing Fandango on Amazon's Fire TV - A Simple Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-virtual-racing-masterclass-our-five-favorite-games/"><u>[New] In 2024, Virtual Racing Masterclass Our Five Favorite Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-fixing-full-screen-in-obs-journey/"><u>[Updated] In 2024, Fixing Full Screen in Obs Journey</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-peeling-back-layers-of-the-apple-m1-chip/"><u>[Updated] In 2024, Peeling Back Layers of the Apple M1 Chip</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieve-optimal-gameplay-advanced-strategies-to-resolve-warzone-stutter-and-boost-frame-rate/"><u>Achieve Optimal Gameplay: Advanced Strategies to Resolve Warzone Stutter & Boost Frame Rate</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-secret-of-checking-if-your-emails-have-been-seen-on-gmail/"><u>Discover the Secret of Checking if Your Emails Have Been Seen on Gmail</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-honor-play-40c-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Honor Play 40C</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-d3dx927dll-a-comprehensive-guide/"><u>Solving the Mystery of d3dx9_27.dll: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-essential-factors-when-shopping-for-pre-owned-notebooks/"><u>Top 5 Essential Factors When Shopping for Pre-Owned Notebooks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-video-chat-tools-on-windows-6-1-leaders-for-2024/"><u>Top Video Chat Tools on Windows #6-#1 Leaders for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-prospective-details-of-samsung-z-fold-4-release-schedule-pricing-info-and-specs-inside/"><u>Unveiling the Prospective Details of Samsung Z Fold 4 - Release Schedule, Pricing Info & Specs Inside</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Choosing the Best Waterproof Smartwatch of 2024 - Comprehensive Reviews and Comparisons | ZDNET
-date: 2024-09-30T21:21:40.991Z
-updated: 2024-10-07T22:51:44.177Z
+date: 2024-10-08T16:09:27.610Z
+updated: 2024-10-13T16:03:08.473Z
 tags:
   - apple
 categories:
@@ -47,6 +47,13 @@ Cons
 
 ## Apple Watch Ultra 2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best waterproof smartwatch overall
 
 The Apple Watch maintained the same form factor and basic design for eight years, but all of that changed in 2022 when Apple released the radical new [Apple Watch Ultra](https://www.zdnet.com/article/how-tough-is-the-apple-watch-ultra-i-stress-tested-it-for-9-months/), built and optimized for the outdoor adventurer. The Ultra 2 builds on the Ultra with a new processor, a much brighter display, twice the storage capacity, and the use of recycled titanium materials.
@@ -75,13 +82,6 @@ Cons
 * Less than two-day battery life
 
 ## Apple Watch Series 9
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best waterproof smartwatch for most iPhone users
 
@@ -143,13 +143,26 @@ Pros
 Cons 
 * Expensive
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Garmin Venu 3S
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best waterproof Garmin smartwatch for most people
@@ -209,13 +222,20 @@ Pros
 Cons 
 * Limited notification and app support
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Coros Apex 2 Pro
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best waterproof smartwatch for long battery life
@@ -265,10 +285,10 @@ Other data such as sleep tracking, HRV measurements, training load, and recovery
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best waterproof smartwatch?
@@ -306,10 +326,10 @@ However, finding the best waterproof smartwatch for you can be more complicated,
 | Suunto Race                    | A powerful watch that tracks your laps, surfing metrics, and has a long battery life. Your sleep and other health metrics are also captured with the AI coach providing guidance for optimal performance.                                                                                        |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Factors to consider when buying a smartwatch
@@ -322,10 +342,10 @@ Smartwatches serve as companions to our smartphones, and there are several thing
 * **Cellular connectivity:** While smartwatches serve as companions to our smartphones, some models support cellular connectivity. If you buy one of these then you will need a watch line with your carrier, but these are typically $10 per month. The Apple Watch Ultra 2 only comes with LTE support, but you are not required to enable cellular service. Cellular capability is great for those who want to leave their phones behind and still remain connected for communications, application usage, and safety.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How we test smartwatches
@@ -336,19 +356,6 @@ All of the smartwatches included in this list were chosen based on how they perf
 * **Application selection and performance**: One aspect that makes smartwatches different than standard watches is the support for applications. We load up the watch with apps and then test the performance and functionality of those applications. Apple excels in the area of third party application support with Google's Play Store improving each year. Garmin, Suunto, and others also are expanding the number and selection of apps available on watches.
 * **Workouts**: Smartwatch makers have embraced health and fitness so we take our smartwatch out for swimming in the pool or local lakes, running with GPS, rowing on the Hydrow, biking on trails, and walking with the family. GPS and heart rate data is tracked and then we evaluate the accuracy against proven GPS sports watches.
 * **Sleep and activity tracking:** Sleep tracking has improved with smartwatches over time and we evaluate them as compared to smart rings and other watches. Night time is also a good time to charge your smartwatch so you may choose not to use your watch to track sleep so your watch can serve faithfully all day and into the night.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can you use a Samsung or Google watch with an iPhone?
 
@@ -367,13 +374,6 @@ Garmin watches support quick-response text messaging via a connected Android sma
 While you can leave your iPhone at home while you run, go to the store, or stroll on the beach, you must have an iPhone turned on and connected to the internet at this other location. This is one reason why connecting to an iPhone and switching to an Android makes the Apple Watch useless with an Android phone.
 
 After initial setup, a cellular-enabled Samsung Galaxy Watch can act as a stand-alone mobile device. With the latest Galaxy Watch 6 or Watch 5 Pro running Wear OS powered by Samsung, many more apps can be used on the go, so you can leave the phone behind in most cases.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the hot new features in the latest smartwatches?
 
@@ -429,22 +429,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-aggregating-the-top-5-mac-clipping-applications/"><u>[New] 2024 Approved Aggregating the Top 5 Mac Clipping Applications</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-best-buy-in-4k-budget-savvy-camera-picks-for-2024/"><u>[New] Best Buy in 4K Budget-Savvy Camera Picks for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/citing-generative-pre-trained-transformer-models-like-chatgpt-correctly/"><u>Citing Generative Pre-Trained Transformer Models Like ChatGPT Correctly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-the-5-premier-clickers-for-non-rooted-android-smartphones/"><u>Discover the Ultimate List: The 5 Premier Clickers for Non-Rooted Android Smartphones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-methods-to-add-more-fun-purchasing-content-for-metas-oculus-quest/"><u>Easy Methods to Add More Fun: Purchasing Content for Meta's Oculus Quest</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-fluidity-of-video-playback-in-vlc-win/"><u>Enhancing Fluidity of Video Playback in VLC Win</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-fixed-frame-to-fluid-motion-live-photo-transformation/"><u>From Fixed Frame to Fluid Motion Live Photo Transformation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974039103-get-your-dell-latitude-e6420-drivers-in-a-flash-fast-downloads-available/"><u>Get Your Dell Latitude E6420 Drivers in a Flash - Fast Downloads Available!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/handling-the-ai-moderation-issue-a-guide-for-chatgpt-users/"><u>Handling the AI Moderation Issue: A Guide for ChatGPT Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-horizontal-lines-on-a-computer-screen/"><u>How to Fix Horizontal Lines on a Computer Screen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-winx-mediatrans-masterclass-for-seamless-file-conversion/"><u>Step-by-Step Guide: WinX MediaTrans Masterclass for Seamless File Conversion</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-process-for-handling-libxml2dll-file-missing-errors-successfully/"><u>Step-by-Step Process for Handling 'libxml2.dll File Missing' Errors Successfully</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/stepwise-reduction-tactics-for-audio-levels-in-fl-studio-for-2024/"><u>Stepwise Reduction Tactics for Audio Levels in FL Studio for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-7-affordable-mobile-phone-contracts/"><u>Top 7 Affordable Mobile Phone Contracts</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/transform-your-gameplay-the-xbox-series-x-unveiled-brilliance-in-4k-graphics-and-playability/"><u>Transform Your Gameplay: The Xbox Series X Unveiled - Brilliance in 4K Graphics and Playability</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unraveling-the-mystery-of-missing-pages-online-effective-ways-to-address-http-404-issues/"><u>Unraveling the Mystery of Missing Pages Online: Effective Ways to Address HTTP 404 Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-do-when-mfc71dll-is-absent-easy-repair-strategies-inside/"><u>What to Do When Mfc71.dll Is Absent? Easy Repair Strategies Inside</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-cut-the-clutter-advanced-techniques-for-windows-11-videos-for-2024/"><u>[New] Cut the Clutter Advanced Techniques for Windows 11 Videos for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-audio-recording-solutions-for-educators-using-apple-products/"><u>[Updated] 2024 Approved Audio Recording Solutions for Educators Using Apple Products</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-capturing-movie-scenes-as-single-image-snapshots-windows-10/"><u>[Updated] Capturing Movie Scenes as Single Image Snapshots (Windows 10)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-detailed-strategies-for-altering-facial-gender-display-in-digital-media-for-2024/"><u>[Updated] Detailed Strategies for Altering Facial Gender Display in Digital Media for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-your-perfect-mobile-companion-iphone-or-android/"><u>Choosing Your Perfect Mobile Companion: IPhone or Android?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-fixing-and-preventing-blue-screens-of-death-on-computers/"><u>Expert Advice: Fixing and Preventing Blue Screens of Death on Computers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-making-your-voice-heard-in-the-podcast-realm/"><u>In 2024, Making Your Voice Heard in the Podcast Realm</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-up-to-stardom-10-pro-tips-for-pixlr-excellence/"><u>In 2024, Step up to Stardom 10 Pro Tips for Pixlr Excellence</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/july-2024s-new-default-login-details-for-linksys-network-devices-revealed/"><u>July 2024'S New Default Login Details for Linksys Network Devices Revealed</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-y02t-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo Y02T Phone Now with These Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/public-profile-checkouts-on-instagram-your-invisible-mode-cheat-sheet/"><u>Public Profile Checkouts on Instagram: Your Invisible Mode Cheat Sheet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-print-to-pdf-problems-on-microsoft-office-applications-in-modern-windows-environments/"><u>Resolving 'Print to PDF' Problems on Microsoft Office Applications in Modern Windows Environments</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-fix-missing-msodll-error-message/"><u>Step-by-Step Guide to Fix Missing mso.dll Error Message</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-missing-wmvcoredll-error-on-your-computer/"><u>Troubleshooting the Missing Wmvcore.dll Error on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turn-off-automatic-song-playback-on-apple-music-with-these-steps/"><u>Turn Off Automatic Song Playback on Apple Music with These Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-meta-quest-3-lite-version-anticipated-features-and-pricing-insights/"><u>Upcoming Meta Quest 3 Lite Version - Anticipated Features & Pricing Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-is-a-408-request-timeout-detailed-explanation-and-troubleshooting-tips/"><u>What Is a 408 Request Timeout? Detailed Explanation and Troubleshooting Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/xbox-one-playmate-plan-enjoying-shared-gameplay-experiences/"><u>Xbox One Playmate Plan: Enjoying Shared Gameplay Experiences</u></a></li>
 </ul></div>
 

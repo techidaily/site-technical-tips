@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate Guide to Using MacOS' Top Document Management App - Insights From ZDNet"
-date: 2024-10-03T21:00:08.075Z
-updated: 2024-10-07T20:04:13.442Z
+date: 2024-10-12T16:08:41.112Z
+updated: 2024-10-13T16:01:30.090Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,16 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -86,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -140,20 +134,19 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-make-highlights-on-instagram-3-ways/"><u>[New] 2024 Approved How to Make Highlights on Instagram [3 Ways]</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-net-adapter-fb-stories-saver-app-for-2024/"><u>[Updated] Net Adapter FB Stories Saver App for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/boost-creativity-on-tiktok-top-10-free-edits-for-mac-users/"><u>Boost Creativity on TikTok - Top 10 Free Edits for Mac Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-evaluating-the-longevity-and-performance-of-an-electric-car-battery/"><u>Guide to Evaluating the Longevity and Performance of an Electric Car Battery</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-experience-minecraft-in-virtual-reality-on-your-computer-with-oculus-quest-2/"><u>Guide to Experience Minecraft in Virtual Reality on Your Computer with Oculus Quest 2</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-chatgpt-differs-from-siri-and-google-assistant-as-unique-voice-activated-helpers/"><u>How ChatGPT Differs From Siri and Google Assistant as Unique Voice-Activated Helpers.</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723006987917-how-to-fix-game-lagging-on-pc-2024-tips/"><u>How to Fix Game Lagging on PC - 2024 Tips</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y100i? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-logitech-rx-250-mouse-driver-complete-guide-for-windows-users-windows-7-to-10/"><u>Installing Logitech RX-250 Mouse Driver: Complete Guide for Windows Users (Windows 7 to 10)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/meet-the-modern-progressive-era-of-chatgpt-beyond-historical-limits/"><u>Meet the Modern, Progressive Era of ChatGPT Beyond Historical Limits.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/nasas-insight-mission-on-mars-wraps-up-extraordinary-journey/"><u>NASA's Insight Mission on Mars Wraps Up Extraordinary Journey</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/pcs-picks-the-finest-ps1-game-emulators-for-2024/"><u>PC's Picks The Finest PS1 Game Emulators for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/perplexity-surpasses-gpt-3-in-conversational-abilities-taking-the-lead/"><u>Perplexity Surpasses GPT-3 in Conversational Abilities, Taking the Lead</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionary-space-beam-tech-by-amazon-to-drive-next-gen-satellite-broadband-services/"><u>Revolutionary Space Beam Tech by Amazon to Drive Next-Gen Satellite Broadband Services</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/understanding-youtube-short-videos/"><u>Understanding YouTube Short Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-exploring-the-differences-between-srgb-and-rgb/"><u>[New] Exploring the Differences Between Srgb & Rgb</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-gamers-guide-to-seamless-screen-recording-for-2024/"><u>[New] Gamers' Guide to Seamless Screen Recording for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-uncovering-best-in-class-steadicams-for-high-end-dslr-projects/"><u>[Updated] Uncovering Best-in-Class Steadicams for High-End DSLR Projects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-pick-unlimited-valorant-sound-transformation-tool-free/"><u>2024 Approved Top Pick Unlimited Valorant Sound Transformation Tool (Free)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/contrasting-communicative-capabilities-on-snapchat-and-skype/"><u>Contrasting Communicative Capabilities on Snapchat & Skype</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-nutrition-success-a-guide-to-the-best-6-food-logging-apps-available/"><u>Find Nutrition Success: A Guide to the Best 6 Food Logging Apps Available</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-15-pro-maxipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 15 Pro Max/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-lava-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Lava FRP Bypass</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-flushing-your-android-devices-memory-cache/"><u>Step-by-Step Guide to Flushing Your Android Device's Memory Cache</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-winning-more-followers-on-twitter-effective-strategies-inside/"><u>The Ultimate Guide to Winning More Followers on Twitter – Effective Strategies Inside</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-integrating-multiple-fortnite-accounts/"><u>The Ultimate How-To: Integrating Multiple Fortnite Accounts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/tiktok-bio-enhancement-with-direct-url-integration-for-2024/"><u>TikTok Bio Enhancement with Direct URL Integration for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-how-to-snapping-quick-images-of-your-desktop-display/"><u>Ultimate How-To: Snapping Quick Images of Your Desktop Display</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-the-differences-between-hulu-and-hulu-plus-plans/"><u>Unraveling the Differences Between Hulu and Hulu Plus Plans</u></a></li>
 </ul></div>
 

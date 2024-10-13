@@ -1,7 +1,7 @@
 ---
 title: "Affordable Beats for Students: A Guide to Navigating Apple Music's Educational Pricing Perks"
-date: 2024-10-05T17:03:27.970Z
-updated: 2024-10-07T22:48:55.791Z
+date: 2024-10-11T16:00:43.890Z
+updated: 2024-10-13T16:09:17.369Z
 tags:
   - apple
 categories:
@@ -55,6 +55,13 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -71,13 +78,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -89,6 +89,13 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -127,10 +134,10 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -150,10 +157,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -170,13 +177,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -218,18 +218,20 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-for-mac-quick-installation-tips/"><u>[New] Snapchat for MAC Quick Installation Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-master-the-art-of-radial-filtering-with-photoshop/"><u>[Updated] Master the Art of Radial Filtering with Photoshop</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-visual-storytelling-planning-strategy-on-instavideo/"><u>2024 Approved Mastering Visual Storytelling Planning Strategy on InstaVideo</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/command-prompt-tricks-open-it-right-from-the-desired-folder/"><u>Command Prompt Tricks: Open It Right From the Desired Folder</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-test-of-aeiousy-portable-solar-charger-with-advanced-inverter-technology-for-hospit-ical-gear/"><u>Comprehensive Test of Aeiousy Portable Solar Charger with Advanced Inverter Technology for Hospit Ical Gear</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-the-ultimate-battle-royale-star-wars-squadrons-gameplay-breakdown/"><u>Experience the Ultimate Battle Royale: Star Wars Squadrons Gameplay Breakdown</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-play-pokemon-unite/"><u>How to Play ‘Pokémon Unite’</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/hulu-basic-or-plus-a-comprehensive-guide-to-their-unique-features/"><u>Hulu Basic or Plus? A Comprehensive Guide to Their Unique Features</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-inspiration-on-a-plate-top-20-instagram-food-photos/"><u>In 2024, Inspiration on a Plate Top 20 Instagram Food Photos</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-itel-p55-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Itel P55 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-message-delivery-tips-for-sending-texts-via-your-ipad/"><u>Mastering Message Delivery: Tips for Sending Texts via Your iPad</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-for-missing-dciman32dll-error-on-your-pc/"><u>Step-by-Step Solution for Missing dciman32.dll Error on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/turning-off-the-text-overlays-for-movies-and-shows-on-amazons-prime-video-platform/"><u>Turning Off The Text Overlays for Movies and Shows on Amazon's Prime Video Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-influencers-playbook-5-tips-for-building-brand-authority-through-reddit-partnerships/"><u>[New] The Influencer's Playbook 5 Tips for Building Brand Authority Through Reddit Partnerships</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-vr-cinematic-experiences-the-next-wave-for-2024/"><u>[New] VR Cinematic Experiences The Next Wave for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-itel-p55-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Itel P55 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-thrillers-to-crowns-exclusive-radio-coverage-of-mens-ncaa-basketball-and-final-four/"><u>From Thrillers to Crowns - Exclusive Radio Coverage of Men’s NCAA Basketball & Final Four!</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-magic-5-lite-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor Magic 5 Lite Without Password | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-d3dx939dll-error-messages-for-windows-users/"><u>How to Resolve 'd3dx9_39.dll' Error Messages for Windows Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-get-official-passport-photo-online-download-and-print-your-portraits-for-free/"><u>In 2024, Get Official Passport Photo Online – Download & Print Your Portraits for FREE</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-cost-mov-to-flac-uploader-effortless-video-file-transformation-by-movavi/"><u>No-Cost MOV to FLAC Uploader - Effortless Video File Transformation by Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-how-to-batch-select-multiple-messages-in-gmail/"><u>Step-by-Step Tutorial: How to Batch Select Multiple Messages in Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-boosting-your-insta-presence-with-meta-ai-tools/"><u>The Ultimate Guide to Boosting Your Insta Presence with Meta AI Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-unlocking-built-in-fm-radio-on-smartphones/"><u>The Ultimate Walkthrough: Unlocking Built-In FM Radio on Smartphones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tips-and-techniques-for-uncovering-personal-email-information-online/"><u>Tips and Techniques for Uncovering Personal Email Information Online</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-plugin-making-your-usb-work-on-a-windows-10-pc-again/"><u>Troubleshooting Plugin: Making Your USB Work on a Windows 10 PC Again!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-8-plus-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 8 Plus? 5 Tips You Must Know</u></a></li>
 </ul></div>
 

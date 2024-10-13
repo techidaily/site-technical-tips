@@ -1,7 +1,7 @@
 ---
 title: "Windows Users Rejoice: Mastering iMessage for Desktops - Expert How-To's!"
-date: 2024-10-01T16:13:01.594Z
-updated: 2024-10-07T16:26:03.979Z
+date: 2024-10-11T16:06:51.999Z
+updated: 2024-10-13T16:06:09.251Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -79,16 +86,10 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
@@ -98,10 +99,10 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -110,13 +111,6 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
@@ -124,6 +118,13 @@ You can also start a new conversation. To do this, select one of your displayed 
 Screenshot by Lance Whitney/ZDNET
 
 ## Use Intel Unison
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -145,18 +146,18 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -169,13 +170,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -213,18 +207,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-maximizing-memory-storing-snapshots-in-photo-albums-from-snapchat/"><u>[New] 2024 Approved Maximizing Memory Storing Snapshots in Photo Albums From Snapchat</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-effortless-mac-pics-with-no-cost/"><u>[New] In 2024, Effortless Mac Pics with No Cost</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-streamline-your-snapchat-chat-and-calls-with-3-key-steps/"><u>[Updated] 2024 Approved Streamline Your Snapchat Chat and Calls with 3 Key Steps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/horizon-hopping-reviewing-the-gopro-karma-drone-for-2024/"><u>Horizon Hopping Reviewing the GoPro Karma Drone for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-samsung-galaxy-a23-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Samsung Galaxy A23 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/keep-it-spotless-the-definitive-technique-to-decontaminate-your-tv-remote/"><u>Keep It Spotless: The Definitive Technique to Decontaminate Your TV Remote</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-healthy-eating-with-these-top-6-diet-tracker-apps/"><u>Master Healthy Eating with These Top 6 Diet Tracker Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-the-stars-ordered-watchlist-for-fans-of-the-classic-star-trek-saga/"><u>Navigating Through the Stars: Ordered Watchlist for Fans of the Classic Star Trek Saga</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-the-dark-side-expert-advice-on-fixing-lols-black-screen-challenge/"><u>Overcome the Dark Side: Expert Advice on Fixing LoL's Black Screen Challenge</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/rapid-capture-technique-timelapse-toptech/"><u>Rapid Capture Technique Timelapse #TopTech</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-netflix-ui-800-3-issue-a-comprehensive-guide/"><u>Solving the Netflix UI-800-3 Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/studiofx-large-box-review-long-lasting-glow/"><u>StudioFX Large Box Review: Long-Lasting Glow</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/zero-cost-downloads-for-high-quality-audios-discover-this-list-of-23-tools-for-2024/"><u>Zero Cost Downloads for High-Quality Audios Discover This List of 23 Tools for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-411-on-navigating-youtube-shorts/"><u>[New] In 2024, The 411 on Navigating YouTube Shorts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-customizing-windows-photos-to-enjoy-music-on-every-picture-for-2024/"><u>[Updated] Customizing Windows Photos to Enjoy Music on Every Picture for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-art-of-crafting-viral-video-content-on-youtube-for-2024/"><u>[Updated] The Art of Crafting Viral Video Content on YouTube for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-g2-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo G2 without App | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-home-office-ambiance-with-these-5-premier-indoor-plants-expert-picks-by-zdnet/"><u>Enhance Your Home Office Ambiance with These 5 Premier Indoor Plants: Expert Picks by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/evaluating-the-top-entry-level-portable-power-source-the-innovative-ecoflow-river-ebook-revealed/"><u>Evaluating the Top Entry-Level Portable Power Source: The Innovative EcoFlow River eBook Revealed!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-unmatched-enjoyment-with-this-robotic-lawn-mower-a-game-changer-for-your-yard-tech-innovations/"><u>Experience Unmatched Enjoyment with This Robotic Lawn Mower - A Game Changer for Your Yard | Tech Innovations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-ultimate-selection-elite-video-doorbells-for-smart-homes-in-2n4-insights-from-zdnet/"><u>Exploring the Ultimate Selection: Elite Video Doorbells for Smart Homes in 2N4 | Insights From ZDNET</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-6-innovative-mc-house-concepts-for-community-living/"><u>In 2024, 6 Innovative MC House Concepts for Community Living</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/p90x-dvd/"><u>P90X DVDセットの模倣で成功へ:完全ガイド</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/passaggi-per-ripristinare-il-tuo-sistema-con-successo-tutorial-di-installazione-approfonditi/"><u>Passaggi per Ripristinare Il Tuo Sistema Con Successo: Tutorial Di Installazione Approfonditi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Pro-Level Photography and Performance Showdown: Is the Google Pixel"
-date: 2024-10-04T17:03:11.577Z
-updated: 2024-10-07T17:13:07.954Z
+date: 2024-10-08T16:01:25.833Z
+updated: 2024-10-13T16:06:31.750Z
 tags:
   - apple
 categories:
@@ -56,13 +56,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2008: The birth of the modern smartphone
 
 Released on June 29, 2007, [the iPhone](https://web.archive.org/web/20070629165202/http://www.apple.com/iphone) was explosive. Many of us remember the lines of people waiting to get their first phone. I sat those lines out, happy with my Treo. While the first iPhone had nearly all of the characteristics of a modern smartphone, including a 2.0MP rear-facing camera, the only apps it allowed were crude customized web pages. My Treo had far better native PalmOS apps.
@@ -84,10 +77,10 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
@@ -110,6 +103,13 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2017: The start of the AI/ML smartphone era
 
 It's difficult to nail down exactly when machine learning found its way into smartphones, but a good case can be made for 2017\. That year, [Google released the Pixel 2](https://blog.google/products/pixel/pixel-visual-core-image-processing-and-machine-learning-pixel-2/), which got a portrait mode that blurred backgrounds, and improved processing for HDR images.
@@ -119,13 +119,6 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 **Also: [How the iPhone 15 Pro Max challenges mirrorless cameras: We compare price and performance](https://www.zdnet.com/article/how-the-iphone-15-pro-max-challenges-mirrorless-cameras-we-compare-price-and-performance/)**
 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AI and machine learning in today's smartphones
 
@@ -158,10 +151,10 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Object knowledge
@@ -205,6 +198,13 @@ Predictive algorithms and object detection models are often used for real-time t
 One thing that's important to note: [Generative AI](https://www.zdnet.com/article/generative-ai-filled-us-with-wonder-in-2023-but-all-magic-comes-with-a-price/) is something that occurs _outside_ of the camera.
 
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Looking to the future
 
@@ -262,19 +262,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-discover-over-30-premium-free-ae-template-packs-for-2024/"><u>[New] Discover Over 30 Premium Free AE Template Packs for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-blissful-days-the-very-best-of-youtube-anime-channels/"><u>[New] In 2024, Blissful Days The Very Best of YouTube Anime Channels</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-harmonizing-tech-and-artistry-mac-studios/"><u>[New] In 2024, Harmonizing Tech & Artistry Mac Studios</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-speaking-through-slides-total-ppt-tutorial/"><u>[Updated] 2024 Approved Speaking Through Slides Total PPT Tutorial</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-dancefloor-dynamics-free-pristine-dj-template-videos/"><u>2024 Approved Dancefloor Dynamics Free, Pristine DJ Template Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-premier-chromebook-monitoring-app/"><u>2024 Approved Premier Chromebook Monitoring App</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-journey-through-chromatic-realms-editing-essentials/"><u>A Journey Through Chromatic Realms Editing Essentials</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/effortless-image-extraction-a-user-friendly-guide-to-iphone-photo-download/"><u>Effortless Image Extraction: A User-Friendly Guide to iPhone Photo Download</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/eight-important-considerations-for-selecting-the-perfect-desktop-pc/"><u>Eight Important Considerations for Selecting the Perfect Desktop PC</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-ultimate-phone-filters-and-camera-cases/"><u>In 2024, Ultimate Phone Filters & Camera Cases</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/starting-fresh-with-your-new-iphone-15-how-to-reboot-it/"><u>Starting Fresh with Your New iPhone 15: How to Reboot It</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-15-awesome-free-window-11-themes-you-cant-miss/"><u>Top 15 Awesome Free Window 11 Themes You Can't Miss</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/twitter-success-proven-methods-to-gain-more-followers-quickly/"><u>Twitter Success: Proven Methods to Gain More Followers Quickly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-expect-from-the-new-samsung-z-fold-4-specs-cost-and-go-to-date-insight/"><u>What to Expect From the New Samsung Z Fold 4 – Specs, Cost and Go-To Date Insight</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unravel-time-the-art-of-snapchat-video-reverse/"><u>[New] 2024 Approved Unravel Time The Art of Snapchat Video Reverse</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nhance-videos-seamlessly-using-youtube-studio-editor/"><u>[New] Enhance Videos Seamlessly Using YouTube Studio Editor</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/elevate-your-media-management-with-best-videographers-on-vimeo-for-2024/"><u>Elevate Your Media Management with Best Videographers on Vimeo for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-asus-rog-phone-7-ultimate-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Asus ROG Phone 7 Ultimate Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x90s-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo X90S Phone without Google Account?</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Pro without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-techniques-to-preserve-and-store-mov-files-on-windows-pcs/"><u>In 2024, Top Techniques to Preserve and Store Mov Files on Windows PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/selfie-success-techniques-for-harnessing-the-power-of-portable-photo-lighting/"><u>Selfie Success: Techniques for Harnessing the Power of Portable Photo Lighting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-correcting-http-401-authentication-errors/"><u>Step-by-Step Tutorial on Correcting HTTP 401 Authentication Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tv-remote-hygiene-101-simple-methods-for-a-clean-and-germ-free-device/"><u>TV Remote Hygiene 101: Simple Methods for a Clean and Germ-Free Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-chatgpt-potential-today/"><u>Unlocking ChatGPT Potential Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-latest-discover-samsungs-new-smartphone-release/"><u>Unveiling the Latest: Discover Samsung's New Smartphone Release</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-top-4-affordable-and-free-online-calendar-solutions/"><u>Unveiling the Top 4 Affordable and Free Online Calendar Solutions</u></a></li>
 </ul></div>
 

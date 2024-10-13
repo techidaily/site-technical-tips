@@ -1,7 +1,7 @@
 ---
 title: BOGO Deal Alert! Exclusive Nomad Case Bundle for iPhone Users – Act Fast!
-date: 2024-09-30T20:49:56.701Z
-updated: 2024-10-07T21:52:27.034Z
+date: 2024-10-08T16:09:11.457Z
+updated: 2024-10-13T16:14:14.829Z
 tags:
   - apple
 categories:
@@ -116,13 +116,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -138,10 +131,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Accessory and service deals
@@ -154,6 +147,19 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these AT&T phone deals?
 
 When we made our selection for the best AT&T deals, we wanted to include options based on the following criteria: 
@@ -164,16 +170,16 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
@@ -183,17 +189,17 @@ In general, there is no difference in how much money you save whether you shop o
 
 ZDNET experts split out the latest and greatest deals for you below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -244,21 +250,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-definitive-top-5-superlight-cinematography-devices/"><u>[New] In 2024, Definitive Top 5 Superlight Cinematography Devices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-leveraging-facebook-slides-a-beginners-handbook-for-visual-storytelling/"><u>[New] In 2024, Leveraging Facebook Slides A Beginner's Handbook for Visual Storytelling</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-to-use-itop-recorder-a-compelling-case-in-2024/"><u>[New] To Use ITop Recorder A Compelling Case, In 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/solved-intel-video-driver-issues-in-windows-1187/"><u>[Solved] Intel Video Driver Issues in Windows 11/8/7</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-exploring-t-series-youtube-profit-strategy/"><u>[Updated] In 2024, Exploring T-Series YouTube Profit Strategy</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-12-pro-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 12 Pro When Its Locked Within Seconds</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-innovative-features-of-dolby-atmos-dts-virtualx-explained/"><u>Discover the Innovative Features of Dolby Atmos - DTS Virtual:X Explained</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v30-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V30 Pro by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-art-of-finding-your-way-back-to-disappearing-gmail-threads-a-comprehensive-guide/"><u>Master the Art of Finding Your Way Back to Disappearing Gmail Threads – A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fixes-handling-absent-or-lost-propsysdll-files-on-your-pc/"><u>Quick Fixes: Handling Absent or Lost Propsys.dll Files on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-repair-instructions-correcting-the-bootmgr-is-not-found-error-in-windows/"><u>Step-by-Step Repair Instructions: Correcting the 'BOOTMGR Is Not Found' Error in Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-oppo-reno-10-proplus-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Oppo Reno 10 Pro+ 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshoot-chromebook-stuck-situations-using-our-proven-8-fixes/"><u>Troubleshoot Chromebook Stuck Situations Using Our Proven 8 Fixes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-for-entering-and-exiting-iphone-recovery-mode-with-ease/"><u>Ultimate Tutorial for Entering and Exiting iPhone Recovery Mode with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/virtual-viewers-manual-how-to-stream-the-worldwide-sports-gala-of-2024-summer-olympics/"><u>Virtual Viewers' Manual: How to Stream the Worldwide Sports Gala of 2024 Summer Olympics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-sculpting-softness-a-guide-to-quieter-mixes-with-fl-studio/"><u>[Updated] 2024 Approved Sculpting Softness A Guide to Quieter Mixes with FL Studio</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-prime-16-video-openers-to-surge-your-traffic/"><u>[Updated] Prime 16 Video Openers to Surge Your Traffic</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/19-exciting-new-models-enhance-tcls-q-and-s-class-smart-tv-selection/"><u>19 Exciting New Models Enhance TCL's Q and S Class Smart TV Selection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-eyes-on-the-future-unveiling-potential-costs-release-windows-and-features-of-apple-watch-ultra-2/"><u>All Eyes On The Future: Unveiling Potential Costs, Release Windows & Features of Apple Watch Ultra 2</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-list-of-15-gratis-online-ai-courses-for-flexible-study-options/"><u>Comprehensive List of 15 Gratis Online AI Courses for Flexible Study Options</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/essential-points-to-ponder-when-choosing-your-next-printer/"><u>Essential Points to Ponder When Choosing Your Next Printer</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-inviting-support-without-coercion-listeners-guide/"><u>In 2024, Inviting Support Without Coercion Listener's Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-nonfunctioning-windows-11-search-effective-methods-revealed/"><u>Solving the Mystery of Nonfunctioning Windows 11 Search – Effective Methods Revealed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/taking-a-deep-dive-into-the-features-of-creatives-2013-premium-sound-blaster-zxr/"><u>Taking a Deep Dive Into the Features of Creative's 2013 Premium Sound Blaster ZxR!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/viewing-every-movie-starring-taylor-swift-sorted-by-release-date/"><u>Viewing Every Movie Starring Taylor Swift, Sorted by Release Date</u></a></li>
 </ul></div>
 

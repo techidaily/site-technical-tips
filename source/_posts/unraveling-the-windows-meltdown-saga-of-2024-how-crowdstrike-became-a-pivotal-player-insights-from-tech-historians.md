@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Windows Meltdown Saga of 2024: How CrowdStrike Became a Pivotal Player - Insights From Tech Historians"
-date: 2024-10-03T16:49:41.689Z
-updated: 2024-10-07T21:52:29.850Z
+date: 2024-10-06T16:03:24.986Z
+updated: 2024-10-13T16:02:14.954Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,16 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -187,18 +181,24 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/2024-approved-syncing-zen-and-zeal-elevating-youtube-livestreams-on-zoom/"><u>2024 Approved Syncing Zen and Zeal Elevating YouTube Livestreams on Zoom</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726030073986-mp4/"><u>画像キャプチャーデータをMP4に変換する方法：詳しいガイド付き</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/chatgpt-ownership-unveiled-the-powerhouse-behind-microsofts-language-marvel/"><u>ChatGPT Ownership Unveiled – The Powerhouse Behind Microsoft’s Language Marvel</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-remedies-when-ksuserdll-is-undetectable-on-your-computer/"><u>Effective Remedies When ksuser.dll Is Undetectable on Your Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-the-unseen-techniques-for-addressing-pc-boot-issues-with-empty-screen/"><u>Fixing the Unseen: Techniques for Addressing PC Boot Issues with Empty Screen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-discovering-users-whove-liked-your-instagram-content/"><u>Guide: Discovering Users Who've Liked Your Instagram Content</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-of-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-capture-and-convert-photos-into-dynamic-videos-in-pixiz/"><u>In 2024, Capture and Convert Photos Into Dynamic Videos in Pixiz</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mastering-distance-remote-podcast-broadcast/"><u>In 2024, Mastering Distance Remote Podcast Broadcast</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/integrate-sound-and-sight-web-studio-for-2024/"><u>Integrate Sound & Sight Web Studio for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-windows-10-without-a-pin-a-comprehensive-tutorial/"><u>Unlocking Windows 10 Without a Pin - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unraveling-pokemon-go-secrets-tips-for-new-trainers/"><u>Unraveling Pokémon GO Secrets: Tips for New Trainers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/zero-cost-instant-message-services-available-for-apple-products-download-now/"><u>Zero Cost Instant Message Services Available for Apple Products – Download Now</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-best-book-trailers-a-curated-list-of-5/"><u>[New] 2024 Approved Best Book Trailers A Curated List of 5</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-cost-effective-high-performance-asmr-microphones-guide/"><u>[New] Cost-Effective, High-Performance ASMR Microphones Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enjoy-9-complete-uncut-holiday-cine-classics-for-no-cost/"><u>[Updated] 2024 Approved Enjoy 9 Complete, Uncut Holiday Cine Classics for No Cost</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elevate-streaming-quality-exclusive-guide-to-9-high-end-filters/"><u>[Updated] Elevate Streaming Quality Exclusive Guide to 9 High-End Filters</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722882302450-all-about-the-newly-announced-samsung-galaxy-z-flip6-pricing-details-inside/"><u>All About the Newly Announced Samsung Galaxy Z Flip6 - Pricing Details Inside</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expand-your-xbox-one-storage-connecting-and-using-an-external-hard-disk/"><u>Expand Your Xbox One Storage - Connecting and Using an External Hard Disk</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-errors-caused-by-the-absent-d3dx930dll-a-comprehensive-guide/"><u>Fixing Errors Caused by the Absent d3dx9_30.dll: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-enable-your-phones-internet-for-amazon-firestick-viewing-pleasure/"><u>How to Enable Your Phone's Internet for Amazon Firestick Viewing Pleasure</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-free-up-space-in-icloud-by-deleting-photos-not-your-iphone-gallery/"><u>How to Free Up Space in iCloud by Deleting Photos, Not Your iPhone Gallery</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-lava-agni-2-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Lava Agni 2 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-tune-treasure-trove-save-and-study-sound-files/"><u>In 2024, Tune Treasure Trove Save & Study Sound Files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ios-slide-show-tools-tailored-for-high-end-models-for-2024/"><u>IOS Slide Show Tools Tailored for High-End Models for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-motherboards-the-7-crucial-aspects-every-buyer-should-evaluate/"><u>Mastering Motherboards: The 7 Crucial Aspects Every Buyer Should Evaluate</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/prime-retailers-for-acquiring-new-or-used-mobile-phones/"><u>Prime Retailers for Acquiring New or Used Mobile Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-haldll-issues-a-step-by-step-guide-for-windows-111087vista/"><u>Solving hal.dll Issues: A Step-by-Step Guide for Windows 11/10/8/7/Vista</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-wmvcoredll-missing-errors-tips-and-solutions/"><u>Troubleshooting Wmvcore.dll Missing Errors: Tips and Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726028030082-pciphoneandroid/"><u>シームレス動画操作: PC、iPhone、Android用のおすすめ再生アプリランキング</u></a></li>
 </ul></div>
 

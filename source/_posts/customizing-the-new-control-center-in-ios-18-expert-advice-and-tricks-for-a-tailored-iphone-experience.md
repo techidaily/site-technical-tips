@@ -1,7 +1,7 @@
 ---
 title: "Customizing the New Control Center in iOS 18: Expert Advice and Tricks for a Tailored iPhone Experience"
-date: 2024-10-04T17:42:50.173Z
-updated: 2024-10-07T19:28:01.021Z
+date: 2024-10-06T16:05:42.397Z
+updated: 2024-10-13T16:03:13.192Z
 tags:
   - apple
 categories:
@@ -30,18 +30,18 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -51,6 +51,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -58,10 +65,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -71,10 +78,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -84,13 +91,6 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -134,24 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-efficient-transfer-techniques-for-iphone-images-on-snapchat/"><u>[New] In 2024, Efficient Transfer Techniques for iPhone Images on Snapchat</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-effortlessly-eradicate-unwanted-youtube-feedback/"><u>[Updated] 2024 Approved How to Effortlessly Eradicate Unwanted YouTube Feedback</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-yielding-income-a-streamers-guide-to-earning/"><u>[Updated] 2024 Approved Yielding Income A Streamer's Guide to Earning</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximizing-allure-essential-strategies-for-stellar-instagram-unboxing-videos/"><u>2024 Approved Maximizing Allure Essential Strategies for Stellar Instagram Unboxing Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-wellness-journey-using-the-best-food-monitoring-apps-weve-found/"><u>Boost Your Wellness Journey Using the Best Food Monitoring Apps We've Found</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-6-must-visit-sites-to-score-unbeatable-discounts-and-save-cash/"><u>Discover 6 Must-Visit Sites to Score Unbeatable Discounts & Save Cash</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-most-enjoyable-family-movies-streaming-now-on-amazon-prime-in-july-2024/"><u>Discover the Most Enjoyable Family Movies Streaming Now on Amazon Prime in July 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-when-you-cant-turn-on-your-roku-smart-tv-expert-advice/"><u>Easy Fixes for When You Can’t Turn On Your Roku Smart TV: Expert Advice</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-address-and-repair-missing-or-corrupted-msvcrt10dll-files/"><u>How to Address and Repair Missing or Corrupted MSVCRT10.DLL Files</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-adobes-toolset-perfecting-your-youtube-uploads/"><u>In 2024, Adobe's Toolset Perfecting Your YouTube Uploads</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-cloud-conversion-expert-steps-for-shifting-from-google-photos-to-apples-icloud/"><u>Navigating Cloud Conversion: Expert Steps for Shifting From Google Photos to Apple's iCloud</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-10-best-online-platforms-to-convert-images-to-videos/"><u>New 2024 Approved 10 Best Online Platforms to Convert Images to Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/save-big-expert-picks-of-the-best-deal-sites-online/"><u>Save Big: Expert Picks of the Best Deal Sites Online</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-collaboration-setting-up-and-using-copilot-on-microsoft-teams/"><u>Seamless Collaboration: Setting Up and Using Copilot on Microsoft Teams</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-quintessential-guide-to-android-auto-clicker-apps-root-free/"><u>The Quintessential Guide to Android Auto Clicker Apps (Root-Free)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ultimate-guide-for-popular-screen-recorder-zd-soft-for-2024/"><u>Ultimate Guide for Popular Screen Recorder ZD Soft for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlock-high-quality-viewing-with-youtubes-latest-av1-feature-for-2024/"><u>Unlock High-Quality Viewing with YouTube’s Latest AV1 Feature for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-video-editing-without-limits-how-to-use-windows-and-mac-apps-on-your-chromebook/"><u>Updated Video Editing Without Limits How to Use Windows and Mac Apps on Your Chromebook</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-free-enterprise-templates-with-dynamic-ideas-for-slideshows/"><u>[New] 2024 Approved Free Enterprise Templates with Dynamic Ideas for Slideshows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-precision-techniques-for-high-quality-overwatch-saves/"><u>[Updated] 2024 Approved Precision Techniques for High-Quality Overwatch Saves</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-guidelines-for-eliminating-obs-fullscreen-freeze/"><u>[Updated] Guidelines for Eliminating OBS Fullscreen Freeze</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-recordtv-easy-cost-free-windows-software-tips/"><u>2024 Approved RecordTV Easy, Cost-Free Windows Software Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-leading-choice-for-affordable-high-fidelity-webm-playbacks/"><u>2024 Approved The Leading Choice for Affordable, High-Fidelity WebM Playbacks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726029175155-mp3/"><u>音楽データを異なる形式に変換する方法：特にMP3への移行手順</u></a></li>
+<li><a href="https://win11.techidaily.com/awakening-obscured-windows-11-query-engine/"><u>Awakening Obscured Windows 11 Query Engine</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cod-modern-warfare-expert-advice-on-avoiding-frequent-crashes/"><u>Cod: Modern Warfare - Expert Advice on Avoiding Frequent Crashes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-fixes-for-missing-pdhdll-errors-on-your-computer-system/"><u>Comprehensive Fixes for Missing pdh.dll Errors on Your Computer System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-child-friendly-disneyplus-features-coming-this-july-2024/"><u>Discover the Best Child-Friendly Disney+ Features Coming This July 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-audio-capture-tips-and-tricks-for-maximizing-your-meta-quest-microphone/"><u>Effortless Audio Capture: Tips and Tricks for Maximizing Your Meta Quest Microphone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-techniques-for-inserting-code-snippets-into-documents-in-ms-word/"><u>Expert Techniques for Inserting Code Snippets Into Documents in MS Word</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-zero-to-hero-a-step-by-step-guide-for-aspiring-home-audio-enthusiasts/"><u>From Zero to Hero: A Step-by-Step Guide for Aspiring Home Audio Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-establish-your-virtual-identity-in-the-meta-oculus-questquest-2-realm/"><u>How To Establish Your Virtual Identity in the Meta (Oculus) Quest/Quest 2 Realm</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-removing-and-replacing-your-smartphone-display-cover/"><u>Step-by-Step Guide: Removing and Replacing Your Smartphone Display Cover</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-key-tracking-devices-find-your-way-back-home-easily/"><u>Top-Rated Key Tracking Devices - Find Your Way Back Home Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-power-of-xbox-game-pass-ultimate-with-a-quick-cloud-gaming-guide/"><u>Unlock the Power of Xbox Game Pass Ultimate with a Quick Cloud Gaming Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-best-graphic-design-suites-and-applications-top-17/"><u>Unveiling the Best Graphic Design Suites & Applications (Top 17)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-mystery-how-to-identify-your-youtube-video-spectators/"><u>Unveiling the Mystery: How to Identify Your YouTube Video Spectators</u></a></li>
 </ul></div>
 

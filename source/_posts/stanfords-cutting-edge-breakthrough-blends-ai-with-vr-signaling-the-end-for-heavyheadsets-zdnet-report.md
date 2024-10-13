@@ -1,7 +1,7 @@
 ---
 title: Stanford's Cutting-Edge Breakthrough Blends AI with VR, Signaling the End for Heavyheadsets - ZDNET Report
-date: 2024-09-13T21:33:35.540Z
-updated: 2024-09-20T17:41:43.848Z
+date: 2024-10-07T16:01:52.987Z
+updated: 2024-10-13T16:01:59.331Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,29 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-highest-rated-smartphone-camera-and-recording-apps-iphone-vs-android-for-2024/"><u>[New] Highest Rated Smartphone Camera & Recording Apps IPhone vs Android for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-d-link-default-credentials-the-latest-update-for-july-2024/"><u>Comprehensive D-Link Default Credentials: The Latest Update for July 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/debunking-the-myth-how-iphone-prices-compare-to-android-devices/"><u>Debunking the Myth: How iPhone Prices Compare to Android Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-most-enjoyable-free-movies-to-watch-on-youtube-in-july-2024/"><u>Discover the Most Enjoyable Free Movies to Watch on YouTube in July 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-y28-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo Y28 5G</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/from-silence-to-clarity-recording-on-your-iphone-easy-way/"><u>From Silence to Clarity Recording on Your iPhone Easy Way</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2022) with IMEI Code?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ragnors-rebirth-warriors-alliance-for-2024/"><u>Ragnor's Rebirth Warriors Alliance for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-code-28-issues-on-your-windows-pc-a-step-by-step-guide/"><u>Resolving 'Code: 28' Issues on Your Windows PC – A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-troubleshooting-code-39-error-on-pc/"><u>Step-by-Step Solutions for Troubleshooting Code 39 Error on PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tricks-to-prevent-auto-sleep-on-macbook-when-you-close-the-lid/"><u>Tricks to Prevent Auto-Sleep on MacBook When You Close the Lid.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-to-seamlessly-getting-in-and-out-of-iphone-recovery-mode/"><u>Unlocking the Secrets to Seamlessly Getting In and Out of iPhone Recovery Mode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watch-the-tokyo-2024-summer-contests-live-from-home-a-complete-guide/"><u>Watch the Tokyo 2024 Summer Contests Live From Home – A Complete Guide</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

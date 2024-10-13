@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Apple AI: How RealSense's On-Device System Surpasses Google's GPT-4 in Performance, Says Apple | Tech News by ZDNet"
-date: 2024-10-01T22:45:58.586Z
-updated: 2024-10-07T17:14:03.554Z
+date: 2024-10-11T16:02:11.416Z
+updated: 2024-10-13T16:01:15.683Z
 tags:
   - apple
 categories:
@@ -77,27 +77,35 @@ Apple has yet to confirm whether this research will play a role in iOS 18 or its
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-what-is-the-youtube-highlighted-comment/"><u>[New] 2024 Approved What Is the YouTube Highlighted Comment?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-breaking-down-youtube-revenue-per-million-views/"><u>[New] In 2024, Breaking Down YouTube Revenue per Million Views</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-curated-list-of-top-20-prison-jail-memes-boosting-morale-on-social-platforms/"><u>[New] In 2024, Curated List of Top 20 Prison Jail Memes, Boosting Morale on Social Platforms</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-trailblazers-in-virtual-reality-experience/"><u>[New] In 2024, Trailblazers in Virtual Reality Experience</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-reno-10-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avoiding-imitation-ai-uncovering-bogus-chatgpt-applications-on-ios-platforms/"><u>Avoiding Imitation AI: Uncovering Bogus ChatGPT Applications on iOS Platforms</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/cost-effective-safeguard-testing-the-durability-of-a-basic-macbook-pro-lete-case-for-budget-shoppers/"><u>Cost-Effective Safeguard: Testing the Durability of a Basic MacBook Pro Lete Case for Budget Shoppers</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/engage-and-inspire-viewers-animated-subscribers-in-filmora-explained-for-2024/"><u>Engage and Inspire Viewers - Animated Subscribers in Filmora Explained for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-handling-phelppgmddll-absent-or-undetected-situations/"><u>Expert Advice: Handling pHelpPgm_d.dll Absent or Undetected Situations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722859832850-get-the-scoop-on-apples-latest-rumored-touchscreen-macbook-price-estimates-and-speculated-specifications-inside/"><u>Get the Scoop on Apple's Latest Rumored Touchscreen MacBook - Price Estimates and Speculated Specifications Inside</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-change-the-font-in-windows-11/"><u>How to Change the Font in Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-vcompdll-file-missing-or-corrupted-on-your-computer/"><u>How to Fix vcomp.dll File Missing or Corrupted on Your Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-there-a-widespread-xbox-network-failure-or-connectivity-problems-at-home/"><u>Is There a Widespread Xbox Network Failure, or Connectivity Problems at Home?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ssl-troubleshooting-tips-for-a-safe-and-private-internet-connection/"><u>SSL Troubleshooting Tips for a Safe and Private Internet Connection</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/title-protecting-your-memories-ensuring-the-longevity-of-your-dvd-media-through-proper-preservation-methods/"><u>Title: Protecting Your Memories: Ensuring the Longevity of Your DVD Media Through Proper Preservation Methods</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-tutorial-transferring-youtube-videos-to-social-media-facebook-edition/"><u>[New] 2024 Approved Tutorial Transferring YouTube Videos to Social Media - Facebook Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-closer-conversations-mastering-in-camera-precision/"><u>[Updated] Closer Conversations Mastering In-Camera Precision</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-budget-pc-video-capture-tools-assessed/"><u>2024 Approved Budget PC Video Capture Tools Assessed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sony-a6400-video-not-showing-troubleshooting-guide/"><u>2024 Approved Sony A6400 Video Not Showing Troubleshooting Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-tutorial-on-setting-up-desired-view-modes-in-finders-interface/"><u>A Step-by-Step Tutorial on Setting Up Desired View Modes in Finder's Interface</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convert-flv-files-to-m4v-for-free-with-movavis-easy-online-tool/"><u>Convert FLV Files to M4V for Free with Movavi's Easy Online Tool!</u></a></li>
+<li><a href="https://discover-best.techidaily.com/cookiebot-enabled-enhance-your-websites-personalization-with-leading-ai-technology/"><u>Cookiebot-Enabled: Enhance Your Website's Personalization with Leading AI Technology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-beneath-the-oceans-veil-tips-for-recording-top-notch-underwater-gopro-videos/"><u>In 2024, Beneath the Ocean’s Veil Tips for Recording Top-Notch Underwater GoPro Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movaviavi-flv/"><u>Movaviで簡単AVI FLVにフォーマット変換 – セキュリティと容量最適化機能付き、すべてのユーザー向け無料オンラインソリューション</u></a></li>
+<li><a href="https://fox-links.techidaily.com/pioneering-camera-spin-top-professionals-360cameras-of-2023-for-2024/"><u>Pioneering Camera Spin Top Professionals’ 360°Cameras of 2023 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/precision-editing-picarts-techniques-for-background-subtraction/"><u>Precision Editing PicArt's Techniques for Background Subtraction</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-erasing-your-presence-on-twitch/"><u>Step-by-Step Guide: Erasing Your Presence on Twitch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-correcting-missing-gdxtools320dll-error-codes/"><u>The Ultimate Guide to Correcting Missing gdxtools320.dll Error Codes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforma-imagenes-al-formato-jpg-con-herramientas-gratuitas-en-linea-como-utilizar-el-conversor-de-movavi/"><u>Transforma Imágenes Al Formato JPG Con Herramientas Gratuitas en Línea: Cómo Utilizar El Conversor De Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-fixing-the-problem-with-missing-newmails-on-your-yahoo-account/"><u>Understanding and Fixing the Problem with Missing Newmails on Your Yahoo Account</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-windows-10-tips-switching-the-screen-keyboard-on-and-off-smoothly/"><u>Unlocking Windows 10 Tips: Switching the Screen Keyboard On and Off Smoothly</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-video-flip-tutorial-quick-and-easy-methods-for-2024/"><u>Updated The Ultimate Video Flip Tutorial Quick and Easy Methods for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

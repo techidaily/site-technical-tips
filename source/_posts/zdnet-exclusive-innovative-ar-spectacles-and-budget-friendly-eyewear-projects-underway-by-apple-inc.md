@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Innovative AR Spectacles & Budget-Friendly Eyewear Projects Underway by Apple Inc."
-date: 2024-10-03T21:30:56.984Z
-updated: 2024-10-07T22:29:08.135Z
+date: 2024-10-08T16:05:18.154Z
+updated: 2024-10-13T16:11:14.397Z
 tags:
   - apple
 categories:
@@ -42,14 +42,14 @@ Pros
 Cons 
 * No Face ID option
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPad (9th generation)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best cheap tablet overall
 
@@ -79,6 +79,13 @@ Pros
 Cons 
 * Performance isn't its best feature
 * No access to Google apps or services
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Amazon Fire HD 8 Plus
 
@@ -111,6 +118,13 @@ Cons
 * Speakers are lackluster
 * Outdated and bland design
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Lenovo Chromebook Duet 3
 
 ### Best ChromeOS cheap tablet
@@ -141,13 +155,26 @@ Pros
 Cons 
 * Keyboard not included
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Lenovo Tab P11 Plus
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best big screen cheap tablet
@@ -180,20 +207,13 @@ Cons
 * Lacks the luxury feel
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Oukitel RT3
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best rugged cheap tablet
 
@@ -224,6 +244,19 @@ Cons
 * Slower processor and fewer higher-end features than iPad
 
 ## Amazon Fire HD 10 Kids Pro
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best cheap kids tablet
 
@@ -256,13 +289,6 @@ The Apple iPad (9th generation) base model is the best cheap tablet. Although it
 
 \*Lowest price at the time of writing. Please note that prices may vary based on retailer and available promotions, sales, or discounts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which cheap tablet is right for you?
 
 It comes down to what you plan on using the tablet for. If you're already heavily invested in Apple's ecosystem of products and services, the 9th-generation iPad makes the most sense for the best cheap tablet. It also quickly adds up, becoming the most expensive yet cheap laptop on our list. 
@@ -289,13 +315,6 @@ There are a few factors we consider before adding these cheap tablets to this li
 * **Durability:** A nice tablet is good and plenty, but it should also last you a long time to truly get your money's worth. Many of these tablets have rugged features, so that if you end up accidentally dropping it it won't shatter and the screen won't crack.
 * **Performance:** The downside of a cheaper piece of tech is, unfortunately, slower performance. We sought out tablets with high-performing CPUs and above-average performance, so even if you do end up opting for an inexpensive device, you aren't sacrificing high performance for a low cost.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -314,6 +333,13 @@ The best cheap tablets come from brands like Apple, Samsung, Microsoft, Amazon, 
 
 You can find more cheap Android tablets than cheap Apple tablets, but Apple usually has tablets deals during big sales events or holidays.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Are cheap tablets good for students?
 
 That really depends on the kind of classwork someone will be doing. Younger children may benefit from using a tablet over a traditional laptop--with intuitive touch controls, it will be easier for them to navigate through menus and apps required to attend virtual classes or to turn in assignments. Older students will be doing more intensive coursework, and tablets aren't best suited for things like word processing or making spreadsheets. 
@@ -321,19 +347,6 @@ That really depends on the kind of classwork someone will be doing. Younger chil
 **Also:** [**The best iPads for college students**](https://www.zdnet.com/article/best-ipad-for-college/)
 
 Art students are the ones who will benefit most from using a tablet for classes since they can draw, sketch, and digitally paint similar to how they would with a physical pen and paper. Plus, there are some amazing art apps out there (ProCreate, Adobe Creative Cloud) to take full advantage of a tablet's processing power and screen resolution.
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How much storage do I need in my tablet?
 
@@ -346,13 +359,6 @@ The best cheap tablet options on this list all have great storage capacities.
 Generally speaking, a tablet is going to be much more affordable than a traditional laptop. For basic home use, like web browsing or streaming video and music, you can pick one up for just a few hundred dollars. But if you want something more specialized, like for content creation or graphic design, the price significantly increases.
 
 **Also:** [**The best laptops you can buy**](https://www.zdnet.com/article/best-laptop/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the cheapest iPad?
 
@@ -406,20 +412,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/approved-the-best-asmr-microphones-you-should-try/"><u>2024 Approved The Best ASMR Microphones You Should Try</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/charting-the-course-for-success-via-chatgpt-and-whisper-apis/"><u>Charting the Course for Success via ChatGPT & Whisper APIs</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-70-lite-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor 70 Lite 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y27-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y27 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-complete-connoisseurs-manual-for-expertise-in-morphvox-voice-changing/"><u>In 2024, Complete Connoisseur’s Manual for Expertise in MorphVOX Voice Changing</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/mastering-mobility-top-car-navigational-aids-of-2024/"><u>Mastering Mobility: Top Car Navigational Aids of 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-chatgpts-moderation-issues-strategies-to-correct-the-error/"><u>Navigating Through ChatGPT’s Moderation Issues: Strategies to Correct the Error</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/securing-privacy-with-an-iphone-turning-off-no-caller-id-features-easily/"><u>Securing Privacy with an iPhone: Turning Off 'No Caller ID' Features Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-coming-of-sony-automobile-afela-what-we-can-infer-from-the-latest-rumors-on-price-features-and-launch-window/"><u>The Coming of Sony Automobile AFELA: What We Can Infer From the Latest Rumors on Price, Features & Launch Window</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-q-and-s-class-tcl-unveils-brand-new-collection-with-19-cutting-edge-smart-tvs/"><u>The Q and S Class: TCL Unveils Brand-New Collection with 19 Cutting-Edge Smart TVs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-10-online-resources-for-efficient-apartment-hunting/"><u>Top 10 Online Resources for Efficient Apartment Hunting</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722878243485-ultimate-guide-to-buying-durable-and-watertight-phone-covers/"><u>Ultimate Guide to Buying Durable and Watertight Phone Covers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/which-ipad-models-have-built-in-gps/"><u>Which iPad Models Have Built-In GPS?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-an-easy-way-to-amplify-your-instagram-presence-by-sharing-youtube-links-in-stories-for-2024/"><u>[New] An Easy Way to Amplify Your Instagram Presence by Sharing YouTube Links in Stories for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-cutting-edge-capture-8-latency-free-tools/"><u>[Updated] In 2024, Cutting-Edge Capture 8 Latency-Free Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/apexs-single-player-focus-how-to-optimize-your-game-experience-for-2024/"><u>Apex's Single Player Focus How to Optimize Your Game Experience for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-analysis-matterport-axis-software-overview-and-reviews-on-techradar/"><u>Expert Analysis: Matterport Axis Software Overview & Reviews on TechRadar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-virtual-reality-is-metas-new-policy-on-minimum-age-appropriate/"><u>Exploring Virtual Reality: Is Meta's New Policy on Minimum Age Appropriate?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/giggle-genesis-app-for-2024/"><u>Giggle Genesis App for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/harnessing-the-power-duo-unveiling-ai-and-5gs-synergistic-impact-on-modern-advancements-articles-by-zdnet/"><u>Harnessing the Power Duo: Unveiling AI and 5G's Synergistic Impact on Modern Advancements | Articles by ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-set-user-settings-and-avoid-error-driver-failed/"><u>How to Correctly Set User Settings and Avoid 'Error: Driver Failed'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-the-apple-vision-pro-sold-out-checking-supply-and-demand-status-update/"><u>Is the Apple Vision Pro Sold Out? Checking Supply and Demand Status Update</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/linkedin-premium-is-the-added-value-worth-it/"><u>LinkedIn Premium: Is the Added Value Worth It?</u></a></li>
+<li><a href="https://win11.techidaily.com/linux-pure-drop-wsl/"><u>Linux Pure - Drop WSL</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/managing-your-organization-with-the-apple-vision-pro-a-look-at-enhanced-enterprise-device-control/"><u>Managing Your Organization with the Apple Vision Pro: A Look at Enhanced Enterprise Device Control</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/meta-continues-price-reductions-on-oculus-quest-2-hits-record-low-pricing/"><u>Meta Continues Price Reductions on Oculus Quest 2, Hits Record Low Pricing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-obstacles-in-implementing-digital-twins-a-guide-to-tackling-7-key-business-hurdles-insights-from-zdnet/"><u>Overcoming Obstacles in Implementing Digital Twins: A Guide to Tackling 7 Key Business Hurdles - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-premier-selection-of-smart-frames/"><u>The Premier Selection of Smart Frames</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y100i | Dr.fone</u></a></li>
 </ul></div>
 

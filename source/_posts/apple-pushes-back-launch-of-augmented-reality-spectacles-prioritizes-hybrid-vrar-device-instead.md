@@ -1,7 +1,7 @@
 ---
 title: Apple Pushes Back Launch of Augmented Reality Spectacles, Prioritizes Hybrid VR/AR Device Instead
-date: 2024-09-17T02:21:29.069Z
-updated: 2024-09-21T03:46:37.755Z
+date: 2024-10-06T16:01:03.458Z
+updated: 2024-10-13T16:01:45.336Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,29 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/approved-ideal-audio-transformer-devices-for-youtube-experts/"><u>2024 Approved Ideal Audio Transformer Devices for YouTube Experts</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-facebooks-simple-feed-name-change/"><u>Decoding Facebook’s Simple Feed Name Change</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-usb-connectivity-for-internet-sharing/"><u>Diagnosing and Repairing USB Connectivity for Internet Sharing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dive-into-details-samsung-galaxy-z-flip-6-unboxed-news-launch-date-pricing-and-cutting-edge-capabilities/"><u>Dive Into Details: Samsung Galaxy Z Flip 6 Unboxed – News, Launch Date, Pricing & Cutting-Edge Capabilities</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-setting-up-a-convenient-appointment-at-the-apple-genius-bar/"><u>Expert Advice: Setting Up a Convenient Appointment at the Apple Genius Bar</u></a></li>
+<li><a href="https://win-news.techidaily.com/exploring-cost-free-substitutes-to-wdsyncing-tools-what-are-your-options/"><u>Exploring Cost-Free Substitutes to WDSyncing Tools – What Are Your Options?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/imessage-communication-guide-sending-and-receiving-texts-on-your-pc-with-windows/"><u>IMessage Communication Guide: Sending & Receiving Texts on Your PC with Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-captivating-content-the-essential-six-video-formats/"><u>In 2024, Captivating Content The Essential Six Video Formats</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y36-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y36 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-webcam-mastery-how-to-transform-your-video-recording/"><u>In 2024, WebCam Mastery How to Transform Your Video Recording</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-air-4-versus-ipad-air-5-is-it-time-to-upgrade-insights-and-reviews-from-zdnet/"><u>IPad Air 4 Versus iPad Air 5: Is It Time to Upgrade? Insights & Reviews From ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-alternatives-to-chatgpt-which-ones-should-you-avoid/"><u>Top 6 Alternatives to ChatGPT: Which Ones Should You Avoid?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-kid-friendly-mobile-devices-expert-recommendations/"><u>Top Kid-Friendly Mobile Devices: Expert Recommendations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-superior-performance-of-evs-compared-to-gasoline-powered-cars/"><u>Understanding the Superior Performance of EVs Compared to Gasoline-Powered Cars</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-educational-perks-the-ultimate-tutorial-on-youtube-premium-for-students/"><u>Unlocking Educational Perks: The Ultimate Tutorial on YouTube Premium for Students</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
