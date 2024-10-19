@@ -1,7 +1,7 @@
 ---
 title: "Get Your Hands on the Latest Apple Innovations From WWDC Today: A Guide to Where and How You Can Preorder Them | ZDNET Insights"
-date: 2024-10-10T16:05:04.477Z
-updated: 2024-10-13T16:34:10.830Z
+date: 2024-10-15T16:00:06.757Z
+updated: 2024-10-19T16:00:04.221Z
 tags:
   - apple
 categories:
@@ -45,10 +45,16 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -60,10 +66,10 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -77,10 +83,10 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -125,18 +131,19 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-10-tools-to-record-zoom-meeting/"><u>[New] 10 Tools to Record Zoom Meeting</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-audiorecorder-inspection/"><u>[New] Audiorecorder Inspection</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-11-techniques-for-stunning-color-balance/"><u>[New] Top 11 Techniques for Stunning Color Balance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/addressing-androids-text-reception-problem-a-step-by-step-solution/"><u>Addressing Android's Text Reception Problem: A Step-by-Step Solution</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-iphone-teasers-forecasting-the-new-models-market-entry-date-cost-estimates-and-advanced-specs/"><u>Decoding iPhone Teasers: Forecasting the New Model's Market Entry Date, Cost Estimates & Advanced Specs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-solutions-to-get-your-spotify-back-up-and-running-on-android-auto/"><u>Easy Solutions to Get Your Spotify Back Up and Running on Android Auto</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/essential-guide-to-downloading-logitech-g-pro-drivers-for-various-windows-os-including-win-11/"><u>Essential Guide to Downloading Logitech G Pro Drivers for Various Windows OS (Including Win 11)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/essential-no-cost-webcams-for-seamless-chats/"><u>Essential No-Cost Webcams for Seamless Chats</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y78t-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo Y78t Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-unlock-creative-expression-mastering-jump-cut-usage/"><u>In 2024, Unlock Creative Expression Mastering Jump Cut Usage</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/protecting-your-files-a-guide-to-reliable-data-backup-techniques-including-5-essential-steps/"><u>Protecting Your Files: A Guide to Reliable Data Backup Techniques (Including 5 Essential Steps)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/repeatedly-dead-car-batteries-discover-6-main-culprits-that-could-be-to-blame/"><u>Repeatedly Dead Car Batteries? Discover 6 Main Culprits That Could Be to Blame</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/what-are-ethical-alternatives-to-buying-likes/"><u>What Are Ethical Alternatives to Buying Likes?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevate-iphones-visual-storytelling-camera-upgrades-galore/"><u>[New] Elevate iPhone's Visual Storytelling Camera Upgrades Galore</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-prime-radio-playscript-artistry-for-2024/"><u>[New] Prime Radio Playscript Artistry for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-thumbnails-as-a-key-player-in-video-marketing-strategies/"><u>[Updated] 2024 Approved Thumbnails as a Key Player in Video Marketing Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-stills-to-movies-a-pixiz-tutorial-for-photo-animators/"><u>2024 Approved From Stills to Movies A Pixiz Tutorial for Photo Animators</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-motorola-edgeplus-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-tutorial-on-reinitializing-your-samsung-home-theater-system/"><u>Complete Tutorial on Reinitializing Your Samsung Home Theater System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-pc-malfunctions-heres-how-to-resolve-them/"><u>Cyberpunk 2077 PC Malfunctions? Here's How to Resolve Them</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exciting-puzzle-quests-for-your-apple-tablet-inspired-by-the-room-and-myst-series/"><u>Exciting Puzzle Quests for Your Apple Tablet – Inspired by The Room and Myst Series</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-ai-advances-interactive-apple-and-microsofts-chatgpt/"><u>Explore AI Advances: Interactive Apple & Microsoft's ChatGPT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-setting-up-auto-sending-of-sms-via-iphone/"><u>Guide: Setting Up Auto-Sending of SMS via iPhone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-blending-images-with-moving-screens-on-iphone/"><u>In 2024, Blending Images with Moving Screens on iPhone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-art-of-online-photo-trimming/"><u>In 2024, Navigating the Art of Online Photo Trimming</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mac-users-faq-configuring-your-mail-preferences-with-trusted-domains/"><u>Mac Users' FAQ: Configuring Your Mail Preferences with Trusted Domains</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protect-and-secure-july-2flye-2024-list-of-standard-netgear-account-credentials/"><u>Protect and Secure: July 2Flye 2024 List of Standard Netgear Account Credentials</u></a></li>
 </ul></div>
 

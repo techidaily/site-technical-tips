@@ -1,7 +1,7 @@
 ---
 title: "From Zero to Hero: How an iPhone 16 Case Can Transform Your Phone's Protection"
-date: 2024-10-08T16:10:40.266Z
-updated: 2024-10-13T16:07:20.428Z
+date: 2024-10-12T16:00:42.235Z
+updated: 2024-10-19T16:00:32.033Z
 tags:
   - apple
 categories:
@@ -39,10 +39,16 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +62,16 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +93,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,16 +141,18 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-resolving-disabled-state-of-obs-fullscreen-for-2024/"><u>[New] Resolving Disabled State of OBS Fullscreen for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-decode-youtube-shorts-a-complete-breakdown-for-2024/"><u>[Updated] Decode YouTube Shorts A Complete Breakdown for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-easy-steps-to-the-top-gaming-video-editing-programs-for-2024/"><u>[Updated] Easy Steps to the Top Gaming Video Editing Programs for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ensure-compatibility-update-hp-officejet-pro-6970-drivers-for-windows-users/"><u>Ensure Compatibility: Update HP OfficeJet Pro 6970 Drivers for Windows Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-how-to-correctly-address-the-advapi32dll-not-detected-mistake/"><u>Guide: How To Correctly Address The Advapi32.dll Not Detected Mistake</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-repair-unresponsive-focusing-on-your-iphone-camera/"><u>How to Repair Unresponsive Focusing on Your iPhone Camera</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ios-16-unveiled-navigating-and-maximizing-live-activity-features-on-iphone/"><u>IOS 16 Unveiled: Navigating and Maximizing Live Activity Features on iPhone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/mac-display-recorder-tips-and-tricks/"><u>Mac Display Recorder Tips & Tricks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastery-guide-for-diagnosing-and-rectifying-kernel32dll-disruptions-on-your-computer/"><u>Mastery Guide for Diagnosing and Rectifying Kernel32.dll Disruptions on Your Computer</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unlocking-access-to-high-definition-facebook-videos-for-2024/"><u>Unlocking Access to High-Definition Facebook Videos for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wireless-link-integrating-playstation-vr-into-your-pc-gaming-setup/"><u>Wireless Link: Integrating PlayStation VR Into Your PC Gaming Setup</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-unlocking-youtubes-potential-the-25-step-guide/"><u>[New] 2024 Approved Unlocking YouTube's Potential The 25-Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-no-cost-memes-made-simple-our-meme-kit-for-2024/"><u>[New] No-Cost Memes Made Simple Our Meme Kit for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ransform-ideas-into-images-access-free-banner-resources-for-2024/"><u>[New] Transform Ideas Into Images - Access Free Banner Resources for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solved-windows-11-installation-has-failed/"><u>[SOLVED] Windows 11 Installation Has Failed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-securing-your-speech-on-the-ipad/"><u>[Updated] Securing Your Speech on the iPad</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/discovering-the-most-reliable-youtube-downloader-apps-for-android-for-2024/"><u>Discovering the Most Reliable YouTube Downloader Apps for Android for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/insight-into-how-luts-transform-your-digital-canvas-for-2024/"><u>Insight Into How LUTs Transform Your Digital Canvas for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-steps-turn-off-the-lock-screen-in-windows-10-without-hitches/"><u>Simple Steps: Turn Off the Lock Screen in Windows 10 Without Hitches</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplified-steps-setting-up-alarm-clocks-on-your-windows-10-pc/"><u>Simplified Steps: Setting Up Alarm Clocks on Your Windows 10 PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-fixing-realtek-audio-issues-in-windows-11-with-a-new-installation/"><u>Step-by-Step Guide: Fixing Realtek Audio Issues in Windows 11 with a New Installation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-setting-up-and-using-a-vpn-on-your-pc-mac-iphone-or-android-device/"><u>Step-by-Step Guide: Setting Up and Using a VPN on Your PC, Mac, iPhone or Android Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-turmoil-unstable-computer-games-on-windows/"><u>Tech Turmoil: Unstable Computer Games on Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/video-bedtime-fables-parenting-perspectives-on-childrens-stories-for-2024/"><u>Video Bedtime Fables Parenting Perspectives on Children's Stories for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Convenience of Apple Pay: In-Store & E-Commerce Usage Guide – Why It's Worth Your Attention"
-date: 2024-10-09T16:21:28.081Z
-updated: 2024-10-13T16:24:49.005Z
+date: 2024-10-18T16:00:39.241Z
+updated: 2024-10-19T16:00:53.289Z
 tags:
   - apple
 categories:
@@ -31,13 +31,6 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
 
@@ -69,6 +62,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -76,13 +76,6 @@ Double-clicking, or, rather, double-pressing, the button on the right side of yo
 Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
@@ -118,25 +111,32 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
@@ -150,10 +150,10 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Apple Cash?
@@ -212,14 +212,18 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-screen-saver-games-the-top-9-independent-titles-for-android-no-wi-fi/"><u>[Updated] In 2024, Screen-Saver Games The Top 9 Independent Titles for Android (No Wi-Fi)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-macos-sierra-installation-procedures/"><u>2024 Approved Mastering macOS Sierra Installation Procedures</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/a-guide-to-selecting-top-ranked-software-for-hard-drive-partition-repair/"><u>A Guide to Selecting Top-Ranked Software for Hard Drive Partition Repair</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-error-0x80070570-expert-guide-to-restoring-your-data-flow/"><u>Fixing Error 0X80070570: Expert Guide to Restoring Your Data Flow</u></a></li>
-<li><a href="https://extra-support.techidaily.com/next-gen-cloud-vaults-ultimate-pick-list-for-2024/"><u>Next-Gen Cloud Vaults Ultimate Pick List for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-discovering-your-bookmarked-instagram-reels-easily/"><u>Step-by-Step Guide: Discovering Your Bookmarked Instagram Reels Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-repair-why-is-my-playstation-5-controller-not-charging/"><u>Step-by-Step Repair: Why Is My PlayStation 5 Controller Not Charging?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-correct-the-drivers-issues-causing-windows-error-code-19/"><u>Step-by-Step Solutions to Correct the Drivers Issues Causing Windows Error Code 19</u></a></li>
-<li><a href="https://win-blog.techidaily.com/stop-firefox-hanging-comprehensive-solutions-for-a-smooth-browsing-experience-2024-edition/"><u>Stop Firefox Hanging: Comprehensive Solutions for a Smooth Browsing Experience - 2024 Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-combat-black-screen-disruptions-in-gaming-feeds/"><u>[New] In 2024, Combat Black Screen Disruptions in Gaming Feeds</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-pioneering-video-content-creation-via-google-trends-study/"><u>[Updated] 2024 Approved Pioneering Video Content Creation via Google Trends Study</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-hilarious-side-of-iphones/"><u>2024 Approved The Hilarious Side of iPhones</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-nokia-g22-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Nokia G22 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-guide-to-restoring-power-functionality-for-unresponsive-computers/"><u>DIY Guide to Restoring Power Functionality for Unresponsive Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-get-your-samsung-tv-apps-running-flawlessly/"><u>Effective Strategies to Get Your Samsung TV Apps Running Flawlessly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-microsoft-outlook-launching-problems-effectively/"><u>How to Fix Microsoft Outlook Launching Problems Effectively</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-scout-out-best-spots-for-vr-experiences/"><u>In 2024, Scout Out Best Spots for VR Experiences</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-virtual-world-bliss-an-lg-360-vr-reveal/"><u>In 2024, Virtual World Bliss An LG 360 VR Reveal</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-changing-your-samsung-tvs-default-web-browser/"><u>Step-by-Step Guide: Changing Your Samsung TV's Default Web Browser</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-6-superior-food-diary-applications-to-boost-your-well-beer/"><u>The Ultimate Selection: 6 Superior Food Diary Applications to Boost Your Well-Beer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-user-friendly-guide-to-adjusting-the-window-10-taskbar-palette-for-an-enhanced-ui-experience/"><u>The User-Friendly Guide to Adjusting the Window 10 Taskbar Palette for an Enhanced UI Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-13-true-crime-podcasts-that-will-keep-you-hooked-all-day-long/"><u>Top 13 True Crime Podcasts That Will Keep You Hooked All Day Long</u></a></li>
 </ul></div>
 

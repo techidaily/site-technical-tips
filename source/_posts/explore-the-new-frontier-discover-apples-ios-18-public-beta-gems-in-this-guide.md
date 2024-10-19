@@ -1,7 +1,7 @@
 ---
 title: "Explore the New Frontier: Discover Apple's iOS 18 Public Beta Gems in This Guide"
-date: 2024-10-07T16:28:07.114Z
-updated: 2024-10-13T16:09:02.271Z
+date: 2024-10-16T16:01:38.790Z
+updated: 2024-10-19T16:05:36.244Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +71,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,14 +128,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-expert-guide-to-video-editing-leveraging-power-of-movies-maker-on-windows-8/"><u>[New] In 2024, Expert Guide to Video Editing Leveraging Power of Movies Maker on Windows 8</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-mastering-slow-motion-photography-in-phantom-cameras/"><u>[Updated] Mastering Slow-Motion Photography in Phantom Cameras</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-signs-that-youve-been-muted-by-someone-for-2024/"><u>[Updated] Signs That You've Been Muted by Someone for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-camera-driver-software-on-windows-11-10-8-or-7/"><u>Download & Install Camera Driver Software on Windows 11, 10, 8 or 7</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-a-kernel-data-inpage-error/"><u>How to Fix a Kernel Data Inpage Error</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-recurring-crashes-for-thunder-tier-one-gaming-experience-on-pcs/"><u>How to Prevent Recurring Crashes for Thunder: Tier One Gaming Experience on PCs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-sound-integration-pairing-a-laptop-and-bluetooth-speakers-made-easy/"><u>Seamless Sound Integration: Pairing a Laptop and Bluetooth Speakers Made Easy</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-art-of-incognito-surfing-tips-for-chrome-edge-firefox-safari-opera-users/"><u>The Art of Incognito Surfing: Tips for Chrome, Edge, Firefox, Safari, Opera Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-implementing-copilot-in-your-microsoft-teams-workflow/"><u>The Ultimate Tutorial for Implementing Copilot in Your Microsoft Teams Workflow</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-eagle-eye-expedition-the-ultimate-guide-to-fps-game-selection-for-2024/"><u>[New] Eagle-Eye Expedition - The Ultimate Guide to FPS Game Selection for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-insights-how-to-choose-among-the-top-9-free-youtube-makers/"><u>[New] In 2024, Essential Insights How to Choose Among the Top 9 Free YouTube Makers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-quick-start-guide-to-editing-with-snapseed-for-2024/"><u>[Updated] Quick Start Guide to Editing with Snapseed for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-artistic-revolution-identifying-top-6-nft-visionaries/"><u>2024 Approved The Artistic Revolution Identifying Top 6 NFT Visionaries</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-an-inactive-instagram-account-whats-the-next-move/"><u>Dealing With an Inactive Instagram Account: What's the Next Move?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/digital-giants-exploring-the-foremost-websites-on-earth-in-the-ultimate-top-10-list/"><u>Digital Giants: Exploring the Foremost Websites on Earth in the Ultimate Top 10 List</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-setup-hp-envy-press-5660-drivers-hassle-free-today/"><u>Download and Setup HP Envy Press 5660 Drivers Hassle-Free Today!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-11-pro-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 11 Pro Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-speedy-fixes-for-slow-mo-videos-in-a-flash/"><u>In 2024, Speedy Fixes for Slow-Mo Videos in a Flash</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-splicing-sounds-to-videos-on-w11-desktop/"><u>In 2024, Splicing Sounds to Videos on W11 Desktop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/keep-up-with-the-world-on-roku-even-when-youre-away-at-hotels-or-university/"><u>Keep Up with the World on Roku, Even When You're Away at Hotels or University</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-to-success-with-top-notch-key-finder-gadgets/"><u>Navigate to Success with Top-Notch Key Finder Gadgets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-when-you-cant-find-mso-dll-file-on-your-computer/"><u>Quick Fixes for When You Can't Find MSO DLL File on Your Computer</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/select-alternative-save-area-for-mac-pics-for-2024/"><u>Select Alternative Save Area for Mac Pics for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-launchdll-cannot-be-found-issues-easily-with-these-steps/"><u>Solve 'Launch.dll Cannot Be Found' Issues Easily with These Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-essentials-of-net-neutrality-an-easy-explanation/"><u>The Essentials of Net Neutrality - An Easy Explanation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-solutions-for-resolving-your-wireless-adapter-issues/"><u>Top 10 Solutions for Resolving Your Wireless Adapter Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wanderlust-essentials-the-66-premier-twitter-feeds-for-travel-insights-and-savings/"><u>Wanderlust Essentials: The 66 Premier Twitter Feeds for Travel Insights and Savings</u></a></li>
 </ul></div>
 

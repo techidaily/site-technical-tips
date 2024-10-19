@@ -1,7 +1,7 @@
 ---
 title: Inside the Device Choices of ZDNet Editors - Your Trusted Phone Guides Revealed!
-date: 2024-10-12T16:19:39.045Z
-updated: 2024-10-13T16:01:35.831Z
+date: 2024-10-15T16:01:19.779Z
+updated: 2024-10-19T16:00:14.903Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ You might be offered a higher-than-expected trade-in value for your current phon
 In my experience, carriers go out of their way to make these deals complicated, and you need to look carefully to see if there are any hidden gotchas. Here are seven questions to ask up front to make sure you don't encounter an unpleasant surprise later.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Do I need to add a line to qualify?
@@ -63,15 +63,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does my existing plan qualify?
 
 The most attractive upgrade offers are typically only available if you sign up for one of the carrier's premium plans. If you're currently on a low-cost legacy plan from the same carrier or a competitor, be sure to find out how much your monthly payment for mobile service will increase. The difference might be enough to wipe out any savings from the promo credits.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will my new phone be locked to this carrier?
@@ -80,16 +87,22 @@ The carrier is offering that phone at a discount because they want to lock you i
 
 **Also: [The best iPhone deals of 2024: Free iPhone 15s, free iPads, cheap accessories](https://www.zdnet.com/article/iphone-deals/)**
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many months does the payment agreement last?
 
 T-Mobile still offers 24-month payment plans, but rivals Verizon and AT&T now apply device credits over 36 months. If you're absolutely certain you'll keep your new phone for the full three years, that might be a good deal, but you'll pay dearly if you need to replace it before the agreement ends.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What happens if I want to pay off the device early?
 
@@ -98,13 +111,6 @@ At any time during the agreement, you can pay the remaining balance and ask for 
 **Also: [T-Mobile tops speed tests among the three major US carriers - here's how](https://www.zdnet.com/home-and-office/networking/t-mobile-tops-speed-tests-among-the-three-major-us-carriers-heres-how/)**
 
 As an inducement for you to switch, some carriers will offer to reimburse you for your device payoff. Check the terms and conditions carefully before you accept that offer. If you decide to move to a new carrier, don't cancel your line at the old carrier until you've successfully ported your number over; if you do that move in the wrong order you risk losing your current phone number. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can I get a better deal on the phone somewhere else?
 
@@ -148,16 +154,16 @@ The exception to that rule is usually when a new smartphone model comes out; dur
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-ultimate-mobile-cinema-showcase-apples-best-freepluspaid-film-watchers-guide/"><u>[New] 2024 Approved The Ultimate Mobile Cinema Showcase Apple's Best FREE+Paid Film Watchers Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-complete-lowdown-on-using-showmores-recorder-for-2024/"><u>[New] The Complete Lowdown on Using ShowMore's Recorder for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-becoming-a-true-connoisseur-of-srt-text-creation/"><u>[Updated] Becoming a True Connoisseur of SRT Text Creation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/find-your-perfect-match-8-exceptional-free-html-editing-software-for-windows-enthusiasts/"><u>Find Your Perfect Match: 8 Exceptional Free HTML Editing Software for Windows Enthusiasts</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oneplus-ace-2-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from OnePlus Ace 2 to iPad | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-it-possible-to-stream-netflix-on-nintendo-switch-console/"><u>Is It Possible To Stream Netflix On Nintendo Switch Console?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-call-management-how-to-tackle-inability-to-take-calls-on-the-samsung-galaxy-watch-series/"><u>Mastering Call Management: How to Tackle Inability to Take Calls on the Samsung Galaxy Watch Series</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsung-smart-tv-hacks-how-to-navigate-with-a-remote-control-effortlessly/"><u>Samsung Smart TV Hacks: How to Navigate with a Remote Control Effortlessly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sparkle-with-style-animating-text-in-your-insta-stories/"><u>Sparkle with Style Animating Text in Your Insta Stories</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/speed-and-delay-the-connection-between-computer-memory-and-performance/"><u>Speed & Delay: The Connection Between Computer Memory and Performance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-melody-the-best-eight-iphone-audio-applications-without-cost/"><u>Unlocking Melody: The Best Eight iPhone Audio Applications Without Cost</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-bridging-the-gap-audio-to-text-in-powerpoint-slides/"><u>[New] Bridging the Gap Audio to Text in PowerPoint Slides</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-exclusive-roundup-best-hdmi-21-tvs-compared-directly/"><u>[New] Exclusive Roundup Best HDMI 2.1 TVs Compared Directly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-connect-a-wifi-printer/"><u>How to Connect a Wifi Printer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-disable-windows-10-lock-screen-easily/"><u>How to Disable Windows 10 Lock Screen, Easily!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-easily-connect-your-laptop-to-a-projector-detailed-instructions-inside/"><u>How To Easily Connect Your Laptop to a Projector - Detailed Instructions Inside!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-overcome-camera-error-code-0xa00f4244-on-your-windows-10-or-11-device/"><u>How to Overcome 'Camera Error Code 0XA00F4244' On Your Windows 10 or 11 Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-play-fortnite-on-pc-easy-guide-for-beginners/"><u>How to Play Fortnite on PC — Easy Guide for Beginners!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unique-coverage-awaits-crafting-your-own-custom-youtube-shorts-images/"><u>In 2024, Unique Coverage Awaits Crafting Your Own Custom YouTube Shorts Images</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/infographics-spotlight-on-future-social-trends/"><u>Infographics Spotlight on Future Social Trends</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-mmc-snaps-not-displayed-on-windows/"><u>Navigating Through MMC Snaps Not Displayed on Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncover-hidden-gems-techniques-to-recover-deleted-iphone-note-content/"><u>Uncover Hidden Gems: Techniques to Recover Deleted iPhone Note Content</u></a></li>
 </ul></div>
 

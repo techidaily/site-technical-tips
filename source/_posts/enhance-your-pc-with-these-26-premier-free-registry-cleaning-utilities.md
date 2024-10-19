@@ -1,7 +1,7 @@
 ---
 title: Enhance Your PC with These 26 Premier Free Registry Cleaning Utilities
-date: 2024-09-16T20:05:50.826Z
-updated: 2024-09-20T20:36:20.361Z
+date: 2024-10-15T20:33:22.958Z
+updated: 2024-10-19T01:19:48.267Z
 categories:
   - BestProducts
 description: This Article Describes Enhance Your PC with These 26 Premier Free Registry Cleaning Utilities
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/wmZqDjh0jdrBPb3ad8L5fYMcnMg=/300x200/fi
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable a New Mail Sound for Gmail
 
  If you want to hear a new email sound when you use Gmail in your desktop web browser, you can make that happen—just not in Gmail itself.
@@ -34,8 +41,24 @@ thumbnail: https://www.lifewire.com/thmb/wmZqDjh0jdrBPb3ad8L5fYMcnMg=/300x200/fi
 1. Select**Extensions** next to Chrome's navigation bar, then select**More actions** (three vertical dots) and choose **Options** .  
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
 
@@ -48,10 +71,16 @@ thumbnail: https://www.lifewire.com/thmb/wmZqDjh0jdrBPb3ad8L5fYMcnMg=/300x200/fi
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
@@ -98,5 +127,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-borrow-premium-image-footage-via-top-rated-4-youtube-channels-for-2024/"><u>[New] Borrow Premium Image Footage via Top-Rated 4 YouTube Channels for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-expert-roundup-of-platforms-for-video-intro-acquisition/"><u>[New] In 2024, Expert Roundup of Platforms for Video Intro Acquisition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/accessing-and-enjoying-apples-revolutionary-3d-videos-in-vr-a-complete-tutorial-for-your-oculus-quest-3-users/"><u>Accessing and Enjoying Apple's Revolutionary 3D Videos in VR - A Complete Tutorial for Your Oculus Quest 3 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmenting-crypto-dialogues-gpts-top-8-integrative-tools-revealed/"><u>Augmenting Crypto Dialogues: GPT's Top 8 Integrative Tools Revealed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/create-a-gif-from-your-mkv-files-easy-conversion-tutorial/"><u>Create a GIF From Your MKV Files - Easy Conversion Tutorial</u></a></li>
+<li><a href="https://facebook.techidaily.com/expanding-follower-base-transferring-instagram-reels-to-facebook/"><u>Expanding Follower Base: Transferring Instagram Reels to Facebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-mp3-files-to-audio-cds-a-step-by-step-imgburn-process-on-pc/"><u>From Mp3 Files to Audio CDs: A Step-by-Step ImgBurn Process on PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-zero-to-hero-how-an-iphone-16-case-can-transform-your-phones-protection/"><u>From Zero to Hero: How an iPhone 16 Case Can Transform Your Phone's Protection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-assessment-of-the-latest-apple-airpods-series-3-reviewed-by-tech-gurus-at-zdnet/"><u>In-Depth Assessment of the Latest Apple AirPods Series 3 Reviewed by Tech Gurus at ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/new-era-for-ios-developers-how-macpaw-steps-in-with-an-updated-app-solution-post-regulatory-shift-zdnet-insights/"><u>New Era for iOS Developers: How MacPaw Steps In with an Updated App Solution Post-Regulatory Shift | ZDNET Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-meizu-21-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-recording-your-favorite-shows-from-amazon-prime-video-using-a-windows-pc/"><u>Step-by-Step Guide: Recording Your Favorite Shows From Amazon Prime Video Using a Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/under-2000-how-the-sony-a80l-oled-smashes-expectations-with-stunning-ai-enhanced-upscaling-a-game-changer-reviewed/"><u>Under $2,000: How the Sony A80L OLED Smashes Expectations with Stunning AI-Enhanced Upscaling - A Game Changer Reviewed!</u></a></li>
+</ul></div>
 

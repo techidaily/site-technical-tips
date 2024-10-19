@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Flushing Your Android Device's Memory Cache
-date: 2024-09-19T03:50:05.660Z
-updated: 2024-09-21T04:57:14.629Z
+date: 2024-10-12T16:59:08.633Z
+updated: 2024-10-19T15:26:43.396Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Guide to Flushing Your Android Device's Memory Cache
@@ -34,10 +34,34 @@ thumbnail: https://www.lifewire.com/thmb/KWW-p0HtRkbdyWnWuK_R2KLBwns=/400x300/fi
 2. Then, navigate to**Screen and Video** .  
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
@@ -52,10 +76,16 @@ thumbnail: https://www.lifewire.com/thmb/KWW-p0HtRkbdyWnWuK_R2KLBwns=/400x300/fi
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which PS5 Games Support 120 FPS?
@@ -102,5 +132,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-discover-top-10plus-platforms-for-remote-church-experience/"><u>[New] 2024 Approved Discover Top 10+ Platforms for Remote Church Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-choreographing-cinema-sounds-in-the-windows-11-space/"><u>[Updated] Choreographing Cinema Sounds in the Windows 11 Space</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-from-creator-to-curator-perfect-your-fb-video-sharing-skills/"><u>[Updated] In 2024, From Creator to Curator Perfect Your FB Video Sharing Skills</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sky-high-savings-on-storages-an-insider-look-at-free-and-premium-cloud-services/"><u>[Updated] Sky High Savings on Storages An Insider Look at Free & Premium Cloud Services</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-is-luminances-hdr-suitable-for-production/"><u>2024 Approved Is Luminance's HDR Suitable for Production?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amazon-labor-day-special-secure-an-ipad-for-a-steal-at-199-reviews-and-deals-featured-by-zdnet/"><u>Amazon Labor Day Special: Secure an iPad for a Steal at $199 – Reviews & Deals Featured by ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/can-you-spot-it-detecting-if-messages-are-checked/"><u>Can You Spot It?: Detecting if Messages Are Checked</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/capture-video-perfection-in-minutes-for-2024/"><u>Capture Video Perfection in Minutes for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-workplace-efficiency-the-apple-vision-pros-integration-with-enterprise-device-management-insights-from-zdnet/"><u>Enhancing Workplace Efficiency: The Apple Vision Pro's Integration with Enterprise Device Management - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/favorite-phone-picks-top-phones-chosen-by-our-experts-at-zdnet/"><u>Favorite Phone Picks: Top Phones Chosen by Our Experts at ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-5-photo-background-modifier-tools-x87-series/"><u>Leading 5 Photo Background Modifier Tools X/8/7 Series</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/magic-meets-machine-apples-groundbreaking-on-device-image-creator-eclipses-dall-e/"><u>Magic Meets Machine: Apple's Groundbreaking On-Device Image Creator Eclipses DALL-E</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximizing-productivity-transforming-your-home-office-with-the-latest-ipad-pro-insights-from-zdnet/"><u>Maximizing Productivity: Transforming Your Home Office with the Latest iPad Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-silence-your-xbox-vibration/"><u>The Ultimate Guide to Silence Your Xbox Vibration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-explores-apples-latest-innovation-an-enchanting-local-ai-imagery-generator-eclipsing-dall-e-top-tech-news/"><u>ZDNet Explores Apple's Latest Innovation: An Enchanting Local AI Imagery Generator Eclipsing DALL-E | Top Tech News</u></a></li>
+</ul></div>
 

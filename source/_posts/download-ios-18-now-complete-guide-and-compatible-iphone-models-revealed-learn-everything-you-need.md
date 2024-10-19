@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18 Now: Complete Guide & Compatible iPhone Models Revealed! - Learn Everything You Need"
-date: 2024-10-10T16:29:58.380Z
-updated: 2024-10-13T16:05:11.475Z
+date: 2024-10-13T16:00:21.053Z
+updated: 2024-10-19T16:01:09.072Z
 tags:
   - apple
 categories:
@@ -32,16 +32,16 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
@@ -50,6 +50,19 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -64,10 +77,10 @@ After installing the latest iOS update, your iPhone will restart.
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When was iOS 18 released?
@@ -76,6 +89,13 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Can you still download the iOS 18 public beta?
 
 You can always be part of the Apple Beta program to get the latest beta versions of iOS. Before you download a beta version of an operating system, you should have some housekeeping items in mind:
@@ -83,13 +103,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -117,13 +130,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -169,18 +175,14 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-screen-savvy-6-advanced-techniques-to-record-minecraft-sessions/"><u>[New] In 2024, Screen Savvy 6 Advanced Techniques to Record Minecraft Sessions</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/tarting-from-scratch-on-youtube-channel-creation-and-monetization-basics-for-2024/"><u>[New] Starting From Scratch on Youtube Channel Creation and Monetization Basics for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-step-up-to-stellar-footage-essential-action-cam-addons/"><u>[New] Step Up to Stellar Footage Essential Action Cam Addons</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-extensions-for-after-effects-magic/"><u>[Updated] Premium Extensions for After Effects Magic</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-unlock-your-potential-tiktok-money-making-techniques-explained/"><u>[Updated] Unlock Your Potential TikTok Money-Making Techniques Explained</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/charting-out-your-audience-youtubes-blueprint-for-2024/"><u>Charting Out Your Audience YouTube's Blueprint for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/chatgpt-plus-is-it-a-smart-investment-top-5-benefits-of-joining/"><u>ChatGPT Plus: Is It a Smart Investment? Top 5 Benefits of Joining</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-generative-artifice-intelligence-ai-explained/"><u>Demystifying Generative Artifice Intelligence (AI) Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-latest-on-iphone-17-release-dates-cost-predictions-and-potential-specs-revealed/"><u>Exploring the Latest on iPhone 17 – Release Dates, Cost Predictions & Potential Specs Revealed</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-tecno-pop-7-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-the-cant-find-msvcr71dll-error-with-these-troubleshooting-steps/"><u>Fix the Can't Find MSVCR71.DLL Error with These Troubleshooting Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-safelist-email-addresses/"><u>How to Safelist Email Addresses</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/parrot-mambo-complete-review-for-2024/"><u>Parrot Mambo Complete Review for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-behind-the-scenes-10-underrated-aspects-of-reels-on-instagram/"><u>[Updated] In 2024, Behind the Scenes 10 Underrated Aspects of Reels on Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/abbyy-announces-new-leadership-with-chip-vonburg-as-appointed-head-of-customer-relations/"><u>ABBYY Announces New Leadership with Chip vonBurg as Appointed Head of Customer Relations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-exploring-entertainment-youtubes-integration-with-fb/"><u>In 2024, Exploring Entertainment YouTube's Integration with FB</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oppo-find-x6-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Oppo Find X6 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808227650-release-your-windows-update-from-its-ice-age-instant-remedies-unveiled/"><u>Release Your Windows Update From Its Ice Age - Instant Remedies Unveiled!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolved-issue-ssl-version-or-cipher-mismatch-error-in-windows-systems/"><u>Resolved Issue: SSL Version or Cipher Mismatch Error in Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808061187-secure-your-internet-with-savings-snag-a-49-discount-on-expressvpn-coupons-today/"><u>Secure Your Internet with Savings: Snag a 49% Discount on ExpressVPN Coupons Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-techniques-to-efficiently-take-photos-of-your-laptop-display/"><u>Simple Techniques to Efficiently Take Photos of Your Laptop Display</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "From Zero to X Expert: Starting and Configuring Your First X Account"
-date: 2024-10-06T16:24:05.695Z
-updated: 2024-10-13T16:30:14.214Z
+date: 2024-10-13T16:01:00.914Z
+updated: 2024-10-19T16:01:02.981Z
 categories:
   - BestProducts
 description: "This Article Describes From Zero to X Expert: Starting and Configuring Your First X Account"
@@ -32,38 +32,24 @@ thumbnail: https://thmb.techidaily.com/d4c7cd2172ccba4bdb571077b4ff8032d0659877f
 
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Lifewire's Release Date Estimate
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Wearable Device With Direct Audio Price Rumors
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple Wearable Device With Direct Audio Features
 
@@ -72,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/d4c7cd2172ccba4bdb571077b4ff8032d0659877f
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Apple, Inc / USPTO
@@ -87,6 +73,13 @@ Apple, Inc / USPTO
 * Directional audio
 * Microphones for commands, user identification, and calibration.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -94,6 +87,13 @@ Apple, Inc / USPTO
  By making these beams of sound small and focused, the user can hear audio from the device without other people nearby—even people within a foot or two of the wearer—picking it up. That means the user doesn't need to wear earbuds or headphones to listen to music or make phone calls.
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Microphones for Commands, User Identification, and Callibration
 
@@ -126,19 +126,24 @@ Apple, Inc / USPTO
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-master-plan-top-6-modernist-minecraft-villas/"><u>[Updated] 2024 Approved Master Plan Top 6 Modernist Minecraft Villas</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-a-comprehensive-guide-to-changing-avatars-and-statuses-on-discord-for-2024/"><u>[Updated] A Comprehensive Guide to Changing Avatars & Statuses on Discord for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/architects-of-online-marvel-adventures-for-2024/"><u>Architects of Online Marvel Adventures for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ev-performance-under-duress-navigating-extremely-hot-and-cold-temperatures/"><u>EV Performance Under Duress: Navigating Extremely Hot and Cold Temperatures</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/hot-picks-of-20212022-your-guide-to-top-disney-plus-films/"><u>Hot Picks of 2021/2022: Your Guide to Top Disney Plus Films</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oneplus-11-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your OnePlus 11 5G</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-skill-linking-up-printers-to-facilitate-device-wide-use/"><u>Master the Skill: Linking Up Printers to Facilitate Device-Wide Use</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-unlocking-rar-archives-on-your-mac/"><u>Step-by-Step Guide: Unlocking RAR Archives on Your Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-checklist-7-key-points-you-shouldnt-ignore-for-smart-tv-shopping/"><u>The Ultimate Checklist: 7 Key Points You Shouldn't Ignore for Smart TV Shopping</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-10-ai-conversational-tools-comparable-to-chatgpt/"><u>Top 10 AI Conversational Tools Comparable to ChatGPT</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/windows-11-essential-steps-for-audio-recording-for-2024/"><u>Windows 11 Essential Steps for Audio Recording for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-keep-it-flowing-repasting-content-on-ig/"><u>[New] In 2024, Keep It Flowing Repasting Content on IG</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mjolnirs-legacy-new-era-dawned/"><u>[New] Mjolnir's Legacy New Era Dawned</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-secrets-to-polished-photo-edits-in-canva/"><u>[Updated] The Secrets to Polished Photo Edits in Canva</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-finding-a-different-way-to-naming-your-channel-with-filmora/"><u>In 2024, Finding a Different Way to Naming Your Channel with Filmora</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-search-of-excellence-notion-ai-versus-chatgpt-evaluation/"><u>In Search of Excellence: Notion AI Versus ChatGPT Evaluation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ios-vs-website-6-compelling-reasons-to-choose-the-chatgpt-mobile-app-for-ai-interaction/"><u>IOS vs Website: 6 Compelling Reasons to Choose the ChatGPT Mobile App for AI Interaction</u></a></li>
+<li><a href="https://extra-support.techidaily.com/nine-ways-to-unblock-live-feeds-on-firefoxchrome-for-2024/"><u>Nine Ways to Unblock Live Feeds on FireFox/Chrome for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/patch-note-update-call-of-duty-black-ops-cold-war-fixes-ui-error-27711-issue/"><u>Patch Note Update: Call of Duty Black Ops Cold War Fixes UI Error 27711 Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-and-simple-methods-how-to-extract-youtube-videos-audio-with-ease/"><u>Quick and Simple Methods: How to Extract YouTube Videos' Audio with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-start-manual-linking-a-wireless-peripheral-device-to-your-pc/"><u>Quick Start Manual: Linking a Wireless Peripheral Device to Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rapid-fixes-to-reconnect-your-missing-webcam-on-pcs/"><u>Rapid Fixes to Reconnect Your Missing Webcam on PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seagate-hard-disk-woes-discover-solutions-for-windows-11-connectivity-issues/"><u>Seagate Hard Disk Woes? Discover Solutions for Windows 11 Connectivity Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-your-internet-footprint-using-the-tor-browser-for-privacy-in-windows-11/"><u>Secure Your Internet Footprint: Using the Tor Browser for Privacy in Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/shattering-synthetic-statistics-on-youtube-for-2024/"><u>Shattering Synthetic Statistics on YouTube for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-valorant-startup-challenges-dealing-with-a-black-screen-error-effectively/"><u>Solve Valorant Startup Challenges: Dealing with a Black Screen Error Effectively</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-your-logitech-mouses-performance-issues-a-step-by-step-guide/"><u>Solving Your Logitech Mouse's Performance Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-accessing-windows-10-advanced-startup-settings-with-ease/"><u>Step-by-Step Guide: Accessing Windows 10 Advanced Startup Settings with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-configuring-two-screens-with-windows-10/"><u>Step-by-Step Guide: Configuring Two Screens with Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-your-mac-isnt-playing-sounds-and-how-to-turn-it-back-on/"><u>Why Your Mac Isn't Playing Sounds and How to Turn It Back On</u></a></li>
 </ul></div>
 

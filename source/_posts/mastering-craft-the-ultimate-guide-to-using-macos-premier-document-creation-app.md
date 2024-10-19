@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate Guide to Using MacOS’ Premier Document Creation App"
-date: 2024-10-08T16:15:45.951Z
-updated: 2024-10-13T16:27:24.528Z
+date: 2024-10-12T16:03:35.280Z
+updated: 2024-10-19T16:05:02.945Z
 tags:
   - apple
 categories:
@@ -36,16 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -69,10 +63,16 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -86,10 +86,16 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -140,17 +146,21 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-joshis-success-youtube-earnings-strategy/"><u>[New] 2024 Approved Joshi's Success YouTube Earnings Strategy</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-a-detailed-review-of-camstudio-screencapture-for-2024/"><u>[New] A Detailed Review of CamStudio ScreenCapture for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-cameras-collide-in-motorsport-showdown-gopro-vs-drift-ghost-s/"><u>[New] Cameras Collide in Motorsport Showdown! GoPro Vs. Drift Ghost-S</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-6-budget-friendly-youtube-outro-makers/"><u>2024 Approved Top 6 Budget-Friendly YouTube Outro Makers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/black-friday-deals-unlocking-the-top-5-reasons-to-invest-in-a-3d-printer-now/"><u>Black Friday Deals: Unlocking the Top 5 Reasons to Invest in a 3D Printer Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/disabling-iphone-emergency-and-amber-alerts-a-step-by-step-guide/"><u>Disabling iPhone Emergency & Amber Alerts: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/dvd-dvd17/"><u>DVDコピー手法ガイド -無許可なしでDVDを正当にバックアップする17ページ</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722898954645-explore-these-exceptional-substitutes-for-chatgpt-top-picks/"><u>Explore These Exceptional Substitutes for ChatGPT: Top Picks!</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-infinix-smart-8-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Smart 8 phone? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-new-features-your-essential-ipados-version-companer/"><u>Navigating New Features: Your Essential iPadOS Version Companer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-multitasking-with-google-duet-on-your-gmail-platform/"><u>Seamless Multitasking with Google Duet on Your Gmail Platform</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-windows-code-39-issue-a-step-by-step-guide/"><u>Solving Windows Code 39 Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-video-magic-begins-macbooks-webcam-guide/"><u>[New] In 2024, Video Magic Begins MacBook's Webcam Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chromatic-choices-discover-the-best-5-screens-today/"><u>[Updated] Chromatic Choices Discover the Best 5 Screens Today</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-ultimate-guide-to-never-ending-snapstreaks/"><u>2024 Approved The Ultimate Guide to Never-Ending Snapstreaks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-practices-for-mentioning-ai-contributions-citing-chatgpt-references-and-quotes/"><u>Best Practices for Mentioning AI Contributions: Citing ChatGPT References and Quotes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-network-a-review-of-the-leading-wi-fi-extenders-on-the-market/"><u>Enhance Your Network: A Review of the Leading Wi-Fi Extenders on the Market</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722849567906-experience-lightning-fast-browsing-flush-your-macs-dns-data-today/"><u>Experience Lightning-Fast Browsing: Flush Your Mac's DNS Data Today</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-create-and-schedule-a-google-meet/"><u>How to Create and Schedule A Google Meet?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-comprehensively-guide-windows-10s-best-practices-for-mov-files/"><u>In 2024, Comprehensively Guide Windows 10'S Best Practices for Mov Files</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-toshiba-laptop-graphics-card-updates-and-downloads-for-windows-systems/"><u>Latest Toshiba Laptop Graphics Card Updates & Downloads for Windows Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reviving-your-smart-tv-expert-tips-for-rebooting-samsung-displays/"><u>Reviving Your Smart TV: Expert Tips for Rebooting Samsung Displays</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rumored-snapshots-unveiling-expected-price-points-and-specs-for-next-gen-iphone-release/"><u>Rumored Snapshots: Unveiling Expected Price Points and Specs for Next-Gen iPhone Release</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-to-connect-your-computer-monitor-with-chromecast-for-home-theater-viewing/"><u>Step-by-Step Instructions to Connect Your Computer Monitor with Chromecast for Home Theater Viewing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-flv-video-editors-2023-update/"><u>The Ultimate Guide to Free FLV Video Editors (2023 Update)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-issues-with-a-malfunctioning-firestick-remote/"><u>Troubleshooting Guide: Resolving Issues with a Malfunctioning Firestick Remote</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-finding-your-perfect-smartphone-retailer/"><u>Ultimate Guide: Finding Your Perfect Smartphone Retailer</u></a></li>
 </ul></div>
 

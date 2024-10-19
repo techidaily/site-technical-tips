@@ -1,7 +1,7 @@
 ---
 title: Apple Ordered to Pay €1.9 Billion by European Commission Over App Store Monopoly Concerns | Coverage by ZDNet
-date: 2024-10-10T16:02:10.246Z
-updated: 2024-10-13T16:12:23.997Z
+date: 2024-10-15T16:00:09.951Z
+updated: 2024-10-19T16:00:28.829Z
 tags:
   - apple
 categories:
@@ -85,23 +85,27 @@ This fine is another notch in the EU's belt to level European competition among 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-creative-naming-powered-by-ai-for-engaging-pods/"><u>[Updated] In 2024, Creative Naming Powered by AI for Engaging Pods</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-noise-free-auditory-shifts/"><u>2024 Approved Navigating Noise-Free Auditory Shifts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snap-income-trends-in-making-money-on-social-media/"><u>2024 Approved Snap Income Trends in Making Money on Social Media</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/avoid-common-mistakes-key-points-to-consider-when-choosing-a-selfie-stick/"><u>Avoid Common Mistakes: Key Points to Consider When Choosing a Selfie Stick</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-learning-applications-our-pick-of-the-crop/"><u>Best Learning Applications: Our Pick-of-the-Crop</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-oppo-a78-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Oppo A78</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-retro-gaming-with-these-top-6-super-mario-bros-hits-for-your-computer/"><u>Experience Retro Gaming with These Top 6 Super Mario Bros Hits for Your Computer</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/first-steps-in-speech-and-phonetics-for-germans/"><u>First Steps in Speech and Phonetics for Germans</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-90-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor 90? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/smooth-launch-into-lotr-world-lol/"><u>Smooth Launch Into LOTR World (LOL)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-viewing-the-matrix-series-sequentially/"><u>The Ultimate Guide: Viewing The Matrix Series Sequentially</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-elite-tiktok-editors-for-windows-users-for-2024/"><u>[New] Elite TikTok Editors For Windows Users for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-exploring-free-animation-methods-onlineoffline/"><u>[New] Exploring Free Animation Methods Online/Offline</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-beginner-friendly-approach-embracing-video-chats-on-insta-for-2024/"><u>[Updated] Beginner-Friendly Approach Embracing Video Chats on Insta for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-transforming-videos-into-immersive-experiences-top-vr-converters/"><u>2024 Approved Transforming Videos Into Immersive Experiences Top VR Converters</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-t2-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/highly-recommended-applications-for-virtual-group-meetings-and-calls/"><u>Highly Recommended Applications for Virtual Group Meetings and Calls</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-mfc71dll-not-detected-error-on-your-pc/"><u>How to Correctly Address 'mfc71.dll Not Detected' Error on Your PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-note-30-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Note 30 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-from-play-to-pro-setting-up-a-ps4-game-broadcast-hub/"><u>In 2024, From Play to Pro Setting up a PS4 Game Broadcast Hub</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-discord-bot-integration-tips-and-techniques/"><u>Mastering Discord Bot Integration - Tips and Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-how-to-fix-and-prevent-slow-frame-rates/"><u>Outriders: How to Fix and Prevent Slow Frame Rates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pinpointing-places-how-to-set-multiple-pins-on-google-map-interface/"><u>Pinpointing Places: How to Set Multiple Pins on Google Map Interface</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-ring-2021-price-breakdown-release-schedule-tech-specs-and-current-releases/"><u>Samsung Galaxy Ring 2021: Price Breakdown, Release Schedule, Tech Specs & Current Releases</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-the-black-screen-problem-on-windows-11/"><u>Troubleshooting Guide: Resolving the Black Screen Problem on Windows 11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/youtube-acoustic-library-for-2024/"><u>YouTube Acoustic Library for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

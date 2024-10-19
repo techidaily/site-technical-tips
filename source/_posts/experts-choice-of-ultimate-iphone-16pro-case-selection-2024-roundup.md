@@ -1,7 +1,7 @@
 ---
 title: Experts' Choice of Ultimate iPhone 16/Pro Case Selection - 2024 Roundup
-date: 2024-10-07T16:03:24.708Z
-updated: 2024-10-13T16:26:02.744Z
+date: 2024-10-13T16:01:14.465Z
+updated: 2024-10-19T16:01:39.977Z
 tags:
   - apple
 categories:
@@ -25,13 +25,6 @@ It's no secret that iPhones aren't the most rugged devices, sometimes yielding s
 ## What is the best iPhone 16 case right now?
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb6170f53-eec3-44d8-9d8f-5c48922cb182%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The best iPhone 16 cases of 2024
 
@@ -77,6 +70,13 @@ Cons
 
 ## Torras 360-degree OStand
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best kickstand iPhone 16 case
 
 Torras cases have always been a ZDNET favorite: Hiner called the Ostand case for the iPhone 15 "the most versatile and innovative of the bunch." The newest version fit for the iPhone 16 follows in its footsteps. 
@@ -101,13 +101,26 @@ Cons
 * Minimal drop protection
 * Heftier price
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pitaka Ultra Slim case
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best thin iPhone 16 case
@@ -134,20 +147,13 @@ Pros
 Cons 
 * Low drop protection
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Smartish Gripmunk case
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best cheap iPhone 16 case
@@ -174,14 +180,14 @@ Pros
 Cons 
 * Pricier
 
-## Mous Limitless 6.0
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Mous Limitless 6.0
 
 ### Best protective iPhone 16 case
 
@@ -237,10 +243,10 @@ Cons
 * Pricey for low protection
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Moft Snap Case Movas
@@ -272,20 +278,13 @@ Cons
 * Only for Pro models
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Nomad Modern Leather Case
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best leather case for iPhone 16
 
@@ -298,6 +297,13 @@ That being said, leather is not everybody's thing. But, if you are in the market
 **Nomad Modern Leather case features:** 8 feet drop protection | Sustainably sourced leather | MagSafe and magnetic back
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case?
 
@@ -408,24 +414,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-maximizing-iphone-video-clarity-top-4-fixes-using-premiere-pros-hdr-tools/"><u>[New] Maximizing iPhone Video Clarity Top 4 Fixes Using Premiere Pro's HDR Tools</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-converting-jpegpng-images-to-pdf-on-ipad-and-iphone-devices/"><u>[Updated] In 2024, Converting JPEG/PNG Images to PDF on iPad and iPhone Devices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unveiling-the-most-advanced-youtube-mp3-converters/"><u>[Updated] In 2024, Unveiling the Most Advanced YouTube Mp3 Converters</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-cost-effective-tools-for-your-diy-home-cinema-setup/"><u>Essential Cost-Effective Tools for Your DIY Home Cinema Setup</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-world-of-bing-search-engine/"><u>Exploring the World of Bing Search Engine</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-unlocking-windows-pin-protection-in-windows-10/"><u>Guide: Unlocking Windows ‛Pin Protection' In Windows 10</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-bridging-platforms-for-broad-sharing-instagram-and-facebook/"><u>In 2024, Bridging Platforms for Broad Sharing Instagram & Facebook</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-ace-2-pro-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Ace 2 Pro Phone without Google Account?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-your-inbox-the-ultimate-tutorial-on-creating-gmail-pseudonyms/"><u>Mastering Your Inbox: The Ultimate Tutorial on Creating Gmail Pseudonyms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-capturing-screen-images-on-windows-11/"><u>Step-by-Step Guide: Capturing Screen Images on Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-finding-iphone-user-locations-safely-and-legally/"><u>Step-by-Step Tutorial: Finding iPhone User Locations Safely and Legally</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/strategies-to-address-and-repair-msvcr100dll-errors/"><u>Strategies to Address and Repair MSVCR100.DLL Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-step-by-step-process-to-permanently-remove-your-yahoo-email/"><u>The Ultimate Guide: Step-by-Step Process to Permanently Remove Your Yahoo Email</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-how-to-refresh-your-chromecast-software/"><u>The Ultimate Tutorial on How to Refresh Your Chromecast Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-resolve-errcachemiss-issues-in-google-chrome/"><u>Troubleshooting Guide: How to Resolve 'ERR_CACHE_MISS' Issues in Google Chrome</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-dnssddll-errors-on-your-windows-pc/"><u>Troubleshooting Missing dnssd.dll Errors on Your Windows PC</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-5-must-use-platforms-for-seamless-video-and-audio-file-transformations/"><u>Ultimate Guide: 5 Must-Use Platforms for Seamless Video & Audio File Transformations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-subtext-converting-srt-to-sub/"><u>Unlocking Subtext Converting SRT to SUB</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-call-of-duty-modern-warfares-error-6034-strategies-for-successful-gameplay-across-all-platforms/"><u>Conquering Call of Duty Modern Warfare's Error 6034 - Strategies for Successful Gameplay Across All Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-amazons-kindle-store-top-titles-and-tips-for-e-reader-enthusiasts/"><u>Exploring Amazon's Kindle Store: Top Titles & Tips for E-Reader Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-hidden-secrets-of-copyright-protection-through-drm/"><u>Exploring Hidden Secrets of Copyright Protection Through DRM</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-guide-on-converting-your-kindle-books-into-printable-pdfs/"><u>Free Guide on Converting Your Kindle Books Into Printable PDFs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-itel-p40plus-phone-by-drfone-android/"><u>How to Reset a Locked Itel P40+ Phone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-pc-fortnite-from-crashing-ultimate-guide/"><u>How to Stop PC Fortnite From Crashing - Ultimate Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-continuous-media-logging-firms/"><u>In 2024, Continuous Media Logging Firms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/individual-use-software-permit/"><u>Individual Use Software Permit</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-azw-technology-insights-into-its-functionality-and-impact-on-industries/"><u>Master Azw Technology: Insights Into Its Functionality & Impact on Industries</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-business-tech-enhance-workflows-using-windows-small-officehome-server-solutions/"><u>Mastering Business Tech: Enhance Workflows Using Windows Small Office/Home Server Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-ebooks-a-guide-to-accessing-and-enjoying-amazons-kindle-library-on-your-blackberry-10-device/"><u>Mastering eBooks: A Guide to Accessing and Enjoying Amazon's Kindle Library on Your Blackberry 10 Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-guide-top-5-methods-for-rapid-removal-of-audiobooks-from-your-library/"><u>Quick Guide: Top 5 Methods for Rapid Removal of Audiobooks From Your Library</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/removing-digital-rights-management-drm-from-epub-audiobooks-on-audible/"><u>Removing Digital Rights Management (DRM) From EPUB Audiobooks on Audible</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-key-to-accumulating-a-huge-collection-of-tiktok-videos-for-2024/"><u>The Key to Accumulating a Huge Collection of TikTok Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-restoring-asus-webcam-functionality-under-windows-10/"><u>Troubleshooting Steps for Restoring ASUS Webcam Functionality Under Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-2024s-a-list-top-network-server-racks-and-secure-cabinets-compared/"><u>Unveiling 2024'S A-List: Top Network Server Racks and Secure Cabinets Compared!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/walking-deadlines-the-ultimate-selection-of-excellent-zombie-games-for-2024/"><u>Walking Deadlines The Ultimate Selection of Excellent Zombie Games for 2024</u></a></li>
 </ul></div>
 

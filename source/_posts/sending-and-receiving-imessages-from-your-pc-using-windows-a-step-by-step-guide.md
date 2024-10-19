@@ -1,7 +1,7 @@
 ---
 title: "Sending and Receiving iMessages From Your PC Using Windows: A Step-by-Step Guide"
-date: 2024-10-08T16:16:33.430Z
-updated: 2024-10-13T16:05:05.396Z
+date: 2024-10-18T16:05:56.163Z
+updated: 2024-10-19T16:00:31.253Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -63,6 +56,13 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
@@ -70,10 +70,10 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
@@ -86,31 +86,24 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -125,6 +118,13 @@ You can also start a new conversation. To do this, select one of your displayed 
 Screenshot by Lance Whitney/ZDNET
 
 ## Use Intel Unison
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -153,10 +153,10 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
@@ -207,24 +207,15 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-breaking-the-myth-of-color-standards-z32x-reviewed/"><u>[New] Breaking the Myth of Color Standards Z32X Reviewed</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-flawlessly-flip-twist-and-merge-videos-on-your-android-gear/"><u>[New] In 2024, Flawlessly Flip, Twist & Merge Videos on Your Android Gear</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-insiders-take-top-9-digital-mic-recorder-selections/"><u>[New] Insider's Take Top 9 Digital Mic Recorder Selections</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-transforming-tech-talks-the-ezvide-screen-recording-guide/"><u>2024 Approved Transforming Tech Talks The Ezvide Screen Recording Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/diving-deep-into-the-world-of-image-curvature-for-2024/"><u>Diving Deep Into the World of Image Curvature for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-prevent-your-mac-from-entering-sleep-mode/"><u>Effective Strategies to Prevent Your Mac From Entering Sleep Mode</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-d3dx934dll-not-found-error-expert-tips-and-tricks-for-quick-resolution/"><u>Fix d3dx9_34.dll Not Found Error - Expert Tips & Tricks for Quick Resolution</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-sync-audio-and-video-in-final-cut-pro-x-2024/"><u>How to Sync Audio and Video in Final Cut Pro X 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/introduction-to-telegram-messenger-what-you-need-to-know/"><u>Introduction to Telegram Messenger - What You Need to Know</u></a></li>
-<li><a href="https://win-dash.techidaily.com/rtx-2060-super-graphics-card-drivers-download-compatible-with-windows-10-and-11/"><u>RTX 2060 Super Graphics Card Drivers Download: Compatible with Windows 10 & 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/smartphone-seasons-understanding-when-to-embrace-the-latest-model-upgrades/"><u>Smartphone Seasons: Understanding When To Embrace the Latest Model Upgrades</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-d3d9dll-file-missing-or-cannot-be-located-issue/"><u>Solving the d3d9.dll File Missing or Cannot Be Located Issue</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-14-ultra-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi 14 Ultra Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-buying-a-computer-for-school/"><u>The Ultimate Guide to Buying a Computer for School</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-obtaining-trustedinstaller-approval-on-windows-10-machines/"><u>The Ultimate Tutorial for Obtaining TrustedInstaller Approval on Windows 10 Machines</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-a15-4g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy A15 4G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-strategies-to-overcome-iphone-remote-playback-problems/"><u>Top Strategies to Overcome iPhone Remote Playback Problems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/two-step-confirmation-a-robust-method-to-protect-your-icloud-mail-accounts/"><u>Two-Step Confirmation: A Robust Method to Protect Your iCloud Mail Accounts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/zooms-true-power-tripled-transformation-techniques/"><u>Zoom's True Power Tripled Transformation Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-tops-in-audio-modification-software-echos-successor/"><u>[New] In 2024, Tops in Audio Modification Software Echo's Successor</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-solutions-for-your-kernelbasedll-errors-quick-and-painless-repair-methods/"><u>Easy Solutions for Your KernelBase.dll Errors: Quick & Painless Repair Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-free-updating-made-simple-overcoming-windows-0x80070652-mishap-with-ease/"><u>Error-Free Updating Made Simple: Overcoming Windows 0X80070652 Mishap with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-safely-delete-photos-from-icloud-while-preserving-iphone-versions/"><u>How to Safely Delete Photos From iCloud While Preserving iPhone Versions</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/insider-advice-what-matters-most-when-investing-in-a-projector/"><u>Insider Advice: What Matters Most When Investing in a Projector</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/navigating-the-path-iphone-file-exchange-for-2024/"><u>Navigating the Path IPhone File Exchange for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-oneplus-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from OnePlus</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-capturing-images-with-your-logitech-keyboard/"><u>Step-by-Step Guide: Capturing Images with Your Logitech Keyboard</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-monitoring-your-internet-consumption-a-comprehensive-guide/"><u>Steps to Monitoring Your Internet Consumption: A Comprehensive Guide</u></a></li>
 </ul></div>
 

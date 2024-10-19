@@ -1,7 +1,7 @@
 ---
 title: "IPad Air 4 vs iPad Air 5 Showdown: Is It Time To Consider an Upgrade?"
-date: 2024-10-10T16:06:37.164Z
-updated: 2024-10-13T16:12:59.077Z
+date: 2024-10-12T16:02:34.222Z
+updated: 2024-10-19T16:03:07.672Z
 tags:
   - apple
 categories:
@@ -37,13 +37,6 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 **Also: [The best iPad Air cases](https://www.zdnet.com/article/best-ipad-air-case/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | | iPad Air 4 (2020)        | iPad Air 5 (2022)                              |                                                |
@@ -72,10 +65,10 @@ The saying you can't teach an old dog new tricks doesn't really apply to the iPa
 That's a significant step up, considering both iPads start on equal footing with 8GB of RAM. While the iPad Air 5 didn't get Apple's newer [M2 chip](https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/), the M1 is still a powerhouse for graphics-intensive apps, such as video editors, 3D racing games, augmented reality, and general multitasking.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. You want a better front camera and FaceTime experience
@@ -85,6 +78,19 @@ Camera performance isn't typically the key selling point for tablets, let alone 
 **Also: [iPad (2022) vs. iPad Air (2022): How different are the two?](https://www.zdnet.com/article/ipad-2022-vs-ipad-air-2022/)**
 
 While the 12MP rear camera remains untouched, the front now houses a 12MP ultra-wide camera. With a wider field of view than the previous generation's 7MP FaceTime HD lens, the new iPad can take advantage of Center Stage, Apple's webcam feature that tracks and follows your face as you move around. This is particularly useful for presentations and FaceTime calls with friends and family.
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. You thrive on 5G
 
@@ -98,6 +104,13 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 
 Image: Apple
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Price comes before anything else
 
 With the release of the new iPad Air, most third-party retailers have since marked down the 2020 model as a means to clear out inventory. The winner of this sequence is you, the consumer. At the time of writing, the iPad Air 4 can be had for as low as [$429](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-10-9-inch-Cellular-Generation-Renewed%2Fdp%2FB08PF8HCDJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C26f5c393-aefc-4730-9a3f-bb517e8caef4%7Cdtp&dtb=1), less if you opt for an open-market retailer like eBay. That's more than a $150 difference compared to the new iPad Air 5 which, in a snapshot, only wins out on 5G, the front-facing camera, and processing power. If one, two, or even all three of those aspects are not on your priority list of features, then opting for the older iPad Air may be the best play here. 
@@ -106,29 +119,22 @@ With the release of the new iPad Air, most third-party retailers have since mark
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should I get the iPad Air 4 (2020) or the iPad Air 5 (2022)?
 
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
 
 The 1st-gen Apple Pencil is not compatible with either of the two iPad Air models mentioned in this article. Instead, you'll have to buy Apple's 2nd-gen stylus, which uses USB-C for charging and pairing, for the newer tablets.
 
 Our [guide to finding the right Apple Pencil and how to pair it](https://www.zdnet.com/article/how-to-pair-and-charge-your-apple-pencil/) breaks down the full list of compatible devices.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What's the best alternative to the iPad Air?
 
@@ -170,16 +176,20 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-10-essentials-for-flawless-instagram-unboxing-content/"><u>[New] 10 Essentials for Flawless Instagram Unboxing Content</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boosting-productivity-the-ultimate-guide-to-leveraging-slack-reminders-in-your-daily-routine/"><u>Boosting Productivity: The Ultimate Guide to Leveraging Slack Reminders in Your Daily Routine</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/breaking-down-and-resolving-video-error-0xc10100be/"><u>Breaking Down & Resolving Video Error 0XC10100be</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/content-monitoring-woes-the-unseen-threat/"><u>Content Monitoring Woes: The Unseen Threat</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/professional-secrets-assembling-your-own-high-quality-projector-screen/"><u>Professional Secrets: Assembling Your Own High-Quality Projector Screen</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oneplus-ace-2-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your OnePlus Ace 2 Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-comprehensive-strategy-crafting-targeted-filters-in-gmail-for-perfect-organization/"><u>The Comprehensive Strategy: Crafting Targeted Filters in Gmail for Perfect Organization</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-when-wpcapdll-is-nowhere-to-be-found/"><u>Troubleshooting Tips for When Wpcap.dll Is Nowhere to Be Found</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-rpcrt4dll-file-missing-or-corrupt-issues/"><u>Ultimate Guide: Resolving RPCRT4.DLL File Missing or Corrupt Issues</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-cutting-edge-tips-streamline-your-ps4-gameplay-footage-collection-for-2024/"><u>[New] Cutting-Edge Tips Streamline Your PS4 Gameplay Footage Collection for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-immediate-video-removal-by-facebook-an-overview-of-processes/"><u>[New] In 2024, Immediate Video Removal by Facebook - An Overview of Processes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubes-adsense-income-strategy-calculating-per-thousand-viewers/"><u>2024 Approved Youtube's AdSense Income Strategy Calculating Per Thousand Viewers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-maisto-rc-rock-crawler-assessment-top-choice-for-families/"><u>Comprehensive Maisto RC Rock Crawler Assessment: Top Choice for Families</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/elite-watchlist-top-10-advanced-video-capture-programs/"><u>Elite Watchlist Top 10 Advanced Video Capture Programs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-basics-of-output-impedance-what-you-need-to-know/"><u>Exploring the Basics of Output Impedance - What You Need to Know</u></a></li>
+<li><a href="https://blog-min.techidaily.com/exploring-the-future-of-visuals-with-4k-vr-expert-advice-on-creating-and-sharing-high-definition-experiences/"><u>Exploring the Future of Visuals with 4K VR: Expert Advice on Creating & Sharing High-Definition Experiences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-stop-your-macbook-from-falling-asleep-on-closed-lid-a-step-by-step-guide/"><u>How to Stop Your MacBook From Falling Asleep on Closed Lid: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/identifying-viewers-a-guide-to-finding-out-who-watches-your-youtube-content/"><u>Identifying Viewers: A Guide to Finding Out Who Watches Your YouTube Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/phone-lifespan-guidelines-upgrade-cycle-recommendations-for-optimum-performance/"><u>Phone Lifespan Guidelines: Upgrade Cycle Recommendations for Optimum Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rumors-vs-facts-a-deep-dive-into-the-expected-oneplus-nord-ce-details-cost-estimates-launch-date-and-feature-breakdown/"><u>Rumors vs Facts: A Deep Dive Into the Expected OnePlus Nord CE Details – Cost Estimates, Launch Date & Feature Breakdown</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-connecting-your-dualshock-controller-with-playstation-4/"><u>Step-by-Step Guide: Connecting Your DualShock Controller with PlayStation 4</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/track-the-admirers-of-your-visual-stories-mastering-instagram-save-insights/"><u>Track the Admirers of Your Visual Stories: Mastering Instagram Save Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-spotifys-dual-playback-capabilities-for-paired-users/"><u>Understanding Spotify's Dual Playback Capabilities for Paired Users.</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-sony-xperia-1-v-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Sony Xperia 1 V? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

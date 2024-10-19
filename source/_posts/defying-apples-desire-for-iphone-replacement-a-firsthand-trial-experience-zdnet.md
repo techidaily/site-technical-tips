@@ -1,7 +1,7 @@
 ---
 title: "Defying Apple's Desire for iPhone Replacement: A Firsthand Trial Experience | ZDNet"
-date: 2024-10-07T16:18:30.717Z
-updated: 2024-10-13T16:02:38.829Z
+date: 2024-10-13T16:00:35.574Z
+updated: 2024-10-19T16:05:06.417Z
 tags:
   - apple
 categories:
@@ -63,10 +63,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. During check-out, double-click the right-side button of your iPhone
@@ -86,16 +86,10 @@ Enter your passcode to confirm Apple Pay payment.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
@@ -115,16 +109,10 @@ That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.)
 ## FAQ
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -141,10 +129,10 @@ Once you add your card to your Wallet, you can edit your settings to suit your n
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is NFC?
@@ -184,10 +172,10 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 5. Select Transit Card to add an eligible transportation payment card.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
@@ -224,19 +212,20 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/fbx-to-obj-conversion-tactics-you-need-to-know-before-starting-on-your-next-3d-printing-endeavor/"><u>.FBX to .OBJ Conversion Tactics You Need to Know Before Starting on Your Next 3D Printing Endeavor</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-discover-every-shared-element-with-friends/"><u>[Updated] Discover Every Shared Element with Friends</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/anticipated-launch-of-oneplus-10-insights-on-cost-schedule-characteristics-and-hype/"><u>Anticipated Launch of OnePlus 10: Insights on Cost, Schedule, Characteristics & Hype</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-restore-audio-during-a-discord-screen-share-session/"><u>How to Restore Audio During a Discord Screen Share Session</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-k70-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-lava-agni-2-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Lava Agni 2 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-picture-data-holders/"><u>In 2024, Leading Picture Data Holders</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-photography-edits-remedying-pets-eyeball-appearances-seamlessly/"><u>Master Photography Edits: Remedying Pets' Eyeball Appearances Seamlessly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-meta-quest-3-lite-an-inside-look-at-potential-pricing-release-schedule-and-speculated-technical-specifications/"><u>The Meta Quest 3 Lite: An Inside Look at Potential Pricing, Release Schedule, and Speculated Technical Specifications</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tips-for-addressing-and-repairing-kernel-data-mishaps/"><u>Tips for Addressing and Repairing Kernel Data Mishaps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-the-notorious-code-19-issues-on-your-windows-pc/"><u>Troubleshooting Guide: Resolving the Notorious 'Code 19' Issues on Your Windows PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/worth-the-price-tag-assessing-the-impact-of-wi-fi-mesh-networks-on-connectivity/"><u>Worth the Price Tag? Assessing the Impact of Wi-Fi Mesh Networks on Connectivity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-comparative-analysis-lowest-priced-cloud-vendors-for-2024/"><u>[Updated] Comparative Analysis Lowest Priced Cloud Vendors for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-vr-cinematic-experiences-the-next-wave/"><u>2024 Approved VR Cinematic Experiences The Next Wave</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-web-enhancer-facebook-story-keeper/"><u>2024 Approved Web Enhancer Facebook Story Keeper</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-lost-alerts-with-these-simple-iphone-tricks/"><u>Discover Lost Alerts with These Simple iPhone Tricks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-nokia-xr21-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Nokia XR21</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-high-tech-discount-offers-for-amazon-prime-day-shoppers/"><u>Exclusive High-Tech Discount Offers for Amazon Prime Day Shoppers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exposing-hidden-data-in-macos-without-third-party-software-the-terminal-way/"><u>Exposing Hidden Data in macOS Without Third-Party Software – The Terminal Way</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-do-i-find-out-my-mailcom-accounts-closure-date/"><u>How Do I Find Out My mail.com Account's Closure Date?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-update-or-download-logitech-mx-g400s-driver-a-step-by-step-guide/"><u>How to Update or Download Logitech MX G400s Driver: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-macos-a-comprehensive-walkthrough-of-network-configuration-resets/"><u>Mastering macOS: A Comprehensive Walkthrough of Network Configuration Resets</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secured-solid-screen-viewing-on-dell-tablet-pcs/"><u>Secured Solid Screen Viewing on Dell Tablet PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/smart-shopping-for-routers-dive-into-our-tp-link-archer-a6-ac1200-examination/"><u>Smart Shopping for Routers? Dive Into Our TP-Link Archer A6 AC1200 Examination!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-mastering-entry-and-exit-from-iphones-recovery-mode/"><u>Step-by-Step Guide: Mastering Entry & Exit From iPhone's Recovery Mode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-best-techniques-to-keep-your-living-room-speakers-sparkling-clean/"><u>The Best Techniques to Keep Your Living Room Speakers Sparkling Clean</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-persuasion-writing-winning-proposals-using-chatgpt-technology/"><u>The Ultimate Guide to Persuasion: Writing Winning Proposals Using ChatGPT Technology</u></a></li>
 </ul></div>
 

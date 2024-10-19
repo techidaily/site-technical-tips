@@ -1,7 +1,7 @@
 ---
 title: Boost Your Productivity on macOS with Craft - A Comprehensive Tutorial for the Best Document Tool
-date: 2024-10-11T16:12:45.802Z
-updated: 2024-10-13T16:28:50.456Z
+date: 2024-10-16T16:01:25.690Z
+updated: 2024-10-19T16:01:04.732Z
 tags:
   - apple
 categories:
@@ -63,10 +63,10 @@ Once the app is installed, navigate to the TestFlight icon on your Home screen. 
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Running TestFlight for the first time
@@ -90,16 +90,10 @@ Screenshot by David Gewirtz/ZDNET
 Next, let's look at running an app. 
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Running a beta release app using TestFlight
@@ -187,19 +181,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-mastering-live-recording-via-logitech-camera-guide/"><u>[New] 2024 Approved Mastering Live Recording via Logitech Camera Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-disabling-push-notifications-for-commercial-content/"><u>[New] In 2024, Disabling Push Notifications for Commercial Content</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-cozy-up-your-videos-best-winter-bgs-revealed/"><u>[Updated] Cozy Up Your Videos Best Winter Bg's Revealed</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-macs-top-5-mkv-decoder-software-for-2024/"><u>[Updated] Mac's Top 5 MKV Decoder Software for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ace-the-art-of-locating-users-in-minutes-learn-6-easy-facebook-search-tips/"><u>Ace the Art of Locating Users in Minutes - Learn 6 Easy Facebook Search Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/avoiding-spammy-sms-effective-ways-to-prevent-unwanted-messages-on-iphones/"><u>Avoiding Spammy SMS: Effective Ways to Prevent Unwanted Messages on iPhones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/cable-television-vs-on-demand-streaming-identifying-the-main-variables/"><u>Cable Television vs On-Demand Streaming: Identifying the Main Variables</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-se-2022-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone SE (2022) The Right Way</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-infinix-note-30-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Infinix Note 30 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-art-of-combining-different-wireless-audio-devices-using-a-single-control-unit/"><u>Master the Art of Combining Different Wireless Audio Devices Using a Single Control Unit</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-and-uncomplicated-guide-to-locating-people-on-facebook/"><u>Quick & Uncomplicated Guide to Locating People on Facebook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-overcoming-initialization-problems-in-mozilla-thunderbird/"><u>Step-by-Step Guide: Overcoming Initialization Problems in Mozilla Thunderbird</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-rcra-provides-federal-guidelines-for-the-management-of-hazardous-waste-from-its-creation-to-disposal/"><u>The RCRA Provides Federal Guidelines for the Management of Hazardous Waste From Its Creation to Disposal.</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/visual-bedtime-plays-reviewed-for-2024/"><u>Visual Bedtime Plays Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ow-to-see-your-subscribers-on-youtube/"><u>[New] How to See Your Subscribers on YouTube?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-start-saving-youtube-videos-as-screen-captures-today-completely-free/"><u>[New] In 2024, Start Saving YouTube Videos as Screen Captures Today - Completely Free</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-deep-dive-into-monthly-cybersecurity-fixes-demystifying-patch-tuesday/"><u>A Deep Dive Into Monthly Cybersecurity Fixes - Demystifying 'Patch Tuesday'</u></a></li>
+<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-infinix-note-30-vip-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Infinix Note 30 VIP in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/emoji-mastery-for-iphone-users-tips-and-tricks-revealed/"><u>Emoji Mastery for iPhone Users: Tips & Tricks Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-guide-the-eight-superior-navigation-and-itinerary-creator-apps/"><u>Essential Guide: The Eight Superior Navigation & Itinerary Creator Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-reset-another-users-password-securely-on-a-windows-computer/"><u>How to Reset Another User's Password Securely on a Windows Computer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-motorola-moto-g34-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Motorola Moto G34 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-essence-of-style-in-ae-title-design/"><u>In 2024, The Essence of Style in AE Title Design</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-index-downloading-your-preferred-chime-files/"><u>In 2024, Ultimate Index Downloading Your Preferred Chime Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-complimentary-cad-software-choices/"><u>Top 4 Complimentary CAD Software Choices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-must-have-items-for-the-perfect-everyday-carry-edc-this-summer/"><u>Top 7 Must-Have Items for the Perfect Everyday Carry (EDC) This Summer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solve Your Spotify Troubles on Android Auto in 13 Simple Steps!
-date: 2024-09-16T16:47:54.506Z
-updated: 2024-09-21T03:04:49.565Z
+date: 2024-10-16T19:10:40.206Z
+updated: 2024-10-18T17:54:18.485Z
 categories:
   - BestProducts
 description: This Article Describes Solve Your Spotify Troubles on Android Auto in 13 Simple Steps!
@@ -35,6 +35,13 @@ Close
 
 [ Check if Spotify is down for everyone](https://www.lifewire.com/is-spotify-down-or-is-it-just-you-5071705) before jumping into the steps below. It's smart to rule this out first because if it turns out that many users are experiencing problems with the service, all you can do is wait for Spotify to resolve the issue on their end.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Fix Spotify Not Working on Android Auto
 
  Follow these tips in the order you see them to fix it when Android Auto won't play Spotify:
@@ -50,6 +57,14 @@ Close
 5. [ Add Spotify to Android Auto](https://www.lifewire.com/add-apps-to-android-auto-7486705) if it's not showing up as an option in your car.  
 ![Customize launcher and Spotify box highlighted in Android Auto app.](https://www.lifewire.com/thmb/jXWD0NGnFxfUegWGkihjZgvpqUo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-12WaystoFixSpotifyNotWorkingonAndroidAuto-annotated-9713c09fa9394da09e34bea96f5f8089.jpg)  
  You shouldn't need to do this because it happens automatically once Spotify is installed on your phone. However, it's possible to hide apps from displaying in Android Auto, which would explain why Spotify is missing.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Quickly check whether other apps, like Google Maps, work with Android Auto. If they are having trouble, too, check out this more general guide:[ Ways to Fix It When Android Auto Is Not Working](https://www.lifewire.com/fix-android-auto-not-working-5093747) . That article will also help you determine if your car is compatible with Android Auto.
 7. Allow Spotify to run in the background to fix things like buffering issues and unresponsive screens. Here's how to do that on a Google Pixel: Go to**Settings** \>**Apps** \>**Spotify** \>**App battery usage** , then switch on**Allow background usage** .
 8. [ Check your phone's mobile internet connection](https://www.lifewire.com/fix-mobile-data-not-working-4769125) , which must be solid to avoid audio cutting out while streaming.  
@@ -62,6 +77,14 @@ Close
  To do this, first,[ enable Android Auto's developer mode](https://9to5google.com/2023/01/25/how-to-enable-developer-mode-in-android-auto-and-why-you-might-want-to/) , and then from the three-dot menu, tap**Developer settings** \>**Unknown sources** . Finally, completely close down Android Auto and Spotify before you try using it again.  
 ![Three-dot menu, Developer settings, and Unknown sources highlighted in Android Auto app.](https://www.lifewire.com/thmb/BVN_pr772ACMU1MySxYD7iZX6eA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A-12-12WaystoFixSpotifyNotWorkingonAndroidAuto-annotated-67335ebc6afc41ebbcea61301d5c5ef4.jpg)
 13. Turn on autostart for Spotify. This will allow the app to start back up again in the background after being closed.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This is only relevant on some phones, like those from Xiaomi, Huawei, and Realme. Here are some steps to try, depending on your phone maker:  
    * **Security** \>**Manage apps** \>**Permissions** \>**Autostart** \>**Spotify** .  
    * **Settings** \>**Apps** \>**settings icon** \>**App auto-launch** .  
@@ -103,18 +126,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-quickly-locating-your-curated-music-compilation-on-youtube/"><u>[New] 2024 Approved Quickly Locating Your Curated Music Compilation on Youtube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unlock-the-secrets-to-amazing-instagram-films/"><u>[New] In 2024, Unlock the Secrets to Amazing Instagram Films</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-inverting-screen-time-with-android-videos/"><u>[Updated] In 2024, Inverting Screen Time with Android Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-upgrade-your-video-presentations-zooming-through-filter-techniques/"><u>[Updated] Upgrade Your Video Presentations Zooming Through Filter Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-comprehensively-conquering-hp-notebook-screen-recording-techniques/"><u>2024 Approved Comprehensively Conquering HP Notebook Screen Recording Techniques</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/breaking-down-10-effective-ways-to-say-hello-in-spanish/"><u>Breaking Down 10 Effective Ways to Say 'Hello' In Spanish</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-apples-latest-titans-mac-mini-with-m2-vs-mac-studio-and-m1-performance-showdown-insights-from-zdnet/"><u>Comparing Apple's Latest Titans: Mac Mini with M2 vs Mac Studio & M1 Performance Showdown - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-engagement-learn-to-use-animated-gifs-in-your-insta-comments/"><u>Enhance Engagement: Learn to Use Animated GIFs in Your Insta Comments</u></a></li>
+<li><a href="https://win-popular.techidaily.com/esegui-un-ritorno-alle-origini-restaurare-windows-11-utilizzando-la-modalita-provvisoria-una-guida-completa/"><u>Esegui Un Ritorno Alle Origini: Restaurare Windows 11 Utilizzando La Modalità Provvisoria - Una Guida Completa</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/flashlog-screen-grab-review-and-substitutes/"><u>FlashLog Screen Grab Review and Substitutes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-successfully-install-the-full-microsoft-365-package-on-your-computer/"><u>How to Successfully Install the Full Microsoft 365 Package on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/imessage-alternatives-for-android-users-a-comprehensive-guide/"><u>IMessage Alternatives for Android Users – A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-turbocharging-your-instagram-footage/"><u>In 2024, Turbocharging Your Instagram Footage</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-vivo-y17s-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo Y17s Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/non-apple-rechargeable-wallet-tracker-top-alternatives-to-apples-airtags-techadvice/"><u>Non-Apple Rechargeable Wallet Tracker: Top Alternatives to Apple's AirTags | TechAdvice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/score-big-savings-grab-the-revolutionary-airpods-pro-2-hearing-aid-function-at-a-shocking-24-off-limited-time-deal/"><u>Score Big Savings: Grab the Revolutionary AirPods Pro 2 (Hearing Aid Function) at a Shocking 24% Off - Limited Time Deal !</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-reviewers-top-phone-selections-revealed-team/"><u>Tech Reviewers' Top Phone Selections Revealed Team</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-new-possibilities-the-advantages-of-expanding-iphones-nfc-capabilities-for-third-party-developers/"><u>Unlocking New Possibilities: The Advantages of Expanding iPhone's NFC Capabilities for Third-Party Developers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-iphone-16s-revolutionary-camera-feature-a-closer-look-at-its-new-dedicated-shutter-button/"><u>Unveiling iPhone 16'S Revolutionary Camera Feature: A Closer Look at Its New Dedicated Shutter Button</u></a></li>
+</ul></div>
 

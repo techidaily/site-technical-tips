@@ -1,7 +1,7 @@
 ---
 title: "Decoding Output Impedance: What It Means for Your Circuit Designs"
-date: 2024-09-19T22:13:49.654Z
-updated: 2024-09-20T16:26:42.438Z
+date: 2024-10-16T17:37:28.218Z
+updated: 2024-10-18T21:02:25.972Z
 categories:
   - BestProducts
 description: "This Article Describes Decoding Output Impedance: What It Means for Your Circuit Designs"
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
 3. Use the **All viewers** tab on the right to see who has viewed the document. You’ll see their name and when they last viewed it.  
 ![Viewers and All Viewers in the Activity Dashboard highlighted](https://www.lifewire.com/thmb/V6MAIeOj8jrGdn4DrWoeNivd42s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Viewers-51d26efb564141b29bc474b002b448ad.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Additional Dashboard Viewing Features
 
  Select **Viewers** and use the **Shared with** tab to see everyone you have shared the document with to find out who else needs to review it.
@@ -41,9 +48,23 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
 
 ![Google Docs viewers with Shared With highlighted](https://www.lifewire.com/thmb/bywM-Ml7U5N7c90E1SnLQkJDl6s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SharedWith-86eb4b621c0041ffbfa67b162e505438.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select **Viewer trend** to see the unique daily viewers. Choose a particular day on the column chart to see how many viewers were captured that day.
 
 ![All Viewers highlighted in the Activity Dashboard](https://www.lifewire.com/thmb/UeEIkxsvAeTMYWv0pVzHE-M8fBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ViewTrend-86a1d4df7ab842f89348da5b37b03576.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Don’t See Any Viewing Activity?
 
@@ -54,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
 * The document may have too many views or viewers to display the Activity Dashboard details.
 * The people you expect to view the document might have opted out of displaying their View History (see below).
 * You or the Admin may have View History turned off (see below).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Turn on Activity Dashboard View History
 
@@ -67,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
 ![Users' View History turned on in the Admin console](https://www.lifewire.com/thmb/BxokFwEg-UVGYlVp8dUELu73h1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/UsersViewHistory-b95295a4ec8c41d7b4248c00bacdaa33.jpg)  
  Depending on your workspace, you may see the option able to turn on**Access to view history** for other users to see Viewers and Viewer Trends in the Activity Dashboard.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Turn on Individual View History
 
  To help someone you expect to review the document display their View History or to display yours,[open the document in Google Docs](https://www.lifewire.com/open-google-docs-5089238) and follow these steps.  
@@ -83,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
 3. Turn on one or both toggles on the right. The**Account setting** toggle displays view history for all Google documents while the**Document setting** displays it only for the current one.
 4. Select **Save** .  
 ![Privacy Settings in the Activity Dashboard](https://www.lifewire.com/thmb/1fuSObYbrH0fupoOGGrh7GfTcPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/privacysettings-2c944fd8e2274f788b1528e855b75158.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Seeing who viewed a Google Doc is a convenient way to make sure everyone reviews the document. To see who edited a document you’ve shared, you can also[look at the revision history](https://www.lifewire.com/how-to-manage-revision-history-in-google-docs-4776095) .
 
@@ -131,5 +145,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-exploring-the-colors-of-wings-in-bebops-parrot-edition/"><u>[New] In 2024, Exploring the Colors of Wings in Bebop's Parrot Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-journey-through-hybrid-horizons-understanding-mixed-reality-for-2024/"><u>[New] Journey Through Hybrid Horizons Understanding Mixed Reality for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-methodology-effortless-youtube-playlist-embedding-on-websites/"><u>[Updated] Step-by-Step Methodology Effortless YouTube Playlist Embedding on Websites</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-video-view-count-boosters-top-8-thumbnails-tactics/"><u>2024 Approved Video View Count Boosters Top 8 Thumbnails Tactics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/airtags-hidden-safety-feature-issue-potential-risks-and-easy-fixes-zdnet/"><u>AirTag's Hidden Safety Feature Issue: Potential Risks and Easy Fixes | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-iphone-12s-latest-feature-improved-qi-charging-that-works-without-magsafe-news/"><u>Discover iPhone 12'S Latest Feature: Improved Qi Charging that Works without MagSafe News</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-methods-to-fix-errors-of-missing-dciman32dll-file/"><u>Effective Methods to Fix Errors of Missing dciman32.dll File</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-your-hands-on-the-latest-apple-innovations-from-wwdc-today-a-guide-to-where-and-how-you-can-preorder-them-zdnet-insights/"><u>Get Your Hands on the Latest Apple Innovations From WWDC Today: A Guide to Where and How You Can Preorder Them | ZDNET Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-much-will-it-cost-to-shoot-a-music-video-in-2024/"><u>How Much Will It Cost To Shoot A Music Video, In 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-fix-unavailable-issues-with-emeditors-scriptgroups-in-your-editing-sessions/"><u>How to Fix 'Unavailable' Issues with EmEditor's ScriptGroups in Your Editing Sessions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-productivity-with-chatgpt-a-guide-for-gig-workers/"><u>Maximizing Productivity with ChatGPT: A Guide for Gig Workers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-odd-blip-ios-1751-corrects-old-photo-reappearance-error-detailed-analysis/"><u>Resolving the Odd Blip: IOS 17.5.1 Corrects Old Photo Reappearance Error, Detailed Analysis</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-giant-apple-eyes-ai-integration-into-new-devices-insights-from-latest-purchase-analysis/"><u>Tech Giant Apple Eyes AI Integration Into New Devices - Insights From Latest Purchase Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-ipad-add-ons-for-a-superior-experience-expert-reviews-by-zdnet/"><u>The Ultimate Guide to iPad Add-Ons for a Superior Experience - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-test-nikon-d7500-vs-competitors/"><u>The Ultimate Test Nikon D7500 vs Competitors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-smartphone-savings-unlocking-the-most-amazing-offers-in-march-2024-insights/"><u>Top Smartphone Savings: Unlocking the Most Amazing Offers in March 2024 Insights</u></a></li>
+</ul></div>
 

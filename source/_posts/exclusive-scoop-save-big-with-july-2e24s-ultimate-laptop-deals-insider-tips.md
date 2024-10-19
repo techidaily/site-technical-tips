@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Scoop: Save Big with July 2E24's Ultimate Laptop Deals Insider Tips"
-date: 2024-10-11T16:02:25.504Z
-updated: 2024-10-13T16:08:29.832Z
+date: 2024-10-12T16:02:02.271Z
+updated: 2024-10-19T16:00:10.903Z
 tags:
   - apple
 categories:
@@ -123,6 +123,13 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [HP Chromebook X360 14-inch FHD touchscreen 2-in-1 laptop deal for $279 (save $120) $279 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-inch-FHD-IPS-Touch-2-in-1-Laptop-Intel-Processor-N100-4GB-RAM-64GB-eMMC-Sky-Blue%2F5123764557&subId1=zd-__COM_CLICK_ID__-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best Buy laptop deals
 
 [HP 15.6-inch touchscreen Full HD laptop deal for $630 (save $170) $630 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-15-6-touch-screen-full-hd-laptop-intel-core-i7-16gb-memory-512gb-ssd-natural-silver%2F6550427.p%3FskuId%3D6550427&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -146,10 +153,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these laptop deals?
@@ -164,6 +171,19 @@ When compiling the list of the best deals, we considered the following:
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What specifications do I need to look for in a laptop?
 
 The right specs depend on your needs and how you intend to use your new laptop -- whether for gaming, studies, video calling, or simply daily internet surfing. We break it down for you below:
@@ -172,13 +192,6 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Graphics card/GPU:** Again, gamers and content creators will want a higher graphics card to reflect the beautiful imagery for their gaming. I personally recommend that gamers opt for at least an RTX 3060 at the moment. However, again, internet surfers and workers shouldn't worry too much about the graphics if you're focusing on building out Word documents.
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Do I need a gaming laptop or a "regular" laptop?
 
@@ -195,16 +208,10 @@ If you're a gamer who needs a high-spec laptop with a decent graphics card, top-
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best deals by retailer
@@ -213,13 +220,6 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -271,22 +271,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-captivating-cinematic-experience-video-filters-for-pcmobile/"><u>[New] Captivating Cinematic Experience Video Filters for PC/Mobile</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-transforming-srt-into-subc-top-3-actionable-steps/"><u>[New] In 2024, Transforming SRT Into SUBC Top 3 Actionable Steps</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-unseen-aspects-of-drone-shopping-you-mustnt-ignore/"><u>[New] The Unseen Aspects of Drone Shopping You Mustn’t Ignore</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-examining-mobile-enhancements-with-androids-lightroom-app/"><u>[Updated] 2024 Approved Examining Mobile Enhancements with Android's Lightroom App</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ghastly-graphics-maker/"><u>2024 Approved Ghastly Graphics Maker</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bridging-the-gap-between-ios-and-android-messaging-incorporate-imessage-into-your-android-experience/"><u>Bridging the Gap Between iOS and Android Messaging - Incorporate iMessage Into Your Android Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/conquer-the-camera-prostrate-techniques-with-gopro-hero5-black/"><u>Conquer the Camera Prostrate Techniques With GoPro Hero5 Black</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-assemble-individual-jpeg-photos-into-a-unified-pdf-format-efficiently/"><u>How to Assemble Individual JPEG Photos Into a Unified PDF Format Efficiently</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-enjoy-espn-plus-content-on-an-lg-smart-televison-set/"><u>How to Enjoy ESPN Plus Content on an LG Smart Televison Set</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-excellent-selection-the-best-no-cost-music-visualization-tools-for-modern-smartphones-ios-and-android/"><u>New In 2024, Excellent Selection The Best No-Cost Music Visualization Tools for Modern Smartphones (iOS & Android)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/perfect-your-content-discover-these-top-8-mobile-editors-for-2024/"><u>Perfect Your Content Discover These Top 8 Mobile Editors for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revive-the-roar-fixing-sound-problems-in-your-home-theatre-receiver/"><u>Revive the Roar: Fixing Sound Problems in Your Home Theatre Receiver</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revive-your-computer-expert-guide-on-clearing-and-rebooting-the-cmos/"><u>Revive Your Computer: Expert Guide on Clearing and Rebooting the CMOS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-resolution-for-when-you-cant-find-d3dx933dll-in-your-system/"><u>Step-by-Step Resolution for When You Can't Find D3DX9_33.dll in Your System</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-versatility-of-starting-up-your-ps5-6-ways/"><u>The Versatility of Starting Up Your PS5 (6 Ways)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-waterproof-smartphone-protectors-2024-edition/"><u>Top-Rated Waterproof Smartphone Protectors - 2024 Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722887453718-unlock-your-iphones-sim-without-the-ejector-tool-hacks-and-tricks-revealed/"><u>Unlock Your iPhone's SIM Without the Ejector Tool - Hacks and Tricks Revealed!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-expert-advice-on-selecting-the-best-lenses-for-filmmaking-for-2024/"><u>[New] Expert Advice on Selecting The Best Lenses For Filmmaking for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-effortlessly-enhance-your-photos-with-adobes-smooth-shutter-effect-for-2024/"><u>[Updated] Effortlessly Enhance Your Photos with Adobe's Smooth Shutter Effect for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-boosting-vimeo-video-playback-tips-and-tricks/"><u>[Updated] In 2024, Boosting Vimeo Video Playback Tips and Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-pdf-modification-techniques-discover-3-simple-strategies/"><u>Effortless PDF Modification Techniques: Discover 3 Simple Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-best-of-toms-hardware-expert-analysis-inside/"><u>Exploring the Best of Tom's Hardware – Expert Analysis Inside</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/guia-simple-para-rescatar-y-guardar-archivos-de-tu-correo-de-google-un-paso-a-paso-con-graficos/"><u>Guía Simple Para Rescatar Y Guardar Archivos De Tu Correo De Google: Un Paso a Paso Con Gráficos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-managing-browser-cookies-how-to-enabledisable-them-in-chrome-firefox-opera-and-edge-on-windows-11/"><u>Guide to Managing Browser Cookies: How to Enable/Disable Them in Chrome, Firefox, Opera & Edge on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-optimize-windows-11-for-gaming/"><u>How to Optimize Windows 11 for Gaming</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-pair-your-wireless-headphones-with-a-ps4-console-a-step-by-step-guide-with-images/"><u>How to Pair Your Wireless Headphones with a PS4 Console: A Step-by-Step Guide with Images</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-successfully-overcome-the-kb-error-code-0x80070422-on-your-windows-10-pc-solution/"><u>How to Successfully Overcome the KB Error Code 0X80070422 on Your Windows 10 PC [Solution]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-uninstall-or-disable-microsoft-edge-in-windows-10/"><u>How to Uninstall or Disable Microsoft Edge in Windows 10</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-7-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 7</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-top-picks-streaming-tunes-directly-from-youtuberingtones/"><u>In 2024, Top Picks Streaming Tunes Directly From YoutubeRingtones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/laptop-expansion-a-comprehensive-tutorial-on-attaching-a-display-unit/"><u>Laptop Expansion: A Comprehensive Tutorial on Attaching a Display Unit</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-bluetooth-a-detailed-walkthrough-for-connecting-beats-wireless-to-windows-11-operating-system/"><u>Mastering Bluetooth: A Detailed Walkthrough for Connecting Beats Wireless to Windows 11 Operating System</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-free-dailymotion-converter-online/"><u>New In 2024, Best Free Dailymotion Converter Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-handbrake-dvd-ripper-corruption-issues/"><u>Resolving HandBrake DVD Ripper Corruption Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code on the 2024 Great CrowdStrike-Windows Meltdown: A Deep Dive Into History 'S Analysis"
-date: 2024-10-10T16:19:36.895Z
-updated: 2024-10-13T16:27:38.726Z
+date: 2024-10-18T16:02:31.401Z
+updated: 2024-10-19T16:00:33.991Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,16 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -133,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -187,17 +181,15 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-instant-audience-expansion-with-these-channel-upgrades/"><u>[New] Instant Audience Expansion with These Channel Upgrades</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-how-to-convert-your-instagram-followers-into-earnings/"><u>[Updated] 2024 Approved How to Convert Your Instagram Followers Into Earnings</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-turning-snapchat-into-cash-secrets-revealed-for-2024/"><u>[Updated] Turning Snapchat Into Cash Secrets Revealed for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-revamped-design-tools-after-acid-pro-era/"><u>2024 Approved Revamped Design Tools After ACID Pro Era</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comparing-oled-vs-led-technology-understanding-key-differences-and-determining-superiority/"><u>Comparing OLED vs LED Technology: Understanding Key Differences and Determining Superiority</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/cracking-down-error-code-0x80004005-a-comprehensive-guide-for-quick-rectification/"><u>Cracking Down Error Code 0X80004005 – A Comprehensive Guide for Quick Rectification</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/critical-features-to-enhance-your-live-stream-on-twitch-a-top-5-list/"><u>Critical Features to Enhance Your Live Stream on Twitch - A Top 5 List</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-8-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 8 Plus</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-infinix-smart-8-hd-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Infinix Smart 8 HD FRP</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/live-streaming-mastery-with-manycam-professional-virtual-webcam-solutions/"><u>Live Streaming Mastery with ManyCam: Professional Virtual Webcam Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reset-and-refresh-your-macbook-pro-with-these-simple-steps/"><u>Reset and Refresh Your MacBook Pro with These Simple Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-66-twitter-accounts-for-unbeatable-travel-tips-and-exciting-getaways/"><u>Top 66 Twitter Accounts for Unbeatable Travel Tips and Exciting Getaways</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-bring-your-photos-to-life-adding-radial-focus-effects-ps/"><u>[New] 2024 Approved Bring Your Photos to Life Adding Radial Focus Effects PS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-backward-play-a-comprehensive-walkthrough/"><u>[New] In 2024, Instagram Backward Play A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-lights-play-our-picks-for-the-top-10-photographic-lenses-for-2024/"><u>[Updated] Light's Play Our Picks for The Top 10 Photographic Lenses for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-aether-unveiling-its-nature-and-steps-to-become-a-member/"><u>Discover Aether: Unveiling Its Nature & Steps to Become a Member</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-when-you-encounter-missing-mfc71dll-file-issues/"><u>Effective Solutions When You Encounter Missing mfc71.dll File Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-ais-moral-compass-control/"><u>Navigating AI's Moral Compass Control</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-made-easy-solve-netflix-malfunctions-on-lg-tv-with-19-handy-strategies/"><u>Troubleshooting Made Easy: Solve Netflix Malfunctions on LG TV with 19 Handy Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-latest-in-computer-hardware-a-dive-into-toms-world-of-technology/"><u>Unveiling the Latest in Computer Hardware - A Dive Into Tom's World of Technology</u></a></li>
 </ul></div>
 

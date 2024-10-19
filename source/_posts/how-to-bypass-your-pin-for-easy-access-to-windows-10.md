@@ -1,7 +1,7 @@
 ---
 title: How to Bypass Your PIN for Easy Access to Windows 10
-date: 2024-09-16T16:00:13.725Z
-updated: 2024-09-20T17:43:32.612Z
+date: 2024-10-17T05:37:38.564Z
+updated: 2024-10-19T07:40:40.092Z
 categories:
   - BestProducts
 description: This Article Describes How to Bypass Your PIN for Easy Access to Windows 10
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/dpzBW9k88svSv8a1B4c7fFYV4jg=/400x300/fi
 
  This article teaches you how to change the Windows 11 system font so that various areas of the OS will use the font type you prefer. It also covers how to undo these steps to restore the default font.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Change the System Font in Windows 11
 
  The quickest way to change the Windows 11 font is through a Windows Registry edit, which we'll do by creating a[REG file](https://www.lifewire.com/how-to-create-edit-and-use-reg-files-2622817) .
@@ -34,6 +41,14 @@ thumbnail: https://www.lifewire.com/thmb/dpzBW9k88svSv8a1B4c7fFYV4jg=/400x300/fi
 3. Locate the**Full name** line in the**Metadata** section, and write it down exactly as it's written. In our example, we recorded**Franklin Gothic Medium** .  
 ![Full Name and Franklin Gothic Medium highlighted in Windows 11 font settings](https://www.lifewire.com/thmb/TLWCZLK0sdGg9XBIj1y4Ma1EuAA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-change-the-font-in-windows-11-6827640-97099a55349a45e392459345af24caf1.jpg)
 4. Open Notepad, or a[different text editor](https://www.lifewire.com/best-free-text-editors-4155819) if you prefer, and paste the following:  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  `Windows Registry Editor Version 5.00`  
 `[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]`  
 `"Segoe UI (TrueType)"=""`  
@@ -48,6 +63,14 @@ thumbnail: https://www.lifewire.com/thmb/dpzBW9k88svSv8a1B4c7fFYV4jg=/400x300/fi
 5. In the last line of the document, replace**Franklin Gothic Medium** with the name of the font you recorded in Step 3 (keep the quotes around the name).  
 ![Franklin Gothic Medium highlighted in Windows Notepad with REG file contents](https://www.lifewire.com/thmb/5UM6sKcUZ5_xlc9vkHeFpUtlwpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-change-the-font-in-windows-11-6827640-babf346069c14d8caa00e4c43d7992b6.jpg)
 6. If you're using Notepad, go to**File** \>**Save as** , and type a name in the**File name** box.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Choose**All files** from the**Save as type** menu.
 8. Type**.reg** at the end of the file name. Our example reads**Franklin Gothic.reg** , but yours can be called whatever you want; just make sure it ends with that file extension.
 9. Choose a folder on your computer to save the file (the Desktop folder works), and then select**Save** .  
@@ -63,16 +86,16 @@ thumbnail: https://www.lifewire.com/thmb/dpzBW9k88svSv8a1B4c7fFYV4jg=/400x300/fi
 
 ![Windows 11 font type change in Run and Control Panel](https://www.lifewire.com/thmb/eN6m7hD9Mgh_sWhJB-Jl9QOeR2c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-changed-font-type-control-panel-run-desktop-365bc4a2e315498f96aa4115713f7d59.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, not every part of Windows will change to the new font. All the text within Settings, Start menu, Clock, Quick Settings, and numerous other areas aren't affected.
 
 [Troubleshooting Installed Fonts That Won't Work](https://www.lifewire.com/cant-use-installed-fonts-1074154)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Restore the Default Font in Windows 11
 
@@ -110,13 +133,6 @@ thumbnail: https://www.lifewire.com/thmb/dpzBW9k88svSv8a1B4c7fFYV4jg=/400x300/fi
 5. If the changes don't take effect immediately (they did for us), reboot your computer.
 
  If you don't have the original REG file readily available to edit, just repeat the steps at the top of this page. When you get to the part about pasting the code into Notepad, use the modified code from Step 2 above, and don't make any changes to it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Changing Other Fonts in Windows 11
 
@@ -168,5 +184,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/new-world-ultimate-troubleshooting-guide-putting-an-end-to-incessant-pc-game-crashes/"><u>'New World': Ultimate Troubleshooting Guide - Putting an End to Incessant PC Game Crashes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-canva-creative-editor-exploration/"><u>[New] 2024 Approved Canva Creative Editor Exploration</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-novice-necessities-for-superior-gopro-photography/"><u>[New] In 2024, Novice Necessities for Superior GoPro Photography</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-social-media-mastery-how-to-make-a-post-take-off-on-fb-for-2024/"><u>[New] Social Media Mastery How to Make a Post Take Off on FB for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-rumored-to-revive-qi-wireless-charger-with-new-airpower-video-release-zdnet/"><u>Apple Rumored to Revive Qi Wireless Charger with New AirPower Video Release | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bambulab-x1-carbon-assessment-pinnacle-of-modern-3d-printing-technology/"><u>BambuLab X1-Carbon Assessment: Pinnacle of Modern 3D Printing Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-efficiency-on-the-go-with-our-updated-favorite-arvr-glasses-dive-into-the-new-upgrades/"><u>Boost Your Efficiency On-the-Go with Our Updated Favorite AR/VR Glasses – Dive Into the New Upgrades!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/come-eseguire-una-copia-del-tuo-sistema-operativo-su-un-disco-rigido-esterno/"><u>Come Eseguire Una Copia Del Tuo Sistema Operativo Su Un Disco Rigido Esterno</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-affordable-and-advanced-beanteq-bitwatch-s1-plus-smartwatch/"><u>Comprehensive Analysis of the Affordable and Advanced Beantéq Bitwatch S1 Plus Smartwatch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciding-on-your-next-wrist-companion-googles-pixel-watch-against-apples-latest-series-8-techcomparison-blog/"><u>Deciding on Your Next Wrist Companion: Google's Pixel Watch Against Apple's Latest Series 8 | TechComparison Blog</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-25-prime-festive-season-ipad-discounts-your-ultimate-guide-to-saving-big-powered-by-zdnet/"><u>Discover 25 Prime Festive Season iPad Discounts - Your Ultimate Guide to Saving Big, Powered by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-solutions-to-the-msxml4dll-not-found-problem/"><u>Expert Solutions to the Msxml4.dll Not Found Problem</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/navigating-instagrams-video-limit-regulations-for-2024/"><u>Navigating Instagram's Video Limit Regulations for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-your-first-home-audio-setup-a-comprehensive-beginners-guide/"><u>Navigating Your First Home Audio Setup - A Comprehensive Beginners Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-transition-strategies-upgrading-to-your-new-iphone-with-ease-insights/"><u>Seamless Transition Strategies: Upgrading to Your New iPhone with Ease - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-your-apple-vision-pro-envy-with-budget-friendly-xr-glasses-how-i-did-it/"><u>Solve Your Apple Vision Pro Envy with Budget-Friendly XR Glasses - How I Did It</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-using-craft-on-your-mac-enhance-your-document-handling-skills-with-expert-advice-from-zdnet/"><u>The Ultimate Guide to Using Craft on Your Mac: Enhance Your Document Handling Skills with Expert Advice From ZDNET</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unlocking-screen-record-features-in-hp-computers/"><u>Unlocking Screen Record Features in HP Computers</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-reno-8t-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo Reno 8T 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
 

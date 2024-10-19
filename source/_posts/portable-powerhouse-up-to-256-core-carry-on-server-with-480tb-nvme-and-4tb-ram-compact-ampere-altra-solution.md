@@ -1,7 +1,7 @@
 ---
 title: "Portable Powerhouse: Up To 256 Core Carry-On Server With 480TB NVMe & 4TB RAM – Compact Ampere Altra Solution"
-date: 2024-10-12T16:03:50.951Z
-updated: 2024-10-13T16:13:29.848Z
+date: 2024-10-13T16:03:35.287Z
+updated: 2024-10-19T16:03:14.257Z
 tags:
   - desktop
 categories:
@@ -42,16 +42,10 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -77,20 +71,22 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-home-visionarys-review-best-devices-for-clips/"><u>[New] In 2024, Home Visionary's Review Best Devices for Clips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-skills-required-how-to-gain-free-framed-vids/"><u>[New] Skills Required How To Gain Free Framed Vids</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-ultimate-hack-grabbing-gif-images-from-tweets/"><u>[Updated] 2024 Approved The Ultimate Hack Grabbing GIF Images From Tweets</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-amazon-prime-and-twitter-most-shared-and-liked-shows-23/"><u>[Updated] In 2024, Amazon Prime and Twitter Most Shared & Liked Shows, '23</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-the-social-media-giant-how-facebook-evolved-its-allure-and-essential-characteristics/"><u>Decoding the Social Media Giant: How Facebook Evolved, Its Allure, and Essential Characteristics</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/design-guide-youtube-banners-and-thumbnail-creation/"><u>Design Guide YouTube Banners & Thumbnail Creation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-captivating-coming-of-age-dramas-and-adventures-for-teens-on-netflix/"><u>Discover Captivating Coming-of-Age Dramas and Adventures for Teens on Netflix</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-verbal-to-written-an-intensive-guide-to-google-document-voice-functionality/"><u>From Verbal to Written An Intensive Guide to Google Document Voice Functionality</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-open-source-templates-transform-your-youtube-channel/"><u>In 2024, Open-Source Templates Transform Your YouTube Channel</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-repairing-no-signal-on-xbox-one-console/"><u>Step-by-Step Solutions for Repairing 'No Signal' On Xbox One Console</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-adding-fun-and-flair-to-instagram-discussions-through-gif-comments/"><u>The Ultimate How-To: Adding Fun and Flair to Instagram Discussions Through GIF Comments</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722852192203-troubleshoot-hulus-rununk13-issue-comprehensive-fixes-unveiled/"><u>Troubleshoot Hulu's RUNUNK13 Issue – Comprehensive Fixes Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-get-your-windows-10-sound-back-on-track/"><u>Troubleshooting Steps to Get Your Windows 10 Sound Back on Track</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-secrets-of-metro-by-t-mobiles-extensive-coverage-and-unlimited-options/"><u>Unveiling the Secrets of Metro by T-Mobile's Extensive Coverage and Unlimited Options</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/whats-new-with-the-samsung-galaxy-z-fold-6-price-features-and-release-timeline/"><u>What's New with the Samsung Galaxy Z Fold 6? Price, Features & Release Timeline</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-laughlens-pictorial-humor-studio/"><u>[New] LaughLens Pictorial Humor Studio</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-perfecting-picture-pizzazz-with-illustrators-motion-blur/"><u>[Updated] 2024 Approved Perfecting Picture Pizzazz with Illustrator's Motion Blur</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-screenshot-expert-evaluator/"><u>[Updated] 2024 Approved ScreenShot Expert Evaluator</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-conversion-processes-from-xml-to-high-quality-srts/"><u>2024 Approved Optimizing Conversion Processes From XML to High-Quality SRTs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/airplay-troubleshooting-and-setup-seamlessly-watch-content-from-mac-to-tv/"><u>AirPlay Troubleshooting & Setup: Seamlessly Watch Content From Mac to TV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-myths-is-chatgpt-trustworthy/"><u>Debunking Myths: Is ChatGPT Trustworthy?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-meta-ai-revolutionizing-tech-through-cutting-edge-artificial-intelligence/"><u>Decoding Meta AI: Revolutionizing Tech Through Cutting-Edge Artificial Intelligence</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/discover-the-finest-free-wav-to-mp3-converters-for-all-platforms-compare-windows-mac-and-web-solutions/"><u>Discover the Finest Free WAV to MP3 Converters for All Platforms – Compare Windows, Mac, and Web Solutions!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-youtube-presence-a-guide-to-creating-viral-content/"><u>Elevate Your YouTube Presence: A Guide to Creating Viral Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-email-experience-with-unique-gmail-alert-tones-learn-how/"><u>Enhance Your Email Experience with Unique Gmail Alert Tones – Learn How!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-chatgpts-inbuilt-extensions-applications-and-uses-explained/"><u>Exploring ChatGPT's Inbuilt Extensions: Applications and Uses Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-address-the-situation-when-you-cant-find-mss32dll-file/"><u>How To Address The Situation When You Can't Find mss32.dll File</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-recover-missing-d3dx9amooreddll-for-smooth-performance/"><u>How to Recover Missing d3dx9_amoored.dll for Smooth Performance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-screen-selection-simplified-find-the-best-display-for-xbox-series-x/"><u>In 2024, Screen Selection Simplified - Find the Best Display for Xbox Series X</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-airpods-charge-troubles-9-proven-tips-and-techniques/"><u>Solving AirPods Charge Troubles: 9 Proven Tips and Techniques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-honor-magic-v2-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Honor Magic V2 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-discord-how-to-tell-if-the-service-is-down-or-your-connection-has-issues/"><u>Troubleshooting Discord: How to Tell If the Service Is Down or Your Connection Has Issues</u></a></li>
 </ul></div>
 

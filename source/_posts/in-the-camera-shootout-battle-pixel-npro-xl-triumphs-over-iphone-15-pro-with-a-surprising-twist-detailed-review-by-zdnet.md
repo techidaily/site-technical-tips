@@ -1,7 +1,7 @@
 ---
 title: In the Camera Shootout Battle, Pixel nPro XL Triumphs Over iPhone 15 Pro with a Surprising Twist - Detailed Review by ZDNET
-date: 2024-10-10T16:00:52.368Z
-updated: 2024-10-13T16:09:41.564Z
+date: 2024-10-18T16:00:01.214Z
+updated: 2024-10-19T16:00:03.593Z
 tags:
   - apple
 categories:
@@ -77,10 +77,16 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 I would prefer the iPhone shot for this particular image, but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A clear winner in night time
@@ -110,16 +116,10 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL gets good at selfies
@@ -133,10 +133,10 @@ I like the selfie shooter on the iPhone 15 Pro and have found it better than And
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
@@ -181,16 +181,16 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-from-boredom-to-attention-unveiling-the-6-key-videos/"><u>[New] 2024 Approved From Boredom to Attention Unveiling the 6 Key Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-securing-your-audio-library-the-top-5-steps-for-internet-radio-storage/"><u>[New] In 2024, Securing Your Audio Library The Top 5 Steps for Internet Radio Storage</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-optimal-mp4-transporter-to-fb-hub/"><u>[New] Optimal MP4 Transporter to FB Hub</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/accessible-knowledge-top-16-no-cost-deafasl-educational-tools-online/"><u>Accessible Knowledge: Top 16 No-Cost Deaf/ASL Educational Tools Online</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/analyzing-your-youtube-viewership-methods-to-know-your-spectators/"><u>Analyzing Your YouTube Viewership: Methods to Know Your Spectators</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/eliminate-the-bluish-distortion-from-your-tv-viewing-experience-using-our-8-step-methods/"><u>Eliminate the Bluish Distortion From Your TV Viewing Experience Using Our 8-Step Methods</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-your-favorite-movies-on-psp-by-converting-dvds-to-mp4-format/"><u>How To Play Your Favorite Movies on PSP by Converting DVDs to MP4 Format</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-oppo-reno-10-pro-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Oppo Reno 10 Pro 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-14-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi 14 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pc2024ts/"><u>PC上にて2024年版TSファイルの再生法</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-standout-instagram-captions-507-picks/"><u>The Ultimate Guide to Standout Instagram Captions - 507 Picks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-superior-zero-price-switch-emulators/"><u>[New] 2024 Approved Superior Zero Price Switch Emulators</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-beyond-tube-the-premier-spots-for-online-video-sharing-for-2024/"><u>[Updated] Beyond Tube The Premier Spots for Online Video Sharing for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-transforming-visuals-the-power-of-customized-luts/"><u>2024 Approved Transforming Visuals The Power of Customized LUTs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-tesla-phone-launch-discover-potential-price-release-timeline-and-latest-speculations/"><u>Anticipating the Tesla Phone Launch? Discover Potential Price, Release Timeline & Latest Speculations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-resolving-the-missing-msidll-file-error-on-your-pc/"><u>Expert Tips for Resolving the Missing msi.dll File Error on Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-self-editing-shortcomings/"><u>GPT's Self-Editing Shortcomings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-photo-editing-removing-backdrops-with-picsart/"><u>Mastering Photo Editing Removing Backdrops with Picsart</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-time-lapse-photography-tips-for-iphones-users/"><u>Mastering Time-Lapse Photography: Tips for iPhones Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-msvbvm50dll-file-not-foundmissing-issues-on-your-computer/"><u>Resolving MSVBVM50.DLL File Not Found/Missing Issues on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-guide-fix-recurring-issues-with-assassins-creed-valhalla-on-pc/"><u>Troubleshooting Complete Guide: Fix Recurring Issues with Assassin's Creed: Valhalla on PC</u></a></li>
 </ul></div>
 

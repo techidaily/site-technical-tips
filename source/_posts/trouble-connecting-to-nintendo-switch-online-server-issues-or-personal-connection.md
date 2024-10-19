@@ -1,7 +1,7 @@
 ---
 title: "Trouble Connecting to Nintendo Switch Online: Server Issues or Personal Connection?"
-date: 2024-10-08T16:20:31.168Z
-updated: 2024-10-13T16:03:28.387Z
+date: 2024-10-12T16:01:35.384Z
+updated: 2024-10-19T16:03:37.453Z
 categories:
   - BestProducts
 description: "This Article Describes Trouble Connecting to Nintendo Switch Online: Server Issues or Personal Connection?"
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/c59859baea62b76e9b2c9d4ca0153b00cb09d3087
  If you're having issues[making HD video calls with Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) , there are a number of other factors that go into troubleshooting the reason.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 1: Reset Your Password
@@ -64,11 +64,25 @@ thumbnail: https://thmb.techidaily.com/c59859baea62b76e9b2c9d4ca0153b00cb09d3087
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 4: Check Skype's Audio Settings and Permissions
 
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
 
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Using Skype on a Computer
 
@@ -82,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/c59859baea62b76e9b2c9d4ca0153b00cb09d3087
 * To check the sound in Skype to make sure that it's using the right speakers, select**Test audio** under the**Speakers** option. You should hear sound in your headset or speakers.
 * If you don't hear anything when you play the sample sound, make sure your speakers or headphones are turned all the way up (some headphones have physical volume buttons) and that the on-screen settings are at**10** .
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Using Skype for Mobile Devices
 
@@ -105,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/c59859baea62b76e9b2c9d4ca0153b00cb09d3087
 1. Open**Settings** and then**Apps** .
 2. Find and open**Skype** and then**Permissions** .
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 5: Check Skype's Video Settings and Permissions
 
@@ -133,10 +147,10 @@ thumbnail: https://thmb.techidaily.com/c59859baea62b76e9b2c9d4ca0153b00cb09d3087
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 6: Make a Test Call in Skype
@@ -152,10 +166,10 @@ thumbnail: https://thmb.techidaily.com/c59859baea62b76e9b2c9d4ca0153b00cb09d3087
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 7: Reinstall Skype
@@ -166,25 +180,11 @@ thumbnail: https://thmb.techidaily.com/c59859baea62b76e9b2c9d4ca0153b00cb09d3087
 
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 8: Update Device Drivers
 
  At this point, you've verified all the proper Skype-related settings are set up correctly, so it's time to move beyond the program and onto your actual computer and other hardware.
 
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 9: Verify the Microphone Works
 
@@ -231,22 +231,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-directors-of-the-airspace-editing-for-impactful-drone-videos/"><u>[New] 2024 Approved Directors of the Airspace Editing for Impactful Drone Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-best-iphone-selfie-devices-ranked-8/"><u>[New] 2024 Approved The Best Iphone Selfie Devices Ranked (#8)</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-visual-wit-workshop-make-memes-with-kapwing/"><u>[New] In 2024, Visual Wit Workshop Make Memes with Kapwing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/beatmatching-your-vids-syncing-music-seamlessly-on-facebook/"><u>Beatmatching Your Vids Syncing Music Seamlessly on Facebook</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-ultimate-pc-sound-solutions-elite-card-picks-for-2eby2024/"><u>Discover the Ultimate PC Sound Solutions: Elite Card Picks for 2Eby2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-motorola-edge-40-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Motorola Edge 40 Pattern Lock Screen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-troubleshooting-and-correcting-iframedll-error-messages/"><u>Guide to Troubleshooting and Correcting iFrame.dll Error Messages</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/initial-setup-must-dos-a-beginners-guide-to-using-your-new-pc/"><u>Initial Setup Must-Dos: A Beginner's Guide to Using Your New PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-art-of-cleaning-up-liked-tracks-a-guide-for-your-spotify-playlist/"><u>Master the Art of Cleaning Up Liked Tracks: A Guide for Your Spotify Playlist</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/prove-your-point-on-chatgpt-plus-learn-why-signing-up-now-is-more-important-than-ever/"><u>Prove Your Point on ChatGPT Plus! Learn Why Signing Up Now Is More Important Than Ever.</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/screen-recording-made-simple-methodical-guidebook-for-2024/"><u>Screen Recording Made Simple Methodical Guidebook for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-fixing-ntdlldll-faults-on-windows-1087-and-more/"><u>Step-by-Step Solutions for Fixing ntdll.dll Faults on Windows 10/8/7 and More</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-fix-and-optimize-your-spotify-experience-in-android-auto/"><u>Step-by-Step Solutions to Fix and Optimize Your Spotify Experience in Android Auto</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-absolute-beginners-companion-to-personalized-home-sound-systems/"><u>The Absolute Beginner's Companion to Personalized Home Sound Systems</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-zte-nubia-flip-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass ZTE Nubia Flip 5G FRP</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-quality-high-end-gadgets-on-a-budget-must-try/"><u>Top-Quality High-End Gadgets on a Budget – Must Try</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-revolutionize-your-video-content-high-quality-made-simple/"><u>Updated In 2024, Revolutionize Your Video Content High-Quality Made Simple</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-helmet-hats-a-comprehensive-look-at-best-cams-in-bike-culture/"><u>[New] Helmet Hats A Comprehensive Look at Best Cams in Bike Culture</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-elevate-your-mobile-surfing-with-these-top-7-blockers/"><u>[Updated] In 2024, Elevate Your Mobile Surfing with These Top 7 Blockers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/a-pictures-tale-adding-meaningful-text-to-images-for-macwindows-for-2024/"><u>A Picture's Tale Adding Meaningful Text to Images for Mac/Windows for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-about-the-newest-iphone-17-estimated-costs-launch-date-sneak-peek-featured-specs-and-current-market-whispers/"><u>All About the Newest iPhone 17: Estimated Costs, Launch Date Sneak Peek, Featured Specs & Current Market Whispers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-google-pixel-timepiece-prospective-pricing-debut-dates-specs-revealed-in-leaks/"><u>Anticipating the Google Pixel Timepiece - Prospective Pricing, Debut Dates, Specs Revealed in Leaks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-tutorial-on-transferring-printer-scans-to-your-desktop-system/"><u>Easy Tutorial on Transferring Printer Scans to Your Desktop System</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ensure-continuous-access-to-windows-11-updates-in-the-coming-year-the-expected-price-explained-technewszdnet/"><u>Ensure Continuous Access to Windows 11 Updates in the Coming Year - The Expected Price Explained | TechNewsZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-world-of-ussd-codes-everything-you-need-to-know-about-unstructured-supplementary-service-data/"><u>Exploring the World of USSD Codes: Everything You Need to Know About Unstructured Supplementary Service Data</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-accessible-entertainment-on-crackle-see-movies-and-shows-at-zero-cost/"><u>Get Accessible Entertainment on Crackle – See Movies & Shows at Zero Cost!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-easy-cross-platform-posting-tiktok-stories-on-facebook/"><u>In 2024, Easy Cross-Platform Posting TikTok Stories on Facebook</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-apple-iphone-12-pro-max-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on Apple iPhone 12 Pro Max Safe and Legal</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-fix-for-x3daudiodll-not-found-a-users-handbook/"><u>Mastering the Fix for 'X3DAudio.dll Not Found': A User’s Handbook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-waves-with-top-surf-cams-for-2024/"><u>Mastering Waves with Top Surf Cams for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-of-employment-gpts-replacement-potential/"><u>New Era of Employment: GPT's Replacement Potential?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/premier-athletic-dramas-a-selection-of-the-best-movies-about-sports-available-right-now/"><u>Premier Athletic Dramas: A Selection of the Best Movies About Sports Available Right Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/smart-shopping-101-finding-your-ideal-student-laptop-or-desktop/"><u>Smart Shopping 101: Finding Your Ideal Student Laptop or Desktop</u></a></li>
+<li><a href="https://discover-data.techidaily.com/step-by-step-guide-how-to-seamlessly-move-all-information-to-a-freshly-bought-iphone/"><u>Step-by-Step Guide: How to Seamlessly Move All Information to a Freshly Bought iPhone</u></a></li>
 </ul></div>
 

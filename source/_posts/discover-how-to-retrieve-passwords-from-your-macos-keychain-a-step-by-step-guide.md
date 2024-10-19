@@ -1,7 +1,7 @@
 ---
 title: "Discover How to Retrieve Passwords From Your macOS Keychain: A Step-by-Step Guide"
-date: 2024-10-08T16:18:00.152Z
-updated: 2024-10-13T16:02:58.836Z
+date: 2024-10-13T16:00:58.158Z
+updated: 2024-10-19T16:01:43.450Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -42,13 +42,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -64,18 +57,24 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -86,10 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -97,6 +96,13 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,22 +140,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-optimizing-testimonial-creation/"><u>[Updated] Mastering the Art Optimizing Testimonial Creation</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-iphone-camera-accessories-for-better-filming-and-photo-experience/"><u>2024 Approved IPhone Camera Accessories for Better Filming and Photo Experience</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-best-free-screen-recorder-tool-bandicam-or-camtasia/"><u>2024 Approved The Best Free Screen Recorder Tool Bandicam or Camtasia?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-googles-next-smartwatch-price-forecasts-release-window-and-hints-at-features/"><u>All You Need to Know About Google's Next Smartwatch - Price Forecasts, Release Window, and Hints at Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diagnosing-and-restoring-a-computer-without-any-indicators-of-functionality/"><u>Diagnosing and Restoring a Computer Without Any Indicators of Functionality</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-infinix-zero-30-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Infinix Zero 30 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-nokia-c210-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Nokia C210 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-the-phenomenon-of-online-memes/"><u>Inside the Phenomenon of Online Memes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/instagram-account-lockout-heres-what-you-can-do-to-regain-control/"><u>Instagram Account Lockout? Here's What You Can Do to Regain Control!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/make-their-screens-light-up-unique-console-and-accessory-selections-for-junior-gamerz/"><u>Make Their Screens Light Up: Unique Console & Accessory Selections for Junior Gamerz</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-smart-tv-purchases-7-tips-to-make-an-informed-decision/"><u>Navigating Smart TV Purchases: 7 Tips to Make an Informed Decision</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshoot-apple-watch-connectivity-top-6-solutions-for-successful-pairing/"><u>Troubleshoot Apple Watch Connectivity: Top 6 Solutions for Successful Pairing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722902967843-unlocking-emoji-mysteries-learn-these-mind-blowing-facts-now/"><u>Unlocking Emoji Mysteries: Learn These Mind-Blowing Facts Now!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722860216209-watch-all-the-game-tonight-getting-fubotv-working-on-fire-stick/"><u>Watch All the Game Tonight! Getting FuboTV Working on Fire Stick</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/your-micromobility-companion-important-dates-fresh-updates-and-hidden-trends/"><u>Your Micromobility Companion: Important Dates, Fresh Updates & Hidden Trends</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-quintessential-selection-5-must-have-mac-snipers/"><u>[Updated] In 2024, The Quintessential Selection 5 Must-Have Mac Snipers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-windows-10-tips-for-maximum-productivity/"><u>2024 Approved Top Windows 10 Tips For Maximum Productivity</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-12-pro-max-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone 12 Pro Max and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-playback-problems-how-to-get-spotify-back-up-and-running-on-your-windows-pc/"><u>Overcoming Playback Problems: How to Get Spotify Back Up and Running on Your Windows PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-guide-to-finding-and-downloading-your-hp-devices-windows-10-drivers/"><u>Quick Guide to Finding and Downloading Your HP Device's Windows 10 Drivers!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-guide-turn-off-driver-signature-protection-in-windows-11-without-hassle/"><u>Quick Guide: Turn Off Driver Signature Protection in Windows 11 Without Hassle!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-playback-on-ps4-enjoy-zero-latency-video-streams/"><u>Seamless Playback on PS4 - Enjoy Zero Latency Video Streams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-disabling-of-windows-10-driver-signature-checks/"><u>Step-by-Step Disabling of Windows 10 Driver Signature Checks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-the-ultimate-guide-to-hardware/"><u>Tom's Tech Insights: The Ultimate Guide to Hardware</u></a></li>
 </ul></div>
 

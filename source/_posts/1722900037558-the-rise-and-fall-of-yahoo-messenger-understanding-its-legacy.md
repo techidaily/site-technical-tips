@@ -1,7 +1,7 @@
 ---
 title: The Rise and Fall of Yahoo! Messenger - Understanding Its Legacy
-date: 2024-09-15T02:13:31.506Z
-updated: 2024-09-20T17:28:50.789Z
+date: 2024-10-16T21:01:37.135Z
+updated: 2024-10-19T14:45:19.499Z
 categories:
   - BestProducts
 description: This Article Describes The Rise and Fall of Yahoo! Messenger - Understanding Its Legacy
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/3mm_dM6h5KbNMD16kmjaUSnjazs=/400x300/fi
 
  This article explains how to[restart an iPhone](https://www.lifewire.com/how-to-restart-iphone-2000288) 15\. The instructions include how to do a soft restart for a simple shut down of the device and a force restart if the first methods don't work. The steps are the same for all iPhone 15 models.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Soft Restart an iPhone 15
 
  To do a soft restart means to turn off your iPhone using the device’s options and then turn it back on. Follow these steps to restart your iPhone 15.
@@ -32,6 +39,14 @@ thumbnail: https://www.lifewire.com/thmb/3mm_dM6h5KbNMD16kmjaUSnjazs=/400x300/fi
 2. Drag the**Slide to Power Off** option to the right.  
 ![The Power Off slider on an iPhone 15](https://www.lifewire.com/thmb/_gkqlHLFwAAe43qTejESczVRQeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPhone15-Power-Off-Slider-8662940-84a3f064e5dc4278b8c8abb4a8bcbf56-a833a36d8094471694b628adb004cc60.jpg)
 3. When you’re ready to turn your iPhone back on, press and hold the**Side** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have an iPhone 15 Pro or iPhone 15 Pro Max, make sure you press the Side button on the_right_ , not the[Action button](https://www.lifewire.com/use-action-button-on-iphone-15-pro-7972021) on the left.
 
 ## How to Use Settings to Restart iPhone 15
@@ -43,14 +58,15 @@ thumbnail: https://www.lifewire.com/thmb/3mm_dM6h5KbNMD16kmjaUSnjazs=/400x300/fi
 3. Drag the**Slide to Power Off** option to the right.  
 ![The iPhone Settings app with General, Shut Down, and power switch highlighted.](https://www.lifewire.com/thmb/qkqSasRdubWydWHUBG5CkQeJstI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Turn-Of-iPhone-15-Pro-in-Settings-6be83e8413504c42b9bc2f146153f7da.jpg)
 4. To turn your iPhone back on, press and hold the**Side** button on the right.  
- Unable to turn your device back on? Look at ways to[fix an iPhone that won’t turn on](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Unable to turn your device back on? Look at ways to[fix an iPhone that won’t turn on](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281) .
 
 ## How to Turn Off an iPhone 15 With Siri
 
@@ -63,10 +79,10 @@ thumbnail: https://www.lifewire.com/thmb/3mm_dM6h5KbNMD16kmjaUSnjazs=/400x300/fi
  Siri will confirm that you want to power down your phone; select**Power Off** to continue.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Force Restart an iPhone 15
@@ -106,5 +122,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-video-playback-with-youtubes-latest-feature-av1/"><u>[New] In 2024, Elevate Video Playback with YouTube's Latest Feature - AV1</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-movavi-screen-recorder-11/"><u>[New] Movavi Screen Recorder 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/addressing-dsounddll-absence-or-non-detection-errors-effectively/"><u>Addressing 'dsound.dll' Absence or Non-Detection Errors Effectively</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-resolving-the-missing-shelldll-error-on-your-pc/"><u>Effective Solutions for Resolving the Missing Shell.dll Error on Your PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-t2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-infinix-hot-30i-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Infinix Hot 30i?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/key-factors-to-evaluate-when-choosing-a-video-recording-equipment/"><u>Key Factors to Evaluate When Choosing a Video Recording Equipment</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/m4vflvmovavi/"><u>M4V到FLV自由轉換服務，以Movavi為基礎的實用工具</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/prediction-new-lineup-of-apples-oled-ipad-pros-and-a-refreshed-129-ipad-air-set-for-q1-2024-launch-insights/"><u>Prediction: New Lineup of Apple's OLED iPad Pros and a Refreshed 12.9 iPad Air Set for Q1 2024 Launch - Insights</u></a></li>
+<li><a href="https://techidaily.com/the-impact-of-page-content-on-your-websites-seo-success/"><u>The Impact of Page Content on Your Website's SEO Success</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-must-have-video-editing-tools-ranked-by-professionals/"><u>Top 5 Must-Have Video Editing Tools Ranked by Professionals</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Transforming the Landscape: The Five Key Upgrades Needed for Android to Outshine iOS | ZDNET Insights"
-date: 2024-10-07T16:15:03.227Z
-updated: 2024-10-13T16:17:40.638Z
+date: 2024-10-14T16:04:15.728Z
+updated: 2024-10-19T16:04:16.784Z
 tags:
   - apple
 categories:
@@ -51,16 +51,16 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
+<span id="1982508">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -100,16 +100,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -139,10 +133,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -193,21 +187,21 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-fundamental-skills-for-producing-emotionally-driven-testimonials/"><u>[New] 2024 Approved Fundamental Skills for Producing Emotionally-Driven Testimonials</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-pioneering-water-dynamics-video-games-roundup/"><u>[Updated] 2024 Approved Pioneering Water Dynamics Video Games Roundup</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-fcp-freedom/"><u>2024 Approved Mastering the Art of FCP Freedom</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-comprehensive-guide-to-troubleshooting-and-solving-error-code-0x80004005/"><u>A Comprehensive Guide to Troubleshooting and Solving Error Code 0X80004005</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-power-of-chatgpt-an-in-depth-look/"><u>Discover the Power of ChatGPT: An In-Depth Look</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-guide-changing-your-macs-folder-colors/"><u>Easy Guide: Changing Your Mac's Folder Colors</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-edge-40-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Motorola Edge 40 Phone with Broken Screen</u></a></li>
-<li><a href="https://video-capture.techidaily.com/litescreen-recorder-review-and-alternatives-for-2024/"><u>LiteScreen Recorder Review and Alternatives for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocket-your-system-innovative-apps-of-2023/"><u>Skyrocket Your System: Innovative Apps of 2023</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722868602090-sneak-peek-into-the-future-with-samsung-galaxy-s25-predictions-on-pricing-specs-and-release-day/"><u>Sneak Peek Into the Future with Samsung Galaxy S25 - Predictions on Pricing, Specs and Release Day</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-art-of-diplomatic-office-communication-with-chatgpt-expert-tips-for-penning-tricky-emails/"><u>The Art of Diplomatic Office Communication with ChatGPT: Expert Tips for Penning Tricky Emails</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-decision-makers-guide-to-choosing-between-staying-on-current-os-or-going-for-ios-17/"><u>The Decision-Maker's Guide to Choosing Between Staying on Current OS or Going for iOS 17</u></a></li>
-<li><a href="https://win-blog.techidaily.com/the-ultimate-troubleshooting-list-for-black-screen-issues-on-steam-2024-edition/"><u>The Ultimate Troubleshooting List for Black Screen Issues on Steam: 2024 Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-must-play-imessage-games/"><u>Top 7 Must-Play iMessage Games</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-to-address-missing-or-not-found-mapi3e-dll-errors/"><u>Troubleshooting Tips to Address 'Missing or Not Found' MAPI3e DLL Errors</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/x-dvd/"><u>열쇠X DVD 리퍼및 비디오 컨버터 소프트웨어를 위한 금지된 구매 시장</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-effortless-youtube-file-extraction/"><u>[New] In 2024, Effortless YouTube File Extraction</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-overcoming-common-windows-10-photos-display-problems/"><u>[New] Overcoming Common Windows 10 Photos Display Problems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mood-matcher-auditory-selection-for-videos/"><u>2024 Approved Mood Matcher Auditory Selection for Videos</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1726218932832-movaviwav3gp/"><u>無版税直接移動：MOVAVI工具下将WAV格式转换成3GP</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-powerful-zoom-compact-camera-reviewed-the-sx720hs-examined/"><u>A Powerful Zoom Compact Camera Reviewed: The SX720HS Examined</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-charms-of-the-samsung-galaxy-s20-fe-5g-the-next-big-thing-in-5g-technology/"><u>Discovering the Charms of the Samsung Galaxy S20 FE 5G - The Next Big Thing in 5G Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-methods-to-transform-any-website-page-into-a-pdf-file/"><u>Free Methods to Transform Any Website Page Into a PDF File</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-expert-advice-strategically-using-hashtags-to-grow-your-instagram-following/"><u>In 2024, Expert Advice Strategically Using Hashtags to Grow Your Instagram Following</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-setup-guide-pairing-your-kindle-fire-device-and-pc-without-cables/"><u>Seamless Setup Guide: Pairing Your Kindle Fire Device and PC without Cables</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-app-uninstallation-on-your-device/"><u>Step-by-Step Guide to App Uninstallation on Your Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-transforming-secured-pdf-files-into-editable-epub-ebooks/"><u>Step-by-Step Guide: Transforming Secured PDF Files Into Editable EPUB eBooks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-for-integrating-disneyplus-with-chromecast-for-hassle-free-viewing/"><u>Step-by-Step Tutorial for Integrating Disney+ with Chromecast for Hassle-Free Viewing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-pdf-to-epub-conversion-software-the-ultimate-guide/"><u>Top Rated PDF-to-EPUB Conversion Software: The Ultimate Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-your-library-of-freebies-exclusive-ebooks-and-must-have-tools-for-free/"><u>Unlock Your Library of Freebies – Exclusive eBooks and Must-Have Tools for Free</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-knowledge-a-comprehensive-tutorial-on-drm-free-ebook-conversion-for-page-12-and-beyond/"><u>Unlocking Knowledge: A Comprehensive Tutorial on DRM-Free eBook Conversion for Page 12 and Beyond</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-best-places-to-download-and-listen-to-bird-songs-in-mp3-format/"><u>Updated In 2024, Best Places to Download and Listen to Bird Songs in MP3 Format</u></a></li>
 </ul></div>
 

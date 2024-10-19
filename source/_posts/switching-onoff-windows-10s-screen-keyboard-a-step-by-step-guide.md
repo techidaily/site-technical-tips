@@ -1,7 +1,7 @@
 ---
 title: "Switching On/Off Windows 10'S Screen Keyboard: A Step-by-Step Guide"
-date: 2024-09-19T18:22:23.743Z
-updated: 2024-09-20T19:34:28.761Z
+date: 2024-10-17T05:56:51.547Z
+updated: 2024-10-18T23:45:12.548Z
 categories:
   - BestProducts
 description: "This Article Describes Switching On/Off Windows 10'S Screen Keyboard: A Step-by-Step Guide"
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
 * Another method that works in all Windows versions is to execute the**cmd** command from the Run dialog box.
 
  This article explains how to open[Command Prompt](https://www.lifewire.com/command-prompt-2625840) , which is one of the[command-line interface](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827) programs used to execute[commands](https://www.lifewire.com/what-is-a-command-2625828) in Windows operating systems. These directions apply to Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, and Windows XP.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 11 or 10
 
@@ -44,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Open Command Prompt Using Power User Menu
@@ -56,14 +63,14 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
- You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
 ## Open Command Prompt in Windows 8 or 8.1
 
@@ -109,10 +116,10 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
@@ -157,5 +164,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-customize-your-view-with-this-diy-guide-for-google-vr-gear-for-2024/"><u>[New] Customize Your View with This DIY Guide for Google VR Gear for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-discover-and-set-up-vrecorder-in-minutes-148-characters-for-2024/"><u>[Updated] Discover & Set Up VRecorder in Minutes (148 Characters) for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comparing-future-cloud-bill-predictions/"><u>2024 Approved Comparing Future Cloud Bill Predictions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-information-on-the-next-gen-tesla-automaton-speculations-about-pricing-launch-date-and-full-spectrum-of-capabilities/"><u>Decoding Information on the Next-Gen Tesla Automaton - Speculations About Pricing, Launch Date & Full Spectrum of Capabilities</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-address-the-wlanapidll-file-disappearance-problem/"><u>Effective Strategies to Address the WLANAPI.DLL File Disappearance Problem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/google-pixel-9-unveiled-get-the-scoop-on-estimated-price-launch-date-and-hardware-specs-rumor-mill-alert/"><u>Google Pixel 9 Unveiled: Get the Scoop on Estimated Price, Launch Date & Hardware Specs - Rumor Mill Alert</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-the-truthgpt-phenomenon-policing-of-mullvad-vpn-premier-freeware-for-gamers-and-a-guide-to-mechanical-keyboards/"><u>Inside the TruthGPT Phenomenon, Policing of Mullvad VPN, Premier Freeware for Gamers, and a Guide to Mechanical Keyboards</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-canon-mf4500-drivers-easily-step-by-step-guide-and-links/"><u>Install Canon MF4500 Drivers Easily – Step-by-Step Guide and Links</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/join-us-online-to-catch-the-exclusive-preview-of-samsungs-newest-mobile-marvel/"><u>Join Us Online to Catch the Exclusive Preview of Samsung's Newest Mobile Marvel</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-cloud-gaming-a-comprehensive-tutorial-on-using-the-xbox-game-pass-ultimate/"><u>Mastering Cloud Gaming: A Comprehensive Tutorial on Using the Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722884929666-samsung-galaxy-z-fold-6-revealed-find-out-when-how-much-and-what-to-expect-in-specs/"><u>Samsung Galaxy Z Fold 6 Revealed – Find Out When, How Much & What to Expect in Specs!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ins-and-outs-of-sms-receipts-ensuring-your-text-is-actually-read/"><u>The Ins and Outs of SMS Receipts: Ensuring Your Text Is Actually Read</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-baby-steps-decoding-and-solving-error-code-e43-in-at-home-kits/"><u>Troubleshooting Baby Steps: Decoding & Solving Error Code E43 in At-Home Kits</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-d3dx933dll-file-not-found-error-in-windows-systems/"><u>Troubleshooting Tips for d3dx9_33.dll File Not Found Error in Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-ethernet-connectivity-for-windows-117-users/"><u>Troubleshooting Your Ethernet Connectivity for Windows 11/7 Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+</ul></div>
 

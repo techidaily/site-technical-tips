@@ -1,7 +1,7 @@
 ---
 title: Overcoming Print Obstacles on Your iPad – What To Do When You Can’t Find the Printer
-date: 2024-10-10T16:10:35.267Z
-updated: 2024-10-13T16:21:01.926Z
+date: 2024-10-14T16:01:03.800Z
+updated: 2024-10-19T16:02:34.950Z
 categories:
   - BestProducts
 description: This Article Describes Overcoming Print Obstacles on Your iPad – What To Do When You Can’t Find the Printer
@@ -33,32 +33,24 @@ thumbnail: https://www.lifewire.com/thmb/yXXst6UgHrlBvrhHuREgsxGzFgM=/400x300/fi
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
@@ -66,10 +58,17 @@ thumbnail: https://www.lifewire.com/thmb/yXXst6UgHrlBvrhHuREgsxGzFgM=/400x300/fi
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What You Need to Get 120 FPS on PS5
@@ -81,6 +80,13 @@ thumbnail: https://www.lifewire.com/thmb/yXXst6UgHrlBvrhHuREgsxGzFgM=/400x300/fi
  You'll also need an HDMI 2.1 cable. You can use the HDMI cable that comes with the PS5, which is a 2.1\. However, if you're using a different cord (because the included one wasn't long enough, for example), you'll need to make sure it's that type.
 
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which PS5 Games Support 120 FPS?
 
@@ -128,19 +134,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-gamification-unleashed-djis-air-vs-spark-duel-revealed/"><u>[New] Gamification Unleashed DJI's Air Vs. Spark Duel Revealed</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-unveiling-the-secrets-of-crafting-perfect-audio-for-videos-for-2024/"><u>[New] Unveiling the Secrets of Crafting Perfect Audio for Videos for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-navigating-the-world-of-insta-influencers-5-pivotal-moves-and-results/"><u>2024 Approved Navigating the World of Insta Influencers 5 Pivotal Moves and Results</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-site-management/"><u>Cookiebot-Enabled Site Management</u></a></li>
-<li><a href="https://win-blog.techidaily.com/diagnosing-and-repairing-windows-instability-with-everscape-2-a-comprehensive-guide/"><u>Diagnosing and Repairing Windows Instability with Everscape 2 - A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enjoy-roku-channels-anywhere-even-without-owning-a-roku-player-heres-how/"><u>Enjoy Roku Channels Anywhere, Even Without Owning a Roku Player – Here's How!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-page-not-found-issues-a-comprehensive-guide/"><u>Fixing 'Page Not Found' Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-frequent-usb-device-connection-interruptions-successfully/"><u>How To Resolve Frequent USB Device Connection Interruptions Successfully</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-honor-magic-6-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Honor Magic 6 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/no-fuss-quick-setup-tp-link-wireless-adapter-drivers-windows/"><u>No Fuss, Quick Setup: TP Link Wireless Adapter Drivers Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-the-challenge-of-a-lost-opengl32dll-file-in-windows/"><u>Overcoming the Challenge of a Lost OpenGL32.dll File in Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-setting-up-a-samsung-soundbar-with-your-tv/"><u>Step-by-Step Tutorial on Setting Up a Samsung Soundbar with Your TV</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-beginners-handbook-simple-steps-to-capture-screen-images-from-your-hp-machine/"><u>The Beginner's Handbook: Simple Steps to Capture Screen Images From Your HP Machine</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/x-men-movie-marathon-a-sequential-watchlist-for-fans/"><u>X-Men Movie Marathon: A Sequential Watchlist for Fans</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-an-in-depth-look-at-wirecast-and-what-it-offers/"><u>[New] An In-Depth Look at WireCast and What It Offers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-the-art-of-setting-yourself-aside-from-influencer-currents/"><u>[New] In 2024, The Art of Setting Yourself Aside From Influencer Currents</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-depth-guide-to-maximizing-creativity-with-picsart-for-2024/"><u>[New] In-Depth Guide to Maximizing Creativity with PicsArt for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-slow-motion-journey-for-aspiring-ig-video-makers/"><u>[New] The Slow-Motion Journey for Aspiring IG Video Makers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-2024-cloud-services-for-minimum-spend/"><u>[Updated] Optimal 2024 Cloud Services for Minimum Spend</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ng-up-engagement-youtube-thumbnails-that-convert/"><u>Dialing Up Engagement YouTube Thumbnails That Convert</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/dialogue-dynamics-secrets-to-great-screenwriting/"><u>Dialogue Dynamics Secrets to Great Screenwriting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/escape-the-digital-deep-freeze-unfreezing-techniques-for-windows-11-users/"><u>Escape the Digital Deep Freeze: Unfreezing Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-overcoming-the-challenges-of-driverpowerstatefailure/"><u>Expert Advice: Overcoming the Challenges of DRIVER_POWER_STATE_FAILURE</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gmail-to-zoom-tips-for-smooth-virtual-meeting-transitions-for-2024/"><u>Gmail to Zoom Tips for Smooth Virtual Meeting Transitions for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-boost-fps-in-diablo-ii-resurrected/"><u>How to Boost FPS in Diablo II: Resurrected</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-customize-your-gaming-experience-through-nvidia-control-panels-3d-settings/"><u>How to Customize Your Gaming Experience Through NVIDIA Control Panel’s 3D Settings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-factory-reset-a-dell-laptop/"><u>How To Factory Reset a Dell Laptop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-a-non-responsive-windows-pc-health-scan-tool/"><u>How to Fix a Non-Responsive Windows PC Health Scan Tool</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-logitech-k780-keyboard-not-working/"><u>How to Fix Logitech K780 Keyboard Not Working</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-windows-10-boot-issue-the-ultimate-guide-to-restoring-functional-f8-key/"><u>How to Fix Windows 10 Boot Issue: The Ultimate Guide to Restoring Functional F8 Key</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-correcting-windows-driver-power-management-errors/"><u>Step-by-Step Tutorial: Correcting Windows Driver Power Management Errors</u></a></li>
 </ul></div>
 

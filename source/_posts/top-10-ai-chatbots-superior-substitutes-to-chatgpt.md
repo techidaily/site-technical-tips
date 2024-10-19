@@ -1,7 +1,7 @@
 ---
 title: "Top 10 AI Chatbots: Superior Substitutes to ChatGPT"
-date: 2024-10-07T16:24:04.436Z
-updated: 2024-10-13T16:07:25.477Z
+date: 2024-10-18T16:05:21.310Z
+updated: 2024-10-19T16:01:06.909Z
 categories:
   - BestProducts
 description: "This Article Describes Top 10 AI Chatbots: Superior Substitutes to ChatGPT"
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -98,10 +91,16 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
@@ -126,6 +125,13 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -135,10 +141,10 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Was this page helpful?
@@ -170,24 +176,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-proven-steps-to-create-high-impact-facebook-video-ads/"><u>[Updated] 2024 Approved Proven Steps to Create High-Impact Facebook Video Ads</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-the-art-of-snapchat-sponsored-content-for-2024/"><u>[Updated] Mastering the Art of Snapchat Sponsored Content for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-rapid-video-grabber-and-audible-guide-system/"><u>[Updated] Rapid Video Grabber & Audible Guide System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-samsungs-unpacked-2025-announcements-rumors-and-industry-insights/"><u>All You Need to Know About Samsung's Unpacked 2025: Announcements, Rumors, and Industry Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discovering-aether-insights-into-its-essence-and-ways-to-engage-with-it/"><u>Discovering Aether: Insights Into Its Essence and Ways to Engage with It</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-guide-to-downloading-and-updating-your-amd-rx-480-graphics-cards-latest-drivers/"><u>Easy Guide to Downloading and Updating Your AMD RX 480 Graphics Card's Latest Drivers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-review-the-enhanced-third-generation-apple-tv-4k-experience/"><u>Expert Review: The Enhanced Third Generation Apple TV 4K Experience</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-nubia-red-magic-8s-proplus-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nubia Red Magic 8S Pro+ Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-excellent-20-copy-free-pubg-thumbnail-sequences/"><u>In 2024, Excellent 20 Copy-Free PUBG Thumbnail Sequences</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-ridiculousrender-hub/"><u>In 2024, RidiculousRender Hub</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-file-resurrection-with-recuva-an-authoritative-evaluation-of-top-restoration-tools/"><u>Mastering File Resurrection with Recuva: An Authoritative Evaluation of Top Restoration Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-detecting-read-emails-on-gmail/"><u>Mastering the Art of Detecting Read Emails on Gmail</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/mastering-the-art-of-saving-active-directories-a-guide-to-windows-server-backup-utilization/"><u>Mastering the Art of Saving Active Directories: A Guide to Windows Server Backup Utilization</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/multiple-bluetooth-audio-streams-master-the-art-of-conjoining-them-through-one-gadget/"><u>Multiple Bluetooth Audio Streams? Master the Art of Conjoining Them Through One Gadget</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/removing-your-personalized-recommendations-on-instagram-a-step-by-step-guide/"><u>Removing Your Personalized Recommendations on Instagram: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-the-roar-a-comprehensive-guide-to-fix-sound-issues-on-an-acer-computer/"><u>Reviving the Roar: A Comprehensive Guide to Fix Sound Issues on an Acer Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-smoothly-acquiring-and-implementing-the-latest-ios-version-on-your-iphone-or-ipad/"><u>The Ultimate Guide to Smoothly Acquiring and Implementing the Latest iOS Version on Your iPhone or iPad</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-verification-problems-with-third-party-applications-on-your-mac/"><u>Troubleshooting Verification Problems with Third-Party Applications on Your Mac</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-build-and-launch-youtube-video-ads-on-budget/"><u>[New] Build & Launch YouTube Video Ads on Budget</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-this-video-will-get-you-100000-views-on-youtube/"><u>[Updated] In 2024, This Video Will Get You 100000 Views on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/aiaifogg-movavi/"><u>AI簡訊捕捉AIF到OGG: 使用 Movavi 自由轉換工具</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/challenges-of-implementing-hdmi-nvidia-drivers-in-linux-with-open-source-constraints/"><u>Challenges of Implementing HDMI nVidia Drivers in Linux with Open-Source Constraints</u></a></li>
+<li><a href="https://facebook.techidaily.com/dont-give-strangers-access-to-your-social-profile/"><u>Don't Give Strangers Access to Your Social Profile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-troubleshooting-and-correcting-the-lost-haldll-errors-on-windows-xp-systems/"><u>Expert Advice: Troubleshooting and Correcting the Lost Hal.dll Errors on Windows XP Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-contrast-between-apples-ipad-pro-and-macbook-air-devices/"><u>Exploring the Contrast Between Apple’s iPad Pro and MacBook Air Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-10-financially-friendly-live-streaming-apps-ios-and-android-reviewed/"><u>In 2024, 10 Financially Friendly Live Streaming Apps IOS & Android Reviewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macos-simplified-master-the-art-of-rar-file-decoding-and-unzipping/"><u>MacOS Simplified: Master the Art of RAR File Decoding and Unzipping</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-connecting-and-chatting-with-whatsapp-on-macos/"><u>Step-by-Step Tutorial: Connecting and Chatting with WhatsApp on macOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamline-your-inbox-management-by-selecting-all-email-threads-at-once-in-gmail/"><u>Streamline Your Inbox Management by Selecting All Email Threads at Once in Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/switching-receivers-how-to-compatibly-link-your-logitech-mouse-with-another-device/"><u>Switching Receivers: How to Compatibly Link Your Logitech Mouse with Another Device</u></a></li>
 </ul></div>
 

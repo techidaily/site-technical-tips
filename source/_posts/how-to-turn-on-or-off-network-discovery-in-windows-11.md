@@ -1,7 +1,7 @@
 ---
 title: How to Turn On or Off Network Discovery in Windows 11
-date: 2024-10-08T16:06:50.397Z
-updated: 2024-10-13T16:25:52.802Z
+date: 2024-10-14T16:01:53.735Z
+updated: 2024-10-19T16:01:28.325Z
 categories:
   - BestProducts
 description: This Article Describes How to Turn On or Off Network Discovery in Windows 11
@@ -24,16 +24,10 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
  This article teaches you how to change the Windows 11 system font so that various areas of the OS will use the font type you prefer. It also covers how to undo these steps to restore the default font.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change the System Font in Windows 11
@@ -45,16 +39,24 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 2. Scroll down to**Available fonts** , and find and select the font you're interested in using.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don't see the font you want, you can take this time to download it. Lots of websites have free fonts, but you can also[buy fonts online](https://www.lifewire.com/buy-fonts-for-desktop-publishing-1077714) . Then, return to this area of Settings to see it. Our[How to Install Fonts in Windows 11](https://www.lifewire.com/install-fonts-in-windows-11-5192443) guide can help if you need it.
 3. Locate the**Full name** line in the**Metadata** section, and write it down exactly as it's written. In our example, we recorded**Franklin Gothic Medium** .  
 ![Full Name and Franklin Gothic Medium highlighted in Windows 11 font settings](https://www.lifewire.com/thmb/TLWCZLK0sdGg9XBIj1y4Ma1EuAA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-change-the-font-in-windows-11-6827640-97099a55349a45e392459345af24caf1.jpg)
 4. Open Notepad, or a[different text editor](https://www.lifewire.com/best-free-text-editors-4155819) if you prefer, and paste the following:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  `Windows Registry Editor Version 5.00`  
 `[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]`  
 `"Segoe UI (TrueType)"=""`  
@@ -79,17 +81,10 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 12. [Reboot your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) to see the font changes. The quickest method is to right-click the Start button and go to**Shut down or sign out** \>**Restart** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Does Changing the System Font Do?
@@ -191,14 +186,15 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-chart-a-course-to-higher-views-with-top-optimization-tactics/"><u>[New] In 2024, Chart a Course to Higher Views with Top Optimization Tactics</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-youtubers-ultimate-guide-10-keys-to-unique-short-form-videos/"><u>2024 Approved Youtubers' Ultimate Guide 10 Keys to Unique Short-Form Videos</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-epson-perfection-v39-driver-downloads-for-windows-operating-systems-including-7810/"><u>Install Epson Perfection V39: Driver Downloads for Windows Operating Systems Including 7/8/10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-fixes-for-common-iphone-digital-assistant-app-challenges/"><u>Master Fixes for Common iPhone Digital Assistant App Challenges</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-your-digital-interface-enablingdisabling-built-in-typist-in-win11/"><u>Mastering Your Digital Interface: Enabling/Disabling Built-In Typist in Win11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/silence-is-golden-steps-for-identifying-and-resolving-a-noisy-computer-fan-issue/"><u>Silence Is Golden: Steps for Identifying and Resolving a Noisy Computer Fan Issue</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-oppo-reno-11-pro-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Oppo Reno 11 Pro 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://facebook.techidaily.com/strategic-use-of-facebooks-daily-alert-for-rest-breaks/"><u>Strategic Use of Facebook's Daily Alert for Rest Breaks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-definitive-guide-resolve-your-missing-msvcrt10dll-computer-problems/"><u>The Definitive Guide: Resolve Your 'Missing msvcrt10.dll' Computer Problems</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-transform-your-snapchat-storytelling-learn-to-zoom-like-pros-for-2024/"><u>[Updated] Transform Your Snapchat Storytelling Learn to Zoom Like Pros for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-se-2022-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone SE (2022) Without iTunes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-game-torrent-platforms-a-ranking-guide/"><u>Discover the Leading Game Torrent Platforms: A Ranking Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-to-recover-and-reset-your-email-password-with-two-factor-authentication-in-gmail/"><u>Easy Steps to Recover and Reset Your Email Password with Two-Factor Authentication in Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-tutorial-configuring-and-enabling-remote-desktop-feature-in-windows-11/"><u>Easy Tutorial: Configuring and Enabling Remote Desktop Feature in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enabling-offline-mode-a-step-by-step-guide-to-playing-steam-games-without-internet/"><u>Enabling Offline Mode: A Step-by-Step Guide to Playing Steam Games Without Internet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-learn-to-cropping-and-composition-the-audio-visual-balance-in-canvas/"><u>In 2024, Learn to Cropping & Composition The Audio-Visual Balance in Canvas</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-best-free-video-compression-tools-for-ios-devices/"><u>New 2024 Approved The Best Free Video Compression Tools for iOS Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/stepwise-guide-to-effective-keying-with-kinemasters-gs/"><u>Stepwise Guide to Effective Keying with KineMaster's GS</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-list-of-top-ranking-free-media-players-for-your-android-smartphone/"><u>The Ultimate List of Top-Ranking Free Media Players for Your Android Smartphone</u></a></li>
 </ul></div>
 

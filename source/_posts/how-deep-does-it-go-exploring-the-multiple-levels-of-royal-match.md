@@ -1,7 +1,7 @@
 ---
 title: How Deep Does It Go? Exploring the Multiple Levels of 'Royal Match'
-date: 2024-09-16T03:58:31.875Z
-updated: 2024-09-20T23:10:45.966Z
+date: 2024-10-13T01:03:32.184Z
+updated: 2024-10-18T21:02:29.395Z
 categories:
   - BestProducts
 description: This Article Describes How Deep Does It Go? Exploring the Multiple Levels of 'Royal Match'
@@ -48,6 +48,19 @@ thumbnail: https://www.lifewire.com/thmb/4DOzepAuQkGGPoCck74wzjeBAXc=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -73,13 +86,6 @@ thumbnail: https://www.lifewire.com/thmb/4DOzepAuQkGGPoCck74wzjeBAXc=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -89,6 +95,13 @@ thumbnail: https://www.lifewire.com/thmb/4DOzepAuQkGGPoCck74wzjeBAXc=/400x300/fi
 * **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
 
@@ -101,10 +114,10 @@ thumbnail: https://www.lifewire.com/thmb/4DOzepAuQkGGPoCck74wzjeBAXc=/400x300/fi
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
@@ -120,10 +133,10 @@ thumbnail: https://www.lifewire.com/thmb/4DOzepAuQkGGPoCck74wzjeBAXc=/400x300/fi
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
@@ -161,5 +174,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-7-best-drone-gimbals-in-the-market/"><u>[New] 2024 Approved Top 7 Best Drone Gimbals in the Market</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-industry-standards-in-digital-media-capture-for-2024/"><u>[Updated] Industry Standards in Digital Media Capture for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-t2-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo T2 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amazons-top-bargains-for-august-2eighty-four-unbeatable-deals-revealed/"><u>Amazon's Top Bargains for August 2Eighty-Four: Unbeatable Deals Revealed !</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/corporate-powerhouse-microsoft-surface-pro-8-reviewed/"><u>Corporate Powerhouse: Microsoft Surface Pro 8 Reviewed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/darkness-defender-vs-lights-liberator-black-vs-silver/"><u>Darkness' Defender vs Light's Liberator BLACK vs SILVER</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-failed-d3d-initiation-process/"><u>Fixing Failed D3D Initiation Process</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-dead-walkers-dominance-leading-zombie-video-game-ranks/"><u>In 2024, Dead Walkers Dominance Leading Zombie Video Game Ranks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/non-apple-top-rated-rechargeable-airtags-the-ultimate-choice-for-smart-wallets-explore-options-beyond-the-iphone-ecosystem/"><u>Non-Apple, Top-Rated Rechargeable AirTags: The Ultimate Choice for Smart Wallets - Explore Options Beyond the iPhone Ecosystem</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-meizu-21-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Meizu 21 has been deleted.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbelievable-deal-get-the-newest-ipad-9th-generation-at-only-250-following-apples-recent-launch-shop-now-on-zdnet/"><u>Unbelievable Deal: Get the Newest iPad 9Th Generation at Only $250 Following Apple’s Recent Launch – Shop Now on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watching-fandango-content-via-apple-tv-a-step-by-step-tutorial/"><u>Watching Fandango Content via Apple TV: A Step-by-Step Tutorial</u></a></li>
+</ul></div>
 

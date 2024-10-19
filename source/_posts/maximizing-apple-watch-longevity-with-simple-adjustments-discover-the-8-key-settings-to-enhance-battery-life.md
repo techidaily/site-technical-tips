@@ -1,7 +1,7 @@
 ---
 title: Maximizing Apple Watch Longevity with Simple Adjustments - Discover the 8 Key Settings to Enhance Battery Life
-date: 2024-10-11T16:12:10.118Z
-updated: 2024-10-13T16:10:11.858Z
+date: 2024-10-12T16:00:49.748Z
+updated: 2024-10-19T16:00:37.793Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 
 **What you need:** iPhone, banking information
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Set up Apple Pay in the Wallet app
 
 Before using Apple Pay as your contactless payment form, you need to set it up by adding your credit or debit cards to your iPhone. You can set up Apple Pay from your [iPhone's settings](https://www.zdnet.com/article/dont-change-five-these-iphone-settings/) or simply by going to the Wallet app and adding your cards there. 
@@ -46,6 +39,13 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -69,6 +69,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -84,13 +91,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -109,16 +109,10 @@ That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.)
 ## FAQ
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -129,13 +123,6 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 2. Tap on Add Card and follow the prompts to add your new card.
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Where can I use Apple Pay to pay in stores and online?
 
@@ -156,10 +143,10 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Apple Cash?
@@ -169,6 +156,13 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -218,24 +212,18 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-the-visionarys-manual-selecting-the-most-compelling-4k-displays-today/"><u>[New] In 2024, The Visionary's Manual Selecting the Most Compelling 4K Displays Today</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-imagecraft-tools-for-2024/"><u>[Updated] ImageCraft Tools for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-top-6-reel-enhancing-applications-for-instagram/"><u>[Updated] Top 6 Reel-Enhancing Applications for Instagram</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/access-your-netgear-equipment-easily-with-our-updated-default-passwords-list-july-24/"><u>Access Your NETGEAR Equipment Easily with Our Updated Default Passwords List (July '24)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/airpods-and-nintendo-switch-is-it-possible-to-link-them/"><u>AirPods and Nintendo Switch - Is It Possible To Link Them?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-net-speed-win-pc-download-acceleration-tips/"><u>Boosting Net Speed: Win-PC Download Acceleration Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-discounts-on-apple-watches-limited-time-offer/"><u>Exclusive Discounts on Apple Watches - Limited Time Offer!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-on-salvaging-your-water-damaged-mobile-device/"><u>Expert Advice on Salvaging Your Water-Damaged Mobile Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-digital-correspondence-does-pope-francis-utilize-email-for-messaging/"><u>Exploring Digital Correspondence: Does Pope Francis Utilize Email for Messaging?</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/google-hangouts-demystified-everything-you-need-to-know/"><u>Google Hangouts Demystified: Everything You Need to Know</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-finding-and-reaching-out-to-snapchat-support/"><u>Guide: Finding and Reaching Out to Snapchat Support</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-learn-free-online-methods-for-turning-facebook-videos-into-mp4-hd/"><u>In 2024, Learn Free Online Methods for Turning Facebook Videos Into MP4 HD</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/littoral-filmmakers-script-vision/"><u>Littoral Filmmaker's Script Vision</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revive-your-macs-network-capabilities-a-step-by-step-guide-to-reconfiguring-connections/"><u>Revive Your Mac's Network Capabilities: A Step-by-Step Guide to Reconfiguring Connections</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-6-premier-destinations-for-watching-newest-and-classics-music-vids-online/"><u>The 6 Premier Destinations for Watching Newest & Classics Music Vids Online</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-xs-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone XS from iCloud</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tutorial-activate-gpts-beta-browser-and-plugin-functionality/"><u>Tutorial: Activate GPT's Beta Browser & Plugin Functionality</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-compress-videos-like-a-pro-9-best-free-tools-for-windows-10/"><u>Updated Compress Videos Like a Pro 9 Best Free Tools for Windows 10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-evaluating-the-tech-behind-your-memories-the-mycam-cam-reviewed/"><u>[New] 2024 Approved Evaluating the Tech Behind Your Memories The MyCam Cam Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-inclusive-dynamic-movement-examination/"><u>[Updated] Inclusive Dynamic Movement Examination</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-12-mini-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 12 mini Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-steps-to-update-your-macos-sierra-system/"><u>Essential Steps to Update Your macOS Sierra System</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/master-iphones-artistic-capabilities-capturing-movement-blur-for-2024/"><u>Master iPhone's Artistic Capabilities Capturing Movement Blur for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tutorial-securing-your-workstation-with-a-wifi-network/"><u>Tutorial: Securing Your Workstation with a WiFi Network</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-overseeing-your-internet-data-spending-key-insights-and-tools/"><u>Understanding & Overseeing Your Internet Data Spending: Key Insights & Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-exactly-are-pc-drivers-tips-for-resolving-windows-driver-errors/"><u>What Exactly Are PC Drivers? Tips for Resolving Windows Driver Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-10-autonomous-fixing-quick-solutions-to-computer-glitches/"><u>Windows 10 Autonomous Fixing: Quick Solutions to Computer Glitches</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723807952444-windows-10-equalizer-best-way-to-improve-audio/"><u>Windows 10 Equalizer - Best Way to Improve Audio</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-11-update-assistant-what-is-it-and-how-to-uninstall-it/"><u>Windows 11 Update Assistant - What Is It and How to Uninstall It</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-mouse-setup-a-step-by-step-guide-for-pc-and-mac-users/"><u>Wireless Mouse Setup: A Step-by-Step Guide for PC and Mac Users</u></a></li>
 </ul></div>
 

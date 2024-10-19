@@ -1,7 +1,7 @@
 ---
 title: "1. 'Encountering Liquid Sensors on iPhones: Handling Lightning Port Water Damage with Ease'"
-date: 2024-10-07T16:30:55.211Z
-updated: 2024-10-13T16:06:55.845Z
+date: 2024-10-14T16:03:54.085Z
+updated: 2024-10-19T16:00:49.914Z
 tags:
   - apple
 categories:
@@ -30,18 +30,18 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -51,24 +51,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -77,10 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -92,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -140,24 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-joke-tastic-iphones-today-for-2024/"><u>[New] Joke-Tastic iPhones Today for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-thumbnails-the-ultimate-guide-to-optimal-youtube-sizes/"><u>[New] Top Thumbnails The Ultimate Guide to Optimal YouTube Sizes</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-chart-new-horizons-in-branding-with-these-top-10-youtube-tools-for-2024/"><u>[Updated] Chart New Horizons in Branding with These Top 10 YouTube Tools for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722861150302-boosting-ps5-performance-for-ultra-smooth-visuals-at-120-frames-per-second/"><u>Boosting PS5 Performance for Ultra-Smooth Visuals at 120 Frames Per Second.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-up-to-date-drivers-for-your-nvidia-rtx-2080-super-card-windows-11-support/"><u>Download & Install Up-to-Date Drivers for Your NVIDIA RTX #2080 Super Card – Windows 11 Support</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-missing-wininetdll-error-fixes/"><u>Effective Solutions for Missing Wininet.dll Error Fixes</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/idp-implementation-strategies-transforming-the-future-of-insurance-operations/"><u>IDP Implementation Strategies: Transforming the Future of Insurance Operations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/leading-exercise-management-apps-your-ultimate-guide-to-stay-on-top/"><u>Leading Exercise Management Apps: Your Ultimate Guide to Stay on Top</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/lessons-learned-from-microsoft-interruptions-a-call-to-reduce-state-reliance-on-leading-tech-giants/"><u>Lessons Learned From Microsoft Interruptions - A Call to Reduce State Reliance on Leading Tech Giants</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/mastering-complex-video-effects-and-transitions-in-gopro-studio-for-2024/"><u>Mastering Complex Video Effects and Transitions in GoPro Studio for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-convenience-setting-up-seamless-sign-in-for-windows-users/"><u>Mastering Convenience: Setting Up Seamless Sign-In for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/polishing-old-videos-windows-madvr-techniques-unveiled/"><u>Polishing Old Videos: Windows MadVR Techniques Unveiled</u></a></li>
-<li><a href="https://games-able.techidaily.com/power-up-playtime-selecting-the-best-nintendo-switch-docks/"><u>Power Up Playtime: Selecting the Best Nintendo Switch Docks</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/successful-repair-hp-networking-issue-ended/"><u>Successful Repair: HP Networking Issue Ended</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-checklist-pre-purchase-assessments-for-optimal-video-recording-devices/"><u>The Ultimate Checklist: Pre-Purchase Assessments for Optimal Video Recording Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-entertainment-the-ultimate-list-of-8-favourite-free-roku-services/"><u>Unlock Entertainment: The Ultimate List of 8 Favourite Free Roku Services</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-a-comprehensive-guide-on-securing-your-microsoft-education-offer/"><u>Unlocking the Secrets: A Comprehensive Guide on Securing Your Microsoft Education Offer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/voice-ai-battle-royale-picking-your-perfect-match-between-alexa-and-google-assistant/"><u>Voice AI Battle Royale: Picking Your Perfect Match Between Alexa and Google Assistant</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-laughing-through-the-metaverse-making-your-own-humor/"><u>[New] Laughing Through the Metaverse Making Your Own Humor</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-progression-reach-and-maintain-10k-viewer-threshold-for-2024/"><u>[Updated] Channel Progression Reach and Maintain 10K Viewer Threshold for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-integrated-iptv-channel-distribution/"><u>[Updated] Integrated IPTV Channel Distribution</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-velocity-victories-olympics-year-2022/"><u>2024 Approved Velocity Victories Olympics, Year 2022</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-of-both-worlds-top-high-quality-zero-dollar-webm-tools-for-2024/"><u>Best of Both Worlds Top High-Quality, Zero-Dollar WebM Tools for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-surround-sound-experience-by-connecting-various-bluetooth-speakers-to-just-one-source/"><u>Boost Your Surround-Sound Experience by Connecting Various Bluetooth Speakers to Just One Source</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cost-analysis-are-uber-fares-less-expensive-than-taxi-prices/"><u>Cost Analysis: Are Uber Fares Less Expensive Than Taxi Prices?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/defeating-daunting-lynels-proven-methods-for-success-in-breath-of-the-wilds-adventures/"><u>Defeating Daunting Lynels: Proven Methods for Success in Breath of the Wild's Adventures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disable-samsung-tvs-voice-guidance-step-by-step-instructions/"><u>Disable Samsung TV's Voice Guidance: Step-by-Step Instructions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disconnect-from-the-live-streaming-platform-a-detailed-guide-on-how-to-delete-your-twitch-presence/"><u>Disconnect From the Live Streaming Platform: A Detailed Guide on How to Delete Your Twitch Presence</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortless-fix-restore-your-bluetooth-settings-in-latest-operating-system-fast-and-simple/"><u>Effortless Fix: Restore Your Bluetooth Settings in Latest Operating System [Fast and Simple]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-gripping-real-life-mysteries-with-our-pick-of-top-13-true-crime-podcasts/"><u>Explore Gripping Real-Life Mysteries with Our Pick of Top 13 True Crime Podcasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/finding-your-dream-phone-cover-tips-and-tricks-for-an-ideal-match/"><u>Finding Your Dream Phone Cover: Tips and Tricks for an Ideal Match</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-redialing-inconspicuous-numbers-a-step-by-step-guide/"><u>Master the Art of Redialing Inconspicuous Numbers – A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secure-your-shots-above-all-unlimited-free-options-and-premium-subscription-picks-for-2024/"><u>Secure Your Shots Above All Unlimited Free Options & Premium Subscription Picks for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/streaming-titans-clash-streamlabs-versus-obs-in-the-arena/"><u>Streaming Titans Clash Streamlabs versus OBS in the Arena</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-srt-file-integration-on-digital-platforms-for-2024/"><u>Streamlining SRT File Integration on Digital Platforms for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshoot-palworlds-eos-authentication-issues-top-6-failsafe-solutions/"><u>Troubleshoot Palworld's EOS Authentication Issues: Top 6 Failsafe Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Top Bargains for August 2Eighty-Four: Unbeatable Deals Revealed !"
-date: 2024-10-11T16:08:12.843Z
-updated: 2024-10-13T16:26:07.944Z
+date: 2024-10-16T16:03:51.758Z
+updated: 2024-10-19T16:00:47.844Z
 tags:
   - apple
 categories:
@@ -38,10 +38,10 @@ Jason Hiner/ZDNET
 * [Asus Tuf Gaming A16 2024 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-TUF-Gaming-Laptop-165Hz%2Fdp%2FB0CRCWY9VT%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CRCWY9VT%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $1,300 (save $500)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best Amazon tech deals
@@ -68,13 +68,6 @@ Jason Hiner/ZDNET
 * [Sony 65-inch OLED 4K Ultra Bravia 8 TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSony-Exclusive-Features-PlayStation-K-65XR80%2Fdp%2FB0CVQ6YLH7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $1,1998 (save $502)
 * [LG 75-inch QNED80T LED Smart TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-75-Inch-Processor-AI-Powered-75QNED80TUC%2Fdp%2FB0CVSK2F85%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CVSK2F85%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $1,197 (save $203)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Amazon robot vacuum deals
 
 Maria Diaz/ZDNET
@@ -88,10 +81,10 @@ Maria Diaz/ZDNET
 * [Roborock Q8 Max Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Froborock-Q8-Max-Navigation-Multi-Level%2Fdp%2FB0C7VFD9Q4%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Fcontent-id%3Damzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%3Aamzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%26crid%3D37DMVM6CIU4Y0%26cv%5Fct%5Fcx%3Drobot%2Bvacuum%26dib%3DeyJ2IjoiMSJ9.A4bejnO1HqJM%5FozbrGpsoYI205q99h9DoNEZVmg9dNI-ILQl1J-mSnznl4IKQtzDgOTGYo%5Fa7rpT3PH-A2Mpiw.a4a0hgwCDw4CmRSsqS2wHRhfJu%5FuKKwf5z-r8S-VJok%26dib%5Ftag%3Dse%26keywords%3Drobot%2Bvacuum%26pd%5Frd%5Fi%3DB0C7VFD9Q4%26pd%5Frd%5Fr%3Dc5436de8-abf5-4537-95f0-9cc48163f596%26pd%5Frd%5Fw%3DOlqAp%26pd%5Frd%5Fwg%3DQ2Iuk%26pf%5Frd%5Fp%3D60b0c4ef-0fd2-46d0-8724-84b6f746d062%26pf%5Frd%5Fr%3DAKHVV8K35XC7VV3MS5S3%26qid%3D1723557736%26sbo%3DRZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D%26sprefix%3Drobot%2Bvacuum%2B%2Caps%2C104%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $320 (save $280)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best Amazon home deals
@@ -107,14 +100,14 @@ Maria Diaz/ZDNET
 * [Jackery Explorer 240 v2 Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJackery-v2-Versatile-Scenarios-Outdoor-Emergency%2Fdp%2FB0D2L1B7PK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $189 (save $60)
 * [Bluetti EB3A Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBLUETTI-Portable-EB3A-Recharge-Generator%2Fdp%2FB09WW3CTF4%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB09WW3CTF4%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $198 (save $102)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How did we choose these Amazon deals?
 
@@ -125,6 +118,13 @@ We also looked over customer reviews to find out what matters to real people who
 ## When will these deals expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much is an Amazon Prime membership?
 
@@ -174,18 +174,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-accelerate-keyword-acquisition-the-finest-7-free-taggification-apps-for-youtube-videos/"><u>[New] In 2024, Accelerate Keyword Acquisition The Finest 7 Free Taggification Apps for YouTube Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-tips-and-tricks-for-iphone-audio-enthusiasts-for-2024/"><u>[New] Tips and Tricks for iPhone Audio Enthusiasts for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-simplicity-of-monitoring-and-viewing-loved-youtube-remarks/"><u>[New] Unlocking the Simplicity of Monitoring and Viewing Loved YouTube Remarks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-efficient-techniques-unveiled-mastering-screen-recordings-with-showmore-for-2024/"><u>[Updated] Efficient Techniques Unveiled Mastering Screen Recordings with ShowMore for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/ramavi-movavi/"><u>免費在網路上直接改造RAM成AVI - 使用Movavi進行影片格式轉換</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/abbyy-drives-rochling-towards-unified-financial-reporting-with-sap-integration/"><u>ABBYY Drives Röchling Towards Unified Financial Reporting with SAP Integration</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/duo-display-dynamic-duo-configuring-additional-screens-on-mac-devices/"><u>Duo-Display Dynamic Duo: Configuring Additional Screens on Mac Devices</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-top-3-ae-plugin-reviews-for-optimal-editing/"><u>In 2024, Top 3 AE Plugin Reviews for Optimal Editing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722852773396-leading-edge-server-racks-in-the-market-ranking-the-finest-of-2024/"><u>Leading Edge Server Racks in the Market - Ranking the Finest of 2024!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/lgs-ultrafine-vision-a-thorough-4k-screen-evaluation/"><u>LG's UltraFine Vision A Thorough 4K Screen Evaluation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-elite-top-1aturals-in-online-dominance-meet-the-10-biggest-websites-ever/"><u>The Elite Top 1Aturals in Online Dominance: Meet The 10 Biggest Websites Ever.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-of-pinning-instant-messages-in-your-dm-for-optimal-visibility-and-organization/"><u>Unlocking the Secrets of Pinning Instant Messages in Your DM for Optimal Visibility and Organization</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-sites-for-selecting-storied-soundtracks/"><u>[Updated] Superior Sites for Selecting Storied Soundtracks</u></a></li>
+<li><a href="https://win11.techidaily.com/1726026820911-dvd/"><u>「専用アプリケーション無しでもDVDへの動画保存が簡単! お使いフリーソフトスタイルランキング」</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722898132666-beginners-guide-easily-access-command-prompt-on-any-windows-device/"><u>Beginners Guide: Easily Access Command Prompt on Any Windows Device</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-usb-to-wi-fi-devices-of-2024-comprehensive-guide/"><u>Best USB to Wi-Fi Devices of 2024 - Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-our-picks-the-ultimate-list-of-note-taking-apps-on-ipad-and-ipad-pro/"><u>Explore Our Picks: The Ultimate List of Note-Taking Apps on iPad and iPad Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gaming-pc-must-haves-a-guide-to-picking-out-the-best-system-for-your-needs/"><u>Gaming PC Must-Haves: A Guide to Picking Out the Best System for Your Needs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/great-iphone-and-ipad-pranks-to-pull-on-friends/"><u>Great iPhone and iPad Pranks to Pull on Friends</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-m4a-editor-software-top-5-recommendations/"><u>In 2024, Free M4A Editor Software Top 5 Recommendations</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-honor-magic-5-lite-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Honor Magic 5 Lite FRP Locks</u></a></li>
+<li><a href="https://howto.techidaily.com/itel-a05s-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A05s Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-saving-memories-by-screencasting-ps4-gaming-adventures/"><u>Step-by-Step Tutorial: Saving Memories by Screencasting PS4 Gaming Adventures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-unlocking-real-time-navigation-with-google-maps-live-view-feature/"><u>Step-by-Step Tutorial: Unlocking Real-Time Navigation with Google Maps' Live View Feature</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-tv-programs-streaming-on-discovery-plus-this-july-2024/"><u>Top TV Programs Streaming on Discovery Plus This July 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/transformez-votre-fichier-mkv-en-mp4-gratuitement-en-ligne-avec-movavi/"><u>Transformez Votre Fichier MKV en MP4 Gratuitement En Ligne - Avec Movavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726030120233-and/"><u>スマホで簡単にフェイスブック動画ダウンロード&セーブ術</u></a></li>
 </ul></div>
 

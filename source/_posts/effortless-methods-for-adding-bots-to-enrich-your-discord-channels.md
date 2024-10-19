@@ -1,7 +1,7 @@
 ---
 title: Effortless Methods for Adding Bots to Enrich Your Discord Channels
-date: 2024-10-06T16:31:42.063Z
-updated: 2024-10-13T16:16:44.577Z
+date: 2024-10-12T16:02:02.465Z
+updated: 2024-10-19T16:01:16.875Z
 categories:
   - BestProducts
 description: This Article Describes Effortless Methods for Adding Bots to Enrich Your Discord Channels
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/UKliT8jrXv1RffgsFqsELueX-fc=/400x300/fi
 
  This article explains how to insert code in Word. Directions apply to Word 2010 and newer, including Word 2021 and Microsoft 365.  
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Insert Code in Word With an Embedded Document
 
  While there isn't an 'insert code' option or a dedicated code block in Word, there is a way to insert one document into another. This effectively creates an isolated section that houses all the code. Here's how to make this work with your code:
@@ -38,10 +45,10 @@ These instructions only work with a single page of code.
  In Word 2007, select**OpenDocument Text** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Clear the**Display as icon** check box.  
@@ -49,10 +56,10 @@ These instructions only work with a single page of code.
 5. Select**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Create New Object window in Word with the OK button highlighted](https://www.lifewire.com/thmb/8N0g_QZk5AJ8wFNEQ383YZ-mRsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-insert-source-code-into-word-document-3994582-14b9900cd90341d1a925d63b07c467df.jpg)
@@ -61,21 +68,14 @@ These instructions only work with a single page of code.
 ![Microsoft Word displaying source code to insert into a Word presentation document](https://www.lifewire.com/thmb/AxWUG0N0zvb3wxwA_zIcMWY9qiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NewSourceCode-d276da35f0ba4f36aafddaa578cad3b0.jpg)
 8. Save and close the source code document. The code automatically appears in the main document.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Microsoft Word document with source code inserted](https://www.lifewire.com/thmb/7dbJ_9k3xe_LaP-2rOEy3ktFY-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PresentationWithCode-dc19c6dcca694a798e9e41a2be2eac71.jpg)  
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using Different Paste Types in Word
@@ -134,19 +134,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-streamlined-list-6-efficient-mac-screen-recording-solutions/"><u>[New] 2024 Approved Streamlined List 6 Efficient Mac Screen Recording Solutions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-find-your-favorite-download-free-slide-show-patterns-today/"><u>[New] Find Your Favorite, Download-Free Slide Show Patterns Today</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-best-online-vimeo-video-downloaders-for-2024/"><u>[Updated] Best Online Vimeo Video Downloaders for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-experts-pick-essential-plugins-to-elevate-your-ae-projects/"><u>[Updated] Expert's Pick Essential Plugins to Elevate Your AE Projects</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-navigating-through-facebook-gif-downloads-across-platforms-for-2024/"><u>[Updated] Navigating Through Facebook GIF Downloads Across Platforms for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boosting-engagement-the-ultimate-10-step-plan-to-go-viral-on-tiktok/"><u>Boosting Engagement: The Ultimate 10-Step Plan to Go Viral on TikTok</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/dodging-account-penaltinas-on-youtube-for-2024/"><u>Dodging Account Penaltinas on Youtube for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722892287552-expert-advice-on-maintaining-a-reliable-skype-connection-top-10-tips/"><u>Expert Advice on Maintaining a Reliable Skype Connection – Top 10 Tips!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-jokes-or-cultural-phenomena-exploring-the-world-of-online-memes/"><u>Inside Jokes or Cultural Phenomena? Exploring the World of Online Memes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/minecraft-realms-reviewed-are-these-virtual-worlds-worth-your-spare-change/"><u>Minecraft Realms Reviewed – Are These Virtual Worlds Worth Your Spare Change?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-wi-fi-obstacles-a-user-friendly-tutorial-for-surface-pro-users/"><u>Overcoming Wi-Fi Obstacles: A User-Friendly Tutorial for Surface Pro Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-best-ups-battery-protectors-on-the-market-2024-edition/"><u>Ultimate Guide to the Best UPS Battery Protectors on the Market - 2024 Edition</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-nokia-c32-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Nokia C32 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-chrome-compatibility-solving-media-errors/"><u>[New] In 2024, Chrome Compatibility Solving Media Errors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-visual-effects-a-detailed-kinemaster-green-screen-tutorial/"><u>[New] Mastering Visual Effects A Detailed Kinemaster Green Screen Tutorial</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pinpointing-the-premier-top-10-pc-vr-headset-models-of-2-written-by-dr-jane-smith-on-january-15-2023/"><u>[New] Pinpointing the Premier Top 10 PC VR Headset Models of 2 Written by Dr. Jane Smith on January 15, 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-amusing-clip-loading-appraisal/"><u>2024 Approved Amusing Clip Loading Appraisal</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-complete-walkthrough-on-removing-browser-cache-from-major-internet-platforms/"><u>A Complete Walkthrough on Removing Browser Cache From Major Internet Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-iphone-email-clients-of-2024-our-picks-and-preferences/"><u>Best iPhone Email Clients of 2024: Our Picks and Preferences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-ways-to-keep-your-chromecast-updated-and-running-smoothly/"><u>Easy Ways to Keep Your Chromecast Updated and Running Smoothly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-correcting-the-missing-dll-file-msvcrt-on-your-computer-system/"><u>Guide to Correcting the Missing DLL File (MSVCRT) on Your Computer System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-advrcntr2dll-is-missing-errors-nero/"><u>How to Fix Advrcntr2.dll Is Missing Errors (Nero)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-v27e-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo V27e to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-13-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 13 to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-platform-power-players-will-likeeclipse-the-dominance-of-tiktok/"><u>In 2024, Platform Power Players Will LikeEclipse the Dominance of TikTok?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-personalized-writing-teaching-chatgpt-your-style/"><u>Mastering Personalized Writing: Teaching ChatGPT Your Style</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-tips-the-fastest-5-diy-filmmaking-tricks-at-home/"><u>Pro Tips The Fastest 5 DIY Filmmaking Tricks at Home</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplified-processes-to-detach-applications-from-your-macintosh-system/"><u>Simplified Processes to Detach Applications From Your Macintosh System</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-syncing-various-bluetooth-sound-systems-with-just-one-gadget/"><u>The Ultimate Guide to Syncing Various Bluetooth Sound Systems with Just One Gadget</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-solving-your-ps5-dualsense-controller-charging-issues/"><u>Troubleshooting Guide: Solving Your PS5 DualSense Controller Charging Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-3-must-watch-breakthroughs-in-technology/"><u>Unveiling the 3 Must-Watch Breakthroughs in Technology</u></a></li>
 </ul></div>
 

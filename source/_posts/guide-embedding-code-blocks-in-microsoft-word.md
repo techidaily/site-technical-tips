@@ -1,7 +1,7 @@
 ---
 title: "Guide: Embedding Code Blocks in Microsoft Word"
-date: 2024-09-18T04:12:23.734Z
-updated: 2024-09-21T02:52:08.279Z
+date: 2024-10-13T10:54:27.011Z
+updated: 2024-10-19T13:43:08.718Z
 categories:
   - BestProducts
 description: "This Article Describes Guide: Embedding Code Blocks in Microsoft Word"
@@ -38,6 +38,20 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 4. Select**Recover** to pull the contact out of the trash and put it back into your regular list. If you want to keep the contact deleted, you can still copy the email address, phone number, or any other details from this screen.  
 ![The Recover button highlighted for a deleted contact in Google Contacts.](https://www.lifewire.com/thmb/a97wY8W86SgGdS9pEFTZVRtaU3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-FindDeletedPhoneNumbersonAndroid-annotated-3d74c1e6a99c4fac941e44dfe4c1ccda.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Get Deleted Numbers Back on a Samsung Phone
 
  It's easy to recover deleted contacts on a Samsung phone because there's a handy recycle bin area that stores this information. You have 30 days to get a deleted phone number back before it disappears forever. Here's how:
@@ -55,10 +69,17 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 ![A Samsung phone user imports contacts](https://www.lifewire.com/thmb/G98RJqkST9u56OLvOkTB5WJqXOw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RetrieveDeletedNumbers07-2de9758e685a4be78eabfa70e20fbcae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can I Restore Deleted Numbers on Android Without a Computer?
@@ -103,5 +124,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-revolutionizing-personal-cinema-with-xiaomis-mi-11-lite-features/"><u>[New] Revolutionizing Personal Cinema with Xiaomi's Mi 11 Lite Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-novices-to-pros-the-journey-of-learning-magix-maker/"><u>[Updated] From Novices to Pros The Journey of Learning Magix Maker</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/100-unique-instagram-captions-to-show-yourself-to-the-world/"><u>100 Unique Instagram Captions to Show Yourself to the World</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comparing-gopro-and-polaroids-video-editors-for-filmmakers/"><u>2024 Approved Comparing GoPro & Polaroid's Video Editors for Filmmakers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ease-of-sonos-s2-app-advanced-audio-management-with-notable-limitations-insights/"><u>Discover the Ease of Sonos S2 App: Advanced Audio Management with Notable Limitations - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-ranking-of-top-smartwatch-models-for-202-expert-insights-and-comparisons-zdnet/"><u>Exclusive Ranking of Top Smartwatch Models for 202지날 - Expert Insights and Comparisons | ZDNET</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-sound-problems-with-kotion-each-g2000-a-comprehensive-guide-for-unresponsive-mics/"><u>Fixing Sound Problems with Kotion Each G2000: A Comprehensive Guide for Unresponsive Mics</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-discoverability-alert-journals-can-expose-you-by-default-learn-to-turn-off-this-feature-zdnet/"><u>IPhone Discoverability Alert: Journals Can Expose You by Default - Learn To Turn Off This Feature | ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/no-charge-guide-swift-and-straightforward-methods-for-streaming-m4a-media-in-windows/"><u>No Charge Guide: Swift & Straightforward Methods for Streaming M4A Media in Windows</u></a></li>
+<li><a href="https://win-community.techidaily.com/reinstallacion-segura-de-windows-10-y-11-sin-perdida-de-datos-tres-metodos-efectivos/"><u>Reinstallación Segura De Windows 10 Y 11 Sin Pérdida De Datos: Tres Métodos Efectivos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-your-iphone-apple-now-approves-recycled-pieces-use-in-certain-reparations-tech-news-by-zdnet/"><u>Reviving Your iPhone? Apple Now Approves Recycled Pieces Use in Certain Reparations | Tech News by ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-best-methods-for-keeping-your-mechanical-keyboard-pristine-and-functional/"><u>The Best Methods for Keeping Your Mechanical Keyboard Pristine and Functional</u></a></li>
+</ul></div>
 

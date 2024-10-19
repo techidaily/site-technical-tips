@@ -1,7 +1,7 @@
 ---
 title: "Switching Sides: How the New iPhone 16 Convinces Even Android Loyalists with Its Triple Advantages"
-date: 2024-10-08T16:24:38.766Z
-updated: 2024-10-13T16:09:10.118Z
+date: 2024-10-18T16:00:39.986Z
+updated: 2024-10-19T16:01:24.191Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -67,13 +74,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -94,10 +94,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -124,6 +124,13 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -136,10 +143,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -158,13 +165,6 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -218,19 +218,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-discovering-digital-dialogues-facebook-video-exchange/"><u>[New] 2024 Approved Discovering Digital Dialogues Facebook Video Exchange</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-master-non-youtube-editors-the-top-5-list-you-need/"><u>[New] Master Non-Youtube Editors The Top 5 List You Need</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-decoding-the-earnings-algorithm-of-tseries-online-channel-for-2024/"><u>[Updated] Decoding the Earnings Algorithm of TSeries Online Channel for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-first-moments-that-foster-interest-in-audios/"><u>[Updated] First Moments that Foster Interest in Audios</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-easy-peasy-screen-transitions-for-filmmakers/"><u>[Updated] In 2024, Easy-Peasy Screen Transitions for Filmmakers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-ephemeral-echoes-of-facebook/"><u>[Updated] In 2024, Ephemeral Echoes of Facebook</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-increase-igtv-views-strategic-use-of-hashtags/"><u>In 2024, Increase IGTV Views Strategic Use of Hashtags</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/international-agreements-such-as-the-paris-agreement-set-collective-goals-for-emission-reductions-but-require-individual-countries-to-enact-their-own-nation49/"><u>International Agreements Such as the Paris Agreement Set Collective Goals for Emission Reductions but Require Individual Countries to Enact Their Own National Laws and Policies in Alignment with These Targets.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-search-for-ev-chargers-on-google-maps-a-simple-guide/"><u>Mastering the Search for EV Chargers on Google Maps: A Simple Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-digital-tv-interference-tips-for-optimal-use-of-indoor-antennas/"><u>Overcoming Digital TV Interference: Tips for Optimal Use of Indoor Antennas</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-adding-programming-snippets-to-microsoft-word/"><u>Step-by-Step Guide: Adding Programming Snippets to Microsoft Word</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-sms-evolution-a-deep-dive-into-rich-communication-services-rcs-technology/"><u>Understanding SMS Evolution: A Deep Dive Into Rich Communication Services (RCS) Technology</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-are-my-iphone-pictures-still-here-top-8-fixes-for-remaining-pics/"><u>Why Are My iPhone Pictures Still Here? - Top 8 Fixes for Remaining Pics</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-beginners-guide-capturing-youtube-videos-as-screencasts-without-payment/"><u>[Updated] 2024 Approved Beginner's Guide Capturing YouTube Videos as Screencasts Without Payment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2-easy-ways-to-open-control-panel-in-windows-7/"><u>2 Easy Ways to Open Control Panel in Windows 7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2-steps-to-access-the-windows-10-startup-folder/"><u>2 Steps to Access the Windows 10 Startup Folder</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-yield-your-content-mastering-youtube-ads-for-earnings/"><u>2024 Approved Yield Your Content Mastering YouTube Ads for Earnings</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/best-free-solutions-to-watch-dvds-on-mac-os-x-el-capitan-download-the-compatible-program-now/"><u>Best Free Solutions to Watch DVDs on Mac OS X El Capitan - Download the Compatible Program Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-edge-correction-for-crystal-clear-screens/"><u>Effortless Edge Correction for Crystal-Clear Screens</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oppo-find-x7-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Oppo Find X7 Without PUK Codes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808334403-master-the-art-of-making-gifs-from-your-images-today/"><u>Master the Art of Making GIFs From Your Images Today!</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactivating-frozen-discord-widgets-on-windows-desktop/"><u>Reactivating Frozen Discord Widgets on Windows Desktop</u></a></li>
+<li><a href="https://blog-min.techidaily.com/simple-guide-transforming-mkv-files-into-divx-format-for-free/"><u>Simple Guide: Transforming MKV Files Into DivX Format for Free</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/summer-survival-kit-discover-the-7-key-elements-for-your-daily-travel-pack/"><u>Summer Survival Kit: Discover the 7 Key Elements for Your Daily Travel Pack</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-store-not-working-on-windows-11-fixed/"><u>Windows Store Not Working on Windows 11 [Fixed]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/winning-the-battle-against-windows-10-high-ram-drain-tips-and-tricks/"><u>Winning the Battle Against Windows 10 High RAM Drain - Tips and Tricks</u></a></li>
 </ul></div>
 

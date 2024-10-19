@@ -1,7 +1,7 @@
 ---
 title: Navigate iOS Tablets and Phones Using Only Your Gaze, Thanks to Apple's Latest Accessibility Innovation
-date: 2024-10-11T16:28:04.067Z
-updated: 2024-10-13T16:00:20.675Z
+date: 2024-10-12T16:01:57.983Z
+updated: 2024-10-19T16:02:57.382Z
 tags:
   - apple
 categories:
@@ -44,16 +44,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -64,16 +64,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -83,10 +77,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -96,10 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -136,18 +130,24 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-secure-and-seamless-transfer-backing-up-camera-to-snapchat/"><u>[New] Secure & Seamless Transfer Backing Up Camera to Snapchat</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/disabling-closed-captions-on-amazon-prime-streaming-a-step-by-step-guide/"><u>Disabling Closed Captions on Amazon Prime Streaming: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-netflix-cooking-show-collection/"><u>Discover the Best Netflix Cooking Show Collection!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-textbooks-to-tech-bargains-navigating-lenovos-student-price-cuts-successfully/"><u>From Textbooks to Tech Bargains: Navigating Lenovo’s Student Price Cuts Successfully</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-a15-4g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy A15 4G FRP Locks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-jvmdll-not-found-or-missing-errors/"><u>How to Fix Jvm.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/rapid-capture-visuals-and-voices-together/"><u>Rapid Capture Visuals & Voices Together</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/triple-screen-setup-the-ultimate-guide-to-linking-three-displays-with-your-pc/"><u>Triple Screen Setup: The Ultimate Guide to Linking Three Displays with Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-discover-the-finest-free-film-platforms-available-today/"><u>Ultimate Guide: Discover the Finest Free Film Platforms Available Today</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unraveling-ev-bev-phev-and-fcev-distinguishing-electric-vehicle-types/"><u>Unraveling EV, BEV, PHEV, and FCEV - Distinguishing Electric Vehicle Types</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722894901180-when-you-need-a-new-email-does-your-mailcom-account-end-soon-find-out/"><u>When You Need a New Email, Does Your Mail.com Account End Soon? Find Out</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oneplus-nord-ce-3-lite-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On OnePlus Nord CE 3 Lite 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-global-viewer-count-triumphs-play-button-honors/"><u>[Updated] Global Viewer Count Triumphs Play Button Honors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-or-ready-made-navigating-the-choice-of-assembling-vs-purchasing-a-personal-computer/"><u>DIY or Ready-Made: Navigating the Choice of Assembling vs Purchasing a Personal Computer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevate-stories-vibrancy-via-thoughtful-interactive-qandas/"><u>Elevate Stories' Vibrancy via Thoughtful Interactive Q&As</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-10-advanced-variants-of-chatgpt-for-superior-performance/"><u>Exclusive: 10 Advanced Variants of ChatGPT for Superior Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-to-fix-advapi32dll-not-found-issues-quickly-and-efficiently/"><u>Expert Tips to Fix 'Advapi32.dll Not Found' Issues Quickly and Efficiently</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oneplus-12-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From OnePlus 12 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-solution-a-comprehensive-guide-to-rectifying-mapi32dll-errors-on-your-system/"><u>Mastering the Solution: A Comprehensive Guide to Rectifying Mapi32.dll Errors on Your System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/must-see-tv-in-july-202-grope-your-way-through-the-wilds-of-australia-a-comprehensive-guide-for-first-time-visitors/"><u>Must-See TV in July 202 Grope Your Way Through the Wilds of Australia: A Comprehensive Guide for First-Time Visitors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/personalize-your-professionalism-adding-an-email-signature-using-godaddy-webmail/"><u>Personalize Your Professionalism: Adding an Email Signature Using GoDaddy Webmail</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/premium-hd-screensnap-tools/"><u>Premium HD Screensnap Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-team-collaboration-with-microsoft-teams-and-ai-powered-code-assistance-from-github-copilot/"><u>Revolutionize Team Collaboration with Microsoft Teams and AI-Powered Code Assistance From GitHub Copilot</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-sharing-of-icloud-images-on-apple-windows-and-android-platforms/"><u>Seamless Sharing of iCloud Images on Apple, Windows, and Android Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-windows-kernel32dll-issue-a-step-by-step-guide/"><u>Solving Windows Kernel32.dll Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-corsair-sound-card-drivers-on-windows/"><u>Step-by-Step Guide: Updating Your Corsair Sound Card Drivers on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-free-artificial-intelligence-applications-for-crafting-formal-emails-using-chatgpt-and-organizing-correspondence/"><u>Top 5 Free Artificial Intelligence Applications for Crafting Formal Emails Using ChatGPT and Organizing Correspondence</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-to-correct-missing-dsounddll-file-errors/"><u>Troubleshooting Steps to Correct Missing Dsound.dll File Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-dac-essential-guide-for-sound-enthusiasts/"><u>Understanding DAC: Essential Guide for Sound Enthusiasts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-make-3d-magic-best-video-makers-with-free-and-paid-options/"><u>Updated 2024 Approved Make 3D Magic Best Video Makers with Free and Paid Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-free-video-watermarking-made-easy-top-5-programs/"><u>Updated Free Video Watermarking Made Easy Top 5 Programs</u></a></li>
 </ul></div>
 

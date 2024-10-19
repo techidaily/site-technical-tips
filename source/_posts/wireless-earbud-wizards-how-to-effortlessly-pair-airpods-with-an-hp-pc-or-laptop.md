@@ -1,7 +1,7 @@
 ---
 title: "Wireless Earbud Wizards: How To Effortlessly Pair AirPods with an HP PC or Laptop"
-date: 2024-09-17T16:31:00.608Z
-updated: 2024-09-20T19:08:29.113Z
+date: 2024-10-14T02:04:16.991Z
+updated: 2024-10-19T01:34:34.027Z
 categories:
   - BestProducts
 description: "This Article Describes Wireless Earbud Wizards: How To Effortlessly Pair AirPods with an HP PC or Laptop"
@@ -40,6 +40,14 @@ thumbnail: https://thmb.techidaily.com/36a0feb333642fafe6d899d77e13984485a54242d
 3. Select **Bluetooth & devices** .  
 ![Bluetooth & devices highlighted in the Windows 11 settings menu](https://www.lifewire.com/thmb/n8u9hKDM1oUGrLuqflomAJ6r-Oc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_pair-and-connect-airpods-to-windows-11-5192307-c04bde50d90a42d0be55a9ea042b3989.jpg)
 4. Select the **Bluetooth** toggle if it isn’t already on.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The disabled Bluetooth toggle highlighted in Bluetooth & devices in Windows 11.](https://www.lifewire.com/thmb/h4k6mw0n_YxJIJhhoCxdXY1OFmw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_pair-and-connect-airpods-to-windows-11-5192307-e44a77b5669d4402b9a89799c3dd4f0d.jpg)
 5. Select **Add device** .  
 ![+ Add device highlighted in Bluetooth & devices in Windows 11](https://www.lifewire.com/thmb/cVz4b2iZgiWBL0gr6nfzxek2oPE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_pair-and-connect-airpods-to-windows-11-5192307-f13da8ef1814432f99e9e6e25013ef40.jpg)
@@ -58,6 +66,20 @@ thumbnail: https://thmb.techidaily.com/36a0feb333642fafe6d899d77e13984485a54242d
 ![Jeremy Laukkonen's AirPods Pro highlighted in the Windows 11 add a device menu](https://www.lifewire.com/thmb/qRcnY3Gu12UNV_c3wuJ_9Ega9Qs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_pair-and-connect-airpods-to-windows-11-5192307-0acf384a41174bfeb40a3d7fef42e546.jpg)
 11. Wait for the connection to be established, then select **Done** .  
 ![Done highlighted in the Windows 11 add a device menu](https://www.lifewire.com/thmb/JHCcaEnkTu1Von1ohrSr7ifPNi0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010_pair-and-connect-airpods-to-windows-11-5192307-022af48afcc54305b0303acae7507131.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Windows 10
 
@@ -79,22 +101,8 @@ thumbnail: https://thmb.techidaily.com/36a0feb333642fafe6d899d77e13984485a54242d
 ![Bluetooth highlighted in the add a device menu in Windows 10.](https://www.lifewire.com/thmb/OAtDAs0yXkYFznlLxUPPNEZuN0E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickBluetoothannotated-4491b472992b4261abc5e240dac05aa0.jpg)
 7. Open your AirPods case and press-and-hold the button.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The pairing button on an AirPods Pro case](https://www.lifewire.com/thmb/RHKysTqD5NNOy1m-T3NTjq9DTYM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Airpodcasebutton-ebcdeb485b784db2bb1aed3d479503d5.jpg)  
  Jeremy Laukkonen / Lifewire
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. When the light flashes white, release the button.  
 ![The white flashing light on an AirPods Pro case](https://www.lifewire.com/thmb/4T-HCDgRKZKbxjiQtwoPmd94QaY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Airpodlight-cc989d4e72c7465295927ce987b3d51d.jpg)  
@@ -105,21 +113,28 @@ The light may be inside your case or on the front.
 ![Jeremy Laukkonen's AirPods Pro highlighted in the add a device menu.](https://www.lifewire.com/thmb/J4VT_X-s2t1Jh5yB0ApZ55PbZa8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Clickyourairpodsannotated-66e56ef2ccfa45d6990bb3065952ee64.jpg)  
  The AirPods will show up as headphones first, and then display the name you assigned when you set them up.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 10. Wait for the AirPods to pair, then select**Done** .  
 ![Done highlighted in Bluetooth settings.](https://www.lifewire.com/thmb/5pOEeFoPzW1s1X7-yPjx4rGm9yc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CLickdoneannotated-fd2fc707ad5a4158985535cb36ff3332.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use AirPods With an HP Laptop
 
  Connecting AirPods to an HP laptop isn’t the same as actually using the AirPods with the laptop. If you want to use your AirPods to listen to music or videos, or video chat, or anything else, you’ll need to switch the audio output to be your earbuds. This may happen automatically the first time your AirPods connect, but you can also do it manually if you find that audio isn't coming through.
 
  Your laptop may have multiple audio options if you’ve connected a variety of devices in the past, but an HP laptop will show Speaker / Headphone (Realtek(R) Audio) at a minimum. Switching from that output to your AirPods will let you use your AirPods with your laptop.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Windows 11
 
@@ -132,6 +147,14 @@ The light may be inside your case or on the front.
 2. Select the **Speaker** icon on the taskbar.  
 ![The speaker icon highlighted on the Windows 11 taskbar](https://www.lifewire.com/thmb/e9ATuIbExHw4WwD_zdEaWBaGdKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_pair-and-connect-airpods-to-windows-11-5192307-63f29a42fe554c439f8d3bada43bdc1b.jpg)
 3. Select the **\>** icon to the right of the volume control.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the Bluetooth button is grayed out, it means Bluetooth has been turned off. Select the **Bluetooth** button to turn it on.  
 ![The > icon to the right of the volume control highlighted in Windows 11](https://www.lifewire.com/thmb/XwmMuYjwsZQNxx3ZG-2B6GmMHwc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/013_pair-and-connect-airpods-to-windows-11-5192307-2a98dcfff11a4510af746ca309eef607.jpg)
 4. Select **Headphones (AirPods)** in the list of devices.  
@@ -139,10 +162,16 @@ The light may be inside your case or on the front.
  When your AirPods are selected in this menu, it means they’re connected, ready to use, and set as the default audio source on your Windows 11 PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Windows 10
@@ -154,16 +183,17 @@ The light may be inside your case or on the front.
 2. Select the**speaker** icon on your taskbar.  
 ![The speaker icon highlighted in the Windows 10 taskbar.](https://www.lifewire.com/thmb/26SVB-fMpg6JdXiBykOXPZOlooc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Speakericonannotated-f403c0403aa64471ae179e223e8b0e47.jpg)
 3. Select the**dropdown menu** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Speaker / Headphone (realtek audio) highlighted in the Windows audio selection menu.](https://www.lifewire.com/thmb/8U1hxk4nT3Yot5U_gkGG1AKDGTw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dropdownmenuannotated-e027a6f07cb848adb6f1f105a5b5d14e.jpg)
 4. Select**Headphones (AirPods Stereo)** . You can now use your AirPods with your laptop.  
 ![Headphones (Jeremy Laukkonen's AirPods Pro Stereo) highlighted in Windows playback device options.](https://www.lifewire.com/thmb/9sm3Es3aKEo1TYpqWScORUwXrHs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Headphonesannotated-d222541710f8403e95dc626065bd25d2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Do AirPods Work With Laptops?
 
@@ -219,5 +249,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-fuel-fascination-with-imagery-the-most-motivating-ig-shots/"><u>[New] In 2024, Fuel Fascination with Imagery The Most Motivating IG Shots</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-tutorial-implementing-a-clean-color-separation/"><u>[Updated] In 2024, Instagram Tutorial Implementing a Clean Color Separation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mastering-twitter-setup-a-step-by-step-guide-for-2024/"><u>[Updated] Mastering Twitter Setup A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/5aac5l2v5zyo5pyj6zeu6aky55qe56ob55uy5lik6yen5paw5yib5bu65pah5lu25zkm5pon5l2c57o757uf77ya5lia5liq5b275bqv55qe5oyh5y2x/"><u>如何在有问题的磁盘上重新创建文件和操作系统：一个彻底的指南</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/breaking-down-rumors-on-the-next-apple-watch-predicted-price-tags-release-plans-core-features-and-what-to-expect/"><u>Breaking Down Rumors on the Next Apple Watch: Predicted Price Tags, Release Plans, Core Features & What to Expect</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-profile-in-202-cuffs-with-these-507-stunning-instagram-caption-phrases/"><u>Elevate Your Profile in 202 Cuffs with These 507 Stunning Instagram Caption Phrases</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-non-responsive-mic-issue-on-windows-10-computers/"><u>Fixing a Non-Responsive Mic Issue on Windows 10 Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-overcome-initialization-issues-with-mozilla-thunderbird-and-ensure-smooth-operation/"><u>How to Overcome Initialization Issues with Mozilla Thunderbird and Ensure Smooth Operation</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-tech-evaluations-from-toms-computer-haven/"><u>In-Depth Tech Evaluations From Tom's Computer Haven</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-your-reading-experience-with-a-customized-kindle-paperwhite-display-time/"><u>Master Your Reading Experience with a Customized Kindle Paperwhite Display Time.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-guide-resolve-advapi32dll-is-absent-error-messages-efficiently/"><u>Quick Guide: Resolve 'Advapi32.dll Is Absent' Error Messages Efficiently</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-the-ntldr-is-missing-error-on-your-pc/"><u>Step-by-Step Guide: Resolving the 'NTLDR Is Missing' Error on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamline-your-studies-with-7-amazing-free-learning-apps/"><u>Streamline Your Studies with 7 Amazing Free Learning Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ckled-earning-on-youtube-pioneering-a-non-ad-profit-pathway/"><u>Unshackled Earning on YouTube Pioneering a Non-Ad Profit Pathway</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-rankings-secrets-enhancing-video-visibility-for-2024/"><u>YouTube Rankings Secrets Enhancing Video Visibility for 2024</u></a></li>
+</ul></div>
 

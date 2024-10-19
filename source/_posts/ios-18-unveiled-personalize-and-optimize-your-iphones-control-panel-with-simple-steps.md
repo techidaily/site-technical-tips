@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: Personalize & Optimize Your iPhone's Control Panel with Simple Steps"
-date: 2024-10-07T16:30:03.417Z
-updated: 2024-10-13T16:32:37.141Z
+date: 2024-10-18T16:00:59.290Z
+updated: 2024-10-19T16:01:29.284Z
 tags:
   - apple
 categories:
@@ -36,6 +36,13 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -44,31 +51,30 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -79,10 +85,16 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -92,10 +104,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,20 +146,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-free-high-quality-desktop-video-encoding-software/"><u>[Updated] 2024 Approved Free, High-Quality Desktop Video Encoding Software</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-prime-add-ons-the-best-new-filmmakers-starter-list/"><u>[Updated] In 2024, Prime Add-Ons The Best New Filmmaker’s Starter List</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-innovating-character-size-in-tiktok-a-visual-guide/"><u>2024 Approved Innovating Character Size in TikTok A Visual Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-integrate-voice-over-into-powerpoint-shows-easily/"><u>2024 Approved Integrate Voice-Over Into PowerPoint Shows Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-comprehensive-guide-mastering-the-art-of-accessing-historical-web-pages-with-the-wayback-machine/"><u>A Comprehensive Guide: Mastering the Art of Accessing Historical Web Pages with the Wayback Machine</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/capture-the-perfect-shot-with-automatic-timing-on-your-iphone-tips-and-tricks/"><u>Capture the Perfect Shot with Automatic Timing on Your iPhone - Tips & Tricks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/embracing-next-gen-connectivity-the-dawn-of-verizon-5g/"><u>Embracing Next-Gen Connectivity: The Dawn of Verizon 5G</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-drab-to-fab-the-ultimate-guide-to-modifying-windows-11-taskbar-colors/"><u>From Drab to Fab: The Ultimate Guide to Modifying Windows 11 Taskbar Colors</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ten-essential-cam-covers-to-upgrade-your-security/"><u>In 2024, Ten Essential Cam Covers to Upgrade Your Security</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/insights-on-the-upcoming-free-android-16-anticipated-news-pricing-estimates-release-date-and-tech-specs/"><u>Insights on the Upcoming Free Android 16: Anticipated News, Pricing Estimates, Release Date & Tech Specs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-network-sharing-on-windows-10-enabledisable-network-discovery-easily/"><u>Mastering Network Sharing on Windows 10: Enable/Disable Network Discovery Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movaviwav3gp/"><u>Movaviで簡単な方法：WAVからフリーオンラインの3GPへの変換</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshoot-hulus-rununk13-issue-comprehensive-fixes-unveiled/"><u>Troubleshoot Hulu's RUNUNK13 Issue – Comprehensive Fixes Unveiled!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-how-to-get-print-driver-host-has-stopped-working-message-away-32bit/"><u>Troubleshooting Tips: How to Get 'Print Driver Host Has Stopped Working' Message Away (32Bit)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-foundational-guide-to-navigating-zoom-meetings/"><u>[New] In 2024, The Foundational Guide to Navigating Zoom Meetings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-from-fb-videos-to-mp3-the-easy-transformation-path-for-2024/"><u>[Updated] From Fb Videos to MP3 - The Easy Transformation Path for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/download-free-sound-effects-for-youtubers-in-2024/"><u>Download Free Sound Effects for YouTubers, In 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-tips-for-secure-e-commerce-transactions-and-safe-browsing-habits/"><u>Essential Tips for Secure E-Commerce Transactions and Safe Browsing Habits</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-unmatched-security-try-our-best-usa-virtual-private-networks-free-before-you-buy/"><u>Experience Unmatched Security: Try Our Best USA Virtual Private Networks Free Before You Buy!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fast-track-your-download-speed-with-these-simple-fixes/"><u>Fast Track Your Download Speed with These Simple Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fast-track-your-gaming-tips-for-accelerating-battlenet-downloads-this-year/"><u>Fast Track Your Gaming: Tips for Accelerating Battle.net Downloads This Year</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/getting-your-pc-ready-for-enhanced-innovation-with-windows-11-creators-updates-key-steps/"><u>Getting Your PC Ready for Enhanced Innovation with Windows 11 Creator's Updates: Key Steps!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-quintuplets-of-quality-youtubes-channels/"><u>In 2024, Quintuplets of Quality YouTube's Channels</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-xiaomi-14-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Xiaomi 14 Ultra for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tvos-nineteenth-update-revolutionizing-audio-clarity-on-your-apple-tv-insights/"><u>TvOS Nineteenth Update: Revolutionizing Audio Clarity on Your Apple TV - Insights</u></a></li>
 </ul></div>
 

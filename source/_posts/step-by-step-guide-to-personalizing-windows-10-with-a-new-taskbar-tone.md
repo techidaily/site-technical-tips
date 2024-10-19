@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Personalizing Windows 10 with a New Taskbar Tone
-date: 2024-09-19T19:07:44.010Z
-updated: 2024-09-21T00:10:14.734Z
+date: 2024-10-17T11:46:45.175Z
+updated: 2024-10-19T02:45:52.564Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Guide to Personalizing Windows 10 with a New Taskbar Tone
@@ -38,15 +38,53 @@ thumbnail: https://www.lifewire.com/thmb/__TQ9mu1jhMjFGlblpJv70ME1DE=/400x300/fi
 4. Click the**Choose your color** drop down, and select**Custom** .  
 ![Custom highlighted in the choose your color Windows personalization dropdown box.](https://www.lifewire.com/thmb/eA7uewut5FM7kZcZg4i8rTtsoAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Customannotated-e732222a31ff4e7084109b0cde824d2f.jpg)
 5. Under**Choose your default Windows mode** , click**Dark** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Dark highlighted under Choose your default Windows mode.](https://www.lifewire.com/thmb/hwscXAtkVVGnRXJOxVPrK4-g_N0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Darkannotated-24f27a05096643cbaea9db7154eb3c20.jpg)
 6. Click**Custom color** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Custom color highlighted in Windows color settings.](https://www.lifewire.com/thmb/M8gPUzgdrRCHL-40UiGLeUBo8i8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Customcolorannotated-b599f0b8b4fe4e0b92240f051aee0d90.jpg)
 7. Use the**color picker** to choose your custom color, and click**Done** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Done highlighted in the Windows color picker.](https://www.lifewire.com/thmb/hGVjGq0ok4PwKRRjTNyRMCrpwQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Doneannotated-e3cd94035aaa41fd840c08ca0229a5e7.jpg)
 8. Check**Start, taskbar, and action center** .  
 ![Start, taskbar, and action center highlighted in Windows color settings.](https://www.lifewire.com/thmb/LPdVkLGGBF1YEkawGekexSLhfmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Checkannotated-4039a9b9c80b4b75b1a3ade7dc789b60.jpg)
 9. Your taskbar will now reflect the custom color you chose.  
 ![A Windows taskbar with a custom color.](https://www.lifewire.com/thmb/hvjLb5gR-qGVHlTSnJhsrlMQwBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Taskbarannotated-749a9acd40234ceeb4d1894fa675beca.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Can’t I Change the Color of My Taskbar?
 
@@ -55,13 +93,6 @@ thumbnail: https://www.lifewire.com/thmb/__TQ9mu1jhMjFGlblpJv70ME1DE=/400x300/fi
 ![Colors menu in Windows 10. This menu houses the dark mode option.](https://www.lifewire.com/thmb/fUzWLhtj_44EGlchuXXx4vjABx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/darkthemescreenshot-5c76fc2cc9e77c0001fd594b.jpg)
 
  You can set App Mode to either Light or Dark, but you won’t be able to change the color of the taskbar if you've set Windows Mode to Light. If the Start, taskbar, and action center box in your color settings are grayed out, it’s usually because Windows Mode is on the Light setting.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Has My Taskbar Changed Color in Windows 10?
 
@@ -109,5 +140,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-making-your-videos-farewell-count-outro-essentials/"><u>[New] Making Your Video's Farewell Count Outro Essentials</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-subtracting-text-srt-to-sub-transformation-tips/"><u>[New] Subtracting Text SRT to SUB Transformation Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-social-media-sensation-tiktoks-top-10-per-share/"><u>[Updated] In 2024, Social Media Sensation TikTok's Top 10 Per Share</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-quick-tips-for-editing-igtv-content-to-stand-out/"><u>2024 Approved Quick Tips for Editing IGTV Content to Stand Out</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-sets-stage-with-microsoft-office-suite-at-launch-a-closer-look-experts/"><u>Apple Vision Pro Sets Stage with Microsoft Office Suite at Launch - A Closer Look Experts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/deciphering-steady-system-crashes-while-gaming-a-comprehensive-guide-for-watch-dogs-legion-on-pc/"><u>Deciphering Steady System Crashes While Gaming - A Comprehensive Guide for 'Watch Dogs: Legion' On PC</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-free-to-use-vimeo-tips-to-master-your-videos/"><u>In 2024, Free-to-Use Vimeo Tips to Master Your Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-12-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 12 with iTunes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/optimizing-tasks-in-teams-with-these-8-social-media-apps/"><u>Optimizing Tasks in Teams with These 8 Social Media Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pixel-6-pro-versus-iphone-13-pro-face-off-choosing-the-ultimate-professional-smartphone-techradar/"><u>Pixel 6 Pro Versus iPhone 13 Pro Face-Off: Choosing the Ultimate Professional Smartphone | TechRadar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pre-order-the-latest-apple-vision-pro-now-with-generous-storage-choices-512gb-or-1tb-zdnet-exclusive/"><u>Pre-Order the Latest Apple Vision Pro Now with Generous Storage Choices: 512GB or 1TB | ZDNET Exclusive</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-tp-link-re5-surveillance-5-x-wireless-repeater-a-thorough-review-by-tech-experts/"><u>The TP-Link RE5 Surveillance 5 X Wireless Repeater - A Thorough Review by Tech Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-picking-your-next-macbook-air-m3-vs-m2-in-depth-analysis-and-reviews-for-smart-shoppers/"><u>The Ultimate Guide to Picking Your Next MacBook Air: M3 Vs. M2 | In-Depth Analysis & Reviews for Smart Shoppers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-normalizdll-not-found-computer-issue/"><u>Troubleshooting the 'Normaliz.dll Not Found' Computer Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-strategies-how-apple-can-outshine-microsoft-and-google-with-revolutionary-moves-at-wwdc-2024-insights-by-zdnet/"><u>Unveiling Strategies: How Apple Can Outshine Microsoft & Google with Revolutionary Moves at WWDC 2024 - Insights by ZDNet</u></a></li>
+</ul></div>
 

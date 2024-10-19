@@ -1,7 +1,7 @@
 ---
 title: "Urgent Alert From Apple: Defend Against Emerging Spyware Threats on iPhones - Is Your Device at Risk?"
-date: 2024-10-07T16:14:32.915Z
-updated: 2024-10-13T16:23:29.071Z
+date: 2024-10-14T16:04:01.834Z
+updated: 2024-10-19T16:02:03.976Z
 tags:
   - apple
 categories:
@@ -86,6 +86,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -101,10 +108,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -118,10 +125,16 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -136,10 +149,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -158,13 +171,6 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -218,19 +224,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-6-best-slideshow-making-apps-on-iphone-11xrxsx876/"><u>[New] In 2024, 6 Best Slideshow-Making Apps on iPhone 11/XR/Xs/X/8/7/6</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-essential-cine-gear-for-every-aspiring-filmmaker-for-2024/"><u>[Updated] Essential Cine Gear for Every Aspiring Filmmaker for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-starting-strong-key-equipment-for-youtube-success/"><u>2024 Approved Starting Strong Key Equipment for YouTube Success</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/beginners-guide-to-understanding-twitch-chat-etiquette-and-common-queries/"><u>Beginner's Guide to Understanding Twitch Chat Etiquette and Common Queries</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-fix-rekeying-techniques-for-damaged-laptops-and-keyboards/"><u>Easy Fix: Rekeying Techniques for Damaged Laptops and Keyboards</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-pairing-bose-soundlink-wireless-earbuds-and-headphones/"><u>Mastering the Art of Pairing Bose Soundlink Wireless Earbuds and Headphones</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-waht-is-ai-pixel-art-generator-wondershare-virbo-glossary/"><u>New 2024 Approved Waht Is AI Pixel Art Generator? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://fox-that.techidaily.com/recharge-more-drain-less-mastering-iphone-battery-calibration-in-a-few-easy-stages/"><u>Recharge More, Drain Less: Mastering iPhone Battery Calibration in a Few Easy Stages</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-print-to-pdf-problems-for-windows-11-users/"><u>Resolving Microsoft Print to PDF Problems for Windows 11 Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionize-your-viewing-with-tcls-latest-upgrade-19-additions-to-the-q-and-s-lineup/"><u>Revolutionize Your Viewing with TCL's Latest Upgrade: 19 Additions to the Q & S Lineup</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/sharing-resources-made-simple-networking-a-printer-with-various-devices/"><u>Sharing Resources Made Simple: Networking a Printer With Various Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-hd-upgrade-tool-windows-mac-and-online-conversion/"><u>Ultimate HD Upgrade Tool Windows, Mac & Online Conversion</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-mystery-of-windows-10s-energy-reporting-feature/"><u>Unveiling the Mystery of Windows 10'S Energy Reporting Feature</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-how-to-convert-mp4-to-mp3-a-comprehensive-guide/"><u>Updated 2024 Approved How to Convert MP4 to MP3 A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-ultimate-path-to-igtv-popularity-top-strategies-unveiled/"><u>[Updated] In 2024, The Ultimate Path to IGTV Popularity Top Strategies Unveiled</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-best-online-hubs-capturing-sky-in-high-dynamic-range/"><u>2024 Approved Best Online Hubs Capturing Sky in High Dynamic Range</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disable-mouse-scroll-speed-boosting-techniques-on-your-apple-computer/"><u>Disable Mouse Scroll Speed Boosting Techniques on Your Apple Computer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-phone-without-password-by-drfone-android/"><u>How To Unlock Nubia Phone Without Password?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-finding-reliable-and-effective-free-srt-tools-online/"><u>In 2024, Finding Reliable & Effective Free SRT Tools Online</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unleash-creativity-with-free-excellent-facebook-picture-makers/"><u>In 2024, Unleash Creativity with Free, Excellent Facebook Picture Makers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/live-streaming-mastery-with-manycam-advanced-software-and-digital-camera-solutions/"><u>Live Streaming Mastery with ManyCam: Advanced Software and Digital Camera Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimize-your-pc-the-best-12-free-disk-defrag-programs-of-2024/"><u>Optimize Your PC: The Best 12 FREE Disk Defrag Programs of 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfecting-inshot-transitions-techniques/"><u>Perfecting Inshot Transitions Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-intelligence-beyond-turings-paradigm/"><u>Pioneering Intelligence: Beyond Turing's Paradigm</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-guide-correcting-the-d3dx933dll-missing-mistake-on-your-pc/"><u>Quick Guide: Correcting the d3dx9_33.dll Missing Mistake on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/roblox-not-working-here-are-6-fast-fixes-to-get-you-back-in-the-game/"><u>Roblox Not Working? Here Are 6 Fast Fixes to Get You Back in the Game!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/share-your-gaming-highlights-screen-capture-techniques-for-the-nintendo-switch/"><u>Share Your Gaming Highlights: Screen Capture Techniques for the Nintendo Switch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-essential-factors-to-assess-when-purchasing-your-next-fitness-band/"><u>Top 5 Essential Factors to Assess When Purchasing Your Next Fitness Band</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-6-fantastic-and-free-editors-to-replace-adobe-photoshop/"><u>Unveiling 6 Fantastic and Free Editors to Replace Adobe Photoshop</u></a></li>
 </ul></div>
 

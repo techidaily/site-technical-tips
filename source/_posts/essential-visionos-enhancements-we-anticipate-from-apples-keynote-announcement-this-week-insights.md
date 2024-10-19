@@ -1,7 +1,7 @@
 ---
 title: Essential VisionOS Enhancements We Anticipate From Apple's Keynote Announcement This Week - Insights
-date: 2024-10-09T16:09:40.741Z
-updated: 2024-10-13T16:30:19.817Z
+date: 2024-10-16T16:00:33.560Z
+updated: 2024-10-19T16:00:16.269Z
 tags:
   - apple
 categories:
@@ -50,13 +50,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Keyboard passthrough
 
 Working in any of the virtual environments (I prefer Mount Hood) is great, but the immersive environment occludes my keyboard. The Digital Crown allows users to open the side view of the virtual space, but the center is still blocked. 
@@ -81,18 +74,18 @@ Apple still ships Books, Calendar, Clock, Home, Maps, Podcasts, Reminders, Short
 
 But I also think it might be nice to have some clocks you could actually place in mixed reality or a calendar you could hang on the wall. And where could Books go if the interactive features that are already so great in Books could be extended to a fully 3D world? Oh, the stories we could show and tell! 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. More environments and third-party environments
 
 Apple currently allows just a few fully immersive environments. While the surface of the moon and Mount Hood are nice enough, they get boring after a while. My immersive environment on the [Quest 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMeta-Quest-128GB-Breakthrough-Reality-3%2Fdp%2FB0C8VKH1ZH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cef0e3144-5e52-42b3-86a0-f33c8118c9e0%7Cdtp&dtb=1) is an old mining town. The Quest 3 provides many immersive environments, including inside and outside locations. 
 
 I'd love to see more immersive environments for the Vision Pro. There is a category of long-running videos on YouTube called "ambience videos." They consist of cozy animated scenes with some background music like [this serene coffee shop](https://www.youtube.com/watch?v=W5qamfXh3Q4&t=11737s). How nice would it be to set up work virtually in a coffee shop like this, chill, and be productive? I can see a great app market for well-designed third-party ambience environments. Heck, I'd pay a couple of bucks to work in a selection of charming coffee shops! 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  7\. Larger play space boundary
 
@@ -119,10 +112,10 @@ This situation was also apparent in [the Marvel What…If? immersive experience]
 Most likely, Apple will someday introduce its own controllers, if only to meet some special purpose large-scale enterprise need. But given that Meta has added support for Apple's spatial videos to the Quest 3, it seems only fair for Apple to add support for Quest controllers. I haven't found Quest 3 controllers available separately, but [since the Quest 2 is only $199](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOculus-Quest-Advanced-All-One-Virtual%2Fdp%2FB099VMT8VZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cef0e3144-5e52-42b3-86a0-f33c8118c9e0%7Cdtp&dtb=1), folks could buy it and get the Quest 2 controllers. Hey, at $199, it's the same price as a [spare Vision Pro battery](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMW283LL%2FA%2Fapple-vision-pro-battery&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) or [Vision Pro carrying case](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMW2F3LL%2FA%2Fapple-vision-pro-travel-case&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  9\. Better and more accurate hand and eye tracking
@@ -132,10 +125,10 @@ While many reviewers have described the Vision Pro's hand and eye tracking as "m
 This needs to improve, and I hope to see an upgrade in VisionOS 2.0\. 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  10\. Find My support
@@ -147,6 +140,13 @@ Even cooler would be a heads-up display version of Find My that puts an arrow in
 ##  Bonus: Better personas
 
 Wow, those things are creepy. We need to get them out of the uncanny valley. 'Nuff said. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Looking forward to VisionOS 2.0
 
@@ -186,24 +186,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-sharing-wisdom-the-art-of-insta-duplication/"><u>[Updated] 2024 Approved Sharing Wisdom The Art of Insta Duplication</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bridging-apple-tvplus-with-chromecast-a-step-by-step-tutorial-for-easy-content-sharing/"><u>Bridging Apple TV+ with Chromecast: A Step-by-Step Tutorial for Easy Content Sharing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capturing-imagery-with-a-track-discover-the-top-5-photo-experts-with-musical-accompaniment/"><u>Capturing Imagery with a Track Discover the Top 5 Photo Experts with Musical Accompaniment</u></a></li>
-<li><a href="https://win-webster.techidaily.com/create-captivating-flipbook-textbooks-with-integrated-images-using-flipbuilder/"><u>Create Captivating Flipbook Textbooks with Integrated Images Using FlipBuilder</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elevate-your-photography-game-with-the-reliable-high-class-fugetek-ft-568-selfie-stick-review/"><u>Elevate Your Photography Game with the Reliable, High-Class Fugetek FT-568 Selfie Stick Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-get-the-new-version-2410-for-your-amd-radeon-graphics-cards/"><u>How to Get the New Version 24.10 for Your AMD Radeon Graphics Cards</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-moto-g-5g-2023-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Moto G 5G (2023)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/immediate-access-to-professional-photographic-damage-reversal/"><u>Immediate Access to Professional Photographic Damage Reversal</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-email-communication-used-by-pope-francis-in-his-papacy/"><u>Is Email Communication Used by Pope Francis in His Papacy?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximize-multitasking-a-comprehensive-guide-to-picture-in-picture-on-android/"><u>Maximize Multitasking: A Comprehensive Guide to Picture-in-Picture on Android</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/optimal-practices-for-blending-b-roll-into-main-clips/"><u>Optimal Practices for Blending B-Roll Into Main Clips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-a-lost-msodll-fixes-and-tips/"><u>Solving the Mystery of a Lost mso.dll: Fixes and Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-brewing-awkward-potions-for-maximum-effects/"><u>Step-by-Step Tutorial: Brewing Awkward Potions for Maximum Effects</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solutions-for-hp-officejet-pro-6978-printer-drivers/"><u>Troubleshooting & Solutions for HP OfficeJet Pro 6978 Printer Drivers</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-a-world-of-fun-with-these-compelling-9-reasons-for-using-steam/"><u>Unlock a World of Fun with These Compelling 9 Reasons for Using Steam</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/user-manual-deactivating-voice-commentary-in-samsung-televisions/"><u>User Manual: Deactivating Voice Commentary in Samsung Televisions</u></a></li>
-<li><a href="https://fox-access.techidaily.com/virtual-vistas-of-video-select-top-6-apps-for-macos-big-surs-editors/"><u>Virtual Vistas of Video Select Top 6 Apps for macOS Big Sur's Editors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-reducing-reliance-on-giants-like-microsoft-is-crucial-for-government-stability/"><u>Why Reducing Reliance on Giants Like Microsoft Is Crucial for Government Stability</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-videography-and-storage-assessing-a-high-capacity-memorys-video-limits-for-2024/"><u>[New] Videography & Storage Assessing a High-Capacity Memory's Video Limits for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-unleash-potential-ae-templates-for-aspiring-artists/"><u>2024 Approved Unleash Potential AE Templates for Aspiring Artists</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-samsung-galaxy-s24-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Samsung Galaxy S24 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-honor-play-8t-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Honor Play 8T FRP Without Computer</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/raphic-forecast-the-2023-social-landscape/"><u>Infographic Forecast The 2023 Social Landscape</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/introducing-the-new-era-for-gamers-maingear-unveils-improved-north-xl-tower-edition/"><u>Introducing the New Era for Gamers: Maingear Unveils Improved North XL Tower Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-motorola-edge-40-neo-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Edge 40 Neo Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/egic-approach-to-crafting-youtube-content-headlines-for-2024/"><u>Strategic Approach to Crafting YouTube Content Headlines for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-portable-storage-options-external-hdds-and-ssds-for-macos-users/"><u>Top Rated Portable Storage Options: External HDDs & SSDs for macOS Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-excessive-processor-load-on-windows-11-systems-solutions-revealed/"><u>Troubleshooting Excessive Processor Load on Windows 11 Systems - Solutions Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-for-non-functional-windows-11-interactive-widgets/"><u>Troubleshooting Steps for Non-Functional Windows 11 Interactive Widgets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turbocharge-slow-windows-1110-systems-step-by-step-guide/"><u>Turbocharge Slow Windows 11/10 Systems: Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/understanding-expenses-in-music-video-creation-for-2024/"><u>Understanding Expenses in Music Video Creation for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-how-to-bypass-the-windows-10-lock-screen-with-ease/"><u>Unlocking the Secrets: How to Bypass the Windows 10 Lock Screen with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/update-nvidia-graphics-drivers-in-windows-7-quickly-and-easily/"><u>Update NVIDIA Graphics Drivers in Windows 7. Quickly & Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/update-your-windows-usb-drivers-with-ease-compatible-with-windows-11-7-8-and-81/"><u>Update Your Windows' USB Drivers with Ease: Compatible with Windows 11, 7, 8 & 8.1</u></a></li>
 </ul></div>
 

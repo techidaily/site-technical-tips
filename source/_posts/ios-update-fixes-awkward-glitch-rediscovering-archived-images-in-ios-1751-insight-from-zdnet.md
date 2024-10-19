@@ -1,7 +1,7 @@
 ---
 title: "IOS Update Fixes Awkward Glitch Rediscovering Archived Images in IOS 17.5.1: Insight From ZDNet"
-date: 2024-10-10T16:01:05.038Z
-updated: 2024-10-13T16:31:16.065Z
+date: 2024-10-14T16:01:12.694Z
+updated: 2024-10-19T16:02:19.015Z
 tags:
   - apple
 categories:
@@ -58,6 +58,13 @@ The watch is also a great way to reduce distractions. When you have your phone o
 
 Of course, your mileage may vary with this experience. Not everyone has or wants a cellular-connected Apple Watch, and all the dings and buzzes you get during the day can be distracting. But for me, having the watch strapped to my wrist and paired with my phone number makes it incredibly easy to cut the reliance on my phone and reduce the temptation to get carried away with all the apps I have installed. It's great.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. A truly great fitness-tracking experience
 
 Jason Hiner/ZDNET
@@ -70,13 +77,6 @@ From the concept of "closing your rings" every day (and the various awards you c
 
 Apple's platform isn't perfect, mind you. You'll find better sleep-tracking information on other watches, like the Google Pixel Watch 2, you don't get any recovery information _at all_, and the Health app doesn't proactively tell you whether you're improving during your fitness journey. Still, for general consumers and fitness enthusiasts, using the Apple Watch for health tracking is a fantastic experience.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Notifications you want to interact with
 
 I can't tell you how many times I've used a smartwatch and wanted it to replicate the notification experience of the Apple Watch. From how alerts pop up on your wrist to the sounds and vibrations they make, everyone else should copy what Apple is doing.
@@ -84,13 +84,6 @@ I can't tell you how many times I've used a smartwatch and wanted it to replicat
 **Also: [Apple Watch Fall Detection: How and why to enable it](https://www.zdnet.com/article/apple-watch-fall-detection-how-and-why-to-enable-it/)**
 
 Seriously, the Apple Watch's notification system is excellent. A gentle tap on the wrist lets you know something has just popped up, while the animation from app icon to notification is fast and clear. You can swipe the alert away with minimal effort, the notification shade is tight yet descriptive, and any notification you dismiss is also dismissed from your phone (a synchronization many Android phones don't have when paired with a smartwatch). The Apple Watch has the best notifications in the game, bar none.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. The greatest haptics on any watch
 
@@ -101,6 +94,13 @@ One reason notifications are so good is the Apple Watch's Taptic Engine, which d
 **Also: [Apple Watch Series 9 review: Why I'm not settling for the less expensive models in 2024](https://www.zdnet.com/article/apple-watch-series-9-review/)**
 
 The feel of haptics on a watch can set the tone for how you perceive the quality of the device. My [ScanWatch from Withings](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWithings-ScanWatch-Light-Smartwatch-Monitoring%2Fdp%2FB0CG9RZFLN%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd68bc2ab-4b95-4dbb-8461-3abb4a46ecac%7Cdtp&dtb=1), for example, buzzes like a cheap cell phone from 2014\. My [Galaxy Watch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Bluetooth-Smartwatch-Personalized-Advanced%2Fdp%2FB0C797946T%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd68bc2ab-4b95-4dbb-8461-3abb4a46ecac%7Cdtp&dtb=1)'s vibrations are stronger and not as buzzy, but feel unnatural. The Apple Watch's haptics feel the most natural by far, which makes the watch feel great to wear by extension.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Navigating with Apple Maps
 
@@ -113,10 +113,16 @@ So, what makes navigating with Apple Maps on my Apple Watch so good? I like Siri
 If I'm going somewhere I've never been, I wear my Apple Watch simply for the navigation perks. Yes, you'll find a similar experience on other smartwatch platforms, but I like Apple's the most. Sue me.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. watchOS is the best smartwatch platform
@@ -134,10 +140,10 @@ The platform just works the way you'd expect. When paired to your iPhone, so man
 When I have to test a new Wear OS watch, I immediately miss using watchOS. It feels clunkier and slower, the watch faces aren't as nice (although there are some decent third-party options), and the apps aren't as good. If you want the best smartwatch software experience and have to ditch your Android phone for an iPhone, making that switch is worth it. I have friends who have switched to the iPhone simply because the Apple Watch and watchOS are so good.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -174,21 +180,21 @@ While the [Apple Watch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=http
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-from-live-streams-to-recorded-content-navigating-aiseesofts-features-for-2024/"><u>[New] From Live Streams to Recorded Content Navigating Aiseesoft's Features for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-essential-mac-snippet-apps-a-compilation/"><u>[New] In 2024, Essential Mac Snippet Apps A Compilation</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-expert-tips-for-seamless-instagram-streaming-using-obs/"><u>[Updated] In 2024, Expert Tips for Seamless Instagram Streaming Using OBS</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/analyzing-apples-iphone-12-pro-max-discover-how-more-is-merely-more-efficient/"><u>Analyzing Apple's iPhone 12 Pro Max - Discover How More Is Merely More Efficient.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-collection-of-6-highest-rated-money-saving-coupon-sources/"><u>Discover the Ultimate Collection of 6 Highest Rated Money-Saving Coupon Sources</u></a></li>
-<li><a href="https://win-news.techidaily.com/guia-paso-a-paso-sobre-la-migracion-y-el-clonado-de-datos-en-dispositivos-samsung-con-varios-volumenes-logicos/"><u>Guía Paso a Paso Sobre La Migración Y El Clonado De Datos en Dispositivos Samsung Con Varios Volúmenes Lógicos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/huion-kamvas-gt-191-drawing-tablet-review-a-big-beautiful-pen-display/"><u>Huion Kamvas GT-191 Drawing Tablet Review: A Big, Beautiful Pen Display</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-live-online-learning-captures/"><u>In 2024, Live Online Learning Captures</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-apples-calendar-in-a-win1011-setup/"><u>Leveraging Apple's Calendar in a Win10/11 Setup</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/missing-file-alert-how-to-restore-your-lost-d3dx926dll-library/"><u>Missing File Alert! How to Restore Your Lost d3dx9_26.dll Library</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/no-roku-no-problem-watch-the-roku-channel-through-various-non-roku-methods/"><u>No Roku? No Problem! Watch the Roku Channel Through Various Non-Roku Methods</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/price-predictions-and-technical-details-your-guide-to-the-latest-on-the-google-pixel-smartwatch/"><u>Price Predictions & Technical Details - Your Guide to the Latest on the Google Pixel Smartwatch</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-100-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor 100 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-mastering-split-view-on-your-macbook-air/"><u>Step-by-Step Guide: Mastering Split View on Your MacBook Air</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-clearing-out-entire-inbox-using-the-gmail-mobile-app/"><u>Step-by-Step Tutorial: Clearing Out Entire Inbox Using the Gmail Mobile App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-expect-from-the-new-samsung-galaxy-z-fold-rumored-pricing-launch-dates-and-feature-set/"><u>What to Expect From the New Samsung Galaxy Z Fold: Rumored Pricing, Launch Dates, and Feature Set</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-the-art-of-instagram-highlight-curation/"><u>[New] Mastering the Art of Instagram Highlight Curation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-harmonizing-workplay-by-incorporating-podcast-listening/"><u>[Updated] 2024 Approved Harmonizing Work/Play by Incorporating Podcast Listening</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-qanda-beyond-basic-usage/"><u>[Updated] In 2024, Instagram Q&A Beyond Basic Usage</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-ipad-screen-capture-techniques/"><u>[Updated] In 2024, Mastering iPad Screen Capture Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-lyric-videos-using-lyric-video-maker-software/"><u>[Updated] The Art of Lyric Videos Using Lyric Video Maker Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/crucial-aspects-to-contemplate-before-investing-in-your-next-desktop-system/"><u>Crucial Aspects to Contemplate Before Investing in Your Next Desktop System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/direct-guide-to-enjoy-hulu-content-on-an-lg-smart-tv-without-hassle/"><u>Direct Guide to Enjoy Hulu Content on an LG Smart TV Without Hassle</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-gopro-video-conversion-change-vids-to-mp4mov-formats-perfectly-for-clip-edits-uploads-and-playbacks/"><u>Easy GoPro Video Conversion - Change Vids to MP4/MOV Formats Perfectly for Clip Edits, Uploads & Playbacks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-code-to-couplets-writing-poetry-effortlessly-with-chatgpt-technology/"><u>From Code to Couplets: Writing Poetry Effortlessly with ChatGPT Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-the-scoop-anticipated-details-about-apples-upcoming-annulus-product-price-and-release-date-revealed/"><u>Get the Scoop: Anticipated Details About Apple's Upcoming Annulus Product – Price & Release Date Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-msodll-not-found-or-missing-errors/"><u>How to Fix Mso.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-art-of-fixing-steam-crashes-quickly/"><u>Master the Art of Fixing Steam Crashes Quickly!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/quick-tips-for-smooth-ipad-screen-capture-for-2024/"><u>Quick Tips for Smooth iPad Screen Capture for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secrets-to-unlocking-youtube-premiums-educational-savings-a-step-by-step-guide/"><u>Secrets to Unlocking YouTube Premium's Educational Savings – A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722885613255-the-newest-apple-audio-gizmo-revealed-predictions-on-price-tag-drop-date-and-specs/"><u>The Newest Apple Audio Gizmo Revealed? Predictions on Price Tag, Drop Date and Specs!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-best-note-taking-applications-for-your-ipad-and-ipad-pro/"><u>Top 7 Best Note-Taking Applications for Your iPad & iPad Pro</u></a></li>
 </ul></div>
 

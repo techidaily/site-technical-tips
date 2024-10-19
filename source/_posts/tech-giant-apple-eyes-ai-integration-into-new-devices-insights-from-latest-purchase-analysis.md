@@ -1,7 +1,7 @@
 ---
 title: Tech Giant Apple Eyes AI Integration Into New Devices - Insights From Latest Purchase Analysis
-date: 2024-10-06T16:08:36.936Z
-updated: 2024-10-13T16:07:17.696Z
+date: 2024-10-18T16:00:11.842Z
+updated: 2024-10-19T16:00:25.150Z
 tags:
   - apple
 categories:
@@ -82,13 +82,6 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Think different?
 
 For Apple to be able to move forward with the Vision Pro, it must answer one simple question: Why should I buy this thing? 
@@ -110,10 +103,10 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Vision for the rest of us
@@ -130,6 +123,13 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Give the Vision a controller
 
 VisionOS 2 has made some improvements. Beyond a trackpad, the new OS version (coming this fall) will support a mouse for pointing. It will also allow some form of keyboard passthrough, even in immersive environments, enabling you to see your keyboard. 
@@ -141,10 +141,10 @@ The eye tracking and hand gestures interface that are the primary means of opera
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
@@ -180,10 +180,10 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Looking towards the future
@@ -235,17 +235,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-iphone-7-proven-strategies-for-screen-capture/"><u>[New] In 2024, IPhone 7 Proven Strategies for Screen Capture</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streaming-showdown-the-podcast-challenge-to-youtubes-dominance/"><u>[New] Streaming Showdown The Podcast Challenge to YouTube’s Dominance</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-complete-handbook-of-xbox-one-zoom-communication/"><u>2024 Approved The Complete Handbook of Xbox One Zoom Communication</u></a></li>
-<li><a href="https://win-updates.techidaily.com/samsung-ssd-860-evo/"><u>本物Samsung SSD 860 EVOクローンを簡単にダウンロードする方法</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-tricks-for-utilizing-the-measure-feature-on-android-phones-effectively/"><u>Essential Tricks for Utilizing the Measure Feature on Android Phones Effectively</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-honor-x50-gt-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Honor X50 GT Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-e-book-downloads-on-your-iphone-or-ipad-through-apples-user-friendly-books-app-interface/"><u>Mastering E-Book Downloads on Your iPhone or iPad Through Apple's User-Friendly Books App Interface</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/perfect-frame-rate-selection-a-guide-to-best-slow-motion-filmmaking-techniques/"><u>Perfect Frame Rate Selection A Guide to Best Slow Motion Filmmaking Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/secure-your-inbox-with-effective-safe-list-techniques-in-gmail/"><u>Secure Your Inbox with Effective Safe List Techniques in Gmail</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-pdhdll-file-cant-be-located-issue/"><u>Solving the pdh.dll File Can't Be Located Issue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-essential-notetaking-applications-for-ipad-and-ipad-pro-users/"><u>Top 7 Essential Notetaking Applications for iPad & iPad Pro Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862703895-transform-your-laptop-into-a-morse-code-input-device-just-hit-the-lid-with-precision-disclaimers-apply/"><u>Transform Your Laptop Into a Morse Code Input Device: Just Hit the Lid with Precision - Disclaimers Apply</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-seamless-story-connectivity-on-facebook-4-tips/"><u>[New] 2024 Approved Seamless Story Connectivity on Facebook (4 Tips)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-converting-images-into-harmonious-videography-for-2024/"><u>[New] Converting Images Into Harmonious Videography for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-profitable-practices-for-creating-youtube-trailers/"><u>[New] Unveiling Profitable Practices for Creating YouTube Trailers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-productivity-with-these-18-must-try-ios-shortcuts-features/"><u>Boost Your Productivity with These 18 Must-Try iOS Shortcuts Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/debunking-the-myth-how-iphone-prices-compare-to-android-devices/"><u>Debunking the Myth: How iPhone Prices Compare to Android Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-hp-printer-drivers-and-updates-compatible-with-windows-1011/"><u>Download HP Printer Drivers & Updates Compatible with Windows 10/11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-track-troubleshooting-ending-division-2-performance-issues-easily/"><u>Fast Track Troubleshooting: Ending Division 2 Performance Issues Easily</u></a></li>
+<li><a href="https://fox-http.techidaily.com/getting-hooked-on-telegram-advertising-a-starters-guide/"><u>Getting Hooked on Telegram Advertising A Starter's Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-brand-your-channel-innovative-banner-templates-for-gamers/"><u>In 2024, Brand Your Channel Innovative Banner Templates for Gamers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-chromecast-enhancement-a-step-by-step-guide-to-updates/"><u>Seamless Chromecast Enhancement: A Step-by-Step Guide to Updates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722895760220-the-wonders-of-artificeintelligence-in-android-ecosystems/"><u>The Wonders of ArtificeIntelligence in Android Ecosystems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-setting-up-and-using-triple-monitor-setup-with-your-pc/"><u>Ultimate Guide: Setting Up and Using Triple-Monitor Setup with Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-electric-vehicles-bev-phev-fcev-and-hybrids-compared/"><u>Understanding Electric Vehicles: BEV, PHEV, FCEV & Hybrids Compared</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-pc-gaming-setup-corsair-icue-downloads-for-windows-platforms/"><u>Update Your PC Gaming Setup: Corsair iCUE Downloads for Windows Platforms</u></a></li>
 </ul></div>
 

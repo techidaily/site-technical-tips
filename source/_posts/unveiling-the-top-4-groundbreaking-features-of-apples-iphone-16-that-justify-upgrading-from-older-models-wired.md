@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Top 4 Groundbreaking Features of Apple's iPhone 16 That Justify Upgrading From Older Models | Wired
-date: 2024-10-12T16:16:48.678Z
-updated: 2024-10-13T16:25:31.569Z
+date: 2024-10-16T16:00:36.443Z
+updated: 2024-10-19T16:01:20.373Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ But which features will actually have the most impact on iPhone enthusiasts? Wha
 When Apple first released the [iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/) series, it only gave the 5x tetraprism zoom lens to the Max Pro. This time around, both the 16 Pro and the 16 Pro Max are getting the high-end zoom capability. This choice means the camera is essentially the same on the 16 Pro and 16 Pro Max, leaving other features to differentiate the two models. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. The camera control
@@ -52,16 +52,16 @@ The camera control button is available on all iPhone 16 models, but it's when pa
 [Not everyone is a fan](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/) of the new camera button, however, as this shift from software to hardware will likely come with usability growing pains and mistakenly-accessed features.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Siri's much-needed makeover
@@ -79,10 +79,10 @@ Well, the time has finally come. Apple unveiled a ton of new functionality for S
 Beyond Siri, we have [Visual Intelligence](https://www.zdnet.com/article/apple-adds-visual-intelligence-its-answer-to-google-lens-to-the-iphone-16-camera/), which allows multi-modal AI via the camera, similar to what we've seen across other AI models this year. Apple Intelligence will start with a live beta in October in the US, with additional countries in December, and additional languages next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Upgraded chipset for the AI age
@@ -98,10 +98,10 @@ The 3mm technology has smaller, more efficient transistors, and constitutes a bi
 Even with AI's demanding memory requirements, having this much memory on the iPhone is a bonus for overall performance, particularly multitasking and starting up apps. 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. The biggest iPhones yet
@@ -138,18 +138,14 @@ The iPhone 16 Pro and Pro Max are the largest iPhones ever, with 6.3 and 6.9-inc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-workplace-dialogue-dominance-unraveling-slacks-edge-over-discord/"><u>[Updated] Workplace Dialogue Dominance Unraveling Slack's Edge Over Discord</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-unleashing-your-creative-side-crafting-epic-metaverse-memes/"><u>2024 Approved Unleashing Your Creative Side Crafting Epic Metaverse Memes</u></a></li>
-<li><a href="https://facebook.techidaily.com/breaking-free-from-the-fb-messenger-boundary/"><u>Breaking Free From the FB Messenger Boundary</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/broaden-your-horizons-in-entertainment-tcls-expanded-selection-featuring-19-new-smart-tv-models/"><u>Broaden Your Horizons in Entertainment - TCL's Expanded Selection Featuring 19 New Smart TV Models</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-redmi-12-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Redmi 12.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dealing-with-missing-haldll-issues-a-comprehensive-solution-for-windows-xp-users/"><u>Dealing with 'Missing Hal.Dll' Issues – A Comprehensive Solution for Windows XP Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-these-superior-substitutes-for-chatgpt-the-ultimate-guide/"><u>Explore These Superior Substitutes for ChatGPT - The Ultimate Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-apple-iphone-6s-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your Apple iPhone 6s and iPad</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-streamlining-your-video-creation-into-profit-youtube-edition/"><u>In 2024, Streamlining Your Video Creation Into Profit - Youtube Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/increasing-iphone-phone-call-volume-effective-solutions-explored/"><u>Increasing iPhone Phone Call Volume: Effective Solutions Explored</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/share-the-fun-a-comprehensive-guide-to-collaborative-watching-on-netflix/"><u>Share The Fun - A Comprehensive Guide to Collaborative Watching on Netflix</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-wlanapidll-missing-file-a-comprehensive-guide/"><u>Solving wlanapi.dll Missing File: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-the-legacy-of-aol-instant-messenger-what-is-aim/"><u>Understanding the Legacy of AOL Instant Messenger - What Is AIM?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-stream-side-stacking-pewdiepies-payday-portion/"><u>[Updated] Stream-Side Stacking PewDiePie’s Payday Portion</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/3-easy-steps-for-ps4-remote-play-on-windowsmac/"><u>3 Easy Steps for PS4 Remote Play on Windows/Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/4khevc-videos-konvertieren-und-lesematerial-bearbeiten-ideale-tools/"><u>4K/HEVC Videos Konvertieren Und Lesematerial Bearbeiten - Ideale Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amd-driver-not-showing-up-in-device-manager-solved/"><u>AMD Driver Not Showing Up in Device Manager [Solved]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/background-on-blockchain-technology/"><u>Background on Blockchain Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beat-the-buffer-effective-techniques-to-slash-lag-and-improve-gaming-speed-2024-tricks/"><u>Beat the Buffer: Effective Techniques to Slash Lag and Improve Gaming Speed - 2024 Tricks</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/comment-utiliser-handbrake-sans-cuda-pour-accelerer-vos-projets-de-traitement-video/"><u>Comment Utiliser Handbrake Sans CUDA Pour Accélérer Vos Projets De Traitement Vidéo ?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-aoc-graphics-card-software-downloads-for-windows-users-windows-11108/"><u>Latest AOC Graphics Card Software Downloads for Windows Users (Windows 11/10/8)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-tech-professionals-are-walking-away-beyond-pool-tables-no-incentive-can-retain-top-talent/"><u>Why Tech Professionals Are Walking Away: Beyond Pool Tables, No Incentive Can Retain Top Talent</u></a></li>
 </ul></div>
 

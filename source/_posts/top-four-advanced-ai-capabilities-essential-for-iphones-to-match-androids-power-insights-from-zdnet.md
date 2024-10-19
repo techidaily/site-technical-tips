@@ -1,7 +1,7 @@
 ---
 title: Top Four Advanced AI Capabilities Essential for iPhones to Match Android's Power - Insights From ZDNet
-date: 2024-10-08T16:12:22.388Z
-updated: 2024-10-13T16:01:55.896Z
+date: 2024-10-18T16:00:34.662Z
+updated: 2024-10-19T16:00:29.275Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +68,10 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +83,10 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,24 +131,18 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-xbox-broadcasts-to-facebook-streams-for-2024/"><u>[New] Navigating Xbox Broadcasts to Facebook Streams for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unlocking-cross-media-sharing-power-twitterfacebook/"><u>[Updated] 2024 Approved Unlocking Cross-Media Sharing Power (Twitter/Facebook)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-tv-for-virtual-concerts/"><u>[Updated] Ultimate TV for Virtual Concerts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-to-identify-proficient-filmmakers/"><u>2024 Approved Techniques to Identify Proficient Filmmakers</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/aomei-onekey-recovery/"><u>異なるエディションを詳しく見て、AOMEI OneKey Recoveryの違いは何か？</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-sites-to-enjoy-music-vids-our-top-picks/"><u>Discover the Ultimate Sites to Enjoy Music Vids - Our Top Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enabling-or-disabling-the-virtual-onscreen-keyboard-in-microsoft-windows-10/"><u>Enabling or Disabling the Virtual Onscreen Keyboard in Microsoft Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-android-app-discover-the-latest-updates-rumored-release-and-pricing-whats-coming/"><u>Free Android App: Discover the Latest Updates, Rumored Release & Pricing - What's Coming?</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-7-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone 7</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v29e-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V29e to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-oneplus-11-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On OnePlus 11 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maxs-pick-top-documentary-films-of-july-2024-you-dont-want-to-miss/"><u>Max's Pick: Top Documentary Films of July 2024 You Don’t Want to Miss</u></a></li>
-<li><a href="https://fox-info.techidaily.com/parable-pedagogues-group-ultimate-eight-for-2024/"><u>Parable Pedagogues Group - Ultimate Eight for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-on-how-to-find-an-unremembered-email-account/"><u>Step-by-Step Instructions on How to Find an Unremembered Email Account</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-lowdown-on-samsung-galaxy-ring-unpacking-its-value-tech-specs-coming-soon-date-and-fresh-insights/"><u>The Complete Lowdown on Samsung Galaxy Ring - Unpacking Its Value, Tech Specs, Coming Soon Date & Fresh Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-comprehensive-walkthrough-of-using-vlc-with-apple-tv-for-all-kinds-of-media/"><u>The Comprehensive Walkthrough of Using VLC with Apple TV for All Kinds of Media</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-fix-for-missing-ssleay3-32dll-error-a-step-by-step-solution-guide/"><u>The Ultimate Fix for Missing 'ssLeay3 32.dll' Error: A Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-youtube-stardom-the-8-essential-tactics-to-go-viral-with-your-content/"><u>Unlocking YouTube Stardom: The 8 Essential Tactics to Go Viral with Your Content</u></a></li>
+<li><a href="https://win-blog.techidaily.com/vob-mjpeg-movavi/"><u>網路直接無障礙 VOB 到 MJPEG 轉換 - 使用 Movavi 工具</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/access-blockbusters-instantly-explore-the-best-free-movie-torrent-sites/"><u>Access Blockbusters Instantly: Explore the Best Free Movie Torrent Sites</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-free-gif-creation-tools-top-20-sites-to-make-memes-in-minutes/"><u>Best Free GIF Creation Tools: Top 20 Sites to Make Memes in Minutes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-6-must-visit-sites-to-score-unbeatable-discounts-and-save-cash/"><u>Discover 6 Must-Visit Sites to Score Unbeatable Discounts & Save Cash</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-when-you-cant-turn-on-your-roku-smart-tv-expert-advice/"><u>Easy Fixes for When You Can’t Turn On Your Roku Smart TV: Expert Advice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-innovation-with-the-apple-iphone-debut-get-ready/"><u>Experience Innovation with the Apple iPhone Debut – Get Ready!</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/guide-facile-pour-formater-et-reinitialiser-windows-11-en-conservant-vos-donnees-prioritaires/"><u>Guide Facile Pour Formater Et Réinitialiser Windows 11 en Conservant Vos Données Prioritaires</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-find-n3-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo Find N3 Fingerprint Lock</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-battery-hurdles-steps-to-charge-a-faulty-ps5-dualsense/"><u>Overcoming Battery Hurdles: Steps to Charge a Faulty PS5 DualSense</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722882603462-setting-up-time-lapse-photography-a-guide-to-using-the-iphone-camera-timers/"><u>Setting Up Time-Lapse Photography: A Guide to Using the iPhone Camera Timers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-activating-your-intel-wireless-ac-7260-connection/"><u>Step-by-Step Tutorial: Activating Your Intel Wireless-AC 7260 Connection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/synergizing-tasks-through-smart-chatbot-dialogues/"><u>Synergizing Tasks Through Smart Chatbot Dialogues</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-tecno-spark-20-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Tecno Spark 20 Pro Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
 

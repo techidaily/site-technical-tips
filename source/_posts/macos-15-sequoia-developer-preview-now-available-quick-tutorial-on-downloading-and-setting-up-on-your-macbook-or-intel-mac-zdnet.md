@@ -1,7 +1,7 @@
 ---
 title: MacOS 15 Sequoia Developer Preview Now Available! Quick Tutorial on Downloading and Setting Up on Your MacBook or Intel Mac | ZDNET
-date: 2024-10-09T16:11:26.269Z
-updated: 2024-10-13T16:01:55.483Z
+date: 2024-10-16T16:02:35.989Z
+updated: 2024-10-19T16:01:25.645Z
 tags:
   - apple
 categories:
@@ -36,6 +36,13 @@ In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and 
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Configure your focus settings
 
 I kid you not: The Focus settings that Apple rolled out a few years ago might be some of my most-used settings of all time. For those unfamiliar, Focus modes are basically fancy Do Not Disturb profiles that can be enabled manually, automatically at a certain time of day, or even when you travel somewhere. They allow you to control which notifications you see, who can contact you, and more. It's helpful when you want certain notifications while at work and others while you're relaxing at home. 
@@ -54,13 +61,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -72,6 +72,13 @@ You can customize the size of the window, bring up secondary apps in the same vi
 **Also:** [**The best iPad models: Expert tested**](https://www.zdnet.com/article/best-ipad/)
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Save your eyes at night with Night Shift
 
@@ -92,10 +99,10 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Hide your notifications from prying eyes
@@ -103,13 +110,6 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -124,6 +124,13 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to split**: Go to Settings > General > Keyboard and tap on "Split Keyboard." Then, when you open an app where the keyboard presents itself, touch and hold on the keyboard button in the bottom right corner and slide your finger to the split option. Your keyboard will then divide in half on either side of the screen. You can follow the same steps in reverse to turn it off.
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
 
@@ -140,13 +147,6 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -188,19 +188,20 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-ending-automatic-video-captures-in-qt-player-for-2024/"><u>[New] Ending Automatic Video Captures in QT Player for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-hd-upgrade-tool-windows-mac-and-online-conversion/"><u>[Updated] Ultimate HD Upgrade Tool Windows, Mac & Online Conversion</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-how-to-captivate-audiences-with-fb-live-todays-way/"><u>2024 Approved How to Captivate Audiences with FB Live, Today's Way</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/achieve-mastery-in-asl-access-these-16-free-learning-tools/"><u>Achieve Mastery in ASL: Access These 16 Free Learning Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoid-regret-right-oled-display-selection-tips/"><u>Avoid Regret: Right OLED Display Selection Tips</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/common-stock-30-million-shares-at-par-value-of-10-300/"><u>Common Stock (30 Million Shares at Par Value of $10): $300</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dealing-with-missing-or-corrupted-wininetdll-strategies-to-restore-functionality/"><u>Dealing with Missing or Corrupted wininet.dll: Strategies to Restore Functionality</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/enhancing-visuals-through-effective-music-addition-techniques-in-premiere-pro/"><u>Enhancing Visuals Through Effective Music Addition Techniques in Premiere Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/first-steps-in-home-audio-an-in-depth-guide-for-the-uninitiated/"><u>First Steps in Home Audio: An In-Depth Guide for the Uninitiated</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-meizu-21-pro-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Meizu 21 Pro Android SIM Unlock APK</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quieten-down-that-unsettling-sound-effective-techniques-for-silencing-a-loud-computer-fan/"><u>Quieten Down that Unsettling Sound: Effective Techniques for Silencing a Loud Computer Fan</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-definitive-walkthrough-for-completely-restoring-your-dell-laptop-settings/"><u>The Definitive Walkthrough for Completely Restoring Your Dell Laptop Settings</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-free-upnp-dlna-compatible-media-servers-for-windows-10-8-and-7/"><u>Top Free Upnp Dlna Compatible Media Servers for Windows 10, 8 & 7</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722853570262-unveiling-the-samsung-galaxy-s2n-prospective-price-points-debut-date-and-specs-revealed/"><u>Unveiling the Samsung Galaxy S2n: Prospective Price Points, Debut Date & Specs Revealed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-giggle-galore-exploring-the-best-tweets-on-social-media/"><u>[New] Giggle Galore Exploring the Best Tweets on Social Media</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-crafting-viral-tiktok-videos-on-desktop-platforms/"><u>2024 Approved Crafting Viral TikTok Videos on Desktop Platforms</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-discover-websites-your-gateway-to-youtube-branded-content/"><u>2024 Approved Discover Websites Your Gateway to YouTube Branded Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-from-fixed-frames-to-dynamic-circles-in-videos/"><u>2024 Approved From Fixed Frames to Dynamic Circles in Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clearing-up-green-mistakes-on-video-platforms/"><u>Clearing Up Green Mistakes on Video Platforms</u></a></li>
+<li><a href="https://win-web.techidaily.com/convert-your-favorite-online-videos-into-any-format-using-pyvideo-includes-mp4-mov-and-avi-options/"><u>Convert Your Favorite Online Videos Into Any Format Using PyVideo: Includes MP4, MOV, and AVI Options</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-moto-g-5g-2023-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Moto G 5G (2023) to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-xs-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone XS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/aging-video-shorts-to-generate-income-online/"><u>Leveraging Video Shorts to Generate Income Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-connection-effective-fixes-for-oculus-quest-2s-pc-connectivity-issues/"><u>Mastering the Connection: Effective Fixes for Oculus Quest 2'S PC Connectivity Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-file-transfer-speeds-expert-solutions-uncovered/"><u>Maximize File Transfer Speeds: Expert Solutions Uncovered</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolved-how-to-fix-msvcr100dll-errors-and-missing-files-on-windows-pc/"><u>Resolved: How to Fix MSVCR100.dll Errors and Missing Files on Windows PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/run-apps-in-compatibility-mode-in-windows-10/"><u>Run Apps in Compatibility Mode in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-enabling-and-using-a-vpn-through-opera-browser/"><u>Step-by-Step Guide: Enabling and Using a VPN Through Opera Browser</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-pairing-your-bluetooth-headset-with-a-windows-1noteq-10-laptop/"><u>Step-by-Step Guide: Pairing Your Bluetooth Headset with a Windows 1Noteq 10 Laptop</u></a></li>
 </ul></div>
 

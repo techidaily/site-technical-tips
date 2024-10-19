@@ -1,7 +1,7 @@
 ---
 title: "Beginner's 10 Commandments: Mastering the Art of Using X Swiftly"
-date: 2024-09-18T01:54:46.431Z
-updated: 2024-09-21T05:04:07.564Z
+date: 2024-10-14T05:33:56.640Z
+updated: 2024-10-18T19:07:55.270Z
 categories:
   - BestProducts
 description: "This Article Describes Beginner's 10 Commandments: Mastering the Art of Using X Swiftly"
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/946eb20cab96390f79aadddebd59f08cdd8697ebf
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable a New Mail Sound for Gmail
 
  If you want to hear a new email sound when you use Gmail in your desktop web browser, you can make that happen—just not in Gmail itself.
@@ -34,10 +41,25 @@ thumbnail: https://thmb.techidaily.com/946eb20cab96390f79aadddebd59f08cdd8697ebf
 1. Select**Extensions** next to Chrome's navigation bar, then select**More actions** (three vertical dots) and choose **Options** .  
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
 
@@ -48,16 +70,10 @@ thumbnail: https://thmb.techidaily.com/946eb20cab96390f79aadddebd59f08cdd8697ebf
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
@@ -104,5 +120,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-capturing-live-gaming-decide-on-obsshadowplay/"><u>[Updated] 2024 Approved Capturing Live Gaming - Decide on OBS/ShadowPlay</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-hit-the-town-non-gta-games-that-offer-similar-joy/"><u>[Updated] Hit the Town Non-GTA Games That Offer Similar Joy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/adventure-awaits-with-savings-score-20-off-trendy-phone-gear-and-charger-essentials-for-the-modern-nomad-at-zdnet-today-only/"><u>Adventure Awaits with Savings! Score 20% Off Trendy Phone Gear and Charger Essentials for the Modern Nomad at ZDNET Today Only</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-gameplay-experience-with-the-ps5-heres-why-you-need-one-now/"><u>Elevate Your Gameplay Experience with the PS5 – Here's Why You Need One Now!</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-12-mini-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 12 mini Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-14-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovate-with-windows-10s-newest-apps-and-games/"><u>Innovate with Windows 10'S Newest Apps and Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-15-pro-max-at-just-a-penny-exclusive-amazon-offer-explained-zdnet/"><u>IPhone 15 Pro Max at Just a Penny - Exclusive Amazon Offer Explained! | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-connectivity-with-google-nest-wi-fi-an-in-depth-analysis-and-review/"><u>Seamless Connectivity with Google Nest Wi-Fi: An In-Depth Analysis & Review</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-open-excel-2023-read-only-documents-stellar-by-stellar-guide/"><u>Solutions to open Excel 2023 Read Only Documents | Stellar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-using-an-extra-hard-drive-with-xbox-one/"><u>Step-by-Step Tutorial: Using an Extra Hard Drive with Xbox One</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-budget-friendly-apple-watch-se-gets-a-fresh-update-discover-the-latest-features/"><u>The Budget-Friendly Apple Watch SE Gets a Fresh Update – Discover the Latest Features!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-revolutionary-fitness-partner-in-your-ears-discover-the-newest-features-of-airpods-pro-3-including-heart-rate-tracking-for-health-conscious-athletes/"><u>The Revolutionary Fitness Partner in Your Ears: Discover the Newest Features of AirPods Pro 3, Including Heart Rate Tracking for Health-Conscious Athletes.</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-top-10-webm-to-mp4-conversion-tools-you-need-to-know/"><u>Updated 2024 Approved Top 10 WebM to MP4 Conversion Tools You Need to Know</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Latest Updates on PS5 Slim - Unveiling Price, Release Timeline & Technical Details
-date: 2024-09-17T16:05:52.920Z
-updated: 2024-09-21T04:06:09.771Z
+date: 2024-10-13T06:08:15.816Z
+updated: 2024-10-18T18:10:25.447Z
 categories:
   - BestProducts
 description: This Article Describes Latest Updates on PS5 Slim - Unveiling Price, Release Timeline & Technical Details
@@ -29,6 +29,19 @@ thumbnail: https://www.lifewire.com/thmb/vlIv_3iTK-DDHacZqiUmDg2fOTg=/400x300/fi
 
  Sony revealed the PS5 Slim officially on October 10, 2023\. It launched in November 2023.
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## PS5 Slim Price
 
  The PlayStation 5 Slim comes in two versions, just like the original. One has a disc drive, and the other is digital-only. We thought it would see a price cut over the original MSRP, but that doesn't seem to be the case.
@@ -45,6 +58,19 @@ Sony
 
 [  Here's what we think the PS5 Pro will cost ](https://www.lifewire.com/playstation-5-pro-7966359) 
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  PlayStation 5 Slim Features & Specs
 
  Per Sony, the new PS5 is more than 30% smaller (by volume), and 18 or 24% lighter (depending on model) than the original version. Rather than the current PS5's two side panels, the new ones have four: The top two are glossy, while the bottom ones are the same matte finish as the current lineup.
@@ -57,13 +83,20 @@ Sony
 
 ![The new PS5 with the side panel removed](https://www.lifewire.com/thmb/LcAwBA_R8RGMc2UJ9cPM-tGd-LI=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/New-PS5-side-panel-27489245d8f94d12a9aa30ca3077ecd1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sony
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Latest News About the PS5 Slim
@@ -79,13 +112,6 @@ Sony
 ### PS5 Slim w/ Disc Drive
 
  Orig.$500 [ $450 at Best Buy ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fplaystation-5%2Fps5-consoles%2Fpcmcat1587395025973.c%3Fid%3Dpcmcat1587395025973) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### PS5 Slim Digital Edition
 
@@ -104,5 +130,20 @@ Sony
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-breakdown-of-how-youtube-ad-revenue-works-cpm/"><u>[New] In 2024, Breakdown of How YouTube Ad Revenue Works (CPM)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-a-game-changer-for-gamers-easy-5-ways-to-capture-your-minecraft-adventures-mac/"><u>2024 Approved A Game Changer for Gamers Easy 5 Ways to Capture Your Minecraft Adventures (Mac)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-professional-editors-showdown-filmora-vs-democracy-creator-features/"><u>2024 Approved Professional Editors Showdown Filmora Vs. Democracy Creator Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-about-the-upcoming-samsung-galaxy-ring-specs-news-and-release-date-insights/"><u>All About The Upcoming Samsung Galaxy Ring – Specs, News and Release Date Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dive-deep-into-vitas-video-editing-prowess-a-complete-analysis-2024/"><u>Dive Deep Into Vita's Video Editing Prowess - A Complete Analysis, 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-apple-vision-pro-a-2-day-test-drive-and-top-3-insights-insiders-report/"><u>Exploring the Apple Vision Pro: A 2-Day Test Drive & Top 3 Insights - Insider's Report</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-high-res-videography-with-nikon-j5/"><u>In 2024, Exploring High-Res Videography with Nikon J5</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-new-age-of-samsungs-bdplus-k850/"><u>In 2024, Exploring the New Age of Samsung's BD+ K850</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-y27s-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo Y27s for Free? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-samsung-galaxy-a34-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Samsung Galaxy A34 5G Phone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-ultimate-list-of-educational-animation-software/"><u>New In 2024, The Ultimate List of Educational Animation Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/satellite-sos-messaging-a-groundbreaking-feature-on-the-newly-launched-google-pixel-9-tech-analysis-by-zdnet/"><u>Satellite SOS Messaging: A Groundbreaking Feature on the Newly Launched Google Pixel 9 | Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/snag-the-latest-tech-apples-10th-gen-ipad-at-an-unbeatable-299-special-after-prime-day-find-out-more-on-zdnet/"><u>Snag the Latest Tech: Apple's 10Th Gen iPad at an Unbeatable $299 Special After Prime Day - Find Out More on ZDNet</u></a></li>
+</ul></div>
 

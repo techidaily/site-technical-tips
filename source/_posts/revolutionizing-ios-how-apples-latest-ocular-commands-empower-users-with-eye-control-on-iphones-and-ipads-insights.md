@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing iOS: How Apple's Latest Ocular Commands Empower Users with Eye-Control on iPhones and iPads - Insights"
-date: 2024-10-06T16:15:39.689Z
-updated: 2024-10-13T16:05:42.540Z
+date: 2024-10-13T16:02:30.556Z
+updated: 2024-10-19T16:05:34.484Z
 tags:
   - apple
 categories:
@@ -44,15 +44,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -64,10 +71,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -76,13 +83,6 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
@@ -90,10 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,20 +130,17 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-bringing-your-video-games-to-life-customizable-channel-headers/"><u>[New] In 2024, Bringing Your Video Games to Life Customizable Channel Headers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-navigating-away-from-igs-suggestion-engine/"><u>[New] Navigating Away From IG's Suggestion Engine</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-master-your-remote-work-with-these-5-video-conference-recorders-for-2024/"><u>[Updated] Master Your Remote Work with These 5 Video Conference Recorders for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubes-high-stakes-hardware-showdown/"><u>2024 Approved YouTube’s High-Stakes Hardware Showdown</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/capturing-perfect-shots-with-an-iphone-camera-timer-a-step-by-step-approach/"><u>Capturing Perfect Shots with an iPhone Camera Timer – A Step-by-Step Approach</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/directing-content-flow-uploading-imovie-films-to-youtube-for-2024/"><u>Directing Content Flow Uploading IMovie Films to YouTube for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-resolving-the-problem-of-an-apple-watch-that-ignores-stand-detection/"><u>Guide To Resolving The Problem Of An Apple Watch That Ignores Stand Detection</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-quickly-fix-connectivity-problems-with-a-wireless-router-or-access-point/"><u>How to Quickly Fix Connectivity Problems with a Wireless Router or Access Point</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/july-2024-hotlist-top-kids-movies-to-watch-on-disney-plus/"><u>July 2024 Hotlist: Top Kids Movies to Watch on Disney Plus!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premium-internet-havens-tune-downloads-directory/"><u>Premium Internet Havens Tune Downloads Directory</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-integration-unlock-the-secrets-of-moving-from-windows-to-linux-with-these-6-crucial-factors/"><u>Seamless Integration: Unlock the Secrets of Moving From Windows to Linux with These 6 Crucial Factors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tackling-windows-code-28/"><u>Tackling Windows Code 지표 28에서 열견되는 문제 해결기</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-new-era-of-ios-scheduled-release-date-no-charge-advanced-features-and-press-highlights-for-version-18/"><u>The New Era of iOS: Scheduled Release Date, No Charge, Advanced Features & Press Highlights for Version 18</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-huawei-nova-y71-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Huawei Nova Y71 Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-mystery-of-authenticity-how-to-get-that-verified-checkmark-on-instagram/"><u>Unlocking the Mystery of Authenticity: How To Get That Verified Checkmark on Instagram</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-9-gif-recipes-for-capturing-windows-graphics-fun/"><u>[Updated] In 2024, Essential 9 GIF Recipes for Capturing Windows Graphics Fun</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-cross-platform-media-engines-a-buyers-guide/"><u>[Updated] Mastering Cross-Platform Media Engines A Buyer's Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/currently-streaming-top-rated-films-on-disneyplus-you-dont-want-to-miss/"><u>Currently Streaming: Top-Rated Films on Disney+ You Don't Want to Miss</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/getting-started-with-microsoft-365-a-user-friendly-guide-to-setting-up-on-windows-systems/"><u>Getting Started with Microsoft 365: A User-Friendly Guide to Setting Up on Windows Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-xiaomi-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Xiaomi Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-pro-tech-reviews-sharex-and-more/"><u>In 2024, Pro Tech Reviews ShareX & More</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-a58-4g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo A58 4G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/proven-tactics-for-saving-lol-events/"><u>Proven Tactics for Saving LOL Events</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quickly-remove-groups-of-pals-on-snapchat-with-this-simple-trick/"><u>Quickly Remove Groups of Pals on Snapchat with This Simple Trick</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-setting-up-and-activating-the-revo-app-manager/"><u>Step-by-Step Guide: Setting Up & Activating the Revo App Manager</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-free-video-call-apps-skype-alternatives-you-must-try/"><u>Top Free Video Call Apps : Skype Alternatives You Must Try</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-affordable-beginners-guide-to-setting-up-a-home-cinema/"><u>Top-Rated Affordable Beginner's Guide to Setting Up a Home Cinema</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Quick Captures: A Guide to Taking Screenshots with Your Logitech Keyboard"
-date: 2024-09-19T17:54:47.310Z
-updated: 2024-09-20T20:10:34.978Z
+date: 2024-10-16T00:27:57.914Z
+updated: 2024-10-19T04:50:20.530Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Quick Captures: A Guide to Taking Screenshots with Your Logitech Keyboard"
@@ -65,6 +65,26 @@ Skynesher/Getty
 
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275751%27 height=%272313%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Hands holding a smartphone with a red smartwatch on wrist over a pencil and paper.](https://www.lifewire.com/thmb/nSqWQLOUlnMzLJD1rc7f4f2qO5g=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/smartwatchandphone_yacobchuk_GettyImages-693332444_CROPPED-616820cc68f645c09d7153ccc1de07ff.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Connections: The Power of Phones and Smartwatches
 
  Phones can be a bone of contention for parents and kids everywhere, but the simple fact of the matter is they are fast becoming a staple for students from middle school and up.
@@ -92,10 +112,10 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using Apps and Sites Can Support Good Study Habits
@@ -105,10 +125,10 @@ Skynesher/Getty
 ![Female student walking with a tablet, smartphone, and headphones.](https://www.lifewire.com/thmb/xlh2OPH52kBp--XJzwjVyR_lZN0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentwithtabletphoneheadphones_COROIMAGE_GettyImages-1429193388_VERTICALCROP-5f30ba23f2f64ada861c3283ce518740.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Back to school means more than finding the right books this year. While those are crucial (and often spendy), a frequently overlooked aspect of getting back into the school groove involves finding and using the right apps to support learning, enhance productivity, and improve organization tactics.
@@ -163,5 +183,24 @@ Skynesher/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-maximize-your-youtube-yields-small-channel-sponsorship-strategies/"><u>[Updated] 2024 Approved Maximize Your YouTube Yields Small Channel Sponsorship Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-framing-frontiers-cutting-edge-app-innovations-24/"><u>2024 Approved Framing Frontiers Cutting-Edge App Innovations '24</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-halt-and-rewind-mastering-live-streams-on-twitch/"><u>2024 Approved Halt & Rewind Mastering Live Streams on Twitch</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-melodic-matchmaking-complementary-soundtracks-for-boxings/"><u>2024 Approved Melodic Matchmaking Complementary Soundtracks for Boxings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-discounted-at-unprecedented-rate-of-200-off-secure-your-purchase-before-its-gone-zdnet-insights/"><u>Apple Vision Pro Discounted at Unprecedented Rate of $200 Off - Secure Your Purchase Before It's Gone | ZDNET Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-your-ideal-apple-laptop-a-detailed-comparison-of-the-macbook-pro-vs-macbook-air-insights-and-recommendations/"><u>Choosing Your Ideal Apple Laptop: A Detailed Comparison of the MacBook Pro Vs. MacBook Air – Insights and Recommendations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/download-and-explore-ios-181-pre-release-update-with-new-smart-apple-innovations-step-by-step-guide-gadgetguru/"><u>Download and Explore iOS 18.1 Pre-Release Update with New Smart Apple Innovations – Step by Step Guide | GadgetGuru</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726027393320-gif/"><u>GIFアニメの品質保ちつつコンパクトな形で効果的に圧縮する手びん付けガイド</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-elite-virtual-classrooms-finding-value-outside-udemys-ecosystem/"><u>In 2024, Elite Virtual Classrooms Finding Value Outside Udemy's Ecosystem</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-13-mini-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 13 mini when Phone is Broken?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/new-leak-suggests-apple-pushes-back-launch-of-ai-capabilities-to-october-insights/"><u>New Leak Suggests Apple Pushes Back Launch of AI Capabilities to October - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pros-vs-cons-the-ultimate-guide-to-choosing-a-great-mac-vpn-experts-weigh-in-techradar/"><u>Pros vs Cons: The Ultimate Guide to Choosing a Great Mac VPN (Experts Weigh In) | TechRadar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stay-connected-with-ease-tips-for-sending-texts-and-calls-using-your-apple-watch-insights/"><u>Stay Connected with Ease: Tips for Sending Texts and Calls Using Your Apple Watch Insights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-sharp-printer-drivers-in-windows/"><u>Step-by-Step Guide: Updating Your Sharp Printer Drivers in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-updating-your-x-twitter-accounts-security-with-a-new-password/"><u>Step-by-Step Guide: Updating Your X (Twitter) Account's Security with a New Password</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-rate-of-heat-transfer-through-a-wall-is-directly-proportional-to-the-temperature-difference-across-it-and-its-thermal-conductivity/"><u>The Rate of Heat Transfer Through a Wall Is Directly Proportional to the Temperature Difference Across It and Its Thermal Conductivity.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-apple-watch-straps-comprehensive-reviews-by-tech-pros-zdnet/"><u>Top-Rated Apple Watch Straps : Comprehensive Reviews by Tech Pros | ZDNet</u></a></li>
+</ul></div>
 

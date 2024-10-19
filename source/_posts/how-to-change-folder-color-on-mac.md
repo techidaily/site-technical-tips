@@ -1,7 +1,7 @@
 ---
 title: How to Change Folder Color on Mac
-date: 2024-09-18T03:55:25.673Z
-updated: 2024-09-21T02:32:19.434Z
+date: 2024-10-15T02:36:56.777Z
+updated: 2024-10-19T08:14:22.426Z
 categories:
   - BestProducts
 description: This Article Describes How to Change Folder Color on Mac
@@ -35,6 +35,13 @@ thumbnail: https://www.lifewire.com/thmb/1xc0ehcXGUbsjXTThPs3Cf859Fw=/400x300/fi
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What to Do When You Can't Connect to Discord
 
  There are several things you can try if Discord seems to be working fine for everyone else, but you're still having[connection issues](https://www.lifewire.com/fix-connection-issues-discord-5086484) :
@@ -50,6 +57,13 @@ thumbnail: https://www.lifewire.com/thmb/1xc0ehcXGUbsjXTThPs3Cf859Fw=/400x300/fi
 8. It's unlikely, but there could be an issue with your[DNS server](https://www.lifewire.com/what-is-a-dns-server-2625854) . If you want to try[switching DNS servers](https://www.lifewire.com/how-to-change-dns-server-settings-2617979) , there are plenty of ways to do so with a[free and public option](https://www.lifewire.com/free-and-public-dns-servers-2626062) , although bear in mind that it's quite an advanced solution.
 
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Discord Error Messages
 
@@ -89,18 +103,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-navigating-twitters-aspect-ratio-policies/"><u>[New] 2024 Approved Navigating Twitter's Aspect Ratio Policies</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-android-time-lapse-techniques-elevate-your-videos/"><u>[New] Android Time-Lapse Techniques Elevate Your Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-selections-top-rated-webcam-platforms/"><u>[New] Ultimate Selections Top-Rated Webcam Platforms</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-lightweight-or-heavy-duty-choose-between-m1-laptops/"><u>[Updated] 2024 Approved Lightweight or Heavy-Duty Choose Between M1 Laptops</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-the-perfect-ipad-for-your-child-in-202n-zdnets-ultimate-list/"><u>Choosing the Perfect iPad for Your Child in 202N - ZDNet's Ultimate List</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connecting-streaming-devices-how-to-hook-up-your-firestick-projector-for-enhanced-viewing/"><u>Connecting Streaming Devices: How to Hook Up Your Firestick Projector for Enhanced Viewing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/extreme-savings-alert-over-35-prime-day-2eek-tablet-deals-you-cant-miss-still-active/"><u>Extreme Savings Alert: Over 35 Prime Day 2Eek Tablet Deals You Can't Miss (Still Active!)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/getting-more-bang-for-your-buck-with-the-impressive-zte-blade-a3y-phone/"><u>Getting More Bang for Your Buck with The Impressive ZTE Blade A3Y Phone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-driver-update-for-the-logitech-g502-gaming-mouse-a-users-tutorial/"><u>Hassle-Free Driver Update for the Logitech G502 Gaming Mouse - A User's Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/series-configurations-often-require-careful-design-to-ensure-desired-voltages-and-charge-distributions-across-components/"><u>Series Configurations Often Require Careful Design to Ensure Desired Voltages and Charge Distributions Across Components.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-silence-effective-ways-to-revive-a-dead-samsung-soundbar/"><u>Solving the Silence: Effective Ways to Revive a Dead Samsung Soundbar</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-byb-e430-a-closer-look-at-elite-swing-arm-led-lighting-solutions-detailed-review/"><u>The BYB E430: A Closer Look at Elite Swing Arm LED Lighting Solutions - Detailed Review</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oneplus-ace-2-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset OnePlus Ace 2? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-vpn-services-for-your-mac-comprehensive-reviews-by-experts/"><u>Top-Rated VPN Services for Your Mac: Comprehensive Reviews by Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleash-the-magic-of-apples-universal-control-a-step-by-step-guide-to-manipulating-your-ipad-via-mac/"><u>Unleash the Magic of Apple's Universal Control: A Step-by-Step Guide to Manipulating Your iPad via Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrading-worthwhile-comparing-the-m3-and-m1-macbook-pro-models-for-optimal-performance/"><u>Upgrading Worthwhile? Comparing the M3 and M1 MacBook Pro Models for Optimal Performance</u></a></li>
+</ul></div>
 

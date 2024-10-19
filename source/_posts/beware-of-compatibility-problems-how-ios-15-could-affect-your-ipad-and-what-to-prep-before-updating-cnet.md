@@ -1,7 +1,7 @@
 ---
 title: "Beware of Compatibility Problems: How iOS 15 Could Affect Your iPad & What to Prep Before Updating | CNET"
-date: 2024-10-10T16:12:15.877Z
-updated: 2024-10-13T16:10:56.945Z
+date: 2024-10-13T16:00:03.694Z
+updated: 2024-10-19T16:00:18.607Z
 tags:
   - apple
 categories:
@@ -28,6 +28,13 @@ This year, Apple upgraded each of its operating systems significantly, introduci
 
 ## The best iPadOS 18 features announced at WWDC
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Apple Intelligence on the iPad
 
 Apple announced a ton of new artificial intelligence (AI) features coming to the iPhone with iOS 18 at WWDC today. But the iPad wasn't left behind -- new iPadOS AI features will make the iPad more user-friendly, enhancing productivity and creativity.
@@ -48,6 +55,13 @@ iPad users can also leverage [generative AI](https://www.zdnet.com/article/what-
 
 Other new Apple Intelligence features on the iPad include redesigning the Photos app, enhanced Siri with gesture control via AirPods Pro, and more. These features will give iPad users a more intuitive tablet with better hands-free control and multitasking capabilities. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. A built-in Calculator for iPad
 
 During WWDC, Apple announced that the Calculator app finally will be included as a native app with iPadOS 18\. It will also get a redesign, as the Mac Calculator will now resemble the iPhone app, with round buttons instead of square ones, and will feature new capabilities with Apple Pencil integrations.
@@ -62,19 +76,6 @@ Until now, iPad users looking for a calculator had to download third-party apps 
 
 A built-in Calculator app eliminates the need to download a third-party app and allows Apple to leverage the iPad's larger screen to offer complex calculations and advanced visualizations. This feature enables everyday users, like students, to use the iPad more effectively for math and science queries. 
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. An intuitive Notes app
 
 The Notes app for iPad also has been redesigned, with Smart Script in Notes for users with an Apple Pencil. Smart Script lets users handwrite with the Apple Pencil and spell-checks on the go as the user writes. Smart Script also works to streamline handwriting as it straightens lines and makes notes more legible in your handwriting.
@@ -84,10 +85,10 @@ The Notes app for iPad also has been redesigned, with Smart Script in Notes for 
 Smart Script in Notes also lets users erase portions of notes by scratching them out. This feature also draws from the Calculator on iPad, letting users make calculations and graphs like they would in the Calculator. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Passwords app
@@ -101,10 +102,10 @@ Apple is making the new Passwords app available for iOS and iPadOS, giving users
 As a longtime LastPass user and Keychain disdainer, I look forward to testing this app and enjoying centralized password management with an enhanced user interface. I expect the Passwords app for iPad will greatly improve security for many users, making the access and management of passwords more convenient. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What we didn't get: An 'always on' display
@@ -128,19 +129,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which iPads will support iPadOS 18?
 
@@ -183,15 +171,16 @@ Here are the iPad models that will be updated to iPadOS 18 when available:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-messvid-grabber-for-social-media/"><u>[New] In 2024, MessVid Grabber for Social Media</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-pro-skills-screen-capturing-skype-conversations-for-2024/"><u>[New] Pro Skills Screen Capturing Skype Conversations for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/clear-android-cache-efficiently-in-simple-steps/"><u>Clear Android Cache Efficiently in Simple Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-walkthrough-how-to-disable-cortanacopilot-on-windows-11-systems/"><u>Complete Walkthrough: How To Disable Cortana/Copilot on Windows 11 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/demystifying-dac-understanding-its-importance-and-your-necessity/"><u>Demystifying DAC: Understanding Its Importance & Your Necessity</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-infinix-note-30i-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Infinix Note 30i</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fix-guide-how-to-address-non-syncing-issues-with-gmail/"><u>Quick Fix Guide: How to Address Non-Syncing Issues with Gmail</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-techniques-for-fixing-missing-or-lost-coredll-errors-efficiently/"><u>Troubleshooting Techniques for Fixing Missing or Lost Core.dll Errors Efficiently</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-windows-11s-taskbar-features-for-tablet-users/"><u>Unveiling Windows 11'S Taskbar Features for Tablet Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-top-10plus-best-free-online-screen-recorders/"><u>[New] In 2024, Top 10+ Best Free Online Screen Recorders</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/beat-overheating-and-boost-performance-top-review-of-havit-5-adjustable-fans-for-your-gaming-rig/"><u>Beat Overheating and Boost Performance: Top Review of HAVIT 5 Adjustable Fans for Your Gaming Rig</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-restoring-your-acer-laptop-to-its-original-settings-the-easy-way/"><u>Expert Tips: Restoring Your Acer Laptop to Its Original Settings the Easy Way</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-adjust-and-solve-mouse-issues-in-fortnite-gaming/"><u>How to Adjust and Solve Mouse Issues in Fortnite Gaming</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-channels-discovering-gpodc-gold/"><u>In 2024, Best Channels Discovering GPodC Gold</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/learn-the-four-step-process-to-freshly-start-over-factory-resetting-windows-11-made-simple/"><u>Learn the Four-Step Process to Freshly Start Over: Factory Resetting Windows 11 Made Simple</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-monitor-orientation-quick-and-effortless-window-11-screen-rotation-tricks/"><u>Mastering Monitor Orientation: Quick & Effortless Window 11 Screen Rotation Tricks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-digital-world-toms-comprehensive-hardware-analysis/"><u>Navigating the Digital World: Tom's Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/psp-converting-into-an-rgb-gba-counterpart/"><u>PSP: Converting Into an RGB GBA Counterpart</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Nokia XR21? | Dr.fone</u></a></li>
 </ul></div>
 

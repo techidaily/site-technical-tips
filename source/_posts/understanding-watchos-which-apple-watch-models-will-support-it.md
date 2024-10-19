@@ -1,7 +1,7 @@
 ---
 title: Understanding WatchOS 지식력 업그레이드 - Which Apple Watch Models Will Support It?
-date: 2024-10-08T16:24:46.439Z
-updated: 2024-10-13T16:13:45.287Z
+date: 2024-10-17T16:00:07.106Z
+updated: 2024-10-19T16:00:02.867Z
 tags:
   - apple
 categories:
@@ -34,13 +34,6 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
 Apple Intelligence represents a significant leap in on-device AI capabilities, directly bringing advanced machine learning and natural language processing to our phones. Unlike typical iOS or MacOS feature upgrades, Apple Intelligence loads a downsized version of Apple's Foundation Models, [a home-grown large language model (LLM)](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) with approximately 3 billion parameters. While impressive, this is tiny compared to models like [GPT-3.5 and GPT-4](https://www.zdnet.com/article/what-does-gpt-stand-for-understanding-gpt-3-5-gpt-4-and-more/), which boast hundreds of billions of parameters. Even Meta's open source Llama 3, which you can run on a desktop computer, has 8 billion parameters. 
@@ -65,6 +58,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -82,16 +82,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -103,10 +97,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -126,10 +120,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -172,14 +166,20 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-collagecraft-stitching-videos-for-instagram-on-iosandroid/"><u>[New] 2024 Approved CollageCraft Stitching Videos for Instagram on iOS/Android</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-virtual-aid-fb-stories-downloader/"><u>[New] In 2024, Virtual Aid FB Stories Downloader</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-leading-video-call-applications-for-conference-success/"><u>2024 Approved Leading Video Call Applications for Conference Success</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-missing-msvbvm50dll-a-step-by-step-solution-walkthrough/"><u>Fixing 'Missing msvbvm50.dll': A Step-by-Step Solution Walkthrough</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/playstation-5-compact-edition-latest-updates-on-costs-debut-timeline-and-technical-details/"><u>PlayStation 5 Compact Edition: Latest Updates on Costs, Debut Timeline & Technical Details</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solve-silent-streaming-how-to-restore-speakers-on-a-malfunctioning-chromecast/"><u>Solve Silent Streaming: How to Restore Speakers on a Malfunctioning Chromecast</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-access-issues-why-cant-you-find-facebook-marketplace/"><u>Troubleshooting Access Issues: Why Can't You Find Facebook Marketplace?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-walkthrough-for-scheduling-a-technical-assistance-session-at-apple-retail/"><u>Ultimate Walkthrough for Scheduling a Technical Assistance Session at Apple Retail</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-diving-into-virtual-worlds-iphone-vr-viewing-101/"><u>[New] Diving Into Virtual Worlds IPhone VR Viewing 101</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-seamless-shift-in-music-production/"><u>[New] In 2024, The Seamless Shift in Music Production</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-livestream-launchpad-duel-go-with-xsplit-or-opt-for-obs/"><u>[New] Livestream Launchpad Duel Go with XSplit or Opt for OBS?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instas-best-practices-choosing-videography-sizes-and-formats/"><u>[Updated] Insta's Best Practices - Choosing Videography Sizes & Formats</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-live-yt-sessions-on-phone-for-newbies-without-a-million-viewers-for-2024/"><u>[Updated] Live YT Sessions on Phone for Newbies without a Million Viewers for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-best-mac-video-captures-compilation-under-156-characters/"><u>2024 Approved Best Mac Video Captures Compilation (Under 156 Characters)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-in-depth-insights-perfecting-the-craft-of-screen-recording-on-macbooks/"><u>2024 Approved In-Depth Insights Perfecting the Craft of Screen Recording on MacBooks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/creating-an-extended-wireless-sound-network-sync-your-bluetooth-speakers-together/"><u>Creating an Extended Wireless Sound Network: Sync Your Bluetooth Speakers Together</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-comprehensive-roadmap-how-to-protect-and-list-your-email-securely/"><u>The Comprehensive Roadmap: How to Protect & List Your Email Securely</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-technique-for-snapping-screenshots-with-logitechs-peripherals/"><u>The Ultimate Technique for Snapping Screenshots with Logitech's Peripherals</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-5-emulators-the-ultimate-guide-for-classic-ps1-games-on-pc/"><u>Top 5 Emulators The Ultimate Guide for Classic PS1 Games on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-5-perfect-houseplants-to-boost-focus-in-your-home-office-gizmodo/"><u>Ultimate Guide: 5 Perfect Houseplants to Boost Focus in Your Home Office | Gizmodo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-mastering-messaging-with-your-ipad/"><u>Ultimate Guide: Mastering Messaging with Your iPad</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-solving-the-mystery-of-windows-11s-black-display-dilemma/"><u>Ultimate Guide: Solving the Mystery of Windows 11'S Black Display Dilemma</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-the-mystery-of-the-tesla-handset-expected-price-range-release-timeline-and-specs-revealed-in-rumors/"><u>Unraveling the Mystery of the Tesla Handset: Expected Price Range, Release Timeline and Specs Revealed in Rumors</u></a></li>
 </ul></div>
 

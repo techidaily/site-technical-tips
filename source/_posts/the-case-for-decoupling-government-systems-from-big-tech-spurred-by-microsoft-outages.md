@@ -1,7 +1,7 @@
 ---
 title: The Case for Decoupling Government Systems From Big Tech, Spurred by Microsoft Outages
-date: 2024-09-13T20:54:26.658Z
-updated: 2024-09-21T03:27:07.600Z
+date: 2024-10-18T00:23:16.892Z
+updated: 2024-10-19T07:25:39.325Z
 categories:
   - BestProducts
 description: This Article Describes The Case for Decoupling Government Systems From Big Tech, Spurred by Microsoft Outages
@@ -33,6 +33,13 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who Is Eligible for Microsoft's Student Discount?
 
  The Microsoft student discount is available to a wide range of people, including students, faculty, and even parents. Here are the general requirements:
@@ -42,6 +49,20 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
 * Enrolled at a four-year university, two-year college, or a vocational school.
 
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Does Microsoft's Student Discount Get You?
 
@@ -55,16 +76,10 @@ Certain items are specifically excluded, including:
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Does Microsoft Verify Student Enrollment?
@@ -104,5 +119,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-step-by-step-backlink-blueprint-for-channel-growth-for-2024/"><u>[Updated] Step-by-Step Backlink Blueprint for Channel Growth for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-achieving-perfection-mastering-sound-with-audacity/"><u>2024 Approved Achieving Perfection Mastering Sound with Audacity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-introduces-final-cut-on-ios-for-pro-level-video-production/"><u>Apple Introduces Final Cut on iOS for Pro-Level Video Production</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audiophiles-choice-best-microphones-for-podcasting-for-2024/"><u>Audiophile's Choice Best Microphones for Podcasting for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-gameplay-experience-with-the-ps5-heres-why-you-need-one-now/"><u>Elevate Your Gameplay Experience with the PS5 – Here's Why You Need One Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-future-apple-vision-pro-top-apps-excluded-and-whats-missing/"><u>Exploring Future Apple Vision Pro: Top Apps Excluded and What's Missing</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-enhancing-projects-methodically-adding-audio-files-in-final-cut-pro-for-2024/"><u>New Enhancing Projects Methodically Adding Audio Files in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/podcast-vs-youtube-determining-your-digital-destination/"><u>Podcast Vs. YouTube Determining Your Digital Destination</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016923045-razer-kraken-mic-failure-heres-how-you-can-resolve-it/"><u>Razer Kraken Mic Failure? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-apple-savings-in-july-2024-iphone-bargains-apple-watch-offers-ipad-discounts-and-exclusive-deals-ultimate-guide/"><u>Top Apple Savings in July 2024: IPhone Bargains, Apple Watch Offers, iPad Discounts & Exclusive Deals Ultimate Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/what-to-expect-when-ordering-early-a-guide-for-the-anticipated-apple-vision-pro-release/"><u>What To Expect When Ordering Early: A Guide for the Anticipated Apple Vision Pro Release</u></a></li>
+</ul></div>
 
