@@ -1,7 +1,7 @@
 ---
 title: Experience Effortless Charging on The Go With Our Top Pick for a Favorite MagSafe Charger (QI2 Support) - ZDNET's Expert Review!
-date: 2024-10-18T16:09:33.094Z
-updated: 2024-10-19T16:05:26.002Z
+date: 2024-10-21T21:27:34.362Z
+updated: 2024-10-24T18:24:24.358Z
 tags:
   - apple
 categories:
@@ -45,6 +45,13 @@ Pros
 
 Cons 
 * New design Cameras are impressive Performance Battery life
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iPhone 12 Pro
 
@@ -104,14 +111,14 @@ Cons
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone SE (2020)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
 
@@ -141,6 +148,13 @@ Cons
 
 ## iPhone 12
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Chris Matyszczyk
 
 **Chris Matyszczyk:** My XR became heavy and cumbersome. It had begun to fade. I saw the 12's blue color and thought it might be fetching. And then an Apple store employee took the time to talk me into the 12, just when I was at my weakest.
@@ -156,6 +170,13 @@ Pros
 
 Cons 
 * Fast performance New camera features Strong battery life
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iPhone 11 Pro
 
@@ -182,19 +203,6 @@ Pros
 
 Cons 
 * Strong battery life Good performance More affordable
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Google Pixel 2
 
@@ -252,6 +260,13 @@ Show Expert Take Show less
 
 ###   
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###   
 
 ## iPhone X
@@ -261,13 +276,6 @@ Show Expert Take Show less
 I have a Moment wide-angle lens and case, which gives me the tech I need for landscape photography. There's a lot of landscape where I live, and picturing it never gets old. I keep looking at the newer iPhones each year, but things like a wider lens and low-light performance aren't hot buttons. I haven't used my Canon DSLR in years. 
 
 **Next phone or dream phone?** iPhone 13 or 14 Pro Max. Folding iPhone? I like a big screen as long as it will fit in a shirt pocket, and Moment makes a case for it. Not sure I'd be up for the extra fiddling a folding iPhone would require, but it would likely replace my iPad Mini. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###   
 
@@ -279,14 +287,14 @@ Pros
 Cons 
 * Best smartphone display Worthwhile camera improvements Battery life is solid
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone XS Max
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Asha Barbaschow
 
@@ -304,13 +312,6 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone 6s Plus
 
 ### David Gewirtz and Iliana Meir
@@ -325,14 +326,14 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
-## Lumia 1520
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Lumia 1520
 
 ### Mary Branscombe
 
@@ -342,14 +343,20 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 
 Show less 
 
-## Samsung Galaxy Note 8
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Samsung Galaxy Note 8
 
 ### Charles McLellan
 
@@ -358,13 +365,6 @@ I've been using Samsung's Note 8 for several years now, despite having seen all 
 **Next phone or dream phone?** A 2021 flagship-class phone with an integrated thermal camera. A thermal camera is a great tool for jobs around the house/office and for seeking out wildlife after dark
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###   
 
@@ -398,18 +398,22 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-swiftly-switch-songs-in-yt-playlist-heres-how/"><u>[New] 2024 Approved Swiftly Switch Songs in YT Playlist, Here's How</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-prime-selection-of-simple-effective-gamers-edit-tools/"><u>2024 Approved Prime Selection of Simple, Effective Gamers' Edit Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/address-and-repair-windows-11-search-problems-efficiently/"><u>Address and Repair Windows 11 Search Problems Efficiently</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-s23-ultra-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy S23 Ultra Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/eradicate-commercial-breaks-in-facebook-videos/"><u>Eradicate Commercial Breaks in Facebook Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopros-top-5-subaquatic-filter-choices-for-2024/"><u>GoPro's Top 5 Subaquatic Filter Choices for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/guide-correcting-issues-in-realtek-rtl811au-chipset-software/"><u>Guide: Correcting Issues in Realtek RTL8#11AU Chipset Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-high-fidelity-android-3d-player/"><u>In 2024, High-Fidelity Android 3D Player</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/rtx-or-no-rtx-how-to-decide-when-upgrading-your-graphics-card/"><u>RTX or No RTX? How to Decide When Upgrading Your Graphics Card</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722890455716-the-ultimate-tutorial-on-enhancing-your-photos-with-personal-ring-lights/"><u>The Ultimate Tutorial on Enhancing Your Photos with Personal Ring Lights</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-financially-via-beauty-channels-for-2024/"><u>Thriving Financially via Beauty Channels for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-tiers-discovering-royal-matchs-layered-structure/"><u>Unveiling the Tiers: Discovering 'Royal Match's Layered Structure</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-affordable-pc-frame-capture-apps/"><u>[New] Affordable PC Frame Capture Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-harmony-in-minutes-no-credit-due-for-2024/"><u>[New] Harmony in Minutes, No Credit Due for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-depth-guide-to-installing-microsofts-movie-maker/"><u>[New] In-Depth Guide to Installing Microsoft's Movie Maker</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-lyric-video-makers-you-should-try-for-2024/"><u>[Updated] Best Lyric Video Makers You Should Try for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-sharpen-your-content-for-unlimited-youtube-exposure-for-2024/"><u>[Updated] Sharpen Your Content for Unlimited YouTube Exposure for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-offer-save-20-on-top-picks-of-mobile-gear-for-travelers-deals-on-phone-covers-power-solutions-and-stylish-watch-straps/"><u>Exclusive Offer: Save 20% on Top-Picks of Mobile Gear for Travelers - Deals on Phone Covers, Power Solutions & Stylish Watch Straps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-how-the-latest-iphone-16s-camera-button-elevates-your-photography-experience-detailed-insights-from-zdnet/"><u>Explore How the Latest iPhone 16'S Camera Button Elevates Your Photography Experience – Detailed Insights From ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fast-charging-breakthrough-esr-launches-qi2-magsafe-batch-boosts-iphone-16-charge-rates-while-avoiding-overheating-insights-from-zdnet/"><u>Fast-Charging Breakthrough: ESR Launches Qi2 MagSafe Batch Boosts iPhone 16 Charge Rates While Avoiding Overheating - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-out-your-cars-radio-security-code-tips-for-successful-entry/"><u>Find Out Your Car's Radio Security Code: Tips for Successful Entry</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/handling-soundtracks-opening-srt-on-pcmac/"><u>Handling Soundtracks Opening SRT on PC/Mac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-effortlessly-set-up-and-use-bluetooth-features-on-your-iphone/"><u>How to Effortlessly Set Up and Use Bluetooth Features on Your iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-recover-missing-ftd2xxdll-errors-easily-and-swiftly/"><u>How to Recover Missing ftd2xx.dll Errors Easily and Swiftly</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/labor-day-blowout-event-at-walmart-secure-a-24-discount-on-the-versatile-apple-airtag-4-pack-as-covered-news/"><u>Labor Day Blowout Event at Walmart! Secure a $24 Discount on the Versatile Apple AirTag 4-Pack, as Covered News</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-potential-the-advantages-of-iphones-extended-nfc-capabilities-with-app-support-insights-from-zdnet/"><u>Unlocking Potential: The Advantages of iPhone's Extended NFC Capabilities with App Support - Insights From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/who-owns-chatgpt/"><u>Who Owns ChatGPT?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-you-wont-find-new-apple-ai-capabilities-on-previous-iphones-insights-for-tech-enthusiasts/"><u>Why You Won't Find New Apple AI Capabilities on Previous iPhones - Insights for Tech Enthusiasts</u></a></li>
 </ul></div>
 

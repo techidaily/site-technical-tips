@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Hidden In-Built Radios: Are Your Mac or iPad Equipped?"
-date: 2024-10-15T16:15:02.718Z
-updated: 2024-10-19T16:16:26.151Z
+date: 2024-10-19T01:32:13.733Z
+updated: 2024-10-24T22:03:29.080Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
@@ -40,23 +47,9 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -67,15 +60,22 @@ After installing the latest iOS update, your iPhone will restart.
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
@@ -92,10 +92,10 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
@@ -169,18 +169,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/levate-your-videos-with-complimentary-banners-here-for-2024/"><u>[New] Elevate Your Videos with Complimentary Banners, Here for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-kid-friendly-online-entertainment-discover-7-amazing-games/"><u>Best Kid-Friendly Online Entertainment: Discover 7 Amazing Games</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-collaboration-on-microsoft-teams-using-the-revolutionary-copilot-feature/"><u>Effortless Collaboration on Microsoft Teams Using the Revolutionary Copilot Feature</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-guide-running-android-applications-on-your-windows-10-pc/"><u>Effortless Guide: Running Android Applications on Your Windows 10 PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expand-your-workspace-detailed-instructions-for-attaching-3-computer-displays-simultaneeously/"><u>Expand Your Workspace: Detailed Instructions for Attaching 3 Computer Displays Simultaneeously</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-lava-blaze-2-5g-frp-by-drfone-android/"><u>How Can We Bypass Lava Blaze 2 5G FRP?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-resolve-compatibility-problems-with-ralink-rt3290-in-windows-operating-systems-1187/"><u>How to Resolve Compatibility Problems with Ralink RT3290 in Windows Operating Systems (11/8/7)</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954137215-new-how-to-convert-images-into-video-kapwing-tutorial-for-2024/"><u>New How to Convert Images Into Video - Kapwing Tutorial for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/spotlight-on-the-foremost-tech-trends-to-follow/"><u>Spotlight on the Foremost Tech Trends to Follow</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-to-picking-an-outstanding-selfie-pole-a-guide-with-six-tips/"><u>Unlock The Secrets To Picking An Outstanding Selfie Pole - A Guide With Six Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-best-true-crime-stories-a-list-of-13-podcasts/"><u>Unveiling the Best True Crime Stories: A List of 13 Podcasts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-acclaimed-top-5-compact-cameras-for-filming/"><u>[New] In 2024, Acclaimed Top 5 Compact Cameras for Filming</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-social-savvy-fetching-and-storing-twitters-animated-gifs/"><u>[New] In 2024, Social Savvy Fetching and Storing Twitter's Animated GIFs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-significant-aspects-in-techno-narrative-design/"><u>[Updated] Significant Aspects in Techno Narrative Design</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-crafting-compelling-footage-on-your-gopro/"><u>2024 Approved Crafting Compelling Footage on Your GoPro</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-learn-from-the-best-youtubes-top-green-screen-techniques/"><u>2024 Approved Learn From The Best Youtube’s Top Green Screen Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-v30t-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/5-crucial-aspects-you-shouldnt-ignore-when-buying-a-new-smartwatch/"><u>5 Crucial Aspects You Shouldn't Ignore When Buying a New Smartwatch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-latest-release-introducing-the-airpods-4-featuring-find-my-speaker-and-enhanced-usb-c-connection-insights/"><u>Apple's Latest Release: Introducing the AirPods 4 Featuring 'Find My Speaker' & Enhanced USB-C Connection - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-latest-travel-essential-magsafes-triple-threat-charger-compatible-with-qi2-now-a-top-pick/"><u>Discover the Latest Travel Essential: MagSafe's Triple Threat Charger Compatible with Qi2, Now a Top Pick !</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-apples-advanced-artificial-intelligence-in-next-gen-devices-innovatetech-today/"><u>Exploring Apple's Advanced Artificial Intelligence in Next-Gen Devices | InnovateTech Today</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-8-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 8</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/key-facts-on-youtube-lives-visual-identity-for-2024/"><u>Key Facts on YouTube Live's Visual Identity for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-yahoo-mail-hurdles-a-comprehensive-guide-for-missing-emails-fixes/"><u>Overcoming Yahoo Mail Hurdles: A Comprehensive Guide for Missing Emails Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-steps-to-create-timed-photos-on-the-iphone/"><u>Simple Steps to Create Timed Photos on the iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-the-advapi32dll-not-detected-issue/"><u>Step-by-Step Solutions for the 'Advapi32.dll Not Detected' Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-clearing-your-entire-inbox-on-the-gmail-mobile-application/"><u>Ultimate Guide: Clearing Your Entire Inbox on the Gmail Mobile Application</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unfolding-the-future-samsung-galaxy-z-fold6-launch-details-and-key-features/"><u>Unfolding the Future: Samsung Galaxy Z Fold6 - Launch Details & Key Features</u></a></li>
 </ul></div>
 

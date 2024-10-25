@@ -1,7 +1,7 @@
 ---
 title: Can Nintendo Switch Support And Play Netflix Movies And Shows?
-date: 2024-10-14T16:02:33.919Z
-updated: 2024-10-19T16:18:06.589Z
+date: 2024-10-23T06:12:08.375Z
+updated: 2024-10-25T02:05:51.982Z
 categories:
   - BestProducts
 description: This Article Describes Can Nintendo Switch Support And Play Netflix Movies And Shows?
@@ -35,27 +35,7 @@ thumbnail: https://www.lifewire.com/thmb/izMfZpjd8xOgqjVZm8JL_Z4sWyc=/400x300/fi
 !["cmd" typed into Windows 11 start menu search box](https://www.lifewire.com/thmb/1d41kEyvl2KNY_b_cnc6DgiIehk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-cmd-start-menu-a8c1d7d009f64856902c83e8e418563b.png)  
  If you're using the latest version of Windows 11, Command Prompt will open within[Terminal](https://www.lifewire.com/windows-terminal-4779951) .
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Open Command Prompt Through the Start Menu Folder
 
@@ -64,10 +44,17 @@ thumbnail: https://www.lifewire.com/thmb/izMfZpjd8xOgqjVZm8JL_Z4sWyc=/400x300/fi
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Open Command Prompt Using Power User Menu
@@ -79,10 +66,10 @@ thumbnail: https://www.lifewire.com/thmb/izMfZpjd8xOgqjVZm8JL_Z4sWyc=/400x300/fi
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
@@ -107,6 +94,13 @@ thumbnail: https://www.lifewire.com/thmb/izMfZpjd8xOgqjVZm8JL_Z4sWyc=/400x300/fi
 3. Choose**Command Prompt** from the list of programs.
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other Ways to Open Command Prompt
 
@@ -172,19 +166,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-secret-sauce-to-staying-fresh-on-instagram-a-4-step-guide-to-gifs/"><u>[New] 2024 Approved The Secret Sauce to Staying Fresh on Instagram A 4-Step Guide to GIFs</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-illuminati-the-top-25-visionaries-you-need-to-see-for-2024/"><u>[New] Instagram Illuminati The Top 25 Visionaries You Need to See for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-decoding-the-mystery-of-facebook-data-a-novices-handbook/"><u>[Updated] 2024 Approved Decoding the Mystery of Facebook Data A Novice’s Handbook</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-advanced-mac-studio-for-crystal-clear-captures-and-sounds/"><u>[Updated] Advanced Mac Studio for Crystal Clear Captures & Sounds</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-cultivating-inquisitive-interview-habits/"><u>2024 Approved Cultivating Inquisitive Interview Habits</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-forced-restart-techniques-for-all-ipads/"><u>Comprehensive Tutorial on Forced Restart Techniques for All iPads</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-next-level-gaming-with-asuss-newest-innovation-the-rog-nuc-powered-by-amd-ryzen-9-and-featuring-rtx-nvidia-gpu-for-a-price-of-1629/"><u>Experience Next-Level Gaming with Asus's Newest Innovation: The ROG NUC Powered by AMD Ryzen 9 & Featuring RTX nVidia GPU for a Price of $1,629</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-theory-to-practice-chatgpt-in-medical-industry/"><u>From Theory to Practice: ChatGPT in Medical Industry</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-ready-playstation-portable-launches-dates-costs-features-and-purchase-locations/"><u>Get Ready: PlayStation Portable Launches - Dates, Costs, Features & Purchase Locations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-does-bass-management-enhance-your-sound-experience/"><u>How Does Bass Management Enhance Your Sound Experience?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-fixes-for-disabled-obs-fullscreen-mode/"><u>In 2024, Fixes for Disabled OBS Fullscreen Mode</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-samsung-galaxy-m34-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Samsung Galaxy M34 5G Phones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/must-have-email-apps-for-your-iphone-in-2024-expert-choices-revealed/"><u>Must-Have Email Apps for Your iPhone in 202#4 - Expert Choices Revealed.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-phase-in-machine-learning-the-advent-of-gpt-5/"><u>Next Phase in Machine Learning: The Advent of GPT-5?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-reimagining-game-logging-with-no-fbx-technology/"><u>[New] In 2024, Reimagining Game Logging with No-FBX Technology</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-realms-intersecting-delving-into-vr-augmented-and-mixed-immersion/"><u>[New] Realms Intersecting Delving Into VR, Augmented & Mixed Immersion</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-easy-steps-to-document-video-calls-for-2024/"><u>[Updated] Easy Steps to Document Video Calls for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-pitch-modulation-techniques-in-free-fire/"><u>[Updated] Pitch Modulation Techniques in Free Fire</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-shorts-dividing-profits-among-making-crew/"><u>2024 Approved YouTube Shorts Dividing Profits Among Making Crew</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deep-dive-into-apples-latest-projection-3rd-gen-4k-tv-review/"><u>Deep Dive Into Apple's Latest Projection: 3Rd Gen 4K TV Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-leading-trends-in-mobility-how-on-device-ai-and-next-gen-smartphones-are-shaping-the-future/"><u>Discover Leading Trends in Mobility: How On-Device AI and Next-Gen Smartphones Are Shaping the Future</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-plus-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Plus to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-a-step-by-step-technique-for-instagram-savings/"><u>In 2024, A Step-by-Step Technique for Instagram Savings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-silencing-unsolicited-messages-on-your-iphone/"><u>Step-by-Step Guide: Silencing Unsolicited Messages on Your iPhone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-easily-resolving-detected-no-power-source/"><u>Troubleshooting Tips: Easily Resolving 'Detected No Power Source'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-purpose-and-function-of-google-hangouts/"><u>Understanding the Purpose and Function of Google Hangouts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-apple-vision-pro-price-breakdown-key-features-and-insider-tips-covered-in-depth-zdnets-comprehensive-faq/"><u>Unveiling the Apple Vision Pro: Price Breakdown, Key Features & Insider Tips Covered in Depth | ZDNET's Comprehensive FAQ</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrade-your-iphone-audio-experience-with-these-proven-strategies-by-zdnet/"><u>Upgrade Your iPhone Audio Experience with These Proven Strategies by ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/youtube-buffering-dilemma-how-to-enjoy-uninterrupted-sound-in-chromefirefox-amidst-video-glitches/"><u>YouTube Buffering Dilemma: How to Enjoy Uninterrupted Sound in Chrome/Firefox Amidst Video Glitches</u></a></li>
 </ul></div>
 

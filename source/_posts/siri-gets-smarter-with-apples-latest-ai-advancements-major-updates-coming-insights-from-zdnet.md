@@ -1,7 +1,7 @@
 ---
 title: "Siri Gets Smarter with Apple's Latest AI Advancements: Major Updates Coming - Insights From ZDNet"
-date: 2024-10-12T16:06:44.446Z
-updated: 2024-10-19T16:06:19.416Z
+date: 2024-10-23T20:42:11.942Z
+updated: 2024-10-25T11:13:54.217Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -67,13 +74,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -107,6 +107,19 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -116,6 +129,19 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -129,10 +155,16 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -152,13 +184,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -166,13 +191,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,22 +236,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-unlock-limitless-creativity-with-free-after-effects-samples/"><u>[New] In 2024, Unlock Limitless Creativity with Free After Effects Samples</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-stepwise-guide-to-achieving-professional-grade-radial-effects/"><u>[New] Stepwise Guide to Achieving Professional-Grade Radial Effects</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-ultimate-playbook-navigating-youtube-etiquette/"><u>[Updated] 2024 Approved Ultimate Playbook Navigating YouTube Etiquette</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-discover-the-leading-free-ios-video-editor-a-comprehensive-guide-for-2024/"><u>[Updated] Discover the Leading Free iOS Video Editor A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cut-costs-and-boost-security-grab-keeper-password-manager-for-half-price-shop-at-zdnet-today/"><u>Cut Costs and Boost Security! Grab Keeper Password Manager for Half Price - Shop at ZDNET Today!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-techniques-for-pasting-text-based-languages-into-word-processors/"><u>Effective Techniques for Pasting Text-Based Languages Into Word Processors</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/explore-no-cost-neighborhood-deals-on-oodle-marketplace/"><u>Explore No-Cost Neighborhood Deals on Oodle Marketplace</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-light-to-dark-how-to-turn-on-night-mode-on-your-apple-device/"><u>From Light to Dark: How To Turn On Night Mode on Your Apple Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-disengaging-amber-and-crisis-warnings-on-ios-devices/"><u>Guide: Disengaging Amber and Crisis Warnings on iOS Devices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone 14 Pro Max</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/invisible-mode-unveiled-learn-how-to-browse-anonymously-in-major-web-browsers/"><u>Invisible Mode Unveiled: Learn How to Browse Anonymously in Major Web Browsers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-shopping-for-oculus-quest2-vr-games-a-comprehensive-guide/"><u>Mastering the Art of Shopping for Oculus Quest^2 VR Games: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solution-for-missing-text-messages-on-android-a-step-by-step-fix-guide/"><u>Solution for Missing Text Messages on Android: A Step by Step Fix Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/steps-to-remove-subtitles-from-your-amazon-prime-watch-party/"><u>Steps to Remove Subtitles From Your Amazon Prime Watch Party</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-buyers-guide-to-selecting-a-quality-secondhand-notebook-computer/"><u>The Buyer's Guide to Selecting a Quality Secondhand Notebook Computer</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-time-lapse-video-editing-software-free-and-paid/"><u>The Ultimate Guide to Time-Lapse Video Editing Software (Free & Paid)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-learn-to-produce-fb-video-ads-using-free-kit/"><u>[New] 2024 Approved Learn to Produce FB Video Ads Using Free Kit</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-quick-file-sync-pc-content-to-iphone-compatibility/"><u>[New] In 2024, Quick File Sync PC Content to iPhone Compatibility</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-quick-and-easy-steps-to-efficient-free-clock-use/"><u>[Updated] 2024 Approved Quick and Easy Steps to Efficient Free Clock Use</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-guide-converting-mp4-files-to-vob-format-using-your-windows-10-machine/"><u>Easy Guide: Converting MP4 Files To VOB Format Using Your Windows 10 Machine</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-facebook-live-via-zoom-techniques/"><u>Enhancing Facebook Live via Zoom Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-upgraded-sound-with-airpods-pro-2-transform-into-a-hearing-aid-and-enjoy-24-savings-today-exclusive-offer/"><u>Experience Upgraded Sound with AirPods Pro 2: Transform Into a Hearing Aid and Enjoy 24% Savings Today - Exclusive Offer!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-lava-yuva-2-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Lava Yuva 2 to iPad | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-change-the-impact-of-smart-lens-technology-on-biking-displays-cyclistinnovations/"><u>Navigating Change: The Impact of Smart Lens Technology on Biking Displays | CyclistInnovations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-apple-musics-student-pricing-a-comprehensive-guide/"><u>Unlocking Apple Music's Student Pricing: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-new-in-july-2024-windows-update-schedule-and-latest-service-pack-releases/"><u>What's New in July 2024: Windows Update Schedule & Latest Service Pack Releases</u></a></li>
 </ul></div>
 

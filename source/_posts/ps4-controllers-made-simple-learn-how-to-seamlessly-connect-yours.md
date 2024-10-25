@@ -1,7 +1,7 @@
 ---
 title: "PS4 Controllers Made Simple: Learn How to Seamlessly Connect Yours"
-date: 2024-10-17T16:12:17.901Z
-updated: 2024-10-19T16:01:11.180Z
+date: 2024-10-18T10:06:10.076Z
+updated: 2024-10-25T06:31:53.330Z
 categories:
   - BestProducts
 description: "This Article Describes PS4 Controllers Made Simple: Learn How to Seamlessly Connect Yours"
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 
  This article explains how to delete the[DNS cache](https://www.lifewire.com/what-is-a-dns-cache-817514) on a Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use the macOS Flush DNS Command
 
  If you’re experiencing internet connectivity issues, you may be able to fix them by resetting the[DNS](https://www.lifewire.com/what-is-dns-domain-name-system-2625855) cache with a[Terminal command](https://www.lifewire.com/mac-terminal-commands-4774997) . It should only take a few moments.  
@@ -37,33 +30,41 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 1. [Open Terminal](https://www.lifewire.com/macos-terminal-4774149) . One quick way is to press**Command** +**Space** to launch[Spotlight](https://www.lifewire.com/use-spotlight-mac-4586951) . Then, type**Terminal** and select it from the results.  
 ![Terminal highlighted in Spotlight on a Mac.](https://www.lifewire.com/thmb/QGngs7Naa2bQVtWQWVaRG0K34yc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Terminal-6e4ba7528a4c4220a28542f84f214676.jpg)  
  You can also access Terminal by navigating to**Go** \>**Utilities** \>**Terminal** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Type (or[copy and paste](https://www.lifewire.com/cut-copy-paste-on-mac-4427671) ) this command into Terminal and then press**Enter** :  
  `sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder`  
 ![Command highlighted in Terminal window](https://www.lifewire.com/thmb/S2U8vSx5U_PgZI2ZZR_uTWdGHcw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Command-e05651de1b2f44e7b99903d8f00910f5.jpg)  
  This command only works in[macOS](https://www.lifewire.com/what-is-macos-4691239) 10.12 Sierra and newer. If you have an older version, check the next section for the correct command.
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Type your password and then press**return** . The DNS cache will be reset immediately, but there will be no message to that effect. When a new line appears, it indicates the command has been carried out.  
 ![Entering a password in Terminal on a Mac.](https://www.lifewire.com/thmb/hvFn07N8xnjZ9XJQvgMitPvCTVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Password-902f4015f672459598066969c7900b2f.jpg)  
 The password will not appear in Terminal as you type it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Flush DNS on Mac OS X
@@ -78,10 +79,10 @@ The password will not appear in Terminal as you type it.
 * **Tiger** : lookupd -flushcache
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Does Flushing DNS Do?
@@ -132,21 +133,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-best-9-virtual-mic-recorders-to-enhance-remote-sessions-23/"><u>[New] 2024 Approved Best 9 Virtual Mic Recorders to Enhance Remote Sessions ('23)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-from-monochrome-to-multicolor-grading-journey/"><u>[New] 2024 Approved From Monochrome to Multicolor Grading Journey</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-conversational-slides-with-powerpoints-speech-features/"><u>[New] Crafting Conversational Slides with PowerPoint's Speech Features</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/wiftly-adjust-video-speeds-a-users-guide-to-youtube-features-for-2024/"><u>[New] Swiftly Adjust Video Speeds A User's Guide to YouTube Features for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-choosing-the-most-effective-9-multimedia-devices-ios-android/"><u>[Updated] In 2024, The Ultimate Guide to Choosing the Most Effective 9 Multimedia Devices (iOS, Android)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-hits-and-misses-the-photographers-account/"><u>2024 Approved Hits and Misses The Photographer's Account</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/banish-code-19-a-comprehensive-walkthrough-for-windows-users/"><u>Banish Code 지오구19: A Comprehensive Walkthrough for Windows Users</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/composing-the-unseen-score-trailer-music-magic/"><u>Composing the Unseen Score Trailer Music Magic</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/facebook-marketplace-puzzle-solved-reasons-for-inaccessibility-and-how-to-fix-them/"><u>Facebook Marketplace Puzzle Solved: Reasons for Inaccessibility and How to Fix Them</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-long-is-the-validity-of-a-mailcom-email-address/"><u>How Long Is the Validity of a Mail.com Email Address?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-zoom-win10/"><u>In 2024, A Comprehensive Guide to Mastering Zoom (Win10)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-how-to-navigating-and-running-command-prompt-on-windows-111087/"><u>Quick How-To: Navigating and Running Command Prompt on Windows 11/10/8/7</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-strategies-for-locating-individuals-on-facebook/"><u>Simple Strategies for Locating Individuals on Facebook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-securing-emails-with-your-domain-in-mailapp-for-macos/"><u>Step-by-Step Guide: Securing Emails with Your Domain in Mail.app for macOS</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-uniden-r3-radar-scanner-a-look-at-its-sturdy-design-and-impressive-sensing-distance/"><u>Top-Rated Uniden R3 Radar Scanner: A Look at Its Sturdy Design and Impressive Sensing Distance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-troubleshooting-for-when-winhttpdll-is-absent-or-unlocatable/"><u>Ultimate Troubleshooting for When Winhttp.dll Is Absent or Unlocatable</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-spotlight-play-how-to-stand-out-with-youtube-gaming/"><u>[Updated] In 2024, Spotlight Play How to Stand Out with YouTube Gaming</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722853498112-astonishing-emoji-revelations-youll-never-expect-to-know/"><u>Astonishing Emoji Revelations You'll Never Expect to Know</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-practices-for-installing-and-refreshing-your-epson-et-3760-windows-operating-system-driver/"><u>Best Practices for Installing and Refreshing Your Epson ET-3760 Windows Operating System Driver</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-trust-your-privacy-with-chatgpt-a-look-at-potential-risks/"><u>Can You Trust Your Privacy with ChatGPT? A Look at Potential Risks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722847515031-comprehensive-fixes-for-missing-system-file-errors-in-your-pc/"><u>Comprehensive Fixes for Missing System File Errors in Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connect-ps-vr-to-pc-a-comprehensive-tutorial-for-gamers/"><u>Connect PS VR to PC - A Comprehensive Tutorial for Gamers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/creating-captivating-narratives-for-video-blogs/"><u>Creating Captivating Narratives for Video Blogs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23-ultra-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23 Ultra Bootloader Easily</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/kinemasters-guide-engineering-impeccable-video-continuity/"><u>Kinemaster's Guide Engineering Impeccable Video Continuity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-safe-listing-a-step-by-step-guide-for-gmail-users/"><u>Mastering the Art of Safe-Listing: A Step-by-Step Guide for Gmail Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mastery-in-making-your-art-a-successful-nft-with-top-7-tools/"><u>Mastery in Making Your Art a Successful NFT with Top 7 Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-x-for-filmmakers-creating-visually-stunning-videos/"><u>New In 2024, Final Cut Pro X for Filmmakers Creating Visually Stunning Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-reviving-a-deactivated-snapchat-profile/"><u>Step-by-Step Guide: Reviving a Deactivated Snapchat Profile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-restore-your-windows-10-search-capabilities-today/"><u>Step-by-Step: Restore Your Windows 10 Search Capabilities Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-quick-guide-to-snapchat-emoji-meanings/"><u>The Quick Guide to Snapchat Emoji Meanings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-fixing-d3d9dll-errors-when-its-not-found/"><u>The Ultimate Guide to Fixing d3d9.dll Errors When It's Not Found</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-strategies-to-tackle-starfield-high-cpu-usage-concerns-updated/"><u>Top Strategies to Tackle Starfield High CPU Usage Concerns - Updated</u></a></li>
 </ul></div>
 

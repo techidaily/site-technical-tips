@@ -1,7 +1,7 @@
 ---
 title: All Set for Samsung's 2025 Launch Event? Here's Everything You Need to Know About Dates, News & Speculated Product Releases
-date: 2024-10-14T16:07:05.115Z
-updated: 2024-10-19T16:12:02.663Z
+date: 2024-10-21T04:39:50.303Z
+updated: 2024-10-25T09:14:50.307Z
 categories:
   - BestProducts
 description: This Article Describes All Set for Samsung's 2025 Launch Event? Here's Everything You Need to Know About Dates, News & Speculated Product Releases
@@ -33,43 +33,43 @@ thumbnail: https://www.lifewire.com/thmb/zh_dyhkxmXVk_EAvm9IfUwknN9Y=/540x405/fi
  The previous Unpacked was on July 10, 2024; the company announced the latest Galaxy Z Flip and Z Fold models, along with Galaxy Buds, Galaxy Watches, and the new Galaxy Ring.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Watch Samsung Unpacked
 
  Samsung's events happen around the world, but the company streams it live on its website and YouTube channels. You can learn how to[watch it here](https://www.lifewire.com/watch-samsung-unpacked-online-5095263) .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Products Will Be Released?
 
  The last January event featured the latest versions of Samsung's flagship Galaxy S phones, so we expect the same for 2025\. We'll see the[Galaxy S25/S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) and[S25 Ultra](https://www.lifewire.com/samsung-galaxy-s25-ultra-8639667) for sure. We might also see a new Galaxy Tablet, but we'll have to wait and see.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Previous Unpacked Events Announced
 
  Curious about what Samsung's announced at the last event? We've got the details below. The Galaxy Flip and Fold series are the[newest phones from the tech giant](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### July 2024 Unpacked Event
 
@@ -90,16 +90,10 @@ thumbnail: https://www.lifewire.com/thmb/zh_dyhkxmXVk_EAvm9IfUwknN9Y=/540x405/fi
  The foldable devices–the Flip 6 and Fold 6–continue the company's dedication to artificial intelligence with new photo editing and generation features. One notable one has your phone generating a fully rendered image based on your sketch.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Latest Samsung News
@@ -127,16 +121,22 @@ thumbnail: https://www.lifewire.com/thmb/zh_dyhkxmXVk_EAvm9IfUwknN9Y=/540x405/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-safely-download-facebook-media-on-windowsmac-for-2024/"><u>[New] Safely Download Facebook Media on Windows/Mac for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-synergy-of-content-and-platform-for-peak-performance/"><u>[Updated] The Synergy of Content and Platform for Peak Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/acemagic-unveils-preview-of-revolutionary-dual-screen-x1-early-orders-to-benefit-from-exclusive-discounts/"><u>AceMagic Unveils Preview of Revolutionary Dual-Screen X1: Early Orders to Benefit From Exclusive Discounts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-hashtags-to-metadata-unraveling-the-mystery-of-tagging-in-digital-spaces/"><u>From Hashtags to Metadata: Unraveling the Mystery of Tagging in Digital Spaces</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/fundamental-skills-for-producing-emotionally-driven-testimonials/"><u>Fundamental Skills for Producing Emotionally-Driven Testimonials</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-officejet-opndt-4655-driver-update-and-download-guide/"><u>HP OfficeJet ˈoʊpɪnˌdʒɛt 4655 Driver Update & Download Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-honor-play-8t-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Honor Play 8T Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reestablishing-internet-access-resolving-wi-fi-disconnection-on-surface-pro-devices/"><u>Reestablishing Internet Access: Resolving Wi-Fi Disconnection on Surface Pro Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tier-online-experiences-your-guide-to-the-webs-most-acclaimed-and-trafficked-sites/"><u>Top-Tier Online Experiences: Your Guide to the Web's Most Acclaimed and Trafficked Sites</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-resolving-issues-with-non-functional-amazon-prime-video-captions/"><u>Troubleshooting Tips: Resolving Issues with Non-Functional Amazon Prime Video Captions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-the-price-difference-uber-vs-taxi-costs-revealed/"><u>Understanding the Price Difference: Uber vs Taxi Costs Revealed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-iphone-photography-in-the-dark/"><u>[New] The Art of iPhone Photography in the Dark</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-pioneering-change-a-step-by-step-guide-to-reinventing-your-tiktok-identity/"><u>2024 Approved Pioneering Change A Step-by-Step Guide to Reinventing Your TikTok Identity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-pathway-to-seamless-integration-of-voice-inputs-in-powerpoint-presentations/"><u>2024 Approved The Pathway to Seamless Integration of Voice Inputs in PowerPoint Presentations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-xiaomi-redmi-k70e-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Xiaomi Redmi K70E to Roku | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-itel-a60s-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Itel A60s.</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-for-windows-error-d3dx943dll-could-not-be-loaded/"><u>Effective Remedies for Windows Error 'd3dx9_43.dll Could Not Be Loaded'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-strategies-to-overcome-a-lynel-in-zelda-botw-a-comprehensive-guide/"><u>Essential Strategies to Overcome a Lynel in Zelda: BOTW - A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/going-big-or-going-home-master-the-art-of-creating-viral-videos-on-youtube-in-8-steps/"><u>Going Big or Going Home: Master the Art of Creating Viral Videos on YouTube in 8 Steps</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-sony-xperia-5-v-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Sony Xperia 5 V without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/install-amd-radeon-cards-most-recent-software-version-v2410-now/"><u>Install AMD Radeon Card's Most Recent Software Version v24.10 Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/our-favorite-email-apps-for-iphone-2024/"><u>Our Favorite Email Apps for iPhone 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/platform-dominance-a-comprehensive-twitch-vs-youtube-review-for-2024/"><u>Platform Dominance A Comprehensive Twitch Vs. YouTube Review for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-your-netgear-hardware-the-official-default-password-directory-for-july-2024/"><u>Secure Your Netgear Hardware: The Official Default Password Directory for July 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-reaching-120-frames-per-second-in-your-ps5-games/"><u>The Ultimate Tutorial: Reaching 120 Frames Per Second in Your PS5 Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-must-have-mobile-apps-for-boosting-website-visitors/"><u>Top 7 Must-Have Mobile Apps for Boosting Website Visitors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-childrens-films-available-on-netflix-streaming/"><u>Top Children's Films Available on Netflix Streaming</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/worth-the-investment-mesh-wi-fi-explored/"><u>Worth the Investment: Mesh Wi-Fi Explored</u></a></li>
 </ul></div>
 

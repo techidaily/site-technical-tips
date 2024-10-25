@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Deal Alert: Apple Slashes Prices on the M2 Mac Mini to an Unprecedented Low at $479 – Read More Inside | ZDNet"
-date: 2024-10-12T16:04:34.245Z
-updated: 2024-10-19T16:14:01.829Z
+date: 2024-10-17T23:24:21.019Z
+updated: 2024-10-25T10:20:03.037Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -88,10 +88,10 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -119,10 +119,10 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -140,16 +140,10 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -198,17 +192,21 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-best-look-ups-for-gopro-movies-select-15-luts/"><u>[New] Best Look-Ups for GoPro Movies Select 15 LUTs</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-electronic-conference-logging-for-2024/"><u>[New] Electronic Conference Logging for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-rotate-youtube-videos-by-any-angle/"><u>[Updated] 2024 Approved How to Rotate YouTube Videos by Any Angle</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movswf-movavi/"><u>无需花钱，将MOV文件转化为SWF：终极移动视频编辑器 - Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/aiff-op-mp4-verzamelen-veilig-en-vrijetijdsbruikend-online-konverter-movavi/"><u>AIFF Op MP4 Verzamelen: Veilig en Vrijetijdsbruikend Online Konverter - Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conversao-de-dados-gratuitos-para-mp4-on-line-pelo-movavi-tod-para-mpeg-sem-custo-adicional/"><u>Conversão De Dados Gratuitos Para MP4 On-Line Pelo Movavi - TOD Para MPEG Sem Custo Adicional</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-asus-rog-phone-8-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/harnessing-the-power-of-animated-graphics/"><u>Harnessing the Power of Animated Graphics</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-chromebook-video-editing-tools/"><u>New Top Chromebook Video Editing Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-on-implementing-stunning-visual-enhancements-in-imovie/"><u>Ultimate Tutorial on Implementing Stunning Visual Enhancements in iMovie</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unparalleled-vr-game-setups-top-8-edition/"><u>Unparalleled VR Game Setups Top 8 Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1726224448302-wav-mpeg-movavi/"><u>WAV 파일을 MPEG로 바꾸기: 원료 없이 웹에서 제공 - Movavi</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-crafting-compelling-storylines-with-top-20-anime-influences-on-tiktok/"><u>[New] In 2024, Crafting Compelling Storylines with Top 20 Anime Influences on TikTok</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-secrets-unveiled-complete-guide-to-live-tv-recording-via-windows-pcs/"><u>[New] Secrets Unveiled Complete Guide to Live TV Recording via Windows PCs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-streamline-your-gaming-memories-easy-minecraft-recordings-on-macs/"><u>[New] Streamline Your Gaming Memories Easy Minecraft Recordings on Macs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-potential-of-gopro-for-time-lapse-artistry/"><u>[New] Unlocking the Potential of GoPro for Time Lapse Artistry</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-your-profits-youtubes-studio-monetization-simplified-for-2024/"><u>[Updated] Elevate Your Profits YouTube's Studio Monetization Simplified for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-essential-guide-to-firefox-split-screen-feature-for-2024/"><u>[Updated] Essential Guide to Firefox Split Screen Feature for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-how-to-initially-set-up-your-new-ipad-insights-from-zdnet/"><u>Comprehensive Guide: How to Initially Set Up Your New iPad - Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-realme-narzo-60-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Realme Narzo 60 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-16-vs-iphone-14-deciding-if-its-time-for-an-upgrade-expert-insights-from-zdnet/"><u>IPhone 16 vs iPhone 14: Deciding If It's Time for an Upgrade – Expert Insights From ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456160101-overcome-your-iphones-control-center-problem-with-8-proven-fixes/"><u>Overcome Your iPhone's Control Center Problem with 8 Proven Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pixel-9-the-trailblazer-in-android-phones-with-new-life-saving-satellite-emergency-features-exclusively-on-googles-latest-device-tech-news-by-zdnet/"><u>Pixel 9: The Trailblazer in Android Phones with New Life-Saving Satellite Emergency Features, Exclusively on Google's Latest Device | Tech News by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-leads-with-galaxy-ai-advancements-as-google-faces-antitrust-setback-in-tech-industry-rankings/"><u>Samsung Leads with Galaxy AI Advancements as Google Faces Antitrust Setback in Tech Industry Rankings</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/standard-edition-of-stellar-wiping-tool-version-5-optimized-for-windows-with-scheduled-tasks/"><u>Standard Edition of Stellar Wiping Tool Version 5 - Optimized for Windows with Scheduled Tasks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-picks-unbeatable-best-buy-offers-in-june-2024-spotted-by-zdnet/"><u>Top Picks: Unbeatable Best Buy Offers in June 2024 - Spotted by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-childrens-tablets-as-endorsed-by-parents-insights-from-zdnet/"><u>Top-Rated Children's Tablets as Endorsed by Parents | Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-vs-apple-silicon-can-arm-processing-give-microsoft-the-edge/"><u>Windows Vs. Apple Silicon: Can ARM Processing Give Microsoft the Edge?</u></a></li>
 </ul></div>
 

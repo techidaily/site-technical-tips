@@ -1,7 +1,7 @@
 ---
 title: "Behind the Screens: Discover Which Smartphones Top Our List at ZDNet Reviews"
-date: 2024-10-16T16:13:29.053Z
-updated: 2024-10-19T16:11:58.861Z
+date: 2024-10-19T10:43:08.471Z
+updated: 2024-10-24T19:22:06.528Z
 tags:
   - apple
 categories:
@@ -47,10 +47,10 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -66,10 +66,10 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -116,21 +116,18 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-staying-informed-recent-facebook-alterations/"><u>[New] In 2024, Staying Informed Recent Facebook Alterations</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-decoding-the-mystery-of-where-are-my-youtube-comments/"><u>2024 Approved Decoding the Mystery of Where Are My YouTube Comments?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-overcoming-screen-blackouts-in-recording-tools/"><u>2024 Approved Overcoming Screen Blackouts in Recording Tools</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-the-ultimate-guide-to-charging-up-your-video-empire/"><u>2024 Approved The Ultimate Guide to Charging Up Your Video Empire</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-soon-will-expire-warning-on-microsoft-os/"><u>Avoiding Soon Will Expire Warning on Microsoft OS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/beginners-guide-initiating-your-fresh-laptop-experience-with-5-key-actions/"><u>Beginner's Guide: Initiating Your Fresh Laptop Experience with 5 Key Actions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/buyers-guide-critical-tips-and-insights-for-acquiring-the-right-video-recording-hardware/"><u>Buyer's Guide: Critical Tips and Insights for Acquiring the Right Video Recording Hardware</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/capturing-your-screen-a-step-by-step-guide-for-hp-notebook-users/"><u>Capturing Your Screen: A Step-by-Step Guide for HP Notebook Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/crucial-considerations-before-purchasing-your-next-high-quality-projector/"><u>Crucial Considerations Before Purchasing Your Next High-Quality Projector</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-skype-interview-advice-mastering-remote-meetings-in-2nd4/"><u>Essential Skype Interview Advice: Mastering Remote Meetings in 2nD4</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-xiaomi-redmi-note-12-pro-4g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Xiaomi Redmi Note 12 Pro 4G?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Nokia C12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/leverage-the-power-of-google-assistant-on-pc-easy-setup-and-usage-guide/"><u>Leverage the Power of Google Assistant on PC: Easy Setup and Usage Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-cross-platform-communication-facilitating-facetime-on-windows-systems/"><u>Mastering Cross-Platform Communication: Facilitating FaceTime on Windows Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-start-guide-deploying-windows-10-on-an-empty-hard-disk-with-full-instructions/"><u>Quick Start Guide: Deploying Windows 10 on an Empty Hard Disk with Full Instructions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unveiling-the-secrets-3dconnexion-driver-setup/"><u>Unveiling the Secrets: 3Dconnexion Driver Setup</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ree-frame-perfection-on-youtube-your-ultimate-guidebook/"><u>[New] Free Frame Perfection on YouTube - Your Ultimate Guidebook</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ext-gen-videostreaming-hubs-triumph-beyond-youtube/"><u>[New] Next-Gen Videostreaming Hubs Triumph Beyond Youtube</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-decoding-the-social-code-top-30-tips-for-marketing-mastery/"><u>[Updated] In 2024, Decoding the Social Code Top 30 Tips for Marketing Mastery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-hooking-up-three-screens-to-one-computer-system/"><u>Expert Tips for Hooking Up Three Screens to One Computer System</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/flawless-video-calls-from-laptop-using-the-desktop-whatsapp-browser/"><u>Flawless Video Calls From Laptop Using the Desktop WhatsApp Browser</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-x3daudiodll-missing-or-not-found-errors/"><u>How to Fix X3daudio.dll Missing or Not Found Errors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-11-pro-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 11 Pro Screen | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-pro-tips-how-to-effortlessly-record-and-send-voice-messages/"><u>IPhone Pro-Tips: How To Effortlessly Record and Send Voice Messages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-evolution-continues-tcl-boosts-its-lineup-with-a-staggering-19-upgrades-to-the-q-and-s-series-smart-tvs/"><u>The Evolution Continues: TCL Boosts Its Lineup with a Staggering 19 Upgrades to the Q and S Series Smart TVs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-realme-10t-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme 10T 5G FRP Bypass</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-top-strategies-for-setting-up-your-super-bowl-viewing-experience/"><u>Ultimate Guide: Top Strategies for Setting Up Your Super Bowl Viewing Experience</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unraveling-the-distinctions-macbook-air-vs-macbook-pro-explored/"><u>Unraveling the Distinctions: MacBook Air Vs. MacBook Pro Explored</u></a></li>
 </ul></div>
 

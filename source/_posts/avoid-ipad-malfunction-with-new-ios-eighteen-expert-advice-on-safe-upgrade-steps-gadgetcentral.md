@@ -1,7 +1,7 @@
 ---
 title: Avoid iPad Malfunction with New iOS Eighteen - Expert Advice on Safe Upgrade Steps | GadgetCentral
-date: 2024-10-16T16:05:24.109Z
-updated: 2024-10-19T16:10:49.034Z
+date: 2024-10-22T07:08:05.513Z
+updated: 2024-10-24T21:37:32.816Z
 tags:
   - apple
 categories:
@@ -32,26 +32,33 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
@@ -66,28 +73,28 @@ After installing the latest iOS update, your iPhone will restart.
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -96,13 +103,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -175,17 +175,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-best-in-class-ultra-fast-lapses/"><u>[New] Best-in-Class Ultra Fast Lapses</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-zap-extra-details-sharpen-logitech-webcam-recordings/"><u>[New] In 2024, Zap Extra Details - Sharpen Logitech Webcam Recordings</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-ultimate-tutorial-for-immersive-iphone-vr-viewing/"><u>[Updated] In 2024, The Ultimate Tutorial for Immersive iPhone VR Viewing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/como-habilitar-o-movavi-video-editor-no-mac-passo-a-passo/"><u>Como Habilitar O Movavi Video Editor No Mac - Passo a Passo</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-9-superior-final-cut-pro-substitutes-for-windows-platforms-202n4-edition/"><u>Discover the Ultimate List of 9 Superior Final Cut Pro Substitutes for Windows Platforms - 202N4 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723002150352-fix-apex-legends-wont-launch-fast-and-simple-solutions/"><u>Fix Apex Legends Won't Launch: Fast & Simple Solutions!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-transformation-of-mpeg-videos-to-mp4-seamless-editing-with-movavis-tools/"><u>Free Online Transformation of MPEG Videos to MP4 - Seamless Editing with Movavi's Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-do-vector-databases-contribute-to-accelerating-artificial-intelligence/"><u>How Do Vector Databases Contribute to Accelerating Artificial Intelligence?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-add-narration-and-voiceovers-to-your-video/"><u>How to Add Narration and Voiceovers to Your Video</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-social-media-savvy-instagrams-best-tips-for-gif-uploads-and-posting/"><u>In 2024, Social Media Savvy Instagram's Best Tips for GIF Uploads and Posting</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-25-free-presentation-software-and-applications/"><u>Top 25 Free Presentation Software and Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-distinctiveness-of-auto-gpt-in-relation-to-chatgpt/"><u>Understanding the Distinctiveness of Auto-GPT in Relation to ChatGPT</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unlocking-video-metrics-incorporating-tags-wisely/"><u>[Updated] 2024 Approved Unlocking Video Metrics Incorporating Tags Wisely</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-securing-your-digital-quest-with-savvy-screenshots/"><u>[Updated] In 2024, Securing Your Digital Quest with Savvy Screenshots</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-peak-visionary-workspace-appraisal-for-2024/"><u>[Updated] Peak Visionary Workspace Appraisal for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-apple-watch-users-troubleshoot-ghostly-screen-interactions-solutions-and-tips/"><u>1. 'Apple Watch Users Troubleshoot Ghostly Screen Interactions: Solutions and Tips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-power-of-apples-m1-max-clip/"><u>2024 Approved The Power of Apple’s M1 Max Clip</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accelerated-artistry-instant-collage-creation-on-fb/"><u>Accelerated Artistry Instant Collage Creation on FB</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-productivity-anywhere-anytime-with-carry-on-server-high-performance-ampere-altra-cpu-and-unprecedented-memory-specs-for-tech-enthusiasts/"><u>Boost Your Productivity Anywhere, Anytime with Carry-On Server - High Performance Ampere Altra CPU & Unprecedented Memory Specs for Tech Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-walkthrough-for-crafting-and-sharing-screen-snaps-on-a-laptop-or-desktop-computer/"><u>Complete Walkthrough for Crafting and Sharing Screen Snaps on a Laptop or Desktop Computer</u></a></li>
+<li><a href="https://fox-access.techidaily.com/effortless-methodology-for-viewing-highly-regarded-youtube-interactions/"><u>Effortless Methodology for Viewing Highly Regarded YouTube Interactions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/empowering-your-meta-quest-3-with-ai-beating-apples-vision-pro-by-stages-activation-guide-techspot/"><u>Empowering Your Meta Quest 3 with AI: Beating Apple's Vision Pro by Stages - Activation Guide | TechSpot</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/i-tested-apples-push-towards-upgrading-iphones-insights-from-a-personal-experiment/"><u>I Tested Apple's Push Towards Upgrading iPhones - Insights From a Personal Experiment</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-depth-tips-to-revolutionize-youtube-summary-writing/"><u>In-Depth Tips to Revolutionize YouTube Summary Writing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/newly-revealed-error-in-latest-ipad-release-strategies-for-apples-swift-resolution/"><u>Newly Revealed Error in Latest iPad Release: Strategies for Apple's Swift Resolution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-picks-unbeatable-headphone-offers-in-march-2023-zdnet/"><u>Top Picks: Unbeatable Headphone Offers in March 2023 | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-libgdkwin32-20-missing-dll-files/"><u>Troubleshooting Tips for 'Libgdk_win32-2.0' Missing DLL Files</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Apple Allegedly Designing Budget-Friendly Augmented Reality Eyewear & Vision Support Gear, Sources Say | Spotlight on Tech by ZDNET
-date: 2024-10-18T16:05:51.007Z
-updated: 2024-10-19T16:03:50.586Z
+date: 2024-10-24T10:25:11.995Z
+updated: 2024-10-25T10:59:19.393Z
 tags:
   - apple
 categories:
@@ -53,10 +53,10 @@ That way, they're not suddenly dropped into a whole new world, but they can slow
 **Also: [Two breakthroughs made 2023 tech's most innovative year in over a decade](https://www.zdnet.com/article/two-breakthroughs-made-2023-techs-most-innovative-year-in-over-a-decade/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  2\. Identify your key moments
@@ -77,6 +77,13 @@ Some UI elements translate directly from iPadOS to VisionOS, but others aren't a
 
 One area to pay particular attention to is when you use hover effects. When you hover over a button in a flat UI, you just need to see some highlighting. But when you hover over -- or in front of -- something in VR space, you've got the entire room to work in. So pay attention to how things look and feel, and try to avoid inducing vertigo by rapidly moving objects and buttons. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. Utilize grid systems where appropriate
 
 Apple says that apps designed with the [iPadOS grid system](https://developer.apple.com/design/human-interface-guidelines/designing-for-ios) will translate very nicely to the Vision Pro. The grid works well for designing windows. Point sizes translate well from the iPad to Vision Pro. 
@@ -84,10 +91,10 @@ Apple says that apps designed with the [iPadOS grid system](https://developer.ap
 But as you deal with more 3D-centric objects, grid systems break down. Once you're moving in 3D space, be careful about where you place your controls. For example, it can be somewhat confusing if you have nearby controls for a faraway object. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  5\. Incorporate sound design strategically
@@ -101,10 +108,10 @@ To that end, even if you're building a non-entertainment app that would normally
 And while you're at it, allow your users to control the sound, setting its volume and even turning it off. Give the sound cues that may be helpful, but give users control over how those cues are applied. Here's [a great resource from Apple on sound design](https://developer.apple.com/wwdc23/10271). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  6\. Focus on key details, but don't overwhelm
@@ -112,13 +119,6 @@ And while you're at it, allow your users to control the sound, setting its volum
 Apple recommends always rendering a ground plane so users feel grounded. If you're putting someone inside a theatre, provide key details (like a stage, lighting, and curtains), but don't get carried away trying to reproduce the cola stains in the carpet or that unique crackle that comes from walking over scraps of petrified popcorn. If you're rendering an outdoor landscape, show slowly moving clouds but keep things subtle. 
 
 Of course, if you're putting people into a game where the whole idea is to overwhelm them, then go for it. But Apple is much more interested in using VR and AR as an augmented tool, rather than purely as a gaming platform. And in that context, it's probably wise to avoid making your customers barf up their lunches inside their $3,500+ head-mounted [uncanny valley](https://en.wikipedia.org/wiki/Uncanny%5Fvalley)in a can. 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  7\. Use the VisionOS simulator
 
@@ -167,22 +167,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-audience-expansion-masterclass-skyrocketing-your-youtube-numbers/"><u>[New] 2024 Approved Audience Expansion Masterclass Skyrocketing Your Youtube Numbers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-transform-your-twitter-usage-best-unfollower-tools-reviewed/"><u>[Updated] In 2024, Transform Your Twitter Usage Best Unfollower Tools Reviewed</u></a></li>
-<li><a href="https://win-superb.techidaily.com/comprehensive-resource-on-advanced-image-flipping-using-flip-builder-technology/"><u>Comprehensive Resource on Advanced Image Flipping Using Flip Builder Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-free-on-demand-ai-learning-programs-to-elevate-your-skills/"><u>Discover Free, On-Demand AI Learning Programs to Elevate Your Skills</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-clientserver-side-vpn-error-code-800/"><u>Effective Solutions for Client/Server-Side VPN Error Code 800</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-family-fun-top-six-online-platforms-for-kids-movies/"><u>Free Family Fun: Top Six Online Platforms for Kids' Movies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-configure-view-options-in-macos-finder-for-better-file-management/"><u>How to Configure View Options in macOS Finder for Better File Management</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/hulu-on-lg-smart-tvs-a-simple-tutorial-for-seamless-viewing/"><u>Hulu on LG Smart TVs: A Simple Tutorial for Seamless Viewing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-atandt-wireless-connectivity-a-closer-look-at-their-roaming-rules/"><u>Navigating Through AT&t Wireless Connectivity: A Closer Look at Their Roaming Rules</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-12-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your iPhone 12</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-strategies-for-elevating-your-aspects-in-asmr-production/"><u>Proven Strategies for Elevating Your Aspects in ASMR Production</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revitalize-your-samsung-soundbar-with-these-easy-reset-tips/"><u>Revitalize Your Samsung Soundbar with These Easy Reset Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-d3dx941dll-file-not-detected-issue/"><u>Solving the d3dx9_41.dll File Not Detected Issue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/suddenly-no-more-chatgpt-in-italy-the-banned-reason/"><u>Suddenly No More ChatGPT in Italy: The Banned Reason</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-videobearbeitungsprogramme-fur-windows-10-8-and-7-perfekt-aufzeichnen-und-teilen/"><u>Top Videobearbeitungsprogramme Für Windows 10, 8 & 7: Perfekt Aufzeichnen Und Teilen</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-troubleshooting-lol-launch-issues/"><u>Ultimate Guide: Troubleshooting LoL Launch Issues</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-revolutionize-your-video-content-converting-to-vr-made-easy/"><u>Updated Revolutionize Your Video Content Converting to VR Made Easy</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-televising-streamed-social-media-vids-in-households/"><u>[New] Televising Streamed Social Media Vids in Households</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-aesthetic-instagram-panoramas-for-2024/"><u>[Updated] Aesthetic Instagram Panoramas for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-toolkit-disabling-background-noise-during-gmeets/"><u>2024 Approved The Ultimate Toolkit Disabling Background Noise During GMeets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-elite-lineup-leading-mac-computers-unveiled-tech-insights/"><u>Discover the Elite Lineup: Leading Mac Computers Unveiled | Tech Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/identifying-surveillance-how-to-spot-if-someones-using-an-airtag-for-tracking-expert-advice/"><u>Identifying Surveillance: How to Spot If Someone's Using an AirTag for Tracking | Expert Advice</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seaside-shots-comparison-gopro-hero5-and-sjcam-sj7/"><u>In 2024, Seaside Shots Comparison GoPro Hero5 & SJCAM SJ7</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/navigating-screen-space-enlargement-on-youtube-for-2024/"><u>Navigating Screen Space Enlargement on YouTube for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/oneplus-6t-smartphone-review-unmatched-specs-at-an-incredible-price-point/"><u>OnePlus 6T Smartphone Review: Unmatched Specs at an Incredible Price Point</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/post-prime-day-offer-snag-the-apple-ipad-10th-generation-for-only-299-prime-finds/"><u>Post-Prime Day Offer: Snag the Apple iPad 10Th Generation for Only $299 - Prime Finds!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/refresh-and-disinfect-expert-tips-on-how-to-clean-your-tv-clicker/"><u>Refresh & Disinfect: Expert Tips on How to Clean Your TV Clicker</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/skip-chatgpt-embrace-these-7-automatic-coding-programs-for-developers/"><u>Skip ChatGPT, Embrace These 7 Automatic Coding Programs for Developers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-acer-bargains-on-black-friday-and-cyber-monday-2024/"><u>Top Acer Bargains on Black Friday & Cyber Monday 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/web-connectivity-testing-101-the-best-practices-for-pinging-sites/"><u>Web Connectivity Testing 101: The Best Practices for Pinging Sites</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-reports-apples-unwavering-tight-hold-over-iphones-spark-debate-across-europe/"><u>ZDNet Reports: Apple's Unwavering Tight Hold Over iPhones Spark Debate Across Europe</u></a></li>
 </ul></div>
 

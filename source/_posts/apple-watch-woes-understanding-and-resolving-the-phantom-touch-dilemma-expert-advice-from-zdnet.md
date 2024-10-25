@@ -1,7 +1,7 @@
 ---
 title: "Apple Watch Woes: Understanding and Resolving the Phantom Touch Dilemma | Expert Advice From ZDNet"
-date: 2024-10-15T16:05:49.746Z
-updated: 2024-10-19T16:10:49.918Z
+date: 2024-10-17T20:14:51.717Z
+updated: 2024-10-25T04:51:39.475Z
 tags:
   - apple
 categories:
@@ -72,16 +72,10 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You should buy the Apple Watch Series 10 if...
@@ -109,10 +103,10 @@ The Watch Series 10 is the newest Apple Watch you can buy. History suggests it w
 Not only does the Watch Series 10 offer new features like sleep apnea detection, temperature sensing, and a depth gauge, but it's also designed to maximize [WatchOS 11](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) and benefits from a seamless integration with Apple's latest [iPhone 16 models](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/), which run on [iOS 18](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. It's time to upgrade
@@ -131,13 +125,6 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. You want an affordable option
 
 If you want to experience the integrated benefits of the Apple ecosystem on your wrist or upgrade your smartwatch without breaking the bank, older models, such as the [Series 8](https://www.zdnet.com/article/apple-watch-series-8-review/) or [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/), are a great way to save a few dollars while still nabbing excellent features. While the Series 8 lacks the updated elements offered in the Series 10 (and even the Series 9), it's still a solid watch with the ability to do many of the basic tasks users require: track workouts, manage calls and texts, sync with your iPhone, and more. 
@@ -147,10 +134,10 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C20333517-e200-4733-8afd-d64ed5fd7345%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. You're looking for blood oxygen sensors
@@ -158,6 +145,13 @@ While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/)
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -193,18 +187,24 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-best-5-for-high-speed-video-capture-tech/"><u>[New] 2024 Approved Best 5 for High-Speed Video Capture Tech</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-breakthrough-strategies-for-rapid-fb-media-delivery/"><u>[New] Breakthrough Strategies for Rapid FB Media Delivery</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/dominate-youtube-with-effective-content-strategies/"><u>Dominate YouTube with Effective Content Strategies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/en-ligne-convertissez-gratuitement-vos-chansons-mp3-au-format-wav-grace-a-movavi/"><u>En Ligne, Convertissez Gratuitement Vos Chansons MP3 Au Format WAV Grâce À Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guiando-voce-na-criacao-de-imagens-originais-no-iphone-11-usando-o-programa-movavi-melhores-4-tecnicas/"><u>Guiando Você Na Criação De Imagens Originais No iPhone 11 Usando O Programa Movavi [Melhores 4 Técnicas]</u></a></li>
-<li><a href="https://article-helps.techidaily.com/how-to-edit-gopro-4k-video-for-2024/"><u>How to Edit GoPro 4K Video for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-it-when-youre-not-receiving-texts-on-android/"><u>How to Fix It When You're Not Receiving Texts on Android</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-resolve-hp-monitor-device-driver-concerns-on-various-versions-of-windows-11-8-and-7/"><u>How to Resolve HP Monitor Device Driver Concerns on Various Versions of Windows: 11, 8 & 7</u></a></li>
-<li><a href="https://win11.techidaily.com/image-editing-excellence-cutting-out-the-unwanted/"><u>Image Editing Excellence: Cutting Out the Unwanted</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-mp4-video-metadata-management-tools-top-picks/"><u>New 2024 Approved MP4 Video Metadata Management Tools Top Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/opus-wma-moviware/"><u>OPUS WMAからフリーウェブ上での動画再生に最適化 - MoviWare</u></a></li>
-<li><a href="https://win-lab.techidaily.com/revolutionizing-gaming-support-unveiling-microsofts-new-artificial-intelligence-chatbot-for-xbox-assistance-zdnet-insights/"><u>Revolutionizing Gaming Support: Unveiling Microsoft’s New Artificial Intelligence Chatbot for Xbox Assistance | ZDNET Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-10s-finest-a-detailed-review-of-the-7-leading-video-converters-for-seamless-synchronization/"><u>Windows 10'S Finest: A Detailed Review of the 7 Leading Video Converters for Seamless Synchronization</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-infographic-social-media-trends/"><u>2024 Approved Infographic - Social Media Trends</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/a-comprehensive-guide-to-applying-stunning-overlay-effects-in-web-design/"><u>A Comprehensive Guide to Applying Stunning Overlay Effects in Web Design</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-apples-latest-why-the-iphone-16-may-not-be-your-best-bet-in-depth-analysis-by-zdnet/"><u>Decoding Apple's Latest: Why the iPhone 16 May Not Be Your Best Bet | In-Depth Analysis by ZDNET</u></a></li>
+<li><a href="https://facebook.techidaily.com/disentangling-public-dismay-with-universal-social-applications/"><u>Disentangling Public Dismay with Universal Social Applications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-apples-immersive-3d-content-on-your-meta-quest-3-a-step-by-step-guide/"><u>Experience Apple's Immersive 3D Content on Your Meta Quest 3: A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-poco-c51-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Poco C51 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-mastering-airborne-shots-the-pivotal-role-of-dji-spark-in-selfie-culture/"><u>In 2024, Mastering Airborne Shots The Pivotal Role of DJI Spark in Selfie Culture</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-realme-c53-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Realme C53 Phone Network-Ready</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maintain-the-fresh-look-of-your-iphone-13-with-these-three-must-have-accessories-zdnet-recommendations/"><u>Maintain the Fresh Look of Your iPhone 13 with These Three Must-Have Accessories (ZDNet Recommendations)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/my-experience-with-the-apple-watch-ultra-the-almost-perfect-device-now-at-an-irresistible-price-on-labor-day/"><u>My Experience with the Apple Watch Ultra: The Almost Perfect Device, Now at an Irresistible Price on Labor Day</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pros-vs-cons-detailed-expert-comparisons-of-leading-stylus-tablets-techradar-review/"><u>Pros Vs. Cons: Detailed Expert Comparisons of Leading Stylus Tablets | TechRadar Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synergizing-creativity-and-chatgpt-insights/"><u>Synergizing Creativity and ChatGPT Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-6-unique-sources-for-premium-youtube-imagery-for-2024/"><u>Top 6 Unique Sources for Premium YouTube Imagery for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-phones-reviews-the-mobile-gadgets-chosen-by-experts-at-zdnet/"><u>Top Phones Reviews: The Mobile Gadgets Chosen by Experts at ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-ranking-wet-proof-tech-timepieces-professional-evaluations-and-rankings/"><u>Top-Ranking Wet-Proof Tech Timepieces : Professional Evaluations & Rankings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-laptop-battle-royal-in-depth-comparison-of-the-new-samsung-galaxy-book-vs-the-legendary-apple-macbook-features-benchmarks-and-more-pcmag/"><u>Ultimate Laptop Battle Royal: In-Depth Comparison of the New Samsung Galaxy Book Vs. The Legendary Apple MacBook - Features, Benchmarks & More | PCMag</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-take-a-screenshot-share-the-fun-a-guide-to-ps4-online-sharing/"><u>Updated In 2024, Take a Screenshot, Share the Fun A Guide to PS4 Online Sharing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrading-ios-18-how-adding-these-four-ai-functions-can-make-the-iphone-compete-on-par-with-android-devices-insights/"><u>Upgrading iOS 18: How Adding These Four AI Functions Can Make the iPhone Compete on Par with Android Devices Insights</u></a></li>
 </ul></div>
 

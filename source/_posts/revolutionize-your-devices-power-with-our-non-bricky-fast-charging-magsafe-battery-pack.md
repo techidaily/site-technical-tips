@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Device's Power with Our Non-Bricky, Fast-Charging MagSafe Battery Pack
-date: 2024-10-17T16:14:49.394Z
-updated: 2024-10-19T16:00:20.299Z
+date: 2024-10-19T06:27:50.616Z
+updated: 2024-10-24T22:32:27.322Z
 tags:
   - apple
 categories:
@@ -47,10 +47,10 @@ The Casely Power Pod battery pack uses MagSafe technology to snap onto the back 
 It offers 5,000mAh of battery capacity and a max wireless output of 15W that can be used three ways: as a MagSafe battery pack, as a Qi charging pad for things like wireless earbuds, or as a traditional battery pack with a USB-C cord. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How long does it take to charge a phone?
@@ -96,10 +96,10 @@ Casely's Power Pods can also be matched with the brand's [phone cases](https://s
 Diving beyond the obviously unique color and print offerings, the Power Pod also stands out for its shape. There's no boxy, oversized battery here. Instead, at only 3.2 ounces, the Power Pod is slightly thinner than many competitors and noticeably more rounded off than [other battery packs I have tested](https://www.zdnet.com/article/best-magsafe-battery/). It was clearly designed with user appeal at the forefront. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,17 +138,24 @@ Unlike bulkier battery packs, the Power Pod provides an on-par 5,000mAh of batte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-instagram-experience-adding-vimeo-videos/"><u>[Updated] 2024 Approved The Instagram Experience Adding Vimeo Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-top-20-cost-free-video-editing-websites/"><u>2024 Approved Ultimate Guide Top 20 Cost-Free Video Editing Websites</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/advanced-pro-version-of-the-vue-material-dashboard-using-laravel-framework-and-json-api-by-creative-tim-complete-frontendbackend-application/"><u>Advanced PRO Version of the Vue Material Dashboard Using Laravel Framework and JSON API by Creative Tim: Complete Frontend/Backend Application</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/id-and-ios-the-best-sound-distortion-tools-for-2024/"><u>Android & iOS The Best Sound Distortion Tools for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/cutting-edge-online-resources-for-glittering-3d-typography-for-2024/"><u>Cutting-Edge Online Resources for Glittering 3D Typography for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dealing-with-an-unresponsive-apple-watch-a-guide-to-restoring-activity-tracking/"><u>Dealing With an Unresponsive Apple Watch: A Guide to Restoring Activity Tracking</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-non-functional-logitech-g-pro-x-headset-mic/"><u>Diagnosing and Repairing Non-Functional Logitech G Pro X Headset Mic</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-90-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor 90 Pro to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/school-success-with-gadgets-discover-the-nine-vital-tech-products-for-academic-excellence/"><u>School Success with Gadgets: Discover the Nine Vital Tech Products for Academic Excellence</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-correct-the-missing-msidll-error/"><u>Step-by-Step Guide to Correct the Missing msi.dll Error</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-using-two-apps-simultaneously-on-macbook-air/"><u>The Ultimate Trick to Using Two Apps Simultaneously on MacBook Air</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-notch-graphic-retouches/"><u>Top-Notch Graphic Retouches</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-select-5-high-quality-audio-headphones/"><u>[New] Select 5 High-Quality Audio Headphones</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-a-comprehensive-guide-to-building-facebook-slideshow-mastery/"><u>[Updated] In 2024, A Comprehensive Guide to Building Facebook Slideshow Mastery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-ultimate-guide-mastering-live-streams-with-manycam-your-ai-powered-virtual-camera-solution/"><u>1. Ultimate Guide: Mastering Live Streams with ManyCam - Your AI-Powered Virtual Camera Solution</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-v30-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo V30 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decrypt-the-mystery-of-insecure-connection-alerts-and-secure-your-online-activity/"><u>Decrypt the Mystery of Insecure Connection Alerts and Secure Your Online Activity</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/essential-hashtags-the-must-use-list-for-todays-social-media-success/"><u>Essential Hashtags The Must-Use List for Today's Social Media Success</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-deal-alert-grab-the-apple-vision-pro-from-amazon-for-just-200-off-while-supplies-last/"><u>Exclusive Deal Alert: Grab the Apple Vision Pro From Amazon for Just $200 Off – While Supplies Last!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/facebook-cleanup-tips-a-comprehensive-guide-to-deleting-photos/"><u>Facebook Cleanup Tips: A Comprehensive Guide to Deleting Photos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/film-favorites-to-binge-this-week-curated-by-cinephiles/"><u>Film Favorites to Binge This Week – Curated by Cinephiles</u></a></li>
+<li><a href="https://windows11.techidaily.com/fuchsia-fiasco-solutions-to-reclaiming-a-standard-desktop-display/"><u>Fuchsia Fiasco? Solutions to Reclaiming a Standard Desktop Display</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-the-new-visionos-2-debut-at-wwdc-the-promising-features-and-baffling-aspects-were-eager-to-discover-digitaltechdigest/"><u>Inside the New VisionOS 2 Debut at WWDC: The Promising Features and Baffling Aspects We're Eager to Discover | DigitalTechDigest</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/screenflow-for-mac-review/"><u>ScreenFlow for Mac Review</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-japanese-script-from-basics-to-proficiency/"><u>The Japanese Script: From Basics to Proficiency</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tiny-tech-giants-fanless-intel-n100-windows-11-computer-with-impressive-specs-of-16gb-and-solid-state-drive/"><u>Tiny Tech Giants: Fanless Intel N100 Windows 11 Computer with Impressive Specs of 16GB and Solid-State Drive</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-ways-apple-can-enhance-ai-capabilities-to-match-rivals-like-openai-and-google-insights/"><u>Top 10 Ways Apple Can Enhance AI Capabilities to Match Rivals Like OpenAI & Google - Insights</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-10plus-free-online-youtube-intro-makers-for-2024/"><u>Top 10+ Free Online YouTube Intro Makers for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-recommended-alternate-phone-number-services/"><u>Top 8 Recommended Alternate Phone Number Services</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-best-ipad-pro-cases-in-2021-expertly-tested-and-analyzed/"><u>Ultimate Guide to the Best iPad Pro Cases in 202([[1]], Expertly Tested and Analyzed</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-itel-a05s-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Itel A05s Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

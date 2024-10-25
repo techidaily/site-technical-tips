@@ -1,7 +1,7 @@
 ---
 title: "Mastering iPhone Protection: Comprehensive Guide on Utilizing iCloud & Mac for Safe Backups"
-date: 2024-10-14T16:17:53.965Z
-updated: 2024-10-19T16:17:18.112Z
+date: 2024-10-24T05:18:27.210Z
+updated: 2024-10-24T19:44:11.672Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -52,10 +45,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -65,10 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -85,6 +78,19 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -92,10 +98,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,24 +140,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-channel-ranking-with-these-11-seo-secrets/"><u>[Updated] In 2024, Elevate Your Channel Ranking with These 11 SEO Secrets</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensure-peak-performance-download-hp-elitebook-x360-1030-g2s-latest-drivers/"><u>Ensure Peak Performance: Download HP EliteBook X360 1030 G2's Latest Drivers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-how-to-stop-guardians-of-the-galaxy-from-freezing-on-your-computer/"><u>Guide: How to Stop Guardians of the Galaxy From Freezing on Your Computer</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-official-logitech-g402-controller-software-and-driver/"><u>How to Install: Official Logitech G402 Controller Software and Driver</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ice-prowess-unleashed-2022-olympics-sprinting-spectacles/"><u>Ice Prowess Unleashed 2022 Olympics Sprinting Spectacles</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pulse-point-films-capturing-rhythms-in-social-media-videos/"><u>Pulse Point Films Capturing Rhythms in Social Media Videos</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/quick-and-easy-steps-to-merge-mp4-files-seamlessly/"><u>Quick and Easy Steps to Merge MP4 Files Seamlessly</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/reversing-file-removal-in-windows-n-procedure-uncover-5-strategies/"><u>Reversing File Removal in Windows N-Procedure: Uncover 5 Strategies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionized-home-security-my-experience-testing-smart-lock-facial-recognition/"><u>Revolutionized Home Security: My Experience Testing Smart Lock Facial Recognition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/save-big-on-labor-day-get-enhanced-security-with-a-blink-outdoor-4-camera-and-floodlight-system-at-just-80-limited-time-deal/"><u>Save Big on Labor Day! Get Enhanced Security with a Blink Outdoor 4-Camera and Floodlight System at Just $80 - Limited Time Deal.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/smart-homes-the-a-list-of-gadgets-tested-by-tech-experts-zdnet-insights/"><u>Smart Homes : The A-List of Gadgets Tested by Tech Experts – ZDNet Insights</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-art-of-dramatic-hdr-portraits-explained/"><u>The Art of Dramatic HDR Portraits Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-19-labor-day-sales-on-home-appliances-exclusive-offers-from-zdnet/"><u>Top 19 Labor Day Sales on Home Appliances - Exclusive Offers From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-premier-rv-models-of-2022-exploring-the-markets-finest-motor-homes-and-campers-insights-from-zdnet/"><u>Top 5 Premier RV Models of 2022: Exploring the Market's Finest Motor Homes & Campers - Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-recommended-gas-grills-expert-picks-techadvisor/"><u>Top 5 Recommended Gas Grills : Expert Picks | TechAdvisor</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-solar-powered-charger-picks-reviews-by-techradar/"><u>Top 5 Solar Powered Charger Picks - Reviews by TechRadar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-stylish-modern-tiny-house-models-featured-on-zdnet/"><u>Top 5 Stylish Modern Tiny House Models Featured on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-6-essential-party-must-haves-transform-your-backyard-events-with-these-life-changing-gadgets/"><u>Top 6 Essential Party Must-Haves: Transform Your Backyard Events with These Life-Changing Gadgets</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722187581805-transform-personal-datasets-into-an-intelligent-customized-chatbot-learn-how/"><u>Transform Personal Datasets Into an Intelligent, Customized ChatBot – Learn How!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-lighting-the-way-enhancing-your-youtube-videos-with-pro-tips/"><u>[Updated] In 2024, Lighting the Way Enhancing Your YouTube Videos with Pro Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beware-of-ios-15-updates-how-they-could-fault-your-ipad-and-essential-pre-installation-tips-techinformed/"><u>Beware of IOS 15 Updates: How They Could Fault Your iPad and Essential Pre-Installation Tips | TechInformed</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comprehensive-guide-disabling-and-hiding-the-desktop-recycle-bin-feature/"><u>Comprehensive Guide: Disabling and Hiding the Desktop Recycle Bin Feature</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-6-journaling-apps-we-love/"><u>Discover the Best 6 Journaling Apps We Love</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-deep-discount-on-apple-watch-series-9-lingers-beyond-amazon-prime-day-gadgetguru-reveals-deal-details/"><u>Exclusive: Deep Discount on Apple Watch Series 9 Lingers Beyond Amazon Prime Day | GadgetGuru Reveals Deal Details</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-digital-connections-through-leading-sites-facebook-twitter-instagram-and-youtube/"><u>Exploring Digital Connections Through Leading Sites: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-vivo-y100i-power-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo Y100i Power 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-showdown-deciding-between-the-iphone-1nfone-14-pro-and-iphone-14-pro-max-a-detailed-guide-from-zdnet/"><u>IPhone Showdown: Deciding Between the iPhone 1Nfone 14 Pro and iPhone 14 Pro Max – A Detailed Guide From ZDNet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s24frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S24FRP Lock</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-film-production-how-the-latest-features-of-final-cut-pro-for-ipad-transform-filmmakers-workflow-zdnet/"><u>Revolutionizing Film Production: How the Latest Features of Final Cut Pro for iPad Transform Filmmakers' Workflow - ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/stay-steady-in-virtual-reality-with-htcs-tips/"><u>Stay Steady in Virtual Reality with HTC's Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-kids-cellphones-expert-recommendations-from-zdnet/"><u>Top-Rated Kid's Cellphones: Expert Recommendations From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-cleaning-your-airpods-health-benefits-and-step-by-step-methods/"><u>Ultimate Guide to Cleaning Your AirPods - Health Benefits and Step-by-Step Methods</u></a></li>
+<li><a href="https://win-web3.techidaily.com/windows-111087-klonen-losungen-professionelles-innen-zu-aussen-kopieren-mit-startmoglichkeit/"><u>Windows 11/10/8/7 Klonen Lösungen - Professionelles Innen Zu Außen Kopieren Mit Startmöglichkeit</u></a></li>
 </ul></div>
 

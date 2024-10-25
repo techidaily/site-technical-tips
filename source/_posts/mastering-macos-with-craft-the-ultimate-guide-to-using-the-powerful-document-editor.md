@@ -1,7 +1,7 @@
 ---
 title: Mastering MacOS with Craft - The Ultimate Guide to Using the Powerful Document Editor
-date: 2024-10-12T16:11:33.641Z
-updated: 2024-10-19T16:06:48.513Z
+date: 2024-10-21T17:27:53.996Z
+updated: 2024-10-24T21:34:48.107Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,18 +134,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-step-by-estep-guide-to-using-vlc-media-player-with-apple-tv-and-watch-any-video/"><u>A Step-by-eStep Guide to Using VLC Media Player with Apple TV and Watch Any Video</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-about-the-newest-samsung-mobile-release-a-comprehensive-guide/"><u>All About the Newest Samsung Mobile Release - A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-a-world-of-expression-16-no-cost-sign-language-educational-sources-revealed/"><u>Explore a World of Expression: 16 No-Cost Sign Language Educational Sources Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-asus-pce-ac56-driver-problems-on-windows-11-8-and-7-comprehensive-guide/"><u>Fixing ASUS PCE-AC56 Driver Problems on Windows 11, 8 & 7 – Comprehensive Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-analysis-the-full-spectrum-of-bublcam-360/"><u>In 2024, Expert Analysis The Full Spectrum of Bublcam 360</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/revolutionary-drone-editing-for-visual-storytellers/"><u>Revolutionary Drone Editing for Visual Storytellers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/starlinks-satellite-edge-weighing-in-on-a-technology-shift/"><u>Starlink's Satellite Edge: Weighing In on a Technology Shift</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-how-to-remove-that-persistent-subwoofer-rumble/"><u>Step-by-Step Solution: How to Remove That Persistent Subwoofer Rumble</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/superior-online-emporiums-where-boxes-reflect-your-style-for-2024/"><u>Superior Online Emporiums Where Boxes Reflect Your Style for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-achieving-optimal-gameplay-with-120fps-on-your-playstation-5/"><u>Ultimate Guide: Achieving Optimal Gameplay with 120Fps on Your PlayStation 5</u></a></li>
-<li><a href="https://win-dash.techidaily.com/iuodkplusodhplusocquodkeodgplusodieobrus9vplusobhoawutog5yuv55s757eo6zug44o757wx5zci44ks44kk44ojig/"><u>ビデオパッドの使い方: 動画編集・統合ガイド</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-record-and-relish-the-art-of-live-discord-streams/"><u>[New] In 2024, Record and Relish The Art of Live Discord Streams</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-download-harmony-free-music-from-fb-for-2024/"><u>[Updated] Download Harmony Free Music From FB for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/access-the-ios-181-preview-today-discover-apples-latest-ai-features-on-your-device-get-set-up-techinsider/"><u>Access the IOS 18.1 Preview Today! Discover Apple's Latest AI Features on Your Device – Get Set Up | TechInsider</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-latest-ai-innovations-from-wwdc-yawn-inducing-but-essential-insights/"><u>Apple's Latest AI Innovations From WWDC: Yawn-Inducing but Essential - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exciting-watchos-11-update-brings-enhanced-functionality-to-your-apple-watch-discover-top-improvements/"><u>Exciting WatchOS 11 Update Brings Enhanced Functionality to Your Apple Watch – Discover Top Improvements!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oppo-reno-10-proplus-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Oppo Reno 10 Pro+ 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ultimate-voice-changer-for-valorant-gamers-free-to-use/"><u>In 2024, Ultimate Voice Changer for Valorant Gamers – Free to Use</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-18-unveiled-expert-strategies-for-customizing-apples-control-center-features-insights/"><u>IOS 18 Unveiled: Expert Strategies for Customizing Apple's Control Center Features – Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/obtaining-trustedinstaller-approval-a-guide-for-windows-10-users/"><u>Obtaining TrustedInstaller Approval: A Guide for Windows 10 Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/step-by-step-webcam-recording-on-hp-systems-for-2024/"><u>Step-by-Step Webcam Recording on HP Systems for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>The Magnificent Art of Pokemon Go Streaming On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-revolutionary-iphone-16-innovations-you-cant-miss-why-the-latest-apple-release-is-a-must-have-upgrade-insights/"><u>Top 4 Revolutionary iPhone 16 Innovations You Can’t Miss: Why the Latest Apple Release Is a Must-Have Upgrade - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-airtag-purses-and-wallets-in-2er-2024-industry-insider-reviews-techradar/"><u>Top-Rated AirTag Purses & Wallets in 2Er 2024: Industry Insider Reviews - TechRadar</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-pcs-pl2303-chipset-with-new-drivers-on-windows-os/"><u>Update Your PC's PL2303 Chipset with New Drivers on Windows OS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-xiaomi-redmi-note-13-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Xiaomi Redmi Note 13 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-you-need-an-apple-watch-discover-6-persuasive-factors-backed-by-a-wearables-specialist/"><u>Why You Need an Apple Watch? Discover 6 Persuasive Factors Backed by a Wearables Specialist</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Previewing Samsung's Major Tech Event – Detailed Date Info, Industry Buzz & Potential Announcements
-date: 2024-10-13T16:10:45.394Z
-updated: 2024-10-19T16:14:13.018Z
+date: 2024-10-21T19:55:33.187Z
+updated: 2024-10-25T09:17:00.564Z
 categories:
   - BestProducts
 description: This Article Describes Previewing Samsung's Major Tech Event – Detailed Date Info, Industry Buzz & Potential Announcements
@@ -33,10 +33,10 @@ thumbnail: https://www.lifewire.com/thmb/YQFOK9y5bChN-wmK4RMXpQ4T6bU=/400x300/fi
  The previous Unpacked was on July 10, 2024; the company announced the latest Galaxy Z Flip and Z Fold models, along with Galaxy Buds, Galaxy Watches, and the new Galaxy Ring.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Watch Samsung Unpacked
@@ -44,26 +44,26 @@ thumbnail: https://www.lifewire.com/thmb/YQFOK9y5bChN-wmK4RMXpQ4T6bU=/400x300/fi
  Samsung's events happen around the world, but the company streams it live on its website and YouTube channels. You can learn how to[watch it here](https://www.lifewire.com/watch-samsung-unpacked-online-5095263) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Products Will Be Released?
 
  The last January event featured the latest versions of Samsung's flagship Galaxy S phones, so we expect the same for 2025\. We'll see the[Galaxy S25/S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) and[S25 Ultra](https://www.lifewire.com/samsung-galaxy-s25-ultra-8639667) for sure. We might also see a new Galaxy Tablet, but we'll have to wait and see.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Previous Unpacked Events Announced
 
  Curious about what Samsung's announced at the last event? We've got the details below. The Galaxy Flip and Fold series are the[newest phones from the tech giant](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### July 2024 Unpacked Event
 
@@ -84,10 +84,16 @@ thumbnail: https://www.lifewire.com/thmb/YQFOK9y5bChN-wmK4RMXpQ4T6bU=/400x300/fi
  The foldable devices–the Flip 6 and Fold 6–continue the company's dedication to artificial intelligence with new photo editing and generation features. One notable one has your phone generating a fully rendered image based on your sketch.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Latest Samsung News
@@ -115,24 +121,24 @@ thumbnail: https://www.lifewire.com/thmb/YQFOK9y5bChN-wmK4RMXpQ4T6bU=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-tech-tutorial-exporting-and-storing-your-snaps-safely/"><u>[New] Tech Tutorial Exporting and Storing Your Snaps Safely</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-evaluating-mr-beasts-monetary-world-for-2024/"><u>[Updated] Evaluating Mr. Beast's Monetary World for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725286742511-dvdmac/"><u>無料ソフトでDVDをMac上で安全にコピーする詳細マニュアル!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-easily-replace-or-remove-phone-screen-protectors-at-home/"><u>Expert Advice: Easily Replace or Remove Phone Screen Protectors at Home</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722892566498-get-ready-for-a-revolution-in-wearable-tech-expert-predictions-on-the-google-pixel-watch-release-and-specs/"><u>Get Ready for a Revolution in Wearable Tech: Expert Predictions on the Google Pixel Watch Release and Specs.</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-15-pro-max-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone 15 Pro Max to Mac Mirroring | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-resolution-of-windows-device-manager-code-41-errors-techniques-and-best-practices/"><u>Mastering the Resolution of Windows Device Manager Code 41 Errors: Techniques and Best Practices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-the-stop-code-0x0000001d-expert-strategies-and-tips/"><u>Overcoming the Stop Code 0X0000001D: Expert Strategies and Tips</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/recordcast-review-for-2024/"><u>RecordCast Review for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-z-flip-31-revealed-anticipated-cost-and-launch-speculations-for-the-latest-innovation/"><u>Samsung Galaxy Z Flip 3^1 Revealed – Anticipated Cost and Launch Speculations for the Latest Innovation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/samsung-screen-captures-of-your-gaming-spree-for-2024/"><u>Samsung Screen Captures of Your Gaming Spree for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/sidecar-feature-connecting-your-mac-and-ipad-seamlessly/"><u>Sidecar Feature: Connecting Your Mac and iPad Seamlessly</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/slow-it-down-techniques-to-improve-your-slow-motion-photography-skills-for-instagram/"><u>Slow It Down Techniques to Improve Your Slow Motion Photography Skills for Instagram</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722962060528-speedy-setup-with-samsung-download-your-nvme-storage-drive-drivers-today/"><u>Speedy Setup with Samsung - Download Your NVMe Storage Drive Drivers Today!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/start-today-engage-with-8-individualized-gpt-services/"><u>Start Today: Engage with 8 Individualized GPT Services</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-for-connecting-airpods-to-a-macbook-air-computer/"><u>Step-by-Step Tutorial for Connecting AirPods to a MacBook Air Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tailored-smart-technology-choosing-between-alexa-and-google-assistant-for-optimal-personalization/"><u>Tailored Smart Technology: Choosing Between Alexa and Google Assistant for Optimal Personalization</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-o-setupdll-not-found-problem-effectively/"><u>Troubleshooting the 'O setup.dll Not Found' Problem Effectively</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/your-ultimate-resource-for-downloading-detailed-manuals-on-every-iphone-edition/"><u>Your Ultimate Resource for Downloading Detailed Manuals on Every iPhone Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-live-streaming-platforms-analyzing-obs-and-twitch-studio/"><u>[New] 2024 Approved Live Streaming Platforms Analyzing OBS and Twitch Studio</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-art-of-flawless-conversion-from-slides-to-videos/"><u>[Updated] 2024 Approved The Art of Flawless Conversion From Slides to Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-streamlined-collaborations-amplifying-your-video-impact/"><u>[Updated] In 2024, Streamlined Collaborations Amplifying Your Video Impact</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-picking-perfect-your-path-through-basic-plus-and-pro-in-vimeo-for-2024/"><u>[Updated] Picking Perfect Your Path Through Basic, Plus & Pro in Vimeo for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-silent-voices-in-the-social-media-arena-ig-live-edition/"><u>2024 Approved Silent Voices in the Social Media Arena - IG Live Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-beginners-guide-to-mastering-photo-cutout-in-apples-latest-ios-update-tips-and-tricks/"><u>A Beginner's Guide to Mastering Photo Cutout in Apple's Latest iOS Update: Tips and Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-tutorial-to-retrieve-saved-passwords-on-a-mac-device/"><u>A Step-by-Step Tutorial to Retrieve Saved Passwords on a Mac Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieving-studio-level-audio-fidelity-with-iphone-16-pros-advanced-mixing-features-insights-from-zdnet/"><u>Achieving Studio-Level Audio Fidelity with iPhone 16 Pro’s Advanced Mixing Features – Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/childrens-tablet-guide-for-parents-seeking-quality-and-fun-cnet-kids-edition/"><u>Childrens' Tablet Guide for Parents Seeking Quality and Fun | CNET Kids' Edition</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-ipados-and-macos-get-set-to-integrate-chatgpt-through-apples-collaboration-with-microsoft-backed-ai-pioneer-openai-zdnet/"><u>IOS, iPadOS & MacOS Get Set to Integrate ChatGPT Through Apple's Collaboration with Microsoft-Backed AI Pioneer OpenAI - ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/newest-july-2024-patches-and-enhancements-for-your-windows-system/"><u>Newest July 2024 Patches & Enhancements for Your Windows System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/nomad-necessities-sale-alert-gear-up-with-discounted-phone-covers-chargers-and-apple-watch-straps-now-get-20-off/"><u>Nomad Necessities Sale Alert: Gear Up with Discounted Phone Covers, Chargers & Apple Watch Straps Now – Get 20% Off</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-hotel-stay-with-apple-airplay-elite-properties-offering-the-latest-technology-explained/"><u>Revolutionize Your Hotel Stay with Apple AirPlay – Elite Properties Offering the Latest Technology Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-convenience-the-miniaturized-apple-vision-pro-case-compared-to-traditional-versions/"><u>Revolutionizing Convenience – The Miniaturized Apple Vision Pro Case Compared to Traditional Versions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/silent-setup-success-pairing-your-airpods-with-the-quest-3-headset-tips-and-tricks-zdnet-guide/"><u>Silent Setup Success: Pairing Your AirPods with the Quest 3 Headset – Tips & Tricks | ZDNet Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-apple-gadgets-to-avoid-purchasing-today-expert-insights-from-zdnet/"><u>Top 4 Apple Gadgets to Avoid Purchasing Today: Expert Insights From ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/unexplored-avenues-in-windows-11-boost-your-usability/"><u>Unexplored Avenues in Windows 11 - Boost Your Usability</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/upgrade-your-videography-with-the-top-10-flv-to-youtube-devices-for-2024/"><u>Upgrade Your Videography with the Top 10 Flv-to-YouTube Devices for 2024</u></a></li>
 </ul></div>
 

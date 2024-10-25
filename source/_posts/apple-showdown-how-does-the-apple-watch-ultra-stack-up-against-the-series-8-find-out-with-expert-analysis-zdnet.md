@@ -1,7 +1,7 @@
 ---
 title: "Apple Showdown: How Does the Apple Watch Ultra Stack Up Against the Series 8? Find Out with Expert Analysis | ZDNET"
-date: 2024-10-13T16:05:16.613Z
-updated: 2024-10-19T16:18:42.416Z
+date: 2024-10-23T06:11:07.879Z
+updated: 2024-10-25T06:19:13.013Z
 tags:
   - apple
 categories:
@@ -65,27 +65,26 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 \*Original MSRP
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 ---
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy the Apple Watch Series 10 if...
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. You want a thinner design or larger watch sizes
 
@@ -99,6 +98,13 @@ Sleep tracking is all the rage in tech (seriously, ZDNET readers [frequently pur
 
 Brand new for the Series 10, sleep apnea tracking is now built-in and there's a host of other features, such as [depth gauge](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/), for sports like snorkeling and diving.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. You're looking for something future-proof
 
 If you're spending a few hundred dollars on a smartwatch, you want it to last for several years without compromising performance or function. The best way to ensure you're investing in an Apple Watch that's future-proof and compatible with all of Apple's most up-to-date features (and [Apple Intelligence](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/), of course) is to select the newer model. 
@@ -108,6 +114,13 @@ The Watch Series 10 is the newest Apple Watch you can buy. History suggests it w
 **Also: [Apple Watch Series 9 vs. Series 10: Which smartwatch is right for you?](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/)**
 
 Not only does the Watch Series 10 offer new features like sleep apnea detection, temperature sensing, and a depth gauge, but it's also designed to maximize [WatchOS 11](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) and benefits from a seamless integration with Apple's latest [iPhone 16 models](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/), which run on [iOS 18](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. It's time to upgrade
 
@@ -121,19 +134,6 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 [Buy the Apple Watch Series 10 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy the Apple Watch Series 8 if...
 
 Jason Hiner/ZDNET
@@ -146,18 +146,18 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C639eaf36-5058-4e1f-9940-18311d973464%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. You're looking for blood oxygen sensors
 
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -193,18 +193,22 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-ryan-kajis-riches-the-tale-of-youtubes-youngest-mogul/"><u>[New] 2024 Approved Ryan Kaji’s Riches The Tale of YouTube's Youngest Mogul</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-capturing-attention-striking-shots-for-youtube-success-for-2024/"><u>[New] Capturing Attention Striking Shots for YouTube Success for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-dissecting-and-defeating-dreadful-greenscreen-a-mac-editors-directive-for-2024/"><u>[Updated] Dissecting & Defeating Dreadful Greenscreen A Mac Editor's Directive for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mp4-3gp-movavis-mp4/"><u>瀏覽器中自由MP4 改成 3GP 的方法 – 使用 Movavi's MP4 編解碼器</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1726226369583-webpjpeg-movavi/"><u>在線無限制地將WEBP影像轉換成JPEG格式，簡易指南 - Movavi的最佳工具選擇</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-beginners-guide-to-crafting-images-using-chatgpts-ai-capabilities/"><u>A Beginner's Guide to Crafting Images Using ChatGPT's AI Capabilities</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-tools-how-to-transform-your-sound-recordings-into-high-quality-mp3s-instantly/"><u>Free Online Tools: How to Transform Your Sound Recordings Into High-Quality MP3s Instantly</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-7-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 7?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/kostenlose-konvertierung-von-dts-zu-mp4-via-web-movavi/"><u>Kostenlose Konvertierung Von DTS Zu MP4 via Web - Movavi</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/sound-capture-device-audit/"><u>Sound Capture Device Audit</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/swift-solutions-for-recording-video-talks/"><u>Swift Solutions for Recording Video Talks</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-zte-by-fonelab-android-recover-video/"><u>The way to get back lost videos from ZTE</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wmv-archiefs-de-keuzeverdeling-en-voorinstellingen-voor-playback-lees-mee/"><u>WMV-Archiefs: De Keuzeverdeling En Voorinstellingen Voor Playback - Lees Mee</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-high-level-behavior-tips-for-youtube-users/"><u>[Updated] 2024 Approved High-Level Behavior Tips for YouTube Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-transforming-audio-to-text-on-slides-for-ppt/"><u>2024 Approved Transforming Audio to Text on Slides for PPT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/addressing-dsounddll-absence-or-non-detection-errors-effectively/"><u>Addressing 'dsound.dll' Absence or Non-Detection Errors Effectively</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/chromatic-spectrums-captured-a-deep-dive-into-4k-blade-tech/"><u>Chromatic Spectrums Captured A Deep Dive Into 4K Blade Tech</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-karaoke-night-tips-and-tricks-for-an-unforgettable-experience/"><u>DIY Karaoke Night: Tips and Tricks for an Unforgettable Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-resolving-the-missing-shelldll-error-on-your-pc/"><u>Effective Solutions for Resolving the Missing Shell.dll Error on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-this-new-startups-virtual-reality-tech-takes-on-apples-vision-pro-and-wins-over-business-users-exclusive-insights/"><u>How This New Startup's Virtual Reality Tech Takes on Apple's Vision Pro and Wins Over Business Users – Exclusive Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-printer-driver-not-found-on-your-windows-pc-fixed/"><u>How to Overcome 'Printer Driver Not Found' On Your Windows PC [FIXED]</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-dive-into-aerialbroadcasting-tech-dji-vs-gopro-vs-insta360-showdown/"><u>In 2024, A Dive Into Aerial/Broadcasting Tech DJi vs GoPro vs Insta360 Showdown</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-t2-pro-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo T2 Pro 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-itel-p55-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Itel P55 and Browser | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-redmi-note-12r-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi Redmi Note 12R Screen | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/key-factors-to-evaluate-when-choosing-a-video-recording-equipment/"><u>Key Factors to Evaluate When Choosing a Video Recording Equipment</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/prediction-new-lineup-of-apples-oled-ipad-pros-and-a-refreshed-129-ipad-air-set-for-q1-2024-launch-insights/"><u>Prediction: New Lineup of Apple's OLED iPad Pros and a Refreshed 12.9 iPad Air Set for Q1 2024 Launch - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-fixes-for-the-not-found-msvcrtdll-file-issue/"><u>Step-by-Step Fixes for the Not Found msvcrt.dll File Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-must-have-video-editing-tools-ranked-by-professionals/"><u>Top 5 Must-Have Video Editing Tools Ranked by Professionals</u></a></li>
 </ul></div>
 

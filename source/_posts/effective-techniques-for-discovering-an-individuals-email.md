@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques for Discovering an Individual’s Email
-date: 2024-10-17T16:05:16.466Z
-updated: 2024-10-19T16:09:21.727Z
+date: 2024-10-19T16:31:22.428Z
+updated: 2024-10-25T09:33:06.795Z
 categories:
   - BestProducts
 description: This Article Describes Effective Techniques for Discovering an Individual’s Email
@@ -30,13 +30,6 @@ thumbnail: https://www.lifewire.com/thmb/D9r_EbdvWvhm2yJ6jbM0_fr8c4M=/400x300/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -48,19 +41,19 @@ thumbnail: https://www.lifewire.com/thmb/D9r_EbdvWvhm2yJ6jbM0_fr8c4M=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -70,18 +63,18 @@ thumbnail: https://www.lifewire.com/thmb/D9r_EbdvWvhm2yJ6jbM0_fr8c4M=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -104,6 +97,13 @@ thumbnail: https://www.lifewire.com/thmb/D9r_EbdvWvhm2yJ6jbM0_fr8c4M=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -113,13 +113,6 @@ thumbnail: https://www.lifewire.com/thmb/D9r_EbdvWvhm2yJ6jbM0_fr8c4M=/400x300/fi
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -132,6 +125,13 @@ thumbnail: https://www.lifewire.com/thmb/D9r_EbdvWvhm2yJ6jbM0_fr8c4M=/400x300/fi
 * **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
 
@@ -170,16 +170,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-behind-the-photo-instagram-selfie-credibility-explored-for-2024/"><u>[Updated] Behind the Photo Instagram Selfie Credibility Explored for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-interactive-inspection-kits-facebook-live/"><u>[Updated] Interactive Inspection Kits Facebook Live</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-essential-asmr-channel-discoveries/"><u>2024 Approved Essential ASMR Channel Discoveries</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-tutorial-for-posting-pics-on-ig/"><u>2024 Approved The Ultimate Tutorial for Posting Pics on IG</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-13-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 13 Pro to Android | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/an-in-depth-look-at-the-functionality-of-google-hangouts/"><u>An In-Depth Look at the Functionality of Google Hangouts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/chromecast-audio-sync-issues-heres-how-you-can-rectify-them/"><u>Chromecast Audio Sync Issues? Here's How You Can Rectify Them</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-highly-secured-email-platforms/"><u>Discover the Ultimate List of Highly Secured Email Platforms</u></a></li>
-<li><a href="https://win-best.techidaily.com/facilitar-la-reinstalacion-completa-paso-a-paso-para-resetear-tu-pc-asus-utilizando-windows-11/"><u>Facilitar La Reinstalación Completa: Paso a Paso Para Resetear Tu PC ASUS Utilizando Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-key-to-captivation-a-guide-to-more-likes-on-your-tiktok-unboxing-videos/"><u>The Key to Captivation A Guide to More Likes on Your TikTok Unboxing Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-next-big-thing-in-phones-rumors-on-samsungs-galaxy-s25-ultra-pricing-and-launch-date-insights/"><u>The Next Big Thing in Phones: Rumors on Samsung's Galaxy S25 Ultra - Pricing & Launch Date Insights</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-make-your-mark-on-tiktok-top-30-unique-pfps/"><u>[New] 2024 Approved Make Your Mark on TikTok Top 30 Unique PFPs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-asus-proart-pa-329q-the-pinnacle-in-high-definition-viewing/"><u>[New] Asus ProArt PA 329Q The Pinnacle in High-Definition Viewing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-time-saving-tips-for-documenting-virtual-meeting-events-for-2024/"><u>[Updated] Time-Saving Tips for Documenting Virtual Meeting Events for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-allegedly-designing-budget-friendly-augmented-reality-eyewear-and-vision-support-gear-sources-say-spotlight-on-tech/"><u>Apple Allegedly Designing Budget-Friendly Augmented Reality Eyewear & Vision Support Gear, Sources Say | Spotlight on Tech</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-buy-exclusive-offer-alert-grab-a-complimentary-macbook-air-m3-for-less-than-you-think-find-out-how/"><u>Best Buy Exclusive Offer Alert: Grab a Complimentary MacBook Air M3 for Less Than You Think - Find Out How !</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/defying-apples-desire-for-iphone-replacement-a-firsthand-trial-experience-zdnet/"><u>Defying Apple's Desire for iPhone Replacement: A Firsthand Trial Experience | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/download-the-ios-181-preview-version-unveiling-apples-latest-ai-features-get-started-today-on-zdnet/"><u>Download the iOS 18.1 Preview Version: Unveiling Apple's Latest AI Features – Get Started Today on ZDNet!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/engaging-with-gpt-3-for-authentic-verse-crafting/"><u>Engaging with GPT-3 for Authentic Verse Crafting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-monitoring-and-maintaining-safe-operating-temperatures-in-macbooks/"><u>Expert Advice on Monitoring and Maintaining Safe Operating Temperatures in MacBooks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-apples-top-tier-protection-the-ultimate-review-of-their-most-resilient-iphone-case-with-an-innovative-safety-edge-techinsights/"><u>Exploring Apple's Top-Tier Protection: The Ultimate Review of Their Most Resilient iPhone Case with an Innovative Safety Edge | TechInsights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hastily-upgrade-amd-motherboard-support/"><u>Hastily Upgrade AMD Motherboard Support</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-lava-agni-2-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Lava Agni 2 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://fox-search.techidaily.com/strategie-perfette-per-il-backup-automatico-dei-file-pst-in-microsoft-outlook/"><u>Strategie Perfette per Il Backup Automatico Dei File PST in Microsoft Outlook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-ranking-mac-devices-a-comprehensive-guide-zdnet/"><u>Top-Ranking Mac Devices : A Comprehensive Guide - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-why-apples-new-m2-ipad-air-is-your-ideal-choice-expert-insights-from-zdnet/"><u>Ultimate Guide: Why Apple's New M2 iPad Air Is Your Ideal Choice - Expert Insights From ZDNet</u></a></li>
 </ul></div>
 

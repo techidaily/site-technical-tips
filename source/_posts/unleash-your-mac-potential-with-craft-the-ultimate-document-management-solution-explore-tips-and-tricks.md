@@ -1,7 +1,7 @@
 ---
 title: Unleash Your Mac Potential with Craft - The Ultimate Document Management Solution | Explore Tips & Tricks
-date: 2024-10-12T16:04:51.168Z
-updated: 2024-10-19T16:01:52.012Z
+date: 2024-10-19T10:18:39.014Z
+updated: 2024-10-25T09:43:30.988Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,15 +134,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-ffpm-demystified-your-guide-to-multi-tasking/"><u>[New] 2024 Approved FFPM Demystified Your Guide to Multi-Tasking</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unmatched-warfare-the-hunt-for-top-fps-games/"><u>2024 Approved Unmatched Warfare The Hunt for Top FPS Games</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mpgflacmovavi/"><u>免費移動影片格式: MPG到FLAC，以Movavi視頻編碼工具進行線上改變</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/converta-seus-gifs-gratuitamente-em-bmp-no-movavi-ferramenta-de-conversao-on-line-sem-custo/"><u>Converta Seus GIFs Gratuitamente Em BMP No Movavi - Ferramenta De Conversão On-Line Sem Custo</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-the-art-of-lav-din-egen-behind-the-scenes-with-movavi-video-editing-software/"><u>Explore the Art of 'Lav Din Egen': Behind-the-Scenes with Movavi Video Editing Software</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/fixing-inactive-obs-video-inputs/"><u>Fixing Inactive OBS Video Inputs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-tecno-pova-5-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-audio-video-recordings-arf-to-wmv-format-on-windows-11-and-macos/"><u>Step-by-Step Guide: Converting Audio Video Recordings (ARF) to WMV Format on Windows 11 & macOS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-12-gratiska-skarmprogram-for-windows-11-laddar-upp-ena-i-ett/"><u>Top 12 Gratiska Skärmprogram För Windows 11: Laddar Upp Ena I Ett</u></a></li>
-<li><a href="https://discover-best.techidaily.com/trasforma-i-tuoi-vecchi-dischi-da-disco-dvd-in-video-digitali-senza-problemi-per-windows-10-e-macos/"><u>Trasforma I Tuoi Vecchi Dischi Da Disco DVD in Video Digitali Senza Problemi per Windows 10 E macOS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-10-free-instagram-story-viewers-to-watch-instagram-stories-anonymously/"><u>[New] 2024 Approved 10 FREE Instagram Story Viewers to Watch Instagram Stories Anonymously</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-cutting-down-footage-imovies-automatic-size-change-query/"><u>[New] In 2024, Cutting Down Footage IMovie’s Automatic Size Change Query</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rend-driven-infographics-the-leaders-in-23/"><u>[New] Trend-Driven Infographics The Leaders in '23</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unmatched-recording-alternatives-for-modern-gaming-enthusiasts-for-2024/"><u>[New] Unmatched Recording Alternatives for Modern Gaming Enthusiasts for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/blue-tick-basics-a-comprehensive-roadmap-for-instagram-verification-success/"><u>Blue Tick Basics: A Comprehensive Roadmap for Instagram Verification Success</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/como-correctamente-instale-una-imagen-iso-de-windows-aturca-con-virtualbox-tus-primeros-pasos-detallados/"><u>Cómo Correctamente Instale Una Imagen ISO De Windows Aturca Con VirtualBox: Tus Primeros Pasos Detallados</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-seamlessly-bind-a-fire-stick-remote-in-simple-terms/"><u>How to Seamlessly Bind a Fire Stick Remote in Simple Terms</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-strategy-for-unearthing-secret-youtube-videos/"><u>In 2024, Step-by-Step Strategy for Unearthing Secret YouTube Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/inside-insights-proclaiming-rights-to-free-clip-art-legally/"><u>Inside Insights Proclaiming Rights to Free Clip Art Legally</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/saving-the-day-proven-strategies-for-reviving-disappointed-sonos-owners-with-apples-help/"><u>Saving the Day: Proven Strategies for Reviving Disappointed Sonos Owners with Apple's Help</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-sony-xperia-10-v-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Sony Xperia 10 V Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-pcs-showdown-how-apple-dell-and-other-tech-giants-stack-up/"><u>Top Rated PCs Showdown: How Apple, Dell & Other Tech Giants Stack Up</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-selection-of-ipad-air-sleeves-quality-checked-by-professionals/"><u>Ultimate Selection of iPad Air Sleeves - Quality Checked by Professionals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-new-possibilities-how-apples-integration-of-nfc-in-iphones-with-third-party-applications-boosts-your-experience-techradar/"><u>Unlock New Possibilities: How Apple's Integration of NFC in iPhones with Third-Party Applications Boosts Your Experience | TechRadar</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-tech-experts-are-praising-the-apple-ipad-pro-2018-as-the-ultimate-choice-in-11-inch-tablets/"><u>Why Tech Experts Are Praising the Apple iPad Pro (2018) as the Ultimate Choice in 11-Inch Tablets</u></a></li>
 </ul></div>
 

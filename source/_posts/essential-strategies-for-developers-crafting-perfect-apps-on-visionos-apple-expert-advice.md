@@ -1,7 +1,7 @@
 ---
 title: "Essential Strategies for Developers: Crafting Perfect Apps on VisionOS (Apple Expert Advice)"
-date: 2024-10-18T16:06:31.762Z
-updated: 2024-10-19T16:00:27.346Z
+date: 2024-10-22T19:16:26.351Z
+updated: 2024-10-25T05:52:10.090Z
 tags:
   - apple
 categories:
@@ -54,6 +54,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Security and privacy implications
 
   
@@ -72,10 +79,10 @@ Sideloading could circumvent iOS's privacy controls, allowing apps to access and
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## App Store changes
@@ -89,10 +96,10 @@ Following antitrust actions, Apple's market dynamics could shift in several ways
 * **Innovative business models:** If Apple's control is broken, it could encourage innovation as developers will have the freedom to explore new app functionalities and business models. They can experiment with alternative monetization strategies beyond the traditional app purchase or subscription model, such as enhanced in-app advertising, freemium models, or blockchain-based transactions.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple ecosystem transformation
@@ -119,10 +126,16 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
@@ -134,19 +147,6 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 > "At Apple, we innovate every day to make technology people love—designing products that work seamlessly together, protect people's privacy and security, and create a magical experience for our users. This lawsuit threatens who we are and the principles that set Apple products apart in fiercely competitive markets. If successful, it would hinder our ability to create the kind of technology people expect from Apple—where hardware, software, and services intersect. It would also set a dangerous precedent, empowering government to take a heavy hand in designing people's technology. We believe this lawsuit is wrong on the facts and the law, and we will vigorously defend against it."
 
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Previous coverage
 
@@ -184,21 +184,20 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-achieving-sharper-screen-focus-zooming-tips-for-google-meet/"><u>[New] Achieving Sharper Screen Focus Zooming Tips for Google Meet</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-unplugged-gaming-world-the-ultimate-list-of-best-free-mobile-apps-for-2024/"><u>[Updated] Unplugged Gaming World - The Ultimate List of Best Free Mobile Apps for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-and-craft-of-documentary-writing/"><u>2024 Approved The Art and Craft of Documentary Writing</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-process-how-to-setup-google-maps-on-pc/"><u>A Step-by-Step Process: How to Setup Google Maps on PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722847971587-accidentally-sent-heres-how-you-can-retrieve-your-emails-in-outlook/"><u>Accidentally Sent? Here's How You Can Retrieve Your Emails in Outlook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211431951-battleye-service-issues-resolved-heres-how-we-fixed-it/"><u>BattlEye Service Issues Resolved? Here's How We Fixed It</u></a></li>
-<li><a href="https://extra-information.techidaily.com/free-and-purchased-color-tools-for-the-discerning-canon-user/"><u>Free & Purchased Color Tools for the Discerning Canon User</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-infinix-hot-30-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Infinix Hot 30 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-time-the-transformative-saga-of-apples-ios-version-10-180/"><u>Navigating Through Time: The Transformative Saga of Apple's iOS (Version 1.0 - 18.0)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-tricks-to-take-images-from-your-screen-on-a-logitech-keyboard-setup/"><u>Quick Tricks to Take Images From Your Screen on a Logitech Keyboard Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-troubleshooting-tips-to-rescue-windows-apps/"><u>Quick Troubleshooting Tips to Rescue Windows Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-microsofts-phone-link-features/"><u>The Essential Guide to Microsoft's 'Phone Link' Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-for-finding-electric-car-power-spots-on-google-maps/"><u>The Ultimate How-To for Finding Electric Car Power Spots on Google Maps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-free-antivirus-software-picks/"><u>Top 5 Free Antivirus Software Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-your-apple-tvs-full-potential-by-streaming-with-vlc-how-to/"><u>Unlock Your Apple TV's Full Potential by Streaming With VLC - How To?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-do-if-your-echo-device-wont-answer-back/"><u>What to Do If Your Echo Device Won't Answer Back?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-travel-through-time-on-instagram-the-reverse-video-guide/"><u>[New] In 2024, Travel Through Time on Instagram The Reverse Video Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-approach-to-crafting-3d-text-in-photoshop/"><u>[New] Step-by-Step Approach to Crafting 3D Text in Photoshop</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-digital-diagnostics-vll-app-examination/"><u>[Updated] Digital Diagnostics VLL App Examination</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pickus-triumph-in-android-photo-editing-a-comprehensible-review/"><u>[Updated] PickU's Triumph in Android Photo Editing – A Comprehensible Review</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unlock-professional-editing-skills-using-gopro-studio-for-2024/"><u>[Updated] Unlock Professional Editing Skills Using GoPro Studio for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tap-into-endless-visual-archives-from-top-4-video-platforms/"><u>2024 Approved Tap Into Endless Visual Archives From Top 4 Video Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-fixes-how-to-correctly-address-and-resolve-osetupdll-absence-in-windows/"><u>Expert Fixes: How to Correctly Address and Resolve osetup.dll Absence in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-android-devotee-to-potential-iphone-convert-the-irresistible-benefits-of-the-iphone-16/"><u>From Android Devotee to Potential iPhone Convert: The Irresistible Benefits of the iPhone 16</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/introducing-the-upgraded-iphone-12s-qi2-charging-capability-without-relying-on-magsafe/"><u>Introducing the Upgraded iPhone 12'S Qi2 Charging Capability – Without Relying on MagSafe</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-16-upgrades-unveiling-apples-new-visual-search-capabilities-inspired-by-google-lens-detailed-analysis/"><u>IPhone 16 Upgrades: Unveiling Apple's New Visual Search Capabilities Inspired by Google Lens - Detailed Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/m1-vs-m2-ipad-pro-showdown-finding-the-best-device-to-suit-your-preferences/"><u>M1 Vs. M2 iPad Pro Showdown: Finding the Best Device to Suit Your Preferences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/meta-quest-3-leaps-into-the-future-with-early-ai-integration-beating-apples-vision-pro-setup-guide-inside/"><u>Meta Quest 3 Leaps Into the Future with Early AI Integration Beating Apple's Vision Pro - Setup Guide Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-gamers-guide-resolving-mic-not-working-woes-for-sea-of-thieves-voice-chat/"><u>PC Gamer's Guide: Resolving 'Mic Not Working' Woes for Sea of Thieves Voice Chat</u></a></li>
+<li><a href="https://common-error.techidaily.com/uncovered-missing-core-library-loader-dll/"><u>Uncovered Missing Core Library Loader Dll</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-airpods-release-date-revealed-tips-and-early-order-information-zdnet-tech-news/"><u>Upcoming AirPods Release Date Revealed – Tips & Early Order Information | ZDNet Tech News</u></a></li>
 </ul></div>
 

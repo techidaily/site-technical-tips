@@ -1,7 +1,7 @@
 ---
 title: "Stay Connected: Seamless Messaging and Calling on Your Apple Watch - Tips & Tricks"
-date: 2024-10-18T16:12:05.926Z
-updated: 2024-10-19T16:16:08.241Z
+date: 2024-10-21T18:43:34.522Z
+updated: 2024-10-24T18:46:33.903Z
 tags:
   - apple
 categories:
@@ -114,13 +114,6 @@ Apple's latest software update to the Mac and iPad has enabled a feature that, n
 
 That means when you move your Mac's pointer beyond the edge of your screen, it will automatically switch to your iPad and allow you to use iPadOS without switching devices. To be clear, Universal Control isn't only designed to work between an iPad and a Mac. It'll actually work between multiple Macs as well. For the purpose of this guide, I'm going to stick to using it between and iPad and Mac to cover both devices. But you could easily do the same thing with two Macs by following the steps below. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Featured
 
 * [Why I'm recommending the standard iPhone 16 over the Pro this year (and I'm not alone)](https://www.zdnet.com/article/why-im-recommending-the-standard-iphone-16-over-the-pro-this-year-and-im-not-alone/)
@@ -130,6 +123,13 @@ That means when you move your Mac's pointer beyond the edge of your screen, it w
 
 There are a couple of things you'll need to do before you can use Universal Control. I'll walk you through the initial setup, and then how to use it. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Update your Mac and iPad
 
 Before you'll have the option to turn on Universal Control, you need to update the software on your Mac and your iPad. The current versions are MacOS 12.3 and iPadOS 15.4\. 
@@ -137,6 +137,13 @@ Before you'll have the option to turn on Universal Control, you need to update t
 On a Mac, open **System Preferences**, then select **Software Update**. 
 
 On your iPad, open the **Settings app** then go to **General** \> **Software Update** and follow the prompts. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your iPad
 
@@ -155,10 +162,10 @@ The Mac does have a dedicated Universal Control section where you can turn the f
 Check the box next to **Allow your cursor and keyboard to move between any nearby Mac or iPad,** then click **Done**. Leave the other two boxes checked. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to use Universal Control between your Mac and iPad
@@ -175,13 +182,6 @@ Want to go back to your Mac? Drag the mouse pointer off the iPad's screen in the
 
 You can even drag and drop documents between your Mac or iPad, instead of waiting for iCloud Drive to sync or if, for example, you were drawing out an idea in the Notes app with the Apple Pencil on your iPad -- you can easily move that to your Mac once you're finished. 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Arrange your displays, adjust settings
 
 Screenshot by Jason Cipriani/ZDNet
@@ -189,10 +189,10 @@ Screenshot by Jason Cipriani/ZDNet
 Your Mac will try its best to locate your iPad's location in relation to your main display, but it's not perfect. If you go back into System Preferences on your Mac, you can click-and-drag to rearrange the displays, putting your iPad's screen in the right spot, allowing you to seamlessly move your mouse between the two devices. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Troubleshooting Universal Control
@@ -247,19 +247,18 @@ Finally, if you're still not having any luck, it could be that your device isn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unleash-creativity-customizing-call-alert-sounds-on-iphone/"><u>[New] 2024 Approved Unleash Creativity Customizing Call Alert Sounds on iPhone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-discover-top-6-mac-capture-software-selections/"><u>[New] In 2024, Discover Top 6 Mac Capture Software Selections</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-chuckle-crafting-tool/"><u>[Updated] Chuckle Crafting Tool</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/achieving-perfect-visibility-ideal-ps4-camera-setup-guide/"><u>Achieving Perfect Visibility: Ideal PS4 Camera Setup Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/chatgpt-plus-should-you-level-up-here-are-5-persuasive-benefits-to-know/"><u>ChatGPT Plus: Should You Level-Up? Here Are 5 Persuasive Benefits to Know!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-the-best-films-featuring-dolby-atmos-sound-for-an-incredible-home-cinema-session/"><u>Explore the Best Films Featuring Dolby Atmos Sound for an Incredible Home Cinema Session</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-nokia-105-classic-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Nokia 105 Classic</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-apc-back-ups-pro-1500va-evaluation-exceptional-capacity-and-swap-out-ready-cells/"><u>In-Depth APC Back-UPS Pro 1500VA Evaluation - Exceptional Capacity & Swap-Out Ready Cells</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/introducing-the-most-recent-upgrade-in-apples-macbook-lineup/"><u>Introducing the Most Recent Upgrade in Apple's MacBook Lineup!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-depths-of-macos-file-management-a-comprehensive-guide-to-showing-hidden-files-using-terminal-commands/"><u>Navigating the Depths of macOS File Management: A Comprehensive Guide to Showing Hidden Files Using Terminal Commands</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/professional-advice-boosting-performance-on-intel-powered-imacs/"><u>Professional Advice: Boosting Performance on Intel-Powered iMacs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-composing-audio-notes-on-an-iphone/"><u>Step-by-Step Tutorial: Composing Audio Notes on an iPhone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tech-meets-tradition-unleashing-potential-with-laptops-phones-and-bestsellers/"><u>Tech Meets Tradition: Unleashing Potential with Laptops, Phones, & Bestsellers!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-crashes-in-elite-dangerous-a-comprehensive-guide-for-windows-users/"><u>Troubleshooting Persistent Crashes in Elite Dangerous: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-most-compelling-free-ae-design-samples/"><u>[New] The Most Compelling Free AE Design Samples</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-essential-knowledge-for-creating-thoughtful-twitreact-videos/"><u>[Updated] In 2024, Essential Knowledge for Creating Thoughtful TwitReact Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experts-choice-of-ultimate-iphone-16pro-case-selection-2024-roundup/"><u>Experts' Choice of Ultimate iPhone 16/Pro Case Selection - 2024 Roundup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-successfully-reserve-time-with-apple-store-specialists/"><u>How To Successfully Reserve Time With Apple Store Specialists</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-pro-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Pro to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-realme-11-proplus-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Realme 11 Pro+ Data? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-prime-video-picks-the-extreme-favorites/"><u>In 2024, Prime Video Picks The Extreme Favorites</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-ios-how-apples-latest-ocular-commands-empower-users-with-eye-control-on-iphones-and-ipads-insights/"><u>Revolutionizing iOS: How Apple's Latest Ocular Commands Empower Users with Eye-Control on iPhones and iPads - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/riding-high-how-photochromatic-lenses-revolutionized-my-cycling-experience-a-firsthand-review-for-uis-on-glasses/"><u>Riding High: How Photochromatic Lenses Revolutionized My Cycling Experience - A Firsthand Review for UIs on Glasses</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-ipad-pro-protection-gear-comprehensive-reviews-and-ratings-by-tech-specialists-zdnet/"><u>Top-Rated iPad Pro Protection Gear : Comprehensive Reviews & Ratings by Tech Specialists | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforming-the-landscape-the-five-key-upgrades-needed-for-android-to-outshine-ios-zdnet-insights/"><u>Transforming the Landscape: The Five Key Upgrades Needed for Android to Outshine iOS | ZDNET Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-srt-mastery-a-detailed-manual-and-tips/"><u>Unlock SRT Mastery A Detailed Manual and Tips</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-make-a-movie-on-your-mac-a-comprehensive-tutorial/"><u>Updated Make a Movie on Your Mac A Comprehensive Tutorial</u></a></li>
 </ul></div>
 

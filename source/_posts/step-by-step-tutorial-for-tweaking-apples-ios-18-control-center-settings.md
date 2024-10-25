@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Tweaking Apple's iOS 18 Control Center Settings
-date: 2024-10-12T16:08:52.678Z
-updated: 2024-10-19T16:13:52.562Z
+date: 2024-10-22T05:15:38.412Z
+updated: 2024-10-25T02:39:05.223Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -52,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -64,18 +64,18 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -85,18 +85,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,21 +134,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-quick-fixes-to-fabricate-impactful-social-media-collage-posts/"><u>[New] Quick Fixes to Fabricate Impactful Social Media Collage Posts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-broad-overview-delving-into-google-podcasts-application/"><u>2024 Approved Broad Overview Delving Into Google Podcasts Application</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-unveiling-the-core-technology-behind-superior-screen-captures-by-recmeister/"><u>2024 Approved Unveiling the Core Technology Behind Superior Screen Captures by Recmeister</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-redmi-12-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi Redmi 12 5G without App | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-beginners-guide-to-applying-meta-ai-innovations-on-instagram/"><u>A Beginner's Guide to Applying Meta AI Innovations on Instagram</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/benqs-bl2711u-showcase-the-quest-for-perfect-4k-visual-fidelity/"><u>BenQ's BL2711U Showcase The Quest for Perfect 4K Visual Fidelity</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/error-28-on-windows-uncovered-expert-strategies-to-restore-your-systems-stability/"><u>Error 28 on Windows Uncovered: Expert Strategies to Restore Your System's Stability</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-chilling-cases-the-ultimate-selection-of-13-true-crime-audio-series/"><u>Explore Chilling Cases: The Ultimate Selection of 13 True Crime Audio Series</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-ipados-latest-upgrade-when-it-drops-expenses-and-cutting-edge-functionality/"><u>Exploring iPadOS Latest Upgrade: When It Drops, Expenses, and Cutting-Edge Functionality</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-14-plus-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-ultimate-selections-premium-webcam-platforms/"><u>In 2024, Ultimate Selections Premium Webcam Platforms</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-fix-haldll-issues-in-windows-operating-systems-from-xp-through-to-windows-11/"><u>Step-by-Step Solutions to Fix Hal.dll Issues in Windows Operating Systems From XP Through to Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-8-best-free-roku-streaming-channels/"><u>Top 8 Best Free Roku Streaming Channels</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlocking-youtubes-full-potential-advanced-banner-strategies-for-2024/"><u>Unlocking YouTube's Full Potential Advanced Banner Strategies for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-phone-dialer-window-11/"><u>Unveiling the Phone Dialer Window 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/voice-chatting-basics-creating-and-dispatching-oral-texts-from-your-iphone/"><u>Voice Chatting Basics: Creating & Dispatching Oral Texts From Your iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-mystery-of-downloading-youtube-srt-files-easily/"><u>[New] Unlocking the Mystery of Downloading YouTube SRT Files Easily</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-motorola-moto-g34-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-instagram-caption-ideas-a-list-of-top-507-picks/"><u>Discover the Best Instagram Caption Ideas - A List of Top 507 Picks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-iphone-snaps-to-high-dynamic-range-levels/"><u>Elevate Your iPhone Snaps to High Dynamic Range Levels</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Life360 from Tracking You On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-home-decor-with-these-handy-smartphone-painting-tools-and-tricks/"><u>Mastering Home Décor with These Handy Smartphone Painting Tools & Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808297798-mouse-sensitivity-how-to-change-mouse-sensitivity-and-fix-mouse-sensitivity-issues/"><u>Mouse Sensitivity – How to Change Mouse Sensitivity and Fix Mouse Sensitivity Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rescue-deleted-chats-a-comprehensive-tutorial-for-all-phones/"><u>Rescue Deleted Chats: A Comprehensive Tutorial for All Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/silent-victory-over-the-raging-crimson-your-definitive-guide-to-fixing-system-faults/"><u>Silent Victory Over The Raging Crimson: Your Definitive Guide to Fixing System Faults</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-moderation-error-in-chatgpt-a-comprehensive-guide/"><u>Solving the 'Moderation Error' In ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-inserting-emojis-as-gif-reactions-on-instagram-posts/"><u>The Ultimate Tutorial for Inserting Emojis as GIF Reactions on Instagram Posts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-limits-of-ai-therapy-the-top-9-concerns-and-dangers/"><u>Understanding the Limits of AI Therapy: The Top 9 Concerns and Dangers</u></a></li>
 </ul></div>
 

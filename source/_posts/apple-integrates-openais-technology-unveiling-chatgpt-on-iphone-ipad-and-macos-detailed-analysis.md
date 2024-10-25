@@ -1,7 +1,7 @@
 ---
 title: "Apple Integrates OpenAI's Technology: Unveiling ChatGPT on iPhone, iPad & macOS - Detailed Analysis"
-date: 2024-10-18T16:04:03.422Z
-updated: 2024-10-19T16:04:23.303Z
+date: 2024-10-19T20:24:19.569Z
+updated: 2024-10-24T18:05:28.660Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +89,10 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,18 +133,18 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-electronic-conference-logging/"><u>[New] Electronic Conference Logging</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-ultimate-screening-youtubes-most-liked-creators/"><u>[Updated] 2024 Approved The Ultimate Screening YouTube's Most Liked Creators</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-swift-guide-to-screenshots-via-ipados/"><u>2024 Approved Swift Guide to Screenshots via iPadOS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-samsungs-2025-lineup-event-details-major-announcements-and-tech-rumors-coverage/"><u>All You Need to Know About Samsung's 2025 Lineup – Event Details, Major Announcements, and Tech Rumors Coverage</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722895514741-android-communication-breakdown-fix-incomingoutgoing-call-problems-here/"><u>Android Communication Breakdown? Fix Incoming/Outgoing Call Problems Here!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/connect-with-ease-the-ultimate-guide-to-contacting-digiatry/"><u>Connect with Ease: The Ultimate Guide to Contacting Digiatry</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-led-light-colors-understanding-your-ps4-controllers-messages/"><u>Decoding LED Light Colors: Understanding Your PS4 Controller's Messages</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/discover-innovative-desktop-navigation-upgrade-with-copernics-advanced-search-tools/"><u>Discover Innovative Desktop Navigation: Upgrade with Copernic's Advanced Search Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-code-43-error-rectification/"><u>Effective Strategies for Code 43 Error Rectification</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oneplus-12r-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast OnePlus 12R to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-y36i-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo Y36i</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-simple-steps-for-merging-youtube-media-files/"><u>The Simple Steps for Merging YouTube Media Files</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/winning-the-battle-againnst-patchy-playbacks-top-fixes-for-windows-11-audio-issues-updated-troubleshooting/"><u>Winning the Battle Againnst Patchy Playbacks: Top Fixes for Windows 11 Audio Issues, Updated Troubleshooting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategies-for-effortless-insertion-of-videos-into-youtube-compilations/"><u>[New] Strategies for Effortless Insertion of Videos Into YouTube Compilations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-vegaspros-progressive-changes-2019/"><u>2024 Approved Evaluating VegasPro's Progressive Changes (2019)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-clearing-browsing-history-and-caches-across-all-top-web-browsers/"><u>Complete Guide: Clearing Browsing History & Caches Across All Top Web Browsers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-blur-facesbackgroundimages-in-photoshop/"><u>How to Blur Faces/Background/Images in Photoshop</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2016-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2016 document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unveiling-the-new-age-of-virtual-reality/"><u>In 2024, Unveiling the New Age of Virtual Reality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-look-the-ins-and-outs-of-t-mobiles-national-roaming-policy/"><u>Inside Look: The Ins and Outs of T-Mobile's National Roaming Policy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-logitechs-high-performance-g29-driving-force-racing-wheel-on-your-pc-driver-support-for-win7-8-and-10/"><u>Install Logitech's High-Performance G29 Driving Force Racing Wheel on Your PC - Driver Support for Win7, 8 & 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-choice-a-detailed-guide-on-selecting-iphone-vs-android-technology/"><u>Navigating the Choice: A Detailed Guide on Selecting iPhone Vs. Android Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-harnessing-live-activities-on-your-iphone-through-ios-16-updates/"><u>Step-by-Step Tutorial: Harnessing Live Activities on Your iPhone Through iOS 16 Updates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-essential-guide-to-acquiring-ai-knowledge-for-free-by-learning-at-your-own-speed-with-lifewire/"><u>The Essential Guide to Acquiring AI Knowledge for Free by Learning at Your Own Speed with Lifewire</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tips-for-configuring-parental-filters-on-your-discord-account/"><u>Ultimate Tips for Configuring Parental Filters on Your Discord Account</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-advantages-of-evs-over-gas-powered-cars/"><u>Unveiling the Advantages of EVs Over Gas-Powered Cars</u></a></li>
 </ul></div>
 

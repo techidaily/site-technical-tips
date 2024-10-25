@@ -1,7 +1,7 @@
 ---
 title: Creative and Entertaining iOS Shenanigans to Surprise Your Mates
-date: 2024-10-14T16:07:40.701Z
-updated: 2024-10-19T16:18:06.455Z
+date: 2024-10-21T10:37:53.635Z
+updated: 2024-10-24T17:03:51.242Z
 categories:
   - BestProducts
 description: This Article Describes Creative and Entertaining iOS Shenanigans to Surprise Your Mates
@@ -43,23 +43,9 @@ of 06
 
 of 06
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [The Screenshot Background](https://www.lifewire.com/take-screenshot-on-any-device-5087162)
 
 ![Ipad2 Comparison](https://www.lifewire.com/thmb/jPN69wWYT2zLJfh18NfogwaSrHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-457316526-57deda085f9b58651650818c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Credit: Justin Sullivan / Staff Editorial #: 457316526
 
@@ -68,6 +54,13 @@ of 06
 03
 
 of 06
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## [The Screenshot Home Screen](https://www.lifewire.com/customize-iphone-home-screen-5194141)
 
@@ -92,6 +85,13 @@ of 06
 
 ![blue-screen-of-death-trick.jpg](https://www.lifewire.com/thmb/_gxotYS62h_k3CB3IJcw8XjirCo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/blue-screen-of-death-trick-56a532a05f9b58b7d0db708b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This one is funnier if you're targeting an IT professional or anyone that knows a bit about computers. The famed "Blue Screen of Death" is the error screen Windows gives when the operating system crashes.
 
  Having the Blue Screen of Death appear on an Apple device may or may not trick someone who knows a thing or two about computers. But, at the very least, it should draw a good laugh.
@@ -106,6 +106,13 @@ of 06
 
 ![Computer graphic of a human eye (negative-image)](https://www.lifewire.com/thmb/_a_kXKBXJhuHJ1QPW0N00LOavkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-680799841-653726185c454bf29f730cce93fcb45a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 MEHAU KULYK/SCIENCE PHOTO LIBRARY / Getty Images
 
 [iOS's accessibility options](https://www.lifewire.com/ipad-accessibility-guide-1994516) can be a goldmine for pranksters. Inverting the colors can make the iPad look all out of whack with no easy way to put it back to normal. Unless your target has really experimented with all the iPad settings, they probably won't figure it out.
@@ -118,22 +125,21 @@ MEHAU KULYK/SCIENCE PHOTO LIBRARY / Getty Images
 
 of 06
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [Put the Device in Zoom Mode](https://www.lifewire.com/zoom-in-and-out-on-ipad-4103821)
 
 ![Ladybird on girl's hand under magnifying glass](https://www.lifewire.com/thmb/ly93teq_5dn-YxKk4JmXf6WLY7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-588494079-6d7dfd09ac874928924cdc745685e929.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Westend61 / Getty Images
@@ -173,20 +179,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/he-significance-of-analytics-in-youtube-rank-enhancement/"><u>[New] The Significance of Analytics in YouTube Rank Enhancement</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-best-ios-applications-for-gameplaying-iconic-psp-titles/"><u>[Updated] In 2024, Best iOS Applications for Gameplaying Iconic PSP Titles</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-why-instagram-story-highlights-matter-a-primer/"><u>[Updated] In 2024, Why Instagram Story Highlights Matter A Primer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/aviwav-movavi/"><u>「オンラインでのフリーAVIからWAVへの移行: Movavi使い方レポート」</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1-marco-brogiato-professional-video-editor-at-movavi-discover-his-work/"><u>1. Marco Brogiato: Professional Video Editor at Movavi - Discover His Work</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-master-video-capturing-with-the-top-3-smartphone-titans/"><u>2024 Approved Master Video Capturing with the Top 3 Smartphone Titans</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/crea-e-condividi-il-tuo-video-amv-gratuitamente-online-utilizzando-movavi-guida-passo-passo/"><u>Crea E Condividi Il Tuo Video AMV Gratuitamente Online Utilizzando Movavi - Guida Passo-Passo!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-windows-insignia-driver-downloads-at-lightning-speed/"><u>Effortless Installation: Windows Insignia Driver Downloads at Lightning Speed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-converter-transform-mpeg-files-to-avi-format-with-movavi/"><u>Free Online Converter: Transform MPEG Files to AVI Format with Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guia-paso-a-paso-para-convertir-orf-a-jpeg-sin-costo-alguno-mediante-el-servicio-online-de-movavi-convertidor-de-imagen/"><u>Guía Paso a Paso Para Convertir ORF a JPEG Sin Costo Alguno Mediante El Servicio Online De Movavi Convertidor De Imagen</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-crafting-the-perfect-picture-for-youtube-upload/"><u>In 2024, Crafting the Perfect Picture for YouTube Upload</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-top-recruiter-shorts-find-your-motivation/"><u>In 2024, Top Recruiter Shorts Find Your Motivation!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-ai-powered-tools-for-conversing-and-reviewing-text-in-pdfs/"><u>Top 6 AI-Powered Tools for Conversing & Reviewing Text in PDFs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformation-libre-des-videos-flv-en-format-lineaire-avec-movavi/"><u>Transformation Libre Des Vidéos FLV en Format Linéaire Avec Movavi</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-step-wise-technique-turn-video-upside-down-in-vlc-media-player/"><u>[New] 2024 Approved Step-Wise Technique Turn Video Upside Down in VLC Media Player</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-choosing-frame-rate-wisely-is-30-or-60-fps-better-in-2024/"><u>[New] Choosing Frame Rate Wisely Is 30 or 60 FPS Better, In 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-seamless-integration-utilizing-instagrams-music-stickers-expertise/"><u>[Updated] In 2024, Seamless Integration Utilizing Instagram's Music Stickers Expertise</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-a54-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy A54 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-ios-16-functions-you-must-try-today-tips-and-tricks-revealed/"><u>Essential iOS 16 Functions You Must Try Today: Tips & Tricks Revealed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-90-lites-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Honor 90 Lites Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/interactive-fun-7-amazing-online-gaming-choices-for-children/"><u>Interactive Fun: 7 Amazing Online Gaming Choices for Children</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-issues-with-failed-updater-for-win11-v22h2-version/"><u>Mitigating Issues with Failed Updater for WIN11 V22H2 Version</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-xiaomi-redmi-k70-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Xiaomi Redmi K70 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-early-bird-perks-preordering-iphone-15-apple-watch-series-ultra-2-with-amazing-discounts-tech-insights-by-zdnet/"><u>Unlock Early Bird Perks: Preordering iPhone 15, Apple Watch Series Ultra 2 with Amazing Discounts | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-upgrading-to-an-iphone-16-pro-doesnt-make-sense-for-me-and-my-iphone-ebastion-a-closer-look-at-four-major-concerns-addressed/"><u>Why Upgrading to an iPhone 16 Pro Doesn't Make Sense for Me and My iPhone Ebastion | A Closer Look at Four Major Concerns Addressed</u></a></li>
 </ul></div>
 

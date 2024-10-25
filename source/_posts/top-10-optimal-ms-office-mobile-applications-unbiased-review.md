@@ -1,7 +1,7 @@
 ---
 title: Top 10 Optimal MS Office Mobile Applications - Unbiased Review
-date: 2024-10-14T16:19:34.690Z
-updated: 2024-10-19T16:00:05.577Z
+date: 2024-10-18T01:29:47.903Z
+updated: 2024-10-24T18:01:00.496Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ Within the embargoed time frame, ZDNET reviewers can test the latest features (i
 While ZDNET primarily covers smartphone releases in the US market, we also evaluate international handsets to understand the competitive landscape better and have a frame of reference when making recommendations to international readers. We also attend trade shows, including [CES](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/) and [Mobile World Congress](https://www.zdnet.com/collection/mwc-2024/), to connect with industry experts and analysts.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What makes a phone ZDNET recommended?
@@ -61,19 +61,6 @@ But also, how does the phone feel when it's tucked in your tight jeans or lightw
 
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Performance
 
 Kerry Wan/ZDNET
@@ -83,6 +70,13 @@ Several factors affect a phone's performance, including LTE/5G signal, battery l
 Performance testing also includes putting phones through varying levels of graphic-intensive tasks, including importing and exporting spreadsheets, photo-editing in Adobe Lightroom, and playing mobile games like _Genshin Impact_ and _Asphalt 9\._ I'll oftentimes have a music player app running in the background or YouTube Picture-in-Picture just to push the mobile processor a little more.
 
 Of course, reviewers also consider the price of the tested devices, adjusting their standards and expectations accordingly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Cameras
 
@@ -95,10 +89,10 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battery life and charging
@@ -110,10 +104,10 @@ It's also important for us to evaluate how long phones last under light, moderat
 On average, phones can score from three hours of SOT to upwards of nine hours of SOT, with the value resetting after 24 hours or when the phone is fully recharged. However, remember that a high SOT value is not always correlated to top-tier battery life; being able to play a Netflix video at full brightness for four hours straight is more impressive, endurance-wise, than leaving a text document on the screen for nine hours. Therefore, when speaking to the battery life of phones, we also describe it in a more practical sense -- mentioning if a device can last one full day of usage, more or less.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Special features
@@ -162,20 +156,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-key-to-rising-roi-in-facebooks-animated-advertising-sector/"><u>[New] 2024 Approved The Key to Rising ROI in Facebook's Animated Advertising Sector</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-understanding-snapchats-emojis-more-than-just-fun/"><u>[Updated] In 2024, Understanding Snapchat's Emojis More Than Just Fun</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-analysis-complete-overhaul-of-facetune-app/"><u>2024 Approved In-Depth Analysis Complete Overhaul of Facetune App</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-methods-for-booting-outlook-safely-on-your-pc-running-windows-nt-detailed-instructions-and-images-included/"><u>Easy Methods for Booting Outlook Safely on Your PC Running Windows nT - Detailed Instructions and Images Included</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-mov-and-flv-converter-tool-moveavi/"><u>Free Online MOV and FLV Converter Tool - MoveAVI</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-a-step-by-step-approach-add-a-linked-url-to-your-tiktok-profile/"><u>In 2024, A Step-by-Step Approach Add a Linked URL to Your TikTok Profile</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-tv-shutdown-procedure/"><u>Instagram TV Shutdown Procedure</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963667057-intel-nvme-driver-setup-download-now-for-swift-hassle-free-experience/"><u>Intel NVME Driver Setup - Download Now for Swift, Hassle-Free Experience</u></a></li>
-<li><a href="https://win-online.techidaily.com/lange-ladezeiten-bei-ihrem-iphone-backup-ursachenanalyse-and-effizienzsteigerungsstrategien/"><u>Lange Ladezeiten Bei Ihrem iPhone Backup: Ursachenanalyse & Effizienzsteigerungsstrategien</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-aiff-to-aac-online/"><u>Movavi提供: 手軽なAIFF to AAC Online コードクエスト無料変換ツール</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/moveavis-costless-video-transformation-swiftly-switching-from-mkv-files-to-high-quality-m4a-audio-tracks/"><u>Moveavi's Costless Video Transformation: Swiftly Switching From MKV Files to High-Quality M4A Audio Tracks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/najlepsi-sefreditove-softvary-pre-gopro-podobe-13-nejkrajsich-programov-a-nasteh-oprogramu/"><u>Najlepší Šéfrediťové Softváry Pre GoPro: Podobe 13 Nejkrajších Programov a Nástěh Oprogramu</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ricodifica-online-gratuita-dei-file-mp4-in-formato-aiff-con-assistenza-professionale-convertitore-video/"><u>Ricodifica Online Gratuita Dei File MP4 in Formato AIFF Con Assistenza Professionale - Convertitore Video</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformacion-gratuita-de-contenido-flash-swf-a-video-m4v-en-linea-utilizando-movavi-pasos-sencillos/"><u>Transformación Gratuita De Contenido Flash (SWF) a Vídeo M4V en Línea Utilizando Movavi: Pasos Sencillos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformez-votre-fichier-opus-en-m4a-sans-frais-online-a-linstant-via-movavi/"><u>Transformez Votre Fichier OPUS en M4A Sans Frais - Online À L'Instant via Movavi</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mobile-battlefronts-the-best-mobas-on-android-for-2024/"><u>[New] Mobile Battlefronts The Best MOBAs on Android for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-overcome-instagrams-story-upload-issues/"><u>[New] Overcome Instagram's Story Upload Issues</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-fbx-gameplay-snapshot-techniques/"><u>[Updated] 2024 Approved FBX Gameplay Snapshot Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-insiders-look-at-top-earning-instagram-tactics/"><u>[Updated] 2024 Approved Insider's Look at Top Earning Instagram Tactics</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y17s-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y17s to PC? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-battery-life-on-macos-monterey-using-the-built-in-low-power-feature-tech-tips/"><u>Maximize Battery Life on MacOS Monterey Using the Built-In Low Power Feature | Tech Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-libexec32dll-file-absence-on-your-pc/"><u>Resolving libexec32.dll File Absence on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/synchronize-your-soundscape-a-tutorial-for-multi-bluetooth-speaker-connection/"><u>Synchronize Your Soundscape: A Tutorial for Multi-Bluetooth Speaker Connection</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-final-showdown-is-obs-studio-superior-to-bandicam-for-2024/"><u>The Final Showdown Is OBS Studio Superior to Bandicam for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-school-supplies-with-free-cash-get-150-off-on-apple-products-exclusive-offer-inside/"><u>Transform School Supplies with Free Cash! Get $150 Off on Apple Products | Exclusive Offer Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-hamachi-service-stopped-complications/"><u>Understanding and Fixing 'Hamachi Service Stopped' Complications</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-performance-with-mechanical-f-keys/"><u>Unlocking Performance with Mechanical F-Keys</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-shaky-footage-no-problem-fcpx-video-stabilization-tips/"><u>Updated Shaky Footage? No Problem! FCPX Video Stabilization Tips</u></a></li>
 </ul></div>
 

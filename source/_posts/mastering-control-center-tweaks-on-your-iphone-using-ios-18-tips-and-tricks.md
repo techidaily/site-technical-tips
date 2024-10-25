@@ -1,7 +1,7 @@
 ---
 title: Mastering Control Center Tweaks on Your iPhone Using iOS 18 | Tips & Tricks
-date: 2024-10-16T16:05:16.910Z
-updated: 2024-10-19T16:12:34.205Z
+date: 2024-10-18T18:56:28.768Z
+updated: 2024-10-25T01:58:43.436Z
 tags:
   - apple
 categories:
@@ -36,6 +36,13 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -45,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -57,18 +64,18 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -79,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -90,13 +97,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,22 +134,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-facebooks-premier-new-innovations-exposed/"><u>[New] Facebook's Premier New Innovations Exposed</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-prime-screen-grabs-for-film-enthusiasts/"><u>[Updated] Prime Screen Grabs for Film Enthusiasts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/demystifying-wireless-internet-calls-what-you-need-to-know-about-wi-fi-calling/"><u>Demystifying Wireless Internet Calls: What You Need to Know About Wi-Fi Calling</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/free-halloween-hits-the-ultimate-collection-of-70-spooky-songs-in-mp3-format/"><u>Free Halloween Hits: The Ultimate Collection of 70 Spooky Songs in MP3 Format</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-most-out-of-your-legion-5-pro-essential-driver-updates-and-software-tips/"><u>Get the Most Out of Your Legion 5 Pro: Essential Driver Updates & Software Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-guide-starting-your-echo-dot-by-entering-setup-mode/"><u>How To Guide: Starting Your Echo Dot by Entering Setup Mode</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Samsung Galaxy M14 5G Phone?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-motorola-defy-2-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Motorola Defy 2 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/incredible-journeys-you-can-experience-from-your-living-room-exploring-the-globe-virtually/"><u>Incredible Journeys You Can Experience From Your Living Room: Exploring the Globe Virtually</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-not-registered-on-network-issues-a-guide-for-your-samsung-galaxy-device/"><u>Solving 'Not Registered on Network' Issues: A Guide for Your Samsung Galaxy Device</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-guide-to-professional-instagram-live-conversations-for-2024/"><u>Step-by-Step Guide to Professional Instagram Live Conversations for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-how-to-get-started-with-google-gemini-features/"><u>Step-by-Step Instructions: How To Get Started with Google Gemini Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-repair-strategies-for-overcoming-vpn-error-code-800-on-both-sides/"><u>Step-by-Step Repair Strategies for Overcoming VPN Error Code 800 on Both Sides</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-must-see-max-lineup-todays-top-television-picks-for-viewers/"><u>The Must-See Max Lineup: Today's Top Television Picks for Viewers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-essential-factors-to-evaluate-when-purchasing-pre-owned-ipads/"><u>Top 5 Essential Factors to Evaluate When Purchasing Pre-Owned iPads</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-list-leading-wi-fi-expanders-for-superior-coverage-2024-edition/"><u>Ultimate List: Leading Wi-Fi Expanders for Superior Coverage, 2024 Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instant-ig-glory-high-quality-covers-on-apple-and-android-devices-for-2024/"><u>[New] Instant IG Glory High-Quality Covers on Apple and Android Devices for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/our-first-step-designing-attractive-videos-on-a-mac-for-2024/"><u>[New] Your First Step Designing Attractive Videos on a Mac for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-moment-in-vr-infinity/"><u>[Updated] Ultimate Moment in VR Infinity</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-ultimate-youtube-to-mp4-blueprint/"><u>2024 Approved The Ultimate YouTube to MP4 Blueprint</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-visionary-leap-introducing-a-domestic-robotic-companion-zdnet-explores/"><u>Apple's Visionary Leap: Introducing a Domestic Robotic Companion | ZDNet Explores</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-giants-in-a-tiny-package-m4-powered-mac-mini-and-apple-tv-which-reigns-supreme-gadget-review/"><u>Comparing Giants in a Tiny Package: M4-Powered Mac Mini and Apple TV - Which Reigns Supreme? | Gadget Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-the-keychron-q14-max-a-truly-universal-solution-for-all-hands/"><u>Comprehensive Review of the Keychron Q14 Max: A Truly Universal Solution for All Hands</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-crossrovers-accessing-and-using-android-apps-on-windows-10-systems/"><u>Effortless Crossrovers: Accessing and Using Android Apps on Windows 10 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-strategies-for-developers-crafting-perfect-apps-on-visionos-apple-expert-advice/"><u>Essential Strategies for Developers: Crafting Perfect Apps on VisionOS (Apple Expert Advice)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oneplus-nord-n30-se-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on OnePlus Nord N30 SE Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/huge-presidents-day-blowout-snag-your-discounted-macbook-pro-w-apples-powerful-m3-pro-at-200-less/"><u>Huge Presidents’ Day Blowout: Snag Your Discounted MacBook Pro W/ Apple's Powerful M3 Pro at $200 Less</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>In 2024, Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-the-new-mac-mini-with-m4-chip-compact-and-powerful-like-an-apple-tv-explores/"><u>Is the New Mac Mini with M4 Chip Compact and Powerful Like an Apple TV? Explores</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722848814926-snapchat-reactivation-strategies-regain-control-over-your-digital-friendships-today/"><u>Snapchat Reactivation Strategies: Regain Control Over Your Digital Friendships Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-accelerating-your-computers-processing-power-effective-maintenance-techniques/"><u>The Ultimate Guide to Accelerating Your Computer's Processing Power: Effective Maintenance Techniques</u></a></li>
 </ul></div>
 

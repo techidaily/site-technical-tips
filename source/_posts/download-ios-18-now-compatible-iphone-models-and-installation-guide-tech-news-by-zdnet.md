@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18 Now: Compatible iPhone Models and Installation Guide | Tech News by ZDNet"
-date: 2024-10-13T16:04:49.983Z
-updated: 2024-10-19T16:14:36.545Z
+date: 2024-10-24T05:09:01.321Z
+updated: 2024-10-24T22:03:15.294Z
 tags:
   - apple
 categories:
@@ -32,31 +32,31 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -65,10 +65,16 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 After installing the latest iOS update, your iPhone will restart.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -76,13 +82,6 @@ After installing the latest iOS update, your iPhone will restart.
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
@@ -124,6 +123,19 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -169,18 +181,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-extended-review-straightforward-implementation-of-hdr/"><u>[Updated] Extended Review Straightforward Implementation of HDR</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-how-to-edit-uploaded-published-youtube-videos/"><u>[Updated] How to Edit Uploaded/ Published YouTube Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tricks-to-successfully-link-your-chromecast-with-the-compatible-remote/"><u>Expert Tricks to Successfully Link Your Chromecast with the Compatible Remote</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-13-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 13 Video to Computer? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-creating-chuckles-with-simple-images/"><u>In 2024, Creating Chuckles with Simple Images</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mapping-media-memorable-ends/"><u>Mapping Media Memorable Ends</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/online-access-to-spider-man-no-way-home-a-comprehensive-guide/"><u>Online Access to Spider-Man: No Way Home – A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-d3dx927dll-file-not-found-a-comprehensive-guide/"><u>Resolving d3dx9_27.dll File Not Found: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/rise-to-prominence-growth-tactics-for-popularity-on-apple-tv-services/"><u>Rise to Prominence: Growth Tactics for Popularity on Apple TV Services</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-your-iphone-contacts-disappear-and-how-to-bring-them-back/"><u>Solving the Issue: Why Your iPhone Contacts Disappear and How to Bring Them Back</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-evolution-and-status-quo-of-verizons-5g-services/"><u>The Evolution and Status Quo of Verizon's 5G Services</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-how-to-restore-your-computers-audio-input/"><u>Troubleshooting Windows 11: How to Restore Your Computer's Audio Input</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/whats-next-for-apple-insight-into-the-iphone-2024-price-tag-launch-timeline-and-rumored-innovations/"><u>What's Next for Apple? Insight Into the iPhone 2024 Price Tag, Launch Timeline, and Rumored Innovations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ace-your-screens-the-premium-guide-to-androids-top-8-capture-apps-for-2024/"><u>[New] Ace Your Screens The Premium Guide to Android’s Top 8 Capture Apps for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-definitive-guide-to-srt-editing-on-mac/"><u>[New] The Definitive Guide to SRT Editing on Mac</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-share-a-world-view-iphone-360-film-techniques-for-2024/"><u>[Updated] Share a World View IPhone 360 Film Techniques for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-the-right-ipad-for-your-child-heres-our-picks-for-best-of-2022-zdnet/"><u>Choosing the Right iPad for Your Child? Here's Our Picks for Best of 2022! (ZDNET)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-google-pixel-8-to-mac-drfone-by-drfone-android/"><u>How to Mirror Google Pixel 8 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-poco-x6-pro-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Poco X6 Pro.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ideal-8-visuals-to-elevate-your-mbp-aesthetics/"><u>Ideal 8 Visuals to Elevate Your MBP Aesthetics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964496458-lowest-price-on-lian-li-lancool-215-vibrant-and-sleek-design-for-just-89/"><u>Lowest Price on Lian Li Lancool 215 - Vibrant and Sleek Design for Just $89</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-daily-output-with-these-productivity-techniques-and-software-picks-revealed-by-zdnets-top-experts/"><u>Maximize Daily Output with These Productivity Techniques and Software Picks Revealed by ZDNet's Top Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionary-apples-realm-ai-how-it-eclipses-gpt/"><u>Revolutionary Apple's RealM AI: How It Eclipses GPT-</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-notetakers-2024-comprehensive-testing-and-reviews-by-tech-expert/"><u>Top Notetakers 2024: Comprehensive Testing & Reviews by Tech Expert</u></a></li>
 </ul></div>
 

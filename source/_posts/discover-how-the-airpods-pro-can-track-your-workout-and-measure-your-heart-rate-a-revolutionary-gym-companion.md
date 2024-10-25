@@ -1,7 +1,7 @@
 ---
 title: "Discover How the AirPods Pro Can Track Your Workout and Measure Your Heart Rate: A Revolutionary Gym Companion"
-date: 2024-10-18T16:05:03.590Z
-updated: 2024-10-19T16:07:30.097Z
+date: 2024-10-20T22:40:57.115Z
+updated: 2024-10-24T20:45:01.612Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -50,6 +50,13 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 **Also: [Apple research reveals some dazzling AI tech could be headed to your iPhone](https://www.zdnet.com/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/)**
 
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
 
@@ -68,10 +75,16 @@ Now that the major players have entered the competition, the big question this y
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
@@ -89,13 +102,6 @@ The Wireless Power Consortium (WPC), a committee that consists of Apple, Samsung
 The adoption of such technology bridges a longstanding gap between MagSafe-compatible devices (iPhone 12 and up) and ones without the feature, allowing Android users to also reap the benefits of [magnet-based charging accessories](https://www.zdnet.com/article/the-12-best-mobile-accessories-at-ces-2024-so-far-iphone-call-recorder-qi2-chargers-and-more/). Accessory makers like [Anker](https://www.zdnet.com/article/ankers-latest-wireless-charging-accessories-are-all-in-on-qi2-heres-why-that-matters/) and Satechi have already begun rolling out Qi2-compatible docks and charging pads. Now, it's on phone manufacturers to foot the second half of the bill by integrating the proper coils on the back of their devices. Expect those to arrive very soon.
 
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
 
@@ -116,10 +122,10 @@ As manufacturers continue to figure out ways to shrink and fit better components
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
@@ -176,21 +182,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-a-compilation-of-must-play-virtual-realms/"><u>[New] A Compilation of Must-Play Virtual Realms</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-guide-to-superior-zoom-sound-quality/"><u>[New] The Ultimate Guide to Superior Zoom Sound Quality</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-analyzing-youtube-rankings-what-drives-top-placement-in-2024/"><u>[Updated] Analyzing YouTube Rankings What Drives Top Placement, In 2024</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/movsd/"><u>迅速找回被删除的MOV文件：三种从SD卡中恢复方法</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-you-need-downloading-detailed-owners-manuals-for-every-iphones-series/"><u>All You Need: Downloading Detailed Owner's Manuals for Every iPhones Series</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-your-visibility-with-a-cutting-edge-set-of-banners-for-2024/"><u>Boost Your Visibility with a Cutting-Edge Set of Banners for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-invisible-intensity-covert-volume-reduction-in-garageband/"><u>In 2024, Invisible Intensity Covert Volume Reduction in Garageband</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-attracting-new-likes-and-followers-on-instagram/"><u>Mastering the Art of Attracting New Likes and Followers on Instagram</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722877773269-msidll-not-found-heres-how-to-fix-it-easily/"><u>msi.dll Not Found? Here's How to Fix It Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/to-rtx-or-not-to-rtx-making-the-right-choice-for-your-gaming-needs/"><u>To RTX or Not to RTX: Making the Right Choice for Your Gaming Needs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-video-doorbell-models-a-comprehensive-review/"><u>Top-Rated Video Doorbell Models : A Comprehensive Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-correcting-the-advapi32dll-couldnt-be-loaded-problems/"><u>Troubleshooting and Correcting The 'Advapi32.dll Couldn't Be Loaded' Problems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uncovering-the-reasons-behind-lack-of-access-to-facebook-marketplace/"><u>Uncovering the Reasons Behind Lack of Access to Facebook Marketplace</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-your-facebook-account-solutions-when-youre-offline/"><u>Unlocking Your Facebook Account: Solutions When You're Offline!</u></a></li>
-<li><a href="https://solve-news.techidaily.com/1726225244632-mpeg-movavi/"><u>オンラインで使いやすくて安価なMPEGファイルをリアルタイム変換: Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-copyright-conduct-for-instagram-artists/"><u>[New] Copyright Conduct for Instagram Artists</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-dive-into-creating-alluring-youtube-video-intros-for-2024/"><u>[New] Dive Into Creating Alluring YouTube Video Intros for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-basic-obs-setup-tips-for-budget-machines/"><u>[Updated] Basic OBS Setup Tips for Budget Machines</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-implementing-gradual-audio-reduction-tricks-in-audacity/"><u>[Updated] In 2024, Implementing Gradual Audio Reduction Tricks in Audacity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-surprising-upgrade-how-the-ipad-airs-impressive-features-challenge-my-loyalty-to-the-ipad-pro/"><u>A Surprising Upgrade: How the IPad Air's Impressive Features Challenge My Loyalty to the iPad Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-guide-setting-up-automatic-user-authentication-on-your-pc/"><u>Easy Guide: Setting up Automatic User Authentication on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-correcting-lameencdll-problems-in-audio-editing-software/"><u>Effective Solutions for Correcting lame_enc.dll Problems in Audio Editing Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-logitech-g27-racing-wheel-gamepad-driver-software-for-pc-compatible-with-windows-7-8-and-10/"><u>Free Logitech G27 Racing Wheel Gamepad Driver Software for PC - Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-redmi-12-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Xiaomi Redmi 12.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-vivo-y100i-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Vivo Y100i</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-xiaomi-redmi-note-12r-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Xiaomi Redmi Note 12R Lock Screen Password</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-mystery-of-a-missing-shell32dll-file-a-step-by-step-guide/"><u>Resolving the Mystery of a Missing Shell32.dll File: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revamped-speaker-performance-lg-televisions-now-offer-top-notch-sound-perfect-for-apple-enthusiasts-a-closer-look/"><u>Revamped Speaker Performance: LG Televisions Now Offer Top-Notch Sound, Perfect for Apple Enthusiasts - A Closer Look</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/snag-a-steal-exclusive-deal-on-apple-watch-series-10-for-under-100-through-best-buys-preorder-offer-full-details-inside-zdnet/"><u>Snag a Steal: Exclusive Deal on Apple Watch Series 10 for Under $100 Through Best Buy's Preorder Offer – Full Details Inside | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-of-best-traffic-management-tools/"><u>The Ultimate Selection of Best Traffic Management Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-latest-innovation-iphone-16s-revolutionary-camera-button-and-its-remarkable-capabilities/"><u>Unveiling the Latest Innovation: IPhone 16'S Revolutionary Camera Button & Its Remarkable Capabilities</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Collaborative Editing in Apple's Pages Through iCloud: Expert Tips From ZDNet"
-date: 2024-10-17T16:15:44.990Z
-updated: 2024-10-19T16:06:37.871Z
+date: 2024-10-23T21:58:27.047Z
+updated: 2024-10-25T08:17:28.808Z
 tags:
   - apple
 categories:
@@ -27,13 +27,6 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
@@ -52,6 +45,13 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -60,14 +60,14 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Enable the Collaboration feature
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -76,13 +76,6 @@ The first thing you must do is open the Pages document that will be shared with 
 **Figure 3**: Apple Pages open and the Collaborate button is ready to use.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Enable the Collaborate feature
 
@@ -93,10 +86,10 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
@@ -116,6 +109,13 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -157,20 +157,22 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-love-the-cut-filmoras-top-10-edits-unveiled/"><u>[New] 2024 Approved Love the Cut Filmora's Top 10 Edits Unveiled</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-crafting-compelling-visual-narratives-with-fb-slideshow-techniques/"><u>[New] Crafting Compelling Visual Narratives with FB SlideShow Techniques</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-screen-to-air-assessing-obs-and-twitch-studios-features/"><u>[Updated] Screen to Air Assessing OBS and Twitch Studio's Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/como-convertir-tu-musica-mp3-al-formato-mas-moderno-webm-la-solucion-sin-coste-con-el-mejores-programas-gratuitos-disponibles/"><u>Cómo Convertir Tu Música MP3 Al Formato Más Moderno, WebM: La Solución Sin Coste Con El Mejores Programas Gratuitos Disponibles</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fai-scambiare-immagini-pgm-in-jpeg-senza-costi-convertitore-on-line-di-movavi/"><u>Fai Scambiare Immagini PGM in JPEG Senza Costi: Convertitore On-Line Di Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gsmwav-movavi/"><u>GSMからWAVへの無料変換: オンラインツールとその便利さ - Movavi</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/o-add-emojis-on-youtube-comments-for-2024/"><u>How to Add Emojis on YouTube Comments for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-honor-play-7t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Honor Play 7T without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-update-microsoft-store-enables-straight-to-installer-download-option/"><u>New Update: Microsoft Store Enables Straight-to-Installer Download Option</u></a></li>
-<li><a href="https://win-blog.techidaily.com/surviving-against-all-odds-a-deeper-dive-into-eternal-recurrence-phenomena/"><u>Surviving Against All Odds: A Deeper Dive Into Eternal Recurrence Phenomena</u></a></li>
-<li><a href="https://blog-min.techidaily.com/the-ultimate-guide-to-epubmobi-format-transformation-and-security/"><u>The Ultimate Guide to EPUB/MOBI Format Transformation & Security</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-no-cost-methods-for-capturing-sound-from-your-pc/"><u>Top 7 No-Cost Methods for Capturing Sound From Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/png-gif-movavi/"><u>무인도에서 PNG 화면을 GIF로 효과적으로 변환하기: Movavi 시리즈</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mp3-m4v-movavi/"><u>오픈소스 MP3, M4V 파일을 원활하게 바꾸기 - Movavi 서비스</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-piecing-a-puzzle-of-cinematic-highlights/"><u>[New] In 2024, Piecing a Puzzle of Cinematic Highlights</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-maximize-mobile-viewing-sharper-chromebook-and-phone-videos/"><u>[New] Maximize Mobile Viewing Sharper Chromebook and Phone Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-real-time-recording-tech-that-never-delays-you/"><u>[New] Real-Time Recording Tech That Never Delays You</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-start-to-finish-seamless-editing-with-kinemaster/"><u>[Updated] From Start to Finish Seamless Editing with Kinemaster</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y36-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y36 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-apples-latest-titans-mac-mini-with-m2-vs-mac-studio-and-m1-performance-showdown-insights-from-zdnet/"><u>Comparing Apple's Latest Titans: Mac Mini with M2 vs Mac Studio & M1 Performance Showdown - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-successfully-install-the-full-microsoft-365-package-on-your-computer/"><u>How to Successfully Install the Full Microsoft 365 Package on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/imessage-alternatives-for-android-users-a-comprehensive-guide/"><u>IMessage Alternatives for Android Users – A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-best-practices-in-converting-videos-for-twitter/"><u>In 2024, Best Practices in Converting Videos for Twitter</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/non-apple-rechargeable-wallet-tracker-top-alternatives-to-apples-airtags-techadvice/"><u>Non-Apple Rechargeable Wallet Tracker: Top Alternatives to Apple's AirTags | TechAdvice</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/snapshot-review-vidmas-innovation-on-screen-capturing/"><u>Snapshot Review Vidma's Innovation on Screen Capturing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-buzz-alert-anticipated-launch-timeline-for-apples-latest-devices-including-macbook-air-ipad-pro-and-ipad-air-in-march-detailed-analysis-on-zdnet/"><u>Tech Buzz Alert: Anticipated Launch Timeline for Apple's Latest Devices Including MacBook Air, iPad Pro & iPad Air in March? Detailed Analysis on ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-11-must-have-windows-and-mac-programs-for-enhanced-productivity-zdnet-insights/"><u>Top 11 Must-Have Windows & Mac Programs for Enhanced Productivity | ZDNet Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-reasons-why-sticking-with-iphone-14-beats-the-upgrade-to-iphone-16-pro-insights/"><u>Top 4 Reasons Why Sticking with iPhone 14 Beats the Upgrade to iPhone 16 Pro - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uninstalling-the-ai-assistant-copilot-from-windows-11/"><u>Uninstalling the AI Assistant: Copilot From Windows 11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-final-cut-pro-tutorial-building-a-stunning-video-slideshow/"><u>Updated In 2024, Final Cut Pro Tutorial Building a Stunning Video Slideshow</u></a></li>
 </ul></div>
 

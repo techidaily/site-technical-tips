@@ -1,7 +1,7 @@
 ---
 title: Who's Peeking? Learn How to Spot the Names of Those Who Have Reviewed Your Google Doc
-date: 2024-10-15T16:03:51.798Z
-updated: 2024-10-19T16:13:13.467Z
+date: 2024-10-24T01:53:20.103Z
+updated: 2024-10-25T06:02:42.148Z
 categories:
   - BestProducts
 description: This Article Describes Who's Peeking? Learn How to Spot the Names of Those Who Have Reviewed Your Google Doc
@@ -31,27 +31,21 @@ thumbnail: https://www.lifewire.com/thmb/j7MsBMemLJ9eq38KMHDsgxeDciA=/400x300/fi
 ![Google Docs with Activity Dashboard and its Icon highlighted](https://www.lifewire.com/thmb/6h366_IuWsz8F-9uddJvUAX1F58=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ActivityDashboard2-5a823fbc319f4c3eb4e04702b3e925fe.jpg)
 2. Confirm that **Viewers** is selected on the left side.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Use the **All viewers** tab on the right to see who has viewed the document. You’ll see their name and when they last viewed it.  
 ![Viewers and All Viewers in the Activity Dashboard highlighted](https://www.lifewire.com/thmb/V6MAIeOj8jrGdn4DrWoeNivd42s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Viewers-51d26efb564141b29bc474b002b448ad.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Additional Dashboard Viewing Features
@@ -76,6 +70,13 @@ thumbnail: https://www.lifewire.com/thmb/j7MsBMemLJ9eq38KMHDsgxeDciA=/400x300/fi
 * The people you expect to view the document might have opted out of displaying their View History (see below).
 * You or the Admin may have View History turned off (see below).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Turn on Activity Dashboard View History
 
  If you are the Admin for the Google account and want to be sure that you have View History turned on for Google Docs,[visit your Google Admin Console](https://admin.google.com/) and log in.  
@@ -84,15 +85,16 @@ thumbnail: https://www.lifewire.com/thmb/j7MsBMemLJ9eq38KMHDsgxeDciA=/400x300/fi
 2. Scroll down to and select **Activity dashboard settings** .  
 ![Activity Dashboard Settings highlighted in the Admin console](https://www.lifewire.com/thmb/SNvzb0A93xucOZeGWmy-K7IJIzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ActivityDashboard-f8b9c4ccf2cd49b09fc48d58b48862d7.jpg)
 3. Confirm that**Users’ view history** is turned on. If not, click the **edit** icon (pencil) to the right, choose **On (recommended)** and click **Save** .  
-![Users' View History turned on in the Admin console](https://www.lifewire.com/thmb/BxokFwEg-UVGYlVp8dUELu73h1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/UsersViewHistory-b95295a4ec8c41d7b4248c00bacdaa33.jpg)  
- Depending on your workspace, you may see the option able to turn on**Access to view history** for other users to see Viewers and Viewer Trends in the Activity Dashboard.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Users' View History turned on in the Admin console](https://www.lifewire.com/thmb/BxokFwEg-UVGYlVp8dUELu73h1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/UsersViewHistory-b95295a4ec8c41d7b4248c00bacdaa33.jpg)  
+ Depending on your workspace, you may see the option able to turn on**Access to view history** for other users to see Viewers and Viewer Trends in the Activity Dashboard.
 
 ## Turn on Individual View History
 
@@ -103,13 +105,6 @@ thumbnail: https://www.lifewire.com/thmb/j7MsBMemLJ9eq38KMHDsgxeDciA=/400x300/fi
 3. Turn on one or both toggles on the right. The**Account setting** toggle displays view history for all Google documents while the**Document setting** displays it only for the current one.
 4. Select **Save** .  
 ![Privacy Settings in the Activity Dashboard](https://www.lifewire.com/thmb/1fuSObYbrH0fupoOGGrh7GfTcPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/privacysettings-2c944fd8e2274f788b1528e855b75158.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Seeing who viewed a Google Doc is a convenient way to make sure everyone reviews the document. To see who edited a document you’ve shared, you can also[look at the revision history](https://www.lifewire.com/how-to-manage-revision-history-in-google-docs-4776095) .
 
@@ -153,24 +148,14 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-from-novice-to-expert-advanced-screencasting-steps-for-2024/"><u>[New] From Novice to Expert Advanced Screencasting Steps for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-june-9th-insights-decoding-the-latest-new-york-times-connection-challenges-364/"><u>1. 'June 9Th Insights: Decoding the Latest New York Times Connection Challenges #364'</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2024-video/"><u>2024 的最佳線上影片下載網站清單及如何正確地下載 - 線上Video下載指南</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebook-insights-how-to-use-it-for-beginners/"><u>2024 Approved Facebook Insights How to Use It for Beginners</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/converti-formato-asf-a-wav-liberamente-on-line-scopri-come-farlo-con-lutilita-di-movavi/"><u>Converti Formato ASF a WAV Liberamente On-Line: Scopri Come Farlo Con L'utilità Di Movavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-tech-with-tom-detailed-analysis-of-pc-gear/"><u>Exploring Tech with Tom: Detailed Analysis of PC Gear</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratis-converter-geen-inkomsten-m4v-naar-mp4-online-de-beste-oplossing-van-movavi/"><u>Gratis Converter: Geen Inkomsten-M4V Naar MP4 Online - De Beste Oplossing Van Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratuit-conversion-de-mp4-en-wmv-sur-internet-via-movavi-tutorial-facile/"><u>Gratuit Conversion De MP4 en WMV Sur Internet via Movavi - Tutorial Facile</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-tecno-spark-20-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Tecno Spark 20 Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-motorola-moto-g04-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Motorola Moto G04</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/installation-essentials-intel-network-adapters-for-windows-users/"><u>Installation Essentials: Intel Network Adapters for Windows Users</u></a></li>
-<li><a href="https://article-tips.techidaily.com/maximize-content-by-merging-apple-music-to-videos-for-2024/"><u>Maximize Content by Merging Apple Music to Videos for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-web-mp4-aiff-aiffmp4/"><u>Movavi: 비용 없는 Web 이동에서 MP4, AIFF 강화 AIFF/MP4 변환</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/reformat-and-rename-macs-image-file-transformation-for-2024/"><u>Reformat and Rename Mac's Image File Transformation for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformez-gratuitement-un-fichier-ogm-en-vob-avec-movavi-guide-pas-a-pas/"><u>Transformez Gratuitement Un Fichier OGM en VOB Avec Movavi – Guide Pas À Pas</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/trasforma-filetti-ogg-in-formato-aac-fatto-a-mano-prova-il-servizio-di-conversione-on-line-e-gratuito/"><u>Trasforma Filetti OGG in Formato AAC Fatto a Mano - Prova Il Servizio Di Conversione On-Line E Gratuito</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/voor-geen-enkele-cent-omwandseltarief-van-aiff-naar-wav-online-met-movavi-leesgraag-gemaakt/"><u>Voor Geen Enkele Cent Omwandseltarief Van AIFF Naar WAV Online Met Movavi - Leesgraag Gemaakt!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ram/"><u>모바일 장치를 위한 원격 가용성을 유지하면서 RAM 보스트 자리 바꾸기 방법</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-macbook-air-face-off-is-it-time-to-upgrade-from-m2-to-the-latest-m3-chip/"><u>Apple MacBook Air Face-Off: Is It Time to Upgrade From M2 to the Latest M3 Chip?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-guide-sharing-and-editing-files-on-apple-pages-through-icloud-tips/"><u>Essential Guide: Sharing and Editing Files on Apple Pages Through iCloud - Tips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-breaking-into-the-world-of-youtube-stellar-intros-in-imovie/"><u>In 2024, Breaking Into the World of YouTube Stellar Intros in iMovie</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-complete-capital-compilation-your-first-podcast-edition/"><u>In 2024, Complete Capital Compilation Your First Podcast Edition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-narrow-your-focus-on-elite-hdr-camera-systems/"><u>In 2024, Narrow Your Focus on Elite HDR Camera Systems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/inside-the-magic-understanding-srts-impact-for-2024/"><u>Inside the Magic Understanding SRT's Impact for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/surprise-on-climbing-stairs-with-apple-decoding-the-unexpected-alerts-and-their-significance-zdnet/"><u>Surprise on Climbing Stairs with Apple: Decoding the Unexpected Alerts and Their Significance | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-iphone-14-plus-outshines-in-affordability-and-battery-life-a-comprehensive-review/"><u>Why iPhone 14 Plus Outshines in Affordability and Battery Life - A Comprehensive Review</u></a></li>
 </ul></div>
 

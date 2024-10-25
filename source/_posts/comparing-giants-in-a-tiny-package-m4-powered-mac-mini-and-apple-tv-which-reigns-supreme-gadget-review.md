@@ -1,7 +1,7 @@
 ---
 title: "Comparing Giants in a Tiny Package: M4-Powered Mac Mini and Apple TV - Which Reigns Supreme? | Gadget Review"
-date: 2024-10-12T16:04:20.961Z
-updated: 2024-10-19T16:15:04.811Z
+date: 2024-10-18T16:55:33.152Z
+updated: 2024-10-25T04:00:16.876Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +89,16 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,20 +139,21 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-guide-for-popular-screen-recorder-zd-soft-for-2024/"><u>[New] Ultimate Guide for Popular Screen Recorder ZD Soft for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-pick-7-traffic-management-applications/"><u>Best Pick: 7 Traffic Management Applications</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/decoding-the-success-story-how-the-corsair-one-pro-reigns-supreme-in-creative-and-competitive-computing/"><u>Decoding the Success Story: How the Corsair One Pro Reigns Supreme in Creative and Competitive Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/downloading-and-updating-your-razer-driver-for-various-windows-os-versions/"><u>Downloading and Updating Your Razer Driver for Various Windows OS Versions</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminating-gameplay-interruptions-solving-fortnites-performance-issues-on-windows/"><u>Eliminating Gameplay Interruptions: Solving Fortnite's Performance Issues on Windows</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/free-tools-for-quickly-downloading-metacafe-videos-top-picks/"><u>Free Tools for Quickly Downloading Metacafe Videos: Top Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-ethically-locate-and-use-professional-contact-emails-in-your-network/"><u>How to Ethically Locate and Use Professional Contact Emails in Your Network</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mac-users-unite-learn-how-to-refresh-your-dns-records-effortlessly/"><u>Mac Users Unite! Learn How to Refresh Your DNS Records Effortlessly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/podcast-perfection-elite-webcam-selection-guide/"><u>Podcast Perfection Elite Webcam Selection Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-directx-dll-issues-a-step-by-step-guide/"><u>Resolving DirectX DLL Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-the-missing-d3dx928dll-error/"><u>Step-by-Step Guide: Resolving The Missing d3dx9_28.dll Error</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-for-correcting-steam-game-installation-issues/"><u>Step-by-Step Solution for Correcting Steam Game Installation Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-spontaneous-computer-shutdowns-effective-methods-revealed/"><u>Troubleshooting Spontaneous Computer Shutdowns - Effective Methods Revealed</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/ultimate-guide-vimeo-video-grabs/"><u>Ultimate Guide Vimeo Video Grabs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-perfecting-your-bose-soundlink-speaker-connection/"><u>Ultimate Guide: Perfecting Your Bose SoundLink Speaker Connection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-ideal-tools-for-creating-animation-with-models/"><u>[New] 2024 Approved Ideal Tools for Creating Animation with Models</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unmatched-tech-elevation-through-srs-enhancement/"><u>[New] 2024 Approved Unmatched Tech Elevation Through SRS Enhancement</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhancing-filmmaking-top-choices-in-camera-lenses/"><u>2024 Approved Enhancing Filmmaking Top Choices in Camera Lenses</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/academic-achievement-boosters-nine-essential-technological-tools-you-need-this-school-year/"><u>Academic Achievement Boosters: Nine Essential Technological Tools You Need This School Year</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comment-supprimer-la-partition-de-demarrage-dans-windows-10-guide-complet/"><u>Comment Supprimer La Partition De Démarrage Dans Windows 10 : Guide Complet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-your-hands-on-the-latest-apple-innovations-from-wwdc-today-a-guide-to-where-and-how-you-can-preorder-them-zdnet-insights/"><u>Get Your Hands on the Latest Apple Innovations From WWDC Today: A Guide to Where and How You Can Preorder Them | ZDNET Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-your-iphones-capacity-effective-decluttering-strategies-that-free-up-gigabytes-for-you/"><u>Maximize Your iPhone's Capacity: Effective Decluttering Strategies That Free Up Gigabytes for You!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/moveave-medias-best-avi-to-mp3-online-transcoder-convert-videos-in-minutes/"><u>Moveave Media's Best AVI to MP3 Online Transcoder - Convert Videos in Minutes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209823055-resolve-laptop-screen-turn-off-problems-quickly-and-effectively/"><u>Resolve Laptop Screen Turn-Off Problems Quickly and Effectively!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/seamless-document-handling-on-the-go-a-guide-to-microsoft-365-mobile-app/"><u>Seamless Document Handling On-the-Go: A Guide to Microsoft 365 Mobile App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-your-experience-how-a-vpn-is-crucial-for-enhanced-privacy-in-using-the-vision-pro-and-other-mixed-reality-devices-exclusive/"><u>Secure Your Experience: How a VPN Is Crucial for Enhanced Privacy in Using the Vision Pro and Other Mixed Reality Devices Exclusive</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-giant-apple-eyes-ai-integration-into-new-devices-insights-from-latest-purchase-analysis/"><u>Tech Giant Apple Eyes AI Integration Into New Devices - Insights From Latest Purchase Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-ipad-add-ons-for-a-superior-experience-expert-reviews-by-zdnet/"><u>The Ultimate Guide to iPad Add-Ons for a Superior Experience - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-lava-blaze-curve-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-smartphone-savings-unlocking-the-most-amazing-offers-in-march-2024-insights/"><u>Top Smartphone Savings: Unlocking the Most Amazing Offers in March 2024 Insights</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Google Pixel 7a | Dr.fone</u></a></li>
 </ul></div>
 

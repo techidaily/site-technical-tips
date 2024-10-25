@@ -1,7 +1,7 @@
 ---
 title: Exploring the Factors Behind the Historic CrowdStrike Windows Crisis - Insights
-date: 2024-10-13T16:01:55.272Z
-updated: 2024-10-19T16:00:53.986Z
+date: 2024-10-18T08:29:21.022Z
+updated: 2024-10-25T03:43:06.078Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,24 +181,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-twitch-your-way-mastering-twitter-video-livestreaming-for-2024/"><u>[New] Twitch Your Way Mastering Twitter Video Livestreaming for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-accelerate-image-enhancement-top-15-pixlr-tips-for-speed-and-efficiency/"><u>2024 Approved Accelerate Image Enhancement Top 15 Pixlr Tips for Speed and Efficiency</u></a></li>
-<li><a href="https://windows11.techidaily.com/achieve-peak-performance-with-multi-task-proficiency-on-windows-11-pcs/"><u>Achieve Peak Performance with Multi-Task Proficiency on Windows 11 PCs</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/best-email-marketing-techniques-and-insights-from-top-2020-publications-a-guide-with-massmail-software/"><u>Best Email Marketing Techniques & Insights From Top 2020 Publications: A Guide with MassMail Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/boosting-views-a-guide-for-tiktok-unboxing-gurus/"><u>Boosting Views A Guide for TikTok Unboxing Gurus</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/convertissez-un-fichier-dng-gratuitement-en-format-tiff-sur-internet-avec-movavi/"><u>Convertissez Un Fichier DNG Gratuitement en Format TIFF Sur Internet Avec Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decouvrez-les-16-meilleurs-logiciels-gratuits-de-webcam-compatibles-avec-windows-n-selection-par-movavi/"><u>Découvrez Les 16 Meilleurs Logiciels Gratuits De Webcam Compatibles Avec Windows N - Sélection Par Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/descargar-e-instalar-el-convertidor-de-archivos-audios-mas-efectivo-cambie-sus-archivos-m4a-a-wma-sin-coste/"><u>Descargar E Instalar El Convertidor De Archivos Audios Más Efectivo: Cambie Sus Archivos M4A a WMA Sin Coste</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elevate-pc-performance-with-corsairs-icue-software-free-download-for-windows-users/"><u>Elevate PC Performance with Corsair's iCUE Software – Free Download for Windows Users!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elige-las-cartuchos-de-almacenamiento-perfecto-para-tu-gopro-comparacion-y-ranking-top/"><u>Elige Las Cartuchos De Almacenamiento Perfecto Para Tu GoPro: Comparación Y Ranking TOP</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-conversion-transforming-your-mp4s-into-prores-without-paying-a-cent/"><u>Free Online Conversion: Transforming Your MP4s Into ProRes Without Paying a Cent</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratuit-m4a-to-aiff-converter-web-online-movavi/"><u>Gratuit M4A-to-AIFF Converter Web Online - Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratuito-online-convertidor-de-archivos-aac-a-wav-por-movavi/"><u>Gratuito Online: Convertidor De Archivos AAC a WAV Por Movavi</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-accessing-your-curated-music-lists-on-youtube/"><u>In 2024, Accessing Your Curated Music Lists on Youtube</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-17-ideal-locations-fur-langlebiges-texterlegen-kostenlos-mit-dem-movavi-konvertierprogramm/"><u>Top 17 Ideal Locations Für Langlebiges Texterlegen (Kostenlos) - Mit Dem Movavi-Konvertierprogramm</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transforma-tus-videos-qt-en-formato-avi-gratuito-ahora-mismo-usando-el-editor-online-de-movavi-facil-y-seguro/"><u>Transforma Tus Videos QT en Formato AVI Gratuito Ahora Mismo Usando El Editor Online De Movavi, Fácil Y Seguro!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-hidden-power-of-your-computers-windows-key/"><u>Unveiling the Hidden Power of Your Computer's Windows Key</u></a></li>
-<li><a href="https://win-docs.techidaily.com/mp2-video-moveavi/"><u>오프라인 공간에서 제공: 무료 MP2 VIDEO 변환 모음 - MoveAVI</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-capturing-attention-striking-shots-for-youtube-success-for-2024/"><u>[Updated] Capturing Attention Striking Shots for YouTube Success for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-focus-on-voice-not-background-with-skype-for-2024/"><u>[Updated] Focus on Voice, Not Background with Skype for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieve-crystal-clear-audio-with-our-best-practices-for-sparkling-clean-household-stereo-speakers/"><u>Achieve Crystal Clear Audio with Our Best Practices for Sparkling Clean Household Stereo Speakers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhanced-durability-in-the-latest-iphone-16-apple-reveals-improved-repairability-over-previous-models-detailed-insights-on-zdnet/"><u>Enhanced Durability in the Latest iPhone 16: Apple Reveals Improved Repairability Over Previous Models - Detailed Insights on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhanced-sound-on-lg-televisions-an-exclusive-perk-for-apple-enthusiasts-revealed-by-zdnet/"><u>Enhanced Sound on LG Televisions: An Exclusive Perk for Apple Enthusiasts Revealed by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-picks-the-ultimate-list-of-must-have-ipad-enhancements-curated-by-zdnet/"><u>Expert Picks: The Ultimate List of Must-Have iPad Enhancements | Curated by ZDNET</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-realme-v30-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Realme V30 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://discover-help.techidaily.com/schnellste-methode-zum-upgrade-ihrer-lenovo-flex-6-mit-einer-ssd/"><u>Schnellste Methode Zum Upgrade Ihrer Lenovo Flex 6 Mit Einer SSD</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-starter-guide-to-connecting-with-bluetooth-on-your-ios-device/"><u>The Ultimate Starter Guide to Connecting with Bluetooth on Your iOS Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-places-to-secure-your-ipad-pro-ipad-air-and-new-apple-pencil-pro-in-advance-current-offers-unveiled-by-zdnet/"><u>Top Places to Secure Your iPad Pro, iPad Air & New Apple Pencil Pro in Advance – Current Offers Unveiled by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbeatable-deal-on-macbook-air-with-m1-chip-at-only-649-exclusive-offer/"><u>Unbeatable Deal on MacBook Air with M1 Chip at Only $649 - Exclusive Offer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-discontinued-google-hangouts-service/"><u>Understanding the Discontinued Google Hangouts Service</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/wd-cloudgoogle/"><u>WD CloudからGoogleドライブへ自動バックアップ設定：ステップバイステップ説明</u></a></li>
 </ul></div>
 

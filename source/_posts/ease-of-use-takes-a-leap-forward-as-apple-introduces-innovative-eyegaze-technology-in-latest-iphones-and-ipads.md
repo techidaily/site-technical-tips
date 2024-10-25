@@ -1,7 +1,7 @@
 ---
 title: Ease of Use Takes a Leap Forward as Apple Introduces Innovative Eyegaze Technology in Latest iPhones and iPads
-date: 2024-10-14T16:11:03.289Z
-updated: 2024-10-19T16:00:00.909Z
+date: 2024-10-21T21:14:28.128Z
+updated: 2024-10-25T05:44:15.649Z
 tags:
   - apple
 categories:
@@ -45,22 +45,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -71,10 +70,16 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -84,10 +89,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -95,6 +100,13 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -130,21 +142,14 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-ignite-your-creative-journey-blending-photography-and-videos-through-pixiz/"><u>[New] Ignite Your Creative Journey Blending Photography & Videos Through Pixiz</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-game-on-camera-strategies-for-videographers-in-sports-for-2024/"><u>[Updated] Game On, Camera! Strategies for Videographers in Sports for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-obs-studio-vs-fraps-best-screen-recording-tools-battle/"><u>[Updated] In 2024, OBS Studio vs Fraps Best Screen Recording Tools Battle</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gifflv/"><u>網站內容自動格式化: GIF到FLV無成本改變 - 麥禾比自由轉換工具</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/as-melhores-10-opcoes-de-memoria-para-jogos-em-vezes-de-2024-avaliadas-pela-movavi/"><u>As Melhores 10 Opções De Memória Para Jogos Em Vezes De 2024, Avaliadas Pela Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/cambiar-archivos-de-audio-aac-a-formato-wav-en-linea-sin-costo-movavi/"><u>Cambiar Archivos De Audio AAC a Formato WAV en Línea Sin Costo: Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/convert-wav-files-to-aiff-for-free-with-movavis-web-service/"><u>Convert WAV Files to AIFF for Free with Movavi's Web Service</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-steps-to-detect-repeating-values-in-your-excel-spreadsheet/"><u>Effortless Steps to Detect Repeating Values in Your Excel Spreadsheet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-converter-turning-webm-files-into-m4a-format-with-ease/"><u>Free Online Converter: Turning WebM Files Into M4A Format with Ease</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratuito-en-la-web-guia-paso-a-paso-para-cambiar-videos-3gp-a-3g2-con-movavi/"><u>Gratuito en La Web: Guía Paso a Paso Para Cambiar Videos 3GP a 3G2 Con Movavi</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-transform-imagination-to-reality-top-10-graphic-designers-on-android/"><u>In 2024, Transform Imagination to Reality Top 10 Graphic Designers on Android</u></a></li>
-<li><a href="https://discover-help.techidaily.com/seamlessly-move-your-memories-top-5-methods-for-android-to-iphone-picture-transfer-without-a-laptop/"><u>Seamlessly Move Your Memories - Top 5 Methods for Android to iPhone Picture Transfer without a Laptop</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-instagram-with-8-unique-unboxing-video-ideas-for-2024/"><u>Transform Your Instagram with 8 Unique Unboxing Video Ideas for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-correcting-oculus-visual-glitches-due-to-gpu-drivers/"><u>Troubleshooting Steps for Correcting Oculus Visual Glitches Due to GPU Drivers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/veerkomt-gratis-van-ts-naar-mp3-audio-met-eenzaamstaand-online-converteren-movavi/"><u>Veerkomt Gratis Van .TS Naar MP3-Audio Met Eenzaamstaand Online Converteren - Movavi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-methods-for-timing-your-imessages-with-ios-scheduling-tools/"><u>Effective Methods for Timing Your iMessages with iOS Scheduling Tools</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-the-features-of-newest-facebook-portals/"><u>Exploring the Features of Newest Facebook Portals</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-seipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone SE/iPad | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastery-of-gaze-interaction-explore-the-newest-way-to-commands-iphones-and-ipads-using-just-your-eyes-tech-insights/"><u>Mastery of Gaze Interaction: Explore the Newest Way to Commands iPhones and iPads Using Just Your Eyes | Tech Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-find-n3-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Oppo Find N3 Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-mp3-players-expert-review/"><u>Top Rated MP3 Players : Expert Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-many-are-regretting-the-switch-to-iphone-on-ios-18-insights-and-discussions-zdnet/"><u>Why Many Are Regretting the Switch to iPhone on iOS 18 - Insights and Discussions | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-update-how-to-keep-your-arduino-usb-driver-current-and-functional/"><u>Windows Update: How to Keep Your Arduino USB Driver Current and Functional</u></a></li>
 </ul></div>
 

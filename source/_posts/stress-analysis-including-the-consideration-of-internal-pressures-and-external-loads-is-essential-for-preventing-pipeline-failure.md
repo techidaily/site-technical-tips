@@ -1,7 +1,7 @@
 ---
 title: Stress Analysis, Including the Consideration of Internal Pressures and External Loads, Is Essential for Preventing Pipeline Failure.
-date: 2024-10-14T16:00:04.476Z
-updated: 2024-10-19T16:07:01.003Z
+date: 2024-10-21T06:43:53.158Z
+updated: 2024-10-25T10:07:01.880Z
 tags:
   - apple
 categories:
@@ -34,6 +34,13 @@ According to Apple, Journal uses Bluetooth to "detect the number of devices and 
 
 **_What you'll need:_** An iPhone running iOS 17.2 or newer. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to your iPhone Settings
 
 To find the Journal app setting, open your Settings app on your iPhone.
@@ -46,25 +53,11 @@ Scroll down and open Privacy & Security within your Apple device's Settings app.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Tap on Journaling Suggestions
 
 Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverable by Others" setting will be enabled until you disable it.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Turn off Discoverable by Others
 
@@ -75,30 +68,36 @@ Maria Diaz/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **FAQ**
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Where is the Journal app on iOS 17?
 
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
 
@@ -113,6 +112,13 @@ However, some people feel uncomfortable about the app tracking who you've been m
 **Also: [iPhone 16 reports: Spatial video and ultra-thin bezels coming to all models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/)**
 
 The ability to detect nearby devices is meant to improve the experience by providing personalized suggestions based on your activities and interactions. Apple is adamant that this information is saved on the device and not shared with the company, and says it does not store which of your contacts were detected around you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What if I've never used the Journal app?
 
@@ -152,20 +158,18 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-civics-challenge-club-leading-political-gaming-series/"><u>[New] 2024 Approved Civics Challenge Club Leading Political Gaming Series</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-effortless-technique-mirror-video-playback-in-vlc-player/"><u>[New] 2024 Approved Effortless Technique Mirror Video Playback in VLC Player</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-secure-smooth-cinematography-the-best-stabilizer-brands-guide/"><u>[New] Secure Smooth Cinematography The Best Stabilizer Brands Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/aol-mail-issues-determining-whether-its-a-downtime-scenario-or-personal-connectivity-problem/"><u>AOL Mail Issues: Determining Whether It's a Downtime Scenario or Personal Connectivity Problem</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/broadcasting-podcasts-on-instagram-features-for-2024/"><u>Broadcasting Podcasts on Instagram Features for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-access-every-time-configuring-auto-logon-for-windows-users/"><u>Effortless Access Every Time: Configuring Auto Logon for Windows Users</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/t-reviews-best-game-capture-apps-for-2024/"><u>Expert Reviews Best Game Capture Apps for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-erroneous-wins-protection-messages/"><u>Fixing Erroneous WINS Protection Messages</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-the-error-shell32dll-file-not-located-in-windows-os/"><u>Fixing the Error: 'Shell32.dll File Not Located' In Windows OS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/locating-electric-vehicle-charge-points-using-google-maps-a-step-by-step-guide/"><u>Locating Electric Vehicle Charge Points Using Google Maps: A Step-by-Step Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/optimal-framessec-for-high-quality-slow-motion-cinematography-for-2024/"><u>Optimal Frames/Sec for High-Quality Slow-Motion Cinematography for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/al-strategies-for-editing-and-upgrading-youtube-profiles/"><u>Optimal Strategies for Editing and Upgrading YouTube Profiles</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tackling-stop-code-0x0000005c-a-detailed-guide-to-system-recovery/"><u>Tackling STOP Code 0X0000005C: A Detailed Guide to System Recovery</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-of-employing-the-measure-application-in-android-smartphones/"><u>The Ultimate Walkthrough of Employing the Measure Application in Android Smartphones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/toms-tech-hub-comprehensive-guides-and-reviews/"><u>Tom's Tech Hub: Comprehensive Guides and Reviews</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-premiers-choice-15-superior-android-simulators/"><u>[New] 2024 Approved Premier's Choice 15 Superior Android Simulators</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-horizontal-vs-vertical-best-for-fb-videos/"><u>[Updated] 2024 Approved Horizontal Vs. Vertical Best for FB Videos?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-secure-apps-for-hidden-instagram-stories-for-2024/"><u>[Updated] Secure Apps for Hidden Instagram Stories for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-three-simple-ways-to-block-unwanted-messages-on-iphone-tips-from-zdnet/"><u>1. Three Simple Ways to Block Unwanted Messages on iPhone - Tips From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-agrees-to-reimburse-eligible-macbook-users-in-landmark-class-action-settlement-a-deep-dive-techinsider/"><u>Apple Agrees to Reimburse Eligible MacBook Users in Landmark Class Action Settlement: A Deep Dive - TechInsider</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-troubleshooting-steps-when-fluid-found-in-headphone-jack-on-iphones-choose-from-two-solutions/"><u>Discover the Troubleshooting Steps When 'Fluid Found in Headphone Jack' On iPhones – Choose From Two Solutions!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficiently-remove-ai-copilot-tool-from-windows-11-a-step-by-step-guide/"><u>Efficiently Remove AI Copilot Tool From Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-winx-dvd-converter-effortless-dvd-to-mp4avi-conversion-for-mobile-devices-ios-and-android/"><u>Free WinX DVD Converter: Effortless DVD to MP4/AVI Conversion for Mobile Devices, iOS & Android</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-online-vertical-video-editing-made-easy-top-picks/"><u>New 2024 Approved Online Vertical Video Editing Made Easy Top Picks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/streaming-screenshots-share-without-twitting-for-2024/"><u>Streaming Screenshots Share Without Twitting for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sustainable-resource-management-involves-using-natural-resources-in-a-way-that-meets-current-needs-without-compromising-future-generations-ability-to-meet-t2/"><u>Sustainable Resource Management Involves Using Natural Resources in a Way that Meets Current Needs without Compromising Future Generations' Ability to Meet Theirs, Often Through Practices Like Selective Logging or Regulated Fishing Quotas.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722899288412-the-transition-phase-involves-complete-cervical-dilation-8-10-cm-and-prepares-the-body-for-the-pushing-stage-of-delivery/"><u>The Transition Phase Involves Complete Cervical Dilation (8-10 Cm) and Prepares the Body for the Pushing Stage of Delivery.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-a-superior-car-battery-charger-features-and-reviews-digitalzone/"><u>Ultimate Guide to Choosing a Superior Car Battery Charger : Features and Reviews | DigitalZone</u></a></li>
 </ul></div>
 

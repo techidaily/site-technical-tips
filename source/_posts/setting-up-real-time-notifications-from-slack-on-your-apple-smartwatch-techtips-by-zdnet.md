@@ -1,7 +1,7 @@
 ---
 title: Setting Up Real-Time Notifications From Slack on Your Apple Smartwatch | TechTips by ZDNet
-date: 2024-10-14T16:07:00.480Z
-updated: 2024-10-19T16:10:15.203Z
+date: 2024-10-20T09:00:45.125Z
+updated: 2024-10-24T23:03:34.390Z
 tags:
   - apple
 categories:
@@ -48,13 +48,6 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
@@ -64,6 +57,13 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##   
 
@@ -75,16 +75,16 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
@@ -103,6 +103,13 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -124,29 +131,22 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -187,22 +187,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-transforming-photos-adding-motion-blur-to-peoples-portraits-with-picsart/"><u>[New] Transforming Photos Adding Motion Blur to People's Portraits with Picsart</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-novatech-series-unified-4k-all-in-one-workstations/"><u>2024 Approved NovaTech Series Unified 4K, All-in-One Workstations</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-supernatural-video-slowdown-handbook/"><u>2024 Approved Supernatural Video Slowdown Handbook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-fixing-the-tracking-difficulties-on-a-magic-mouse/"><u>A Step-by-Step Guide: Fixing The Tracking Difficulties on a Magic Mouse</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-compilation-of-playstation-5s-unique-game-titles/"><u>Complete Compilation of PlayStation 5'S Unique Game Titles</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/cracking-down-on-counterfeit-connections-the-art-of-identifying-inauthentic-friend-requests-online/"><u>Cracking Down on Counterfeit Connections: The Art of Identifying Inauthentic Friend Requests Online</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-f04-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy F04 FRP</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-pixel-7a-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Pixel 7a</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-solve-the-connection-refused-issue-errconnectionrefused-including-images-for-better-understanding/"><u>How to Solve the Connection Refused Issue (ERR_CONNECTION_REFUSED) - Including Images for Better Understanding</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y78-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y78 5G Phone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-multi-bluetooth-setup-linking-several-speakers-to-a-single-device/"><u>Mastering Multi-Bluetooth Setup: Linking Several Speakers to a Single Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-ios-update-process-with-expert-tips-and-tricks/"><u>Navigating the iOS Update Process with Expert Tips and Tricks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/retrieve-deleted-ios-notifications-with-these-easy-steps/"><u>Retrieve Deleted iOS Notifications with These Easy Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-missing-wlanapidll-file-on-your-pc/"><u>Troubleshooting the Missing wlanAPI.dll File on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-the-notorious-blue-screen-of-death/"><u>Ultimate Guide: Resolving the Notorious Blue Screen of Death</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-enhancing-customer-engagement-with-personalized-marketing-strategies/"><u>2024 Approved Enhancing Customer Engagement with Personalized Marketing Strategies</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-maximizing-click-through-rates-with-youtube-images/"><u>2024 Approved Maximizing Click-Through Rates with Youtube Images</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-release-of-over-600-tailored-apps-for-apples-upcoming-vision-pro-headset-revealed/"><u>Exclusive Release of Over 600 Tailored Apps for Apple's Upcoming Vision Pro Headset Revealed</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-oppo-reno-9a-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Oppo Reno 9A Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-hp-laptop-audio-issues-a-complete-guide-solutions-proven-effective/"><u>Fixing HP Laptop Audio Issues: A Complete Guide - Solutions Proven Effective!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ideal-surprise-gifts-for-any-occasion-expert-tips/"><u>Ideal Surprise Gifts for Any Occasion - Expert Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-architectural-wonders-from-the-sandbox/"><u>In 2024, Architectural Wonders From the Sandbox</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-engaging-game-mechanics/"><u>Mastering the Art of Engaging Game Mechanics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/meet-the-future-of-audio-dyson-challenges-apple-with-cutting-edge-ontrac-true-wireless-headphones/"><u>Meet the Future of Audio: Dyson Challenges Apple with Cutting-Edge 'OnTrac' True Wireless Headphones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/openais-chatgpt-integrates-seamlessly-into-apples-ecosystem-ios-ipados-and-macos-collaboration-announced/"><u>OpenAI's ChatGPT Integrates Seamlessly Into Apple's Ecosystem: IOS, iPadOS & MacOS Collaboration Announced</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-linksys-wrt3200acm-a-benchmark-in-open-source-routers-comprehensive-review-inside/"><u>The Linksys WRT3200ACM: A Benchmark in Open Source Routers - Comprehensive Review Inside</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-hidden-in-built-radios-are-your-mac-or-ipad-equipped/"><u>Unlocking the Hidden In-Built Radios: Are Your Mac or iPad Equipped?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-apples-latest-strategy-the-intriguing-game-mode-project-and-what-it-means-for-users-tech-news-today/"><u>Unveiling Apple's Latest Strategy: The Intriguing Game Mode Project and What It Means for Users | Tech News Today</u></a></li>
 </ul></div>
 

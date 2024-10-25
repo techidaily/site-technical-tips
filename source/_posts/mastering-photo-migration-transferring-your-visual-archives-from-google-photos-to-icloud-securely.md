@@ -1,7 +1,7 @@
 ---
 title: "Mastering Photo Migration: Transferring Your Visual Archives From Google Photos to iCloud Securely"
-date: 2024-10-16T16:01:17.536Z
-updated: 2024-10-19T16:12:27.600Z
+date: 2024-10-21T22:32:22.695Z
+updated: 2024-10-25T08:53:52.918Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Photo Migration: Transferring Your Visual Archives From Google Photos to iCloud Securely"
@@ -24,16 +24,10 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
  This article explains how to delete a Yahoo account from a web browser.
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Delete a Yahoo Mail Account
@@ -48,39 +42,53 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 ![The Yahoo Mail menu showing the Manage your account link](https://www.lifewire.com/thmb/JdqCJ9mVz02xTyooT2W1i0vfh8g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-menu-4a8ea92f4deb4b0c9229c9c24ed4c1c9.png)  
  If you're paying for any Yahoo subscription services, cancel those now to avoid unexpected payments;[open My Subscriptions](https://mysubscriptions.yahoo.com/) to see if you have any active subscriptions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click**Privacy controls** at the top.  
 ![The Yahoo Mail account overview page showing the Privacy controls link](https://www.lifewire.com/thmb/XEno_dNrKM6NBukWJoOSU7d_kG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-account-overview-30181da72ca746cca757640663eac4a2.png)
 4. Scroll to the very bottom of the Yahoo Privacy Dashboard page and select**Delete My Account** .  
-![The Delete My Account link on the Yahoo Privacy Dashboard](https://www.lifewire.com/thmb/bWoRgV3FHuL_j-q_oP4FyXY36BM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-your-yahoo-account-bd9a372594cd42e691854358e22bc7d0.png)
-5. Read the text on the page titled "Before continuing, please consider the following information." It details what you will lose when you delete your Yahoo Mail account. Press**Continue delete my account** .  
-![The Continue delete my account button on Yahoo's website](https://www.lifewire.com/thmb/YZPgf_xTtNOSNJ_Hx6n9xW0qCNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-delete-my-account-a59191a0872b4ce19768c7352229f7e8.png)
-6. Enter your email address once more into the field provided.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Delete My Account link on the Yahoo Privacy Dashboard](https://www.lifewire.com/thmb/bWoRgV3FHuL_j-q_oP4FyXY36BM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-your-yahoo-account-bd9a372594cd42e691854358e22bc7d0.png)
+5. Read the text on the page titled "Before continuing, please consider the following information." It details what you will lose when you delete your Yahoo Mail account. Press**Continue delete my account** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![The Continue delete my account button on Yahoo's website](https://www.lifewire.com/thmb/YZPgf_xTtNOSNJ_Hx6n9xW0qCNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-delete-my-account-a59191a0872b4ce19768c7352229f7e8.png)
+6. Enter your email address once more into the field provided.
 
 7. Select **Yes, delete this account** .  
 ![The final confirmation page for deleting a Yahoo account](https://www.lifewire.com/thmb/4RriqtlFkKYQ5jkHhvT2HRNU2Ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-yahoo-account-confirmation-d5b04610003e461287b0a838aa1c57c8.png)
 
- In some cases,[Yahoo won't remove everything for up to 180 days](https://legal.yahoo.com/us/en/yahoo/privacy/topics/datastorage/index.html) , but that depends largely on the country you signed up from. Data connected to paid Fantasy Sports products might be kept even longer.
-
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ In some cases,[Yahoo won't remove everything for up to 180 days](https://legal.yahoo.com/us/en/yahoo/privacy/topics/datastorage/index.html) , but that depends largely on the country you signed up from. Data connected to paid Fantasy Sports products might be kept even longer.
 
 ### How to Cancel a BT Yahoo Mail Premium Account
 
@@ -140,21 +148,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-scrutinized-screen-recording-tools-top-8-picks-for-2024/"><u>[New] Scrutinized Screen Recording Tools Top 8 Picks for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-timely-broadcasts-for-maximum-impact-for-2024/"><u>[New] Timely Broadcasts for Maximum Impact for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-selection-of-inexpensive-web-explorers-for-remote-work/"><u>[Updated] 2024 Approved The Ultimate Selection of Inexpensive Web Explorers for Remote Work</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-mastering-social-medias-highest-wave-instagrams-thousand-strong-fanbase/"><u>[Updated] In 2024, Mastering Social Media's Highest Wave - Instagram’s Thousand-Strong Fanbase</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-low-end-pc-visual-logging-software-for-2024/"><u>[Updated] Low-End PC Visual Logging Software for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/annotating-emotions-through-trailer-tunes/"><u>Annotating Emotions Through Trailer Tunes</u></a></li>
-<li><a href="https://games-able.techidaily.com/become-a-word-game-virtuoso-mastering-strands-new-york-times-edition/"><u>Become a Word Game Virtuoso: Mastering Strands, New York Times Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-switching-of-photographic-data-from-google-photos-to-the-safe-haven-of-icloud/"><u>Effortless Switching of Photographic Data From Google Photos to the Safe Haven of iCloud</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-steamdll-not-found-or-missing-errors/"><u>How to Fix Steam.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-patch-tuesday-protecting-your-tech-from-vulnerabilities-monthly/"><u>Inside Patch Tuesday: Protecting Your Tech From Vulnerabilities Monthly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-securely-connecting-your-android-to-wi-fi-networks/"><u>Mastering the Art of Securely Connecting Your Android to Wi-Fi Networks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-msvcrt10dll-file-missing-issue-a-comprehensive-guide/"><u>Solving the 'msvcrt10.dll' File Missing Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-setting-up-microsoft-office-suite-on-your-personal-computer/"><u>Step-by-Step Guide: Setting Up Microsoft Office Suite on Your Personal Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-troubleshooting-techniques-for-dealing-with-a-lost-binkw32dll-file/"><u>The Ultimate Troubleshooting Techniques for Dealing with a Lost Binkw32.dll File</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-secret-your-guide-to-talking-with-chatgpt-today/"><u>Unveiling the Secret: Your Guide to Talking With ChatGPT Today</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-demystifying-the-use-of-slug-lines-in-film-scripts/"><u>[New] 2024 Approved Demystifying the Use of Slug Lines in Film Scripts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-strategy-for-top-tier-youtube-titles-and-tags/"><u>[New] The Ultimate Strategy for Top-Tier Youtube Titles & Tags</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-your-first-step-to-a-profitable-youtube-experience/"><u>[Updated] 2024 Approved Your First Step to a Profitable Youtube Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/5-ways-to-back-up-your-data-and-keep-it-safe/"><u>5 Ways to Back up Your Data and Keep It Safe</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-driven-job-market-the-evolving-scenario/"><u>AI-Driven Job Market: The Evolving Scenario</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amd-ryzen-nuc-ultra-compact-mini-pc-revolution-crystal-clear-4k-zenith-cpu-ryzen-amz-9-and-expansive-memorystorage-options/"><u>AMD Ryzen NUC Ultra-Compact Mini PC Revolution: Crystal Clear 4K, Zenith CPU (Ryzen Amz 9), and Expansive Memory/Storage Options!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bridging-the-gap-between-apple-tvplus-and-chromecast-a-comprehensive-casting-guide/"><u>Bridging the Gap Between Apple TV+ and Chromecast - A Comprehensive Casting Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-spending-learn-how-to-navigate-and-utilize-apple-pay-on-the-apple-watch/"><u>Effortless Spending: Learn How to Navigate and Utilize Apple Pay on the Apple Watch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortlessly-watch-disneys-magic-on-any-screen-linking-disneyplus-and-chromecast-explained/"><u>Effortlessly Watch Disney's Magic on Any Screen: Linking Disney+ and Chromecast Explained</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-novice-to-specialist-a-step-by-step-journey-through-adobe-ps-background-removal-techniques/"><u>From Novice to Specialist A Step-by-Step Journey Through Adobe PS Background Removal Techniques</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-poco-x6-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Poco X6</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-lg-channel-knowledge-vital-tips-and-information-for-optimal-performance/"><u>Mastering LG Channel Knowledge: Vital Tips and Information for Optimal Performance</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/maximize-revenue-through-massmails-cutting-edge-sales-acceleration-techniques/"><u>Maximize Revenue Through MassMail's Cutting-Edge Sales Acceleration Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/next-week-you-get-a-new-iphone-enhance-your-experience-with-top-pick-anker-gadgets-featured-on-zdnet/"><u>Next Week, You Get a New iPhone? Enhance Your Experience with Top-Pick Anker Gadgets Featured on ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-experience-optimal-grip-techniques-for-iphones-and-airpods-explained-by-zdnet/"><u>Revolutionize Your Experience: Optimal Grip Techniques for iPhones & AirPods Explained by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-book-2ultra-and-apple-macbook-pro-face-off-ultimate-guide-to-high-end-laptops/"><u>Samsung Galaxy Book 2Ultra and Apple MacBook Pro Face-Off: Ultimate Guide to High-End Laptops</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-optimal-ms-office-mobile-applications-unbiased-review/"><u>Top 10 Optimal MS Office Mobile Applications - Unbiased Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrading-to-excellence-iphone-16-pro-vs-iphone-14-pro-is-it-time-for-a-change-tech-insights-by-zdnet/"><u>Upgrading to Excellence: IPhone 16 Pro Vs. IPhone 14 Pro – Is It Time for a Change? | Tech Insights by ZDNet</u></a></li>
 </ul></div>
 

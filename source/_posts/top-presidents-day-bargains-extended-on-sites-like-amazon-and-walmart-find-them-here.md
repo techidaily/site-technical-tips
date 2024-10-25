@@ -1,7 +1,7 @@
 ---
 title: Top President's Day Bargains Extended on Sites Like Amazon & Walmart - Find Them Here!
-date: 2024-10-18T16:07:55.180Z
-updated: 2024-10-19T16:09:13.476Z
+date: 2024-10-22T22:22:43.396Z
+updated: 2024-10-25T08:27:55.454Z
 tags:
   - apple
 categories:
@@ -70,10 +70,16 @@ Kayla Solino/ZDNET
 * [Amazon Fire HD 8 Tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAll-new-processor-designed-portable-entertainment%2Fdp%2FB09BG5LXHH%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc8fe83db-90f5-4865-9d5b-724a0386803e%7Cdtp&dtb=1) for $60 (save $70)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best Amazon robot vacuum deals
@@ -85,6 +91,19 @@ Maria Diaz/ZDNET
 * [Dyson V8 Plus Cordless Vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDyson-Cordless-Vacuum-Silver-Nickel%2Fdp%2FB0CT9552BL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc8fe83db-90f5-4865-9d5b-724a0386803e%7Cdtp&dtb=1) for $350 (save $120)
 * [Roborock Qrevo S Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Froborock-Qrevo-Self-Drying-Self-Emptying-Refilling%2Fdp%2FB0CTZXJTGJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc8fe83db-90f5-4865-9d5b-724a0386803e%7Cdtp&dtb=1) for $600 (save $200)
 * [iRobot Roomba Q0120 Robot Vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FiRobot-Roomba-Robot-Vacuum-Q0120%2Fdp%2FB0CVM8TXHP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc8fe83db-90f5-4865-9d5b-724a0386803e%7Cdtp&dtb=1) for $179 (save $71)
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The best Amazon home deals
 
@@ -99,14 +118,14 @@ Maria Diaz/ZDNET
 * [Jackery Explorer 240 v2 Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJackery-v2-Versatile-Scenarios-Outdoor-Emergency%2Fdp%2FB0D2L1B7PK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc8fe83db-90f5-4865-9d5b-724a0386803e%7Cdtp&dtb=1) for $179 (save $70)
 * [Bluetti EB3A Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBLUETTI-Portable-EB3A-Recharge-Generator%2Fdp%2FB09WW3CTF4%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB09WW3CTF4%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc8fe83db-90f5-4865-9d5b-724a0386803e%7Cdtp&dtb=1) for $198 (save $102)
 
-##   
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+##   
 
 ## How did we choose these Amazon deals?
 
@@ -114,35 +133,28 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## When will these deals expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When is October Prime Day?
 
 October Prime Day returns this October 8-9\. Last year, the October Prime Big Deal Days sale occurred on October 10-11\. 
 
 **Also:** [**October Prime Day 2024: Everything you need to know**](https://www.zdnet.com/home-and-office/october-prime-day-2024-heres-everything-you-need-to-know/)
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much is an Amazon Prime membership?
 
@@ -192,17 +204,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-premiere-10-warzone-clashes/"><u>[New] 2024 Approved Premiere 10 Warzone Clashes</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unlock-reddit-potentials-stepwise-procedures-for-sharing/"><u>[Updated] In 2024, Unlock Reddit Potentials Stepwise Procedures for Sharing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-zero-price-techniques-for-online-educational-recordings/"><u>[Updated] In 2024, Zero Price Techniques for Online Educational Recordings</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-15-pro-max-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 15 Pro Max - 4 Easy Ways</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conversion-video-libre-convertissez-votre-fichier-3gp-en-format-avi-avec-movvavi/"><u>Conversion Vidéo Libre : Convertissez Votre Fichier 3GP en Format AVI Avec MOVVAVI</u></a></li>
-<li><a href="https://win-able.techidaily.com/eight-proven-fixes-for-unresponsive-firefox-get-back-to-browsing-today/"><u>Eight Proven Fixes for Unresponsive Firefox - Get Back to Browsing Today</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010200073-experience-days-gone-on-pc-new-release-alert/"><u>Experience Days Gone on PC - New Release Alert!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/flacmp3-flac-movavi/"><u>FLAC/MP3 자원을 이용한 영구 프리미징: 모바일 내내 공부해주는 무료 FLAC 변환 도구 - Movavi</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-greatest-11-child-safe-cameras-for-first-timer-kids/"><u>In 2024, The Greatest 11 Child-Safe Cameras for First-Timer Kids</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-beginners-path-to-perfect-photographs-advanced-editing-techniques-for-windows-and-macos-users/"><u>The Beginner's Path to Perfect Photographs: Advanced Editing Techniques for Windows and macOS Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformez-vos-fichiers-jpg-au-format-jpeg-sans-frais-via-lapplication-en-ligne-de-moovavi/"><u>Transformez Vos Fichiers JPG Au Format JPEG Sans Frais via L'application en Ligne De Moovavi</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-top-photo-restoration-apps-to-revive-your-lost-memories/"><u>Ultimate Guide: Top Photo Restoration Apps to Revive Your Lost Memories</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-taking-control-advanced-techniques-for-gaming-capture-on-windows-11/"><u>[New] 2024 Approved Taking Control Advanced Techniques for Gaming Capture on Windows 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unlimited-verbal-input-processing-for-free/"><u>[New] Unlimited Verbal Input Processing for Free</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-ultimate-journey-into-youtube-seo-and-keywords/"><u>[Updated] In 2024, The Ultimate Journey Into YouTube SEO and Keywords</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/1723262424485-asus-revolutionizes-computing-the-new-nuc-14-proplus-featuring-meteor-lake-cpu-and-core-ultra-5-for-under-900/"><u>Asus Revolutionizes Computing: The New NUC 14 Pro+ Featuring Meteor Lake CPU and Core Ultra-5 for Under $900</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-image-editing-mastering-the-art-of-photo-cropping-using-movavi-photo-editor/"><u>Effortless Image Editing: Mastering the Art of Photo Cropping Using Movavi Photo Editor</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-your-hands-on-ios-16-early-access-step-by-step-guide-to-upgrading-your-iphone-proceed-with-caution/"><u>Get Your Hands on iOS 16 Early Access: Step-by-Step Guide to Upgrading Your iPhone - Proceed with Caution</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-tiktok-sound-as-your-phones-ringtone/"><u>In 2024, Step-by-Step Guide to TikTok Sound as Your Phone's Ringtone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-portability-the-new-magsafe-battery-pack-sleek-design-and-speedier-charging/"><u>Revolutionizing Portability: The New MagSafe Battery Pack - Sleek Design & Speedier Charging</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/y-spread-of-youtube-playlists-techniques/"><u>Speedy Spread of Youtube Playlists Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/still-discounted-the-second-generation-apple-watch-se-retails-at-80-less-post-prime-day-insights-by-zdnet/"><u>Still Discounted: The Second Generation Apple Watch SE Retails at $80 Less Post-Prime Day - Insights by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-ranking-iphone-devices-unveiled-by-tech-experts-comprehensive-reviews-on-zdnet/"><u>Top-Ranking iPhone Devices Unveiled by Tech Experts - Comprehensive Reviews on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unpacking-the-new-iphone-15-features-why-it-surpasses-expectations-for-seasoned-tech-users-zdnet/"><u>Unpacking the New iPhone 15 Features: Why It Surpasses Expectations for Seasoned Tech Users | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-flaw-navigating-through-the-ipads-recent-misstep-and-steering-towards-a-solution/"><u>Unveiling the Flaw: Navigating Through the iPad's Recent Misstep and Steering Towards a Solution</u></a></li>
 </ul></div>
 

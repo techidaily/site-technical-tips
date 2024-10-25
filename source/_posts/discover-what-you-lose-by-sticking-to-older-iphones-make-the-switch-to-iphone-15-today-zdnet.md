@@ -1,7 +1,7 @@
 ---
 title: Discover What You Lose by Sticking to Older iPhones – Make the Switch to iPhone 15 Today! | ZDNet
-date: 2024-10-15T16:06:30.333Z
-updated: 2024-10-19T16:08:36.332Z
+date: 2024-10-22T03:42:14.799Z
+updated: 2024-10-24T21:37:59.627Z
 tags:
   - apple
 categories:
@@ -47,16 +47,10 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -72,10 +66,10 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -122,19 +116,22 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/kyrocket-to-success-mastering-seo-for-youtubers-and-beyond/"><u>[New] Skyrocket to Success Mastering SEO for YouTubers and Beyond</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-thankful-innovations-premium-and-budget-outro-themes/"><u>[New] Thankful Innovations Premium & Budget Outro Themes</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-seamlessly-preserve-your-ppt-video-recording-tips/"><u>2024 Approved Seamlessly Preserve Your PPT Video Recording Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/6-types-of-videos-that-will-hook-your-viewers/"><u>6 Types of Videos That Will Hook Your Viewers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-about-the-next-gen-google-pixel-9-pricing-forecasts-release-timeline-and-potential-tech-innovations/"><u>All About the Next-Gen Google Pixel 9: Pricing Forecasts, Release Timeline, and Potential Tech Innovations</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-nomad-insights-optimal-gaming-trips/"><u>Digital Nomad Insights: Optimal Gaming Trips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-guide-selecting-the-ideal-selfie-accessory-in-6-steps/"><u>Discover the Ultimate Guide: Selecting the Ideal Selfie Accessory in 6 Steps!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/facebook-demystified-a-deep-dive-into-its-history-user-fascination-and-essential-features/"><u>Facebook Demystified: A Deep Dive Into Its History, User Fascination & Essential Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generative-ai-showdown-determining-the-leader-between-chatgpt-and-bing-chat/"><u>Generative AI Showdown: Determining the Leader Between ChatGPT and Bing Chat</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20-proplus-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20 Pro+ Phone with Broken Screen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximizing-your-feed-a-guide-to-posting-full-screen-images-on-instagram/"><u>Maximizing Your Feed: A Guide to Posting Full-Screen Images on Instagram</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/perfect-harry-potter-marathon-viewing-order-explained/"><u>Perfect Harry Potter Marathon: Viewing Order Explained!</u></a></li>
-<li><a href="https://windows11.techidaily.com/systematic-steps-for-nullifying-your-windows-drive-partitions/"><u>Systematic Steps for Nullifying Your Windows Drive Partitions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/winxdvd-official-toolset-professional-dvd-ripping-smart-ai-video-enhancement-and-iphone-transfer-features/"><u>WinXDVD Official Toolset - Professional DVD Ripping, Smart AI Video Enhancement & iPhone Transfer Features</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tep-by-step-instructions-producing-alluring-video-thumbnails-on-youtube-for-2024/"><u>[New] Step-by-Step Instructions Producing Alluring Video Thumbnails on YouTube for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unveiling-the-secrets-to-successful-iphone-sound-captures-for-2024/"><u>[Updated] Unveiling the Secrets to Successful iPhone Sound Captures for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-add-fade-inout-premiere-pro/"><u>2024 Approved Add Fade In/Out Premiere Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024dvd/"><u>2024年のビデオDVDを安心で簡単にコピー！フリープログラム推奨と手順ガイド</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/6-amazing-alternatives-to-photoshop-enjoy-professional-edits-without-the-price-tag/"><u>6 Amazing Alternatives to Photoshop: Enjoy Professional Edits Without the Price Tag</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciphering-your-ps4s-led-light-signals-understanding-the-meanings-of-blue-white-red-and-orange/"><u>Deciphering Your PS4's LED Light Signals: Understanding the Meanings of Blue, White, Red & Orange</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-tips-on-securing-your-eligible-dell-academic-price-break/"><u>Exclusive Tips on Securing Your Eligible Dell Academic Price Break</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-navigating-to-command-prompt-from-any-folder-on-windows/"><u>Guide: Navigating to Command Prompt From Any Folder on Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-camon-30-pro-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Camon 30 Pro 5GFRP Lock</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-navigating-tiktok-with-mac-key-knowledge-points/"><u>In 2024, Navigating TikTok with Mac Key Knowledge Points</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-windows-code-28-troubles-step-by-step-guide/"><u>Resolving Windows Code 28 Troubles - Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-steps-migrating-your-google-photos-library-to-icloud/"><u>Seamless Steps: Migrating Your Google Photos Library to iCloud</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/step-into-the-world-of-text-animation-14-must-see-examples-for-2024/"><u>Step Into the World of Text Animation 14 Must-See Examples for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-s24plus-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy S24+ Reset Code | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-13-best-free-pdf-editor-tools-as-of-july-2024/"><u>Top 13 Best Free PDF Editor Tools as of July 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-to-troubleshooting-iastorasys-critical-system-failure-and-blue-screens/"><u>Ultimate Guide to Troubleshooting iastorA.sys Critical System Failure and Blue Screens</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tips-for-keeping-favorite-netflix-movies-handy-on-your-computer/"><u>Ultimate Tips for Keeping Favorite Netflix Movies Handy on Your Computer</u></a></li>
 </ul></div>
 

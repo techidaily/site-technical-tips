@@ -1,7 +1,7 @@
 ---
 title: Is It Worth Switching to the New iPhone 16? Expert Opinions From ZDNet Editors on Pros & Cons | Tech Analysis by ZDNet
-date: 2024-10-17T16:06:18.624Z
-updated: 2024-10-19T16:14:09.537Z
+date: 2024-10-18T11:04:21.103Z
+updated: 2024-10-24T23:43:20.821Z
 tags:
   - apple
 categories:
@@ -47,10 +47,10 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
@@ -64,6 +64,13 @@ ZDNET contributor Ed Bott is planning to upgrade his iPhone 12 Pro Max for a new
 And if you're looking to change carriers, like managing editor Alison DeNisco Rayome, some of the trade-in offers make it hard to resist. "I still have the 13, and the trade-in deals are making it worth it for me to upgrade to the 16 (plus we want to switch carriers, so even better)," she says. 
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. For work
 
@@ -88,10 +95,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
@@ -109,10 +116,16 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
@@ -122,13 +135,6 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
 
@@ -176,20 +182,18 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-audio-visual-elites-selecting-5-exceptional-creators-who-mix-sounds/"><u>[New] 2024 Approved Audio-Visual Elites Selecting 5 Exceptional Creators Who Mix Sounds</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-improve-office-productivity-with-speech-to-text-conversion-in-microsoft-word/"><u>[New] In 2024, Improve Office Productivity with Speech to Text Conversion in Microsoft Word</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-ways-to-download-video-twitter-to-mp3/"><u>[New] In 2024, Ways to Download Video Twitter to MP3</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-novice-to-expert-mastering-movie-maker-in-windows-8-systems/"><u>2024 Approved From Novice to Expert Mastering Movie Maker in Windows 8 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-comprehensive-guide-to-posting-large-images-without-loss-of-quality-on-instagram/"><u>A Comprehensive Guide to Posting Large Images Without Loss of Quality on Instagram</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-self-driving-vehicle-producers-predicted-top-picks/"><u>Best Self-Driving Vehicle Producers Predicted : Top Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-way-to-binge-all-x-men-movies-without-missing-a-beat/"><u>Best Way to Binge All X-Men Movies Without Missing a Beat</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-tips-for-organizing-your-workflow-with-slack-reminders/"><u>Easy Tips for Organizing Your Workflow with Slack Reminders</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-unlock-your-iphones-sim-without-an-ejector-pin-or-toolkit/"><u>How to Unlock Your iPhone’s SIM without an Ejector Pin or Toolkit</u></a></li>
-<li><a href="https://article-tips.techidaily.com/reliving-fun-the-vhs-era-of-goof-troop-comedy-for-2024/"><u>Reliving Fun The VHS Era of 'Goof Troop' Comedy for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/s3700-blu-ray-box-player-fresh-perspective-for-2024/"><u>S3700 Blu-Ray Box Player - Fresh Perspective for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solutions-to-resolve-advrcntr2dll-not-found-in-nero-software/"><u>Solutions to Resolve 'Advrcntr2.dll Not Found' In Nero Software</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-issue-how-to-prevent-crashes-in-cod-modern-warfare/"><u>Solving the Issue: How to Prevent Crashes in COD: Modern Warfare</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-for-handling-trustedinstaller-rights-on-windows-cuarto/"><u>The Ultimate Walkthrough for Handling TrustedInstaller Rights on Windows Cuarto</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-ranked-mobile-melody-design-experts/"><u>Top-Ranked Mobile Melody Design Experts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-step-into-successful-online-broadcasting-top-youtube-webcam-choices/"><u>[Updated] In 2024, Step Into Successful Online Broadcasting Top YouTube Webcam Choices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-comprehensive-guide-to-minimalist-uavs/"><u>2024 Approved Comprehensive Guide to Minimalist UAVs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionizing-podcast-branding-with-ai-naming-generators/"><u>2024 Approved Revolutionizing Podcast Branding with AI Naming Generators</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-steps-to-adjust-folder-and-nested-folder-visual-settings-in-windows-explorers/"><u>Comprehensive Steps to Adjust Folder and Nested Folder Visual Settings in Windows Explorers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-issue-hp-not-found-for-windows-os/"><u>Driver Issue: HP Not Found for Windows OS</u></a></li>
+<li><a href="https://discover-best.techidaily.com/driving-website-traffic-the-power-of-cookiebot-integration/"><u>Driving Website Traffic: The Power of Cookiebot Integration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-free-tech-resources-for-kids-going-back-to-class/"><u>Essential FREE Tech Resources for Kids Going Back to Class</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-nubia-red-magic-8s-proplus-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Nubia Red Magic 8S Pro+ Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-poco-f5-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Poco F5 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-time-on-the-internet-tips-and-tricks-for-using-the-wayback-machine/"><u>Navigating Time on the Internet: Tips and Tricks for Using the Wayback Machine</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-correcting-color-imbalances-and-image-warping-in-display-screens/"><u>Solutions for Correcting Color Imbalances and Image Warping in Display Screens</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-for-repairing-a-cmos-error-summation-discrepancy/"><u>Troubleshooting Steps for Repairing a CMOS Error Summation Discrepancy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watch-disney-movies-and-series-seamlessly-connecting-disney-plus-to-chromecast-made-easy/"><u>Watch Disney Movies and Series Seamlessly - Connecting Disney Plus to Chromecast Made Easy</u></a></li>
 </ul></div>
 

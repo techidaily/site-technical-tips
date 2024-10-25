@@ -1,7 +1,7 @@
 ---
 title: "OpenAI Joins Forces with Apple: Unleashing ChatGPT on iOS, iPadOS, and MacOS | Innovative Tech Update"
-date: 2024-10-13T16:18:34.925Z
-updated: 2024-10-19T16:09:40.567Z
+date: 2024-10-21T03:10:29.330Z
+updated: 2024-10-25T08:47:02.099Z
 tags:
   - apple
 categories:
@@ -34,6 +34,13 @@ I previously showed [how to connect a trackpad and keyboard to the Vision Pro](h
 
 I'd like to see Apple introduce full mouse support to the Vision Pro. And, Apple, please don't limit it to the not-so-Magic Mouse or [Magic Mouse 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Magic-Mouse-Wireless-Rechargeable%2Fdp%2FB08PL57CBR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb135956-8baa-4edf-a1db-c0f82f14a9f0%7Cdtp&dtb=1). Since Apple is still shipping a less-than-optimal mouse design from 2009, only slightly updated way back in 2015, many users have moved on to better models, like the various [Logitech devices](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HM94VDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb135956-8baa-4edf-a1db-c0f82f14a9f0%7Cdtp&dtb=1). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. Better Bluetooth support for non-Apple devices
 
 You can [easily pair your AirPods to the Vision Pro](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/). But when I tried to pair an inexpensive set of non-Apple Bluetooth earbuds to the Vision Pro, I couldn't get it to work. Those earbuds did, however, work with my iPhone and iPad, so they're good enough. 
@@ -51,10 +58,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Keyboard passthrough
@@ -81,25 +88,11 @@ Apple still ships Books, Calendar, Clock, Home, Maps, Podcasts, Reminders, Short
 
 But I also think it might be nice to have some clocks you could actually place in mixed reality or a calendar you could hang on the wall. And where could Books go if the interactive features that are already so great in Books could be extended to a fully 3D world? Oh, the stories we could show and tell! 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  6\. More environments and third-party environments
 
 Apple currently allows just a few fully immersive environments. While the surface of the moon and Mount Hood are nice enough, they get boring after a while. My immersive environment on the [Quest 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMeta-Quest-128GB-Breakthrough-Reality-3%2Fdp%2FB0C8VKH1ZH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb135956-8baa-4edf-a1db-c0f82f14a9f0%7Cdtp&dtb=1) is an old mining town. The Quest 3 provides many immersive environments, including inside and outside locations. 
 
 I'd love to see more immersive environments for the Vision Pro. There is a category of long-running videos on YouTube called "ambience videos." They consist of cozy animated scenes with some background music like [this serene coffee shop](https://www.youtube.com/watch?v=W5qamfXh3Q4&t=11737s). How nice would it be to set up work virtually in a coffee shop like this, chill, and be productive? I can see a great app market for well-designed third-party ambience environments. Heck, I'd pay a couple of bucks to work in a selection of charming coffee shops! 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  7\. Larger play space boundary
 
@@ -137,15 +130,28 @@ It's weird, but there's no Find My app for the Apple Vision Pro. You can't even 
 
 Even cooler would be a heads-up display version of Find My that puts an arrow in your field of view as you look for what's missing. 
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Bonus: Better personas
 
 Wow, those things are creepy. We need to get them out of the uncanny valley. 'Nuff said. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Looking forward to VisionOS 2.0
@@ -186,16 +192,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-essential-list-the-10-leading-vimeo-downloaders-web/"><u>2024 Approved Essential List The 10 Leading Vimeo Downloaders Web</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-steps-for-fixing-the-gtx-950-code-43-error-on-windows-11-a-users-manual/"><u>Comprehensive Steps for Fixing the GTX 950 Code 43 Error on Windows 11 - A User’s Manual</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conversione-gratuita-da-3gp-a-wav-con-movavi-servizi-online/"><u>Conversione Gratuita Da 3GP a WAV Con Movavi - Servizi Online</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct3d-startup-complication-remedied/"><u>Direct3D Startup Complication Remedied</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/intelegerea-perfecta-pentru-incepatori-top-100-pagini-pentru-a-iubi-printre-ceva-totodata-scurgeti-randul-acum/"><u>Înțelegerea Perfectă Pentru Incepători: Top 100 Pagini Pentru a Iubi Printre Ceva Totodată | Scurgeți Rândul Acum!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-t2-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo T2 5G FRP Without Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/opgeluchten-online-avi-omg-convertidoor-professioneel-resultaat-winnen-met-movavi/"><u>Opgeluchten Online AVI-OMG Convertidoor - Professioneel Resultaat Winnen Met Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-free-artificial-intelligence-tools-for-creating-images/"><u>Top 5 Free Artificial Intelligence Tools for Creating Images</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/toutes-les-etapes-pour-transformer-vos-fichiers-aiff-en-m4a-en-ligne-gratuitement-a-laide-du-logiciel-movavi/"><u>Toutes Les Étapes Pour Transformer Vos Fichiers AIFF en M4A en Ligne Gratuitement À L'aide Du Logiciel Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-microsoft-wireless-display-on-windows-11-solutions-revealed/"><u>Troubleshooting Your Microsoft Wireless Display on Windows 11 - Solutions Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tudo-sobre-a-criacao-de-legendas-fixas-no-vlc-media-player-ferramentas-aprimoradas-e-solucoes-modernas/"><u>Tudo Sobre a Criação De Legendas Fixas No VLC Media Player: Ferramentas Aprimoradas E Soluções Modernas</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-comprehensive-guide-to-free-cloud-communication-software/"><u>[New] Comprehensive Guide to Free Cloud Communication Software</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-sync-up-with-tiktok-live-the-strategy-for-participation/"><u>[New] In 2024, Sync Up with TikTok Live The Strategy for Participation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oppo-a58-4g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-latest-innovations-from-apples-iphone-16-launch-introducing-glowtime-ai-features-and-new-apple-watch-series-10-all-covered/"><u>Discover the Latest Innovations From Apple’s iPhone 16 Launch: Introducing ‘Glowtime,’ AI Features, and New Apple Watch Series 10 - All Covered</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-call-clarity-tips-for-boosting-iphone-audio-output/"><u>Enhance Call Clarity: Tips for Boosting iPhone Audio Output</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-file-formatting-magic-turning-srt-into-txt-in-minutes/"><u>In 2024, Quick File Formatting Magic Turning SRT Into TXT in Minutes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-magicard-rio-pro-driver-software-available-for-windows-users/"><u>Latest Magicard Rio Pro Driver Software Available for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-digital-revolution-in-classrooms-top-8-reasons-to-adapt-with-ai/"><u>The Digital Revolution in Classrooms: Top 8 Reasons to Adapt with AI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-choosing-the-perfect-apple-airtag-wallet-for-your-needs-techradar/"><u>Ultimate Guide to Choosing the Perfect Apple AirTag Wallet for Your Needs - TechRadar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-apples-labeling-of-devices-as-vintage-or-obsolete-implications-and-explanations/"><u>Understanding Apple's Labeling of Devices as Vintage or Obsolete: Implications & Explanations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-lackluster-appeal-how-apples-latest-ai-innovations-at-wwdc-may-fail-to-impress-techinsights/"><u>Unveiling the Lackluster Appeal: How Apple's Latest AI Innovations at WWDC May Fail to Impress | TechInsights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-human-touch-matters-in-therapy-more-than-computerized-care/"><u>Why Human Touch Matters in Therapy, More Than Computerized Care</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-exclusive-innovative-ar-spectacles-and-budget-friendly-eyewear-projects-underway-by-apple-inc/"><u>ZDNet Exclusive: Innovative AR Spectacles & Budget-Friendly Eyewear Projects Underway by Apple Inc.</u></a></li>
 </ul></div>
 

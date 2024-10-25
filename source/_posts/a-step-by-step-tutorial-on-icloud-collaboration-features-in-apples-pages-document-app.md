@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Tutorial on iCloud Collaboration Features in Apple's Pages Document App
-date: 2024-10-17T16:14:17.130Z
-updated: 2024-10-19T16:13:57.400Z
+date: 2024-10-18T20:47:56.134Z
+updated: 2024-10-25T08:05:07.662Z
 tags:
   - apple
 categories:
@@ -34,10 +34,16 @@ The only things you'll need to make this work are a running instance of MacOS (w
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
@@ -62,13 +68,6 @@ Image: Jack Wallen
 
 ## Enable the Collaboration feature
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Open an Apple Pages document
 
 The first thing you must do is open the Pages document that will be shared with your collaborators. Once you have the document open, you should see the Collaborate button at the top of the window (**Figure 3**).
@@ -76,6 +75,19 @@ The first thing you must do is open the Pages document that will be shared with 
 **Figure 3**: Apple Pages open and the Collaborate button is ready to use.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Enable the Collaborate feature
 
@@ -86,10 +98,16 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
@@ -111,16 +129,16 @@ Make sure to configure both the Who Can Access and Permission options. Here, you
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
+<span id="1983545">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stop sharing
@@ -163,20 +181,18 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-navigating-new-worlds-an-in-depth-study-of-6-metaverse-models/"><u>[New] 2024 Approved Navigating New Worlds An In-Depth Study of 6 Metaverse Models</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-worth-of-instagram-video-selfie-authenticity/"><u>[New] The Worth of Instagram Video Selfie Authenticity</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-bandicam-reconnaissance-a-comprehensive-review-of-its-features-for-2024/"><u>[Updated] Bandicam Reconnaissance A Comprehensive Review of Its Features for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-perfecting-subtitles-in-media-ultimate-list-of-on-line-aid-sources/"><u>[Updated] Perfecting Subtitles in Media Ultimate List of On-Line Aid Sources</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-free-online-streaming-options-similar-to-netflix-a-guide/"><u>Best Free Online Streaming Options Similar to Netflix – A Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/capture-and-store-fb-conversations-best-methods-summarized/"><u>Capture & Store FB Conversations - Best Methods Summarized</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discovering-instagram-functionality-and-features-explained/"><u>Discovering Instagram: Functionality & Features Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-rid-of-excess-how-to-clean-up-and-delete-apps-on-a-samsung-smart-tv/"><u>Get Rid of Excess: How to Clean Up and Delete Apps on a Samsung Smart TV</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/how-to-enjoy-pubg-mobile-cross-platform-top-techniques-for-pc-and-mac-users/"><u>How to Enjoy PUBG Mobile Cross-Platform: Top Techniques for PC and Mac Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/hp-laptop-users-handbook-mastering-the-art-of-screenshots/"><u>HP Laptop User's Handbook: Mastering the Art of Screenshots</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-sluggish-keyboard-responses-a-step-by-step-guide/"><u>Quick Solutions for Sluggish Keyboard Responses: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/samsung-smart-tv-app-add-ons-a-step-by-step-downloading-guide/"><u>Samsung Smart TV App Add-Ons: A Step-by-Step Downloading Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sound-perfection-with-nest-audio-a-detailed-look-at-the-premier-device-for-music-buffs/"><u>Sound Perfection with Nest Audio: A Detailed Look at the Premier Device for Music Buffs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-establishing-an-oculus-questquest-2-account-made-easy-for-newcomers/"><u>Step by Step: Establishing an Oculus Quest/Quest 2 Account Made Easy for Newcomers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722878879148-touchscreen-macbook-arrives-find-out-the-projected-pricing-launch-window-and-feature-scoops/"><u>Touchscreen MacBook Arrives? Find Out the Projected Pricing, Launch Window & Feature Scoops</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-customizing-ae-title-designs-for-2024/"><u>[Updated] Customizing AE Title Designs for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-comprehensive-analysis-hero4-black-overview/"><u>[Updated] In 2024, Comprehensive Analysis Hero4 Black Overview</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-navigate-to-sites-where-you-can-procure-sponsorships-on-youtube/"><u>[Updated] In 2024, Navigate to Sites Where You Can Procure Sponsorships on Youtube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-targets-top-browser-with-eerie-promotional-campaign-unveil-the-strategy-on-zdnet/"><u>Apple Targets Top Browser with Eerie Promotional Campaign: Unveil the Strategy on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-iphone-efficiency-with-apples-latest-move-introducing-google-gemini-to-ios-systems/"><u>Boosting iPhone Efficiency with Apple's Latest Move: Introducing Google Gemini to iOS Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/favorite-smartphones-among-tech-insiders-of-zdnet-a-comprehensive-guide/"><u>Favorite Smartphones Among Tech Insiders of ZDNet – A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/improving-your-photo-quality-adjusting-animal-eyes-for-a-professional-look/"><u>Improving Your Photo Quality: Adjusting Animal Eyes for a Professional Look</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-narzo-n55-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme Narzo N55 Phone Pattern Lock</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-software-update-get-your-device-on-the-latest-ios-18-with-our-step-by-step-installation-tutorial/"><u>IPhone Software Update: Get Your Device on the Latest IOS 18 with Our Step-by-Step Installation Tutorial</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lenovo-tab-4-review-a-budget-friendly-android-tablet-with-limitations/"><u>Lenovo Tab 4 Review: A Budget-Friendly Android Tablet with Limitations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-most-of-widgets-activate-them-in-windows-11/"><u>Making Most of Widgets: Activate Them in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-zte-blade-a73-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For ZTE Blade A73 5G</u></a></li>
 </ul></div>
 

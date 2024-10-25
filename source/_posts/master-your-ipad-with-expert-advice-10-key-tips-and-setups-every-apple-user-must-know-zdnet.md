@@ -1,7 +1,7 @@
 ---
 title: "Master Your iPad with Expert Advice: 10 Key Tips and Setups Every Apple User Must Know | ZDNET"
-date: 2024-10-18T16:10:13.182Z
-updated: 2024-10-19T16:20:33.302Z
+date: 2024-10-23T18:49:26.976Z
+updated: 2024-10-25T05:39:34.937Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and 
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Configure your focus settings
 
 I kid you not: The Focus settings that Apple rolled out a few years ago might be some of my most-used settings of all time. For those unfamiliar, Focus modes are basically fancy Do Not Disturb profiles that can be enabled manually, automatically at a certain time of day, or even when you travel somewhere. They allow you to control which notifications you see, who can contact you, and more. It's helpful when you want certain notifications while at work and others while you're relaxing at home. 
@@ -74,10 +67,10 @@ You can customize the size of the window, bring up secondary apps in the same vi
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Save your eyes at night with Night Shift
@@ -87,13 +80,6 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **Also:** [**What iPad Pro's Tandem OLED tells us about future device screens**](https://www.zdnet.com/article/what-ipad-pros-tandem-oled-tells-us-about-future-device-screens/)
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
 
@@ -111,6 +97,13 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Split or float your keyboard
 
 Max Buondonno/ZDNET
@@ -126,10 +119,10 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
@@ -139,6 +132,13 @@ Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increa
 Of course, while the feature is enabled out of the box, there's always a chance you aren't taking advantage of it on your iPad Pro, and I wouldn't be doing my due diligence if I didn't ask you to check the setting.
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
 
@@ -188,21 +188,20 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-monetize-your-youtube-shorts-simple-steps-for-2024/"><u>[Updated] How to Monetize Your YouTube Shorts Simple Steps for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-tweak-twitter-video-clip-cover/"><u>[Updated] In 2024, Tweak Twitter Video Clip Cover</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-converter-convert-audio-files-to-flac-format-with-movavi/"><u>Free Online Converter - Convert Audio Files to FLAC Format with Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-converter-change-mp3m4a-files-to-aac-format-without-cost-movavi/"><u>Free Online Converter: Change MP3/M4A Files to AAC Format Without Cost - Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-converter-transform-wma-to-avi-format-with-movavi/"><u>Free Online Converter: Transform WMA to AVI Format with Movavi</u></a></li>
-<li><a href="https://win-best.techidaily.com/how-to-backup-your-windows-8-system-on-an-external-hard-drive-a-comprehensive-guide/"><u>How to Backup Your Windows 8 System on an External Hard Drive: A Comprehensive Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-your-video-their-feast-how-to-craft-gifs-from-vimeo-videos/"><u>In 2024, Your Video, Their Feast How to Craft GIFs From Vimeo Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/periscope-savvy-the-ultimate-operational-manual/"><u>Periscope Savvy The Ultimate Operational Manual</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/secrets-to-standout-final-scenes-on-yt-platforms/"><u>Secrets to Standout Final Scenes on YT Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-steps-changing-dall-e-3-creations-from-webp-format-to-jpgpng/"><u>Simple Steps: Changing DALL-E ^3 Creations From WebP Format to JPG/PNG</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-13-ferramentas-de-edicao-fotografica-publicas-gratuitas-para-o-ano-de-2024-movavi/"><u>Top 13 Ferramentas De Edição Fotográfica Públicas Gratuitas Para O Ano De 2024 - Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-9-solutions-to-resolve-your-obs-audio-recording-problems-with-movavi/"><u>Top 9 Solutions to Resolve Your OBS Audio Recording Problems with Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transform-audio-from-wav-to-mp4-at-no-cost-utilize-movavis-easy-tool/"><u>Transform Audio From WAV to MP4 at No Cost - Utilize Movavi's Easy Tool!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformez-gratuitement-vos-fichiers-aifc-en-format-wav-en-ligne-avec-movavi-converter/"><u>Transformez Gratuitement Vos Fichiers AIFC en Format WAV en Ligne Avec Movavi Converter</u></a></li>
-<li><a href="https://driver-error.techidaily.com/vehicle-unloading-barred-by-tech/"><u>Vehicle Unloading Barred by Tech</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/virtual-victory-channel-over-a-hundred-heroes-rise-for-2024/"><u>Virtual Victory Channel Over a Hundred Heroes Rise for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-frontiers-in-virtuality-industry-analysis-for-2024/"><u>[New] Frontiers in Virtuality Industry Analysis for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-discover-engaging-youtube-threads-for-2024/"><u>[Updated] Discover Engaging YouTube Threads for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exploring-the-world-of-aspect-ratios-in-youtube-content/"><u>[Updated] In 2024, Exploring the World of ASPECT RATIOS in YOUTUBE Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/configure-storage-of-captured-mac-screen/"><u>Configure Storage of Captured Mac Screen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-ultimate-protection-with-nomad-case-for-apple-iphone-12-featuring-magsafe-compatibility-superior-drop-shielding-stylish-design-and-premium-qualit186/"><u>Experience Ultimate Protection with Nomad Case for Apple iPhone 12: Featuring MagSafe Compatibility, Superior Drop Shielding, Stylish Design & Premium Quality - Reviewed by TechSavvyZnet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experts-choice-ultimate-selection-of-apple-watch-bands-thoroughly-tested-and-evaluated/"><u>Experts Choice: Ultimate Selection of Apple Watch Bands - Thoroughly Tested and Evaluated</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y78-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y78 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-xs-max-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone XS Max and iPad</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-narzo-n55-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme Narzo N55</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macmasterclass-deciding-between-m2-and-m3-macbook-air-which-should-be-your-next-purchase/"><u>MacMasterclass: Deciding Between M2 and M3 MacBook Air - Which Should Be Your Next Purchase?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-craft-the-ultimate-guide-to-mac-based-document-creation-with-top-tips-and-tricks/"><u>Mastering Craft: The Ultimate Guide to Mac-Based Document Creation with Top Tips and Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-beginners-tutorial-configuring-and-using-multiple-monitors-with-macos/"><u>The Beginner's Tutorial: Configuring and Using Multiple Monitors with macOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-apple-vision-pro-in-store-test-drives-upgrades-explained-and-how-to-reserve-your-demo-tech-reviews/"><u>The Ultimate Guide to Apple Vision Pro In-Store Test Drives: Upgrades Explained and How to Reserve Your Demo Tech Reviews</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-10t-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme 10T 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-users-rejoice-mastering-imessage-for-desktops-expert-how-tos/"><u>Windows Users Rejoice: Mastering iMessage for Desktops - Expert How-To's!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Boost Your Apple Watch's Battery Life with These Easy Configuration Tweaks - Tips From ZDNet
-date: 2024-10-13T16:13:15.178Z
-updated: 2024-10-19T16:00:17.377Z
+date: 2024-10-22T21:34:30.545Z
+updated: 2024-10-25T04:33:17.312Z
 tags:
   - apple
 categories:
@@ -59,16 +59,10 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
@@ -89,19 +83,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
@@ -109,10 +90,10 @@ With some of the newest Apple Watches, Apple includes a feature that can alert y
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
@@ -123,6 +104,13 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -132,10 +120,10 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
@@ -185,22 +173,20 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-navigating-youtubes-community-standards-as-a-viewer-or-creator/"><u>[New] Navigating YouTube's Community Standards as a Viewer or Creator</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-simplified-methods-for-google-meet-recordings/"><u>[New] Simplified Methods for Google Meet Recordings</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlock-the-power-to-download-igtv-videos-effortlessly-for-2024/"><u>[Updated] Unlock the Power to Download IGTV Videos Effortlessly for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-audience-accumulation-expedition-tutorials-1mplus-milestone/"><u>2024 Approved Audience Accumulation Expedition Tutorial's 1M+ Milestone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-tailored-approach-to-capturing-every-facetime-interaction-flawlessly/"><u>2024 Approved Tailored Approach to Capturing Every FaceTime Interaction Flawlessly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722878876455-best-kid-friendly-online-entertainment-discover-7-amazing-games/"><u>Best Kid-Friendly Online Entertainment: Discover 7 Amazing Games!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/celebrate-pride-exceptional-lgbt-film-offerings-from-netflix-for-july-2024/"><u>Celebrate Pride: Exceptional LGBT Film Offerings From Netflix for July 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elevating-iphone-phone-ringers-a-step-by-step-guide-for-enhancing-audio/"><u>Elevating iPhone Phone Ringers: A Step-by-Step Guide for Enhancing Audio</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-reviving-wet-apple-devices-iphone-and-ipod-recovery-processes/"><u>Expert Tips for Reviving Wet Apple Devices: IPhone and iPod Recovery Processes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-affordable-options-with-our-list-of-10-great-alternatives-to-netflix/"><u>Explore Affordable Options with Our List of 10 Great Alternatives To Netflix</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/favorite-iphone-optimized-email-software-edition/"><u>Favorite iPhone-Optimized Email Software Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/google-home-device-unpairing-tutorial-how-to-for-a-cleaner-smart-home-setup/"><u>Google Home Device Unpairing Tutorial: How-To for a Cleaner Smart Home Setup</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-revival-artisan-selection/"><u>In 2024, Revival Artisan Selection</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-y27s-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo Y27s? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/preserve-animated-gifs-effortlessly-with-these-top-9-apps-for-windows-for-2024/"><u>Preserve Animated GIFs Effortlessly with These Top 9 Apps for Windows for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-removing-duplicate-posts-from-your-tiktok-feed/"><u>Step-by-Step Guide: Removing Duplicate Posts From Your TikTok Feed</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/be-revenue-per-million-viewer-count/"><u>Youtube Revenue Per Million Viewer Count</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ignite-fitness-goals-with-the-ultimate-music-mix/"><u>[Updated] Ignite Fitness Goals with the Ultimate Music Mix</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-eliminating-virtual-nausea-without-losing-immersion/"><u>[Updated] In 2024, Eliminating Virtual Nausea Without Losing Immersion</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-programmers-celebrate-experience-a-revolutionary-leap-in-development-with-free-ai-integration/"><u>Apple Programmers Celebrate! Experience a Revolutionary Leap in Development with Free AI Integration</u></a></li>
+<li><a href="https://facebook.techidaily.com/breaking-down-the-essential-points-in-facebook-papers/"><u>Breaking Down the Essential Points in Facebook Papers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/endless-video-recording-program/"><u>Endless Video Recording Program</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ensuring-a-smooth-gameplay-experience-for-nba-2k21-on-windows-and-mac/"><u>Ensuring a Smooth Gameplay Experience for NBA 2K21 on Windows & Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-tips-preventing-the-top-6-slip-ups-in-creating-effective-chatgpt-prompts/"><u>Essential Tips: Preventing the Top 6 Slip-Ups in Creating Effective ChatGPT Prompts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-configuring-various-network-setups-on-your-mac-for-optimal-connection-management-cnet-news/"><u>Guide to Configuring Various Network Setups on Your Mac for Optimal Connection Management | CNET News</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/live-streaming-made-simple-discover-manycams-powerful-video-editing-and-virtual-camera-tools/"><u>Live Streaming Made Simple: Discover ManyCam's Powerful Video Editing and Virtual Camera Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-puzzle-expert-tips-on-repairing-code-43-issues/"><u>Solving the Puzzle: Expert Tips on Repairing Code 43 Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-resolving-spotify-issues-on-android-auto-13-key-strategies/"><u>The Ultimate Guide to Resolving Spotify Issues on Android Auto – 13 Key Strategies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-how-to-fix-the-perpetual-loading-screen-in-among-us/"><u>Troubleshooting: How to Fix the Perpetual Loading Screen in Among Us</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-face-off-samsung-galaxy-book-4-versus-apple-macbook-pro-in-the-battle-for-elite-portability-techradar/"><u>Ultimate Face-Off: Samsung Galaxy Book 4 versus Apple MacBook Pro in the Battle for Elite Portability | TechRadar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-truth-about-lossless-sound-quality-in-todays-earphones-unveiling-the-facts/"><u>Understanding the Truth About Lossless Sound Quality in Today's Earphones - Unveiling the Facts</u></a></li>
 </ul></div>
 
