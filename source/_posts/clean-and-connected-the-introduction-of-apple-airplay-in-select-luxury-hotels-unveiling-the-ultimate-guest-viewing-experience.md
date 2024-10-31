@@ -1,7 +1,7 @@
 ---
 title: "Clean & Connected: The Introduction of Apple AirPlay in Select Luxury Hotels - Unveiling the Ultimate Guest Viewing Experience"
-date: 2024-10-17T17:05:19.897Z
-updated: 2024-10-25T08:52:17.152Z
+date: 2024-10-26T23:04:03.976Z
+updated: 2024-10-30T20:34:26.320Z
 tags:
   - apple
 categories:
@@ -34,19 +34,6 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
 Apple Intelligence represents a significant leap in on-device AI capabilities, directly bringing advanced machine learning and natural language processing to our phones. Unlike typical iOS or MacOS feature upgrades, Apple Intelligence loads a downsized version of Apple's Foundation Models, [a home-grown large language model (LLM)](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) with approximately 3 billion parameters. While impressive, this is tiny compared to models like [GPT-3.5 and GPT-4](https://www.zdnet.com/article/what-does-gpt-stand-for-understanding-gpt-3-5-gpt-4-and-more/), which boast hundreds of billions of parameters. Even Meta's open source Llama 3, which you can run on a desktop computer, has 8 billion parameters. 
@@ -71,6 +58,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -88,16 +82,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -109,10 +97,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -132,10 +120,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -178,18 +166,21 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-sonys-masterpiece-in-motion-graphics-xperia-xz-premium-unboxed-for-2024/"><u>[New] Sony's Masterpiece in Motion Graphics Xperia XZ Premium Unboxed for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-guide-to-drawing-characters-with-snaps-for-2024/"><u>[New] The Ultimate Guide to Drawing Characters with Snaps for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-canvas-mastery-top-10-editing-strategies-unveiled/"><u>[Updated] 2024 Approved Canvas Mastery Top 10 Editing Strategies Unveiled</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-press-pause-on-anxiety-with-these-games/"><u>2024 Approved Press Pause on Anxiety with These Games</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/adjusting-your-pcs-network-presence-with-ease-enable-and-disable-discovery-in-windows/"><u>Adjusting Your PC's Network Presence with Ease: Enable and Disable Discovery in Windows #</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/become-an-internet-celebrity-with-these-8-youtube-viral-tricks/"><u>Become an Internet Celebrity with These 8 YouTube Viral Tricks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bypass-the-login-viewing-instagram-pages-without-an-account/"><u>Bypass the Login: Viewing Instagram Pages Without an Account</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connecting-your-firestick-device-using-a-phones-data-connection-step-by-step-tutorial/"><u>Connecting Your Firestick Device Using a Phone's Data Connection – Step by Step Tutorial</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-v27-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo V27 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-video-sharing-between-devices-using-vlc-for-apple-tv-playback-made-easy/"><u>Seamless Video Sharing Between Devices: Using VLC for Apple TV Playback Made Easy</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-common-connectivity-challenges-making-your-ipad-recognize-the-printer-again/"><u>Solving Common Connectivity Challenges: Making Your iPad Recognize the Printer Again</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-is-aol-instant-messenger-an-in-depth-look-at-aims-impact-on-communication/"><u>What Is AOL Instant Messenger? An In-Depth Look at AIM’s Impact on Communication</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-top-picks-excellent-fb-lite-video-downloaders-of-2023-for-2024/"><u>[New] The Top Picks Excellent FB Lite Video Downloaders of 2023 for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-visual-vanguard-the-top-videoviral-tweets/"><u>[New] Visual Vanguard The Top #VideoViral Tweets</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-lighting-the-way-in-film-tips-for-immaculate-visuals/"><u>2024 Approved Lighting the Way in Film Tips for Immaculate Visuals</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-alternative-media-players-for-windows-in-2019-a-comprehensive-guide/"><u>Best Alternative Media Players for Windows in 2019: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-accessing-downloads-of-user-guides-for-all-iphone-models/"><u>Comprehensive Guide: Accessing Downloads of User Guides for All iPhone Models</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-setting-up-and-syncing-with-bose-soundlink-devices/"><u>Easy Steps: Setting Up and Syncing with Bose SoundLink Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-12-pro-max-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-often-should-you-upgrade-your-phone/"><u>How Often Should You Upgrade Your Phone?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-your-youtube-premium-the-ultimate-guide-to-student-discounts/"><u>Securing Your YouTube Premium: The Ultimate Guide to Student Discounts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/skyward-haven-of-the-pennywise-clouds-for-2024/"><u>Skyward Haven of the Pennywise Clouds for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-overcome-black-screen-problems-on-your-windows/"><u>Step-by-Step Solutions to Overcome Black Screen Problems on Your Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-cozy-cinematic-approach-to-cold-season-videography/"><u>The Cozy Cinematic Approach to Cold Season Videography</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-for-deleting-mac-programs/"><u>The Ultimate How-To for Deleting Mac Programs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unique-and-captivating-instagram-captions-a-list-of-507plus-options/"><u>Unique and Captivating Instagram Captions : A List of 507+ Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-mp4-video-tag-editor-roundup-best-options-for-windows-and-mac/"><u>Updated In 2024, MP4 Video Tag Editor Roundup Best Options for Windows and Mac</u></a></li>
 </ul></div>
 

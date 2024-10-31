@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Future of Mobility: Discovering Cutting-Edge Innovations Like On-Device AI & Next-Gen Phones"
-date: 2024-10-24T07:18:09.380Z
-updated: 2024-10-24T18:33:59.868Z
+date: 2024-10-29T02:08:33.493Z
+updated: 2024-10-31T00:19:23.151Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. On-device AI puts the 'smart' in smartphone
 
 The new Samsung Galaxy S24 series features a live translation feature, powered by on-device AI.
@@ -52,10 +45,10 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
@@ -75,10 +68,10 @@ Now that the major players have entered the competition, the big question this y
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
@@ -96,6 +89,13 @@ The Wireless Power Consortium (WPC), a committee that consists of Apple, Samsung
 The adoption of such technology bridges a longstanding gap between MagSafe-compatible devices (iPhone 12 and up) and ones without the feature, allowing Android users to also reap the benefits of [magnet-based charging accessories](https://www.zdnet.com/article/the-12-best-mobile-accessories-at-ces-2024-so-far-iphone-call-recorder-qi2-chargers-and-more/). Accessory makers like [Anker](https://www.zdnet.com/article/ankers-latest-wireless-charging-accessories-are-all-in-on-qi2-heres-why-that-matters/) and Satechi have already begun rolling out Qi2-compatible docks and charging pads. Now, it's on phone manufacturers to foot the second half of the bill by integrating the proper coils on the back of their devices. Expect those to arrive very soon.
 
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
 
@@ -116,10 +116,10 @@ As manufacturers continue to figure out ways to shrink and fit better components
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
@@ -176,22 +176,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-art-and-science-of-buying-profitable-yt-content/"><u>[New] 2024 Approved The Art and Science of Buying Profitable YT Content</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-integrate-sound-and-sight-web-studio/"><u>[New] Integrate Sound & Sight Web Studio</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/comprerante-snapchat-content-tips-for-mobile-recording-success/"><u>Comprerante Snapchat Content Tips for Mobile Recording Success</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connecting-your-pinterest-and-facebook-for-enhanced-user-experience/"><u>Connecting Your Pinterest and Facebook for Enhanced User Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/demystifying-electric-two-wheelers-understanding-the-core-principles-of-functionality/"><u>Demystifying Electric Two-Wheelers: Understanding the Core Principles of Functionality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-how-to-switch-off-subtitle-features-in-amazon-prime-video/"><u>Guide: How to Switch Off Subtitle Features in Amazon Prime Video</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-do-ev-batteries-perform-under-harsh-temperature-extremes/"><u>How Do EV Batteries Perform Under Harsh Temperature Extremes?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-5-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-c110-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia C110</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-protocols-for-preserving-instagram-footage-on-windowsmacos-platforms/"><u>In 2024, Protocols for Preserving Instagram Footage on Windows/macOS Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/masterful-podcast-descriptions-strategies-and-case-studies/"><u>Masterful Podcast Descriptions Strategies and Case Studies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ray-tracing-explained-how-it-transforms-graphics-rendering/"><u>Ray Tracing Explained: How It Transforms Graphics Rendering</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-common-issues-a-guide-to-troubleshooting-a-malfunctioning-tiktok/"><u>Solving Common Issues: A Guide to Troubleshooting a Malfunctioning TikTok</u></a></li>
-<li><a href="https://win-able.techidaily.com/tackling-fatal-error-codes-in-ark-a-comprehensive-solution-manual/"><u>Tackling Fatal Error Codes in Ark: A Comprehensive Solution Manual</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-ssltls-issues-resolve-your-insecure-connection-alerts-today/"><u>Troubleshooting SSL/TLS Issues: Resolve Your 'Insecure Connection' Alerts Today</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/verizon-5g-unleashed-a-glimpse-into-telecom-evolution/"><u>Verizon 5G Unleashed: A Glimpse Into Telecom Evolution</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11win10s-unidentified-device-fix-guide/"><u>Win11/Win10's 'Unidentified Device' Fix Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unveiling-time-lapse-techniques-for-samsung-enthusiasts/"><u>[New] Unveiling Time Lapse Techniques for Samsung Enthusiasts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mobile-studio-kits-convenient-for-filmmakers-for-2024/"><u>[Updated] Mobile Studio Kits Convenient for Filmmakers for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-top-choices-premier-video-cutting-tools-for-online-streaming/"><u>[Updated] Top Choices Premier Video Cutting Tools For Online Streaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-transferring-virtual-reality-films-a-step-by-step-guide-on-uploading-from-pc-to-iphone/"><u>1. 'Transferring Virtual Reality Films: A Step-by-Step Guide on Uploading From PC to iPhone'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/create-buzz-and-go-viral-on-tiktok-discover-these-10-effective-methods/"><u>Create Buzz and Go Viral on TikTok: Discover These 10 Effective Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-disneypluss-premier-movie-selections-for-your-next-binge-watch/"><u>Discover Disney+'s Premier Movie Selections for Your Next Binge Watch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-window-management-how-to-enable-split-screen-views-on-a-macbook-air/"><u>Effortless Window Management: How to Enable Split Screen Views on a MacBook Air</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elite-4k-reflections-the-best-mirrorless-picks/"><u>Elite 4K Reflections The Best Mirrorless Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722862507978-finding-someone-fast-check-out-these-8-search-tools/"><u>Finding Someone Fast? Check Out These 8 Search Tools!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-wiring-your-laptop-to-display-on-television-using-an-hdmi-cable/"><u>Guide: Wiring Your Laptop to Display on Television Using an HDMI Cable</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-implement-2fa-on-your-twitch-profile-for-extra-layer-of-defense/"><u>How To Implement 2FA On Your Twitch Profile For Extra Layer of Defense</u></a></li>
+<li><a href="https://extra-information.techidaily.com/hue-alignment-assistant/"><u>Hue Alignment Assistant</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-tv-shutdown-procedure-for-2024/"><u>Instagram TV Shutdown Procedure for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/integrating-your-tv-with-apples-homepod-a-step-by-step-guide/"><u>Integrating Your TV with Apple's HomePod - A Step by Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-huawei-p60-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Huawei P60 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-world-of-tags-uncovering-their-purpose-and-usage/"><u>Navigating the World of Tags - Uncovering Their Purpose and Usage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-fix-gray-zone-warfare-stability-issues-on-pc/"><u>Step-by-Step Solutions to Fix 'Gray Zone Warfare' Stability Issues on PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-hidden-or-missing-wi-fi-networks/"><u>Troubleshooting Tips for Hidden or Missing Wi-Fi Networks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watching-lord-of-the-rings-the-perfect-viewing-order-explained/"><u>Watching 'Lord of the Rings': The Perfect Viewing Order Explained</u></a></li>
 </ul></div>
 

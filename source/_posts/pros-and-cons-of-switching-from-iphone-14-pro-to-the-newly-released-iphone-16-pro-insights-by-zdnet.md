@@ -1,7 +1,7 @@
 ---
 title: Pros and Cons of Switching From iPhone 14 Pro to the Newly Released iPhone 16 Pro | Insights by ZDNet
-date: 2024-10-23T20:39:20.553Z
-updated: 2024-10-25T11:31:29.446Z
+date: 2024-10-23T16:02:02.655Z
+updated: 2024-10-30T23:08:21.844Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,19 +129,24 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/infographic-dji-mavic-air-vs-dji-spark-a-gamer-changer-again/"><u>[Infographic] DJI Mavic Air Vs. DJI Spark - A Gamer Changer Again?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-insta-popularity-on-youtube-jake-pauls-story-unfolded/"><u>[New] Insta-Popularity on Youtube Jake Paul’s Story Unfolded</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-scouring-social-media-locating-facebook-videos-for-2024/"><u>[Updated] Scouring Social Media Locating Facebook Videos for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/5-must-consider-features-that-will-guide-you-to-the-right-smartwatch/"><u>5 Must-Consider Features That Will Guide You to the Right Smartwatch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/access-roku-content-from-your-browser-skip-roku-hardware/"><u>Access Roku Content From Your Browser, Skip Roku Hardware!</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/re-the-10-fastest-expanding-yt-hubs-for-wisdom/"><u>Explore the 10 Fastest-Expanding YT Hubs for Wisdom</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-movie-marathon-discover-the-world-of-entertainment-with-crackle/"><u>Free Movie Marathon: Discover the World of Entertainment with Crackle</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/maximizing-video-collection-on-tiktok-efficiently/"><u>Maximizing Video Collection on TikTok Efficiently</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionize-your-visuals-upgrading-photo-skills-on-apple-devices/"><u>Revolutionize Your Visuals: Upgrading Photo Skills on Apple Devices</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/inal-touch-youtube-outro-essentials-plus-premier-creator-list/"><u>The Final Touch YouTube Outro Essentials + Premier Creator List</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-step-by-step-process-to-configure-almost-any-preference-in-gmail/"><u>The Step-by-Step Process to Configure Almost Any Preference in Gmail</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-fun-learning-9-fabulous-places-to-find-free-games-for-tots/"><u>Unlock Fun Learning: 9 Fabulous Places to Find FREE Games for Tots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expanding-photography-quality/"><u>[New] Expanding Photography Quality</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-laugh-hard-best-meme-app-for-you/"><u>[New] In 2024, Laugh Hard Best Meme App for You</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-rhythm-rulebook-seamlessly-mixing-music-into-instagram-posts/"><u>[Updated] The Rhythm Rulebook Seamlessly Mixing Music Into Instagram Posts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-watch-2024-lineup-the-elite-selection-insider-reviews-and-ratings-zdnet/"><u>Apple Watch 2024 Lineup: The Elite Selection - Insider Reviews and Ratings | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-how-the-349-ipad-stole-the-spotlight-in-apples-lively-unleashing-event-covered-by-zdnet/"><u>Discover How the $349 iPad Stole the Spotlight in Apple's Lively Unleashing Event Covered by ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-unmatched-brightness-with-romers-rechargeable-beam-torch-comprehensive-review/"><u>Experience Unmatched Brightness with Romer's Rechargeable Beam Torch - Comprehensive Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-ensure-seamless-communication-a-guide-to-network-pings/"><u>How To Ensure Seamless Communication: A Guide to Network Pings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-use-vlc-media-player-for-midi-file-playback/"><u>How to Use VLC Media Player for MIDI File Playback</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-nord-ce-3-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Nord CE 3 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-power-of-pinterest-top-5-free-extractors-at-hand/"><u>In 2024, Unlock the Power of Pinterest Top 5 Free Extractors at Hand</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-investing-in-the-iphone-16-worth-it-unpacking-apples-ai-capabilities-with-insights-from-zdnet/"><u>Is Investing in the iPhone 16 Worth It? Unpacking Apple's AI Capabilities with Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/save-big-discover-the-ultimate-36-apple-discounts-for-prime-day-shopping-extravaganza-insights/"><u>Save Big: Discover the Ultimate 36 Apple Discounts for Prime Day Shopping Extravaganza | Insights</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simple-steps-adding-srt-captions-to-your-avi-videos-with-ease/"><u>Simple Steps: Adding SRT Captions to Your AVI Videos with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-is-bright-with-amazon-prime-day-2024-unveiling-whats-in-store-for-bargain-hunters/"><u>The Future Is Bright with Amazon Prime Day 2024 - Unveiling What's In Store for Bargain Hunters</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-new-era-of-editing-unveiled-groundbreaking-capabilities-in-final-cut-pro-for-ipad-spell-success-for-creatives-zdnet/"><u>The New Era of Editing Unveiled: Groundbreaking Capabilities in Final Cut Pro for iPad Spell Success for Creatives - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-iphone-promotions-in-july-2024-exclusive-insights-from-zdnet/"><u>Top-Rated iPhone Promotions in July 2024 - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrading-to-the-newest-apple-phone-compare-iphone-16-with-15-essential-factors-revealed-gadgetsphere/"><u>Upgrading to the Newest Apple Phone? Compare iPhone 16 with 15 – Essential Factors Revealed | GadgetSphere</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-the-mac-studios-unique-capabilities-outshine-the-upcoming-m4-mac-mini-insights-for-autumn-shoppers/"><u>Why the Mac Studio's Unique Capabilities Outshine the Upcoming M4 Mac Mini: Insights for Autumn Shoppers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-angle-adjustment-a-step-by-step-editing-guide-for-2024/"><u>Youtube Angle Adjustment A Step-by-Step Editing Guide for 2024</u></a></li>
 </ul></div>
 

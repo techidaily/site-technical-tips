@@ -1,7 +1,7 @@
 ---
 title: Apple's Latest iOS Version 17.4 Launches with Enhanced Podcast Accessibility via Transcripts, New Emojis and Significant EU App Marketplace Modifications | ZDNET News
-date: 2024-10-21T02:24:50.361Z
-updated: 2024-10-25T02:35:03.466Z
+date: 2024-10-23T23:04:37.325Z
+updated: 2024-10-31T04:39:29.579Z
 tags:
   - apple
 categories:
@@ -44,16 +44,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -64,16 +64,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -83,10 +77,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -96,10 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -136,20 +130,19 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capture-every-word-in-meetings-the-top-10-free-recorders-for-slack/"><u>[New] 2024 Approved Capture Every Word in Meetings - The Top 10 Free Recorders for Slack</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-insight-triumph-in-transparency-with-3-techniques/"><u>[New] In 2024, Instagram Insight Triumph in Transparency with 3 Techniques</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-ultimate-battle-for-ephemeral-content-youtube-shorts-versus-tiktok/"><u>[New] In 2024, The Ultimate Battle for Ephemeral Content YouTube Shorts Versus TikTok</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-monetize-smart-a-creative-approach-to-earning-with-vimeo-for-2024/"><u>[New] Monetize Smart A Creative Approach to Earning with Vimeo for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-virtual-fantasy-the-essential-samsung-gear-vr-games/"><u>[New] Virtual Fantasy The Essential Samsung Gear VR Games</u></a></li>
-<li><a href="https://facebook.techidaily.com/bypassing-facebook-2fa-post-phone-loss/"><u>Bypassing Facebook 2FA Post-Phone Loss</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-turn-off-and-on-hibernate-feature-in-windows-10/"><u>How to Turn Off and On Hibernate Feature in Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/immediate-action-a-fast-way-to-modify-your-facebook-sign-in-key/"><u>Immediate Action: A Fast Way to Modify Your FaceBook Sign-In Key</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-12t-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 12T Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximize-productivity-using-your-laptop-as-an-additional-screen/"><u>Maximize Productivity: Using Your Laptop as an Additional Screen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-start-directx-downloads-for-windows-11-and-10-user-friendly-guide-inside/"><u>Quick-Start DirectX Downloads for Windows 11 & 10 - User-Friendly Guide Inside!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reactivate-realtek-high-definition-sound-adapter-in-windows-11-with-easy-steps/"><u>Reactivate Realtek High Definition Sound Adapter in Windows 11 with Easy Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reviving-a-stalled-computer-expert-tips-to-fix-freezes-on-windows-11-machines/"><u>Reviving a Stalled Computer: Expert Tips to Fix Freezes on Windows 11 Machines</u></a></li>
-<li><a href="https://fox-access.techidaily.com/transform-videos-to-tweets-best-converters-revealed/"><u>Transform Videos to Tweets Best Converters Revealed</u></a></li>
-<li><a href="https://win-able.techidaily.com/update-your-logitech-g403-controller-software-on-laptopdesktop/"><u>Update Your Logitech G403 Controller Software on Laptop/Desktop</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outube-shorts-earning-strategies-crucial-elements-possible-returns/"><u>[New] Youtube Shorts Earning Strategies Crucial Elements, Possible Returns</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-industry-leaders-top-10-free-lut-resource-list/"><u>[Updated] Industry Leaders’ Top 10 FREE LUT Resource List</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-light-and-shade-mastery-in-photographic-edits/"><u>2024 Approved Light & Shade Mastery in Photographic Edits</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciphering-audio-quality-how-home-theater-systems-contrast-with-stereo-receivers/"><u>Deciphering Audio Quality: How Home Theater Systems Contrast with Stereo Receivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pc-instability-issues-in-the-complete-edition-of-horizon-forbidden-west/"><u>Fixing PC Instability Issues in the Complete Edition of Horizon Forbidden West</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/germanys-essential-top-25-sayings-guide/"><u>Germany's Essential Top 25 Sayings Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-libertys-guide-to-attaching-tracks-in-movies-for-free/"><u>In 2024, Libertys Guide to Attaching Tracks in Movies for Free</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722892837924-ksuser-dll-not-found-here-are-the-solutions/"><u>KSUser DLL Not Found? Here Are The Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macos-tweak-how-to-deactivate-mouse-acceleration-feature/"><u>MacOS Tweak: How to Deactivate Mouse Acceleration Feature</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/nine-indispensable-electronics-every-learner-requires-in-classroom/"><u>Nine Indispensable Electronics Every Learner Requires in Classroom</u></a></li>
+<li><a href="https://os-tips.techidaily.com/retrieve-lost-documents-with-icloud-data-salvage-a-guide-to-accessing-your-backed-up-files/"><u>Retrieve Lost Documents with iCloud Data Salvage - A Guide to Accessing Your Backed-Up Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reversing-mp4-data-loss/"><u>Reversing MP4 Data Loss</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-solving-the-elusive-code-41-issue/"><u>Troubleshooting and Solving the Elusive Code 41 Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-correcting-incorrect-installation-of-amds-ryzen-master-tool/"><u>Troubleshooting Guide: Correcting Incorrect Installation of AMD's Ryzen Master Tool</u></a></li>
 </ul></div>
 

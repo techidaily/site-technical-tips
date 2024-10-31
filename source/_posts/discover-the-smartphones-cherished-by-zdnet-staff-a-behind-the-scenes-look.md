@@ -1,7 +1,7 @@
 ---
 title: Discover the Smartphones Cherished by ZDNet Staff - A Behind-the-Scenes Look
-date: 2024-10-21T00:09:20.762Z
-updated: 2024-10-25T02:52:20.702Z
+date: 2024-10-29T06:27:05.118Z
+updated: 2024-10-31T03:49:07.346Z
 tags:
   - apple
 categories:
@@ -73,10 +73,10 @@ The paint has scraped off.
 Chris Matyszczyk/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Taking sides?
@@ -96,16 +96,10 @@ Strangely smooth.
 Chris Matyszczyk/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The bottom line? Not much of one
@@ -121,10 +115,10 @@ Not much of a scratch there.
 Chris Matyszczyk/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You can do it. Yes, you can.
@@ -177,21 +171,22 @@ Sometimes it's worth exposing your blemishes and letting people see you -- and y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-expert-tips-for-automated-google-meet-timings/"><u>[New] In 2024, Expert Tips for Automated Google Meet Timings</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-time-saving-techniques-capturing-your-google-voice-conversations/"><u>[New] In 2024, Time-Saving Techniques Capturing Your Google Voice Conversations</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-step-by-step-guide-to-creating-and-changing-igtv-cover-photos-for-2024/"><u>[New] Step-By-Step Guide to Creating & Changing IGTV Cover Photos for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-nvidias-updated-geforce-rtx-ebytes-for-legacy-windows-versions-10-8-and-7/"><u>Download NVIDIA's Updated GeForce RTX Ebytes for Legacy Windows Versions: 10, 8 & 7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-to-navigate-wacom-driver-updates/"><u>Easy-to-Navigate Wacom Driver Updates</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/effective-external-hard-drive-backup-strategies-wie-sie-ihre-daten-schutzen/"><u>Effective External Hard Drive Backup Strategies - Wie Sie Ihre Daten Schützen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-when-your-alexa-device-wont-respond/"><u>Effective Solutions for When Your Alexa Device Won't Respond</u></a></li>
-<li><a href="https://article-posts.techidaily.com/groundbreaking-companies-at-the-vr-content-frontier/"><u>Groundbreaking Companies at the VR Content Frontier</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-flawlessly-refresh-your-chromecast-settings/"><u>How to Flawlessly Refresh Your Chromecast Settings</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-zte-nubia-flip-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 ZTE Nubia Flip 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-techniques-resolving-cygwin1dll-not-found-system-errors/"><u>Master the Techniques: Resolving 'Cygwin1.dll' Not Found System Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-tips-for-making-an-informed-choice-on-pre-owned-laptops/"><u>Top 5 Tips for Making an Informed Choice on Pre-Owned Laptops</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upcoming-samsung-galaxy-z-fold-7-predicted-release-timeline-cost-estimates-and-rumored-features-explained/"><u>Upcoming Samsung Galaxy Z Fold 7 - Predicted Release Timeline, Cost Estimates & Rumored Features Explained</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-analyzing-auditory-excellence-the-revised-assessment-of-the-cambridge-cxu-equipment-2023-edition/"><u>Updated In 2024, Analyzing Auditory Excellence The Revised Assessment of the Cambridge CXU Equipment, 2023 Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-does-ray-tracing-mean-in-graphics-technology/"><u>What Does Ray Tracing Mean in Graphics Technology?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/winning-the-big-game-at-home-expert-advice-on-super-bowl-tv-systems-and-theaters/"><u>Winning the Big Game at Home: Expert Advice on Super Bowl TV Systems & Theaters</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-accelerated-record-functionality-and-narrator-support/"><u>[New] 2024 Approved Accelerated Record Functionality & Narrator Support</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-discover-these-popular-periscope-alternatives-on-smartphones/"><u>[New] Discover These Popular Periscope Alternatives on Smartphones</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-best-undiscovered-speech-to-text-apps-on-your-mac/"><u>2024 Approved The Best Undiscovered Speech-to-Text Apps on Your Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722899134378-all-about-the-next-android-unlocking-rumors-on-release-date-costs-and-tech-specs-for-android-16-stay-informed-now/"><u>All About the Next Android: Unlocking Rumors on Release Date, Costs and Tech Specs for Android 16 - Stay Informed Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/android-users-guide-to-non-disclosure-of-numbers-methods-and-practices-for-keeping-calls-private/"><u>Android Users' Guide to Non-Disclosure of Numbers: Methods and Practices for Keeping Calls Private</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-views-ultimate-guide-to-dominating-apple-tv-settings/"><u>Boost Your Views: Ultimate Guide to Dominating Apple TV Settings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/correcting-the-error-uncovering-solutions-for-missing-mapi32dll-files/"><u>Correcting the Error: Uncovering Solutions for Missing Mapi3^2.dll Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-non-functional-audio-in-your-pc-running-windows-7/"><u>Diagnosing and Repairing Non-Functional Audio in Your PC Running Windows 7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-troubleshooting-resetting-bios-with-the-cmos-button/"><u>Essential Troubleshooting: Resetting BIOS with the CMOS Button</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-no-spin-lock-available-error-steps-for-handling-stop-code-0x0000001d/"><u>Fixing the No Spin Lock Available Error: Steps for Handling Stop Code 0X0000001D</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-sync-your-smartphone-with-chromecast-for-ultimate-media-control/"><u>How to Sync Your Smartphone with Chromecast for Ultimate Media Control</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-compreomed-approach-for-making-tiktok-songs-your-ringtone/"><u>In 2024, A Compreomed Approach for Making TikTok Songs Your Ringtone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-precision-of-portioning-video-length-optimization-on-youtube/"><u>In 2024, The Precision of Portioning Video Length Optimization on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-steams-file-access-restrictions-quickly/"><u>Overcoming Steam's File Access Restrictions Quickly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-z-fold-4-news-price-release-date-and-specs/"><u>Samsung Z Fold 4: News, Price, Release Date, and Specs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-viewing-dragon-ball-series-sequentially/"><u>The Ultimate Guide: Viewing Dragon Ball Series Sequentially</u></a></li>
 </ul></div>
 

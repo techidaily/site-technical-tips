@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's Core Tech Vocabulary: The Impact of Silicon, Rosetta, and the M-Chip Series on Your Next PC Purchase"
-date: 2024-10-20T00:21:13.833Z
-updated: 2024-10-24T16:29:03.498Z
+date: 2024-10-25T00:41:18.745Z
+updated: 2024-10-31T00:39:06.994Z
 tags:
   - apple
 categories:
@@ -40,18 +40,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -69,18 +69,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -93,10 +93,10 @@ If you still wish to use a timer for the Check In option but change the amount o
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
@@ -113,18 +113,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -162,21 +162,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-journey-to-stickers-full-tutorial-for-turning-gifs-in-chat-apps-like-discord-and-telegram/"><u>[New] 2024 Approved Journey to Stickers Full Tutorial for Turning GIFs in Chat Apps Like Discord and Telegram</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-non-google-augmented-reality-visual-aids/"><u>[Updated] Non-Google Augmented Reality Visual Aids</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-songbird-scribes-writing-the-script-for-youtube-for-2024/"><u>[Updated] Songbird Scribes Writing the Script for YouTube for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-transforming-ideas-into-viral-video-hits-on-youtube/"><u>[Updated] Transforming Ideas Into Viral Video Hits on YouTube</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-funimate-video-maker-login-to-sign-up-guide/"><u>2024 Approved Funimate Video Maker Login to Sign up Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-se-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone SE Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bluetooth-integration-tutorial-pairing-sound-systems-to-computers-successfully/"><u>Bluetooth Integration Tutorial: Pairing Sound Systems to Computers Successfully</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/breaking-down-the-differences-between-advanced-neo-qled-and-oled-displays/"><u>Breaking Down the Differences Between Advanced Neo QLED & OLED Displays</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-lgbtq-friendly-netflix-shows-whats-hot-this-july/"><u>Discover the Ultimate List of LGBTQ-Friendly Netflix Shows - What's Hot This July!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-3-technological-advances-shaping-our-future/"><u>Essential 3 Technological Advances Shaping Our Future</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-must-watch-lgbtq-content-netflixs-latest-and-greatest-in-july-2024/"><u>Explore Must-Watch LGBTQ Content: Netflix's Latest and Greatest in July 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-power-and-capabilities-of-nvidia-rtx-gpu-technology/"><u>Exploring the Power and Capabilities of Nvidia RTX GPU Technology</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-preventing-spotify-from-freezing-on-locked-ios-devices/"><u>Solving the Issue: Preventing Spotify From Freezing on Locked iOS Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-setting-up-dual-monitors-with-a-macbook-air-for-efficient-workflows/"><u>Step-by-Step Tutorial: Setting Up Dual Monitors with a MacBook Air for Efficient Workflows</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/tech-titans-triumph-best-online-tools-to-record-your-screen/"><u>Tech Titans Triumph Best Online Tools to Record Your Screen</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-from-screens-to-stories-vertical-video-mastery-with-fcpx-for-2024/"><u>[Updated] From Screens to Stories Vertical Video Mastery with FCPX for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722892626002-dealing-with-a-silent-iphone-heres-how-to-get-your-ringtone-back/"><u>Dealing with a Silent iPhone? Here’s How to Get Your Ringtone Back!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-aether-comprehending-its-nature-and-learning-how-to-engage/"><u>Exploring Aether: Comprehending Its Nature & Learning How to Engage</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-cast-apple-tv-plus-to-chromecast/"><u>How to Cast Apple TV Plus to Chromecast</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-download-and-install-new-ios-updates/"><u>How to Download and Install New iOS Updates</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-plus-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Plus to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-poco-x6-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Poco X6 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/2023-update-youtube-audio-to-mp3-step-by-step-for-2024/"><u>Mac's 2023 Update YouTube Audio to MP3 Step-by-Step for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-when-your-iphones-lens-loses-its-sharpness/"><u>Solutions for When Your iPhone's Lens Loses Its Sharpness</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-guide-to-ken-burns-effect-with-camtasia-9/"><u>Step-by-Step Guide to Ken Burns Effect with Camtasia 9</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-using-imessages-with-an-android-phone/"><u>Step-by-Step Tutorial: Using iMessages with an Android Phone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-best-live-tv-streaming-services-with-local-channels-2024/"><u>The Best Live TV Streaming Services With Local Channels 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-smooth-gameplay-effective-techniques-for-enhancing-world-of-warcraft-fps/"><u>Unlocking Smooth Gameplay: Effective Techniques for Enhancing World of Warcraft FPS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-wizardry-of-android-artificial-intelligence/"><u>Unveiling the Wizardry of Android Artificial Intelligence</u></a></li>
 </ul></div>
 

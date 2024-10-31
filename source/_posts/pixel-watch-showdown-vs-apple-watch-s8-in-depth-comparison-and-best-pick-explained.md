@@ -1,7 +1,7 @@
 ---
 title: "Pixel Watch Showdown Vs. Apple Watch S8: In-Depth Comparison and Best Pick Explained"
-date: 2024-10-18T16:14:56.492Z
-updated: 2024-10-25T08:20:30.457Z
+date: 2024-10-25T19:32:12.491Z
+updated: 2024-10-30T20:54:15.132Z
 tags:
   - apple
 categories:
@@ -44,10 +44,10 @@ Still, the two watches do have plenty of differences. How do you decide which on
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the Apple Watch Series 9 if...
@@ -59,6 +59,13 @@ Jason Hiner/ZDNET
 Given that both watches deliver a fair number of upgrades from their [previous generations](https://www.zdnet.com/article/apple-watch-series-8-review/), you're doing well to upgrade to either one of these either from an older Apple Watch -- or if you're a brand-new wearer. But if price is a concern, look to the Series 9\. You're not "settling" by any means if you choose this watch, as the Ultra 2 carries a few features that only appeal to certain people. But at a cost difference of $400, you're going to have to _really_ need those features. Don't feel like you're going cheap by choosing the Series 9 over the Ultra 2\. 
 
 **Also: [Best smartwatches: Expert tested and reviewed](https://www.zdnet.com/article/best-smartwatch/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  2\. You want more options
 
@@ -80,22 +87,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the Apple Watch Ultra 2 if...
 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1\. You'll be using it outdoors
@@ -106,6 +106,19 @@ The Ultra 2 packs some features that are especially appealing to people who enjo
 
 This is also Apple's brightest watch ever at 3,000 nits (both the original Ultra and the new Series 9 max out at 2,000 nits), making it easier to see outdoors in bright sunlight. The Ultra 2, like the original Ultra, also has a customizable action button that the S9 lacks. You can assign a task to this button, such as starting/stopping a workout, timing with a stopwatch, turning on the flashlight, etc. The "outdoor-friendly" features are easily the single biggest selling point of the Ultra 2 compared to the Series 9\. 
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. You like a bigger watch face
 
 If you're looking for a big, bold watch, consider the Ultra 2\. The Series 9 comes in 41mm and 45mm options while the Ultra 2 looms large at 49mm. Anything around the 45 mm mark or more is considered a large men's watch by most fashion standards, so the size of the Ultra 2 is definitely eye-catching. This is the same size as the current Ultra watch.
@@ -115,13 +128,6 @@ If you're looking for a big, bold watch, consider the Ultra 2\. The Series 9 com
 While technically one of the "outdoors" features, this difference applies to most users. The Ultra 2 has a 36-hour battery life with typical use and 72 hours on low power mode compared to the Series 9's 18-hour battery life. Surpassing the 24-hour battery life mark is a rarity in the world of smartwatches, so if you _absolutely_ need a watch that claims to carry its battery into the next day, the Ultra 2 should be your choice.
 
 [Buy the Apple Watch Ultra 2 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,14 +163,24 @@ While technically one of the "outdoors" features, this difference applies to mos
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-capturing-android-sounds-without-root-access-guide/"><u>[New] Capturing Android Sounds Without Root Access [Guide]</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-rapid-removal-of-ssgnature-backdrops-explained/"><u>2024 Approved Rapid Removal of Ssgnature Backdrops Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discovering-your-hidden-gems-a-guide-to-finding-archived-reels-on-insta/"><u>Discovering Your Hidden Gems: A Guide to Finding Archived Reels on Insta</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-multitasking-firefox-picture-in-picture-explained/"><u>Mastering Multitasking Firefox Picture-in-Picture Explained</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723007114356-outriders-wont-boot-on-pc-heres-how-to-fix-it-for-a-perfect-launch/"><u>Outriders Won't Boot on PC? Here's How to Fix It for a Perfect Launch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-tricks-for-bulk-selection-of-emails-within-your-gmail-inbox/"><u>Quick Tricks for Bulk Selection of Emails Within Your Gmail Inbox</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-comprehensive-roadmap-how-to-protect-and-list-your-email-securely/"><u>The Comprehensive Roadmap: How to Protect & List Your Email Securely</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-correcting-the-haldll-file-malfunction-across-windows-platforms/"><u>Ultimate Guide: Correcting the hal.dll File Malfunction Across Windows Platforms</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-spin-the-wheel-of-viewers-how-to-stream-round-the-clock-videos-on-youtube/"><u>[New] Spin the Wheel of Viewers How to Stream Round-the-Clock Videos on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-iphone-cinematography-nine-crucial-tips-to-perfect-videos/"><u>[Updated] Professional iPhone Cinematography Nine Crucial Tips to Perfect Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ranking-the-finest-windows-11-video-grabbers/"><u>[Updated] Ranking the Finest Windows 11 Video Grabbers</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-for-winning-website-conversion/"><u>A Step-by-Step for Winning Website Conversion</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/arranging-your-harry-potter-movie-marathon-in-which-order/"><u>Arranging Your Harry Potter Movie Marathon - In Which Order?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginning-on-sonys-platform-a-complete-psn-account-creation-walkthrough/"><u>Beginning on Sony's Platform: A Complete PSN Account Creation Walkthrough</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-loved-family-movie-selections-on-amazon-prime-video-for-july-2024/"><u>Discover the Best-Loved Family Movie Selections on Amazon Prime Video for July 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-analysis-of-the-fugetek-ft-568-the-ultimate-premium-selfie-stick/"><u>Expert Analysis of the Fugetek FT-568: The Ultimate Premium Selfie Stick</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-meizu-21mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Meizu 21Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/key-features-to-consider-when-buying-a-high-performance-gaming-computer/"><u>Key Features to Consider When Buying a High-Performance Gaming Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-tecno-camon-20-premier-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Tecno Camon 20 Premier 5G.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-how-to-link-disney-plus-streaming-service-with-googles-chromecast/"><u>Step-by-Step Tutorial: How to Link Disney Plus Streaming Service with Google's Chromecast</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ins-and-outs-of-bass-management-an-in-depth-look-at-how-it-works/"><u>The Ins and Outs of Bass Management: An In-Depth Look at How It Works</u></a></li>
+<li><a href="https://win-studio.techidaily.com/transforma-tu-ssd-en-un-almacenamiento-de-windows-10-sin-necesidad-de-reinstalacion-2-formas-sencillas/"><u>Transforma Tu SSD en Un Almacenamiento De Windows 10 Sin Necesidad De Reinstalación: 2 Formas Sencillas</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-nero-software-resolving-the-advrcntr2dll-absence-issue/"><u>Troubleshooting Nero Software: Resolving the Advrcntr2.dll Absence Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-techniques-for-tackling-and-correcting-stop-code-0x0000003d-issues/"><u>Troubleshooting Techniques for Tackling and Correcting STOP Code 0X0000003D Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/update-issues-5-quick-fixes-to-restore-your-iphones-mail-functionality/"><u>Update Issues? 5 Quick Fixes to Restore Your iPhone's Mail Functionality</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
 </ul></div>
 

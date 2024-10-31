@@ -1,7 +1,7 @@
 ---
 title: "Apple Card Expansion Sparks Curiosity: New Partnership Prospects and What They Mean for Users"
-date: 2024-10-19T09:16:25.554Z
-updated: 2024-10-24T21:11:15.070Z
+date: 2024-10-25T01:10:20.456Z
+updated: 2024-10-30T18:58:47.517Z
 tags:
   - apple
 categories:
@@ -51,13 +51,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Goldman Sachs's consumer business: A lot to swallow
 
 Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 billion, encompasses several key segments:
@@ -67,6 +60,13 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **Credit card partnerships:** Including the lucrative Apple and GM partnerships, this segment is part of the $4.5 billion figure.
 * **GreenSky:** A $2.2 billion merchant lending platform, expanding Goldman's footprint in point-of-sale financing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The potential acquisition scenarios
 
 * **Complete portfolio acquisition:** This scenario would involve a financial giant like Chase or Bank of America acquiring the entire portfolio, leveraging their extensive consumer banking operations.
@@ -74,10 +74,16 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **Tokenization technology:** This is a critical aspect, especially for the Apple Card segment. With strong digital banking capabilities, potential partners like Chase or Citi may be better equipped to integrate or replicate this technology.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The potential new partners
@@ -90,10 +96,16 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **Synchrony Financial:** Per the [Wall Street Journal](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45?mod=djemalertNEWS), the financial services company has expressed interest in taking over Apple Card. Synchrony, [the largest issuer of store credit cards in the US](https://upgradedpoints.com/credit-cards/synchrony-bank-store-credit-cards/), lends to a broad category of consumers, including those with bad credit. The company vied against Goldman during the inception of the Apple credit card program but lost during the bidding process. I tend to feel that Synchrony is a wildcard compared with the giants above, as implementing the technology that Apple Card needs will be a significant challenge.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Customer expectations will remain high
@@ -103,10 +115,16 @@ The transition will have significant implications for Apple Card users. Maintain
 Still, I do not expect there to be many real concerns on the part of Apple's customers. Apple is not the sort of company to leave its customers high and dry or to burden them with a shift that would give them less functionality or alter the product's ease of use for the worse. If anything, I expect the situation to improve, such as making it easier for people to apply and get approved -- [an issue that the service has dealt with while under Goldman's stewardship.](https://www.zdnet.com/article/apple-card-issuer-investigated-over-gender-bias-in-credit-algorithm/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## It won't be easy for Apple Card's new partner
@@ -151,24 +169,22 @@ The decision to acquire parts or all of Goldman Sachs' consumer business, includ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-virtual-streets-best-video-games-mimicking-gta-v/"><u>[New] 2024 Approved Virtual Streets Best Video Games Mimicking GTA V</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-take-control-of-your-webinars-a-guide-to-zoom-screensharing/"><u>[New] In 2024, Take Control of Your Webinars A Guide to Zoom Screensharing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unlocking-the-secrets-to-overwatch-video-capture-for-2024/"><u>[Updated] Unlocking the Secrets to Overwatch Video Capture for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2-easy-ways-to-open-control-panel-in-windows-7/"><u>2 Easy Ways to Open Control Panel in Windows 7</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2-steps-to-access-the-windows-10-startup-folder/"><u>2 Steps to Access the Windows 10 Startup Folder</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-evolution-of-auto-hdr-and-its-role-in-todays-photography/"><u>2024 Approved The Evolution of Auto HDR and Its Role in Today's Photography</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/3-easy-steps-for-ps4-remote-play-on-windowsmac/"><u>3 Easy Steps for PS4 Remote Play on Windows/Mac</u></a></li>
-<li><a href="https://win-tips.techidaily.com/advantages-of-switching-from-windows-home-to-pro-comprehensive-tutorial-on-easy-transition-and-feature-boosts-techexpertguide/"><u>Advantages of Switching From Windows Home to Pro – Comprehensive Tutorial on Easy Transition and Feature Boosts | TechExpertGuide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/amd-driver-not-showing-up-in-device-manager-solved/"><u>AMD Driver Not Showing Up in Device Manager [Solved]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-the-future-of-foldables-predicted-cost-and-timeline-for-the-samsung-galaxy-z-fold-7/"><u>Inside Look at the Future of Foldables: Predicted Cost & Timeline for the Samsung Galaxy Z Fold 7</u></a></li>
-<li><a href="https://android-frp.techidaily.com/lava-blaze-2-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Lava Blaze 2 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808334403-master-the-art-of-making-gifs-from-your-images-today/"><u>Master the Art of Making GIFs From Your Images Today!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-push-notifications-with-reddit-wisdom-for-2024/"><u>Mastering the Art of Push Notifications with Reddit Wisdom for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/simplify-broadcasting-merge-obs-and-streamlabs-mac-for-2024/"><u>Simplify Broadcasting Merge OBS and Streamlabs (Mac) for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-your-pcs-secrets-a-user-friendly-way-to-check-bios-version-under-windows-11/"><u>Unlocking Your PC's Secrets: A User-Friendly Way to Check BIOS Version Under Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-gt-5-240w-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme GT 5 (240W) Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-11-blocks-desktop-programs-win32-apps-points-to-windows-store/"><u>Windows 11 Blocks Desktop Programs (Win32 Apps), Points to Windows Store</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-store-not-working-on-windows-11-fixed/"><u>Windows Store Not Working on Windows 11 [Fixed]</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/winning-the-battle-against-windows-10-high-ram-drain-tips-and-tricks/"><u>Winning the Battle Against Windows 10 High RAM Drain - Tips and Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-haptic-realities-now-for-2024/"><u>[Updated] Haptic Realities Now for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-integrating-visual-cues-a-guide-to-videography-annotations/"><u>2024 Approved Integrating Visual Cues A Guide to Videography Annotations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-minisculerecordings-snapshot-scrutiny/"><u>2024 Approved MinisculeRecordings Snapshot Scrutiny</u></a></li>
+<li><a href="https://win-able.techidaily.com/crusader-kings-iii-pc-malfunctions-solutions-and-fixes-you-can-try-today/"><u>Crusader Kings III PC Malfunctions: Solutions and Fixes You Can Try Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-efficiency-on-facebook-discover-5-quick-techniques/"><u>Elevate Your Efficiency on Facebook - Discover 5 Quick Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elite-selection-of-intelligent-glasses-dominating-the-2024-market/"><u>Elite Selection of Intelligent Glasses Dominating the 2024 Market</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-ui-personalize-the-color-of-your-windows-10-taskbar-heres-how/"><u>Enhance Your UI: Personalize the Color of Your Windows 10 Taskbar Here's How!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-your-study-routine-top-10-mobile-apps-designed-to-help-high-school-students-succeed/"><u>Enhancing Your Study Routine: Top 10 Mobile Apps Designed to Help High-School Students Succeed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-achieve-virality-with-your-tiktoks-a-top-ranked-list-of-techniques/"><u>How to Achieve Virality with Your TikToks: A Top-Ranked List of Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-adjust-finder-display-settings-for-folders-and-nested-subfolders-on-a-mac/"><u>How to Adjust Finder Display Settings for Folders and Nested Subfolders on a Mac</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-realme-c67-4g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Realme C67 4G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Poco F5 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-a23-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy A23 5G Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-lameencdll-error-in-audacity-during-mp3-encoding/"><u>Solving the lame_enc.dll Error in Audacity During MP3 Encoding</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-solving-the-humankind-app-launch-issues/"><u>Troubleshooting Guide: Solving the 'Humankind' App Launch Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-lameencdll-issues-in-audacity-for-perfect-mp3-conversion/"><u>Troubleshooting lame_enc.dll Issues in Audacity for Perfect MP3 Conversion</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/twitch-secure-access-the-ultimate-guide-to-implementing-two-factor-verification/"><u>Twitch Secure Access: The Ultimate Guide to Implementing Two-Factor Verification</u></a></li>
 </ul></div>
 

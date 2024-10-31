@@ -1,7 +1,7 @@
 ---
 title: "Swapped Out Expensive Tech: Top Affordable XR Alternatives to the Apple Vision Pro & Meta Quest 3 | Digital Innovation Insights"
-date: 2024-10-20T04:30:13.212Z
-updated: 2024-10-25T03:53:29.713Z
+date: 2024-10-28T03:23:45.089Z
+updated: 2024-10-30T19:05:54.243Z
 tags:
   - apple
 categories:
@@ -50,6 +50,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Keyboard passthrough
 
 Working in any of the virtual environments (I prefer Mount Hood) is great, but the immersive environment occludes my keyboard. The Digital Crown allows users to open the side view of the virtual space, but the center is still blocked. 
@@ -57,10 +70,10 @@ Working in any of the virtual environments (I prefer Mount Hood) is great, but t
 I'd like the ability to create a passthrough opening that allows me to see the keyboard and the mouse (and I wouldn't mind one that lets me also see my coffee cup) while in virtual space. Ideally, an AI would be smart enough to recognize my keyboard (even if it's not Apple branded), but a reasonable first step would be merely allowing users to define passthrough zones by hand in the Vision Pro. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Less draconian media restrictions
@@ -72,6 +85,13 @@ Apple Vision Pro does not allow any screenshots of entertainment media. Period. 
 That precludes using the Vision Pro's mirror-to-Apple TV feature to help a person trying on the Vision Pro for the first time, because as soon as they drop into an entertainment app, it's no longer possible to see anything they're doing. It also precludes family members from watching Apple TV+ together, one on the Vision Pro and the others on the Apple TV. 
 
 Look, I get the whole piracy thing. But limiting even a single screenshot is overkill. Apple, please fix this. It makes it much harder to help you sell your products. Shutting down the ability to mirror any Apple TV+ content from the Vision Pro to the Apple TV is baffling. I, for example, subscribe to the Apple One Premier plan, which allows us to use Family Sharing to share among up to five people. So why is Apple blocking this capability on the Vision Pro? 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. More native spatial apps
 
@@ -86,13 +106,6 @@ But I also think it might be nice to have some clocks you could actually place i
 Apple currently allows just a few fully immersive environments. While the surface of the moon and Mount Hood are nice enough, they get boring after a while. My immersive environment on the [Quest 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMeta-Quest-128GB-Breakthrough-Reality-3%2Fdp%2FB0C8VKH1ZH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb135956-8baa-4edf-a1db-c0f82f14a9f0%7Cdtp&dtb=1) is an old mining town. The Quest 3 provides many immersive environments, including inside and outside locations. 
 
 I'd love to see more immersive environments for the Vision Pro. There is a category of long-running videos on YouTube called "ambience videos." They consist of cozy animated scenes with some background music like [this serene coffee shop](https://www.youtube.com/watch?v=W5qamfXh3Q4&t=11737s). How nice would it be to set up work virtually in a coffee shop like this, chill, and be productive? I can see a great app market for well-designed third-party ambience environments. Heck, I'd pay a couple of bucks to work in a selection of charming coffee shops! 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  7\. Larger play space boundary
 
@@ -119,10 +132,10 @@ This situation was also apparent in [the Marvel What…If? immersive experience]
 Most likely, Apple will someday introduce its own controllers, if only to meet some special purpose large-scale enterprise need. But given that Meta has added support for Apple's spatial videos to the Quest 3, it seems only fair for Apple to add support for Quest controllers. I haven't found Quest 3 controllers available separately, but [since the Quest 2 is only $199](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOculus-Quest-Advanced-All-One-Virtual%2Fdp%2FB099VMT8VZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb135956-8baa-4edf-a1db-c0f82f14a9f0%7Cdtp&dtb=1), folks could buy it and get the Quest 2 controllers. Hey, at $199, it's the same price as a [spare Vision Pro battery](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMW283LL%2FA%2Fapple-vision-pro-battery&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) or [Vision Pro carrying case](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMW2F3LL%2FA%2Fapple-vision-pro-travel-case&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp).
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  9\. Better and more accurate hand and eye tracking
@@ -140,13 +153,6 @@ Even cooler would be a heads-up display version of Find My that puts an arrow in
 ##  Bonus: Better personas
 
 Wow, those things are creepy. We need to get them out of the uncanny valley. 'Nuff said. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Looking forward to VisionOS 2.0
 
@@ -186,18 +192,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-innovative-vr-headsets-transforming-drones/"><u>[New] Innovative VR Headsets Transforming Drones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-ios-perfecting-podcast-playback/"><u>[Updated] Mastering iOS Perfecting Podcast Playback</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-stunning-feats-in-figure-skating-22-moments/"><u>[Updated] Stunning Feats in Figure Skating '22 Moments</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-visual-impact-a-comprehensive-guide-to-zooms-video-filters/"><u>2024 Approved Mastering Visual Impact A Comprehensive Guide to Zoom's Video Filters</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722880430397-easy-to-follow-techniques-and-strategies-for-beginners-in-pokemon-go/"><u>Easy-to-Follow Techniques and Strategies for Beginners in 'Pokémon Go'</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/finding-ev-chargers-on-google-maps-a-comprehensive-guide/"><u>Finding EV Chargers on Google Maps: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-laptop-speaker-issues-a-comprehensive-guide/"><u>Fixing Laptop Speaker Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-fixes-for-persistent-wireless-adapter-or-ap-error-signals/"><u>Master the Fixes for Persistent Wireless Adapter or AP Error Signals</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/secure-your-network-discovering-linksyss-latest-default-passcodes-july-edition/"><u>Secure Your Network: Discovering Linksys's Latest Default Passcodes (July Edition)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/setting-up-custom-finder-preferences-for-organizing-your-folders/"><u>Setting Up Custom Finder Preferences for Organizing Your Folders</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/simplifying-the-process-of-enabling-virtual-screen-on-meet/"><u>Simplifying the Process of Enabling Virtual Screen on Meet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-enabling-phone-radio-feature-on-iphoneandroid/"><u>Step-by-Step Instructions for Enabling Phone Radio Feature on iPhone/Android</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-your-defenses-choose-just-one-antivirus-on-windows/"><u>Streamline Your Defenses: Choose Just One Antivirus on Windows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-roadmap-to-thriving-in-twitter-live-broadcasts/"><u>[New] 2024 Approved The Roadmap to Thriving in Twitter Live Broadcasts</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-top-tiktok-gourmet-channels/"><u>[New] Top TikTok Gourmet Channels</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-perfecting-picture-in-picture-setup-with-youtube-on-ios/"><u>[Updated] 2024 Approved Perfecting Picture-in-Picture Setup with YouTube on iOS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/become-a-communication-connoisseur-with-google-meet-for-2024/"><u>Become a Communication Connoisseur with Google Meet for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/convert-tweets-into-audible-format-with-ease/"><u>Convert Tweets Into Audible Format with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-getting-your-email-list-onto-whoissafe/"><u>Effective Strategies for Getting Your Email List Onto WhoisSafe</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-tips-on-basic-color-correction-in-photos/"><u>Expert Tips on Basic Color Correction in Photos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-restore-cellular-function-on-an-unresponsive-apple-watch-device/"><u>How To Restore Cellular Function On An Unresponsive Apple Watch Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-apple-iphone-se-2020-for-free-by-drfone-ios/"><u>How To Unlock Cricket Apple iPhone SE (2020) for Free</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/making-sense-of-mesh-wi-fi-systems/"><u>Making Sense of Mesh Wi-Fi Systems</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/revamped-microsoft-surface-studio-2-unleashed-the-ultimate-desktop-experience-for-creatives-awaits-insights-from-zdnet/"><u>Revamped Microsoft Surface Studio 2 Unleashed: The Ultimate Desktop Experience for Creatives Awaits - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-d3dx933dll-file-missing-issue-a-comprehensive-guide/"><u>Solving the d3dx9_33.dll File Missing Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-perfect-clean-a-how-to-manual-for-refreshing-your-lcd-tv-screen/"><u>The Perfect Clean: A How-To Manual for Refreshing Your LCD TV Screen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/to-upgrade-or-not-to-upgrade-the-true-costs-and-benefits-of-minecraft-realms/"><u>To Upgrade or Not to Upgrade: The True Costs and Benefits of Minecraft Realms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-smartwatch-applications-for-your-android-device/"><u>Top Rated Smartwatch Applications for Your Android Device</u></a></li>
+<li><a href="https://discover-able.techidaily.com/transferieren-sie-ihre-iphone-daten-mithilfe-von-drei-techniken-unter-verwendung-einer-alternativen-apples-id/"><u>Transferieren Sie Ihre iPhone-Daten Mithilfe Von Drei Techniken Unter Verwendung Einer Alternativen Apples ID</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transportation-showdown-can-you-save-money-with-uber-compared-to-a-traditional-taxi-service/"><u>Transportation Showdown: Can You Save Money with Uber Compared to a Traditional Taxi Service?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/universal-access-how-to-enable-icloud-photo-sharing-across-apple-windows-and-android/"><u>Universal Access: How to Enable iCloud Photo Sharing Across Apple, Windows & Android</u></a></li>
 </ul></div>
 

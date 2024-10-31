@@ -1,7 +1,7 @@
 ---
 title: Massive Discount on Apple's New M2 MacBook Air Now at Only $799 - Beat the Wait for October Prime Deals! | Tech News Today
-date: 2024-10-20T00:58:44.606Z
-updated: 2024-10-25T06:25:07.669Z
+date: 2024-10-26T17:49:21.835Z
+updated: 2024-10-30T23:04:32.404Z
 tags:
   - apple
 categories:
@@ -85,18 +85,18 @@ If you're in the market for a powerful, portable laptop, you can save $200 on a 
 * [Apple AirPods (3rd Generation) for $120 (save $49)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Generation-Bluetooth-Headphones-Personalized%2Fdp%2FB0D1WXVQTN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C72e4e9af-01ae-48a1-8c3d-9c1287d4988a%7Cdtp&dtb=1): You can save $49 on a pair of third-generation Apple AirPods.
 * [Apple AirPods Max for $395 (save $154)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNew-Apple-AirPods-Max-Blue%2Fdp%2FB08PZJN7BD%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C72e4e9af-01ae-48a1-8c3d-9c1287d4988a%7Cdtp&dtb=1): Don't miss this rare deal for Apple's excellent over-ear headphones.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day MacBook deals still available
 
 * [Apple 2023 MacBook Pro for $1,399 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JLWJK%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C72e4e9af-01ae-48a1-8c3d-9c1287d4988a%7Cdtp&dtb=1): If you're in the market for a powerful, portable laptop, you can save $200 on a 2023 MacBook Pro equipped with an M3 chip, 8GB of RAM, and 512GB of storage. (This is also our pick for [the best laptop you can buy](https://www.zdnet.com/article/best-laptop/).)
 * [Apple MacBook Air for $799 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C72e4e9af-01ae-48a1-8c3d-9c1287d4988a%7Cdtp&dtb=1): If you need a budget-friendly laptop suitable for work and travel, you can save on a 2022 model with an M2 chip, 8GB of RAM, and 256GB of storage.
 * [Apple 2023 MacBook Pro for $2,050 (save $650)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-12%E2%80%91core-19%E2%80%91core%2Fdp%2FB0BSHDPX7Z%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C72e4e9af-01ae-48a1-8c3d-9c1287d4988a%7Cdtp&dtb=1): If you need a premium laptop that will last you for years, consider this $650 discount on a MacBook Pro with top specs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Prime Day AirTags deals still available
 
@@ -119,6 +119,13 @@ If you're in the market for a powerful, portable laptop, you can save $200 on a 
 * [Apple Watch Series 8, GPS, 41mm for $336 (save $63)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Watch-Midnight-Aluminum-Always%2Fdp%2FB0BDJBG74R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C72e4e9af-01ae-48a1-8c3d-9c1287d4988a%7Cdtp&dtb=1): If you're happy with a model that is GPS only, you can save $63 on an Apple Watch Series 8 with a Midnight sports band.
 * [Apple Watch Series 8, GPS + Cellular, 45mm for $579 (save $170)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Silver-Stainless-Always%2Fdp%2FB0BDJ3FXJV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C72e4e9af-01ae-48a1-8c3d-9c1287d4988a%7Cdtp&dtb=1): Alternatively, you can save $170 on an Apple Watch Series 8 with both GPS and cellular connectivity.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## More Prime Day Apple deals still available
 
 Adam Breeden/ZDNET
@@ -129,32 +136,11 @@ Adam Breeden/ZDNET
 * [Apple Magic Mouse for $88 (save $11)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Magic-Mouse-Wireless-Rechargable%2Fdp%2FB09V4LZS9S%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C72e4e9af-01ae-48a1-8c3d-9c1287d4988a%7Cdtp&dtb=1): To go with your new trackpad, Apple's branded mouse, a sleek, modern device, is available for a small discount.
 * [Apple TV 4K for $145 (save $5 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1731227-REG%2Fapple%5Fmn893ll%5Fa%5Fapple%5Ftv%5F4k%5F3rd.html): We haven't seen many Apple TV deals during Prime Day, but if you're in the market, you can find a small discount here.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day 2024 [officially ran](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know/) from July 16 at 12:01 a.m. PDT through July 17\. Competitors -- such as [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2F&subId1=zd-__COM_CLICK_ID__-dtp) and [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) \-- also ran their own version of the summer sale.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Are Apple products really cheaper on Prime Day?
 
@@ -164,11 +150,25 @@ Apple rarely offers sales and discounts on its products, and considering the gen
 
 Yes. Even after Prime Day, there are many iPad deals still live. These tablets are popular and considering how many options are now on the market -- including iPad minis, the standard iPad, and iPad Pro models -- we can reliably expect discounts to appear each year.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How did we choose these Prime Day deals?
 
 ZDNET only recommends the devices we can stand behind, so when we say you're getting a good deal, we want to ensure your hard-earned money goes towards excellent value. To choose the top deals, we comb through the best sales available and make thorough price comparisons with historical data, combined with our personal experience with these products, to determine which ones are worth buying.
 
 Our hope is to help you make the best choice to stretch your dollar.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals?
 
@@ -234,24 +234,16 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-exploring-10-innovative-affordable-video-call-apps-iosandroid/"><u>[New] 2024 Approved Exploring 10 Innovative, Affordable Video Call Apps - iOS/Android</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-overcoming-low-resolution-output-in-obs/"><u>[Updated] 2024 Approved Overcoming Low-Resolution Output in OBS</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-your-pathway-to-successful-youtube-beginnings-techniques-1-and-2/"><u>[Updated] In 2024, Your Pathway to Successful YouTube Beginnings (Techniques 1 & 2)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-frontier-of-gesture-based-technology-advancements-for-2024/"><u>[Updated] The Frontier of Gesture-Based Technology Advancements for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/crucial-factors-you-shouldnt-ignore-when-purchasing-a-smart-television/"><u>Crucial Factors You Shouldn't Ignore When Purchasing a Smart Television</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-the-principles-of-network-equality-and-internet-fairness/"><u>Decoding the Principles of Network Equality and Internet Fairness</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/detecting-if-a-person-has-seen-your-sms-a-comprehensive-guide/"><u>Detecting if a Person Has Seen Your SMS: A Comprehensive Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/expert-schematic-designing-stopwatches-for-streaming-software-for-2024/"><u>Expert Schematic Designing Stopwatches for Streaming Software for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-problem-troubleshooting-inability-to-write-to-0x-targeted-memory-space/"><u>Fixed Problem: Troubleshooting Inability to Write to 0X Targeted Memory Space</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-fixing-persistent-shutdown-errors-in-windows-11-systems/"><u>Guide to Fixing Persistent Shutdown Errors in Windows 11 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-edit-and-personalize-images-with-apples-photo-cutout-feature-on-iphones-ios-16-update/"><u>How to Edit and Personalize Images with Apple’s Photo Cutout Feature on iPhone's iOS 16 Update</u></a></li>
-<li><a href="https://program-issues.techidaily.com/microsoft-flight-simulator-2020-unlocking-your-game-from-the-stuck-update-loop-with-ease/"><u>Microsoft Flight Simulator 2020: Unlocking Your Game From the Stuck Update Loop with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-wininetdll-missing-error-essential-steps-and-solutions/"><u>Solving the wininet.dll Missing Error: Essential Steps & Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-fixing-error-msodll-is-missing-on-your-pc/"><u>Step-by-Step Guide: Fixing Error Mso.dll Is Missing on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-tutorial-for-connecting-laptops-to-televisions-with-hdmi-cable/"><u>The Complete Tutorial for Connecting Laptops to Televisions with HDMI Cable</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-fix-for-wpcpdll-not-found-errors-effective-solutions-inside/"><u>The Ultimate Fix for 'WPCP.DLL Not Found' Errors: Effective Solutions Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixes-for-wwe-2k-battlegrounds-with-feature-level-100-error-on-dx11/"><u>Troubleshooting Fixes for WWE 2K Battlegrounds with Feature Level 10.0 Error on DX11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tutorial-adjusting-languages-and-regions-on-ios-devices/"><u>Tutorial: Adjusting Languages and Regions on iOS Devices</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-features-of-mobvoi-ticwatch-pro-4g-your-go-to-connectivity-companion/"><u>Unveiling the Features of Mobvoi Ticwatch Pro 4G: Your Go-To Connectivity Companion</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streamlined-methods-for-iphone-screen-recordings-for-2024/"><u>[New] Streamlined Methods for iPhone Screen Recordings for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-top-ranked-audio-respeeders-mobile-desktop/"><u>[Updated] 2024 Approved Top-Ranked Audio Respeeders (Mobile, Desktop)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easily-connect-and-use-your-printer-across-various-gadgets-a-comprehensive-tutorial/"><u>Easily Connect and Use Your Printer Across Various Gadgets – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-ways-to-connect-and-share-a-printer-among-various-electronics/"><u>Easy Ways to Connect and Share a Printer Among Various Electronics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hand-tracked-futures-visionary-technologies/"><u>Hand-Tracked Futures Visionary Technologies</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/insignia-usb-to-ethernet-converter-free-download-of-latest-drivers/"><u>Insignia USB to Ethernet Converter - Free Download of Latest Drivers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/introducing-huggingchat-the-economical-and-interactive-solution-for-those-seeking-a-chat-gpt-substitute/"><u>Introducing HuggingChat: The Economical and Interactive Solution for Those Seeking a Chat GPT Substitute</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-detective-skills-for-steam-vr-detection-6-proven-remedies/"><u>Master the Detective Skills for Steam VR Detection: 6 Proven Remedies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/precision-editing-harnessing-photoshops-eraser/"><u>Precision Editing Harnessing Photoshop’s Eraser</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quickfixes-101-repair-your-system-drive-using-the-chkdsk-command/"><u>QuickFixes 101: Repair Your System Drive Using the Chkdsk Command</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reattaching-lost-keycaps-a-comprehensive-walkthrough-for-laptops/"><u>Reattaching Lost Keycaps: A Comprehensive Walkthrough for Laptops</u></a></li>
 </ul></div>
 

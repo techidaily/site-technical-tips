@@ -1,7 +1,7 @@
 ---
 title: Sharing Your Printer Across Different Gadgets - A Complete Tutorial
-date: 2024-10-19T06:12:09.809Z
-updated: 2024-10-25T09:12:42.396Z
+date: 2024-10-29T20:40:22.780Z
+updated: 2024-10-31T04:42:48.372Z
 categories:
   - BestProducts
 description: This Article Describes Sharing Your Printer Across Different Gadgets - A Complete Tutorial
@@ -35,14 +35,28 @@ These instructions apply to PCs running Windows 10 and up.
 3. Click the**Symbols** category in the bottom right corner (the heart icon).  
 ![Selecting heart emoji on Windows 10.](https://www.lifewire.com/thmb/CMP4tPIZk0BE6YGFylNX7stmONg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-make-a-heart-on-a-keyboard-8e8ecaec35874828964402365c012483.jpg)
 4. Click the**Heart Symbol** you’d like to type and it will appear in the text box.  
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Type a Heart on a Mac Keyboard
@@ -59,32 +73,20 @@ These instructions apply to PCs running Windows 10 and up.
 4. Click the heart you'd like to type and it will appear in the text box.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Alt Code for a Heart?
@@ -96,10 +98,10 @@ These instructions apply to PCs running Windows 10 and up.
  It’s much easier to use**Cmd+Ctrl+Space** and bring up the emoji keyboard, as Unicode is a complicated, somewhat limited method.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do You Make a Heart Without a Number Pad?
@@ -118,13 +120,6 @@ These instructions apply to PCs running Windows 10 and up.
  Alternatives include downloading a Numpad emulator or using an external keyboard with a Numpad built-in.
 
  If you don't know the alt code for a particular symbol or can't find an emoji in the emoji keyboard, you can search for it using Google or another search engine and copy/paste it.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Do You Get the White Heart Emoji on Your Keyboard?
 
@@ -170,18 +165,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-visionary-writing-spanning-eight-cinematic-divisions/"><u>[Updated] In 2024, Visionary Writing Spanning Eight Cinematic Divisions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-advanced-gameplay-with-kinemaster-on-android/"><u>2024 Approved Exploring Advanced Gameplay with KineMaster on Android</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-dts-virtualx-a-comprehensive-guide/"><u>Decoding DTS Virtual:X - A Comprehensive Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oneplus-nord-n30-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For OnePlus Nord N30 5G</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-for-the-curious-young-and-novice-pilot-the-10-best-drones/"><u>In 2024, For the Curious Young and Novice Pilot - The 10 Best Drones</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Xiaomi 14? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-it-possible-to-stream-netflix-on-nintendo-switch-gaming-console/"><u>Is It Possible to Stream Netflix on Nintendo Switch Gaming Console?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722877354296-labor-induction-may-be-necessary-due-to-maternal-or-fetal-health-concerns-using-medications-or-mechanical-methods/"><u>Labor Induction May Be Necessary Due to Maternal or Fetal Health Concerns, Using Medications or Mechanical Methods</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-livestran-interactions-with-these-ten-backtrack-techniques-for-2024/"><u>Mastering Livestran Interactions with These Ten Backtrack Techniques for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-the-spin-lock-unavailable-hurdle-in-windows-systems/"><u>Overcoming the Spin Lock Unavailable Hurdle in Windows Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/premier-cinematic-choices-for-children-on-netflix/"><u>Premier Cinematic Choices for Children on Netflix</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-insiders-handbook-to-windows-11-video-mastery/"><u>The Insider's Handbook to Windows 11 Video Mastery</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-are-we-moving-towards-electric-vehicles-today/"><u>Why Are We Moving Towards Electric Vehicles Today?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-tune-up-your-social-media-videos-for-maximum-impact/"><u>[New] 2024 Approved Tune Up Your Social Media Videos for Maximum Impact</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instasnap-optimize-images-and-videos-on-ig-for-2024/"><u>[Updated] InstaSnap Optimize Images & Videos on IG for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-streaming-and-saving-games-on-xbox-one/"><u>2024 Approved Streaming and Saving Games on Xbox One</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-d-link-default-creds-compilation-july-2024-update/"><u>Comprehensive D-Link Default Creds Compilation: July 2024 Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gmail-hacks-revealed-the-comprehensive-guide-to-establishing-an-email-aka/"><u>Gmail Hacks Revealed: The Comprehensive Guide to Establishing an Email AKA</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-bridging-soundscapes-and-visuals-essentials-for-innovative-asmr-videos/"><u>In 2024, Bridging Soundscapes & Visuals – Essentials for Innovative ASMR Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reconnecting-guide-restoring-internet-access-on-your-vizio-television/"><u>Reconnecting Guide: Restoring Internet Access on Your Vizio Television</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rectifying-the-absent-python-dll-a-step-by-step-solution-for-python-24dll-not-found/"><u>Rectifying the Absent Python DLL – A Step-by-Step Solution for Python 24.dll Not Found</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-expanding-your-instagram-followers-effectively/"><u>The Ultimate Guide to Expanding Your Instagram Followers Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-minecraft-loading-on-your-windows-machine-heres-the-solution-fixed/"><u>Trouble with Minecraft Loading on Your Windows Machine? Here's the Solution! [FIXED]</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/troubleshooting-the-asus-chromebooks-dilemma-overcoming-white-display-hiccups-and-unresponsive-power-startup/"><u>Troubleshooting the ASUS Chromebook's Dilemma - Overcoming White Display Hiccups and Unresponsive Power Startup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-future-what-to-expect-from-the-upcoming-m4-mac-mini-price-estimates-and-release-dates-awaiting-confirmation/"><u>Unveiling the Future: What to Expect From the Upcoming M4 Mac Mini - Price Estimates and Release Dates Awaiting Confirmation</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Insider's Handbook on Becoming a Pro at Pokémon Unite
-date: 2024-10-24T06:48:27.628Z
-updated: 2024-10-24T16:16:44.950Z
+date: 2024-10-29T01:36:22.631Z
+updated: 2024-10-30T22:04:11.843Z
 categories:
   - BestProducts
 description: This Article Describes The Insider's Handbook on Becoming a Pro at Pokémon Unite
@@ -26,13 +26,6 @@ Close
 
  This beginner’s guide to_Pokémon Unite_ covers everything you need to know about this multiplayer online battle arena (MOBA) game, how it differs from other_Pokémon_ titles, and what you’re actually supposed to be doing in each match. Information in this article applies to both Nintendo Switch and mobile versions.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  'Pokémon' Unite Gameplay Basics
 
  While inspired by the main_Pokémon_ video game series,_Pokémon Unite_ features an entirely different play style and even ignores some basic lore, which can make the experience rather intimidating and confusing for both new and long-time fans.
@@ -54,16 +47,17 @@ Close
 ![Two Pokemon fighting in Pokemon Unite.](https://www.lifewire.com/thmb/I2dAcqITvN0vCULSYfa_lO7PcY0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-pokemon-united-12-b35ba263963f40febbe5e750a6c8ab3e.jpg)
 5. Ignore elemental type strengths and weaknesses from previous_Pokémon_ games. A Fire-type Pokémon may have been strong against a Grass-type in other games, but in_Pokémon Unite_ , it’s all about level, class type, and little else. Therefore, a strong Fire Pokémon can take down your Water Pokémon with just a few hits, so be careful.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Ignore traditional element types and choose your Pokémon based on the attack and defense styles that suit your play style.  
 ![Venusaur Pokemon Unite License card in Pokemon Unite.](https://www.lifewire.com/thmb/mhoYL-4e9G0IH9ejDEMckSV5oKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-pokemon-united-13-3b26eff1148942a4add91575ca3664b6.jpg)
 6. Running low on health? Run back to one of the goals on your side of the board to heal.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your opponents can also heal on their goals as well, so it’s best not to attack them if they’re standing on one because they'll heal as soon as you damage them. They aren't invincible, but they’ll definitely be at an advantage.  
 ![Jigglypuff healing in a goal in Pokemon Unite.](https://www.lifewire.com/thmb/RPZ866uDuAQ-GmYR7yGAwNjJGvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-pokemon-united-11-6a571c9a6d694105aa68ebefbf6dffa0.jpg)
 7. Certain wild Pokémon grant abilities and can win the match. It can be tempting to target your opponents once you’re strong enough but don’t ignore wild Pokémon, especially the larger ones, which can give you boosts, shields, and buffs.  
@@ -72,10 +66,10 @@ Close
 8. Defeating Zapdos could win the match. During the final two minutes of the match, the legendary electric bird, Zapdos, will appear at the center of the map. Whoever performs the final hit on Zapdos before its defeat earns 30 Aeos, while everyone on their team receives 20 Aeos each.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  These points could win your team the match even if you were falling way behind. It’s kind of like catching the Golden Snitch in Quidditch in the[ Harry Potter movies](https://www.lifewire.com/watch-harry-potter-movies-in-order-5084792) .  
@@ -83,15 +77,15 @@ Close
 ![Wigglytuff and Zapdos in Pokemon Unite.](https://www.lifewire.com/thmb/vVO6pf-Ao83RsiMhuX2HZlexfus=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-pokemon-united-10-959df5b560804bb4a351b1389a95da62.jpg)
 9. Check the Battle Prep menu in the lobby before the match starts. This screen will show you which path on the map is recommended for your Pokémon and will also let you customize your default attacks.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can explore any part of the map during the match, but selecting a section will let the rest of your team know what area you’re planning to cover.  
 ![Battle Prep menu in Pokemon United.](https://www.lifewire.com/thmb/weYBl3yCRDzYskhdsD3TVPp29pY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-pokemon-united-09-1ab93cd45c3d4ff198edcd65c40141a1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Get Coins in 'Pokémon Unite'
 
@@ -101,13 +95,6 @@ Close
 
  You can only earn 2,100 coins per week. If you’ve stopped getting coins as rewards, this is likely why. The coin limit resets every Monday at midnight UTC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Change Names in 'Pokémon Unite'
 
  To change your trainer name in_Pokémon Unite_ , you need to purchase an item called the**Rename Card** from the**Aeos Emporium** section of the in-game store. The**Rename Card** costs 100 gems (about $2).
@@ -115,10 +102,23 @@ Close
 ![Rename Card item in Pokemon United.](https://www.lifewire.com/thmb/VQoisgcLgA-wxN8KxhCsIs1b5Dk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-pokemon-united-01-6f3b35e8581847328a727f19cbf24513.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Block a Goal in 'Pokémon Unite'
@@ -126,6 +126,13 @@ Close
  The best way to block a goal is to attack your opponent while they’re depositing all of their Aeos energy. A powerful attack can knock them off of the goal, but usually, just the attack itself will motivate your opponent to move out of the way to safety.
 
 ![A springboard in Pokemon United with Leafeon.](https://www.lifewire.com/thmb/dIVTs0b5qcfRZcxYNVkc976co10=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-pokemon-united-03-d1a1de6d05be483393c43d743dbdbb0a.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another way to stop a player from depositing Aeos is to use a springboard to jump on top of them. Springboards look like gray metallic squares. Stand on one to activate it.  
 
@@ -164,24 +171,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/avigating-the-complexities-of-youtubes-seo-landscape/"><u>[New] Navigating the Complexities of YouTube's SEO Landscape</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-cutting-edge-tools-for-unique-youtube-channel-names/"><u>[Updated] Cutting-Edge Tools for Unique YouTube Channel Names</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-zero-to-hero-making-your-instagram-videos-go-wild/"><u>[Updated] From Zero to Hero Making Your Instagram Videos Go Wild</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-lore-lovers-lab-bestest-bunch/"><u>[Updated] Lore Lovers Lab – Bestest Bunch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/addressing-dll-dilemmas-how-to-correctly-deal-with-x3daudio-file-loss/"><u>Addressing DLL Dilemmas: How to Correctly Deal with X3DAudio File Loss</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-in-conversation-simulation/"><u>Artificial Intelligence in Conversation Simulation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/crossing-platform-barriers-execute-android-apps-using-windows-11-features/"><u>Crossing Platform Barriers: Execute Android Apps Using Windows 11 Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/delving-deep-into-every-facet-of-netflix-online-entertainment-service/"><u>Delving Deep Into Every Facet of Netflix Online Entertainment Service</u></a></li>
-<li><a href="https://techtrends.techidaily.com/empowering-sites-with-the-efficiency-of-cookiebot-technology/"><u>Empowering Sites with the Efficiency of Cookiebot Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-eliminating-ghostly-afterimages-from-any-screen-type/"><u>Expert Advice: Eliminating Ghostly Afterimages From Any Screen Type</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-strategies-for-overcoming-the-black-screen-challenge-in-windows-11-systems/"><u>Expert Strategies for Overcoming the Black Screen Challenge in Windows 11 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-control-and-adjust-network-discovery-options-in-the-latest-version-of-windows/"><u>Guide to Control and Adjust Network Discovery Options in the Latest Version of Windows</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-best-non-gaming-video-capture-and-screen-save-software/"><u>In 2024, Best Non-Gaming Video Capture and Screen Save Software</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-google-pixel-8-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Google Pixel 8 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-vivo-v30-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Vivo V30 has been deleted.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-puzzle-a-step-by-step-guide-to-overcoming-netflix-error-nw-1-19/"><u>Solving the Puzzle: A Step-by-Step Guide to Overcoming Netflix Error NW-1-19</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-securing-your-icloud-email-with-a-dual-authentication-process/"><u>Step-by-Step Tutorial: Securing Your iCloud Email with a Dual Authentication Process</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/update-your-pc-with-newest-rtx-2080-super-graphics-card-drivers-on-windows-11-free-download/"><u>Update Your PC with Newest RTX #2080 Super Graphics Card Drivers on Windows 11 - Free Download</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-creme-de-la-creme-of-4k-unforgettable-video-clips/"><u>Updated The Crème De La Crème of 4K Unforgettable Video Clips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sky-drones-their-genres/"><u>[New] Sky Drones Their Genres</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-smoothrec-video-log-analysis/"><u>[New] SmoothRec Video Log Analysis</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-tiktok-effect-overhaul-the-two-pronged-approach-for-2024/"><u>[New] TikTok Effect Overhaul The Two-Pronged Approach for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boost-your-blogging-bravery-following-youtuber-leaders/"><u>[Updated] 2024 Approved Boost Your Blogging Bravery Following YouTuber Leaders</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-secrets-to-a-never-ending-snapstreak-inside-knowledge/"><u>[Updated] Secrets to a Never-Ending Snapstreak Inside Knowledge</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-list-low-cost-high-definition-cameras/"><u>[Updated] Ultimate List Low-Cost, High Definition Cameras</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-magnetizing-meme-manufacturer/"><u>2024 Approved Magnetizing Meme Manufacturer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginners-guide-top-10-swift-strategies-for-mastering-new-x/"><u>Beginner's Guide: Top 10 Swift Strategies for Mastering New X</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-apples-innovative-robot-for-your-living-room-price-guess-specs-sneak-peek-and-expected-arrival-date-all-rumors-explained/"><u>Decoding Apple's Innovative Robot for Your Living Room: Price Guess, Specs Sneak-Peek & Expected Arrival Date – All Rumors Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722885812087-dont-miss-out-samsung-unpacked-2025-upcoming-innovations-and-rumors-revealed-soon/"><u>Don't Miss Out: Samsung Unpacked 2025 - Upcoming Innovations and Rumors Revealed Soon</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-quickly-fix-the-missing-library-issue-in-windows/"><u>How to Quickly Fix the Missing Library Issue in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722900874791-lost-track-of-your-email-heres-how-you-can-find-it/"><u>Lost Track of Your Email? Here's How You Can Find It!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-dont-lose-your-work-how-to-properly-save-a-final-cut-pro-project-for-2024/"><u>New Dont Lose Your Work! How to Properly Save a Final Cut Pro Project for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-journey-through-macos-versions-whats-the-most-recent-update-complete-guide-available-here/"><u>The Journey Through macOS Versions: What's the Most Recent Update? Complete Guide Available Here!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-techniques-for-unopenable-ms-word-files/"><u>Troubleshooting Techniques for Unopenable MS Word Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/voice-message-basics-for-iphones-a-beginners-how-to-guide/"><u>Voice Message Basics for iPhones: A Beginner's How-To Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Upgrading Worth Considering: IPad Air 4 Vs. IPad Air N°5 - A Comprehensive Guide for Users (ZDNet)"
-date: 2024-10-18T21:28:16.989Z
-updated: 2024-10-24T18:23:00.342Z
+date: 2024-10-25T21:57:26.870Z
+updated: 2024-10-30T23:30:34.209Z
 tags:
   - apple
 categories:
@@ -37,6 +37,13 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 **Also: [The best iPad Air cases](https://www.zdnet.com/article/best-ipad-air-case/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | | iPad Air 4 (2020)        | iPad Air 5 (2022)                              |                                                |
@@ -64,6 +71,13 @@ The saying you can't teach an old dog new tricks doesn't really apply to the iPa
 
 That's a significant step up, considering both iPads start on equal footing with 8GB of RAM. While the iPad Air 5 didn't get Apple's newer [M2 chip](https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/), the M1 is still a powerhouse for graphics-intensive apps, such as video editors, 3D racing games, augmented reality, and general multitasking.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. You want a better front camera and FaceTime experience
 
 Camera performance isn't typically the key selling point for tablets, let alone iPads. But with the iPad Air 5, Apple does emphasize its new and improved front-facing camera.
@@ -80,22 +94,22 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 
 [Apple iPad Air (2022) $499.97 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DD2F93LD%2Fref%3Dasc%5Fdf%5FB0DD2F93LD1726743600000%3Fcreative%3D395261%26creativeASIN%3DB0DD2F93LD%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## You should buy the iPad Air 4 (2020) if...
 
 Image: Apple
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Price comes before anything else
 
@@ -104,31 +118,17 @@ With the release of the new iPad Air, most third-party retailers have since mark
 [Apple iPad Air (2020) $421.79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08J66ZMY7%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should I get the iPad Air 4 (2020) or the iPad Air 5 (2022)?
 
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
 
@@ -176,22 +176,19 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-fishing-footage-kings-select-the-best-camers/"><u>[Updated] Fishing Footage Kings Select the Best Camers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/a-pilots-best-friend-critical-uav-addons-and-replacements-for-2024/"><u>A Pilot's Best Friend Critical UAV Addons and Replacements for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/achieve-optimal-gameplay-expert-techniques-to-increase-frame-rates-and-counter-low-fps-issues-in-valorant/"><u>Achieve Optimal Gameplay: Expert Techniques to Increase Frame Rates & Counter Low FPS Issues in Valorant</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-about-the-newest-iphone-17-estimated-costs-launch-date-sneak-peek-featured-specs-and-current-market-whispers/"><u>All About the Newest iPhone 17: Estimated Costs, Launch Date Sneak Peek, Featured Specs & Current Market Whispers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/anticipating-the-google-pixel-timepiece-prospective-pricing-debut-dates-specs-revealed-in-leaks/"><u>Anticipating the Google Pixel Timepiece - Prospective Pricing, Debut Dates, Specs Revealed in Leaks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-guide-unlocking-mac-compatible-rar-archive-solutions/"><u>Easy Guide: Unlocking Mac-Compatible RAR Archive Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-tutorial-on-transferring-printer-scans-to-your-desktop-system/"><u>Easy Tutorial on Transferring Printer Scans to Your Desktop System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-accessible-entertainment-on-crackle-see-movies-and-shows-at-zero-cost/"><u>Get Accessible Entertainment on Crackle – See Movies & Shows at Zero Cost!</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-oppo-a2-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Oppo A2</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-fix-for-x3daudiodll-not-found-a-users-handbook/"><u>Mastering the Fix for 'X3DAudio.dll Not Found': A User’s Handbook</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/izing-mobile-profits-enabling-youtubers-revenue/"><u>Maximizing Mobile Profits Enabling YouTubers' Revenue</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-14-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 14</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/premier-athletic-dramas-a-selection-of-the-best-movies-about-sports-available-right-now/"><u>Premier Athletic Dramas: A Selection of the Best Movies About Sports Available Right Now</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/smile-inducing-shots-on-iphones-for-2024/"><u>Smile-Inducing Shots on IPhones for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-latest-innovation-googles-advanced-palm-2-large-language-ai/"><u>Understanding the Latest Innovation: Google's Advanced PaLM 2 Large Language AI</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-of-lg-channel-strategies-expert-tips-and-tricks/"><u>Unlocking the Secrets of LG Channel Strategies – Expert Tips and Tricks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-effortlessly-share-window-movie-creations-with-vimeo-for-2024/"><u>[New] Effortlessly Share Window Movie Creations with Vimeo for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-ultimate-checklist-to-successful-video-marketing-with-tags/"><u>[Updated] 2024 Approved The Ultimate Checklist to Successful Video Marketing with Tags</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-audiovisual-standards-for-success-on-youtube-top-format-choices/"><u>2024 Approved Audiovisual Standards for Success on YouTube – Top Format Choices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-navigating-the-world-of-video-editing-for-youtube-creators/"><u>2024 Approved Navigating the World of Video Editing for YouTube Creators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-mix-picture-taking-plus-sounds-recorder-titles/"><u>2024 Approved Premium Mix Picture Taking + Sounds Recorder Titles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dvdmkv/"><u>如何一分鐘內，簡單地改變DVD格式成MKV：最新轉檔指南。</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-walkthrough-for-creating-effective-slack-alarms/"><u>A Step-by-Step Walkthrough for Creating Effective Slack Alarms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-steps-to-delete-microsofts-ai-assistant-from-your-pc-the-cortana-and-copilot-method/"><u>Comprehensive Steps to Delete Microsoft's AI Assistant From Your PC: The Cortana and Copilot Method</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-tutorial-on-connecting-printers-for-shared-usage-amongst-various-devices/"><u>Easy Tutorial on Connecting Printers for Shared Usage Amongst Various Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/exclusive-examination-of-ugreen-revodok-max-213-thunderbolt-4-hub-a-singular-masterpiece-in-connectivity/"><u>Exclusive Examination of Ugreen Revodok Max 213 Thunderbolt 4 Hub: A Singular Masterpiece in Connectivity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-and-tricks-refreshing-your-audio-experience-by-properly-cleansing-home-stereo-speakers/"><u>Expert Tips & Tricks - Refreshing Your Audio Experience by Properly Cleansing Home Stereo Speakers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-5-omnidirectional-recording-gadgets/"><u>Top 5 Omnidirectional Recording Gadgets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unmasking-the-facade-tips-for-discerning-genuine-from-counterfeit-friend-requests-online/"><u>Unmasking the Facade: Tips for Discerning Genuine From Counterfeit Friend Requests Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/updated-linksys-standard-login-credentials-for-july-2024-complete-directory/"><u>Updated Linksys Standard Login Credentials for July 2024 - Complete Directory</u></a></li>
 </ul></div>
 

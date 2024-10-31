@@ -1,7 +1,7 @@
 ---
 title: The Ultimate How-To for Refreshing macOS DNS Records
-date: 2024-10-21T18:47:22.331Z
-updated: 2024-10-25T06:38:46.192Z
+date: 2024-10-23T19:17:39.989Z
+updated: 2024-10-30T19:25:16.951Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate How-To for Refreshing macOS DNS Records
@@ -24,10 +24,10 @@ thumbnail: https://www.lifewire.com/thmb/zSQcjmrvSKGApZnR2FXBp1D3DC4=/400x300/fi
  This article explains how to delete the[DNS cache](https://www.lifewire.com/what-is-a-dns-cache-817514) on a Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the macOS Flush DNS Command
@@ -38,33 +38,33 @@ thumbnail: https://www.lifewire.com/thmb/zSQcjmrvSKGApZnR2FXBp1D3DC4=/400x300/fi
 ![Terminal highlighted in Spotlight on a Mac.](https://www.lifewire.com/thmb/QGngs7Naa2bQVtWQWVaRG0K34yc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Terminal-6e4ba7528a4c4220a28542f84f214676.jpg)  
  You can also access Terminal by navigating to**Go** \>**Utilities** \>**Terminal** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Type (or[copy and paste](https://www.lifewire.com/cut-copy-paste-on-mac-4427671) ) this command into Terminal and then press**Enter** :  
  `sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder`  
 ![Command highlighted in Terminal window](https://www.lifewire.com/thmb/S2U8vSx5U_PgZI2ZZR_uTWdGHcw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Command-e05651de1b2f44e7b99903d8f00910f5.jpg)  
  This command only works in[macOS](https://www.lifewire.com/what-is-macos-4691239) 10.12 Sierra and newer. If you have an older version, check the next section for the correct command.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Type your password and then press**return** . The DNS cache will be reset immediately, but there will be no message to that effect. When a new line appears, it indicates the command has been carried out.  
 ![Entering a password in Terminal on a Mac.](https://www.lifewire.com/thmb/hvFn07N8xnjZ9XJQvgMitPvCTVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Password-902f4015f672459598066969c7900b2f.jpg)  
 The password will not appear in Terminal as you type it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Flush DNS on Mac OS X
@@ -77,6 +77,13 @@ The password will not appear in Terminal as you type it.
 * **Snow Leopard** : sudo dscacheutil -flushcache
 * **Leopard** : sudo lookupd -flushcache
 * **Tiger** : lookupd -flushcache
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Does Flushing DNS Do?
 
@@ -126,19 +133,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-boosting-revenue-the-content-creators-playbook/"><u>[New] In 2024, Boosting Revenue The Content Creator's Playbook</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-exploring-best-video-grabbers-for-win11/"><u>[Updated] In 2024, Exploring Best Video Grabbers for Win11</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/1728502321357-windows-11/"><u>對付 Windows 11 設置錯誤：進一步的故障排除方法</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-detailed-explanation-of-windows-11s-battery-performance-analysis-tool/"><u>A Detailed Explanation of Windows 11'S Battery Performance Analysis Tool</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/access-blockbusters-instantly-explore-the-best-free-movie-torrent-sites/"><u>Access Blockbusters Instantly: Explore the Best Free Movie Torrent Sites</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/digital-content-contenders-compare-and-contrast-vimeo-youtube-plus-dailymotion/"><u>Digital Content Contenders Compare & Contrast Vimeo, YouTube + Dailymotion</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-when-you-cant-turn-on-your-roku-smart-tv-expert-advice/"><u>Easy Fixes for When You Can’t Turn On Your Roku Smart TV: Expert Advice</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-innovation-with-the-apple-iphone-debut-get-ready/"><u>Experience Innovation with the Apple iPhone Debut – Get Ready!</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-cropping-in-final-cut-pro-x-a-step-by-step-guide/"><u>New In 2024, Cropping in Final Cut Pro X A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-battery-hurdles-steps-to-charge-a-faulty-ps5-dualsense/"><u>Overcoming Battery Hurdles: Steps to Charge a Faulty PS5 DualSense</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722882603462-setting-up-time-lapse-photography-a-guide-to-using-the-iphone-camera-timers/"><u>Setting Up Time-Lapse Photography: A Guide to Using the iPhone Camera Timers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-esd-to-iso-transformation-on-windows-pcs/"><u>Step-by-Step ESD to ISO Transformation on Windows PCs</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/troubleshooting-guide-stop-your-age-of-wonders-planetfall-from-crashing-on-windowspc/"><u>Troubleshooting Guide: Stop Your 'Age of Wonders: Planetfall' From Crashing on Windows/PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-why-your-steam-games-wont-start-in-windows-10-and-how-to-solve-them/"><u>Troubleshooting Tips: Why Your Steam Games Won't Start in Windows 10 & How to Solve Them</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-all-facets-of-adobes-storage-system-and-its-equivalents-in-the-market/"><u>[New] 2024 Approved All Facets of Adobe's Storage System & Its Equivalents in the Market</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-essential-science-youtube-networks-expand-your-mind-for-2024/"><u>[New] Essential Science YouTube Networks Expand Your Mind for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-navigating-the-complexities-of-facebook-slideshow-tools/"><u>[New] In 2024, Navigating the Complexities of Facebook Slideshow Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-dslr-mastery-broadcasting-with-facebook-live-via-computer-for-2024/"><u>[Updated] DSLR Mastery Broadcasting with Facebook Live via Computer for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-the-art-of-self-talk-in-online-videos-for-2024/"><u>[Updated] Mastering the Art of Self-Talk in Online Videos for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-what-sets-meta-ai-apart-from-others/"><u>Discovering What Sets Meta AI Apart From Others</u></a></li>
+<li><a href="https://win-able.techidaily.com/dvdvobq/"><u>DVDファイルからVOBフォーマットへの効果的な変換テクニッQ</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/efficiently-track-your-read-emails-with-these-gmail-tips-and-tricks/"><u>Efficiently Track Your Read Emails with These Gmail Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-how-to-correctly-handle-openal32dll-not-detected-or-lost/"><u>Expert Tips: How to Correctly Handle 'openAL32.dll Not Detected or Lost'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-keeping-your-mac-awake-tips-and-tricks-for-no-more-hibernation/"><u>Guide: Keeping Your Mac Awake - Tips and Tricks for No More Hibernation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ps4-controller-light-codes-explained-navigating-the-significance-of-blinking-colors/"><u>PS4 Controller Light Codes Explained: Navigating the Significance of Blinking Colors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-fix-for-windows-error-0x80070570-not-found-message-troubleshooting/"><u>Step-by-Step Fix for Windows Error 0X80070570: Not Found Message Troubleshooting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-turning-on-and-resuming-use-of-your-snapchat-after-deactivation/"><u>The Ultimate Guide to Turning On and Resuming Use of Your Snapchat After Deactivation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-8-effective-solutions-for-resolving-imessage-activation-issues/"><u>Top 8 Effective Solutions for Resolving iMessage Activation Issues</u></a></li>
+<li><a href="https://fox-links.techidaily.com/xsplit-versus-obs-which-takes-live-streaming-to-the-next-level-for-2024/"><u>XSplit versus OBS - Which Takes Live Streaming to the Next Level for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-essential-selection-of-top-8-tv-streaming-services-to-watch/"><u>Your Essential Selection of Top 8 TV Streaming Services to Watch</u></a></li>
 </ul></div>
 

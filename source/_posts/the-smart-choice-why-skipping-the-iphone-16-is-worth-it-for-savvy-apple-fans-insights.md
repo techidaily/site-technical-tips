@@ -1,7 +1,7 @@
 ---
 title: "The Smart Choice: Why Skipping the iPhone 16 Is Worth It for Savvy Apple Fans - Insights"
-date: 2024-10-21T01:40:17.692Z
-updated: 2024-10-25T01:24:46.765Z
+date: 2024-10-23T16:19:24.585Z
+updated: 2024-10-30T17:44:23.044Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -65,13 +65,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -89,10 +82,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -104,10 +97,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -125,6 +118,13 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -166,24 +166,17 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-vlog-to-audio-conversion-with-twitta/"><u>[New] Vlog-to-Audio Conversion with Twitta</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-10-no-cost-video-conferencing-solutions-unveiled/"><u>[Updated] 2024 Approved Best 10 No-Cost Video Conferencing Solutions Unveiled</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-unparalleled-viewing-premium-hdmi-21-gaming-monitors-ps5/"><u>[Updated] In 2024, Unparalleled Viewing Premium HDMI 2.1 Gaming Monitors [PS5]</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-isolating-subject-with-affinity/"><u>2024 Approved Isolating Subject with Affinity</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/1723002114338-b4b-gobi-crash-troubleshooting-on-udk-fixing-ue4-game-issues-easily/"><u>B4B Gobi Crash Troubleshooting on UDK - Fixing UE4 Game Issues Easily</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/critical-thinking-in-ai-era-six-justifications-for-a-skeptical-approach/"><u>Critical Thinking in AI Era: Six Justifications for a Skeptical Approach</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-or-ready-made-computer-systems-finding-the-ideal-choice-for-your-needs/"><u>DIY or Ready-Made Computer Systems: Finding the Ideal Choice for Your Needs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-speeding-up-your-sluggish-wi-fi/"><u>Effective Strategies for Speeding Up Your Sluggish Wi-Fi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elevate-your-search-capabilities-using-google-gemini-techniques/"><u>Elevate Your Search Capabilities Using Google Gemini Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-insight-on-the-third-generation-apple-tv-with-4k-support/"><u>Expert Insight on the Third-Generation Apple TV with 4K Support</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-the-error-when-d3dx9-library-file-cannot-be-located/"><u>Fix the Error: When D3DX9 Library File Cannot Be Located</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-nokia-g310-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Nokia G310</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/melodic-freedom-fbs-music-library-for-2024/"><u>Melodic Freedom FB's Music Library for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-ins-and-outs-of-power-management-in-windows-11-the-battery-report-explained/"><u>Navigating the Ins and Outs of Power Management in Windows 11: The Battery Report Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-latest-ios-update-process-download-install-and-optimize/"><u>Navigating the Latest iOS Update Process: Download, Install, and Optimize</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-tackle-bsod-on-your-pc/"><u>Step-by-Step Solutions to Tackle BSOD on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-for-assessing-monthly-data-usage-on-devices/"><u>The Complete Walkthrough for Assessing Monthly Data Usage on Devices</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/top-tips-for-setting-up-vsphere-replication-ensuring-virtual-machine-safety/"><u>Top Tips for Setting Up vSphere Replication: Ensuring Virtual Machine Safety</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-tips-for-fixing-stalled-video-posts-on-the-social-media-platform-iosandroid/"><u>[New] In 2024, Tips for Fixing Stalled Video Posts on the Social Media Platform iOS/Android</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-why-the-arctic-liquid-freezer-iii-aio-underwhelms-consumers/"><u>Comprehensive Analysis: Why the Arctic Liquid Freezer III AIO Underwhelms Consumers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/food-videography-how-to-shoot-food-videos-for-2024/"><u>Food Videography How to Shoot Food Videos for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-acquire-unlimited-stock-images-via-top-4-youtube-sources/"><u>In 2024, Acquire Unlimited Stock Images via Top 4 YouTube Sources</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-dominate-search-results-essential-tips-for-optimizing-youtube-videos/"><u>In 2024, Dominate Search Results Essential Tips for Optimizing YouTube Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-c32-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia C32 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-gmail-a-step-by-step-guide-to-setting-up-an-email-alias/"><u>Mastering Gmail: A Step-by-Step Guide to Setting Up an Email Alias</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722903956471-mastering-quick-travel-a-guide-to-the-teleport-feature-in-minecraft/"><u>Mastering Quick Travel: A Guide to the Teleport Feature in Minecraft</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mfc71dll-error-fixes-effective-solutions-for-a-seamless-system/"><u>MFC71.dll Error Fixes: Effective Solutions for a Seamless System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/neo-qled-vs-oled-a-comprehensive-guide-to-screen-innovations/"><u>Neo QLED Vs. OLED: A Comprehensive Guide to Screen Innovations</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/personalized-vr-retail-journeys/"><u>Personalized VR Retail Journeys</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/share-the-love-with-your-family-must-watch-films-on-amazon-prime-video-for-jul-2024/"><u>Share the Love with Your Family: Must-Watch Films on Amazon Prime Video for Jul' 2024</u></a></li>
 </ul></div>
 

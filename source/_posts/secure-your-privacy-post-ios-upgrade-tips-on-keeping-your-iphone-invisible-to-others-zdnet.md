@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Privacy Post-iOS Upgrade: Tips On Keeping Your iPhone Invisible to Others | ZDNet"
-date: 2024-10-19T06:39:08.940Z
-updated: 2024-10-25T10:05:03.242Z
+date: 2024-10-26T23:30:18.840Z
+updated: 2024-10-30T22:31:17.759Z
 tags:
   - apple
 categories:
@@ -59,10 +59,10 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. For work
@@ -88,15 +88,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -109,10 +116,10 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
@@ -128,13 +135,6 @@ Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am st
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -176,18 +176,22 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-premium-360-camera-options-for-social-media-broadcasts/"><u>[Updated] Premium 360° Camera Options for Social Media Broadcasts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-copyright-free-audio-treasury-for-gamers-online/"><u>2024 Approved Copyright-Free Audio Treasury for Gamers Online</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/beyond-likes-and-hearts-uncover-these-10-intriguing-emoji-secrets/"><u>Beyond Likes and Hearts: Uncover These 10 Intriguing Emoji Secrets</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/changing-the-look-of-your-chromecast-a-how-to-on-background-images/"><u>Changing the Look of Your Chromecast: A How-To on Background Images</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-walkthrough-configuring-time-delay-text-notifications-on-iphone/"><u>Comprehensive Walkthrough: Configuring Time-Delay Text Notifications on iPhone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/crucial-aspects-to-contemplate-before-investing-in-your-next-desktop-system/"><u>Crucial Aspects to Contemplate Before Investing in Your Next Desktop System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/direct-guide-to-enjoy-hulu-content-on-an-lg-smart-tv-without-hassle/"><u>Direct Guide to Enjoy Hulu Content on an LG Smart TV Without Hassle</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-lenovo-x220-drivers-instantly-seamless-setup-guide/"><u>Download Lenovo X220 Drivers Instantly: Seamless Setup Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-msodll-not-found-or-missing-errors/"><u>How to Fix Mso.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-x-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone X Passcode Screen?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-comprehensive-look-at-ffpm-your-pip-guide/"><u>In 2024, A Comprehensive Look at FFPM Your PIP Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-essential-pathway-for-digital-lithuanian-study/"><u>The Essential Pathway for Digital Lithuanian Study</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-on-personal-residential-charging-stations-for-electric-vehicles/"><u>The Ultimate How-To on Personal Residential Charging Stations for Electric Vehicles</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-leading-apps-to-create-professional-youtube-intros/"><u>[New] 5 Leading Apps to Create Professional YouTube Intros</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-finding-the-perfect-pair-matching-mics-with-every-type-of-youtubers-style/"><u>[Updated] In 2024, Finding the Perfect Pair Matching Mics with Every Type of YouTuber's Style</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-screenflow-for-mac-a-full-featured-deep-dive-for-2024/"><u>[Updated] ScreenFlow for Mac - A Full Featured Deep Dive for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-user-manual-how-to-activate-a-meta-oculus-quest-or-quest-2-device/"><u>Complete User Manual: How to Activate a Meta (Oculus) Quest or Quest 2 Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-online-resources-for-finding-an-apartment/"><u>Discover the Best Online Resources for Finding an Apartment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-movie-night-the-best-15-dolby-atmos-movies-curated-for-home-cinema-enthusiasts/"><u>Elevate Your Movie Night: The Best 15 Dolby Atmos Movies Curated for Home Cinema Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-your-computers-stop-error-0x0000003d-a-comprehensive-tutorial/"><u>Fixing Your Computer's STOP Error 0X0000003D: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-t2-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo T2 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-returns-15-top-stock-market-vids/"><u>In 2024, Maximizing Returns 15 Top Stock Market Vids</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/insta-hack-top-underrated-tips-and-tricks-for-2024/"><u>Insta-Hack Top Underrated Tips and Tricks for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/jumpstarting-a-dead-laptop-essential-troubleshooting-tips/"><u>Jumpstarting a Dead Laptop: Essential Troubleshooting Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/recovering-your-mac-a-comprehensive-walkthrough-of-accessing-the-recovery-menu/"><u>Recovering Your Mac: A Comprehensive Walkthrough of Accessing the Recovery Menu</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-email-exposure-effective-techniques-for-managing-whois-lists/"><u>Securing Email Exposure: Effective Techniques for Managing Whois Lists</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-restore-microsoft-edge-functionality-when-it-stops-responding/"><u>Step-by-Step Solutions to Restore Microsoft Edge Functionality When It Stops Responding</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncovering-the-reasons-behind-the-surge-in-electric-car-adoption/"><u>Uncovering the Reasons Behind the Surge in Electric Car Adoption</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unmasking-bogus-connections-tips-on-detecting-false-friend-requests-online/"><u>Unmasking Bogus Connections: Tips on Detecting False Friend Requests Online</u></a></li>
 </ul></div>
 

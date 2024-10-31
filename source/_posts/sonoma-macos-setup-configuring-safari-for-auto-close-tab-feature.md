@@ -1,7 +1,7 @@
 ---
 title: "Sonoma macOS Setup: Configuring Safari for Auto-Close Tab Feature"
-date: 2024-10-21T05:33:12.744Z
-updated: 2024-10-24T21:23:42.302Z
+date: 2024-10-25T17:41:52.946Z
+updated: 2024-10-31T06:56:54.732Z
 tags:
   - apple
 categories:
@@ -55,10 +55,10 @@ So, how do you make this configuration? It's quite simple. Let me show you.
 **What you'll need:** The only thing you'll need for this is MacOS Sonoma (which includes Safari v17). That's it. Let's get this configuration taken care of.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -70,10 +70,10 @@ You can open Safari settings through the Menu Bar or a keyboard shortcut.
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable tab autoclose
@@ -116,22 +116,22 @@ With this feature set, Safari will automatically close tabs based on the last ti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unearthing-the-top-10-sleeper-social-media-stars/"><u>[New] Unearthing the Top 10 Sleeper Social Media Stars</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-chrome-extensions-best-5-facebook-video-downloaders-for-chrome/"><u>[Updated] In 2024, Chrome Extensions | Best 5 Facebook Video Downloaders for Chrome</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-ensuring-realness-in-your-instagram-photos/"><u>[Updated] In 2024, Ensuring Realness in Your Instagram Photos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-high-fidelity-mac-gif-capturer/"><u>2024 Approved High-Fidelity Mac Gif Capturer</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ideal-screen-snapshot-service-chromebook/"><u>2024 Approved Ideal Screen Snapshot Service Chromebook</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-content-conversion-top-5-online-gif-to-video-hubs/"><u>2024 Approved Streamline Your Content Conversion Top 5 Online GIF-to-Video Hubs</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-stylish-methodology-combining-gopro-imagery-into-360-video-tapestry/"><u>2024 Approved Stylish Methodology Combining GoPro Imagery Into 360 Video Tapestry</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/essential-fix-re-emerge-missing-watch-icon-2023-for-2024/"><u>Essential Fix Re-Emerge Missing Watch Icon, 2023 for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-list-the-premier-disneyplus-movie-lineup-today/"><u>Exclusive List: The Premier Disney+ Movie Lineup Today</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-the-best-of-iphone-or-ipad-with-easy-zoom-controls/"><u>Get the Best of iPhone or iPad with Easy Zoom Controls</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722898486678-getting-ready-for-the-new-google-pixel-tablet-release-dates-announced-along-with-device-specifications/"><u>Getting Ready for the New Google Pixel Tablet: Release Dates Announced Along with Device Specifications</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/remedy-the-missing-d3dx928dll-effective-solutions-to-explore/"><u>Remedy the Missing d3dx9_28.dll: Effective Solutions to Explore</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-updating-your-samsung-smart-tvs-software/"><u>Step-by-Step Guide: Updating Your Samsung Smart TV's Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-organizing-a-memorable-karaoke-party-at-home/"><u>The Ultimate Guide to Organizing a Memorable Karaoke Party at Home</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-picks-the-best-complimentary-films-on-youtube-july-2024-edition/"><u>Top Picks: The Best Complimentary Films on YouTube - July 2024 Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-your-secrets-a-guide-to-locating-stored-login-credentials-on-mac-devices/"><u>Unlocking Your Secrets: A Guide to Locating Stored Login Credentials on Mac Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-editors-for-diy-dji-film-production-at-home/"><u>[New] Best Editors for DIY DJi Film Production at Home</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-recording-games-like-a-pro-discover-the-best-of-windows-11-methods/"><u>[Updated] Recording Games Like a Pro Discover the Best of Windows 11 Methods</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-turn-your-youtube-tracks-into-mp3-with-macos/"><u>2024 Approved Turn Your YouTube Tracks Into MP3 with MacOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/before-you-go-electric-the-ultimate-checklist-of-9-important-inquiries/"><u>Before You Go Electric: The Ultimate Checklist of 9 Important Inquiries</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-solutions-for-dealing-with-the-windows-bsod-error/"><u>Comprehensive Solutions for Dealing with the Windows BSOD Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-digital-conversations-unveiling-the-mystery-of-aim-aol-instant-messenger/"><u>Decoding Digital Conversations: Unveiling the Mystery of AIM (AOL Instant Messenger)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-details-of-atandt-mobile-phone-roaming-terms/"><u>Decoding the Details of AT&T Mobile Phone Roaming Terms</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-establish-an-oculus-meta-headset-account-for-beginners/"><u>How To Establish An Oculus Meta Headset Account For Beginners</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-proplus-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Realme 12 Pro+ 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-a-step-by-step-guide-to-creating-compelling-instagram-puzzles/"><u>In 2024, A Step-by-Step Guide to Creating Compelling Instagram Puzzles</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-x90s-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo X90S Phones? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-restoring-wi-fi-connection-on-your-vizio-television/"><u>Solutions for Restoring Wi-Fi Connection on Your Vizio Television</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-to-compressing-h264-videos-into-smaller-sizes-with-h265-coding-without-loss-of-clarity/"><u>Step-by-Step Guide to Compressing H.264 Videos Into Smaller Sizes with H.265 Coding without Loss of Clarity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-your-wallets-potential-navigating-through-these-amazing-6-online-coupons-and-deals-platforms/"><u>Unlock Your Wallet’s Potential: Navigating Through These Amazing 6 Online Coupons and Deals Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-strategies-for-managing-and-measuring-daily-data-use/"><u>Unveiling Strategies for Managing and Measuring Daily Data Use</u></a></li>
 </ul></div>
 

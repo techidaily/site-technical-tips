@@ -1,7 +1,7 @@
 ---
 title: Three Essential Steps Apple Needs to Take to Save Tophat Vision Pro - Insights
-date: 2024-10-24T04:35:44.238Z
-updated: 2024-10-24T18:55:04.570Z
+date: 2024-10-23T17:35:04.878Z
+updated: 2024-10-30T22:36:27.735Z
 tags:
   - apple
 categories:
@@ -55,13 +55,6 @@ During this time, the company focused on providing viable mixed reality and VR e
 
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  That old Apple magic
 
 Apple, on the other hand, has a problem. It no longer has Steve Jobs to ruthlessly remove features and capabilities added by over-enthusiastic engineers and designers. Instead, Apple sometimes has a myopic focus on being special, on producing something "magic." 
@@ -90,10 +83,10 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Think different?
@@ -130,6 +123,13 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Give the Vision a controller
 
 VisionOS 2 has made some improvements. Beyond a trackpad, the new OS version (coming this fall) will support a mouse for pointing. It will also allow some form of keyboard passthrough, even in immersive environments, enabling you to see your keyboard. 
@@ -139,6 +139,13 @@ The eye tracking and hand gestures interface that are the primary means of opera
 **Also: [I watched my favorite TV show on Apple Vision Pro and it was glorious, strange, and tiring](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/)**
 
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
 
@@ -153,10 +160,10 @@ The idea that a future Vision device might need to be physically tethered to an 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
@@ -178,13 +185,6 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 **Also: [Who's afraid of VR? I was - until I tried Meta Quest 3](https://www.zdnet.com/article/whos-afraid-of-vr-i-was-until-i-tried-meta-quest-3/)**
 
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Looking towards the future
 
@@ -235,15 +235,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-boost-your-channel-top-14-gaming-vids-for-youtube-success/"><u>[New] In 2024, Boost Your Channel Top 14 Gaming Vids for YouTube Success</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-mastering-acoustic-transitions-in-audacity-pro-suite-for-2024/"><u>[Updated] Mastering Acoustic Transitions in Audacity Pro Suite for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-upgrading-razer-driver-packs-across-multiple-windows-systems/"><u>Guide: Upgrading Razer Driver Packs Across Multiple Windows Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-headphones-to-appear-in-windows-10-media-player-step-by-step-guide/"><u>How to Get Your Headphones to Appear in Windows 10 Media Player: Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/outstanding-asmr-audio-experience-for-minimal-spending-for-2024/"><u>Outstanding ASMR Audio Experience for Minimal Spending for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-gray-areas-of-windows-10-sync-settings-expert-advice/"><u>Resolving the Gray Areas of Windows 10 Sync Settings - Expert Advice</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/set-up-your-vpn-in-minutes-with-this-quick-how-to-tutorial/"><u>Set Up Your VPN in Minutes with This Quick How-To Tutorial</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-steps-to-display-your-fps-in-counter-strike-global-offensive/"><u>Simple Steps to Display Your FPS in Counter-Strike: Global Offensive</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-steps-to-screenshot-like-a-pro-on-your-acer-device/"><u>Simple Steps to Screenshot Like a Pro on Your Acer Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-mystery-of-the-disappearing-avcodecdll-essential-troubleshooting-steps/"><u>Solving the Mystery of the Disappearing avcodec.dll: Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-master-the-art-of-live-sound-capture-on-the-internet/"><u>[New] In 2024, Master the Art of Live Sound Capture on the Internet</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-snapedit-essentials-for-beginners-a-visual-journey/"><u>[New] Snapedit Essentials for Beginners A Visual Journey</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-tips-and-tricks-for-adding-media-in-instagram-for-2024/"><u>[Updated] Tips & Tricks for Adding Media in Instagram for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unrivaled-windows-video-calls-top-8-apps/"><u>[Updated] Unrivaled Windows Video Calls Top 8 Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-investigation-vll-on-app-standards/"><u>2024 Approved Innovative Investigation VLL on App Standards</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-perfect-blueprint-recording-google-voice-calls/"><u>2024 Approved The Perfect Blueprint Recording Google Voice Calls</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-what-chatgpt-can-do-for-you/"><u>Discovering What ChatGPT Can Do for You</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-to-change-your-iphones-geographic-area/"><u>Easy Steps to Change Your iPhone's Geographic Area</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-v29e-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo V29e Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solution-steps-for-restoring-sound-functionality-in-chromecast-devices/"><u>Solution Steps for Restoring Sound Functionality in Chromecast Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/strategic-animation-techniques-to-boost-your-facebook-ad-roi/"><u>Strategic Animation Techniques to Boost Your Facebook Ad ROI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/surface-pro-display-dilemma-discover-how-to-stop-the-shakingflickering/"><u>Surface Pro Display Dilemma? Discover How To Stop the Shaking/Flickering!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-fixing-zlibdll-absent-from-system-files/"><u>Ultimate Guide to Fixing zlib.dll Absent From System Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-understanding-and-resolving-blue-screen-stop-errors/"><u>Ultimate Guide to Understanding and Resolving Blue Screen Stop Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098981663-unlock-the-secret-to-a-smooth-iphone-pc-connection-by-fixing-mtp-usb-drivers/"><u>Unlock the Secret to a Smooth iPhone-PC Connection by Fixing MTP USB Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unpacking-the-fugetek-ft-568-a-detailed-review-of-this-elite-selfie-companion/"><u>Unpacking the Fugetek FT-568: A Detailed Review of This Elite Selfie Companion</u></a></li>
 </ul></div>
 

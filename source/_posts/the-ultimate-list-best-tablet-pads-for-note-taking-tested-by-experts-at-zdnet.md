@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate List: Best Tablet Pads for Note-Taking , Tested by Experts at ZDNet"
-date: 2024-10-20T10:07:08.854Z
-updated: 2024-10-24T16:22:47.385Z
+date: 2024-10-27T23:06:04.013Z
+updated: 2024-10-30T21:42:54.245Z
 tags:
   - apple
 categories:
@@ -29,10 +29,10 @@ Whether you're looking for the best iPad for you, or you're buying one for a kid
 I've been using an iPad nearly every day since the product first launched in April 2010, and I've tried all the various models over the years and used them for many different things. My current pick for the best iPad for most people is the [iPad Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C115f451c-923c-464d-8873-6411c1d26381%7Cdtp&dtb=1), because it includes nearly all of the best features the iPad has to offer at a price that's more approachable than the iPad Pro. Below is my full breakdown of the current iPad lineup -- based on my hands-on experience and product testing -- as well as my buying recommendations for each model to help you pick the best one for various needs and budgets. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best iPads of 2024
@@ -53,20 +53,13 @@ Cons
 * Touch ID is less convenient than Face ID
 * Configured with accessories, it gets expensive quickly
 
+## iPad Air (5th generation)
+
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
   <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## iPad Air (5th generation)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best iPad overall
@@ -131,6 +124,13 @@ Cons
 * Uses Lightning port for charging
 
 ## iPad (9th generation)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best budget iPad
 
@@ -199,10 +199,10 @@ Cons
 * Has the 64GB storage limitation for the base model
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPad Mini (6th generation)
@@ -238,10 +238,16 @@ The best iPad overall is the iPad Air since it has many of the high-end features
 \*MSRP at the time of writing. Please note that actual prices may vary depending on available sales, deals, discounts, and coupons. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which is the best iPad for you?
@@ -264,13 +270,6 @@ If you're looking to buy an iPad, here are the top factors you should consider b
 * **Accessories:** Think about which iPads are compatible with the accessories you'd like to use such as the Magic Keyboard Case and the three different versions of the Apple Pencil.
 * **Price:** There are now iPads for nearly every budget, especially when you include the last-generation models we've highlighted below in the Alternatives section. You can get a standard iPad for around $300 and it will be fine for watching videos, doing light web surfing, and answering messages. This is a great choice for a first iPad or to upgrade an older one used for the same tasks. The premium iPad Pro models are loaded with features, have incredible displays, and cost the same as a premium laptop. However, they are best for creative professionals, artists, and those who want to use the device as their full laptop replacement, which can still be a frustrating endeavor if you're a power user with a long history on a laptop and you have a lot of work to do.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How do we test iPads?
 
 I have been using an iPad since the day the first Apple tablet was released in 2010, and I have tried out nearly every iPad model at one point or another since then. I've tested the modern iPad models in real-world situations to evaluate their features, design, performance, and overall value. 
@@ -278,6 +277,19 @@ I have been using an iPad since the day the first Apple tablet was released in 2
 For example, I've used the iPad Mini to take notes and read documents on the road. I've used the standard iPad for web browsing and watching YouTube. I've used the iPad Pro models for lots of Zoom calls, Slack, web apps, creating Google Docs, reading during lunch using the Kindle app and the Magic Keyboard case since it props up the iPad quite nicely, and downloading and watching videos while traveling. I've recently tried using the iPad Air for all the things I typically do with an iPad Pro and found that it works great with only two exceptions: the battery life isn't as good and the fingerprint sensor isn't as convenient as Face ID for all day use during a long day of meetings or work.
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the newest iPad models?
 
@@ -289,22 +301,15 @@ The new iPad Air comes in two sizes for the first time (11 inches and 13 inches)
 
 The iPad Pro now comes with the new M4 chip which Apple says delivers up to 4x faster GPU rendering and a 50% faster CPU performance than the M2 in the previous iPad Pro. The Pro tablets also feature an Ultra Retina XDR display, which Apple called "the world's most advanced display."
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best iPad for kids?
 
 The base model iPad is the [best tablet for kids](https://www.zdnet.com/article/best-kids-tablet/) since it's easy to use, lightweight, and can grow with your child as they need it for different purposes. The iPad Mini would also be a good choice since it's the smallest iPad in the lineup, perfect for little hands. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best iPad for drawing?
@@ -336,6 +341,13 @@ Performance is going to be slower and app selection is going to be worse on Amaz
 As far as [Samsung tablets](https://www.zdnet.com/article/best-samsung-tablet/) go, these devices will run on Android and are closer to iPads in terms of performance, design, and features. The [Galaxy Tab S](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-tab-s6-lite-2022-10-4-64gb-wi-fi-oxford-gray%2F6506325.p%3Ftag%3Dzdnet-deals-20) series is ideal for users who need power, such as creators and professionals. The tablets in this series have larger screens and more processing power, comparable to the iPad Pro. 
 
 On the other hand, Samsung also makes a Galaxy Tab A series, which comes at a lower price point with smaller screens for those who need a simple tablet for everyday tasks and entertainment. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative iPad models to consider?
 
@@ -383,16 +395,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-from-standard-to-spectacular-your-guide-to-selecting-a-stellar-4k-display-for-2024/"><u>[New] From Standard to Spectacular Your Guide to Selecting a Stellar 4K Display for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-skys-best-the-ultimate-hd-collection-websites/"><u>2024 Approved Sky's Best - The Ultimate HD Collection Websites</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diagnosing-and-fixing-typing-issues-on-malfunctioning-keyboards/"><u>Diagnosing and Fixing Typing Issues on Malfunctioning Keyboards</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-methods-for-resolving-chatgpts-moderation-error-dilemmas/"><u>Effective Methods for Resolving ChatGPT's Moderation Error Dilemmas</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-successfully-troubleshoot-and-repair-stop-0x000e0007b-bsod-errors/"><u>How To Successfully Troubleshoot and Repair STOP 0X000e0007b BSoD Errors</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Lava Yuva 3? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/messenger-off-the-grid-how-to-enjoy-messaging-without-a-facebook-presence/"><u>Messenger Off the Grid: How to Enjoy Messaging without a Facebook Presence</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-on-ultra-hd-gaming-screens-the-best-offers-of-202n4/"><u>Save Big on Ultra HD Gaming Screens - The Best Offers of 202N4</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-small-tablet-picks-for-2eby-2024-in-depth-analysis-and-ratings/"><u>Ultimate Guide to Small Tablet Picks for 2Eby 2024 - In-Depth Analysis and Ratings</u></a></li>
-<li><a href="https://fox-access.techidaily.com/unbelievable-judgment-and-backup-recommendations/"><u>Unbelievable Judgment & Backup Recommendations</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-maximizing-your-tiktok-intro-a-mac-guide/"><u>[New] 2024 Approved Maximizing Your TikTok Intro A Mac Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-from-game-to-giga-full-ps4-capture-using-obs/"><u>2024 Approved From Game to Giga Full PS4 Capture Using OBS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-diy-tips-on-swapping-out-your-devices-glass-panel-cover/"><u>Easy DIY Tips on Swapping Out Your Device’s Glass Panel Cover</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-fixes-for-dealing-with-missing-libgdk-win32-20-0dll-error-messages/"><u>Effective Fixes for Dealing with Missing 'libgdk-win32-2.0-0.dll' Error Messages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-correcting-coredll-missing-issue-in-windows-systems/"><u>Guide to Correcting Core.Dll Missing Issue in Windows Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-securing-yourself-from-motion-sickness-in-vr/"><u>In 2024, Securing Yourself From Motion Sickness in VR</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-simplified-steps-for-posting-tweets-on-facebook/"><u>In 2024, Simplified Steps for Posting Tweets on Facebook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stop-apple-music-from-continuously-playing-tips-and-tricks-for-control/"><u>Stop Apple Music From Continuously Playing: Tips and Tricks for Control</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-resolving-missing-pdhdll-error-messages-in-windows/"><u>The Ultimate Guide to Resolving Missing Pdh.dll Error Messages in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-for-creating-stunning-images-with-photo-cutouts-on-ios-16-devices/"><u>The Ultimate Walkthrough for Creating Stunning Images with Photo Cutouts on iOS 16 Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transformacion-ogv-a-mov-online-gratuita-guia-paso-a-paso-con-movavi/"><u>Transformación OGV a MOV Online Gratuita: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-halinitializationfailed-overcoming-stop-0x0000005c-errors-on-your-pc/"><u>Troubleshooting HAL_INITIALIZATION_FAILED: Overcoming STOP 0X0000005C Errors on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-xbox-virtual-reality-headset-anticipated-launch-details-and-pricing-insights/"><u>Upcoming Xbox Virtual Reality Headset - Anticipated Launch Details & Pricing Insights</u></a></li>
+<li><a href="https://article-posts.techidaily.com/vegas-pro-2021-a-detailed-gaming-world-survey/"><u>Vegas Pro 2021 A Detailed Gaming World Survey</u></a></li>
 </ul></div>
 

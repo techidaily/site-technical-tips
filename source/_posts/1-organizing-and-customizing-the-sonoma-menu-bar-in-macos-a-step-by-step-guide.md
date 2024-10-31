@@ -1,7 +1,7 @@
 ---
 title: "1. Organizing & Customizing the Sonoma Menu Bar in macOS: A Step-by-Step Guide"
-date: 2024-10-19T05:12:19.701Z
-updated: 2024-10-25T02:39:05.015Z
+date: 2024-10-24T23:52:07.918Z
+updated: 2024-10-30T20:32:35.896Z
 tags:
   - apple
 categories:
@@ -59,10 +59,10 @@ Before you move on to the next step, be sure that Xcode is fully installed, that
 Once all of that is done, we can move on. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Configure the VM hosting app in Xcode
@@ -98,10 +98,10 @@ You're ready to start running the VM. Hit the little arrow to build and run.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Installing Ubuntu
@@ -137,16 +137,10 @@ Use the default, which is to allow the installer to erase the virtual disk and s
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Run Ubuntu
@@ -160,10 +154,10 @@ Once you restart, you'll be in a standard environment, with a nice little virtua
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Final thoughts
@@ -210,17 +204,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-highhurdle-slowmomenttape/"><u>[New] In 2024, HighHurdle SlowMomentTape</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-top-picks-for-optimal-cloud-space-solutions/"><u>[New] Top Picks for Optimal Cloud Space Solutions</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/elevate-your-bookkeeping-accuracy-using-abbeys-smart-document-recognition-solutions/"><u>Elevate Your Bookkeeping Accuracy Using ABBEY’s Smart Document Recognition Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y78plus-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo Y78+</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-g310-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-7-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 7 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-insiders-guide-to-leveraging-spotify-ads-effectively/"><u>In 2024, The Insider's Guide to Leveraging Spotify Ads Effectively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-common-powerpoint-print-errors-with-9-effective-methods/"><u>Overcoming Common PowerPoint Print Errors with 9 Effective Methods</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-the-obstacle-of-error-0x80070422-in-your-windows-11-updates-a-step-by-step-resolution/"><u>Overcoming the Obstacle of Error 0X80070422 in Your Windows 11 Updates: A Step-by-Step Resolution</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-and-simple-methods-how-to-extract-youtube-videos-audio-with-ease/"><u>Quick and Simple Methods: How to Extract YouTube Videos' Audio with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-start-manual-linking-a-wireless-peripheral-device-to-your-pc/"><u>Quick Start Manual: Linking a Wireless Peripheral Device to Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/rapid-fixes-to-reconnect-your-missing-webcam-on-pcs/"><u>Rapid Fixes to Reconnect Your Missing Webcam on PCs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-guide-to-the-most-effective-pc-screen-capture-apps-for-2024/"><u>[New] The Ultimate Guide to the Most Effective PC Screen Capture Apps for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elite-influencer-economy-leaders/"><u>[Updated] Elite Influencer Economy Leaders</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-exploring-hottest-ae-template-trends-on-ig-for-2024/"><u>[Updated] Exploring Hottest AE Template Trends on IG for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-streaming-media-from-your-mac-computer-to-the-television-via-airplay/"><u>Guide: Streaming Media From Your Mac Computer to the Television via AirPlay</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hashtagtrackers-find-the-best-4-applications-to-stay-updated-on-twitter-chats/"><u>HashtagTrackers: Find the Best 4 Applications to Stay Updated on Twitter Chats</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-realme-c33-2023-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Realme C33 2023 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-y27-4g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo Y27 4G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-solve-the-problem-of-a-missing-ssleay32dll-file-in-windows/"><u>How to Solve the Problem of a Missing ssleay32.dll File in Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-the-thermalright-phantom-spirit-120-evo-more-than-a-battle-its-an-onslaught/"><u>In-Depth Review of the Thermalright Phantom Spirit 120 EVO: More than a Battle, It's an Onslaught</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-microsoft-outlook-how-to-restore-functionality-of-the-spelling-and-grammar-checker/"><u>Mastering Microsoft Outlook: How to Restore Functionality of the Spelling & Grammar Checker</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/restoring-wi-fi-connectivity-on-microsofts-surface-pro/"><u>Restoring Wi-Fi Connectivity on Microsoft's Surface Pro</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210451087-9780762475681-the-queen-of-wands/"><u>The Queen of Wands | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-13-most-engaging-true-crime-audio-shows/"><u>Top 13 Most Engaging True Crime Audio Shows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-common-xbox-one-no-signal-trouble-tips-and-solutions/"><u>Troubleshooting the Common Xbox One No Signal Trouble – Tips and Solutions</u></a></li>
+<li><a href="https://discover-help.techidaily.com/ultra-fast-professional-dvd-ripping-with-winx-dvd-ripper-platinum-convert-your-dvds-to-high-quality-mp4-format-in-just-five-minutes/"><u>Ultra-Fast Professional DVD Ripping with WinX DVD Ripper Platinum: Convert Your DVDs to High-Quality MP4 Format in Just Five Minutes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watching-tips-for-the-latest-samsung-unpacked-ceremony-online/"><u>Watching Tips for the Latest Samsung Unpacked Ceremony Online</u></a></li>
 </ul></div>
 

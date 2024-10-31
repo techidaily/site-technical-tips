@@ -1,7 +1,7 @@
 ---
 title: "Inside Apple's Pursuit of Thinner iPads: Does Reducing to 0.n Inches Really Matter? | Insights From an Apple Store Experience"
-date: 2024-10-19T16:49:22.793Z
-updated: 2024-10-24T17:35:52.932Z
+date: 2024-10-27T03:37:14.982Z
+updated: 2024-10-30T22:07:58.384Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +89,16 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,21 +139,16 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-best-5-video-editing-platforms-that-dont-feature-in-youtoo-for-2024/"><u>[New] Best 5 Video Editing Platforms That Don't Feature in YouToo for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-creating-a-viral-traction-with-6-strategic-steps-in-youtube-marketing/"><u>[New] In 2024, Creating a Viral Traction with 6 Strategic Steps in YouTube Marketing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-the-middle-ground-working-and-youtube/"><u>[New] In 2024, Finding the Middle Ground Working & YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-list-of-alternatives-to-the-popular-gopro/"><u>[New] The Ultimate List of Alternatives to the Popular GoPro</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-window-11-ui-elements-larger-icons/"><u>Customizing Window 11 UI Elements - Larger Icons</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gtx-1650-super-graphics-card-drivers-download-and-update-guide-for-windows-11/"><u>GTX 1650 Super Graphics Card Drivers Download and Update Guide for Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-remove-microsoft-account-from-windows-10-easily-solved/"><u>How to Remove Microsoft Account From Windows 10 Easily [Solved]</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-uninstall-nvidia-drivers-on-windows-11/"><u>How to Uninstall Nvidia Drivers on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-12-mini-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 12 mini Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-xiaomi-redmi-k70-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-shift-your-essential-steps-to-embrace-the-windows-10-creators-edition/"><u>Master the Shift - Your Essential Steps to Embrace the Windows 10 Creator's Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-movie-torrents-an-ultimate-utorrent-how-to-guide-for-seamless-download/"><u>Mastering Movie Torrents: An Ultimate uTorrent How-To Guide for Seamless Download</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/protect-your-pcs-core-settings-with-effective-registry-backups-and-recovery-tips/"><u>Protect Your PC's Core Settings with Effective Registry Backups and Recovery Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolved-windows-error-during-disk-formatting-fix-and-steps/"><u>Resolved: Windows Error During Disk Formatting - Fix and Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-guide-switching-your-netflix-location-in-minutes/"><u>Simple Guide: Switching Your Netflix Location in Minutes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-leisure-ideal-screen-time-solutions/"><u>[New] Essential Leisure Ideal Screen-Time Solutions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-using-firefoxs-popup-window/"><u>[Updated] 2024 Approved The Ultimate Checklist for Using Firefox's Popup Window</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/can-grammar-hinder-fluent-speaking/"><u>Can Grammar Hinder Fluent Speaking?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-dell-pc-format-process-walkthrough/"><u>Complete Dell PC Format Process Walkthrough</u></a></li>
+<li><a href="https://fox-that.techidaily.com/imessage-sent-as-sms-on-iphone-what-could-this-indicate-about-being-blocked/"><u>IMessage Sent as SMS on iPhone: What Could This Indicate About Being Blocked?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/m4-powered-mini-marvel-comparing-the-latest-mac-mini-to-apple-tv-insights/"><u>M4-Powered Mini Marvel: Comparing the Latest Mac Mini to Apple TV - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-with-ease-our-pick-of-the-best-7-traffic-applications/"><u>Navigate with Ease: Our Pick of the Best 7 Traffic Applications</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionizing-imaging-with-quantum-hdrs-potential/"><u>Revolutionizing Imaging with Quantum HDR's Potential</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-restoring-factory-settings-on-your-samsung-soundbar/"><u>Step-by-Step Guide: Restoring Factory Settings on Your Samsung Soundbar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unstuck-yourself-from-instagram-struggles-solutions-to-unsuccessful-story-uploads/"><u>Unstuck Yourself From Instagram Struggles - Solutions to Unsuccessful Story Uploads.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is It Time for the New iPhone? Expert Analysis on Advantages and Disadvantages Editors
-date: 2024-10-23T16:02:24.278Z
-updated: 2024-10-25T11:35:55.759Z
+date: 2024-10-26T05:22:12.858Z
+updated: 2024-10-30T18:29:40.751Z
 tags:
   - apple
 categories:
@@ -34,6 +34,13 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. The camera
 
 Perhaps one of the most important features of any smartphone these days is the camera, so it is no surprise that camera quality is a big consideration for ZDNET editors. It probably is for you, too. The iPhone 16 lineup includes a new [Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/) feature that works in landscape or portrait mode with a button on the side of the iPhone. In addition, you can lightly press the button to show camera functions you can choose from, such as zoom, exposure, or focal lengths, by swiping between the options. 
@@ -47,10 +54,10 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
@@ -64,13 +71,6 @@ ZDNET contributor Ed Bott is planning to upgrade his iPhone 12 Pro Max for a new
 And if you're looking to change carriers, like managing editor Alison DeNisco Rayome, some of the trade-in offers make it hard to resist. "I still have the 13, and the trade-in deals are making it worth it for me to upgrade to the 16 (plus we want to switch carriers, so even better)," she says. 
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. For work
 
@@ -98,6 +98,13 @@ ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. The Apple Intelligence features aren't perfect
 
 Apple's biggest flexes over the last few months have been their Apple Intelligence and AI features, [which the iPhone 16 is the guinea pig for](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). While some of these new AI features are undeniably cool, like the new Camera Control, enhanced Siri features, and more, the features are still limited to the iPhone 15 Pro and above and rolling out only in beta over the next few weeks. 
@@ -116,13 +123,6 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Expense and hassle
 
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
@@ -130,10 +130,10 @@ Sometimes it's the most obvious factors that influence our choices. The expense 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
@@ -176,22 +176,19 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-7-top-ranked-apps-for-horizontal-and-vertical-igtv-editing/"><u>[New] 7 Top-Ranked Apps for Horizontal and Vertical IGTV Editing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-screen-time-treasure-summers-top-10-gems/"><u>[New] The Ultimate Screen Time Treasure Summer’s Top 10 Gems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-infinite-storage-horizon-your-guide-to-free-and-premium-cloud-services/"><u>[Updated] Infinite Storage Horizon Your Guide to Free & Premium Cloud Services</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/windows11108/"><u>高效移動式Windows系統驗證版本：11、10及8的磁碟夥伴計算工具</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808272543-cant-reach-oculus-runtime-service-how-to-fix-your-oculus-rift/"><u>Can’t Reach Oculus Runtime Service? How to Fix Your Oculus Rift</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808291102-cant-remove-printer-on-windows-solved/"><u>Can't Remove Printer on Windows [Solved]</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/digiarty-software-die-losung-fur-hochwertige-dvd-video-konvertierung/"><u>Digiarty Software: Die Lösung Für Hochwertige DVD-Video Konvertierung</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-intelligent-nvme-driver-software-fast-and-simple-installation/"><u>Download Intelligent NVMe Driver Software - Fast and Simple Installation</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/free-online-converter-ts-to-wmv-movavi/"><u>Free Online Converter: TS to WMV - Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Oppo Reno 9A? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-to-network-or-not-a-detailed-guide-for-youtubers-considering-mncs/"><u>In 2024, To Network, Or Not A Detailed Guide for YouTubers Considering MNCs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808341857-rapid-fire-direct3d-acquisition-made-easy/"><u>Rapid-Fire Direct3D Acquisition Made Easy!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-halting-all-updates-on-your-windows-10-system/"><u>Ultimate Guide: Halting All Updates on Your Windows 10 System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unplugged-gaming-success-essential-tips-for-streamlined-steam-games-in-offline-mode/"><u>Unplugged Gaming Success: Essential Tips for Streamlined Steam Games in Offline Mode</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upcoming-upgrades-like-the-long-awaited-transition-to-ethereum-20-with-its-proof-of-stake-consensus-mechanism-sharding-and-scalability-improvements/"><u>Upcoming Upgrades Like the Long-Awaited Transition to Ethereum 2.0 with Its Proof-of-Stake Consensus Mechanism, Sharding, and Scalability Improvements</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/win-10-compatibility-issue-solved-making-seagate-extermal-hdds-appear-on-your-pc/"><u>Win 10 Compatibility Issue Solved! Making Seagate Extermal HDDs Appear on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-10-couldnt-be-installed-error-code-80240020-solved/"><u>Windows 10 Couldn’t Be Installed Error Code 80240020 [Solved]</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-navigating-the-maze-of-multi-service-playlist-transfer/"><u>[New] Navigating the Maze of Multi-Service Playlist Transfer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-video-sources-and-uploading-on-instagram/"><u>[New] Navigating Video Sources and Uploading on Instagram</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-stepwise-methodology-for-launching-a-discord-channel/"><u>2024 Approved Stepwise Methodology for Launching a Discord Channel</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhancing-video-content-through-effective-use-of-cardsannotations-for-2024/"><u>Enhancing Video Content Through Effective Use of Cards/Annotations for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-does-android-utilize-cognitive-computing-for-smarter-performance/"><u>How Does Android Utilize Cognitive Computing for Smarter Performance?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-recover-access-after-an-instagram-account-suspension-essential-tips-and-tricks/"><u>How to Recover Access After an Instagram Account Suspension – Essential Tips and Tricks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y17s-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y17s Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximize-efficiency-with-wmp-for-audio-conversion-for-2024/"><u>Maximize Efficiency with WMP for Audio Conversion for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pc-strategies-mastering-the-game-of-pokemon-unite/"><u>PC Strategies: Mastering the Game of Pokémon Unite</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-restore-display-of-comments-in-your-youtube-comment-section/"><u>Steps to Restore Display of Comments in Your YouTube Comment Section</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-iphone-users-handbook-for-stopping-unwanted-sms-and-regaining-peace-of-mind/"><u>The iPhone User's Handbook for Stopping Unwanted SMS and Regaining Peace of Mind</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-making-the-most-out-of-live-photos-in-ios-16/"><u>The Ultimate Tutorial for Making the Most Out of Live Photos in iOS 16</u></a></li>
 </ul></div>
 

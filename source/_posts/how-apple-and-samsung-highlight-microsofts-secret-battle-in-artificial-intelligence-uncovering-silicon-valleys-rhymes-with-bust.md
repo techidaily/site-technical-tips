@@ -1,7 +1,7 @@
 ---
 title: How Apple and Samsung Highlight Microsoft's Secret Battle in Artificial Intelligence – Uncovering Silicon Valley’s Rhymes with Bust!
-date: 2024-10-24T07:04:25.789Z
-updated: 2024-10-24T17:05:30.038Z
+date: 2024-10-27T20:43:04.663Z
+updated: 2024-10-30T16:26:01.620Z
 tags:
   - apple
 categories:
@@ -71,23 +71,28 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-beginners-guide-to-premium-gopro-accessories/"><u>[New] In 2024, Beginner’s Guide to Premium GoPro Accessories</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-skillful-shortcuts-quick-background-elimination-tactics/"><u>2024 Approved Skillful Shortcuts Quick Background Elimination Tactics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-revolution-can-chatgpt-powered-technologies-replace-human-employment-in-various-sectors/"><u>AI Revolution: Can ChatGPT-Powered Technologies Replace Human Employment in Various Sectors?</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/breaking-tech-news-stellar-introduces-revolutionary-image-retrieval-and-correction-software/"><u>Breaking Tech News: Stellar Introduces Revolutionary Image Retrieval and Correction Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-download-of-updated-drivers-for-hp-laserjet-amoindprinters-1320-series-on-windows-devices/"><u>Easy Download of Updated Drivers for HP LaserJet amoindPrinters, 1320 Series on Windows Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-methods-to-transform-any-website-page-into-a-pdf-file/"><u>Free Methods to Transform Any Website Page Into a PDF File</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/getting-started-with-microsoft-365-a-user-friendly-guide-to-setting-up-on-windows-systems/"><u>Getting Started with Microsoft 365: A User-Friendly Guide to Setting Up on Windows Systems</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/izing-channel-visibility-banner-size-and-art-dimensions-explained-for-2024/"><u>Maximizing Channel Visibility Banner Size and Art Dimensions Explained for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-pdf-to-epub-conversion-software-the-ultimate-guide/"><u>Top Rated PDF-to-EPUB Conversion Software: The Ultimate Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-your-library-of-freebies-exclusive-ebooks-and-must-have-tools-for-free/"><u>Unlock Your Library of Freebies – Exclusive eBooks and Must-Have Tools for Free</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-knowledge-a-comprehensive-tutorial-on-drm-free-ebook-conversion-for-page-12-and-beyond/"><u>Unlocking Knowledge: A Comprehensive Tutorial on DRM-Free eBook Conversion for Page 12 and Beyond</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-fine-tuning-release-timings-for-podcasts-for-2024/"><u>[New] Fine-Tuning Release Timings for Podcasts for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-streamlined-browsing-with-google-chromes-latest-update-for-android-minimize-tabs-effortlessly/"><u>Experience Streamlined Browsing with Google Chrome's Latest Update for Android - Minimize Tabs Effortlessly!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/google-declares-chrome-as-the-quickest-browser-in-latest-ranking/"><u>Google Declares Chrome as the Quickest Browser in Latest Ranking</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-realme-c53-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme C53 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-easy-steps-to-master-volume-control-transitions/"><u>In 2024, Easy Steps to Master Volume Control Transitions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-filters-a-comprehensive-guide-for-2024/"><u>Instagram Filters A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/introducing-zoom-the-new-alternative-to-google-docs/"><u>Introducing Zoom: The New Alternative to Google Docs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/may-30th-new-york-times-connecting-insights-and-answers-uncover-the-secrets-of-354/"><u>May 30Th New York Times Connecting Insights & Answers: Uncover the Secrets of #354!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/printer-free-document-printing-effective-alternatives/"><u>Printer-Free Document Printing: Effective Alternatives</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-play-40c-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor Play 40C Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-this-daily-nytimes-brain-teaser-connect-the-dots-insight-for-jul-24th-409/"><u>Solve This! Daily NYTimes Brain Teaser - Connect The Dots, Insight for Jul. 24Th (#409)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tutorial-crafting-captivating-slideshows-for-tiktok-users/"><u>Tutorial: Crafting Captivating Slideshows for TikTok Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-list-where-to-pull-off-ringtone-files-for-2024/"><u>Ultimate List Where To Pull Off Ringtone Files for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-w11s-print-management-secrets-max-56-chars/"><u>Unveiling W11’s Print Management Secrets (Max 56 Chars)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-video-editing-face-off-premiere-pro-vs-after-effects-whats-the-best-choice/"><u>Updated In 2024, Video Editing Face-Off Premiere Pro vs After Effects - Whats the Best Choice?</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

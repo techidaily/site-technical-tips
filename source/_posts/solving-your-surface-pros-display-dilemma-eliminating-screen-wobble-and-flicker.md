@@ -1,7 +1,7 @@
 ---
 title: "Solving Your Surface Pro's Display Dilemma: Eliminating Screen Wobble & Flicker"
-date: 2024-10-22T11:02:20.160Z
-updated: 2024-10-24T21:46:53.184Z
+date: 2024-10-23T19:10:26.064Z
+updated: 2024-10-31T07:25:56.299Z
 categories:
   - BestProducts
 description: "This Article Describes Solving Your Surface Pro's Display Dilemma: Eliminating Screen Wobble & Flicker"
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/948ca341d15cde5d0f54616ed06f4255209470f04
  Other Surface devices can have problems that are perceived as screen flickering. If you don't own a Surface Pro 4, the problem probably isn't caused by a hardware defect, so the additional fixes in this article are more likely to resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Fix Surface Pro Screen Shaking and Flickering
@@ -37,18 +37,6 @@ thumbnail: https://thmb.techidaily.com/948ca341d15cde5d0f54616ed06f4255209470f04
 1. Turn off automatic brightness adjustments. Right-click on the Windows desktop and select**Display Settings** . A window will open, and a checkbox labeled**Change brightness automatically when lighting changes** appears near the top of it. De-select the checkbox.  
 ![Display settings in Microsoft Windows 10.](https://www.lifewire.com/thmb/ReZ2XirBPkgMNJ2U0JdtvRoNjQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-FixSurfaceProScreenShakingandFlickering-annotated-67bf52e272534991821edafbefd462eb.jpg)
 2. [Roll back your display driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) . This will uninstall the current driver and replace it with an older version, fixing the issue if the cause is a bug in a new display driver.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-3. [Run Windows Update](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . This will install all Windows bug fixes and the latest drivers for your Surface device.
-4. [Perform a "two-button shutdown" of your Surface Pro](https://www.thewindowsclub.com/surface-pro-two-button-shutdown) . This will force the device to reboot Windows instead of hibernating.
-5. [Factory reset your Surface Device](https://www.lifewire.com/how-to-factory-reset-surface-pro-laptop-book-4175122) . This will clear up any software or driver conflicts causing screen flicker.
-6. [Connect your Surface Pro to an external monitor](https://www.lifewire.com/connect-surface-pro-to-a-monitor-5112683) . This does not fix the issue with the Surface Pro's display but, if it's caused by a hardware defect in the display itself, the issue won't appear on an external monitor.
 
 <!-- affiliate ads begin -->
 <span id="1977006">
@@ -61,6 +49,18 @@ thumbnail: https://thmb.techidaily.com/948ca341d15cde5d0f54616ed06f4255209470f04
 	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+3. [Run Windows Update](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . This will install all Windows bug fixes and the latest drivers for your Surface device.
+4. [Perform a "two-button shutdown" of your Surface Pro](https://www.thewindowsclub.com/surface-pro-two-button-shutdown) . This will force the device to reboot Windows instead of hibernating.
+5. [Factory reset your Surface Device](https://www.lifewire.com/how-to-factory-reset-surface-pro-laptop-book-4175122) . This will clear up any software or driver conflicts causing screen flicker.
+6. [Connect your Surface Pro to an external monitor](https://www.lifewire.com/connect-surface-pro-to-a-monitor-5112683) . This does not fix the issue with the Surface Pro's display but, if it's caused by a hardware defect in the display itself, the issue won't appear on an external monitor.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Freezer Trick: Not Recommended
@@ -105,24 +105,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/12-innovative-online-platforms-to-elevate-your-facebook-cover-pics-for-2024/"><u>12 Innovative Online Platforms to Elevate Your Facebook Cover Pics for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-user-friendly-walkthrough-seamless-driver-rejuvenation-for-your-dell-g7s-gpu/"><u>A User-Friendly Walkthrough: Seamless Driver Rejuvenation for Your Dell G7's GPU</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-tutorial-on-reinitializing-your-samsung-home-theater-system/"><u>Complete Tutorial on Reinitializing Your Samsung Home Theater System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-solutions-to-fix-lenovo-functional-key-failures-step-by-step-tips/"><u>Easy Solutions to Fix Lenovo Functional Key Failures - Step-by-Step Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exciting-puzzle-quests-for-your-apple-tablet-inspired-by-the-room-and-myst-series/"><u>Exciting Puzzle Quests for Your Apple Tablet – Inspired by The Room and Myst Series</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/free-winx-mediatrans-trial-effortless-file-management-and-synchronization-between-iphone-android-and-pc-no-itunes-required/"><u>Free WinX MediaTrans Trial: Effortless File Management & Synchronization Between iPhone, Android, and PC - No iTunes Required!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-cinema-to-solo-listening-distinguishing-between-home-theater-systems-and-stereo-receivers/"><u>From Cinema to Solo Listening: Distinguishing Between Home Theater Systems and Stereo Receivers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-setting-up-auto-sending-of-sms-via-iphone/"><u>Guide: Setting Up Auto-Sending of SMS via iPhone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-honor-magic-5-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Honor Magic 5 Pro without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/jujutsu-kaisens-tiktok-a-creative-journey/"><u>Jujutsu Kaisen's TikTok A Creative Journey</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mac-users-faq-configuring-your-mail-preferences-with-trusted-domains/"><u>Mac Users' FAQ: Configuring Your Mail Preferences with Trusted Domains</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/operational-handling-of-srt-in-oses-for-2024/"><u>Operational Handling of SRT in OSes for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-not-launching-hurdles-in-call-of-duty-warzone/"><u>Overcoming 'Not Launching' Hurdles in Call of Duty: Warzone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/protect-and-secure-july-2flye-2024-list-of-standard-netgear-account-credentials/"><u>Protect and Secure: July 2Flye 2024 List of Standard Netgear Account Credentials</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-how-to-dislike-all-music-on-spotify/"><u>Step-by-Step Tutorial: How to Dislike All Music on Spotify</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-household-safety-solutions/"><u>Top-Rated Household Safety Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-most-effective-5-pinterest-auto-scheduling-solutions/"><u>Unveiling the Most Effective 5 Pinterest Auto-Scheduling Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-akasa-gecko-a-top-notch-blow-cooler-for-your-ssd-reviewed-here/"><u>Unveiling the Power of Akasa Gecko: A Top-Notch Blow Cooler for Your SSD Reviewed Here!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-do-when-you-encounter-an-nspr4dll-file-not-found-issue/"><u>What to Do When You Encounter an Nspr4.dll File Not Found Issue</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-future-proofing-in-the-metaverse-essential-device-lineup/"><u>[New] In 2024, Future-Proofing in the Metaverse Essential Device Lineup</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-dissecting-splitcam-a-video-recorder-standout-analysis/"><u>[Updated] In 2024, Dissecting SplitCam A Video Recorder Standout Analysis</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mobile-marketing-mastery-easy-steps-to-create-your-own-youtube-channel-for-2024/"><u>[Updated] Mobile Marketing Mastery Easy Steps to Create Your Own YouTube Channel for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-streamline-document-creation-with-microsoft-word-speech-recognition/"><u>[Updated] Streamline Document Creation with Microsoft Word Speech Recognition</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/comprehensively-understanding-hands-directive-controls-for-2024/"><u>Comprehensively Understanding Hands' Directive Controls for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-features-and-functionality-of-rtx-graphics-hardware/"><u>Exploring the Features and Functionality of RTX Graphics Hardware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-textbooks-to-playlists-a-beginners-guide-to-landing-a-discounted-spotify-account-for-college-students/"><u>From Textbooks to Playlists - A Beginner's Guide to Landing a Discounted Spotify Account for College Students</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-on-correcting-shell32dll-error-when-its-not-located-on-your-pc/"><u>Guide on Correcting 'Shell32.dll' Error when It’s Not Located on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-repair-microsoft-edge-when-its-not-responding-or-working-properly/"><u>How to Repair Microsoft Edge When It's Not Responding or Working Properly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-hot-30-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Infinix Hot 30 5G Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mobile-mastery-secure-your-favorite-igtv-content-easily/"><u>In 2024, Mobile Mastery Secure Your Favorite IGTV Content Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-hosted-network-setup-on-windows-11-from-difficulties-to-seamless-connectivity/"><u>Mastering Hosted Network Setup on Windows 11: From Difficulties to Seamless Connectivity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-world-of-samsung-television-programming-apps/"><u>Navigating the World of Samsung Television Programming Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-make-every-frame-count-best-1080p-video-editing-software-for-film-quality-results/"><u>New Make Every Frame Count Best 1080P Video Editing Software for Film-Quality Results</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-overcoming-black-screen-issues-in-facetime-video-chats/"><u>Troubleshooting Tips: Overcoming Black Screen Issues in FaceTime Video Chats</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-trick-for-linking-up-your-playstation-consoles-gamepad/"><u>Ultimate Trick for Linking Up Your PlayStation Console's Gamepad</u></a></li>
 </ul></div>
 

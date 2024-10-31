@@ -1,7 +1,7 @@
 ---
 title: Top 36 Unbeatable Tablet Bargains on Prime Day 2024 - Active Discounts Revealed by ZDNet
-date: 2024-10-22T21:19:17.497Z
-updated: 2024-10-24T20:38:14.019Z
+date: 2024-10-25T22:14:07.539Z
+updated: 2024-10-30T21:34:38.027Z
 tags:
   - apple
 categories:
@@ -97,10 +97,10 @@ Kayla Solino/ZDNET
 * [OtterBox Defender Series Case for iPad Mini for $58 (save $12)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOTTERBOX-DEFENDER-Case-iPad-Mini%2Fdp%2FB09QT66TB6%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C82aa2b23-af14-40b5-aa12-35387934adb6%7Cdtp&dtb=1): This rugged case will protect your iPad Mini from drops, debris, dust, and dirt.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More Prime Day tablet deals still available
@@ -123,10 +123,10 @@ June Wan/ZDNET
 * [Acer Enduro T1 Rugged Tablet for $270 (save $80)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-ET108-11A-80PZ-Octa-Core-Processor-Handstrap%2Fdp%2FB08G8WYYFW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C82aa2b23-af14-40b5-aa12-35387934adb6%7Cdtp&dtb=1): This tablet is tested against MIL-STD-810G standards and is resistant to drops from up to 4 feet high as well as moisture, dirt, shocks, and extreme temperatures.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -135,32 +135,26 @@ June Wan/ZDNET
 
 Amazon Prime Day is a two-day sales event for Prime members. This year, sales were live from Tuesday, July 16, through Wednesday, July 17.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Are tablets really cheaper on Prime Day?
 
 Yes. Prime Day is a great time to look for deals on tablets that aren't usually on sale, such as iPads or Kindles.
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
 ZDNET only recommends the devices we can stand behind, so when we say you're getting a good deal, we want to ensure your hard-earned money goes towards excellent value. To choose the top deals, we comb through the best sales available and make thorough price comparisons with historical data, combined with our personal experience with these products, to determine which ones are worth buying. Our hope is to help you make the best choice to stretch your dollar.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
@@ -227,21 +221,21 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-navigating-networked-video-streaming-with-vlc/"><u>[New] Navigating Networked Video Streaming with VLC</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-leveraging-ergonomics-for-superior-team-dynamics-in-the-workplace-for-2024/"><u>[Updated] Leveraging Ergonomics for Superior Team Dynamics in the Workplace for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-igtv-vs-youtube-should-video-content-creators-use-one-platform-or-the-other/"><u>2024 Approved IGTV VS YouTube Should Video Content Creators Use One Platform or The Other?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/citing-generative-pre-trained-transformer-models-like-chatgpt-correctly/"><u>Citing Generative Pre-Trained Transformer Models Like ChatGPT Correctly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deactivating-sleep-on-new-windows-keys-and-mice/"><u>Deactivating Sleep on New Windows: Keys & Mice</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-the-5-premier-clickers-for-non-rooted-android-smartphones/"><u>Discover the Ultimate List: The 5 Premier Clickers for Non-Rooted Android Smartphones</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-writing-permission-failure-in-windows-10-and-11/"><u>Fixing Writing Permission Failure in Windows 10 & 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/handling-the-ai-moderation-issue-a-guide-for-chatgpt-users/"><u>Handling the AI Moderation Issue: A Guide for ChatGPT Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-horizontal-lines-on-a-computer-screen/"><u>How to Fix Horizontal Lines on a Computer Screen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-exploring-the-influence-of-luts-on-digital-imagery-quality/"><u>In 2024, Exploring the Influence of LUTs on Digital Imagery Quality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-process-for-handling-libxml2dll-file-missing-errors-successfully/"><u>Step-by-Step Process for Handling 'libxml2.dll File Missing' Errors Successfully</u></a></li>
-<li><a href="https://win-best.techidaily.com/the-ultimate-tutorial-for-restoring-accidentally-erased-pictures-in-google-photos/"><u>The Ultimate Tutorial for Restoring Accidentally Erased Pictures in Google Photos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/top-10-memes-blending-hilarity-and-emotional-depth-on-insta-for-2024/"><u>Top 10 Memes Blending Hilarity and Emotional Depth on Insta for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unraveling-the-mystery-of-missing-pages-online-effective-ways-to-address-http-404-issues/"><u>Unraveling the Mystery of Missing Pages Online: Effective Ways to Address HTTP 404 Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-do-when-mfc71dll-is-absent-easy-repair-strategies-inside/"><u>What to Do When Mfc71.dll Is Absent? Easy Repair Strategies Inside</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-direct-capture-screen-record-on-pcmac-plus-youtube-upload/"><u>[New] 2024 Approved Direct Capture Screen Record on PC/Mac + YouTube Upload</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-8-must-have-macbook-wallpaper-apps/"><u>[New] 8 Must-Have MacBook Wallpaper Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/treamline-content-summaries-top-templates-examples-for-2024/"><u>[New] Streamline Content Summaries Top Templates Examples for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-fixes-for-stuck-instagram-videos/"><u>[Updated] In 2024, Mastering Fixes for Stuck Instagram Videos</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-apple-iphone-11-pro-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 11 Pro Activation Lock</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macbook-showdown-in-depth-review-of-macbook-pro-vs-macbook-air-to-find-your-ideal-device/"><u>MacBook Showdown: In-Depth Review of MacBook Pro Vs. MacBook Air to Find Your Ideal Device</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/palette-playbook-utilizing-theoretical-knowledge-for-2024/"><u>Palette Playbook Utilizing Theoretical Knowledge for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-your-iphone-from-being-located-via-journal-app-a-step-by-step-guide-tech-insights/"><u>Secure Your iPhone From Being Located via Journal App: A Step-by-Step Guide | Tech Insights</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simplify-your-system-ultimate-guide-to-windows-update-drivers/"><u>Simplify Your System: Ultimate Guide to Windows Update Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/strategic-shopping-tips-the-five-main-points-to-contemplate-before-getting-a-gaming-device/"><u>Strategic Shopping Tips: The Five Main Points to Contemplate Before Getting a Gaming Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/swapped-out-expensive-tech-top-affordable-xr-alternatives-to-the-apple-vision-pro-and-meta-quest-3-digital-innovation-insights/"><u>Swapped Out Expensive Tech: Top Affordable XR Alternatives to the Apple Vision Pro & Meta Quest 3 | Digital Innovation Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-battle-of-innovation-deciding-between-apple-watch-ultra-and-apple-watch-series-8-expert-reviews-and-comparison-chart/"><u>The Battle of Innovation: Deciding Between Apple Watch Ultra & Apple Watch Series #8 | Expert Reviews & Comparison Chart</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-windows-8-guide-to-powerful-movie-maker-editing-techniques-for-2024/"><u>The Windows 8 Guide to Powerful Movie Maker Editing Techniques for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1727791340345-top-rated-apple-watch-accessories-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated Apple Watch Accessories : Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleash-creativity-the-best-9-camera-accessories-for-vloggers-and-more-for-2024/"><u>Unleash Creativity The Best 9 Camera Accessories for Vloggers and More for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-full-potential-of-your-mac-with-this-ultimate-guide-to-setting-up-and-mastering-hot-corners/"><u>Unlock the Full Potential of Your Mac with This Ultimate Guide to Setting Up and Mastering Hot Corners</u></a></li>
 </ul></div>
 

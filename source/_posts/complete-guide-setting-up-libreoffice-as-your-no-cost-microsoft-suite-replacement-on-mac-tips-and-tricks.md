@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Setting Up LibreOffice as Your No-Cost Microsoft Suite Replacement on Mac - Tips & Tricks"
-date: 2024-10-23T10:08:46.723Z
-updated: 2024-10-24T21:01:55.256Z
+date: 2024-10-23T21:02:21.661Z
+updated: 2024-10-31T03:50:12.961Z
 tags:
   - apple
 categories:
@@ -55,15 +55,22 @@ It's slow-going, but at least it's… _something?_
 ## How to add your driver's license or ID to the Wallet app
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Make sure you have your physical driver's license or ID
 
 Before you start the process of adding your ID to Apple Wallet, you'll want to make sure you have your physical driver's license or ID nearby -- you'll have to scan both sides during the process. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Open the Wallet app and tap the plus sign
 
@@ -72,10 +79,10 @@ Start by opening the Wallet app, then tap on the + sign in the top-right corner 
 Screenshot by Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Scan your ID and go through a Face ID setup
@@ -85,13 +92,6 @@ The rest of the signup process consists of scanning the front and back of your c
 **Also:** [**How to use Apple Pay in stores and online**](https://www.zdnet.com/article/how-to-use-apple-pay-in-stores-and-online/)
 
 You'll be asked to hold your iPhone steady, with the front-facing camera looking at you, and then turn your head to the left until your phone vibrates. You'll then be asked to open your mouth, smile, close your eyes, and then turn your head to the right. If you move your phone too much, the process starts all over, so be steady! 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Take a photo of yourself and submit all your information to the state DMV
 
@@ -120,16 +120,10 @@ The [process is similar on the Apple Watch](https://www.youtube.com/watch?v=fFX%
 The most important part to note here is that even if someone were to try and force your iPhone to transmit your personal information, that doesn't actually happen until you've approved it using Face ID or Touch ID on your phone.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I live in New York State. Can I join the program?
@@ -172,21 +166,18 @@ The New York Mobile ID is not yet compatible with Apple Wallet, but considering 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-explore-androids-best-moba-experiences-in-10/"><u>[New] Explore Android's Best MOBA Experiences in #10</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-global-viewer-count-triumphs-play-button-honors/"><u>[Updated] 2024 Approved Global Viewer Count Triumphs Play Button Honors</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boosting-income-a-complete-guide-to-youtube-ad-profits/"><u>[Updated] In 2024, Boosting Income A Complete Guide to YouTube Ad Profits</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1727401258237-1-easy-guide-adding-images-in-jpg-format-to-your-pdf-documents-updated/"><u>1. Easy Guide: Adding Images in JPG Format to Your PDF Documents (Updated )</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-deep-dive-into-monthly-cybersecurity-fixes-demystifying-patch-tuesday/"><u>A Deep Dive Into Monthly Cybersecurity Fixes - Demystifying 'Patch Tuesday'</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719581526060-embrace-romance-saying-i-love-you-in-different-languages/"><u>Embrace Romance: Saying I Love You in Different Languages!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/emoji-mastery-for-iphone-users-tips-and-tricks-revealed/"><u>Emoji Mastery for iPhone Users: Tips & Tricks Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-guide-the-eight-superior-navigation-and-itinerary-creator-apps/"><u>Essential Guide: The Eight Superior Navigation & Itinerary Creator Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-resolve-when-your-ipad-refuses-to-locate-and-utilize-the-printer/"><u>How to Resolve When Your iPad Refuses to Locate and Utilize the Printer</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo S18 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-discover-the-top-free-android-video-editing-apps-plus-paid-options/"><u>In 2024, Discover the Top Free Android Video Editing Apps Plus Paid Options</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-free-to-profit-reaching-the-new-500-sub-total/"><u>In 2024, Free to Profit Reaching the New 500 Sub Total</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimal-mic-selection-for-professional-4k-filmmaking/"><u>Optimal Mic Selection for Professional 4K Filmmaking</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-ocidll-file-couldnt-be-loaded-a-comprehensive-guide/"><u>Resolving the 'Oci.dll File Couldn't Be Loaded': A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-4-complimentary-cad-software-choices/"><u>Top 4 Complimentary CAD Software Choices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-must-have-items-for-the-perfect-everyday-carry-edc-this-summer/"><u>Top 7 Must-Have Items for the Perfect Everyday Carry (EDC) This Summer</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-elevate-your-meetings-best-tools-to-record-zoom/"><u>[New] In 2024, Elevate Your Meetings Best Tools to Record Zoom</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-splitting-screens-evaluating-splitcams-video-quality/"><u>[New] In 2024, Splitting Screens Evaluating SplitCam's Video Quality</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-beyond-replication-innovating-virtual-reality-experiences-for-2024/"><u>[Updated] Beyond Replication Innovating Virtual Reality Experiences for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-8-tv-streaming-providers-dominating-2024/"><u>Discover the Leading 8 TV Streaming Providers Dominating 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-best-graphic-design-programs-available-in-2eighteen-options-today/"><u>Explore the Best Graphic Design Programs Available in 2Eighteen Options Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722902286715-get-the-most-out-of-your-amd-radeon-install-latest-v2eb10-drivers-today/"><u>Get the Most Out of Your AMD Radeon: Install Latest V2eb.10 Drivers Today</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-honor-magic-5-frp-bypass-by-drfone-android/"><u>In 2024, About Honor Magic 5 FRP Bypass</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcome-frozen-screen-on-your-chromebook-discover-8-fixes-that-work/"><u>Overcome Frozen Screen on Your Chromebook: Discover 8 Fixes That Work</u></a></li>
+<li><a href="https://win11.techidaily.com/supercharging-macos-via-external-windows-utilities/"><u>Supercharging macOS via External Windows Utilities</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-power-play-why-authorities-seek-to-dismantle-big-tech/"><u>The Power Play: Why Authorities Seek to Dismantle Big Tech</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-ultimate-guide-to-iphone-selfie-gear-rankings-8-for-2024/"><u>The Ultimate Guide to Iphone Selfie Gear Rankings (#8) for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-dispatching-valves-steam-gift-tokens/"><u>The Ultimate Tutorial for Dispatching Valve's Steam Gift Tokens</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-for-using-android-quick-settings-effectively/"><u>The Ultimate Walkthrough for Using Android Quick Settings Effectively</u></a></li>
 </ul></div>
 

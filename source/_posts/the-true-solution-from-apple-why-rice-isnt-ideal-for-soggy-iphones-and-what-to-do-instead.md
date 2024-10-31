@@ -1,7 +1,7 @@
 ---
 title: "The True Solution From Apple: Why Rice Isn't Ideal for Soggy iPhones and What to Do Instead!"
-date: 2024-10-23T10:10:15.227Z
-updated: 2024-10-25T03:06:15.089Z
+date: 2024-10-28T04:50:20.891Z
+updated: 2024-10-30T16:03:02.317Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -60,10 +60,10 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -77,10 +77,10 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -125,24 +125,22 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-dive-into-dreamland-asmrs-guide-for-quality-rest/"><u>[New] Dive Into Dreamland ASMR's Guide for Quality Rest</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-expert-tips-for-efficient-internet-use-the-7-finest-android-apps-for-2024/"><u>[New] Expert Tips for Efficient Internet Use The 7 Finest Android Apps for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-the-perfect-strategy-to-insert-subtitles-into-mp4-clips/"><u>[New] In 2024, The Perfect Strategy to Insert Subtitles Into MP4 Clips</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-streamline-your-tech-experience-with-top-10-free-mac-capture-apps-for-2024/"><u>[New] Streamline Your Tech Experience with Top 10 FREE Mac Capture Apps for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-integrate-spotify-and-youtube-top-5-playlist-to-channel-converters-available/"><u>[Updated] In 2024, Integrate Spotify and YouTube Top 5 Playlist-to-Channel Converters Available</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-month-ever-for-affordable-apple-watches-deals-inside/"><u>Best Month Ever for Affordable Apple Watches - Deals Inside</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-honor-magic-v2-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Honor Magic V2</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-six-most-effective-portable-translator-applications/"><u>Discover the Six Most Effective Portable Translator Applications</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-karaoke-bash-in-the-comfort-of-your-living-room-step-by-step/"><u>DIY Karaoke Bash in the Comfort of Your Living Room - Step by Step</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-techniques-to-diagnose-and-solve-biospost-errors/"><u>Effective Techniques to Diagnose and Solve BIOS/POST Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enablingdisabling-network-discovery-on-your-windows-11-pc-a-step-by-step-guide/"><u>Enabling/Disabling Network Discovery on Your Windows 11 PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-for-efficiently-undoing-changes-with-system-restore/"><u>Expert Tips for Efficiently Undoing Changes with System Restore</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-taste-the-thrill-crafting-engaging-food-network-names/"><u>In 2024, Taste the Thrill Crafting Engaging Food Network Names</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-the-new-ios-17-update-essential-for-your-iphone-or-ipad/"><u>Is the New iOS 17 Update Essential for Your iPhone or iPad?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-error-messages-a-comprehnive-solution-for-the-absence-of-binkw32dll-file/"><u>Overcoming Error Messages: A Comprehnive Solution for the Absence of Binkw32.dll File</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sequence-length-in-seconds-of-20mb-media-for-2024/"><u>Sequence Length in Seconds of 20MB Media for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-linking-your-apple-homepod-to-your-television-setup/"><u>Step-by-Step Guide: Linking Your Apple HomePod to Your Television Setup</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-case-for-chatgpt-plus-why-its-enhanced-features-make-it-worth-every-penny/"><u>The Case for ChatGPT Plus: Why Its Enhanced Features Make It Worth Every Penny</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-power-of-voice-activated-accessibility-features/"><u>Unlocking the Power of Voice-Activated Accessibility Features</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-twitter-video-downloader-how-to-download-twitter-videos-to-iphone/"><u>2024 Approved Twitter Video Downloader How to Download Twitter Videos to iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/critical-factors-to-consider-before-buying-a-game-rig/"><u>Critical Factors to Consider Before Buying a Game Rig</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-most-compelling-documentaries-with-max-july-2024-showcase/"><u>Discover the Most Compelling Documentaries with Max, July 2024 Showcase</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-top-teen-movies-to-watch-on-netflix-this-season/"><u>Discover the Top Teen Movies to Watch on Netflix This Season</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevate-your-content-with-these-25-powerful-instagram-tags/"><u>Elevate Your Content with These 25 Powerful Instagram Tags</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-every-dribble-ncaa-mens-basketball-radio-coverage-from-start-to-finish/"><u>Experience Every Dribble: NCAA Men's Basketball Radio Coverage From Start to Finish</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/finding-electric-vehicle-charge-points-with-google-maps-a-complete-guide/"><u>Finding Electric Vehicle Charge Points with Google Maps: A Complete Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-twitter-timing-a-step-by-step-guide-for-efficient-post-planning/"><u>Mastering Twitter Timing: A Step-by-Step Guide for Efficient Post Planning</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-solutions-how-to-get-your-zoom-camera-back-online/"><u>Quick Solutions: How to Get Your Zoom Camera Back Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-creativity-with-1-to-5-mac-editors-for-sierra-users-for-2024/"><u>Streamline Creativity with #1 to #5 Mac Editors for Sierra Users for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-realme-c51-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-path-to-a-liberated-chat-experience-on-win/"><u>The Path to a Liberated Chat Experience on Win</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-troubleshooting-tips-reconfiguring-your-samsung-tv/"><u>Ultimate Troubleshooting Tips: Reconfiguring Your Samsung TV</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-play-for-free-top-10-bes/"><u>Updated Play for Free Top 10 Bes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/your-smartphone-as-an-artists-canvas-producing-quality-youtube-video-content-for-2024/"><u>Your Smartphone as an Artist’s Canvas Producing Quality YouTube Video Content for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Worth It? Expert Insights on Pros and Cons Editors
-date: 2024-10-24T11:12:38.987Z
-updated: 2024-10-25T04:50:17.359Z
+date: 2024-10-25T07:00:14.929Z
+updated: 2024-10-30T21:33:22.000Z
 tags:
   - apple
 categories:
@@ -34,6 +34,13 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. The camera
 
 Perhaps one of the most important features of any smartphone these days is the camera, so it is no surprise that camera quality is a big consideration for ZDNET editors. It probably is for you, too. The iPhone 16 lineup includes a new [Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/) feature that works in landscape or portrait mode with a button on the side of the iPhone. In addition, you can lightly press the button to show camera functions you can choose from, such as zoom, exposure, or focal lengths, by swiping between the options. 
@@ -58,13 +65,6 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. For work
 
 Okay, this one comes as no surprise. There was bound to be some of us upgrading because well, we do work in tech after all, and what better way to cover Apple's iPhones than actually owning the new model yourself? So while this may not be an applicable reason for some, for those in tech it is sometimes justifiable. 
@@ -87,15 +87,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
@@ -117,10 +124,10 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
@@ -128,13 +135,6 @@ Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am st
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -176,16 +176,19 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-clarity-cluster-essential-gadgets-for-pixels-for-2024/"><u>[New] Clarity Cluster Essential Gadgets for Pixels for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-from-lurker-to-influencer-enhancing-your-facebook-experience/"><u>[Updated] 2024 Approved From Lurker to Influencer Enhancing Your Facebook Experience</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-natural-and-artificial-blending-lights-in-iphone-photos/"><u>[Updated] 2024 Approved Natural & Artificial Blending Lights in iPhone Photos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/7-premium-zero-fee-internet-faxing-applications-reviewed/"><u>7 Premium Zero-Fee Internet Faxing Applications Reviewed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-instructions-on-how-to-clear-cache-in-android-os/"><u>Comprehensive Instructions on How to Clear Cache in Android OS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-worlds-leading-online-platforms-the-ultimate-top-10-list/"><u>Exploring the World's Leading Online Platforms – The Ultimate Top 10 List</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-11-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 11? How to Fix it?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-samsung-k850u-bdplus-2023-assessment/"><u>In 2024, Samsung K850U BD+ 2023 Assessment</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/innovative-roku-techniques-controlling-your-tv-set-without-reliance-on-a-standard-remote-device/"><u>Innovative Roku Techniques: Controlling Your TV Set without Reliance on a Standard Remote Device</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mastering-mobile-camera-best-android-practices-for-2024/"><u>Mastering Mobile Camera Best Android Practices for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-3-most-important-tech-trends-to-watch/"><u>The 3 Most Important Tech Trends to Watch</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-organizing-soundtracks-formulating-a-youtube-music-list/"><u>[New] In 2024, Organizing Soundtracks Formulating a YouTube Music List</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-secrets-to-affordable-gopro-acquisitions/"><u>[Updated] In 2024, Secrets to Affordable GoPro Acquisitions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-perfect-6-apps-for-private-android-video-capturing-for-2024/"><u>[Updated] Perfect 6 Apps for Private Android Video Capturing for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-google-pixel-fold-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Google Pixel Fold?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-comparison-apples-ios-app-store-vs-google-play/"><u>Comprehensive Comparison: Apple's IOS App Store Vs. Google Play</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/digital-memory-keepers-taking-screenshots-on-xbox-one-for-2024/"><u>Digital Memory Keepers Taking Screenshots on Xbox One for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-fast-access-memory-determines-your-desktops-responsiveness/"><u>How Fast-Access Memory Determines Your Desktop's Responsiveness</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-burn-an-iso-file-onto-a-dvd-using-windows-11-8-or-7/"><u>How to Burn an ISO File Onto a DVD Using Windows 11, 8 or 7</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-honor-90-gt-easily-by-drfone-android/"><u>How To Unlock a Honor 90 GT Easily?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-ultimate-list-templates-for-youtube-previews/"><u>In 2024, Ultimate List Templates for YouTube Previews</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-languages-with-ease-reviewing-6-superior-offline-translator-apps/"><u>Navigating Languages with Ease: Reviewing 6 Superior Offline Translator Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-system-crashes-a-tutorial-on-kernel32dll-recovery/"><u>Overcoming System Crashes: A Tutorial on Kernel32.dll Recovery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-upgrading-your-ps5-with-a-solid-state-drive/"><u>Step-by-Step Guide: Upgrading Your PS5 with a Solid State Drive</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-electric-vehicles-bev-phev-fcev-and-hybrids-the-key-distinctions/"><u>Understanding Electric Vehicles: BEV, PHEV, FCEV & Hybrids - The Key Distinctions</u></a></li>
 </ul></div>
 

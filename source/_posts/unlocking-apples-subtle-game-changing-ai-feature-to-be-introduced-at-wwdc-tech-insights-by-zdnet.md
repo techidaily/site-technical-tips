@@ -1,7 +1,7 @@
 ---
 title: Unlocking Apple's Subtle, Game-Changing AI Feature to Be Introduced at WWDC | Tech Insights by ZDNet
-date: 2024-10-17T17:11:16.849Z
-updated: 2024-10-25T08:53:54.129Z
+date: 2024-10-28T20:11:40.342Z
+updated: 2024-10-30T16:06:25.017Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -66,10 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -88,6 +88,13 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -97,10 +104,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -118,13 +125,6 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -166,16 +166,16 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-prime-downloader-tools-fb-videos-and-firefox-compatible/"><u>[Updated] In 2024, Prime Downloader Tools FB Videos & FireFox Compatible</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-hdr-portraiture-comprehensive-photography-guide/"><u>[Updated] Mastering HDR Portraiture Comprehensive Photography Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fb-cover-videos-strategies-for-maximum-impact/"><u>2024 Approved FB Cover Videos Strategies for Maximum Impact</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compact-and-portable-bluetooth-speaker-ideal-for-lightweight-travel/"><u>Compact and Portable Bluetooth Speaker: Ideal for Lightweight Travel</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diagnosing-and-repairing-a-broken-touch-screen-on-an-apple-watch/"><u>Diagnosing and Repairing a Broken Touch Screen on an Apple Watch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-repairing-the-blackout-a-guide-for-clear-facetime-visuals/"><u>Expert Advice: Repairing the Blackout – A Guide for Clear FaceTime Visuals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-unsecure-connection-alert-on-firefox-browsers-effectively/"><u>Fixing the Unsecure Connection Alert on Firefox Browsers Effectively</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-itel-p55-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/o-make-video-thumbnails-for-youtube/"><u>How to Make Video Thumbnails for YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-owning-a-playstation-5-worth-your-money-discover-4-persuasive-justifications-for-the-purchase/"><u>Is Owning a PlayStation 5 Worth Your Money? Discover 4 Persuasive Justifications for the Purchase</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-setup-how-to-link-your-homepod-with-your-flat-screen-television/"><u>Master the Setup: How to Link Your HomePod with Your Flat Screen Television</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-personalizing-presents-top-ten-e-commerce-stores-for-custom-boxes/"><u>[Updated] In 2024, Personalizing Presents? Top Ten E-Commerce Stores for Custom Boxes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-honor-magic-vs-2-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Honor Magic Vs 2 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/id-beat-best-free-apps-for-downloading-youtube-tunes-for-2024/"><u>Android Beat Best Free Apps for Downloading YouTube Tunes for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/comparing-two-anglocentric-languages/"><u>Comparing Two Anglocentric Languages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-ensure-your-chromecast-runs-the-newest-version-a-users-guide/"><u>How to Ensure Your Chromecast Runs the Newest Version: A User's Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-solve-microsoft-word-documents-that-refuse-to-load/"><u>How to Solve Microsoft Word Documents That Refuse to Load</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-look-at-apple-cars-potential-pricing-timelines-and-technical-specifications/"><u>Inside Look at Apple Car's Potential Pricing, Timelines, and Technical Specifications!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-k70-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Redmi K70 Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-issues-with-the-wininetdll-file-steps-to-address-missing-and-not-found-errors/"><u>Resolving Issues with the Wininet.dll File: Steps to Address 'Missing' And 'Not Found' Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/supreme-choices-a-comprehensive-guide-to-best-ceiling-speaker-systems/"><u>Supreme Choices: A Comprehensive Guide to Best Ceiling Speaker Systems</u></a></li>
 </ul></div>
 

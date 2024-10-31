@@ -1,7 +1,7 @@
 ---
 title: "Unlock Peak Performance: Mastering Time Management Tech and Hacks for Optimized Daily Workflow | Guidance"
-date: 2024-10-24T09:26:43.512Z
-updated: 2024-10-25T00:45:21.265Z
+date: 2024-10-24T18:26:28.433Z
+updated: 2024-10-30T18:14:30.868Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,20 +134,14 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-leveraging-srt-for-improved-video-subtitles-online-presence-for-2024/"><u>[Updated] Leveraging SRT for Improved Video Subtitles Online Presence for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-msstdfmtdll-errors-strategies-to-locate-or-restore-the-missing-file/"><u>Fixing Msstdfmt.dll Errors: Strategies to Locate or Restore the Missing File</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-preventing-youtube-use-on-an-ipad-device/"><u>Guide to Preventing YouTube Use on an iPad Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fake-a-gps-location-on-your-phone/"><u>How to Fake a GPS Location on Your Phone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-gionee-f3-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Gionee F3 Pro Safely | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-tecno-spark-10c-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Tecno Spark 10C to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-honor-magic-v2-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Honor Magic V2</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-lgs-virtual-frontier-a-comprehensive-vr-review/"><u>In 2024, LG's Virtual Frontier A Comprehensive VR Review</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-shots-essential-photography-edits/"><u>In 2024, Perfect Shots Essential Photography Edits</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/our-selection-of-the-15-best-free-bootable-anti-virus-tools-online/"><u>Our Selection of the 15 Best Free Bootable Anti-Virus Tools Online</u></a></li>
-<li><a href="https://fox-that.techidaily.com/slow-mobile-internet-woes-top-10-ways-to-accelerate-your-data-speeds/"><u>Slow Mobile Internet Woes: Top 10 Ways to Accelerate Your Data Speeds</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-patch-tuesday-and-its-importance-in-cybersecurity/"><u>Understanding Patch Tuesday and Its Importance in Cybersecurity</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unveiling-the-ultimate-list-youtubes-premier-mp3-extractors-for-2024/"><u>Unveiling the Ultimate List YouTube's Premier MP3 Extractors for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-is-the-newest-generation-of-ipad/"><u>What Is the Newest Generation of iPad?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722855135758-xinput13dll-file-missing-heres-how-you-can-resolve-it/"><u>xinput1_3.dll File Missing? Here's How You Can Resolve It</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-leading-10-online-history-educators-on-youtube/"><u>[Updated] 2024 Approved The Leading 10 Online History Educators on Youtube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-tailoring-photos-with-photoshops-dynamic-motion-blur-feature-for-2024/"><u>[Updated] Tailoring Photos with Photoshop's Dynamic Motion Blur Feature for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-compreayers-blueprint-to-fb-image-security/"><u>A Compreayer's Blueprint to Fb Image Security</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-launch-insights-and-forecasts-on-the-google-pixel-watch-series-4-pricing-release-timeline-and-latest-leaks/"><u>Anticipating the Launch: Insights & Forecasts on the Google Pixel Watch Series 4 - Pricing, Release Timeline, and Latest Leaks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/buying-a-projector-top-5-things-you-should-know-first/"><u>Buying a Projector? Top 5 Things You Should Know First</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/combat-display-defects-how-to-eliminate-color-inaccuracies-and-visual-irregularities-on-your-desktop-monitor/"><u>Combat Display Defects: How To Eliminate Color Inaccuracies & Visual Irregularities on Your Desktop Monitor</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722895111916-do-you-really-need-a-dac-for-superior-sound-quality-find-out-here/"><u>Do You Really Need a DAC for Superior Sound Quality? Find Out Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-setup-brother-hl-3170cdw-driver-software-in-minutes/"><u>Download & Setup: Brother HL-^3170cdw Driver Software in Minutes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204656130-ultimate-fix-guide-say-goodbye-to-csgo-freezes-and-crashes-fast/"><u>Ultimate Fix Guide: Say Goodbye to CSGO Freezes & Crashes Fast</u></a></li>
 </ul></div>
 

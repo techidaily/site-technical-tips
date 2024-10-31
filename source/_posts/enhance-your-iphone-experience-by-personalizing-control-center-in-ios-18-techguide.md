@@ -1,7 +1,7 @@
 ---
 title: Enhance Your iPhone Experience by Personalizing Control Center in iOS 18 | TechGuide
-date: 2024-10-20T20:14:58.363Z
-updated: 2024-10-24T20:15:52.947Z
+date: 2024-10-26T21:00:42.487Z
+updated: 2024-10-31T05:45:44.346Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -44,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -57,6 +50,13 @@ You can move any of the current controls on the first screen. To start, tap the 
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Resize a control
 
@@ -71,10 +71,16 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -92,10 +98,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,19 +140,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-8-top-video-screen-grabbers/"><u>[New] 2024 Approved 8 Top Video Screen Grabbers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-a-compreran-analysis-asus-proart-pa-329qs-innovations-in-4k-monitoring/"><u>[New] A Compreran Analysis Asus ProArt PA 329Q’s Innovations in 4K Monitoring</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-step-by-step-pathway-to-youtube-mastery/"><u>[Updated] In 2024, The Step-by-Step Pathway to YouTube Mastery</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-picture-paradise-expertly-selected-plugins-and-sites-for-frame-upgrades/"><u>2024 Approved Picture Paradise Expertly Selected Plugins & Sites for Frame Upgrades</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-pristine-teaser-trailer-trove/"><u>2024 Approved Pristine Teaser Trailer Trove</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-securing-fb-videos-download-on-pcmac-systems/"><u>2024 Approved Securing FB Videos Download on PC/Mac Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/code-ntrouble-resolution-tips-and-techniques/"><u>Code Ntrouble Resolution Tips and Techniques</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-v27-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo V27 Phone When You Forget the Password</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leading-wireless-network-enhancers-maximizing-your-internet-reach/"><u>Leading Wireless Network Enhancers: Maximizing Your Internet Reach</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/monitoring-mobile-and-internet-data-use-top-tips-and-techniques/"><u>Monitoring Mobile and Internet Data Use: Top Tips & Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigate-through-the-best-tv-streaming-subscriptions-of-2024-a-comprehensive-ranking/"><u>Navigate Through the Best TV Streaming Subscriptions of 2024: A Comprehensive Ranking</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-opengl32dll-file-absence-issues-on-your-pc/"><u>Resolving OpenGL32.dll File Absence Issues on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-capturing-a-screen-on-your-hp-laptop/"><u>Step-by-Step Guide: Capturing a Screen on Your HP Laptop</u></a></li>
+<li><a href="https://win11.techidaily.com/7-key-approaches-to-cure-the-ailing-windows-service-control-panel/"><u>7 Key Approaches to Cure the Ailing Windows Service Control Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplify-graphics-memory-a-comprehensive-guide-to-supercharging-win1011/"><u>Amplify Graphics Memory - A Comprehensive Guide to Supercharging Win10/11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-movie-streaming-websites-for-children-offering-films-at-no-cost/"><u>Discover the Best Movie Streaming Websites for Children, Offering Films at No Cost</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-ps5-enthusiasts-guide-replacing-hdd-with-a-high-speed-solid-state-drive/"><u>DIY PS5 Enthusiast's Guide: Replacing HDD with a High-Speed Solid State Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-win11s-notepad-via-virtue-coach/"><u>Elevate Win11's Notepad via Virtue Coach</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-msvbvm50dll-not-found-a-step-by-step-guide/"><u>Resolving the 'Msvbvm50.dll Not Found' - A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revitalize-your-browsers-performance-effective-cache-clearing-techniques-for-major-browsers/"><u>Revitalize Your Browser's Performance: Effective Cache-Clearing Techniques for Major Browsers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-fixes-for-chromecast-audio-problems-get-started-now/"><u>The Ultimate Fixes for Chromecast Audio Problems - Get Started Now!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/tips-and-tricks-for-professional-audio-in-audacity-for-2024/"><u>Tips and Tricks for Professional Audio in Audacity for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-enabling-closed-captions-on-your-roku-device/"><u>Troubleshooting Guide: Enabling Closed Captions on Your Roku Device</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ultimate-win10-screen-and-video-recording-tool-for-2024/"><u>Ultimate Win10 Screen & Video Recording Tool for 2024</u></a></li>
 </ul></div>
 

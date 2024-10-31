@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up LibreOffice as Your Preferred Open Source Suite on Mac"
-date: 2024-10-23T19:33:18.324Z
-updated: 2024-10-25T07:35:09.424Z
+date: 2024-10-28T19:26:37.620Z
+updated: 2024-10-30T17:15:34.458Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
@@ -57,6 +64,13 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##   
 
@@ -71,13 +85,6 @@ Screenshot by David Gewirtz/ZDNET
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
@@ -98,16 +105,10 @@ Screenshot by David Gewirtz/ZDNET
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
@@ -131,10 +132,10 @@ So, make sure you set the Start and End times that fit with your schedule.
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Enable Slack notifications in the Watch app
@@ -146,13 +147,6 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -193,18 +187,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-beginners-guide-to-all-things-vector-images-overview-types-and-software-choices/"><u>[New] Beginner’s Guide to All Things Vector Images- Overview, Types, and Software Choices</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigating-the-world-of-android-video-snapshots-for-2024/"><u>[New] Navigating the World of Android Video Snapshots for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enjoying-roku-channels-even-if-you-dont-have-a-roku-player-tips-and-tricks/"><u>Enjoying Roku Channels Even If You Don't Have a Roku Player: Tips & Tricks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-top-free-video-conferencing-apps-of-2nndy-four-alternatives-to-skype/"><u>Explore Top Free Video Conferencing Apps of 2Nndy Four - Alternatives To Skype</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-determine-your-macbooks-operating-temperature-a-comprehensive-guide/"><u>How to Determine Your MacBook’s Operating Temperature: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-merge-playlists-on-spotify/"><u>How to Merge Playlists on Spotify</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-play-8t-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor Play 8T?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-advanced-techniques-for-implementing-luts-in-creative-suite/"><u>In 2024, Advanced Techniques for Implementing LUTs in Creative Suite</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-12-pro-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme 12 Pro 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/metaverse-laughs-creating-viral-digital-cartoons-for-2024/"><u>Metaverse Laughs Creating Viral Digital Cartoons for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-tecno-pop-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tips-for-speeding-up-your-sluggish-internet/"><u>Top Tips for Speeding Up Your Sluggish Internet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-11-nightmare-unraveled-proven-solutions-to-tackle-the-ominous-black-screen-fault/"><u>Windows 11 Nightmare Unraveled: Proven Solutions to Tackle the Ominous Black Screen Fault</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-crafting-content-conversations-connecting-with-subscribers-for-2024/"><u>[New] Crafting Content Conversations Connecting With Subscribers for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-harmony-hub-innovations-showcased/"><u>[New] Harmony Hub Innovations Showcased</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-new-layer-on-sony-s3700-blu-ray-play/"><u>[New] New Layer on Sony S3700 Blu-Ray PLAY</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-ultimate-iphone-video-editor-comparison-cameo-or-filmorago/"><u>2024 Approved Ultimate iPhone Video Editor Comparison Cameo or FilmoraGo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-top-8-converter-list-for-sub-to-srt/"><u>2024 Approved Ultimate Top 8 Converter List for Sub to SRT</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/avoiding-constant-printer-service-interruptions-on-win7win10/"><u>Avoiding Constant Printer Service Interruptions on Win7/Win10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-between-iphone-16-and-iphone-15-key-features-for-the-latest-generation-zdnet/"><u>Choosing Between iPhone 16 and iPhone 15: Key Features for the Latest Generation - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/compare-and-contrast-apples-cutting-edge-airpods-4-models-with-in-depth-analysis/"><u>Compare & Contrast Apple's Cutting-Edge AirPods 4 Models with In-Depth Analysis</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ffmpeg-conversion-guide-transforming-flac-files-into-mp3-format/"><u>FFmpeg Conversion Guide: Transforming FLAC Files Into MP3 Format</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-pro-showdown-unraveling-differences-between-m1-vs-m2-variants-find-your-perfect-match/"><u>IPad Pro Showdown: Unraveling Differences Between M1 Vs. M2 Variants - Find Your Perfect Match!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/july-2ebr-2024-apple-savings-guide-unbeatable-prices-on-iphones-apple-watches-and-ipads-find-all-the-best-deals-at-zdnet/"><u>July 2Ebr 2024 Apple Savings Guide: Unbeatable Prices on iPhones, Apple Watches & iPads | Find All the Best Deals at ZDNET</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximize-views-with-these-14-premier-youtube-gaming-videos-for-2024/"><u>Maximize Views with These 14 Premier YouTube Gaming Videos for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/story-2-the-confusion-with-immune-complex-diseases-answer-c/"><u>Story 2: The Confusion with Immune Complex Diseases (Answer C)</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/system-compatibility-check/"><u>System Compatibility Check:</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-trailblazers-reshuffle-as-samsungs-galaxy-ai-rises-challenging-google-after-antitrust-verdict-in-the-innovation-league-table/"><u>Tech Trailblazers Reshuffle as Samsung's Galaxy AI Rises, Challenging Google After Antitrust Verdict in the Innovation League Table</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-brilliance-within-discover-10-exceptional-features-of-the-apple-vision-pro-digitalworld-blog/"><u>The Brilliance Within: Discover 10 Exceptional Features of the Apple Vision Pro | DigitalWorld Blog</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnets-picks-for-the-ultimate-mac-lineup-of-2024-features-and-reviews/"><u>ZDNet's Picks for the Ultimate Mac Lineup of 2024 - Features & Reviews</u></a></li>
 </ul></div>
 

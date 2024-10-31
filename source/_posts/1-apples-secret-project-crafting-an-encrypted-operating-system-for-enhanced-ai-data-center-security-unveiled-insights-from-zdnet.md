@@ -1,7 +1,7 @@
 ---
 title: "1. Apple's Secret Project: Crafting an Encrypted Operating System for Enhanced AI Data Center Security – Unveiled Insights From ZDNet"
-date: 2024-10-20T08:45:16.213Z
-updated: 2024-10-25T06:48:12.701Z
+date: 2024-10-27T18:17:03.004Z
+updated: 2024-10-30T20:33:11.867Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +89,10 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,20 +133,19 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-melody-meets-momentum-harmonizing-sound-with-imagery-for-2024/"><u>[New] Melody Meets Momentum Harmonizing Sound with Imagery for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-seamless-iphone-photo-and-video-transfers-guide-for-2024/"><u>[New] Seamless iPhone Photo & Video Transfers Guide for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-honor-v-purse-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Honor V Purse? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-unveil-your-gaming-identity-code-on-steam/"><u>How to Unveil Your Gaming Identity Code on Steam</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-color-your-skies-dji-mini-2-and-air-2s-luts-complimentary-offer/"><u>In 2024, Color Your Skies – DJI Mini 2 & Air 2S LUTS Complimentary Offer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-electrified-cars-how-do-battery-powered-plug-in-hydrogen-cell-and-hybrid-vehicles-stack-up/"><u>Navigating the World of Electrified Cars: How Do Battery-Powered, Plug-In, Hydrogen Cell, and Hybrid Vehicles Stack Up?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-quickly-accessing-the-control-panel-on-your-windows-8-pc/"><u>Step-by-Step Guide: Quickly Accessing the Control Panel on Your Windows 8 PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-customizing-display-options-for-windows-11-users/"><u>Step-by-Step Tutorial on Customizing Display Options for Windows 11 Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tech-savvy-guide-effortless-screen-shots-with-your-toshiba-laptop-explained/"><u>Tech Savvy Guide: Effortless Screen Shots with Your Toshiba Laptop Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-vpn-services-ideal-for-enhanced-privacy-on-youtube/"><u>Top 5 VPN Services Ideal for Enhanced Privacy on YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-skype-not-connecting-in-windows-10-top-5-easy-to-follow-fixes/"><u>Troubleshooting Skype Not Connecting in Windows 10: Top 5 Easy-to-Follow Fixes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-to-revive-and-restart-your-frozen-computer-in-windows-10/"><u>Troubleshooting Tips to Revive and Restart Your Frozen Computer in Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-step-by-step-instructions-to-remove-programs-on-windows-11/"><u>Ultimate Guide: Step-by-Step Instructions to Remove Programs on Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721468110154-why-isnt-my-iphone-receiving-texts-learn-quick-fixes-here/"><u>Why Isn't My iPhone Receiving Texts? Learn Quick Fixes Here!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-master-the-art-of-video-editing-with-top-10-fcp-tools/"><u>[New] In 2024, Master the Art of Video Editing with Top 10 FCP Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ecrets-unlocked-starting-your-own-hit-gaming-stream/"><u>[New] Secrets Unlocked Starting Your Own Hit Gaming Stream</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-turning-tides-creative-methods-to-flip-your-youtube-video/"><u>[New] Turning Tides Creative Methods to Flip Your YouTube Video</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-quick-and-easy-fb-video-access-choose-from-these-5-chromium-tools/"><u>[Updated] Quick and Easy FB Video Access Choose From These 5 Chromium Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-beginners-guide-to-applying-meta-ai-innovations-on-instagram/"><u>A Beginner's Guide to Applying Meta AI Innovations on Instagram</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fix-lenovo-usb-driver-issues-easily/"><u>Fix Lenovo USB Driver Issues Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-free-your-pc-unsetting-the-security-pin-in-windows-nvme-10/"><u>How To Free Your PC: Unsetting the Security PIN in Windows Nvme 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hottest-online-hubs-for-metallic-3d-type-graphics/"><u>In 2024, Hottest Online Hubs for Metallic 3D Type Graphics</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/g-sense-of-mukbangs-crafting-foodie-streams/"><u>Making Sense of Mukbangs Crafting Foodie Streams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-reset-effective-techniques-for-refreshing-a-samsung-tv-setup/"><u>Master the Reset: Effective Techniques for Refreshing a Samsung TV Setup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/record-breaking-reddit-threads-ranked-1-10/"><u>Record-Breaking Reddit Threads Ranked 1-10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-fix-haldll-issues-in-windows-operating-systems-from-xp-through-to-windows-11/"><u>Step-by-Step Solutions to Fix Hal.dll Issues in Windows Operating Systems From XP Through to Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-correcting-the-access-denied-problem-401-error/"><u>Step-by-Step Tutorial: Correcting the 'Access Denied' Problem (401 Error)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding Your Digital Driver's License to Apple Wallet on Your iPhone"
-date: 2024-10-20T11:45:02.064Z
-updated: 2024-10-25T01:36:52.430Z
+date: 2024-10-29T21:22:01.513Z
+updated: 2024-10-30T19:37:16.451Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -51,11 +44,25 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -64,10 +71,16 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -79,10 +92,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -90,13 +103,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,20 +140,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-ensuring-authenticity-of-your-youtube-account-for-2024/"><u>[New] Ensuring Authenticity of Your YouTube Account for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-camstreamers-analysis-seeking-superior-solutions-for-2024/"><u>[Updated] CamStreamers Analysis Seeking Superior Solutions for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-chronological-journey-the-11-largest-technological-leaps-since-samuel-morses-invention-1844/"><u>A Chronological Journey: The 11 Largest Technological Leaps Since Samuel Morse's Invention (1844)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-cumuluspro-anti-fatigue-mat-assessment-for-enhanced-standing-desks/"><u>Comprehensive CumulusPRO Anti-Fatigue Mat Assessment for Enhanced Standing Desks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-video-editing-software-experts-top-5-picks/"><u>Discover the Best Video Editing Software: Experts' Top 5 Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-resolve-the-error-message-rpcrt4dll-not-detected-in-windows/"><u>How to Resolve the Error Message: RPCRT4.DLL Not Detected in Windows</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-a-comprehensive-guide-to-maximizing-channels-earnings-through-trailers/"><u>In 2024, A Comprehensive Guide to Maximizing Channels' Earnings Through Trailers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-7-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 7</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-poco-x5-pro-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Poco X5 Pro FRP</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-microsoft-copilot-update-the-potential-last-big-addition-to-windows-10/"><u>New Microsoft Copilot Update: The Potential Last Big Addition to Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-troubleshooting-for-d3dx933dll-missing-error-on-your-pc/"><u>Quick Troubleshooting for d3dx9_33.dll Missing Error on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/restoring-clarity-how-to-repair-uneven-tones-and-bent-imagery-on-computer-screens/"><u>Restoring Clarity: How to Repair Uneven Tones & Bent Imagery on Computer Screens</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-overcoming-android-wi-fi-sign-in-challenges/"><u>Step-by-Step Guide to Overcoming Android Wi-Fi Sign-In Challenges</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-art-of-spotting-dubious-social-media-friend-requests/"><u>The Art of Spotting Dubious Social Media Friend Requests</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleashing-iphones-potential-for-dynamic-shots-for-2024/"><u>Unleashing iPhone’s Potential for Dynamic Shots for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-opposite-ends-of-the-coin-creative-youtube-rewind-strategies/"><u>[New] 2024 Approved Opposite Ends of the Coin Creative Youtube Rewind Strategies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-navigating-imovie-video-submissions-to-vimeo-for-2024/"><u>[New] Navigating iMovie Video Submissions to Vimeo for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>2024 Approved Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2024s-ultimate-guide-to-choosing-a-waterproof-smartwatch-ratings-and-reviews-from-the-experts-zdnet/"><u>2024'S Ultimate Guide to Choosing a Waterproof Smartwatch: Ratings & Reviews From the Experts | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-latest-ios-version-174-launches-with-enhanced-podcast-accessibility-via-transcripts-new-emojis-and-significant-eu-app-marketplace-modifications-zdnet190/"><u>Apple's Latest iOS Version 17.4 Launches with Enhanced Podcast Accessibility via Transcripts, New Emojis and Significant EU App Marketplace Modifications | ZDNET News</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/banish-the-blankness-remedies-for-when-facetime-displays-go-dark/"><u>Banish the Blankness: Remedies for When FaceTime Displays Go Dark</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-enhanced-apple-vision-pro-experiences-tips-and-tricks-for-securing-your-demo-insights-from-zdnet/"><u>Discover Enhanced Apple Vision Pro Experiences: Tips & Tricks for Securing Your Demo - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-superior-alternatives-the-top-rated-non-ecobee-non-amazon-smart-thermostat-on-the-market-insights-from-a-tech-expert-at-zdnet/"><u>Discovering Superior Alternatives: The Top-Rated Non-Ecobee, Non-Amazon Smart Thermostat on the Market - Insights From a Tech Expert at ZDNet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-15-pro-max-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 15 Pro Max? Learn All 4 Methods</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-12-pro-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme 12 Pro 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-countdown-made-easy-a-3-step-guide-for-fcpx-users/"><u>In 2024, Countdown Made Easy A 3-Step Guide for FCPX Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/persistence-in-design-choice-why-apple-believes-iphone-doesnt-need-a-case-gadgetcritic/"><u>Persistence in Design Choice: Why Apple Believes iPhone Doesn't Need a Case | GadgetCritic</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/proven-best-iphones-of-2eightyfour-unveiled-thoroughly-evaluated-and-insights-provided/"><u>Proven Best iPhones of 2Eightyfour Unveiled: Thoroughly Evaluated and Insights Provided</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watch-all-star-wars-films-chronologically-with-disneys-streaming-service/"><u>Watch All Star Wars Films Chronologically with Disney's Streaming Service</u></a></li>
 </ul></div>
 

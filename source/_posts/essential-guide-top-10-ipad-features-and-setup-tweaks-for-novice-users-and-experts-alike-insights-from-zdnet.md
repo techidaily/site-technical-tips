@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: Top 10 iPad Features & Setup Tweaks for Novice Users and Experts Alike - Insights From ZDNet"
-date: 2024-10-21T20:10:01.458Z
-updated: 2024-10-25T05:24:43.032Z
+date: 2024-10-28T23:41:31.390Z
+updated: 2024-10-30T16:19:00.168Z
 tags:
   - apple
 categories:
@@ -54,6 +54,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -66,13 +73,6 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -80,13 +80,6 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **Also:** [**What iPad Pro's Tandem OLED tells us about future device screens**](https://www.zdnet.com/article/what-ipad-pros-tandem-oled-tells-us-about-future-device-screens/)
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
 
@@ -98,6 +91,13 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
@@ -105,10 +105,10 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
@@ -125,6 +125,13 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -140,13 +147,6 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -188,22 +188,24 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://technical-tips.techidaily.com/fixed-oculus-air-link-not-working-on-windows/"><u>[FIXED] Oculus Air Link Not Working on Windows</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-choosing-the-ultimate-action-cam-does-black-gopro-outshine-x1000v-for-2024/"><u>[New] Choosing the Ultimate Action Cam Does Black GoPro Outshine X1000V for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-illustrate-and-write-with-iosandroid-tools/"><u>[New] Illustrate & Write with iOS/Android Tools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-explore-the-ultimate-list-of-comedy-tears-on-instagram/"><u>[New] In 2024, Explore the Ultimate List of Comedy-Tears On Instagram</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diagnosing-and-controlling-excessive-cpu-use-by-windows-update-components-on-windows-11/"><u>Diagnosing and Controlling Excessive CPU Use by Windows Update Components on Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dive-into-windows-10-creators-update-the-latest-advancements-in-insider-build-1503/"><u>Dive Into Windows 10 Creators Update: The Latest Advancements in Insider Build 1503</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dual-display-success-how-to-connect-and-configure-two-screens-on-windows-10/"><u>Dual Display Success: How to Connect & Configure Two Screens on Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-and-fast-how-to-update-your-drivers-on-windows-10/"><u>Effortless and Fast: How to Update Your Drivers on Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhancing-system-management-mastering-gpeditmsc-for-windows-nt-security-and-configurations/"><u>Enhancing System Management: Mastering gpedit.msc for Windows nT Security and Configurations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/find-your-ideal-apple-wrist-companion-at-unbeatable-prices-this-april/"><u>Find Your Ideal Apple Wrist Companion at Unbeatable Prices This April</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/from-basics-to-pros-the-learning-curve-in-magix-music-maker-2024/"><u>From Basics to Pros The Learning Curve in Magix Music Maker 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-novice-to-pro-a-detailed-walkthrough-for-torrent-downloads/"><u>From Novice to Pro: A Detailed Walkthrough for Torrent Downloads</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-art-of-connecting-your-beatwave-headset-with-a-computer-tips-and-tricks-for-windows-users/"><u>Master the Art of Connecting Your BeatWave Headset with a Computer - Tips and Tricks for Windows Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/maximizing-your-youtube-premium-experience-tips-and-tricks/"><u>Maximizing Your YouTube Premium Experience: Tips and Tricks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/picart-skills-erasing-unwanted-image-backdrops-for-2024/"><u>PicArt Skills Erasing Unwanted Image Backdrops for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transform-your-exercise-routine-with-airpods-pros-latest-feature-in-ear-fitness-coaching-and-real-time-heart-monitoring-news/"><u>Transform Your Exercise Routine with AirPods Pro's Latest Feature: In-Ear Fitness Coaching & Real-Time Heart Monitoring News</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unveil-your-videos-secrets-of-social-sharing-success-for-2024/"><u>Unveil Your Videos Secrets of Social Sharing Success for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gear-up-essential-asmr-microphones-to-consider/"><u>[New] 2024 Approved Gear Up Essential ASMR Microphones to Consider</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-eternal-gallery-of-commons-artworks-online/"><u>[New] 2024 Approved The Eternal Gallery of Commons Artworks Online</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/avigating-hashtags-for-a-6-figure-view-spike-on-youtube/"><u>[New] Navigating Hashtags for a 6-Figure View Spike on YouTube</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-a-compreranly-approach-to-high-quality-ps3-video-capture/"><u>2024 Approved A Compreranly Approach to High-Quality PS3 Video Capture</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unleash-creative-fb-ad-videos-access-free-video-tools-now/"><u>2024 Approved Unleash Creative FB Ad Videos - Access FREE Video Tools Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/backwards-compatibility-guide-ps4-titles-for-your-ps5-system/"><u>Backwards Compatibility Guide: PS4 Titles for Your PS5 System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-no-cost-adobe-photoshop-substitutes/"><u>Discover the Best No-Cost Adobe Photoshop Substitutes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-whats-in-store-for-the-new-samsung-galaxy-s25-speculations-on-price-launch-timeline-and-key-specifications/"><u>Discover What's in Store for the New Samsung Galaxy S25 - Speculations on Price, Launch Timeline and Key Specifications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-stop-your-ipad-from-accessing-youtube-effective-tips-and-tricks/"><u>How To Stop Your iPad From Accessing YouTube: Effective Tips and Tricks</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-simple-guide-to-modify-vocal-effects-in-tiktok-videos/"><u>In 2024, Simple Guide to Modify Vocal Effects in TikTok Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-possible-to-run-multiple-youtube-channels-simultaneously/"><u>Is It Possible To Run Multiple YouTube Channels Simultaneously?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-pinterest-posting-the-5-leading-tools-to-automate-and-optimize-your-strategy/"><u>Mastering Pinterest Posting: The 5 Leading Tools to Automate and Optimize Your Strategy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/snappydriver-v113-unveiled-a-detailed-review-of-the-new-update/"><u>SnappyDriver v1.13 Unveiled: A Detailed Review of the New Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-comprehensive-fix-dealing-with-d3dx9-missing-file-d3dx924-dll-errors/"><u>The Comprehensive Fix: Dealing with D3DX9 Missing File D3dx9_24 DLL Errors</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-15-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 15</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-handbook-to-drone-video-editing/"><u>The Ultimate Handbook to Drone Video Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformative-versat-cookies-creative-edition-for-2024/"><u>Transformative Versat Cookies Creative Edition for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-solving-the-oleaut32dll-not-found-issue-on-your-pc/"><u>Understanding and Solving the Oleaut32.dll Not Found Issue on Your PC</u></a></li>
 </ul></div>
 

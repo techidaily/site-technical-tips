@@ -1,7 +1,7 @@
 ---
 title: "Mastering Code Inclusion: Adding Programming Examples to Word Docs Easily"
-date: 2024-10-17T20:27:54.760Z
-updated: 2024-10-25T11:11:04.711Z
+date: 2024-10-29T00:04:42.682Z
+updated: 2024-10-30T22:26:32.013Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Code Inclusion: Adding Programming Examples to Word Docs Easily"
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
  This article explains how to insert code in Word. Directions apply to Word 2010 and newer, including Word 2021 and Microsoft 365.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Insert Code in Word With an Embedded Document
@@ -41,23 +41,24 @@ These instructions only work with a single page of code.
 2. In the**Text** group, select**Object** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![A Word document with the Object option highlighted in the Insert menu](https://www.lifewire.com/thmb/opt-Q1YQfqT2MaDUICEGskPbmMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-insert-source-code-into-word-document-3994582-939bbef12a77474cbc646e7bfca9da48.jpg)
 3. From the**Create New** tab, select**Microsoft Word Document** .  
-![Create New Object box in Word with the Microsoft Word Document option highlighted](https://www.lifewire.com/thmb/ubtpMlrpJY0mh1rhIZL7mTUeCd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-insert-source-code-into-word-document-3994582-1f1467fff74c4365913779c89a44dbaa.jpg)  
- In Word 2007, select**OpenDocument Text** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Create New Object box in Word with the Microsoft Word Document option highlighted](https://www.lifewire.com/thmb/ubtpMlrpJY0mh1rhIZL7mTUeCd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-insert-source-code-into-word-document-3994582-1f1467fff74c4365913779c89a44dbaa.jpg)  
+ In Word 2007, select**OpenDocument Text** .
 
 4. Clear the**Display as icon** check box.  
 ![Create New Object window in Word with the Display as icon box highlighted](https://www.lifewire.com/thmb/WfEAUTUH0LAddtO-6cyGBZT-mD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-insert-source-code-into-word-document-3994582-4b2746dea1ed49bcada5827d208e1b0e.jpg)
@@ -70,6 +71,13 @@ These instructions only work with a single page of code.
 ![Microsoft Word document with source code inserted](https://www.lifewire.com/thmb/7dbJ_9k3xe_LaP-2rOEy3ktFY-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PresentationWithCode-dc19c6dcca694a798e9e41a2be2eac71.jpg)  
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Using Different Paste Types in Word
 
  Modern versions of Word handle code better than they used to. Word for[Microsoft 365](https://www.lifewire.com/microsoft-office-4156573) supports several forms of pasting, including with and without source formatting. So pasting a block of code from your code-editing app will look different based on the paste type.
@@ -79,13 +87,6 @@ These instructions only work with a single page of code.
 * **Unformatted Text** : All code is pasted as unformatted, so you'll lose indenting, color, typeface, and related contextual clues.
 * **HTML Format** : This renders what appears to be a photo of the code, complete with the text editor's background color. This code block is editable, and you can remove the background color if you wish.
 * **Unformatted Unicode Text** : Pastes the text as is but strips the text and background colors. Re-format the code as needed.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Problem With Using Source Code in Word
 
@@ -133,17 +134,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-inside-the-secrets-of-quantum-hdr-photography-for-2024/"><u>[New] Inside the Secrets of Quantum HDR Photography for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-art-of-youtube-thumbnails-for-mac-professionals/"><u>[New] The Art of YouTube Thumbnails for Mac Professionals</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unbox-the-ultimate-experience-master-windows-pc-screen-capturing-and-editing/"><u>[Updated] Unbox the Ultimate Experience Master Windows PC Screen Capturing and Editing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/19-effective-solutions-to-resolve-netflix-issues-on-your-lg-television/"><u>19 Effective Solutions to Resolve Netflix Issues on Your LG Television</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/defrosting-techniques-for-an-unmovable-macbook-air-quick-recovery-steps/"><u>Defrosting Techniques For An Unmovable MacBook Air - Quick Recovery Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elon-musks-electric-dreams-expand-to-phones-insights-on-anticipated-price-tags-launch-dates-and-technical-specifications/"><u>Elon Musk's Electric Dreams Expand to Phones – Insights on Anticipated Price Tags, Launch Dates & Technical Specifications</u></a></li>
-<li><a href="https://article-files.techidaily.com/fading-sounds-gently-a-guide-to-softening-audibility-in-lumafusion-for-2024/"><u>Fading Sounds Gently A Guide to Softening Audibility in Lumafusion for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-ninja-level-strategies-for-instagram-video-magic/"><u>In 2024, Ninja-Level Strategies for Instagram Video Magic</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamless-netgear-wna3100-driver-downloads-and-updates-at-your-fingertips/"><u>Seamless Netgear WNA3100 Driver Downloads and Updates at Your Fingertips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-the-secret-to-halting-intrusive-text-notifications-on-your-apple-device/"><u>Unlock the Secret to Halting Intrusive Text Notifications on Your Apple Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-a-dive-into-the-newly-added-system-updates/"><u>Windows 11: A Dive Into the Newly Added System Updates</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-optimizing-your-workflow-nvidia-screener/"><u>[Updated] In 2024, Optimizing Your Workflow NVIDIA Screener</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skyrocket-your-marketing-game-on-reddit-proven-success-techniques/"><u>[Updated] Skyrocket Your Marketing Game on Reddit Proven Success Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unraveling-the-mystery-what-hides-in-snapchat-emoji-meanings-for-2024/"><u>[Updated] Unraveling the Mystery What Hides in Snapchat Emoji Meanings for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-3-affordable-switch-game-counterparts/"><u>2024 Approved Top 3 Affordable Switch Game Counterparts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/auditory-apex-with-luxe-toned-h8i/"><u>Auditory Apex with Luxe-Toned H8i</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-d-link-default-credentials-the-latest-update-for-july-2024/"><u>Comprehensive D-Link Default Credentials: The Latest Update for July 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-data-tracking-with-cookiebot-technology/"><u>Enhanced Data Tracking with Cookiebot Technology</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-demystifying-screen-recording-insights-from-showmore-experts/"><u>In 2024, Demystifying Screen Recording Insights From ShowMore Experts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-hot-30i-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Hot 30i Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-code-28-issues-on-your-windows-pc-a-step-by-step-guide/"><u>Resolving 'Code: 28' Issues on Your Windows PC – A Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1126006-9781609253011-runes-for-transformation/"><u>Runes for Transformation | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-troubleshooting-code-39-error-on-pc/"><u>Step-by-Step Solutions for Troubleshooting Code 39 Error on PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-to-seamlessly-getting-in-and-out-of-iphone-recovery-mode/"><u>Unlocking the Secrets to Seamlessly Getting In and Out of iPhone Recovery Mode</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solve the Mystery: Why Does My PlayStation 4 Controller Display Multi-Colored Blinking Lights?"
-date: 2024-10-24T05:39:06.254Z
-updated: 2024-10-25T02:13:07.013Z
+date: 2024-10-27T06:21:28.234Z
+updated: 2024-10-31T03:13:41.511Z
 categories:
   - BestProducts
 description: "This Article Describes Solve the Mystery: Why Does My PlayStation 4 Controller Display Multi-Colored Blinking Lights?"
@@ -61,13 +61,6 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [Creative Note-Taking for the Apple Fan: Notability](https://notability.com/)
 
 ![GingerLabs Notability website](https://www.lifewire.com/thmb/thNiSXfw8G3iysBhc2IHZBZv7KY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-15at5.02.40PM-58f28ac55f9b582c4d5c1cbf.png)
@@ -97,6 +90,13 @@ of 10
 03
 
 of 10
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## [Use Cards to Make Note-Taking Fun and Colorful: Google Keep](https://www.google.com/keep/)
 
@@ -139,6 +139,13 @@ of 10
 
 ![OneNote website](https://www.lifewire.com/thmb/xpLJA58kh0a8DmchVzkQwbWvgBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at3.38.09PM-58ee827d3df78cd3fc5f8576.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  What We Like
 
 * Works with Chrome, Apple Watch, and browsers.
@@ -172,13 +179,6 @@ of 10
 05
 
 of 10
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## [Note-Taking for the Minimalist: Simplenote](https://simplenote.com/)
 
@@ -216,22 +216,16 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [A Stunningly Visual Note-Taking Experience: Zoho Notebook](https://www.zoho.com/notebook/)
 
 ![Zoho.com Notebook website](https://www.lifewire.com/thmb/i99lX_6eh9Cpzoh3YeJ4FdYCpa0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-15at5.17.45PM-58f28e545f9b582c4d61fae6.png)
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ​
 
@@ -266,16 +260,16 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [A Collaborative Note-Taking App for Your Whole Team: Dropbox Paper](https://www.dropbox.com/paper/start)
 
 ![Dropbox Paper website](https://www.lifewire.com/thmb/3Y9VYshyhwfzEAhYUQo6qfLW-v8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-17at9.13.18PM-58f5693f5f9b581d59046520.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -306,23 +300,9 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [Best App for Taking Digital Handwritten Notes: Squid](https://www.squidnotes.com/)
 
 ![SquidNotes website](https://www.lifewire.com/thmb/elX17TRYlBrhykILBHZdUnmrAzY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-18at3.28.23PM-58f669393df78ca159210743.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -352,6 +332,13 @@ of 10
 ## [Most Flexible Note-Taking App: Bear](https://bear.app/)
 
 ![Bear-Writer website](https://www.lifewire.com/thmb/HfqVhGO6cwI3Ri8C9uk733BRr7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at2.04.58PM-58ee6cad3df78cd3fc28aae8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -384,6 +371,13 @@ of 10
 ## [Basic, Minimal, and Possibly All You Need: Notes](https://apps.apple.com/app/notes/id1110145109)
 
 ![Apple Notes website](https://www.lifewire.com/thmb/a3hdmF_cqcF1RmxUS5cVmozIgpM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-25at7.10.21PM-58ffd86f5f9b581d59b97459.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ​
 
@@ -443,24 +437,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-architectural-wonders-from-the-sandbox/"><u>[New] 2024 Approved Architectural Wonders From the Sandbox</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-social-media-key-apps-for-professional-ig-videographers-for-2024/"><u>[New] Mastering Social Media Key Apps for Professional IG Videographers for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-mastering-facebook-live-embedding-techniques-on-websites/"><u>[Updated] Mastering Facebook Live Embedding Techniques on Websites</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/automatic-repair-solutions-for-windows-11-systems/"><u>Automatic Repair Solutions for Windows 11 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808339982-breeze-through-direct3d-download-simple-steps-for-success/"><u>Breeze Through Direct3D Download – Simple Steps for Success!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/empower-your-journey-through-cinemas-best-10-titles-for-2024/"><u>Empower Your Journey Through Cinema's Best 10 Titles for 2024</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/guida-rapida-alla-creazione-dellimmagine-iso-uefi-per-windows-11-con-i-due-approcci-piu-facili-e-affidabili/"><u>Guida Rapida Alla Creazione Dell'immagine ISO UEFI per Windows 11 Con I Due Approcci Più Facili E Affidabili</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harnessing-chatgpt-for-innovative-poetry-book-projects/"><u>Harnessing ChatGPT for Innovative Poetry Book Projects</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-6s-to-roku-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 6s to Roku? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-select-selections-exciting-cardboard-friendly-virtual-reality-titles/"><u>In 2024, Select Selections Exciting Cardboard-Friendly Virtual Reality Titles</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808040873-quick-tricks-to-speed-up-windows-11-software-installation-times/"><u>Quick Tricks to Speed Up Windows 11 Software Installation Times!</u></a></li>
-<li><a href="https://win-top.techidaily.com/safe-and-savvy-craigslist-strategies-in-2009-securing-your-transactions-with-massmail-tools/"><u>Safe and Savvy Craigslist Strategies in 2009: Securing Your Transactions with MassMail Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808354669-skype-cant-connect-5-ways-to-fix-on-windows-10-easily/"><u>Skype Can’t Connect: 5 Ways to Fix on Windows 10 Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-freeing-up-storage-space-in-windows-10/"><u>Ultimate Guide: Freeing Up Storage Space in Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-on-linking-laptop-and-television-through-hdmi-visual-steps-included/"><u>Ultimate Tutorial on Linking Laptop and Television Through HDMI – Visual Steps Included</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-and-fixing-sudden-system-failures-when-playing-games-on-your-computer/"><u>Understanding and Fixing Sudden System Failures When Playing Games on Your Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-global-tv-shows-the-five-finest-vpns-for-enhancing-your-netflix-library/"><u>Unlock Global TV Shows: The Five Finest VPNs for Enhancing Your Netflix Library</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unraveling-the-mystery-behind-the-windows-update-has-failed-a-solution-for-error-code-0x80248007-in-windows-10/"><u>Unraveling the Mystery Behind the 'Windows Update Has Failed' - A Solution for Error Code 0X80248007 in Windows 10</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-free-download-splice-video-editor-for-macos/"><u>Updated In 2024, Free Download Splice Video Editor for macOS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-essential-knowledge-for-saving-app-activity/"><u>[New] In 2024, Essential Knowledge for Saving App Activity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-nostruggle-livecast-how-to-simplify-your-podcast-broadcast/"><u>[New] NoStruggle Livecast How to Simplify Your Podcast Broadcast</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebooks-brief-broadcasts-unpacked/"><u>[Updated] In 2024, Facebook's Brief Broadcasts Unpacked</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-shine-on-top-17-studio-lights-for-youtube-for-2024/"><u>[Updated] Shine On Top 17 Studio Lights for YouTube for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-turbo-charging-your-vimeo-views/"><u>[Updated] Turbo-Charging Your Vimeo Views</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bypass-mac-development-verification-failures-clear-instructions-for-users/"><u>Bypass Mac Development Verification Failures: Clear Instructions for Users</u></a></li>
+<li><a href="https://discover-community.techidaily.com/comparative-analysis-of-avi-vs-mp4-which-format-is-better-for-video-quality/"><u>Comparative Analysis of AVI Vs. MP4: Which Format Is Better for Video Quality?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-repairing-the-coredll-not-present-issue/"><u>Comprehensive Guide to Repairing the 'core.dll' Not Present Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-endless-entertainment-free-childrens-films-on-our-favorite-five-sites/"><u>Enjoy Endless Entertainment: Free Children’s Films on Our Favorite Five Sites</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-downloading-and-latest-updates-for-the-brother-hl-l2370dw-printer-software/"><u>Free Downloading and Latest Updates for the Brother HL-L2370DW Printer Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-overcome-the-502-server-gateway-interface-challenge-and-get-back-online/"><u>How to Overcome the '502 Server Gateway Interface' Challenge and Get Back Online</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/secure-mov-file-storage-in-windows-11/"><u>Secure MOV File Storage in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-non-functioning-xbox-series-x-and-s-headset-problems/"><u>Step-by-Step Solutions for Non-Functioning Xbox Series X & S Headset Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-complimentary-iphone-music-applications-your-ultimate-guide/"><u>Top 8 Complimentary iPhone Music Applications: Your Ultimate Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-your-inner-artist-creating-captivating-ai-visuals-with-paint-cocreator-and-windows-11/"><u>Unleash Your Inner Artist: Creating Captivating AI Visuals with Paint Cocreator & Windows 11</u></a></li>
 </ul></div>
 

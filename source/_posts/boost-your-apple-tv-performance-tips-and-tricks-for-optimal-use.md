@@ -1,7 +1,7 @@
 ---
 title: Boost Your Apple TV Performance – Tips and Tricks for Optimal Use
-date: 2024-10-24T08:42:35.354Z
-updated: 2024-10-25T08:58:44.969Z
+date: 2024-10-29T05:14:20.123Z
+updated: 2024-10-31T00:13:58.358Z
 categories:
   - BestProducts
 description: This Article Describes Boost Your Apple TV Performance – Tips and Tricks for Optimal Use
@@ -35,39 +35,47 @@ thumbnail: https://www.lifewire.com/thmb/hn7wRpuS-WFfsF67lXUtFGfiocU=/400x300/fi
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What You Need to Get 120 FPS on PS5
@@ -79,19 +87,6 @@ thumbnail: https://www.lifewire.com/thmb/hn7wRpuS-WFfsF67lXUtFGfiocU=/400x300/fi
  You'll also need an HDMI 2.1 cable. You can use the HDMI cable that comes with the PS5, which is a 2.1\. However, if you're using a different cord (because the included one wasn't long enough, for example), you'll need to make sure it's that type.
 
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which PS5 Games Support 120 FPS?
 
@@ -139,21 +134,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-the-fleeting-feed-of-fb-shorts/"><u>[New] The Fleeting Feed of FB Shorts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-elevating-video-view-count-top-hashtag-trends-guide/"><u>[Updated] In 2024, Elevating Video View Count Top Hashtag Trends Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/16-amazing-and-complimentary-websites-to-start-learning-sign-language-today/"><u>16 Amazing and Complimentary Websites to Start Learning Sign Language Today</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-integration-by-one-third-of-marketing-teams-explored-insights-from-zdnet/"><u>AI Integration by One-Third of Marketing Teams Explored: Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ver-the-art-of-youtube-playlist-shuffling-for-2024/"><u>Discover the Art of YouTube Playlist Shuffling for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/discovering-social-medias-top-5-innovations-in-fb/"><u>Discovering Social Media’s Top 5 Innovations in FB</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-solutions-for-dealing-with-a-504-gateway-timeout-mistake-online/"><u>Easy Solutions for Dealing with a 504 Gateway Timeout Mistake Online</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-unresponsive-right-click-functionality-on-windows-11-systems/"><u>Fixing the Unresponsive Right Click Functionality on Windows 11 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fubotv-and-firestick-integration-how-to-enjoy-live-sports-anywhere/"><u>FuboTV and Firestick Integration - How to Enjoy Live Sports Anywhere</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-note-12-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi Note 12 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-use-remote-access-on-your-samsung-smart-tv/"><u>How to Use Remote Access on Your Samsung Smart TV</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rejuvenating-compromised-mp4-playback/"><u>Rejuvenating Compromised MP4 Playback</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-downloading-and-installing-the-driver-for-your-samsung-960-evo-nvme-drive-on-windows-pcs/"><u>Step-by-Step Tutorial: Downloading and Installing the Driver for Your Samsung 960 EVO NVMe Drive on Windows PCs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-mastering-the-art-of-website-pinging/"><u>The Ultimate Guide: Mastering the Art of Website Pinging</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-19-solutions-when-your-netflix-keeps-crashing-on-lg-television-sets/"><u>Top 19 Solutions When Your Netflix Keeps Crashing on LG Television Sets</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-best-free-global-voice-communication-tools/"><u>Top 5 Best Free Global Voice Communication Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-introduction-to-vlogging-tools-for-getting-started-for-2024/"><u>[New] Introduction to Vlogging Tools for Getting Started for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-understanding-imovie-video-trimming/"><u>[New] Understanding iMovie Video Trimming</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-beyond-vidcon-a-guide-to-the-most-important-youtube-events-for-2024/"><u>[Updated] Beyond VidCon - A Guide to the Most Important YouTube Events for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-webcam-tricks-for-smooth-video-on-hp-devices-for-2024/"><u>[Updated] Webcam Tricks for Smooth Video on HP Devices for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/data-harmony-strategies-for-fusing-separate-columns-in-excel/"><u>Data Harmony: Strategies for Fusing Separate Columns in Excel</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-list-of-observers-a-guide-on-identifying-document-viewer-contacts-in-google-docs/"><u>Discover the List of Observers: A Guide on Identifying Document Viewer Contacts in Google Docs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-graphics-game-is-an-rtx-card-worth-it/"><u>Elevate Your Graphics Game: Is An RTX Card Worth It?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-the-unresponsive-shift-on-your-pc-now/"><u>Fix the Unresponsive Shift on Your PC Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/getting-samsung-tv-apps-back-online-a-comprehensive-fix-guide/"><u>Getting Samsung TV Apps Back Online: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-web.techidaily.com/guide-to-duplicating-disk-space-in-various-windows-server-editions-2003-2022-without-reinstallation/"><u>Guide to Duplicating Disk Space in Various Windows Server Editions (2003-2022 Without Reinstallation)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-f25-pro-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-guide-to-using-obs-for-youtube-and-twitch/"><u>In 2024, Essential Guide to Using OBS for YouTube & Twitch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-users-guide-to-disabling-governmental-urgent-notifications/"><u>IPhone Users' Guide to Disabling Governmental Urgent Notifications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/make-the-right-choice-a-detailed-comparison-between-iphone-and-android-devices/"><u>Make The Right Choice: A Detailed Comparison Between iPhone and Android Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-switching-off-the-latest-iphones-iphone-15-pro-and-pro-max-edition/"><u>Step-by-Step Instructions for Switching Off the Latest iPhones - iPhone 15 Pro and Pro Max Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-for-integrating-playstation-vr-into-your-personal-computer-system/"><u>The Complete Walkthrough for Integrating PlayStation VR Into Your Personal Computer System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/venture-into-the-future-the-lg-360-vr-headset-explored-for-2024/"><u>Venture Into the Future The LG 360 VR Headset Explored for 2024</u></a></li>
 </ul></div>
 

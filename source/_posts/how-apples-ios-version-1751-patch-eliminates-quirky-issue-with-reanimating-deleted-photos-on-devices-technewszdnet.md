@@ -1,7 +1,7 @@
 ---
 title: How Apple's iOS Version 17.5.1 Patch Eliminates Quirky Issue with Reanimating Deleted Photos on Devices | TechNewsZDNet
-date: 2024-10-23T22:59:24.804Z
-updated: 2024-10-25T05:20:57.045Z
+date: 2024-10-26T06:21:55.576Z
+updated: 2024-10-31T03:22:24.767Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +89,10 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,18 +133,16 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-shield.techidaily.com/1-free-guide-restore-lost-data-tips-for-retrieving-unsaveddeleted-files-in-excel/"><u>1. Free Guide: Restore Lost Data - Tips for Retrieving Unsaved/Deleted Files in Excel</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808220565-how-to-overclock-your-gpu-a-beginners-guide/"><u>How to Overclock Your GPU: A Beginner's Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Best Spy Watches For your Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-quailcom-mobile-device-driver-download-for-windows-operating-systems-win111087/"><u>Latest [Quailcom Mobile Device] Driver Download for Windows Operating Systems (Win11/10/8/7)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808116661-mastering-directx-update-in-windows-111n-a-quick-straightforward-approach/"><u>Mastering DirectX Update in Windows 11/1N - A Quick, Straightforward Approach!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808211368-quick-guide-to-finding-and-downloading-your-hp-devices-windows-10-drivers/"><u>Quick Guide to Finding and Downloading Your HP Device's Windows 10 Drivers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/screensaviors-guide-global-and-regional-channels-led-by-you-for-2024/"><u>ScreenSaviors Guide Global and Regional Channels Led by You for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-the-microsoft-sculpt-keyboard-quality-meets-affordability/"><u>The Ultimate Guide to the Microsoft Sculpt Keyboard - Quality Meets Affordability</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-virtual-vanguard-of-humor-your-blueprint-for-metaspace-meme-creation-for-2024/"><u>The Virtual Vanguard of Humor – Your Blueprint for Metaspace Meme Creation for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/update-nvidia-graphics-drivers-in-windows-7-quickly-and-easily/"><u>Update NVIDIA Graphics Drivers in Windows 7. Quickly & Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/update-your-windows-usb-drivers-with-ease-compatible-with-windows-11-7-8-and-81/"><u>Update Your Windows' USB Drivers with Ease: Compatible with Windows 11, 7, 8 & 8.1</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/winsxs-folder-clean-up-and-save-space-on-windows-10-easily/"><u>WinSxS Folder: Clean Up and Save Space on Windows 10 Easily</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-behind-the-camera-studio-insights-extended-xvideoguide/"><u>2024 Approved Behind-the-Camera Studio Insights Extended XVideoGuide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-5-best-live-stream-video-conference-recorders/"><u>2024 Approved Top 5 Best Live Stream Video Conference Recorders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-zero-to-hero-on-instagram-proven-tactics-for-building-more-likes-and-followers/"><u>From Zero to Hero on Instagram: Proven Tactics for Building More Likes and Followers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-realme-12-pro-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Realme 12 Pro 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-phone-to-fire-stick-casting-on-android-for-a-hassle-free-viewing-experience/"><u>Master the Art of Phone to Fire Stick Casting on Android for a Hassle-Free Viewing Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-to-nearest-ev-chargers-using-google-maps-tips-and-tricks/"><u>Navigate to Nearest EV Chargers Using Google Maps - Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcome-streaming-glitches-effective-methods-when-netflix-titles-wont-play/"><u>Overcome Streaming Glitches: Effective Methods When Netflix Titles Won't Play</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-watch-netflix-for-free-a-step-by-step-breakdown/"><u>The Ultimate Trick to Watch Netflix for Free - A Step-by-Step Breakdown</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-online-broadcast-platforms-for-2024/"><u>Ultimate Online Broadcast Platforms for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722641134533-xiaomi-mi-smart-band-4-the-ultimate-budget-fitness-tracker-review-why-its-my-choice/"><u>Xiaomi Mi Smart Band 4: The Ultimate Budget Fitness Tracker Review – Why It's My Choice</u></a></li>
 </ul></div>
 

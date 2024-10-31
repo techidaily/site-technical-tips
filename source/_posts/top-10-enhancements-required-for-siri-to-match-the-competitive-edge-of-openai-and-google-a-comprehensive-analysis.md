@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Enhancements Required for Siri to Match the Competitive Edge of OpenAI & Google: A Comprehensive Analysis"
-date: 2024-10-18T04:02:12.867Z
-updated: 2024-10-24T20:34:19.079Z
+date: 2024-10-26T20:08:07.816Z
+updated: 2024-10-30T18:01:53.005Z
 tags:
   - apple
 categories:
@@ -53,10 +53,10 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -71,6 +71,13 @@ The app also streamlines your devices by bringing your iPhone's notifications st
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Siri 2.0
 
 Screenshot by Nina Raemont
@@ -82,6 +89,13 @@ Apple has played the long game when it comes to its virtual assistant, Siri. As 
 During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI assistant integrated into every thread of the UI, not a standalone app. Siri will have access to ChatGPT's LLM, allowing the AI to be functionally ready to communicate in a more natural context, following up with previous conversations and messages instead of providing full context in every single prompt. 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
 
@@ -96,10 +110,10 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -112,13 +126,6 @@ Safari will see a host of improvements powered by AI functionality, including an
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Standalone Passwords app
 
 Screenshot by Nina Raemont
@@ -128,13 +135,6 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -170,22 +170,16 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-perfecting-video-conferencing-with-snap-functionality/"><u>[Updated] 2024 Approved Perfecting Video Conferencing with Snap Functionality</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-discover-the-perks-of-apple-music-in-videos/"><u>[Updated] In 2024, Discover the Perks of Apple Music in Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/10-best-free-luts-roundup-download-links-galore/"><u>10 Best Free LUTs Roundup - Download Links Galore</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-practices-for-mentioning-ai-contributions-citing-chatgpt-references-and-quotes/"><u>Best Practices for Mentioning AI Contributions: Citing ChatGPT References and Quotes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connect-your-fire-stick-to-projector-a-comprehensive-tutorial/"><u>Connect Your Fire Stick to Projector - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elevate-your-content-with-metai-innovative-approaches-for-instagram-success/"><u>Elevate Your Content with MetAI: Innovative Approaches for Instagram Success</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/essential-guides-to-the-top-10-student-focused-history-vlogs/"><u>Essential Guides to the Top 10 Student-Focused History Vlogs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-the-issue-of-non-responsive-search-in-windows-11-top-tips/"><u>Fixing the Issue of Non-Responsive Search in Windows 11 – Top Tips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-find-x7-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo Find X7 Phones? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fixing-blurry-youtube-videos-a-step-by-step-guide/"><u>In 2024, Fixing Blurry YouTube Videos A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-showcasing-contributions-and-thought-leadership/"><u>In 2024, Showcasing Contributions & Thought Leadership</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-the-digital-labyrinths-with-us/"><u>Navigate the Digital Labyrinths with Us!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/rumored-snapshots-unveiling-expected-price-points-and-specs-for-next-gen-iphone-release/"><u>Rumored Snapshots: Unveiling Expected Price Points and Specs for Next-Gen iPhone Release</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-troubleshooting-how-to-handle-wininetdll-errors-effectively/"><u>Step-by-Step Troubleshooting: How to Handle Wininet.dll Errors Effectively</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-issues-with-a-malfunctioning-firestick-remote/"><u>Troubleshooting Guide: Resolving Issues with a Malfunctioning Firestick Remote</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-vlcs-potential-for-mpeg-4-and-diverse-file-alterations-for-2024/"><u>Unlocking VLC's Potential for MPEG-4 and Diverse File Alterations for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-methods-to-track-your-youtube-video-audience/"><u>Unveiling the Methods to Track Your YouTube Video Audience</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unveiling-the-excellent-tech-for-high-definition-recording/"><u>2024 Approved Unveiling the Excellent Tech for High-Definition Recording</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-ways-to-amend-your-messages-on-instagram-direct-dm/"><u>Easy Ways to Amend Your Messages on Instagram Direct (DM)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-someone-quickly-the-ultimate-list-of-8-people-tracking-engines/"><u>Find Someone Quickly: The Ultimate List of 8 People-Tracking Engines</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y56-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y56 5G Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mac-users-manual-mastering-whatsapp-functionality-on-macintosh/"><u>Mac Users' Manual: Mastering WhatsApp Functionality on Macintosh</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-path-to-success-starts-on-screen-10-must-see-films-for-2024/"><u>The Path to Success Starts on Screen 10 Must-See Films for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-evolution-a-comprehensive-guide-to-google-hangouts/"><u>Understanding the Evolution: A Comprehensive Guide to Google Hangouts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unpacking-the-top-4-innovations-of-ipados-18-released-during-wwdc-2023-and-their-availability-across-different-ipad-models-gadgetguru/"><u>Unpacking the Top 4 Innovations of iPadOS 18 Released During WWDC 2023 and Their Availability Across Different iPad Models | GadgetGuru</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-s17-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo S17 | Dr.fone</u></a></li>
 </ul></div>
 
