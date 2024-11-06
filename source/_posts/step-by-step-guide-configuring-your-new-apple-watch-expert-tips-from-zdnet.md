@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Configuring Your New Apple Watch - Expert Tips From ZDNet"
-date: 2024-10-25T23:28:44.125Z
-updated: 2024-10-31T04:00:36.422Z
+date: 2024-11-03T21:34:14.089Z
+updated: 2024-11-05T16:35:52.718Z
 tags:
   - apple
 categories:
@@ -55,10 +55,16 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
@@ -76,28 +82,15 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
@@ -118,10 +111,10 @@ Screenshot by David Gewirtz/ZDNET
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
@@ -143,6 +136,13 @@ Yes, the option enables messages every day. But do you see the Start and End tim
 So, make sure you set the Start and End times that fit with your schedule. 
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enable Slack notifications in the Watch app
 
@@ -193,17 +193,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-snapshots-from-videos-within-windows-11-photos-app-for-2024/"><u>[New] Snapshots From Videos Within Windows 11 Photos App for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-secret-of-checking-if-your-emails-have-been-seen-on-gmail/"><u>Discover the Secret of Checking if Your Emails Have Been Seen on Gmail</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/explore-2024s-best-sound-gear-reviews/"><u>Explore 2024'S Best Sound Gear Reviews</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-a05-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy A05 Phone?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-infinix-note-30-vip-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Infinix Note 30 VIP Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y36-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y36 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-easily-animate-your-photos-8-essential-tools/"><u>New 2024 Approved Easily Animate Your Photos 8 Essential Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-d3dx927dll-a-comprehensive-guide/"><u>Solving the Mystery of d3dx9_27.dll: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-troubleshooting-guide-to-addressing-and-repairing-whea-errors-on-pcs/"><u>The Ultimate Troubleshooting Guide to Addressing and Repairing WHEA Errors on PCs.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-essential-factors-when-shopping-for-pre-owned-notebooks/"><u>Top 5 Essential Factors When Shopping for Pre-Owned Notebooks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-atandt-mobile-network-international-roaming-terms/"><u>Understanding AT&T Mobile Network International Roaming Terms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unifying-ms-office-suite-with-your-zoho-online-platform-a-step-by-step-guide/"><u>Unifying MS Office Suite with Your Zoho Online Platform: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-rediscovering-retro-gaming-identifying-the-most-advanced-gb-console-emulation-programs/"><u>[New] In 2024, Rediscovering Retro Gaming Identifying the Most Advanced GB Console Emulation Programs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-step-into-simulation-androids-ultimate-guide-to-the-best-15-games/"><u>[New] In 2024, Step Into Simulation Android’s Ultimate Guide to the Best 15 Games</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quickly-setup-snapchat-app-on-your-mac-os-x/"><u>[Updated] Quickly Setup Snapchat App on Your Mac OS X</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-apples-secret-project-crafting-an-encrypted-operating-system-for-enhanced-ai-data-center-security-unveiled-insights-from-zdnet/"><u>1. Apple's Secret Project: Crafting an Encrypted Operating System for Enhanced AI Data Center Security – Unveiled Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-cinema-mastering-the-best-5-camera-tips/"><u>2024 Approved The Art of Cinema Mastering the Best 5 Camera Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-card-expansion-sparks-curiosity-new-partnership-prospects-and-what-they-mean-for-users/"><u>Apple Card Expansion Sparks Curiosity: New Partnership Prospects and What They Mean for Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-se-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-enhanced-apple-vision-pro-experiences-tips-and-tricks-for-securing-your-demo-insights-from-zdnet/"><u>Discover Enhanced Apple Vision Pro Experiences: Tips & Tricks for Securing Your Demo - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-users-beware-how-ios-18-may-lead-to-bricking-essential-knowledge-before-installation/"><u>IPad Users Beware: How IOS 18 May Lead to Bricking | Essential Knowledge Before Installation</u></a></li>
+<li><a href="https://solve-info.techidaily.com/1728487010401-page-unavailable-error-code-404/"><u>Page Unavailable - Error Code 404</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-the-new-ipad-9th-generation-at-a-bargain-price-of-only-250-following-apples-recent-update-tech-insights/"><u>Score the New iPad (9Th Generation) at a Bargain Price of Only $250 Following Apple's Recent Update – Tech Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-your-next-apple-watch-grab-the-new-series-10-from-best-buy-for-a-steal-at-just-99-with-this-exclusive-pre-order-deal/"><u>Secure Your Next Apple Watch: Grab the New Series 10 From Best Buy for a Steal at Just $99 with This Exclusive Pre-Order Deal!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/transform-your-media-with-grau-gmbhs-elite-video-repair-software-perfect-for-both-novices-and-tech-gurus/"><u>Transform Your Media with Grau GmbH's Elite Video Repair Software – Perfect for Both Novices and Tech Gurus!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-non-responsive-alexa-devices/"><u>Troubleshooting Tips for Non-Responsive Alexa Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/will-virtual-assistance-turn-the-tides-in-perilous-nature-expeditions/"><u>Will Virtual Assistance Turn the Tides in Perilous Nature Expeditions?</u></a></li>
 </ul></div>
 

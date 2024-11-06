@@ -1,7 +1,7 @@
 ---
 title: 5 Essential Productivity Techniques & Apps to Optimize Your Everyday Task Management
-date: 2024-10-28T07:39:39.215Z
-updated: 2024-10-30T20:58:28.602Z
+date: 2024-11-01T18:01:57.679Z
+updated: 2024-11-05T18:18:40.689Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What do I mean by my flow?
 
 I divide my work day into two main chunks of time: Communications and knowledge gathering time, and project time. Every day has pretty much the same communications and knowledge gathering activities, which follows a relatively consistent pattern that has proven to be highly productive for me. These are the daily productivity activities I've been talking about. 
@@ -43,13 +50,6 @@ In my case, morning to mid-afternoon is that daily productivity time. That's whe
 That whole process is my flow. Over my many various iterations, I've managed to optimize this process so I'm able to get a tremendous amount done in a relatively short amount of time.
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Changes due to the pandemic
 
@@ -81,6 +81,13 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -90,13 +97,6 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -126,13 +126,6 @@ Part of my morning flow is posting to the social networks. Unfortunately, this h
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Featured reviews
 
 * [One of the best smart thermostats I've tested is not made by Ecobee or Amazon](https://www.zdnet.com/article/one-of-the-best-smart-thermostats-ive-tested-is-not-made-by-ecobee-or-amazon/)
@@ -147,6 +140,13 @@ Rinse, wash, repeat.
 I'm relatively holistic about my morning reading process. I do it until I'm bored or hungry, or feel like switching gears and moving on to managing my email and schedule. 
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Connecting and scheduling
 
@@ -184,13 +184,6 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -201,10 +194,10 @@ By the way, this is also a great way to think about users, which I initially was
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## To-doing my to-do list
@@ -236,6 +229,13 @@ Notion is also available on Android and iOS as well as web platforms, so once ag
 I've set up a bunch of Notion pages and all the items that "should be on the list" but aren't actionable this week or next go onto a Notion. I regularly dig into those pages, particularly when I'm working on a corresponding project, and pull items from the page and assign them to Todoist -- but only if I intend to work on them right away, that week. 
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -286,22 +286,18 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-explore-prime-cardboard-compatible-vr-adventures/"><u>[New] 2024 Approved Explore Prime Cardboard-Compatible VR Adventures</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unveiling-the-secrets-perfecting-motion-blur-in-photoshop/"><u>[New] In 2024, Unveiling the Secrets Perfecting Motion Blur in Photoshop</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-inconspicuous-footprint-of-social-media-engagements/"><u>[New] The Inconspicuous Footprint of Social Media Engagements</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/youtube-2024/"><u>影片编辑专家推荐：YouTube 制作者的理想剪辑工具 - 2024全球顶级品牌</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722887688404-ace-your-savings-with-microsofts-student-pricing-strategies/"><u>Ace Your Savings with Microsoft's Student Pricing Strategies</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-nokia-150-2023-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Nokia 150 (2023) via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-tools-on-twitter-to-keep-up-with-popular-hashtags/"><u>Discover the Best Tools on Twitter to Keep Up with Popular Hashtags</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/find-the-ultimate-airtag-wallet-in-2n4-in-depth-analysis-and-expert-ratings/"><u>Find the Ultimate AirTag Wallet in 2N4: In-Depth Analysis & Expert Ratings</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-epson-gt-s50-ready-windows-drivers-downloads-for-win-7810-users/"><u>Get Your Epson GT-S50 Ready: Windows Drivers Downloads for Win 7/8/10 Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-sync-integrating-google-duo-with-your-gmail/"><u>Mastering the Art of Sync: Integrating Google Duo with Your Gmail</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-compatibility-problems-between-corsair-icue-and-windows-operating-systems/"><u>Resolving Compatibility Problems Between Corsair iCUE and Windows Operating Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-cmos-checksum-issues/"><u>Step-by-Step Guide: Resolving CMOS Checksum Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/switching-onoff-windows-10s-screen-keyboard-a-step-by-step-guide/"><u>Switching On/Off Windows 10'S Screen Keyboard: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-quick-story-behind-how-electric-vehicles-developed/"><u>The Quick Story Behind How Electric Vehicles Developed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-8-strategies-to-boost-your-videos-and-go-viral-on-youtube/"><u>Top 8 Strategies to Boost Your Videos and Go Viral on YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-solving-ipad-cannot-connect-to-printer/"><u>Troubleshooting Guide: Solving 'iPad Cannot Connect To Printer'</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-instructions-for-powering-down-the-iphone-15-series-pro-and-pro-max-models/"><u>Ultimate Instructions for Powering Down the iPhone 15 Series: Pro & Pro Max Models</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-expert-tips-for-srt-enhanced-mp4-files/"><u>[Updated] In 2024, Expert Tips for SRT-Enhanced MP4 Files</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-navigating-permissions-recording-on-whatsapp-platforms/"><u>[Updated] In 2024, Navigating Permissions Recording on WhatsApp Platforms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-drone-list-to-maximize-gopro-video-quality/"><u>[Updated] Ultimate Drone List to Maximize GoPro Video Quality</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-15-pro-max-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone 15 Pro Max How to Bypass?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/art-of-chocolate-chips-quantity-queries-answered/"><u>Art of Chocolate Chips: Quantity Queries Answered</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/curated-top-choices-for-news-aggregators-dominating-2024/"><u>Curated Top Choices for News Aggregators Dominating 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciding-on-your-next-smartwatch-companion-in-depth-review-of-google-pixel-watch-gen3-vs-apple-watch-series-9/"><u>Deciding on Your Next Smartwatch Companion: In-Depth Review of Google Pixel Watch Gen3 Vs. Apple Watch Series 9</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-successfully-downloading-and-updating-asus-wi-fi-drivers/"><u>Guide: Successfully Downloading and Updating ASUS Wi-Fi Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-16s-upgraded-design-makes-fixes-a-breeze-says-apple-exclusive-details-from-zdnet/"><u>IPhone 16'S Upgraded Design Makes Fixes a Breeze, Says Apple | Exclusive Details From ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pros-and-cons-of-microsofts-latest-innovation-a-detailed-look-at-the-surface-pro-8-for-business-insights/"><u>Pros and Cons of Microsoft's Latest Innovation: A Detailed Look at the Surface Pro 8 for Business Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-mp3-players-expert-reviews-and-comparison-techradar/"><u>Top Rated MP3 Players - Expert Reviews & Comparison | TechRadar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleashing-the-full-potential-of-your-iphone-n-14-with-ios-18-for-effortless-content-creation-exclusive-zdnet-review/"><u>Unleashing the Full Potential of Your iPhone N 14 with iOS 18 for Effortless Content Creation | Exclusive ZDNET Review</u></a></li>
+<li><a href="https://win-online.techidaily.com/werkseitige-einstellungen-auf-acer-pcs-vollstandig-zurucksetzen-schritt-fur-schritt-anleitung/"><u>Werkseitige Einstellungen Auf Acer PCs Vollständig Zurücksetzen: Schritt-Für-Schritt-Anleitung</u></a></li>
 </ul></div>
 

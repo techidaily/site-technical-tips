@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Linking Chromecast with Amazon Fire TV
-date: 2024-09-11T18:58:38.262Z
-updated: 2024-09-15T22:24:04.427Z
+date: 2024-10-29T23:08:33.234Z
+updated: 2024-11-05T20:20:11.914Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Tutorial on Linking Chromecast with Amazon Fire TV
@@ -18,6 +18,13 @@ thumbnail: https://www.lifewire.com/thmb/E7Vx2go7_C0WGJ18TLgiSMGu8qE=/540x405/fi
 
  This article explains how to screenshot on a Logitech keyboard. The instructions below apply to all Logitech keyboards, including the Logitech K780 Multi-Device Wireless Keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How Do You Screenshot on a Logitech Wireless Keyboard?
 
  To[take a screenshot on Windows](https://www.lifewire.com/take-screenshots-using-windows-3507009) , press**Windows key+PrtScn** .
@@ -32,6 +39,13 @@ thumbnail: https://www.lifewire.com/thmb/E7Vx2go7_C0WGJ18TLgiSMGu8qE=/540x405/fi
 
  You can also press**Shift+Command+4+Spacebar** to capture a specific screen element (such as a menu or app). To see all of your screenshot options, including a screen recorder, press**Shift+Command+5** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do You Print Screen on a Logitech Wireless Keyboard?
 
  A Camera icon may represent the Print Screen key (often shortened to PrtScr or PrtSc). It might have a dedicated key or share one of the function keys at the top of the keyboard.
@@ -41,10 +55,17 @@ thumbnail: https://www.lifewire.com/thmb/E7Vx2go7_C0WGJ18TLgiSMGu8qE=/540x405/fi
 ![Print Screen Key on a Dell XPS 13.](https://www.lifewire.com/thmb/69ba7xDN0RG382zPypUBUTaZYpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-TakeaScreenshotonaDellLaptop-annotated-ec47a86d15a142dc8eb5a740ef6d3284.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Where Are My Screenshots Saved?
@@ -91,5 +112,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capturing-the-heart-of-sims-innovative-techniques-for-recording-realistic-gameplay-for-2024/"><u>[New] Capturing the Heart of Sims Innovative Techniques for Recording Realistic Gameplay for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-optimized-obs-options-for-low-end-systems/"><u>[Updated] In 2024, Optimized OBS Options for Low-End Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/5-innovative-apps-to-transform-your-house-painting-experience-successfully/"><u>5 Innovative Apps to Transform Your House Painting Experience Successfully</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/coming-soon-the-psvr2-for-pcs-key-reasons-to-think-twice-before-buying/"><u>Coming Soon! The PSVR2 for PCs - Key Reasons to Think Twice Before Buying</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/imessage-communication-made-easy-tips-for-using-imessage-on-a-windows-device-insights-from-zdnet/"><u>IMessage Communication Made Easy: Tips for Using iMessage on a Windows Device - Insights From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-honor-magic-5-lite-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Honor Magic 5 Lite</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-16-from-vivo-y100i-power-5g-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 16 from Vivo Y100i Power 5G to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-optimization-hacks-fix-slow-downs-for-an-improved-gaming-experience/"><u>Minecraft Optimization Hacks: Fix Slow Downs for an Improved Gaming Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolve-your-issues-with-missing-python24dll-error-messages-here/"><u>Resolve Your Issues with Missing Python24.dll Error Messages Here</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-headphones-on-sale-in-march-202n-find-your-perfect-pair/"><u>Top Rated Headphones on Sale in March 202N - Find Your Perfect Pair</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-iphone-vpn-apps-in-depth-reviews-and-comparisons-by-tech-experts-zdnet/"><u>Top-Rated iPhone VPN Apps: In-Depth Reviews & Comparisons by Tech Experts - ZDNet</u></a></li>
+</ul></div>
 

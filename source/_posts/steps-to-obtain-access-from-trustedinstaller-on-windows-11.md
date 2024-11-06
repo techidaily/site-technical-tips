@@ -1,7 +1,7 @@
 ---
 title: Steps to Obtain Access From TrustedInstaller on Windows 11
-date: 2024-10-29T18:05:06.302Z
-updated: 2024-10-30T23:04:11.457Z
+date: 2024-10-30T21:20:01.375Z
+updated: 2024-11-05T20:45:56.640Z
 categories:
   - BestProducts
 description: This Article Describes Steps to Obtain Access From TrustedInstaller on Windows 11
@@ -24,10 +24,10 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
  This article explains all the different ways to make Windows 11 screenshots.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use PrtScn to Screenshot the Whole Screen
@@ -41,10 +41,10 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fullscreen Screenshot and Auto-save to Folder
@@ -57,33 +57,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Screenshot Part of the Screen
 
@@ -100,6 +74,13 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -107,6 +88,13 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
  Or, if you select the prompt that pops up at the bottom of the screen after taking the screenshot, it'll open in Snipping Tool. There are markup tools like a pencil and highlighter. You can also easily crop the screenshot further, print it out, copy text from it, import it into Paint, run it through Bing's reverse image search tool, and save it as a PNG, JPG, or GIF file.
 
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Delayed Screenshots With Snipping Tool
 
@@ -162,24 +150,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-discover-the-best-15-youtube-science-think-tanks/"><u>[New] 2024 Approved Discover the Best 15 YouTube Science Think Tanks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-calculating-capital-for-cutting-song-into-a-vision/"><u>[Updated] Calculating Capital for Cutting Song Into a Vision</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-selecting-the-top-7-youtube-live-streaming-apps-for-iosandroid-users/"><u>[Updated] The Ultimate Guide Selecting the Top 7 YouTube Live Streaming Apps for iOS/Android Users</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-how-to-use-windows-movie-maker-to-make-animation/"><u>2024 Approved How to Use Windows Movie Maker to Make Animation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/amazon-prime-day-unveiled-what-to-expect-in-the-sensational-202n4-event/"><u>Amazon Prime Day Unveiled: What to Expect in the Sensational 202N4 Event</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diagnosing-and-fixing-loud-or-annoying-pc-fan-issues/"><u>Diagnosing and Fixing Loud or Annoying PC Fan Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-resolving-technical-hiccups-in-your-tiktok-experience/"><u>Expert Advice: Resolving Technical Hiccups in Your TikTok Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-water-resistant-capabilities-of-the-new-iphone-15/"><u>Exploring the Water-Resistant Capabilities of the New iPhone 15</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-world-of-telegram-insights-into-its-features-and-capabilities/"><u>Exploring the World of Telegram: Insights Into Its Features and Capabilities</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-12-mini-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 12 mini Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/limited-time-alert-get-your-hands-on-apples-affordable-series-9-best-price-ever-recorded-shop-now-after-prime-day-frenzy-ends-insights/"><u>Limited Time Alert: Get Your Hands on Apple's Affordable Series 9, Best Price Ever Recorded - Shop Now After Prime Day Frenzy Ends Insights</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/navigating-success-with-advanced-cookiebot-features/"><u>Navigating Success with Advanced Cookiebot Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/prepare-for-the-future-of-tech-the-next-apple-event-explained-dates-and-rumors/"><u>Prepare for the Future of Tech: The Next Apple Event Explained - Dates & Rumors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-future-of-mobility-exploring-key-mobile-innovations-such-as-on-device-artificial-intelligence-and-next-gen-smartphones/"><u>The Future of Mobility: Exploring Key Mobile Innovations Such as On-Device Artificial Intelligence and Next-Gen Smartphones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-next-tech-revolution-strategies-for-apple-to-surpass-google-and-microsoft-in-the-spotlight-of-wwdc-2024-exclusive-analysis/"><u>The Next Tech Revolution: Strategies for Apple to Surpass Google and Microsoft in the Spotlight of WWDC 2024 | Exclusive Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-selection-of-ipad-air-sleeves-for-2ebeanry-expert-evaluations/"><u>Ultimate Selection of iPad Air Sleeves for 2Ebeanry: Expert Evaluations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-behind-apples-strongest-defender-an-in-depth-analysis-of-their-highly-durable-iphone-case-and-its-unique-security-aspect-gadgetgururev133/"><u>Unlocking the Secrets Behind Apple's Strongest Defender: An In-Depth Analysis of Their Highly Durable iPhone Case and Its Unique Security Aspect | GadgetGuruReview</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/windows-1011pc/"><u>Windows 10/11下以免费方式将PC数据备份到云端—极佳选项</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unlock-instagram-broadcast-potential-through-obs-tutorials/"><u>[New] 2024 Approved Unlock Instagram Broadcast Potential Through OBS Tutorials</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-ranked-instagram-tunes-and-secrets-for-exceptional-call-alerts/"><u>[Updated] 2024 Approved Top-Ranked Instagram Tunes & Secrets for Exceptional Call Alerts</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-cross-platform-streaming-techniques-from-youtube-to-30plus-platforms/"><u>[Updated] Cross-Platform Streaming Techniques From YouTube to 30+ Platforms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-tiny-tale-telling-framework/"><u>[Updated] Tiny Tale Telling Framework</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-listen-to-podcasts-on-your-iphone/"><u>2024 Approved How to Listen to Podcasts on Your iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-prepares-to-unveil-new-earbud-series-with-airpods-lite-and-enhanced-airpods-max-expected-later-this-year-insights/"><u>Apple Prepares to Unveil New Earbud Series with 'AirPods Lite' And Enhanced AirPods Max - Expected Later This Year Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beyond-the-giants-how-these-amazing-wallet-airtags-are-redefining-compatibility-and-convenience-without-apple-or-tile-involvement/"><u>Beyond the Giants: How These Amazing Wallet AirTags Are Redefining Compatibility and Convenience Without Apple or Tile Involvement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-sports-performance-integrating-whoop-and-apple-watch-for-serious-athletes-edge/"><u>Enhancing Sports Performance: Integrating Whoop and Apple Watch for Serious Athlete's Edge</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/imessage-communication-guide-sending-and-receiving-on-your-pc-with-windows-insights/"><u>IMessage Communication Guide: Sending & Receiving on Your PC with Windows - Insights</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-srt-file-conversion-simplified-with-os-support/"><u>In 2024, SRT File Conversion Simplified with OS Support</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-pexels-a-photographers-toolkit/"><u>Mastering Pexels A Photographer's Toolkit</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-wi-fi-protection-for-windows-users-simplified-tips-for-wireless-safety-on-10-7-and-81-systems/"><u>Mastering Wi-Fi Protection for Windows Users: Simplified Tips for Wireless Safety on 10, 7 & 8.1 Systems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/pioneering-sites-for-downloading-text-aesthetics-for-2024/"><u>Pioneering Sites for Downloading Text Aesthetics for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/score-your-own-150-apple-gift-card-learn-how-with-these-steps/"><u>Score Your Own $150 Apple Gift Card - Learn How with These Steps!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transferring-your-chat-history-on-whatsapp-move-from-an-android-device-to-ios-seamlessly/"><u>Transferring Your Chat History on WhatsApp: Move From an Android Device to iOS Seamlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/trustworthy-tech-review-western-digital-datashield-tested-for-reliable-drive-diagnostics/"><u>Trustworthy Tech Review: Western Digital DataShield Tested for Reliable Drive Diagnostics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ve-seen-a-substantial-shift-in-the-tech-landscape-highlighting-both-regulatory-challenges-and-advancements-stay-updated-on-how-these-pivotal-developments-ar70/"><u>Ve Seen a Substantial Shift in the Tech Landscape, Highlighting Both Regulatory Challenges and Advancements. Stay Updated on How These Pivotal Developments Are Reshaping Industry Standings.</u></a></li>
 </ul></div>
 

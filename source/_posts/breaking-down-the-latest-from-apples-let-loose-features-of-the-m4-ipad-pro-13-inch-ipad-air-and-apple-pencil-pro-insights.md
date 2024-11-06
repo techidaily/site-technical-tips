@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down the Latest From Apple's 'Let Loose': Features of the M4 iPad Pro, 13-Inch iPad Air & Apple Pencil Pro | Insights"
-date: 2024-10-29T23:21:33.146Z
-updated: 2024-10-30T17:02:56.304Z
+date: 2024-10-31T16:51:48.534Z
+updated: 2024-11-05T17:50:31.636Z
 tags:
   - apple
 categories:
@@ -31,13 +31,6 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -76,10 +69,10 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -99,10 +92,10 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -110,6 +103,13 @@ The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting yo
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
 
@@ -128,10 +128,16 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -168,17 +174,16 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-mastering-desktop-and-mobile-capturing-team-video-conferences/"><u>[New] Mastering Desktop & Mobile Capturing Team Video Conferences</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-premier-windows-video-chat-apps-7-1-for-2024/"><u>[New] Premier Windows Video Chat Apps #7-#1 for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-are-opinions-on-goods-compensated-in-videos/"><u>[Updated] Are Opinions on Goods Compensated in Videos?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-quest-for-the-best-framerate-balancing-speed-and-clarity-for-2024/"><u>[Updated] The Quest for the Best Framerate - Balancing Speed & Clarity for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/clearing-up-misconceptions-about-internet-equality/"><u>Clearing Up Misconceptions About Internet Equality</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/creating-a-bootable-ubuntu-stick-with-etcher-on-any-pc/"><u>Creating a Bootable Ubuntu Stick with Etcher on Any PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-how-these-five-social-apps-can-assist-in-building-your-friend-network/"><u>Discover How These Five Social Apps Can Assist in Building Your Friend Network</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-8-travel-planning-apps-you-cant-miss/"><u>Discover the Best 8 Travel Planning Apps You Can't Miss</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/lighten-your-livestreams-selecting-5-brightening-tech/"><u>Lighten Your Livestreams Selecting 5 Brightening Tech</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-device-startup-errors-mastering-the-fixes-for-code-10-challenges/"><u>Overcoming Device Startup Errors: Mastering the Fixes for Code 10 Challenges</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-facebooks-guide-to-enhancing-past-recordings-for-live-streaming-for-2024/"><u>[New] Facebook's Guide to Enhancing Past Recordings for Live Streaming for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-10-most-empathetic-3ds-emulators-on-android/"><u>[Updated] 10 Most Empathetic 3DS Emulators on Android</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-privacy-implementing-two-step-authentication-for-gmail-users/"><u>Enhance Your Privacy: Implementing Two-Step Authentication for Gmail Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ev-performance-can-electric-vehicles-handle-harsh-temperatures/"><u>EV Performance: Can Electric Vehicles Handle Harsh Temperatures?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-on-resolving-microsofts-error-0x80070570-a-step-by-step-guide/"><u>Expert Tips on Resolving Microsoft's Error 0X80070570: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-fix-windows-11-dvd-player-error-code-0x87e10bc6-complete-guide/"><u>How to Fix Windows 11 DVD Player Error Code 0X87E10BC6 - Complete Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-chatgpt-susceptible-to-cybersecurity-threats-and-risks/"><u>Is ChatGPT Susceptible to Cybersecurity Threats and Risks?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-your-iphone-13-case-compatible-with-iphone-14-find-out-here-insights/"><u>Is Your iPhone 13 Case Compatible with iPhone 14? Find Out Here - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/logic-pro-revolutionizes-music-production-on-ipad-and-mac-with-cutting-edge-ai-assistants-apples-creative-suite-expansion-detailed-by-zdnet/"><u>Logic Pro Revolutionizes Music Production on iPad and Mac with Cutting-Edge AI Assistants | Apple's Creative Suite Expansion Detailed by ZDNet</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-guide-making-your-white-backgrounds-invisible/"><u>Step-by-Step Guide: Making Your White Backgrounds Invisible</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-large-desk-mouse-pads-the-ultimate-guide-to-the-best-mousing-surfaces/"><u>Top-Rated Large Desk Mouse Pads: The Ultimate Guide to the Best Mousing Surfaces</u></a></li>
 </ul></div>
 

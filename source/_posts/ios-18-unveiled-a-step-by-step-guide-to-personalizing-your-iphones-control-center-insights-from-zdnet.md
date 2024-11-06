@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Insights From ZDNet"
-date: 2024-10-29T03:53:56.033Z
-updated: 2024-10-30T21:16:05.559Z
+date: 2024-10-30T00:41:03.395Z
+updated: 2024-11-05T18:45:17.350Z
 tags:
   - apple
 categories:
@@ -37,10 +37,16 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -52,10 +58,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -64,18 +70,18 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -86,10 +92,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -134,17 +140,15 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-access-all-movies-ioss-no1-freepluspaid-film-apps-guide/"><u>[New] In 2024, Access All Movies IOS's No.1, FREE+Paid Film Apps Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-expanding-digital-presence-stream-to-youtube-plus-additional-platforms/"><u>[Updated] Expanding Digital Presence Stream to YouTube + Additional Platforms</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/advanced-techniques-for-using-live-photos-in-mobile-devices-for-2024/"><u>Advanced Techniques for Using Live Photos in Mobile Devices for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/can-you-use-microsoft-word-without-paying-discover-the-options/"><u>Can You Use Microsoft Word Without Paying? Discover the Options!</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-failed-attempts-at-connecting-with-remote-servers/"><u>Diagnosing and Repairing Failed Attempts at Connecting with Remote Servers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-nvidia-1080-graphics-card-drivers-on-windows-11-quick-and-simple-steps/"><u>Download NVIDIA 1080 Graphics Card Drivers on Windows 11: Quick & Simple Steps</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-the-compact-new-mac-mini-with-m4-chipset-a-match-for-your-needs-unveiling-its-capabilities-zdnet/"><u>Is the Compact New Mac Mini with M4 Chipset a Match for Your Needs? Unveiling Its Capabilities | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/making-the-right-pick-a-detailed-comparison-of-apples-m3-and-m2-macbook-air-find-out-which-one-suits-you-best/"><u>Making The Right Pick: A Detailed Comparison of Apple's M3 & M2 MacBook Air - Find Out Which One Suits You Best!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-iphone-14-plus-outshines-in-affordability-and-battery-life-a-comprehensive-review/"><u>Why iPhone 14 Plus Outshines in Affordability and Battery Life - A Comprehensive Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-the-iphone-15-is-a-game-changer-even-for-seasoned-professionals-exclusive-review/"><u>Why the iPhone 15 Is a Game-Changer, Even for Seasoned Professionals – Exclusive Review</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-from-frustration-to-finishing-how-magix-vpx-saves-time-for-2024/"><u>[New] From Frustration to Finishing How Magix VPX Saves Time for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-step-by-step-reposting-on-instagram/"><u>[New] In 2024, Step-by-Step Reposting on Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-elite-filmmakers-foreshadowing-series/"><u>[Updated] Elite Filmmaker's Foreshadowing Series</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-ensuring-data-privacy-while-transforming-youtube-video-audio-to-mp3/"><u>[Updated] In 2024, Ensuring Data Privacy While Transforming YouTube Video Audio to MP3</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-phantom-touch-issues-plaguing-additional-apple-watch-users-solutions-inside-zdnet/"><u>1. 'Phantom Touch Issues Plaguing Additional Apple Watch Users: Solutions Inside | ZDNet'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amazons-hot-deals-for-september-202n-exclusive-picks-by-zdnet-reviewed/"><u>Amazon's Hot Deals for September 202N: Exclusive Picks by ZDNET Reviewed!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/compatible-with-pc-comprehensive-tutorial-for-opening-apples-pages-format/"><u>Compatible with PC: Comprehensive Tutorial for Opening Apple's Pages Format</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/guide-to-capturing-google-voice-chats-for-2024/"><u>Guide to Capturing Google Voice Chats for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975139207-hassle-free-setup-for-intel-thunderbolt-controllers-download-instructions-now/"><u>Hassle-Free Setup for Intel Thunderbolt Controllers - Download Instructions Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steamdll-issues-methods-for-restoration-and-prevention/"><u>Troubleshooting Steam.dll Issues: Methods for Restoration and Prevention</u></a></li>
 </ul></div>
 

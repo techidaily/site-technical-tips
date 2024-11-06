@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mobile Screen Recording: A Step-by-Step Walkthrough for iPhones by Experts at ZDNet"
-date: 2024-10-28T07:50:54.131Z
-updated: 2024-10-30T17:51:19.564Z
+date: 2024-11-01T16:36:01.271Z
+updated: 2024-11-05T22:32:41.918Z
 tags:
   - apple
 categories:
@@ -66,10 +66,10 @@ Voice recordings autosave under different names based on whether Location Servic
 Screenshot by Radhika Rajkumar/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Play back the audio file and make adjustments
@@ -81,10 +81,16 @@ Now, play the file back and see if the audio is discernible. Make the adjustment
 For example, if the sound quality is too low, you may need to speak louder, increase the microphone sensitivity (go to Settings > Sounds & Haptics), or put the speaker closer to your mouth. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check whether you need to inform the other party that you're recording
@@ -94,6 +100,13 @@ Always [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-s
 **Also:** [**Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)**](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-new-ios-18-public-beta-and-which-ones-cant/)
 
 One-party states require only one person on the call -- which would be you -- to consent. An all-party state requires both the person recording and the person(s) being recorded to consent. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Start recording
 
@@ -127,31 +140,30 @@ Open up sharing options. You can also trim or rename the recording to something 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Other ways to record
 
 Following the steps above is the easiest, most efficient, and most discreet way to record a phone call on your iPhone. If you or a trusted second party don't have another device to spare, here are a few alternatives. 
 
 Note: Many apps that record phone calls likely need to conference into the call before recording begins, which may take a moment and could be detectable by the other person on the call. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Rev Voice Recorder
 
 Rev has a few options depending on what you need. If you want to record phone calls, try their [Call Recorder](https://apps.apple.com/us/app/rev-call-recorder/id1314427915) app -- it's free, with no limits on recording lengths, and even has in-app legal guidance. For recording other conversations, Rev's [Voice Recorder](https://apps.apple.com/US/app/id1314427915?mt=8) app is also free and has an easy-to-use interface. 
 
 Plus, Rev offers AI-supported [transcription](https://www.rev.com/pricing) of your recordings for $0.25 per minute, or you can have a human professionally transcribe your recording for $1.50 per minute. Once you download your file, it will appear as an MP3 file on your device. This is a great option for recording phone calls and narrating screen recordings. 
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Google Voice
 
@@ -190,10 +202,10 @@ Alternatively, you can use most mic-equipped computers or tablets to record phon
 Unfortunately, no -- at least not yet. Apple itself doesn't have an app, but there are third-party apps available on the [App Store](https://www.apple.com/app-store/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.apple.com/app-store/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22App%20Store%22%7D). Also, Voice Memos is most likely automatically installed on your iOS device. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does screen recording on iPhone record my call?
@@ -234,20 +246,24 @@ The Voice Memos app can record for an unlimited amount of time as long as you ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-photosegments-evaluation/"><u>[New] In 2024, PhotoSegments Evaluation</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-top-11-audio-capture-devices-for-live-broadcasts/"><u>[Updated] Top 11 Audio Capture Devices for Live Broadcasts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2024-top-5-free-recording-software-of-the-year/"><u>2024 最佳無限制記錄影軟件列表 Top 5 Free Recording Software of the Year</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-art-of-patience-transform-your-reels-through-slow-motion/"><u>2024 Approved The Art of Patience Transform Your Reels Through Slow-Motion</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-integrates-openais-chatgpt-into-ios-ipados-and-macos-a-new-era-of-conversational-interfaces/"><u>Apple Integrates OpenAI's ChatGPT Into iOS, iPadOS & MacOS: A New Era of Conversational Interfaces</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-11-freeware-tools-for-keeping-your-programs-updated/"><u>Discover the Ultimate List: 11 Freeware Tools for Keeping Your Programs Updated</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/eu-users-can-now-download-apps-via-web-in-ios-175-beta-2-release-explore-how-its-revolutionizing-access/"><u>EU Users Can Now Download Apps via Web in iOS 17.5 Beta 2 Release – Explore How It's Revolutionizing Access</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-the-latest-ios-1amidst-podcast-transcriptions-and-emoji-updates-apple-also-unveils-significant-changes-to-its-european-app-store-detailed-coverage-b193/"><u>Explore the Latest iOS 1Amidst Podcast Transcriptions and Emoji Updates, Apple Also Unveils Significant Changes to Its European App Store - Detailed Coverage by ZDNet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/game-recording-made-easy-with-xbox-one-capture-techniques-for-2024/"><u>Game Recording Made Easy with Xbox One Capture Techniques for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/in-depth-review-of-the-latest-innovations-from-apples-iphone-16-launch-from-artificial-intelligence-to-the-tenth-generation-apple-watch-and-beyond/"><u>In-Depth Review of the Latest Innovations From Apple's iPhone 16 Launch: From Artificial Intelligence to the Tenth Generation Apple Watch and Beyond</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Nokia G310? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-the-world-of-digital-gifs/"><u>Navigating the World of Digital GIFs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/next-gen-faceoff-comparing-apples-latest-marvel-series-10-to-its-predecessor-series-8-zdnet/"><u>Next-Gen Faceoff: Comparing Apple's Latest Marvel, Series 10 to Its Predecessor Series 8 | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-a-better-nights-rest-with-these-exceptional-apple-watch-sleep-monitoring-apps/"><u>Unlock a Better Night's Rest with These Exceptional Apple Watch Sleep Monitoring Apps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-choice-vr-game-engines-update-march-2023/"><u>[New] 2024 Approved Top Choice VR Game Engines Update - March 2023</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-flip-it-like-a-pro-reversed-snaps-technique-for-2024/"><u>[New] Flip It Like a Pro Reversed Snaps Technique for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-mastering-obs-for-live-skype-recording/"><u>[New] In 2024, Mastering OBS for Live Skype Recording</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-charting-the-course-visual-content-in-educational-endeavors/"><u>[Updated] Charting the Course Visual Content in Educational Endeavors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevating-youtube-productions-with-effective-video-lighting-for-2024/"><u>[Updated] Elevating YouTube Productions with Effective Video Lighting for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cod-world-war-ii-error-4128-explained-and-resolved-easily/"><u>COD World War II Error 4128 Explained and Resolved Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-instructions-on-how-to-erase-your-presence-from-twitch-platform/"><u>Complete Instructions on How to Erase Your Presence From Twitch Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cracking-the-code-on-the-2024-great-crowdstrike-windows-meltdown-a-deep-dive-into-history-s-analysis/"><u>Cracking the Code on the 2024 Great CrowdStrike-Windows Meltdown: A Deep Dive Into History 'S Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-new-features-of-apple-airpods-gen-3-a-detailed-overview-gadgetcentral/"><u>Exploring the New Features of Apple AirPods (Gen 3) - A Detailed Overview | GadgetCentral</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fandangos-ultimate-guide-to-enjoying-3d-movies-in-the-comfort-of-your-own-home/"><u>Fandango's Ultimate Guide to Enjoying 3D Movies in the Comfort of Your Own Home</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-infinix-smart-7-hd-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Infinix Smart 7 HD?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23plus-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23+ Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-poco-f5-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Poco F5 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-craft-the-ultimate-guide-to-using-macos-premier-document-creation-app/"><u>Mastering Craft: The Ultimate Guide to Using MacOS’ Premier Document Creation App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-tech-dominance-from-googles-regulatory-setbacks-to-samsungs-rise-with-galaxy-ai-in-the-latest-innovation-rankings/"><u>Navigating Tech Dominance: From Google's Regulatory Setbacks to Samsung’s Rise with Galaxy AI in The Latest Innovation Rankings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-best-kids-movies-on-netflix/"><u>The Best Kids' Movies on Netflix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-frontier-with-apple-introducing-a-revolutionary-robotic-aide-for-modern-homes-zdnet/"><u>The Next Frontier with Apple: Introducing a Revolutionary Robotic Aide for Modern Homes | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-restful-nights-with-these-5-premier-apple-watch-sleep-applications/"><u>Unlock Restful Nights with These 5 Premier Apple Watch Sleep Applications</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wdf-drivers-crisis-averted-stop-bsod-in-windows-os/"><u>WDF Drivers Crisis Averted: Stop BSOD in Windows OS</u></a></li>
 </ul></div>
 

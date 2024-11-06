@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Configuring Your New Apple Watch (ZDNet)"
-date: 2024-10-24T04:16:22.036Z
-updated: 2024-10-30T16:08:33.037Z
+date: 2024-11-02T22:18:57.070Z
+updated: 2024-11-05T17:45:03.689Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
@@ -57,13 +64,6 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
@@ -75,23 +75,9 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
@@ -110,6 +96,13 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -131,15 +124,22 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##   
@@ -187,19 +187,14 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-5-strategies-for-storing-mov-on-windows-10/"><u>[New] In 2024, 5 Strategies for Storing .mov on Windows 10</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-auto-captioned-content-in-social-media-visuals-for-2024/"><u>[New] Navigating Auto-Captioned Content in Social Media Visuals for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discovering-the-future-with-ios-18-the-top-five-features-from-wwdc-2024-and-the-dawn-of-ai-integration/"><u>Discovering the Future with iOS 18: The Top Five Features From WWDC 2024 and the Dawn of AI Integration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-limitless-conversations-with-unrestrained-chatgpt-alternatives-for-windows-users/"><u>Explore Limitless Conversations with Unrestrained ChatGPT Alternatives for Windows Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-apple-can-rise-in-the-ai-arena-essential-features-for-competition-against-google-and-openai-insights-from-zdnet/"><u>How Apple Can Rise in the AI Arena: Essential Features for Competition Against Google & OpenAI - Insights From ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-infinix-note-30-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Infinix Note 30 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-navigating-tiktok-to-twitter/"><u>In 2024, Navigating TikTok to Twitter</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-top-tip-how-to-create-a-quick-and-easy-google-collage-photo/"><u>In 2024, Top Tip How to Create a Quick and Easy Google Collage Photo</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-adding-chatbots-to-discord-servers/"><u>Step-by-Step Tutorial: Adding Chatbots to Discord Servers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-phone-stores-where-to-find-the-perfect-mobile-device/"><u>Top Phone Stores: Where to Find the Perfect Mobile Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-mini-tablets-comprehensive-reviews-and-performance-testing-by-tech-experts-zdnet/"><u>Top Rated Mini Tablets : Comprehensive Reviews & Performance Testing by Tech Experts - ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-most-innovative-keyboards-of-2024-professional-insights-and-ratings-pcworld/"><u>Ultimate Guide to the Most Innovative Keyboards of 2024 - Professional Insights and Ratings | PCWorld</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-might-a-windows-11-computer-begin-to-boot-automatically/"><u>Why Might a Windows 11 Computer Begin to Boot Automatically?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-free-and-legal-youtube-downloader-tools-recommendations/"><u>[Updated] Free & Legal YouTube Downloader Tools - Recommendations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-simplify-your-social-media-uploading-multiple-photos-and-vids-on-ig/"><u>[Updated] Simplify Your Social Media Uploading Multiple Photos and Vids on IG</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-essential-tips-for-shooting-talking-head-videos/"><u>2024 Approved Essential Tips for Shooting Talking Head Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/integrated-mobility-evaluation-study/"><u>Integrated Mobility Evaluation Study</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-volume-control-step-by-step-solutions-for-windows-11-audio-problems/"><u>Restoring Volume Control: Step-by-Step Solutions for Windows 11 Audio Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-the-504-gateway-timeout-issue-a-step-by-step-guide/"><u>Solving the Mystery of the 504 Gateway Timeout Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-choosing-the-perfect-apple-watch-band-professional-testing-and-ratings/"><u>The Ultimate Guide to Choosing the Perfect Apple Watch Band : Professional Testing and Ratings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tuning-into-championship-glory-top-mens-college-basketball-showdowns-on-air/"><u>Tuning Into Championship Glory: Top Men's College Basketball Showdowns On Air!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-top-4-groundbreaking-features-of-apples-iphone-16-that-justify-upgrading-from-older-models-wired/"><u>Unveiling the Top 4 Groundbreaking Features of Apple's iPhone 16 That Justify Upgrading From Older Models | Wired</u></a></li>
 </ul></div>
 

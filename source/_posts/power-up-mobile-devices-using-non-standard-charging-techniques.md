@@ -1,7 +1,7 @@
 ---
 title: Power Up Mobile Devices Using Non-Standard Charging Techniques
-date: 2024-09-12T17:53:06.313Z
-updated: 2024-09-15T22:10:20.292Z
+date: 2024-10-31T00:16:44.477Z
+updated: 2024-11-05T22:00:22.849Z
 categories:
   - BestProducts
 description: This Article Describes Power Up Mobile Devices Using Non-Standard Charging Techniques
@@ -18,6 +18,13 @@ thumbnail: https://www.lifewire.com/thmb/rYKWlfJyWAdWFKXoIZAZDkDEjno=/400x300/fi
 
  This article explains how to insert code in Word. Directions apply to Word 2010 and newer, including Word 2021 and Microsoft 365.  
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Insert Code in Word With an Embedded Document
 
  While there isn't an 'insert code' option or a dedicated code block in Word, there is a way to insert one document into another. This effectively creates an isolated section that houses all the code. Here's how to make this work with your code:
@@ -29,13 +36,37 @@ These instructions only work with a single page of code.
 2. In the**Text** group, select**Object** .  
 ![A Word document with the Object option highlighted in the Insert menu](https://www.lifewire.com/thmb/opt-Q1YQfqT2MaDUICEGskPbmMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-insert-source-code-into-word-document-3994582-939bbef12a77474cbc646e7bfca9da48.jpg)
 3. From the**Create New** tab, select**Microsoft Word Document** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Create New Object box in Word with the Microsoft Word Document option highlighted](https://www.lifewire.com/thmb/ubtpMlrpJY0mh1rhIZL7mTUeCd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-insert-source-code-into-word-document-3994582-1f1467fff74c4365913779c89a44dbaa.jpg)  
  In Word 2007, select**OpenDocument Text** .
 4. Clear the**Display as icon** check box.  
 ![Create New Object window in Word with the Display as icon box highlighted](https://www.lifewire.com/thmb/WfEAUTUH0LAddtO-6cyGBZT-mD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-insert-source-code-into-word-document-3994582-4b2746dea1ed49bcada5827d208e1b0e.jpg)
 5. Select**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Create New Object window in Word with the OK button highlighted](https://www.lifewire.com/thmb/8N0g_QZk5AJ8wFNEQ383YZ-mRsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-insert-source-code-into-word-document-3994582-14b9900cd90341d1a925d63b07c467df.jpg)
 6. A new document opens, titled **Document in \[_target document file name_ \]** . Save the document in the same folder as the original document.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. [Copy and paste the source code](https://www.lifewire.com/cut-copy-and-paste-in-microsoft-word-4159583) into the new document. Word automatically ignores the spaces, tabs, and other formatting problems. Spelling errors and grammatical errors are highlighted in the document, but these errors are ignored when the code is inserted in the original document.  
 ![Microsoft Word displaying source code to insert into a Word presentation document](https://www.lifewire.com/thmb/AxWUG0N0zvb3wxwA_zIcMWY9qiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NewSourceCode-d276da35f0ba4f36aafddaa578cad3b0.jpg)
 8. Save and close the source code document. The code automatically appears in the main document.  
@@ -51,13 +82,6 @@ These instructions only work with a single page of code.
 * **Unformatted Text** : All code is pasted as unformatted, so you'll lose indenting, color, typeface, and related contextual clues.
 * **HTML Format** : This renders what appears to be a photo of the code, complete with the text editor's background color. This code block is editable, and you can remove the background color if you wish.
 * **Unformatted Unicode Text** : Pastes the text as is but strips the text and background colors. Re-format the code as needed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Problem With Using Source Code in Word
 
@@ -103,5 +127,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-comparing-top-titles-magix-video-pro-x-among-others/"><u>[New] Comparing Top Titles Magix Video Pro X Among Others</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-building-your-brand-setting-up-a-business-on-instagram/"><u>[Updated] In 2024, Building Your Brand Setting Up a Business on Instagram</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-cutting-out-the-clutter-efficient-borders-removal-on-canva/"><u>2024 Approved Cutting Out the Clutter Efficient Borders Removal on Canva</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ult-over-a-thousand-youtube-audience-members/"><u>Catapult Over a Thousand YouTube Audience Members</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-instructions-for-linking-your-samsung-soundbar-and-television-system/"><u>Easy Instructions for Linking Your Samsung Soundbar and Television System</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-11-pro-max-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone 11 Pro Max</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-beginners-guide-to-decoding-diagonal-aspect-ratios/"><u>In 2024, Beginners Guide to Decoding Diagonal Aspect Ratios</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-masters-designing-virtual-marvel-realms/"><u>In 2024, Masters Designing Virtual Marvel Realms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macbook-air-with-apple-m1-chip-unbeatable-deal-at-only-649-top-saving-on-zdnet/"><u>MacBook Air with Apple M1 Chip: Unbeatable Deal at Only $649 – Top Saving on ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-win-11-adjusting-proxy-preferences/"><u>Navigating Win 11: Adjusting Proxy Preferences</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-cutting-out-problems-in-logitech-g930-speakersmicrophone/"><u>Step-by-Step Solution for Cutting Out Problems in Logitech G930 Speakers/Microphone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-unbelievably-impressive-features-of-the-new-ipad-air-why-it-could-make-you-rethink-your-choice-for-the-ipad-pro-tech-review/"><u>The Unbelievably Impressive Features of the New iPad Air: Why It Could Make You Rethink Your Choice for the iPad Pro | Tech Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-protective-cases-for-iphone-12-and-12-pro-2023s-ultimate-guide-zdnet/"><u>Top Rated Protective Cases for iPhone 12 & 12 Pro: 2023'S Ultimate Guide - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-truths-why-the-iphone-16-may-not-be-worth-your-money-for-apple-enthusiasts-expert-analysis/"><u>Unlocking Truths: Why the iPhone 16 May Not Be Worth Your Money for Apple Enthusiasts | Expert Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-google-pixel-10-release-timeline-estimated-costs-and-feature-speculations/"><u>Upcoming Google Pixel 10 - Release Timeline, Estimated Costs & Feature Speculations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-apples-vision-pro-is-a-game-changer-insider-secrets-and-top-benefits-explored/"><u>Why Apple's Vision Pro Is a Game Changer: Insider Secrets & Top Benefits | Explored</u></a></li>
+</ul></div>
 

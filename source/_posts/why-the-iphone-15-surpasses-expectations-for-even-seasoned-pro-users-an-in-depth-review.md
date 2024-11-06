@@ -1,7 +1,7 @@
 ---
 title: Why the iPhone 15 Surpasses Expectations for Even Seasoned 'Pro' Users - An In-Depth Review
-date: 2024-10-28T07:45:53.944Z
-updated: 2024-10-31T03:09:48.811Z
+date: 2024-11-04T19:28:58.667Z
+updated: 2024-11-05T23:02:46.243Z
 tags:
   - apple
 categories:
@@ -45,6 +45,13 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | iPhone 15    | iPhone 15 Plus                                    |                                                   |
@@ -61,10 +68,10 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -128,16 +135,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -154,19 +155,6 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -179,16 +167,16 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -224,24 +212,17 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unraveling-the-best-video-formats-for-youtube-success/"><u>[New] 2024 Approved Unraveling the Best Video Formats for YouTube Success</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-instant-download-fb-music-library/"><u>[New] Instant Download FB Music Library</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-time-saving-titans-the-8-cutting-edge-schedulers-reviewed/"><u>[Updated] In 2024, Time-Saving Titans The 8 Cutting-Edge Schedulers Reviewed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-ios-and-android-photo-editing-face-tools/"><u>Best iOS and Android Photo-Editing Face Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-pc-performance-troubleshooting-sluggish-windows-11-issues/"><u>Boost Your PC Performance: Troubleshooting Sluggish Windows 11 Issues</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/comment-convertir-des-videos-en-4k-avec-hevc-guides-complets-et-tutoriels/"><u>Comment Convertir Des Vidéos en 4K Avec HEVC : Guides Complets Et Tutoriels</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-on-dealing-with-the-elusive-mss32dll-file-error/"><u>Expert Advice on Dealing with the Elusive MSS32.DLL File Error</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-artificial-intelligences-remarkable-ability-to-reshape-our-world/"><u>Exploring Artificial Intelligence's Remarkable Ability to Reshape Our World</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/psvr-2-unveiled-insights-into-specifications-market-price-and-availability-schedule/"><u>PSVR 2 Unveiled: Insights Into Specifications, Market Price, and Availability Schedule</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-for-windows-users-facing-libcurldll-not-found-issues/"><u>Quick Fixes for Windows Users Facing 'libcurl.dll Not Found' Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reviving-your-deactivated-snapchat-profile-a-step-by-step-guide/"><u>Reviving Your Deactivated Snapchat Profile: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/texting-simplified-a-step-by-step-guide-to-messaging-from-your-ipad/"><u>Texting Simplified: A Step-by-Step Guide to Messaging From Your iPad</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-seamless-multilingual-interactions-our-pick-of-top-6-offline-translator-tools/"><u>Unlock Seamless Multilingual Interactions: Our Pick of Top 6 Offline Translator Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-samsung-galaxy-s2n-prospective-price-points-debut-date-and-specs-revealed/"><u>Unveiling the Samsung Galaxy S2n: Prospective Price Points, Debut Date & Specs Revealed!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-do-when-your-roku-device-fails-to-boot-essential-fixes/"><u>What to Do When Your Roku Device Fails to Boot - Essential Fixes</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mp3mp/"><u>おススメのビットレート変換フリーソフト MP3/MP オプションのガイド</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/downloading-facebook-videos-to-mp4-no-hassle/"><u>Downloading Facebook Videos to MP4 - No Hassle</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-not-found-issues-with-nspr4dll-on-your-pc/"><u>Fixing Not Found Issues with Nspr4.dll on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/implementing-slack-into-daily-routines-for-efficient-project-management/"><u>Implementing Slack Into Daily Routines for Efficient Project Management</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-realme-11-proplus-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Realme 11 Pro+ Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inspire-your-followers-with-our-selection-of-507-best-instagram-captions-in-202-4/"><u>Inspire Your Followers with Our Selection of 507 Best Instagram Captions in 202 4</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/itunes-retires-exploring-apples-latest-windows-compatible-media-suite-announced-by-zdnet/"><u>ITunes Retires: Exploring Apple's Latest Windows-Compatible Media Suite Announced by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-ideapad-duet-the-versatile-best-choice-of-chromebooks-and-tablets-reviews-by-zdnet/"><u>Lenovo IdeaPad Duet - The Versatile Best Choice of Chromebooks & Tablets Reviews by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-apex-legends-simple-cheat-detection-mishap/"><u>Resolving Apex Legends' Simple Cheat Detection Mishap</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-mcuicntexe-execution-issue-on-pcs/"><u>Resolving McUICnt.exe Execution Issue on PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsungs-latest-innovation-z-fold-4-unveiled-with-release-details-pricing-structure-and-hardware-info/"><u>Samsung's Latest Innovation: Z Fold 4 Unveiled with Release Details, Pricing Structure & Hardware Info</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722880434378-the-ultimate-matrix-movie-marathon-in-sequence/"><u>The Ultimate Matrix Movie Marathon: In Sequence!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-new-in-amd-radeon-v2410-graphics-drivers-features-and-improvements/"><u>What's New in AMD Radeon v24.10 Graphics Drivers - Features and Improvements</u></a></li>
 </ul></div>
 

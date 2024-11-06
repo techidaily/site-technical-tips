@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Composing Audio Notes on an iPhone"
-date: 2024-09-13T22:56:05.227Z
-updated: 2024-09-15T19:52:10.242Z
+date: 2024-11-02T21:36:03.962Z
+updated: 2024-11-05T17:58:29.705Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Tutorial: Composing Audio Notes on an iPhone"
@@ -16,6 +16,13 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 * Open the Voice Memos app and tap**record** . When finished, tap**stop** . Tap the three dots icon and select **Share** .
 
  This article explains two easy ways to send voice messages on your iPhone. You can create and share an audio message using the Messages and Voice Memos apps. This option is convenient if speaking is quicker and easier than typing or if you want your recipient to hear your voice.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Create and Send a Voice Message With Messages
 
@@ -36,6 +43,26 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 6. Tap**Send** to share the audio message. Alternatively, tap**Play** to preview it, and**X** to cancel.  
 ![The recording bar, stop button, and cancel, send, and preview buttons for a voice message in Messages for iOS 17](https://www.lifewire.com/thmb/sTqipQrHLcQarZqKDQPXZpHwCWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Record-voice-memo-f1227deae1c04346af41582dfe9d820d.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Drawbacks of Using Messages
 
  Here are a couple of disadvantages to using this function in Messages:
@@ -44,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 * By default, audio messages expire two minutes after you listen to them and are automatically removed. Your recipient can tap**Keep** to hold onto your message or disable the expiration by going to**Settings** \>**Messages** .
 
  If your recipient isn’t an iPhone user or you want to avoid the possible expiration of your audio message, consider sharing your message using Voice Memos.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Create and Send a Voice Message With Voice Memos
 
@@ -62,14 +82,14 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 ![Voice Memos app on iPhone showing record and stop buttons](https://www.lifewire.com/thmb/2_63ut4LxIyAJWKQ8B09aZfN3GQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-send-voice-messages-iphone-5199864-8bd9efbee2b74c8eb666703fa3a9dac4.jpg)
 4. The recording pops to the top section of the screen. You can tap the **Play** button to have a listen.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To share, tap the**three dots** next to the name of the recording.  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip  
 
@@ -114,5 +134,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-unearthing-the-top-10-sleeper-social-media-stars-for-2024/"><u>[New] Unearthing the Top 10 Sleeper Social Media Stars for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-youtube-editors-handbook-from-basics-to-pros/"><u>[Updated] The YouTube Editor's Handbook From Basics to Pros</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ellar-tools-that-amplify-your-videos-youtube-presence/"><u>10 Stellar Tools That Amplify Your Video's YouTube Presence</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210560846-9781439672587-bigfoot-in-maine/"><u>Bigfoot in Maine | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-to-resolve-libgdk-win32-20-0dll-errors-in-windows-expert-advice/"><u>Easy Steps to Resolve libgdk-win32-2.0-0.dll Errors in Windows - Expert Advice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-ins-and-outs-of-t-mobiles-national-cellular-roaming-services/"><u>Exploring the Ins and Outs of T-Mobile’s National Cellular Roaming Services</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macbook-air-showdown-comparing-the-power-of-m3-vs-m2-models-find-your-ideal-apple-laptop/"><u>MacBook Air Showdown: Comparing the Power of M3 Vs. M2 Models - Find Your Ideal Apple Laptop!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protecting-your-new-iphone-16-essential-reasons-why-everyone-should-use-a-phone-case-insights-from-zdnet/"><u>Protecting Your New iPhone 16: Essential Reasons Why Everyone Should Use a Phone Case – Insights From ZDNet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/quickcapture-studio-chrome-os-snapper-for-2024/"><u>QuickCapture Studio Chrome OS Snapper for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-41-unbeatable-christmas-apple-promotions-find-the-latest-offers/"><u>Top 41 Unbeatable Christmas Apple Promotions - Find the Latest Offers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-amazon-offers-in-september-2024-you-cant-miss-featuring-expert-insights-from-zdnet/"><u>Top-Rated Amazon Offers in September 2024 You Can't Miss! Featuring Expert Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-detection-issues-with-external-displays-on-your-mac/"><u>Troubleshooting Steps: Resolving Detection Issues with External Displays on Your Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-extraordinary-conversations-9-advantages-in-chatgptplus/"><u>Unlock Extraordinary Conversations - 9 Advantages in ChatGPT+</u></a></li>
+</ul></div>
 

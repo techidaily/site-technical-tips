@@ -1,7 +1,7 @@
 ---
 title: Discovering the Most Anticipated New Features of iOS 18 at Apple's WWDC 202N - AI Leads the Charge!
-date: 2024-10-27T01:50:47.325Z
-updated: 2024-10-31T02:39:41.507Z
+date: 2024-10-30T00:51:46.315Z
+updated: 2024-11-05T19:28:40.080Z
 tags:
   - apple
 categories:
@@ -51,16 +51,10 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -70,10 +64,10 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -85,10 +79,10 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -98,10 +92,10 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -142,24 +136,22 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-navigating-the-world-of-instagram-posts-large-imagevideo-uploads/"><u>[New] 2024 Approved Navigating the World of Instagram Posts Large Image/Video Uploads</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-edits-the-beginners-insider-look-at-editing-techniques/"><u>[Updated] In 2024, Elevate Your Edits The Beginner's Insider Look at Editing Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wmvmp4-movavi/"><u>「WmvファイルをMP4へ簡単無料変換 - Movaviオンライン」</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-ai-powered-podcast-names-the-ultimate-selection-list/"><u>2024 Approved AI-Powered Podcast Names The Ultimate Selection List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-spotlight-the-premier-5-online-title-crafters/"><u>2024 Approved Spotlight The Premier 5 Online Title Crafters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-power-supplies-for-hero5-official-and-alternative-models/"><u>2024 Approved Ultimate Power Supplies for Hero5 Official & Alternative Models</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/descubre-ofertas-especiales-en-compre-o-movavi-video-suite-compra-confianza-total-con-guarantia-del-100/"><u>Descubre Ofertas Especiales en Compre O Movavi Video Suite - Compra Confianza Total Con Guarantía Del 100%</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/download-your-media-in-mp3-format-effortless-webm-to-mp3-conversion-by-movavi/"><u>Download Your Media in MP3 Format - Effortless Webm to MP3 Conversion by Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortlessly-transform-your-dts-audio-into-mp4-using-the-wisestream-tool-no-costs-involved/"><u>Effortlessly Transform Your DTS Audio Into MP4 - Using the WiseStream Tool, No Costs Involved!</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/essential-guide-sync-your-screen-to-facebook-streams/"><u>Essential Guide Sync Your Screen to Facebook Streams</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-conversion-transforming-voc-files-into-avi-format-with-movavi/"><u>Free Online Conversion: Transforming VOC Files Into AVI Format with Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratuit-wykantga-van-wmv-naar-m4v-online-movavi/"><u>Gratuit Wykantga Van WMV Naar M4V Online - Movavi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-gpts-potential-for-eq-improvement/"><u>Harnessing GPT's Potential for EQ Improvement</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-avi-to-mp4/"><u>Movavi: 無料で高画質のオンラインAVI to MP4変換サービス</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-converter-gratuito-de-arquivos-para-formato-ogg-online-sem-custo/"><u>Movavi: Converter Gratuito De Arquivos Para Formato OGG - Online Sem Custo</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ricarica-avi-a-formato-wmv-online-gratuitamente-con-convertitore-movie-movavi/"><u>Ricarica AVI a Formato WMV Online Gratuitamente Con Convertitore Movie - Movavi</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/screen-spectaculum-hitting-720p-with-twitter-vids/"><u>Screen Spectaculum Hitting 720P with Twitter Vids</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-excel-workflow-with-these-3-ingenious-applications-of-chatgpt/"><u>Transform Your Excel Workflow with These 3 Ingenious Applications of ChatGPT</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-embrace-the-synergy-streaming-fb-videos-through-your-apple-device/"><u>[New] Embrace the Synergy Streaming FB Videos Through Your Apple Device</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-best-approaches-for-quiet-visuals-capture/"><u>[Updated] Best Approaches for Quiet Visuals Capture</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-fashion-filming-simplified-for-macos-users-for-2024/"><u>[Updated] Fashion Filming Simplified for MacOS Users for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connecting-your-airpods-seamlessly-with-your-macbook-air-a-detailed-walkthrough/"><u>Connecting Your AirPods Seamlessly with Your MacBook Air - A Detailed Walkthrough</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-top-10-cost-free-srt-file-conversion-tools/"><u>Discover Top 10 Cost-Free Srt File Conversion Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-insight-whats-coming-with-the-newly-announced-samsung-galaxy-z-flip-gen3-predicted-cost-and-release-schedule-included/"><u>Exclusive Insight: What's Coming with the Newly Announced Samsung Galaxy Z Flip Gen3 – Predicted Cost and Release Schedule Included!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-biometrics-insightful-definitions-and-applications/"><u>Exploring Biometrics: Insightful Definitions and Applications</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/igdkmd64sys-on-windows-10-blue-screen-error-solved/"><u>igdkmd64.sys on Windows 10 Blue Screen Error [Solved]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-apple-iphone-11-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Fake GPS On Apple iPhone 11 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722075592501-is-chatgpt-actually-becoming-less-clever-insights-from-openai-debunk-this-myth/"><u>Is ChatGPT Actually Becoming Less Clever? Insights From OpenAI Debunk This Myth</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-healthy-eating-with-these-6-recommended-diet-tracking-mobile-apps/"><u>Master Healthy Eating with These 6 Recommended Diet Tracking Mobile Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/nintendo-switch-online-outage-server-issues-or-connection-woes/"><u>Nintendo Switch Online Outage: Server Issues or Connection Woes?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-svchostexe-causing-excessive-cpu-use-in-windows-10-a-step-by-step-guide/"><u>Resolving the Issue of svchost.exe Causing Excessive CPU Use in Windows 10 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/roblox-server-status-checking-if-the-game-is-down-or-your-connection-is-weak/"><u>Roblox Server Status: Checking if the Game Is Down or Your Connection Is Weak</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamline-your-studies-discover-the-9-indispensable-technology-essentials-for-learners/"><u>Streamline Your Studies: Discover the 9 Indispensable Technology Essentials for Learners</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-guide-keep-your-macbook-awake-even-with-closed-lid-step-by-step/"><u>Tech Guide: Keep Your MacBook Awake Even with Closed Lid – Step-by-Step</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-art-of-adding-emojis-to-youtube-comments/"><u>The Art of Adding Emojis to YouTube Comments</u></a></li>
 </ul></div>
 

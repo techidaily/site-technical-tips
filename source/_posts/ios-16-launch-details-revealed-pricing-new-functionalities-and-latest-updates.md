@@ -1,7 +1,7 @@
 ---
 title: IOS 16 Launch Details Revealed - Pricing, New Functionalities & Latest Updates
-date: 2024-10-23T20:27:03.779Z
-updated: 2024-10-31T02:24:24.051Z
+date: 2024-10-30T17:48:23.816Z
+updated: 2024-11-05T21:46:41.914Z
 categories:
   - BestProducts
 description: This Article Describes IOS 16 Launch Details Revealed - Pricing, New Functionalities & Latest Updates
@@ -36,20 +36,33 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Wearable Device With Direct Audio Price Rumors
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple Wearable Device With Direct Audio Features
 
@@ -58,16 +71,10 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Apple, Inc / USPTO
@@ -88,10 +95,10 @@ Apple, Inc / USPTO
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Microphones for Commands, User Identification, and Callibration
@@ -99,19 +106,6 @@ Apple, Inc / USPTO
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
@@ -138,18 +132,19 @@ Apple, Inc / USPTO
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-masterful-marketing-tactics-11-ways-to-amplify-your-facebook-videography-for-2024/"><u>[New] Masterful Marketing Tactics 11 Ways to Amplify Your Facebook Videography for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-navigating-spotifys-ad-landscape-a-beginners-guide/"><u>[New] Navigating Spotify's Ad Landscape A Beginner's Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-ultimate-mini-drone-compilation-for-buyers/"><u>[New] Ultimate Mini-Drone Compilation for Buyers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unveiling-the-simple-steps-to-update-your-networks-banner-image-for-2024/"><u>[Updated] Unveiling the Simple Steps to Update Your Network's Banner Image for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/advanced-photo-editing-canvas-backdrop-eradication-for-2024/"><u>Advanced Photo Editing Canvas Backdrop Eradication for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722968953976-how-to-get-your-acer-predator-xb271h-display-drivers-in-a-flash/"><u>How to Get Your Acer Predator XB271H Display Drivers in a Flash</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-capturing-screen-images-on-your-computer/"><u>Step-by-Step Guide: Capturing Screen Images on Your Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-science-behind-electric-bikes-a-comprehensive-guide-to-their-operation/"><u>The Science Behind Electric Bikes: A Comprehensive Guide to Their Operation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-15-no-cost-bootable-solutions-for-malware-protection/"><u>Top 15 No-Cost Bootable Solutions for Malware Protection</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-of-the-pup-pack-an-extensive-evaluation-of-the-best-dog-camera-on-the-market-furbo/"><u>Top of the Pup Pack: An Extensive Evaluation of The Best Dog Camera on the Market – Furbo</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-what-steps-should-you-take-if-your-emails-arent-synching-with-gmail/"><u>Troubleshooting Guide: What Steps Should You Take If Your Emails Aren't Synching with Gmail?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-selection-32-leading-free-backup-tools-evaluated-and-rated/"><u>Ultimate Selection: 32 Leading Free Backup Tools Evaluated and Rated</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/be-video-animation-tools-and-techniques-for-efficient-gif-making/"><u>YouTube Video Animation Tools and Techniques for Efficient Gif Making</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-unlocking-potential-in-spotifys-ad-ecosystem/"><u>[New] 2024 Approved Unlocking Potential in Spotify's Ad Ecosystem</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-visionvoice-tips-for-perfectly-sized-insta-posts/"><u>[New] VisionVoice Tips for Perfectly Sized Insta Posts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-retweeted-gifs-iphoneandroid-step-by-step-savings-for-2024/"><u>[Updated] Retweeted Gifs IPhone/Android Step-by-Step Savings for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/benefits-and-considerations-making-the-switch-to-ios-16-or-ios-17/"><u>Benefits and Considerations: Making the Switch to iOS 16 or iOS 17</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-how-to-erase-windows-recovery/"><u>Comprehensive Tutorial on How To Erase Windows Recovery</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-iphone-xr-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Bypass iPhone XR Face ID?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-apple-iphone-12-mini-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or Apple iPhone 12 mini Stuck On Activation Lock?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-mfc71dll-not-found-or-missing-errors/"><u>How to Fix Mfc71.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-selecting-the-top-8-linux-screenshots-tools/"><u>In 2024, Selecting the Top 8 Linux Screenshots Tools</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quebra-de-silencio-expressoes-e-manifestacoes-do-portugues/"><u>Quebra De Silêncio: Expressões E Manifestações Do Português</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-nvidia-control-panel-malfunctions/"><u>Troubleshooting Guide: Resolving NVIDIA Control Panel Malfunctions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-enhancements-await-siri-with-apples-latest-ai-boost-major-revamps-coming/"><u>Upcoming Enhancements Await Siri with Apple's Latest AI Boost - Major Revamps Coming !</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-samsung-galaxy-z-fold-8-discover-costs-release-schedule-tech-specs-and-recent-news/"><u>Upcoming Samsung Galaxy Z Fold 8 - Discover Costs, Release Schedule, Tech Specs & Recent News!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Creating Love Symbols Online: The Ultimate Technique for Keyboard-Based Hearts"
-date: 2024-09-15T01:44:46.226Z
-updated: 2024-09-21T03:45:38.192Z
+date: 2024-11-01T16:52:11.599Z
+updated: 2024-11-05T22:20:19.005Z
 categories:
   - BestProducts
 description: "This Article Describes Creating Love Symbols Online: The Ultimate Technique for Keyboard-Based Hearts"
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -58,16 +65,10 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
@@ -81,6 +82,19 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -90,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 * **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
 
@@ -120,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -134,6 +134,13 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -162,5 +169,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-all-encompassing-capture-suite-detailed-app-evaluations/"><u>[New] 2024 Approved All-Encompassing Capture Suite - Detailed App Evaluations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-elevate-your-twitch-stream-game-with-these-5-steps-for-2024/"><u>[Updated] Elevate Your Twitch Stream Game with These 5 Steps for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-how-to-easily-and-quickly-draw-on-photos-app-in-windows-10-for-2024/"><u>[Updated] How to Easily and Quickly Draw on Photos App in Windows 10 for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-high-def-phones-with-vlogging-extras/"><u>2024 Approved High-Def Phones with Vlogging Extras</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-natural-setups-comprehensive-free-screen-templates-for-cinephiles/"><u>2024 Approved Natural Setups Comprehensive Free Screen Templates for Cinephiles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/aol-mail-issues-knowing-when-the-service-is-down-or-if-something-else-stands-in-your-way/"><u>AOL Mail Issues: Knowing When the Service Is Down or If Something Else Stands in Your Way</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-embraces-siri-the-shift-from-bing-to-ai-powered-search-solutions-an-innovation-analysis-by-zdnet/"><u>Apple Embraces Siri: The Shift From Bing to AI-Powered Search Solutions - An Innovation Analysis by ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Nubia Red Magic 9 Pro+.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-the-perfect-timepiece-a-comprehensive-head-to-head-battle-between-googles-pixel-watch-gen3-and-apple-watch-series-9/"><u>Choosing the Perfect Timepiece: A Comprehensive Head-to-Head Battle Between Google's Pixel Watch Gen3 & Apple Watch Series 9</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-exciting-updates-dive-into-the-best-of-apples-ios-18-public-beta-highlights-zdnet/"><u>Discover Exciting Updates: Dive Into the Best of Apple's iOS 18 Public Beta Highlights - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-to-know-apples-airpods-pro-and-max-releases-in-depth-models-and-specifications-overview-insights/"><u>Get to Know Apple's AirPods Pro and Max Releases: In-Depth Models & Specifications Overview | Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-privacy-a-comprehhavisnce-walkthrough-on-setting-up-your-first-vpn-connection/"><u>Mastering Privacy: A Comprehhavisnce Walkthrough on Setting Up Your First VPN Connection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-productive-ipad-applications-enhancing-efficiency-and-streamlining-tasks-insights/"><u>Top Productive iPad Applications: Enhancing Efficiency and Streamlining Tasks - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-apple-watch-straps-of-2024-professional-reviews-and-comparisons/"><u>Top-Rated Apple Watch Straps of 2024: Professional Reviews & Comparisons</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-11-pro-max-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On iPhone 11 Pro Max</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-selecting-a-premium-vpn-for-mac-devices-in-depth-expert-analysis-and-ratings-zdnet/"><u>Ultimate Guide to Selecting a Premium VPN for Mac Devices: In-Depth Expert Analysis and Ratings | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-best-magsafe-battery-chargers-of-2-2024-in-depth-analysis-and-expert-ratings-zdnet/"><u>Ultimate Guide to the Best MagSafe Battery Chargers of 2지날리기 2024: In-Depth Analysis and Expert Ratings | ZDNET</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/wallet-friendly-microphones-for-social-media-stars-for-2024/"><u>Wallet-Friendly Microphones for Social Media Stars for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-apples-latest-strategy-convinces-me-opting-for-iphone-16-pro-instead-of-max/"><u>Why Apple's Latest Strategy Convinces Me: Opting for iPhone 16 Pro Instead of Max</u></a></li>
+</ul></div>
 

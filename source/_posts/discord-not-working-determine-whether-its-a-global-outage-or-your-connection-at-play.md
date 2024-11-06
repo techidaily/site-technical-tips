@@ -1,7 +1,7 @@
 ---
 title: Discord Not Working? Determine Whether It’s a Global Outage or Your Connection at Play
-date: 2024-09-14T21:31:09.007Z
-updated: 2024-09-15T23:14:21.407Z
+date: 2024-10-30T19:29:54.746Z
+updated: 2024-11-05T21:27:55.568Z
 categories:
   - BestProducts
 description: This Article Describes Discord Not Working? Determine Whether It’s a Global Outage or Your Connection at Play
@@ -30,6 +30,13 @@ thumbnail: https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/fi
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What to Do When You Can't Connect to Discord
 
  There are several things you can try if Discord seems to be working fine for everyone else, but you're still having[connection issues](https://www.lifewire.com/fix-connection-issues-discord-5086484) :
@@ -45,6 +52,13 @@ thumbnail: https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/fi
 8. It's unlikely, but there could be an issue with your[DNS server](https://www.lifewire.com/what-is-a-dns-server-2625854) . If you want to try[switching DNS servers](https://www.lifewire.com/how-to-change-dns-server-settings-2617979) , there are plenty of ways to do so with a[free and public option](https://www.lifewire.com/free-and-public-dns-servers-2626062) , although bear in mind that it's quite an advanced solution.
 
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Discord Error Messages
 
@@ -84,12 +98,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-produce-personalized-internet-chuckles-for-2024/"><u>[Updated] Produce Personalized Internet Chuckles for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-top-vr-game-engines-2023-update/"><u>[Updated] Top VR Game Engines -2023 Update</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/are-you-facing-game-disruptions-identifying-if-blizzards-battlenet-is-down-or-not/"><u>Are You Facing Game Disruptions? Identifying If Blizzard's Battle.Net Is Down or Not</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-electric-vehicles-handle-intense-heat-or-freezing-cold/"><u>Can Electric Vehicles Handle Intense Heat or Freezing Cold?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-free-worldwide-phone-calls-applications-our-picks/"><u>Discover the Best Free Worldwide Phone Calls Applications - Our Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-5-autoclickers-for-android-no-root-required/"><u>Discover the Leading 5 Autoclickers for Android: No Root Required</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-the-understated-brilliance-how-apples-upcoming-ai-feature-at-wwdc-eclipses-expectations/"><u>Discovering the Understated Brilliance: How Apple's Upcoming AI Feature at WWDC Eclipses Expectations</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-review-the-convenience-and-performance-of-a-google-wireless-nest-doorbell-on-batteries/"><u>Expert Review: The Convenience and Performance of a Google Wireless Nest Doorbell on Batteries</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-ipad-pro-why-apples-cutting-edge-tablet-is-a-compelling-alternative-to-macbook-a-deep-dive/"><u>Exploring the IPad Pro: Why Apple’s Cutting-Edge Tablet Is a Compelling Alternative to MacBook - A Deep Dive</u></a></li>
+<li><a href="https://games-able.techidaily.com/green-playtime-top-8-eco-conscious-ar-games/"><u>Green Playtime: Top 8 Eco-Conscious AR Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-pairing-logitechs-wireless-mouse-with-different-rechargeable-transmitters/"><u>Guide to Pairing Logitech's Wireless Mouse With Different Rechargeable Transmitters</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/immediate-purchase-top-3-apple-innovations-unveiled-at-wwdc-available-for-pre-order-find-out-where-zdnet/"><u>Immediate Purchase: Top 3 Apple Innovations Unveiled at WWDC, Available for Pre-Order - Find Out Where! | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-backup-essentials-secure-your-memories-on-icloud-and-mac-insights-by-zdnet/"><u>IPhone Backup Essentials: Secure Your Memories on iCloud and Mac | Insights by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximizing-productivity-elevating-your-home-office-with-the-ipad-pro-tips-and-tricks/"><u>Maximizing Productivity: Elevating Your Home Office with the iPad Pro - Tips & Tricks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1723808015294-quick-fix-for-a-malfunctioning-logitech-k520-keyboard-easy-tips-inside/"><u>Quick Fix for a Malfunctioning Logitech K520 Keyboard – Easy Tips Inside</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-impact-of-size-on-functionality-a-deep-dive-into-the-apple-iphone-12-pro-max-features-and-capabilities/"><u>The Impact of Size on Functionality: A Deep Dive Into the Apple iPhone 12 Pro Max Features and Capabilities</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/ultimate-hevc-video-transcoder-premium-h265-support-for-windows-10-and-mac-users/"><u>Ultimate HEVC Video Transcoder: Premium H.265 Support for Windows 10 & Mac Users</u></a></li>
+</ul></div>
 

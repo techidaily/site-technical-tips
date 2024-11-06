@@ -1,7 +1,7 @@
 ---
 title: "IMessage Communication Made Easy: Tips for Using iMessage on a Windows Device - Insights From ZDNet"
-date: 2024-10-24T22:37:42.677Z
-updated: 2024-10-31T06:17:39.857Z
+date: 2024-11-02T19:11:41.514Z
+updated: 2024-11-05T21:45:36.294Z
 tags:
   - apple
 categories:
@@ -44,6 +44,19 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -62,13 +75,6 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -85,24 +91,31 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Start a new chat
 
@@ -111,31 +124,19 @@ You can also start a new conversation. To do this, select one of your displayed 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Intel Unison
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
@@ -157,13 +158,6 @@ You'll then be asked to grant the app access to your contacts, photo library, de
 At the next screen on your phone, tap the button for "Scan QR code." Scan the code in the Unison screen on your PC. Confirm the text string that appears on the screen. Your phone and PC should tell you that the pairing was successful. Tap Get Started in the iPhone app.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Launch the Windows Unison app
 
@@ -219,17 +213,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-talk-to-technology-without-spending-money-for-2024/"><u>[New] Talk to Technology Without Spending Money for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-adding-impact-strategies-for-youtubes-last-impressions-for-2024/"><u>[Updated] Adding Impact Strategies for Youtubes' Last Impressions for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-undo-motion-recapturing-video-from-mobile-devices/"><u>[Updated] In 2024, Undo Motion Recapturing Video From Mobile Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/campus-connections-tapping-into-exclusive-dell-offers-for-students-only/"><u>Campus Connections: Tapping Into Exclusive Dell Offers for Students Only</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-bridge-a-laptop-and-bluetooth-speaker-via-wireless-technology/"><u>How To Bridge A Laptop And Bluetooth Speaker Via Wireless Technology</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-crafting-video-magic-with-imovie-directed-to-youtube/"><u>In 2024, Crafting Video Magic with iMovie, Directed to YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-audio-assistant-software-android-version/"><u>In 2024, Top Audio Assistant Software, Android Version</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/missed-prime-day-savings-check-out-these-amazing-discounted-outdoor-gear-options-still-available/"><u>Missed Prime Day Savings? Check Out These Amazing Discounted Outdoor Gear Options Still Available!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722016391609-quick-and-simple-guide-setting-up-chatgpt-on-your-linux-system-with-bavarder/"><u>Quick and Simple Guide: Setting Up ChatGPT on Your Linux System with Bavarder</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-5-step-plan-for-data-security-and-easy-recovery/"><u>The Ultimate 5-Step Plan for Data Security and Easy Recovery</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-placing-multiple-locations-with-pin-drops-in-google-maps/"><u>Ultimate Guide: Placing Multiple Locations with Pin Drops in Google Maps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uncovering-past-alerts-a-guide-to-viewing-archived-iphone-notifications/"><u>Uncovering Past Alerts: A Guide to Viewing Archived iPhone Notifications</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-nine-key-points-before-investing-in-a-new-4k-lens/"><u>[New] 2024 Approved Nine Key Points Before Investing in a New 4K Lens</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-lens-language-speaking-visually-with-snapchat-filters/"><u>[New] In 2024, Lens Language Speaking Visually with Snapchat Filters</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-simplified-approach-to-nvidia-screen-recording/"><u>[New] Simplified Approach to NVIDIA Screen Recording</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-first-steps-into-facebook-data-analysis-for-new-users/"><u>[Updated] First Steps Into Facebook Data Analysis for New Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/activities-galore-chess-and-poker-in-discord-servers/"><u>Activities Galore: Chess & Poker in Discord Servers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-devotees-rejoice-discover-the-new-complimentary-lg-tv-audio-upgrade-on-zdnet/"><u>Apple Devotees Rejoice: Discover the New Complimentary LG TV Audio Upgrade on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bringing-advanced-language-models-to-apple-ecosystem-openais-technology-now-available-on-mac-ipad-and-iphone-zdnet/"><u>Bringing Advanced Language Models to Apple Ecosystem: OpenAI's Technology Now Available on Mac, iPad, and iPhone - ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-affordable-powerhouse-iphone-14-plus-offers-unbeatable-all-day-battery-and-more-insights/"><u>Discover the Affordable Powerhouse: IPhone 14 Plus Offers Unbeatable All-Day Battery & More! - Insights</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/key-approaches-to-enhance-vhs-photos-digitally/"><u>Key Approaches to Enhance VHS Photos Digitally</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/massive-labor-day-discount-save-700-on-the-latest-2022-ipad-pro-zdnets-exclusive-deal/"><u>Massive Labor Day Discount: Save $700 on the Latest 2022 iPad Pro - ZDNet's Exclusive Deal</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-fixing-hulu-rununk13-code-for-smooth-streaming/"><u>Step-by-Step Guide to Fixing Hulu RUNUNK13 Code for Smooth Streaming</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-integrating-a-bass-booster-for-your-samsung-soundbar-system/"><u>Step-by-Step Tutorial: Integrating a Bass Booster for Your Samsung Soundbar System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/telecharger-et-convertir-des-fichiers-ogg-en-mp4-facilement-grace-a-movavi-le-meilleur-tutoriel-gratuit/"><u>Télécharger Et Convertir Des Fichiers OGG en MP4 Facilement Grâce À Movavi - Le Meilleur Tutoriel Gratuit</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/time-to-choose-in-depth-review-of-google-pixel-watch-2-against-apples-series-9-zdnet-insights/"><u>Time to Choose: In-Depth Review of Google Pixel Watch 2 Against Apple's Series 9 | ZDNET Insights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/tiny-turbines-car-shindig-for-2024/"><u>Tiny Turbines' Car Shindig for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/vision-specialists-uncover-surprising-weaknesses-essential-steps-for-dealing-with-unexpected-security-breaches-insights-from-zdnet/"><u>Vision Specialists Uncover Surprising Weaknesses: Essential Steps for Dealing With Unexpected Security Breaches | Insights From ZDNET</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-mix-fold-3-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Mix Fold 3 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
 

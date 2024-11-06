@@ -1,7 +1,7 @@
 ---
 title: Maximize Productivity and Adventure Wearing State-of-the-Art XR Glasses - See What's New in Our Latest Upgrades | Recommendations
-date: 2024-10-29T03:07:42.366Z
-updated: 2024-10-30T19:54:44.025Z
+date: 2024-11-03T22:02:33.116Z
+updated: 2024-11-05T22:31:00.881Z
 tags:
   - apple
 categories:
@@ -71,10 +71,10 @@ Along with the [Viture Pro XR glasses](https://www.amazon.com/dp/B0D3LRH8G4?tag=
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,24 +111,18 @@ The [Viture Pro XR glasses](https://www.amazon.com/dp/B0D3LRH8G4?tag=zdnet-buy-b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-jujutsu-kaisen-making-waves-tiktok-edition/"><u>[Updated] 2024 Approved Jujutsu Kaisen Making Waves TikTok Edition</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-million-visioners-dissecting-the-money-behind-the-numbers/"><u>[Updated] 2024 Approved Million Visioners Dissecting the Money Behind the Numbers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-from-tube-to-chat-sharing-video-content-from-youtube-and-twitter-directly/"><u>[Updated] From Tube to Chat Sharing Video Content From YouTube & Twitter Directly</u></a></li>
-<li><a href="https://games-able.techidaily.com/affordable-highview-monitor-27m2v-pixels/"><u>Affordable HighView Monitor, 27M2V Pixels</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/boost-your-mac-with-a-macos-sierra-installation/"><u>Boost Your Mac with a macOS Sierra Installation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/brace-yourselves-apple-faces-new-challenge-as-meta-and-lg-forge-ahead-with-revolutionary-quest-pro-tech-zdnet-reports/"><u>Brace Yourselves: Apple Faces New Challenge as Meta and LG Forge Ahead with Revolutionary Quest Pro Tech | ZDNet Reports</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comparing-meta-quest-3-and-apple-vision-pro-was-facebook-ceo-on-target-gadgettechinsight/"><u>Comparing Meta Quest 3 and Apple Vision Pro: Was Facebook CEO on Target? | GadgetTechInsight</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-redmi-note-12r-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi Redmi Note 12R</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-tecno-spark-20c-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Tecno Spark 20C to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-transition-addressing-7-common-hurdles-of-digital-twin-technology-in-businesses-zdnet/"><u>Mastering the Transition: Addressing 7 Common Hurdles of Digital Twin Technology in Businesses | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/meta-halts-production-on-the-upcoming-quest-pro-vr-headset-and-abandons-quest-pro-2-plans/"><u>Meta Halts Production on the Upcoming Quest Pro VR Headset and Abandons Quest Pro 2 Plans</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-teething-issues-how-5g-technology-continues-to-showcase-impressive-growth-prospects-according-to-zdnet/"><u>Navigating Through Teething Issues: How 5G Technology Continues to Showcase Impressive Growth Prospects, According to ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-apple-vision-pro-through-my-eight-hour-grind-exciting-start-but-seeking-more-potential-zdnet/"><u>The Apple Vision Pro Through My Eight-Hour Grind – Exciting Start but Seeking More Potential | ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tech-reveals-at-ces-2023-predicting-tomorrows-breakthroughs-with-zdnet/"><u>Top Tech Reveals at CES 2023: Predicting Tomorrow's Breakthroughs with ZDNet</u></a></li>
-<li><a href="https://discover-data.techidaily.com/ultimate-step-by-step-tutorial-booting-your-dell-computer-using-a-usb-drive-with-uefi/"><u>Ultimate Step-by-Step Tutorial: Booting Your Dell Computer Using a USB Drive with UEFI</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/sh-your-youtube-potential-with-easy-techniques/"><u>Unleash Your YouTube Potential with Easy Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-meta-vision-pro-the-new-virtual-reality-gear-with-apples-unexpected-innovation-zdnet-coverage/"><u>Unveiling the Meta Vision Pro: The New Virtual Reality Gear with Apple's Unexpected Innovation - ZDNet Coverage</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-production-expenses-the-price-tag-behind-an-apple-vision-pro/"><u>Unveiling the Production Expenses: The Price Tag Behind an Apple Vision Pro</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/windows-movie-maker-turn-your-ideas-into-animated-reality-for-2024/"><u>Windows Movie Maker Turn Your Ideas Into Animated Reality for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-journey-to-excellent-ps2-gaming-via-these-5-android-apps/"><u>[New] 2024 Approved Journey to Excellent PS2 Gaming via These 5 Android Apps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-embrace-the-future-of-tv-engage-with-fb-live-via-roku/"><u>[Updated] Embrace the Future of TV Engage with FB Live via Roku</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-social-media-strategy-decoding-igtv-versus-youtubes-features/"><u>[Updated] In 2024, Social Media Strategy Decoding IGTV Versus YouTube's Features</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-methods-to-autoplay-youtube-videos-on-facebook-for-2024/"><u>[Updated] Methods to Autoplay Youtube Videos on Facebook for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapting-android-for-a-linux-user-environment/"><u>Adapting Android for a Linux User Environment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/advanced-insight-my-top-pick-on-the-iphone-15-a-must-have-for-professionals/"><u>Advanced Insight: My Top Pick on the iPhone 15 – A Must-Have for Professionals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-latest-surprise-the-compelling-appeal-of-the-349-ipad-revealed-at-revolutionary-event-zdnet-insights/"><u>Apple's Latest Surprise: The Compelling Appeal of the $349 iPad Revealed at Revolutionary Event | ZDNet Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-new-ipados-18-update-at-wwdc-2024-the-game-changing-feature-that-could-convert-users-overnight-insights-from-zdnet/"><u>Apple's New iPadOS 18 Update at WWDC 2024: The Game-Changing Feature That Could Convert Users Overnight - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/challenging-tech-giant-apple-how-my-iphone-refresh-experience-unfolded-with-insights-from-zdnet/"><u>Challenging Tech Giant Apple: How My iPhone Refresh Experience Unfolded with Insights From ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-audio-interpretation-software-zero-cost-version/"><u>In 2024, Audio Interpretation Software – Zero Cost Version</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/join-the-elite-group-testing-apple-vision-pro-apps-early-with-testflight-exclusive-steps-revealed/"><u>Join the Elite Group Testing Apple Vision Pro Apps Early with TestFlight - Exclusive Steps Revealed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nvidias-official-rtx-3070-ti-graphics-drivers-for-windows-users-download-now/"><u>NVIDIA's Official RTX 3070 Ti Graphics Drivers for Windows Users: Download Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-mobile-power-needs-with-an-affordable-20-anker-charger-insights-and-benefits-zdnet-guide/"><u>Revolutionize Your Mobile Power Needs with an Affordable $20 Anker Charger – Insights and Benefits | ZDNet Guide</u></a></li>
 </ul></div>
 

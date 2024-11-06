@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 Packaged in Apple's New Vision Pro: Get Access to Word, Excel on Day One | Exclusive by ZDNET"
-date: 2024-10-27T22:12:46.236Z
-updated: 2024-10-30T21:38:15.187Z
+date: 2024-11-04T21:29:51.754Z
+updated: 2024-11-05T18:31:12.225Z
 tags:
   - apple
 categories:
@@ -80,13 +80,6 @@ The Apple Vision Pro is a mixed-reality headset that combines augmented reality 
 
 **Also: [7 upgrades Apple Vision Pro needs to succeed in business](https://www.zdnet.com/article/7-upgrades-apple-vision-pro-needs-to-succeed-in-business/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What can you do with the Vision Pro headset?
 
 The headset can run popular Apple apps, including Books, Camera, Contacts, FaceTime, Mail, Maps, Messages, Music, Notes, Photos, Safari, and more in mixed reality -- a blend of both AR and VR. The headset launched with [600 new apps](https://www.zdnet.com/article/apples-vision-pro-will-launch-with-600-new-apps-built-just-for-the-headset/), including [Zoom](https://www.zdnet.com/article/zoom-is-coming-to-the-vision-pro-headset-and-your-meetings-could-get-weird/), [Microsoft 365](https://www.zdnet.com/article/apples-vision-pro-to-get-word-excel-and-other-microsoft-365-apps-at-launch/), Slack, Todoist, and more.
@@ -133,13 +126,6 @@ Vision Pro scanning a user.
 
 Screenshot by Christina Darby/ZDNET 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How much does the Vision Pro cost?
 
 The Vision Pro has a hefty price tag of $3,499 for the 256GB base storage model, setting a premium category apart from [Meta](https://www.zdnet.com/article/meta-quest-3-unveiled-price-features-and-when-you-can-buy-metas-new-vr-headset/), [HTC](https://www.zdnet.com/article/meetings-in-the-metaverse-our-experience-with-htc-vive-sync/), and other manufacturers that play in the sub-$1,000 range. 
@@ -156,13 +142,6 @@ There are other bells and whistles you can opt for, such as Apple Care+ for $499
 
 **Also: [Itching to try Vision Pro's Travel Mode? Here's what to expect before you go](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What comes in the Apple Vision Pro box?
 
 Included in the $3,499 purchase price is the headset, the battery pack, a Dual Loop Band, a cover, a light seal cushion, a polishing cloth, a USB-C Power Adapter, and a USB‑C Charge Cable. You [can watch Hiner unbox the device here](https://www.youtube.com/shorts/mEaUtquyqZ4).
@@ -170,6 +149,13 @@ Included in the $3,499 purchase price is the headset, the battery pack, a Dual L
 **Also: [Installing a VPN on Apple Vision Pro: How to do it and why you should](https://www.zdnet.com/article/installing-a-vpn-on-apple-vision-pro-how-to-do-it-and-why-you-should/)**
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can I wear the Apple Vision Pro with glasses?
 
@@ -180,13 +166,6 @@ You should not wear the Apple Vision Pro with glasses on your face. The headset 
 However, Apple knows that people who wear glasses need to be able to see to use the headset, so the company also sells Zeiss Optical Inserts. They retail at $99 to $149, so if you are a glasses wearer considering buying the headset, make sure to factor in this additional cost. 
 
 June Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does the Apple Vision Pro have controllers?
 
@@ -209,6 +188,13 @@ The Apple Vision Pro is available for purchase on the Apple website and in store
 Yes, you can try the Vision Pro before purchasing by booking a one-on-one demo experience with a specialist at an Apple Store. You can find the booking link on [Apple's website](https://www.apple.com/retail/instore-shopping-session/session-selection/?topic=visionpro). You can also purchase the Vision Pro, try it for yourself, and return it after two weeks. 
 
 **Also: [Apple Vision Pro's in-store demos are better than ever - here's why and how to book one](https://www.zdnet.com/article/apple-vision-pros-in-store-demos-are-better-than-ever-heres-why-and-how-to-book-one/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the return policy on the Apple Vision Pro?
 
@@ -234,6 +220,19 @@ There were many announcements, but some of the highlights included:
 
 If you want to see the full list, you can read the VisionOS 2 section of this article: [Every new feature Apple unveiled for iPhone, iPad, Mac, and more this fall (including AI)](https://www.zdnet.com/article/every-new-feature-apple-unveiled-for-iphone-ipad-mac-and-more-this-fall-including-ai/).
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Apple Vision Pro better than Meta Quest 3?
 
 The Apple Vision Pro is more of a premium headset and, as a result, it costs seven times more than the $500 Meta Quest 3\. 
@@ -247,6 +246,13 @@ The products differ in display, weight, processors, controllers, and more, affec
 Jason Hiner/ZDNET
 
 **Also: [Why I returned my Apple Vision Pro and Meta Quest 3 for these XR glasses](https://www.zdnet.com/article/why-i-returned-my-apple-vision-pro-and-meta-quest-3-for-these-xr-glasses/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is the Apple Vision Pro worth the price?
 
@@ -291,17 +297,18 @@ ZDNET experts have Apple Vision Pro headsets in their hands, so stay tuned for m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-step-by-step-guide-to-maximizing-your-roi-on-spotify-ads/"><u>[New] Step-by-Step Guide to Maximizing Your ROI on Spotify Ads</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-mastering-the-craft-of-professional-gopro-cinematography/"><u>2024 Approved Mastering the Craft of Professional Gopro Cinematography</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-opening-and-playing-srt-files-in-different-oses/"><u>2024 Approved Opening and Playing SRT Files in Different OSes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-high-cost-plan-limits-ai-upgrades-to-new-iphones-leaving-older-models-in-the-dust-insights-from-zdnet/"><u>Apple's High-Cost Plan Limits AI Upgrades to New iPhones, Leaving Older Models in the Dust - Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-consumer-desire-through-shipping-predictions-insights-on-apples-arx-headset-demand/"><u>Decoding Consumer Desire Through Shipping Predictions: Insights on Apple's ARX Headset Demand</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/eu-imposes-2b-penalty-on-apple-for-anticompetitive-practices-in-app-store-management-insights/"><u>EU Imposes $2B Penalty on Apple for Anticompetitive Practices in App Store Management - Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/future-of-app-installations-apple-suggests-selective-sideloading-feature-for-ios-172-news/"><u>Future of App Installations: Apple Suggests Selective Sideloading Feature for iOS 17.2 News</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-apple-iphone-xr-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing Apple iPhone XR iCloud Activation Lock</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-stealthy-watcher-fb-story-viewer/"><u>In 2024, Stealthy Watcher FB Story Viewer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-essential-guide-to-ios-podcast-acquisition-for-2024/"><u>The Essential Guide to iOS Podcast Acquisition for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-blizzards-battlenet-identifying-server-issues-vs-connection-problems/"><u>Troubleshooting Blizzard's Battle.net: Identifying Server Issues Vs. Connection Problems</u></a></li>
-<li><a href="https://fox-making.techidaily.com/troubleshooting-tips-get-your-windows-11-back-in-slumber-mode-with-these-6-fixes/"><u>Troubleshooting Tips: Get Your Windows 11 Back in Slumber Mode with These 6 Fixes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-elite-photo-safe-houses-online-for-2024/"><u>[Updated] Elite Photo Safe Houses Online for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-alerts-iphone-owners-to-increased-threats-from-private-military-cyberattacks-is-your-device-at-risk/"><u>Apple Alerts IPhone Owners to Increased Threats From Private Military Cyberattacks - Is Your Device at Risk?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-unique-gaming-world-of-playstation-5-exclusives/"><u>Discover the Unique Gaming World of PlayStation 5 Exclusives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-garmin-instinct-crossovers-potential-what-it-gets-right-and-the-one-element-i-wish-was-different-zdnet-insights/"><u>Discovering the Garmin Instinct Crossover's Potential - What It Gets Right and The One Element I Wish Was Different | ZDNet Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhanced-sound-experience-lgs-latest-free-audio-enhancement-a-hit-among-apple-fans/"><u>Enhanced Sound Experience: LG's Latest Free Audio Enhancement - A Hit Among Apple Fans!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oppo-find-x6-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Oppo Find X6 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-reviewing-screenmasters-latest-tech-for-recording/"><u>In 2024, Reviewing ScreenMaster's Latest Tech for Recording</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamline-your-youtube-channel-url-with-these-tips/"><u>In 2024, Streamline Your YouTube Channel URL with These Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/retrieve-hidden-credentials-a-guide-to-access-stored-passwords-in-edge-browser/"><u>Retrieve Hidden Credentials: A Guide to Access Stored Passwords in Edge Browser</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stay-informed-on-the-go-configuring-slack-push-alerts-on-ios-devices-and-apple-smartwatches-zdnet-insights/"><u>Stay Informed On The Go: Configuring Slack Push Alerts on iOS Devices & Apple Smartwatches | ZDNET Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-gameplay-hiccups-in-dragons-dogma-2-enhance-fps-and-combat-stuttering-for-optimal-experience/"><u>Troubleshooting Gameplay Hiccups in Dragon's Dogma 2: Enhance FPS and Combat Stuttering for Optimal Experience.</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-paramount-practices-in-gathering-your-precious-collection-of-high-fidelity-youtube-audio/"><u>Updated 2024 Approved Paramount Practices in Gathering Your Precious Collection of High-Fidelity YouTube Audio</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-do-when-your-smart-home-assistant-alexa-wont-respond/"><u>What to Do When Your Smart Home Assistant, Alexa, Won’t Respond</u></a></li>
 </ul></div>
 

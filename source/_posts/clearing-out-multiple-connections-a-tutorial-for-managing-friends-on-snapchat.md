@@ -1,7 +1,7 @@
 ---
 title: "Clearing Out Multiple Connections: A Tutorial for Managing Friends on Snapchat"
-date: 2024-09-13T17:24:58.457Z
-updated: 2024-09-15T21:34:46.306Z
+date: 2024-11-04T22:09:31.680Z
+updated: 2024-11-05T18:48:54.003Z
 categories:
   - BestProducts
 description: "This Article Describes Clearing Out Multiple Connections: A Tutorial for Managing Friends on Snapchat"
@@ -36,8 +36,30 @@ Close
 3. Search or scroll to the friend you want to delete, and tap-and-hold this friend's entry.  
 ![Bitmoji icon, My Friends, and contact highlighted in Snapchat](https://www.lifewire.com/thmb/uWrlw4QXKo6xV7zBnqVm80ddBDs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-remove-multiple-friends-on-snapchat-6425728-c69d3e9fda0b484ca51d7db2be711d22.jpg)  
  Take note of the three-dot menu at the top. There is an option to see recently added friends. This is a great way to delete users you just added by mistake.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. From the options, choose**Manage Friendship** \>**Remove Friend** \>**Remove** .  
 ![Three dot menu, Manage Friendship, and Remove in Snapchat](https://www.lifewire.com/thmb/uzZV1QwYbat0Yav-GTMCn85wFzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-remove-multiple-friends-on-snapchat-6425728-8ed6c2dd02ff4fe2905d713e5114dc3d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Remove Friends From the Chat Page 
 
@@ -48,10 +70,10 @@ Close
 [  How to Change Chat Settings in Snapchat ](https://www.lifewire.com/change-chat-settings-in-snapchat-5271208) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Can You Unadd Multiple Friends on Snapchat at Once? 
@@ -59,13 +81,6 @@ Close
  No. Snapchat doesn't let you bulk remove two or more friends. Unfortunately, the process for clearing out the friends list or removing two, 10, or 20 people from your account, is the same: Erase one friend at a time with the steps outlined above.
 
  The only exception is if you[ delete your whole Snapchat account](https://www.lifewire.com/how-to-delete-snapchat-account-4692675) . Technically, this is the quickest way to remove all your Snapchat friends in one move, but your username will go with it, as will your Snaps and chats.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Readd Friends You Deleted on Snapchat 
 
@@ -121,5 +136,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://technical-tips.techidaily.com/adding-your-ca-drivers-license-to-digital-wallets-easy-steps-for-apples-and-googles-integration/"><u>Adding Your CA Driver’s License to Digital Wallets: Easy Steps for Apples & Googles Integration</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-iphone-xr-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On iPhone XR</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/extend-your-apple-watch-battery-span-easily-with-my-top-8-settings-adjustments-insider-info/"><u>Extend Your Apple Watch Battery Span Easily With My Top 8 Settings Adjustments - Insider Info</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/from-beginner-to-pro-essential-steps-in-recording-with-logitech-cameras-for-2024/"><u>From Beginner to Pro Essential Steps in Recording with Logitech Cameras for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/hyper-v-guide-transforming-fixed-size-vhds-into-dynamic-for-enhanced-storage-management/"><u>Hyper-V Guide: Transforming Fixed-Size VHDs Into Dynamic for Enhanced Storage Management</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-9-premium-wedding-films-online-youtube-and-vimeo/"><u>In 2024, Top 9 Premium Wedding Films Online Youtube & Vimeo</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp4-to-flv-conversion-fast-and-free-online-service-by-movavi/"><u>MP4 to FLV Conversion - Fast and Free Online Service by Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-itel-p40plus-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel P40+ Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-protecting-your-iphone-memories-by-syncing-with-icloud-and-mac-devices/"><u>Step-by-Step Tutorial: Protecting Your iPhone Memories by Syncing with iCloud and Mac Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-12-favorite-gratis-typewriter-lessons-perfect-for-kids-and-adults/"><u>Ultimate Guide to 12 Favorite Gratis Typewriter Lessons Perfect for Kids and Adults</u></a></li>
+</ul></div>
 

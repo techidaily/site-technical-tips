@@ -1,7 +1,7 @@
 ---
 title: IMessage Communication Guide for Windows Users | ZDNet
-date: 2024-10-29T20:59:16.666Z
-updated: 2024-10-30T18:01:25.411Z
+date: 2024-11-02T17:34:52.376Z
+updated: 2024-11-05T16:27:05.849Z
 tags:
   - apple
 categories:
@@ -44,19 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -74,13 +61,6 @@ Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings,
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -104,6 +84,13 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
@@ -117,10 +104,10 @@ You can also start a new conversation. To do this, select one of your displayed 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Intel Unison
@@ -134,10 +121,10 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
@@ -152,6 +139,13 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -164,18 +158,24 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -213,18 +213,15 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-mastering-the-art-of-audio-file-conversion-from-srt-formats/"><u>2024 Approved Mastering the Art of Audio File Conversion From SRT Formats</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-psvr-titles-catalog-all-announced-games-compiled/"><u>Complete PSVR² Titles Catalog: All Announced Games Compiled</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expand-your-workspace-a-step-by-step-to-dual-monitor-setup-on-mac/"><u>Expand Your Workspace: A Step-by-Step to Dual Monitor Setup on Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/high-performance-amplifi-hd-mesh-network-solution-eliminates-wi-fi-black-spots/"><u>High-Performance Amplifi HD Mesh Network Solution Eliminates Wi-Fi Black Spots</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-personalize-your-iphone-text-with-unique-font-styles-a-comprehensive-guide/"><u>How To Personalize Your iPhone Text with Unique Font Styles: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-poco-f5-pro-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco F5 Pro 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/maximize-site-engagement-using-the-innovative-capabilities-of-cookiebot/"><u>Maximize Site Engagement Using the Innovative Capabilities of Cookiebot</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-video-rotation-tools-flip-spin-and-rotate-your-videos-online-for-2024/"><u>New Top Video Rotation Tools Flip, Spin, and Rotate Your Videos Online for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simplify-your-mobile-experience-tips-for-utilizing-androids-quick-access-toolbar/"><u>Simplify Your Mobile Experience: Tips for Utilizing Android's Quick Access Toolbar</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-insiders-guide-to-creating-viral-memes-on-9gag/"><u>The Insider's Guide to Creating Viral Memes on 9GAG</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/trouble-free-fixes-for-missing-btballondll-errors-in-windows-operating-systems/"><u>Trouble-Free Fixes for Missing 'BTBallon.dll' Errors in Windows Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-resolving-lack-of-audio-on-your-screen-pc-monitor-and-tv-via-hdmi/"><u>Troubleshooting Steps for Resolving Lack of Audio on Your Screen: PC, Monitor & TV via HDMI</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-gear-youtube-pros-choice-in-shaky-free-video-capture/"><u>[New] Top Gear YouTube Pros' Choice in Shaky-Free Video Capture</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-equipment-for-beginners-ultimate-guide/"><u>[Updated] YouTube Equipment for Beginners [Ultimate Guide]</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-audiovisual-success-recording-gotomeetings-easily/"><u>2024 Approved Audiovisual Success Recording GoToMeetings Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bridging-the-gap-between-ios-and-windows-with-facetime-integration-techniques/"><u>Bridging the Gap Between iOS & Windows with FaceTime Integration Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977293713-grab-your-gigabyte-auditory-drivers-now-no-cost/"><u>Grab Your Gigabyte Auditory Drivers Now - No Cost!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-install-non-apple-approved-ios-apps-safely-without-jailbreaking-a-guide/"><u>How to Install Non-Apple Approved iOS Apps Safely Without Jailbreaking - A Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-upcoming-apple-pay-later-transactions-may-impact-your-experian-credit-score-insights-from-zdnet/"><u>How Upcoming Apple Pay Later Transactions May Impact Your Experian Credit Score - Insights From ZDNet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-unleash-your-creative-potential-with-these-top-explainer-video-tools/"><u>In 2024, Unleash Your Creative Potential with These Top Explainer Video Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-logitech-g35-sound-card-drivers-for-windows-users-windows-7-to-1n0/"><u>Latest Logitech G35 Sound Card Drivers for Windows Users: Windows 7 to 1N0</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-ultimate-apple-watch-display-shields-of-2eplust6-in-depth-comparison-and-rankings-by-zdnet/"><u>Unveiling the Ultimate Apple Watch Display Shields of 2E+t6 | In-Depth Comparison & Rankings by ZDNET</u></a></li>
 </ul></div>
 

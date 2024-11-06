@@ -1,7 +1,7 @@
 ---
 title: How We Test Phones at ZDNET | ZDNET.
-date: 2024-10-24T02:39:16.808Z
-updated: 2024-10-30T18:44:58.700Z
+date: 2024-10-29T22:58:59.818Z
+updated: 2024-11-06T00:36:40.115Z
 tags:
   - apple
 categories:
@@ -35,10 +35,16 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -65,6 +71,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -82,10 +95,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -95,13 +108,6 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -120,10 +126,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,22 +172,19 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-delving-into-the-digital-depot-of-discarded-art/"><u>[New] Delving Into the Digital Depot of Discarded Art</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Oppo</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-look-at-sonys-next-vr-device-price-estimates-availability-forecast-specifications/"><u>Exclusive Look at Sony's Next VR Device: Price Estimates, Availability Forecast, Specifications</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-category-5-to-6-exploring-the-differences-that-matter-for-your-internet-connection/"><u>From Category 5 to 6: Exploring the Differences That Matter for Your Internet Connection</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-system-upgraded-with-new-broadcom-network-card-software/"><u>Get Your System Upgraded with New Broadcom Network Card Software</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-essential-tips-for-enhancing-images-on-snapchat/"><u>In 2024, Essential Tips for Enhancing Images on Snapchat</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-iphone-x876-owners-must-have-gif-apps-guide/"><u>In 2024, IPhone X/8/7/6 Owners' Must-Have GIF Apps Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-11s-hidden-themes-a-registry-guide/"><u>Mastering Windows 11'S Hidden Themes: A Registry Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722895912433-overcoming-yahoo-mail-hurdles-what-to-do-if-your-email-isnt-coming-through/"><u>Overcoming Yahoo Mail Hurdles: What to Do If Your Email Isn't Coming Through</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/shadow-play-with-iphone-pro-photography-tips/"><u>Shadow Play with iPhone Pro Photography Tips</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-nokia-c210-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Nokia C210</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-flushing-your-android-devices-memory-cache/"><u>Step-by-Step Guide to Flushing Your Android Device's Memory Cache</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-winning-more-followers-on-twitter-effective-strategies-inside/"><u>The Ultimate Guide to Winning More Followers on Twitter – Effective Strategies Inside</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-integrating-multiple-fortnite-accounts/"><u>The Ultimate How-To: Integrating Multiple Fortnite Accounts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-how-to-snapping-quick-images-of-your-desktop-display/"><u>Ultimate How-To: Snapping Quick Images of Your Desktop Display</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unraveling-the-differences-between-hulu-and-hulu-plus-plans/"><u>Unraveling the Differences Between Hulu and Hulu Plus Plans</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-premier-business-cloud-data-solutions/"><u>[New] In 2024, Premier Business Cloud Data Solutions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-optimal-flv-to-youtube-transformers-in-a-ranking-list/"><u>[New] Optimal FLV to YouTube Transformers in a Ranking List</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-launch-of-apples-vision-pro-seamlessly-integrating-with-ms-office-suite-word-and-excel-support-available-now/"><u>1. 'Launch of Apple's Vision Pro: Seamlessly Integrating with MS Office Suite - Word & Excel Support Available Now!'</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-ffpm-demystified-your-guide-to-multi-tasking/"><u>2024 Approved FFPM Demystified Your Guide to Multi-Tasking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-your-single-picture-into-video-magic-with-pixiz/"><u>2024 Approved Transforming Your Single Picture Into Video Magic with Pixiz</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/alternative-browsers-for-samsung-smart-tvs-how-to-download-and-install/"><u>Alternative Browsers for Samsung Smart TVs: How to Download and Install</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-apples-latest-enhancements-top-4-new-features-in-updated-airpod-models-zdnet/"><u>Discover Apple's Latest Enhancements: Top 4 New Features in Updated AirPod Models - ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-chill-and-thrills-highlighting-olympic-snowboard-cross-winners/"><u>In 2024, Chill & Thrills Highlighting Olympic Snowboard Cross Winners</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-14-pro-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 14 Pro Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-your-communications-with-our-carefully-chosen-best-8-contact-number-tools/"><u>Master Your Communications with Our Carefully Chosen Best 8 Contact Number Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/inting-potential-a-youtube-niche-journey-for-2024/"><u>Pinpointing Potential A Youtube Niche Journey for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-wireless-charging-pads-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Wireless Charging Pads : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/unlocking-potential-in-projects-with-chatgpt-a-how-to-approach/"><u>Unlocking Potential in Projects with ChatGPT - A How-To Approach</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/naries-of-interactive-marvel-worlds/"><u>Visionaries of Interactive Marvel Worlds</u></a></li>
 </ul></div>
 

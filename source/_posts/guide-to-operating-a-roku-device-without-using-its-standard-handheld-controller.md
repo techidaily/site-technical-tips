@@ -1,7 +1,7 @@
 ---
 title: Guide to Operating a Roku Device Without Using Its Standard Handheld Controller
-date: 2024-10-23T20:16:33.472Z
-updated: 2024-10-30T21:40:28.731Z
+date: 2024-11-04T19:58:58.598Z
+updated: 2024-11-05T17:59:02.101Z
 categories:
   - BestProducts
 description: This Article Describes Guide to Operating a Roku Device Without Using Its Standard Handheld Controller
@@ -28,10 +28,10 @@ Close
  This article will tell you how to use the official Roku app to control a Roku TV without using the standard remote. Instructions apply to all Roku devices and phones running either iOS or Android.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Use Your Roku TV Without the Remote
@@ -41,10 +41,10 @@ Close
 1. Download**The Roku App (Official)** on your smart device. It's available in the Apple App Store and Google Play.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Important
@@ -57,10 +57,10 @@ Close
 5. Once you've selected your Roku TV or device, return to the main screen and select**Remote** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Along the top of the Remote tab, you'll find options to search, dictate, pull up a keyboard, and open settings.  
@@ -70,16 +70,10 @@ Close
 ![Remote options in the Roku app](https://www.lifewire.com/thmb/Bzg0czp1uHzCMtBjtix1AqfyrLY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Roku-Remote-options-545cf22fac644c9fbc93127781dadf64.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Was this page helpful?
@@ -111,17 +105,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-key-elements-in-transforming-your-youtube-channels-visibility/"><u>[Updated] In 2024, The Key Elements in Transforming Your YouTube Channels' Visibility</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-introduction-guide-2-approaches-explored/"><u>[Updated] YouTube Introduction Guide - 2 Approaches Explored</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amazon-kindle-vs-fire-tablet-understanding-the-contrast/"><u>Amazon Kindle Vs. Fire Tablet – Understanding the Contrast</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dealing-with-dll-files-how-to-address-msvcpr100dll-not-detected-problems/"><u>Dealing with DLL Files: How to Address Msvcpr100.dll Not Detected Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-access-exploring-startup-options-in-windows/"><u>Easy Access: Exploring Startup Options in Windows</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-itel-a60s-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Itel A60s Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Nokia 105 Classic? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inquiring-into-vaticans-digital-age-practices-is-email-part-of-pope-francis-routine/"><u>Inquiring Into Vatican's Digital Age Practices - Is Email Part of Pope Francis' Routine?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/julys-top-picks-8-free-software-solutions-to-update-your-drivers/"><u>July's Top Picks: 8 Free Software Solutions to Update Your Drivers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/stop-game-crashing-effortless-tips-to-get-league-of-legends-running-smoothly-again/"><u>Stop Game-Crashing: Effortless Tips to Get League of Legends Running Smoothly Again</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transforming-your-windows-11-experience-a-step-by-step-guide-on-changing-taskbar-colors/"><u>Transforming Your Windows 11 Experience: A Step-by-Step Guide on Changing Taskbar Colors</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-clearing-up-opaque-video-views-on-youtube/"><u>[New] 2024 Approved Clearing Up Opaque Video Views on YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-wallet-friendly-360-degree-video-technology/"><u>[New] Wallet-Friendly 360-Degree Video Technology</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersive-cinematography-anchors/"><u>[Updated] Immersive Cinematography Anchors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/7-outweighs-the-allure-of-a-hypothetical-series-10-opinions-by-zdnets-tech-expert/"><u>7 Outweighs the Allure of a Hypothetical Series 10 | Opinions by ZDNET's Tech Expert</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-loyalists-rejoice-lg-tvs-now-offer-superior-audio-quality-upgrades-discovered-by-zdnet/"><u>Apple Loyalists Rejoice: LG TVs Now Offer Superior Audio Quality Upgrades - Discovered by ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-perform-a-successful-apple-studio-display-software-update-a-comprehensive-guide-techradar/"><u>How to Perform a Successful Apple Studio Display Software Update: A Comprehensive Guide - TechRadar</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-huawei-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Huawei Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-16-launch-details-revealed-pricing-new-functionalities-and-latest-updates/"><u>IOS 16 Launch Details Revealed - Pricing, New Functionalities & Latest Updates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-the-art-of-excel-based-crossword-creation-a-step-by-step-guide-for-beginners/"><u>Mastering the Art of Excel-Based Crossword Creation: A Step-by-Step Guide for Beginners</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-battery-life-with-apple-watchs-power-saving-mode-a-must-read-guide-expert-tips-by-zdnet/"><u>Maximize Battery Life with Apple Watch's Power Saving Mode - A Must-Read Guide | Expert Tips by ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-infinix-note-30-vip-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Infinix Note 30 VIP and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-cpu-drain-in-wmis/"><u>Quick Fixes for CPU Drain in WMIs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/streamline-your-computers-audio-easy-installation-of-sound-blaster-z-drivers-on-windows-10/"><u>Streamline Your Computer's Audio: Easy Installation of Sound Blaster Z Drivers on Windows 10</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-list-of-preferred-youtube-video-formats/"><u>The Ultimate List of Preferred YouTube Video Formats</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-best-no-cost-roku-streaming-options/"><u>Top 8 Best No-Cost Roku Streaming Options</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-wallet-airtag-reviews-non-apple-non-tile-options-uncovered/"><u>Top Wallet AirTag Reviews: Non-Apple, Non-Tile Options Uncovered</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-release-detailed-insights-on-when-youll-get-your-hands-on-new-airpods-and-best-places-for-early-bird-preorders/"><u>Upcoming Release: Detailed Insights on When You'll Get Your Hands on New AirPods & Best Places for Early Bird Preorders</u></a></li>
 </ul></div>
 

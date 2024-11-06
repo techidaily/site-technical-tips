@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Release: Apple Eyes New Buds and Over-Ear Headphones - Tech News by ZDNet"
-date: 2024-10-29T04:20:12.947Z
-updated: 2024-10-30T20:10:28.521Z
+date: 2024-10-29T20:56:12.913Z
+updated: 2024-11-05T17:33:09.350Z
 tags:
   - apple
 categories:
@@ -47,6 +47,13 @@ These AirPods can be separated into entry-level and mid-tier categories, with th
 
 Screenshot by Kayla Solino/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. You love your AirPods (2nd generation) but want some upgrades
 
 If you like the simplicity of the second-generation AirPods but think it's time for an upgrade, the entry-level AirPods 4 are for you. Like the second-generation AirPods, the [entry-level AirPods 4](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) don't have active noise cancellation or Transparency Mode. However, they debut with spatial audio, making music, movie-watching, and mobile gaming more immersive.
@@ -62,28 +69,15 @@ The entry-level AirPods are cheaper than the AirPods 4 mid-tier model and the Ai
 [Preorder the AirPods 4 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You should buy the AirPods 4 (mid-tier) if...
 
 Screenshot by Kayla Solino/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. The AirPods Pro 2 have too many features you'll never use
 
@@ -94,10 +88,16 @@ The AirPods Pro 2 are Apple's most advanced earbuds, offering an array of audio 
 The AirPods 4 with active noise cancellation have noise-canceling and transparency modes, spatial audio with dynamic head tracking, and an IP54 water and dust resistance rating. The charging case is USB-C and wireless charging compatible. However, the mid-tier AirPods 4 have one less hours of continuous playback than the AirPods 3.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. You want the "just right" AirPods
@@ -111,16 +111,10 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 [Preorder the AirPods 4 with active noise cancellation View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4%2Fwith-active-noise-cancellation&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -157,24 +151,18 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-cinematic-brilliance-in-motion-kinemaster-techniques/"><u>[New] Cinematic Brilliance in Motion Kinemaster Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-unlimited-stock-videos-through-essential-4-youtube-sources/"><u>[Updated] In 2024, Gain Unlimited Stock Videos Through Essential 4 YouTube Sources</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-memorable-content-explore-youtubes-top-10-creative-responses/"><u>Craft Memorable Content Explore YouTube's Top 10 Creative Responses</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-galaxy-m34-5g-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Galaxy M34 5G support MOV videos ?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/efficiently-plotting-various-points-using-pins-on-google-maps/"><u>Efficiently Plotting Various Points Using Pins on Google Maps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-free-learning-tools-for-students-returning-to-school/"><u>Essential Free Learning Tools for Students Returning to School</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hassle-free-downloads-of-hp-officejet-5740-printer-drivers-get-started-today/"><u>Hassle-Free Downloads of HP OfficeJet 5740 Printer Drivers - Get Started Today</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-14-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 14 Plus without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-finding-the-perfect-balance-mastering-iphone-photo-blurring/"><u>In 2024, Finding the Perfect Balance Mastering iPhone Photo Blurring</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unified-insight-the-easeus-perspective/"><u>In 2024, Unified Insight The EaseUS Perspective</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/new-apple-wearable-tech-featuring-audio-capability-price-forecasts-availability-date-technical-details-and-current-gossip/"><u>New Apple Wearable Tech Featuring Audio Capability: Price Forecasts, Availability Date, Technical Details & Current Gossip</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/our-favorite-lgbt-movies-on-netflix-right-now-july-2024/"><u>Our Favorite LGBT Movies on Netflix Right Now (July 2024)</u></a></li>
-<li><a href="https://facebook.techidaily.com/preventing-misinformation-about-pandemic-on-digital-platforms/"><u>Preventing Misinformation About Pandemic on Digital Platforms</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/remedies-for-screen-ghosting-fixing-burn-in-issues-on-any-monitor-or-tv/"><u>Remedies for Screen Ghosting: Fixing Burn-In Issues on Any Monitor or TV</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/securing-mobile-privacy-a-step-by-step-guide-to-hiding-your-phone-number-on-android/"><u>Securing Mobile Privacy: A Step-by-Step Guide to Hiding Your Phone Number on Android</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-finding-and-restoring-accidentally-erased-gmail-correspondence/"><u>The Ultimate Trick to Finding and Restoring Accidentally Erased Gmail Correspondence</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-non-functioning-spell-check-in-outlook-a-step-by-step-guide/"><u>Troubleshooting the Non-Functioning Spell Check in Outlook - A Step by Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-secret-language-of-snapchat-mastering-emoji-interpretations/"><u>Unveiling the Secret Language of Snapchat: Mastering Emoji Interpretations</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-8-premium-and-gratis-mobile-video-mosaic-tools-for-android/"><u>[New] Top 8 Premium & Gratis Mobile Video Mosaic Tools for Android</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-14-ultra-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi 14 Ultra</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginners-beware-uncover-1ve-secrets-to-conquering-x-your-fast-track-to-social-mastery/"><u>Beginners Beware! Uncover 1Ve Secrets to Conquering X: Your Fast Track to Social Mastery!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/declutter-inbox-effortlessly-discover-the-ultimate-one-trick-email-solution-on-zdnet/"><u>Declutter Inbox Effortlessly: Discover the Ultimate One-Trick Email Solution on ZDNet.</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-modern-tech-with-our-comprehensive-review-of-the-acer-chromebook-r-11-portability-perfected/"><u>Experience Modern Tech with Our Comprehensive Review of the Acer Chromebook R 11: Portability Perfected</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/google-pixel-watch-series-3-versus-apple-watch-series-9-in-depth-review-to-determine-the-perfect-wrist-companion-for-you-zdnet/"><u>Google Pixel Watch Series 3 versus Apple Watch Series 9: In-Depth Review to Determine the Perfect Wrist Companion for You | ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-11-update-issue-with-error-code-0x800705b4/"><u>How to Resolve Windows 11 Update Issue with Error Code 0X80#0705B4</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/revolutionize-your-social-media-game-personalizing-twitter-video-images-for-2024/"><u>Revolutionize Your Social Media Game Personalizing Twitter Video Images for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-follow-handling-an-instagram-account-suspension-or-deactivation/"><u>Steps to Follow: Handling an Instagram Account Suspension or Deactivation</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-itel-s23plus-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Itel S23+ without backup.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-honor-90-lite-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Honor 90 Lite to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-smart-home-innovations-unveiled-at-ces-2024-explore-the-latest-gadgets-with-insights-from-zdnet/"><u>Top Smart Home Innovations Unveiled at CES 2024 - Explore the Latest Gadgets with Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-power-of-apple-vision-pro-top-reasons-and-simple-steps-to-book-an-unforgettable-in-store-demonstration/"><u>Unlocking the Power of Apple Vision Pro - Top Reasons and Simple Steps to Book an Unforgettable In-Store Demonstration</u></a></li>
 </ul></div>
 

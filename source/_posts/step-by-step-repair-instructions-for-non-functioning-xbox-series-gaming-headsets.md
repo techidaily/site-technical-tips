@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Repair Instructions for Non-Functioning Xbox Series Gaming Headsets
-date: 2024-09-09T13:33:57.513Z
-updated: 2024-09-10T13:33:57.513Z
+date: 2024-11-02T17:38:57.714Z
+updated: 2024-11-05T16:41:25.023Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Repair Instructions for Non-Functioning Xbox Series Gaming Headsets
@@ -9,27 +9,9 @@ excerpt: This Article Describes Step-by-Step Repair Instructions for Non-Functio
 thumbnail: https://www.lifewire.com/thmb/9aAIrmerqE-lXFve1ScHyZbz_Ps=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/headsetxboxseriess-4f0374653f484a71a82c87f37816709b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Xbox Series X/S Audio Problems? Here's How to Restore Your Headset Functionality
  Friends in party chat can’t hear you over the[Xbox Network](https://www.lifewire.com/what-is-xbox-live-3563186) , and you can’t hear them either? Maybe you can hear your friends while they can’t hear you (or the other way around). There’s a chance that your headset is just broken, but try these fixes before you completely write it off.
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solutions to Try When Your Xbox Headset Isn't Working
 
  Are you trying to use your wireless Xbox One headset with your Xbox Series X or S? If it stopped working when you switched consoles, it may not be compatible. Check with the manufacturer to see if your headset is fully compatible with the Xbox Series X or S.
@@ -63,11 +45,12 @@ thumbnail: https://www.lifewire.com/thmb/9aAIrmerqE-lXFve1ScHyZbz_Ps=/540x405/fi
  Due to the typical cost of repairs compared to replacement cost, it often makes more sense to just buy a new Xbox headset rather than pay for repairs
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Causes an Xbox Series X or S Headset to Stop Working?
 
  This type of problem can be caused by issues with the headset itself, the controller, the adapter if you’re using a wireless headset, and even incorrectly configured privacy settings on your[Xbox Series X or S](https://www.lifewire.com/xbox-series-x-vs-xbox-series-s-5083862) .
@@ -103,8 +86,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +93,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-high-end-sound-pumping-tools-pcs-and-smartphones-for-2024/"><u>[New] High-End Sound Pumping Tools PCs & Smartphones for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-ios-174s-latest-features-including-podcast-text-support-newly-introduced-emojis-and-changes-to-the-european-unions-app-marketplace-insights-for-tec174/"><u>Discover iOS 17.4'S Latest Features Including Podcast Text Support, Newly Introduced Emojis & Changes to the European Union's App Marketplace | Insights for Technology Enthusiasts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y27s-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y27s by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/cting-audio-rates-in-youtube-playback/"><u>Perfecting Audio Rates in YouTube Playback</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tailoring-the-latest-ios-18-control-center-a-step-by-step-guide/"><u>Tailoring the Latest iOS 18 Control Center: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-subtle-art-of-apples-web-presentation-why-you-wont-find-an-on-their-sites-an-in-depth-analysis-by-gadgetguru/"><u>The Subtle Art of Apple's Web Presentation: Why You Won't Find an '!' On Their Sites – An In-Depth Analysis by GadgetGuru</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-18-unbeatable-prime-day-bargains-on-laptops-from-leading-brands-like-hp-apple-and-razer-exclusive-listings/"><u>Top 18 Unbeatable Prime Day Bargains on Laptops From Leading Brands Like HP, Apple & Razer - Exclusive Listings !</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-ipad-air-protectors-comprehensive-reviews-and-ratings-by-tech-experts-zdnet/"><u>Top-Rated iPad Air Protectors : Comprehensive Reviews and Ratings by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/transferring-your-itunes-library-a-step-by-step-guide-to-moving-iphone-backups-from-mac-or-pc-to-an-external-drive/"><u>Transferring Your iTunes Library: A Step-by-Step Guide to Moving iPhone Backups From Mac or PC to an External Drive</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-analysis-of-anthropics-smart-photo-editing-tool-user-guide/"><u>Ultimate Analysis of Anthropics' Smart Photo Editing Tool – User Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-10plus-best-podcast-player-apps-for-iphone-and-android/"><u>Updated In 2024, 10+ Best Podcast Player Apps for iPhone and Android</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-apples-latest-strategy-convinces-me-opting-for-iphone-16-pro-instead-of-max-zdnet/"><u>Why Apple's Latest Strategy Convinces Me: Opting for iPhone 16 Pro Instead of Max | ZDNET</u></a></li>
+</ul></div>
 

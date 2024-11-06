@@ -1,7 +1,7 @@
 ---
 title: "5 Stars: Expertly Chosen List of Current Fantastic Sports Movies to Enjoy!"
-date: 2024-09-11T21:39:29.351Z
-updated: 2024-09-15T19:27:22.746Z
+date: 2024-11-03T17:04:02.429Z
+updated: 2024-11-05T17:09:29.459Z
 categories:
   - BestProducts
 description: "This Article Describes 5 Stars: Expertly Chosen List of Current Fantastic Sports Movies to Enjoy!"
@@ -36,19 +36,25 @@ thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -64,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -75,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -92,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -101,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -128,6 +134,13 @@ thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -156,5 +169,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-harnessing-famebits-secrets-to-thrive-with-key-channel-sponsors/"><u>[New] 2024 Approved Harnessing FameBit's Secrets to Thrive with Key Channel Sponsors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-selective-slideshow-software-for-xrxsx-models/"><u>[Updated] 2024 Approved Selective Slideshow Software for Xr/XS/X Models</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-troubleshooting-obs-full-screen-malfunction/"><u>[Updated] 2024 Approved Troubleshooting OBS Full Screen Malfunction</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-optimize-your-communication-scheduling-and-planning-with-ease-google-for-2024/"><u>[Updated] Optimize Your Communication Scheduling & Planning with Ease (Google) for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-guide-to-seasonal-instant-purchase-discounts-expert-tips-from-zdnet/"><u>Discover the Ultimate Guide to Seasonal Instant Purchase Discounts: Expert Tips From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-how-ai-enhances-capabilities-what-to-expect-from-apples-m4-chip-in-the-latest-ipad-pro-announced-at-wwdc/"><u>Exploring How AI Enhances Capabilities: What to Expect From Apple's M4 Chip in the Latest iPad Pro Announced at WWDC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-megapixels-to-ai-mastery-the-remarkable-journey-and-future-promise-of-smartphone-photography-explored-by-zdnet/"><u>From Megapixels to AI Mastery: The Remarkable Journey and Future Promise of Smartphone Photography | Explored by ZDNET</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enable-speaker-output-after-unresponsive-sound-on-windows/"><u>How To Enable Speaker Output After Unresponsive Sound On Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-knowledge-of-lg-network-pathways-and-their-impact/"><u>Mastering Knowledge of LG Network Pathways and Their Impact</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/pro-bokeh-tips-for-captivating-instagram-snaps/"><u>Pro Bokeh Tips for Captivating Instagram Snaps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-replacing-missing-keys-on-your-notebook/"><u>Step-by-Step Guide: Replacing Missing Keys on Your Notebook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-magsafe-wallets-comprehensive-reviews-and-testing-insights-techradar/"><u>Top Rated MagSafe Wallets : Comprehensive Reviews & Testing Insights | TechRadar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-what-to-do-when-your-keyboard-isnt-typing/"><u>Troubleshooting Steps: What To Do When Your Keyboard Isn't Typing</u></a></li>
+</ul></div>
 

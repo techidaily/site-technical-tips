@@ -1,7 +1,7 @@
 ---
 title: "Upgrading From iPad Air 4 to iPad Air 5: Worth the Switch? Detailed Side-by-Side Analysis | CNET"
-date: 2024-10-27T04:06:47.887Z
-updated: 2024-10-31T05:13:00.187Z
+date: 2024-11-03T23:42:08.609Z
+updated: 2024-11-05T19:29:53.516Z
 tags:
   - apple
 categories:
@@ -54,23 +54,9 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy the iPad Air 5 (2022) if...
 
 Image: Apple
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. You're ready to embrace Apple's M1 supremacy
 
@@ -86,13 +72,6 @@ Camera performance isn't typically the key selling point for tablets, let alone 
 
 While the 12MP rear camera remains untouched, the front now houses a 12MP ultra-wide camera. With a wider field of view than the previous generation's 7MP FaceTime HD lens, the new iPad can take advantage of Center Stage, Apple's webcam feature that tracks and follows your face as you move around. This is particularly useful for presentations and FaceTime calls with friends and family.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. You thrive on 5G
 
 Apple didn't leave the possibility of 5G up in the air with the latest iPad model. Though not mmWave 5G, the sub-6 GHz bands on the iPad Air 5 allow you to dial into the 5th-generation network and access faster download speeds than the 4G LTE of the iPad Air 4\. 
@@ -102,15 +81,22 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 [Apple iPad Air (2022) $474.97 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DD2F93LD%2Fref%3Dasc%5Fdf%5FB0DD2F93LD1727607600000%3Fcreative%3D395261%26creativeASIN%3DB0DD2F93LD%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8668001c-06b7-46f9-802f-a40bcb001b16%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You should buy the iPad Air 4 (2020) if...
 
 Image: Apple
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Price comes before anything else
 
@@ -124,11 +110,25 @@ With the release of the new iPad Air, most third-party retailers have since mark
 
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
 
 The 1st-gen Apple Pencil is not compatible with either of the two iPad Air models mentioned in this article. Instead, you'll have to buy Apple's 2nd-gen stylus, which uses USB-C for charging and pairing, for the newer tablets.
 
 Our [guide to finding the right Apple Pencil and how to pair it](https://www.zdnet.com/article/how-to-pair-and-charge-your-apple-pencil/) breaks down the full list of compatible devices.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's the best alternative to the iPad Air?
 
@@ -170,16 +170,17 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-lowdown-on-instagrams-video-time-frame/"><u>[Updated] The Lowdown on Instagram's Video Time Frame</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-understanding-the-rules-behind-sharing-online-content-on-social-media-for-2024/"><u>[Updated] Understanding the Rules Behind Sharing Online Content on Social Media for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-correcting-the-missing-or-lost-steamdll-errors/"><u>Comprehensive Tutorial: Correcting the Missing or Lost Steam.dll Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-finding-a-persons-phone-number-online-with-privacy-in-mind/"><u>Effective Strategies for Finding a Person's Phone Number Online with Privacy in Mind</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/future-of-technology-unveiling-3-pivotal-trends-dominating-the-digital-world/"><u>Future of Technology: Unveiling 3 Pivotal Trends Dominating the Digital World</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-embedding-code-blocks-in-microsoft-word/"><u>Guide: Embedding Code Blocks in Microsoft Word</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-understanding-the-basics-of-motion-design/"><u>In 2024, Understanding the Basics of Motion Design</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-the-features-of-an-internet-ready-televisions/"><u>Navigating Through the Features of an Internet-Ready Televisions</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-common-windows-key-problems-including-the-enter-key/"><u>Overcoming Common Windows Key Problems, Including the Enter Key</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-basics-of-generative-artificial-intelligence-explained-simply/"><u>The Basics of Generative Artificial Intelligence Explained Simply</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-secrets-of-squaring-up-making-square-format-videos-with-imovie-for-instagram-for-2024/"><u>The Secrets of Squaring Up Making Square-Format Videos with iMovie for Instagram for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-spectacle-independent-effect-innovation/"><u>[New] In 2024, From Script to Spectacle Independent Effect Innovation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transition-tips-seamlessly-moving-to-macos-sierra/"><u>[Updated] Transition Tips Seamlessly Moving to MacOS Sierra</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-the-right-wrist-tech-apple-watch-series-9-versus-ultra-2-the-best-purchase-guide/"><u>Choosing the Right Wrist Tech: Apple Watch Series 9 versus Ultra 2 - The Best Purchase Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-giants-bard-and-bing-in-chat-wars/"><u>Comparing Giants: Bard & Bing in Chat Wars</u></a></li>
+<li><a href="https://fox-search.techidaily.com/frei-verfugbare-software-zur-besten-datensynchronisation-externer-hdds-und-ssds/"><u>Frei Verfügbare Software Zur Besten Datensynchronisation Externer HDDs Und SSDs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-update-1751-fixes-disturbing-glitch-restoring-archived-images-tech-news/"><u>IOS Update 17.5.1 Fixes Disturbing Glitch Restoring Archived Images - Tech News</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-dell-connected-with-ease-download-the-optimal-wi-fi-network-adapter-driver/"><u>Keep Your Dell Connected with Ease: Download The Optimal Wi-Fi Network Adapter Driver</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/maximize-traffic-potential-empowering-sites-with-cookiebot/"><u>Maximize Traffic Potential: Empowering Sites with Cookiebot</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-100-disk-overload-on-your-windows-10-pc-a-step-by-step-guide/"><u>Resolving 100% Disk Overload on Your Windows 10 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-engaging-web-based-games-perfect-for-children/"><u>Top 7 Engaging Web-Based Games Perfect for Children</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-2024s-premier-tablets-comprehensive-testing-by-tech-experts-zdnet/"><u>Ultimate Guide to 2024'S Premier Tablets: Comprehensive Testing by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1728470585116-windows-1011/"><u>Windows 10/11におけるディスクパーティショニング削除手順</u></a></li>
 </ul></div>
 

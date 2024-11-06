@@ -1,7 +1,7 @@
 ---
 title: Setting Up Multiple VPN Profiles on macOS for Enhanced Connectivity Options | Tips & Tricks by ZDNet
-date: 2024-10-27T22:04:17.725Z
-updated: 2024-10-30T18:02:37.532Z
+date: 2024-10-30T22:37:52.202Z
+updated: 2024-11-05T20:24:34.339Z
 tags:
   - apple
 categories:
@@ -38,31 +38,38 @@ Let me show you how it works.
 
 ## How to create different network locations in MacOS
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only thing you'll need is a device running an updated version of MacOS. This feature works with both wired and wireless connections.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open System Preferences
 
 Click the Apple menu at the top right of your display and select System Preferences from the menu.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Open Network
 
 From within System Preferences, click the Network icon to open the Network section.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Create a new network location
 
@@ -71,13 +78,6 @@ From the Location drop-down, select Edit Locations. In the resulting pop-up, cli
 Creating a new Network Location in MacOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Configure the new location
 
@@ -90,10 +90,16 @@ Image: Jack Wallen
 Once you've configured the location exactly how you need it, click Apply to save everything.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Switching to a different Network Location
@@ -139,20 +145,17 @@ Fortunately, you are now empowered to more easily make that switch.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-mastering-the-art-of-podcast-scheduling/"><u>[New] 2024 Approved Mastering the Art of Podcast Scheduling</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-streamlined-approaches-for-efficient-gif-design-for-2024/"><u>[Updated] Streamlined Approaches for Efficient GIF Design for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-taming-soundtracks-audio-capture-in-windows-10/"><u>[Updated] Taming Soundtracks Audio Capture in Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/avoiding-pet-reflections-enhancing-your-animal-portraits-perfectly/"><u>Avoiding Pet Reflections: Enhancing Your Animal Portraits Perfectly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/brighten-up-your-pc-with-a-new-taskbar-color-on-windows-11/"><u>Brighten Up Your PC with a New Taskbar Color on Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-ensuring-your-mac-detects-and-uses-an-outside-monitor-correctly/"><u>Expert Tips for Ensuring Your Mac Detects and Uses an Outside Monitor Correctly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-how-to-disable-subtitle-features-on-amazon-prime-videos/"><u>Guide: How To Disable Subtitle Features On Amazon Prime Videos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-honor-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Honor</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-a-peek-into-the-heart-of-youtubes-video-operations/"><u>In 2024, A Peek Into the Heart of YouTube's Video Operations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capturing-the-perfect-snap-on-pexels/"><u>In 2024, Capturing the Perfect Snap on Pexels</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-unlock-quality-video-recording-top-5-recorder-brands/"><u>In 2024, Unlock Quality Video Recording - Top 5 Recorder Brands</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-upgrading-to-ios-17-worth-it/"><u>Is Upgrading to iOS 17 Worth It?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-measurement-expert-techniques-to-use-googles-app-on-android-phones/"><u>Master Measurement: Expert Techniques to Use Google's App on Android Phones</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-of-the-latest-samsung-galaxy-s21-model-trimming-down-for-innovation/"><u>Unveiling the Features of the Latest Samsung Galaxy S21 Model: Trimming Down for Innovation</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-techniques-for-captivating-visual-fb-ads/"><u>[Updated] In 2024, Techniques for Captivating Visual FB Ads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/airedges-ultimate-selection-of-apple-watch-bands-expert-opinions-and-ratings/"><u>AIREDGE's Ultimate Selection of Apple Watch Bands : Expert Opinions and Ratings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-savings-like-never-before-grab-the-highly-anticipated-2022-ipad-pro-now-with-a-700-price-cut-on-labor-day-exclusive-news/"><u>Experience Savings Like Never Before: Grab the Highly Anticipated 2022 iPad Pro Now with a $700 Price Cut on Labor Day | Exclusive News</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-complete-guide-to-structuring-effective-audio-xml/"><u>In 2024, The Complete Guide to Structuring Effective Audio XML</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/slide-by-slide-audio-integration-for-dynamic-ppts-for-2024/"><u>Slide-by-Slide Audio Integration for Dynamic PPTs for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-waterproof-smartwatches-comprehensive-reviews-and-testing-insights-techexplorers/"><u>Top Rated Waterproof Smartwatches : Comprehensive Reviews & Testing Insights | TechExplorers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-iphone-se-cases-of-2022-ultimate-defense-and-style-featured/"><u>Top-Rated iPhone SE Cases of 2022: Ultimate Defense & Style - Featured</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/ultimate-crew-for-imaginative-audio-visual-art/"><u>Ultimate Crew for Imaginative Audio-Visual Art</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-steps-to-view-friends-whereabouts-on-iphone/"><u>Unveiling the Steps to View Friend's Whereabouts on iPhone</u></a></li>
 </ul></div>
 

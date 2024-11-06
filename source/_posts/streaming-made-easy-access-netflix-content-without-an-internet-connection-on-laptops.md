@@ -1,7 +1,7 @@
 ---
 title: "Streaming Made Easy: Access Netflix Content Without an Internet Connection on Laptops"
-date: 2024-09-09T17:53:07.830Z
-updated: 2024-09-15T21:11:11.780Z
+date: 2024-11-03T17:10:54.242Z
+updated: 2024-11-05T22:44:43.316Z
 categories:
   - BestProducts
 description: "This Article Describes Streaming Made Easy: Access Netflix Content Without an Internet Connection on Laptops"
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Turn On 120 FPS on PS5
 
  Most games that support 120 FPS also have other graphical modes that run at different frame rates, like 30 FPS and 60 FPS. You'll want to check your in-game settings for a 120 FPS toggle or a "Performance Mode" that you can turn on.
@@ -29,10 +36,34 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 2. Then, navigate to**Screen and Video** .  
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
@@ -45,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
  You'll also need an HDMI 2.1 cable. You can use the HDMI cable that comes with the PS5, which is a 2.1\. However, if you're using a different cord (because the included one wasn't long enough, for example), you'll need to make sure it's that type.
 
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which PS5 Games Support 120 FPS?
 
@@ -97,5 +121,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-are-critiques-on-items-compensated-monetarily-in-2024/"><u>[Updated] Are Critiques on Items Compensated Monetarily, In 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-diving-into-4k-luxury-a-comprehensive-look-at-the-p2715q-monitor/"><u>[Updated] Diving Into 4K Luxury - A Comprehensive Look at the P2715Q Monitor</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-crafting-customized-clips-on-iphone-3-free-music-integration-techniques/"><u>[Updated] In 2024, Crafting Customized Clips on iPhone – 3 Free Music Integration Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unlocking-potential-snapchat-insights-for-companies/"><u>[Updated] In 2024, Unlocking Potential Snapchat Insights for Companies</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-nokia-c02-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Nokia C02 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-youtubes-realm-to-igtvs-domain-3-ways/"><u>2024 Approved From YouTube's Realm to IGTV's Domain (3 Ways)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-digital-broadcast-quality-how-to-select-and-use-an-indoor-tv-antenna/"><u>Boost Digital Broadcast Quality: How to Select and Use an Indoor TV Antenna</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-greatest-cell-phone-renewal-bargains-on-verizon-for-month/"><u>Explore the Greatest Cell Phone Renewal Bargains on Verizon for [Month]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/improving-audio-clarity-with-tvos-18-on-apple-tv-features-to-elevate-your-viewing-experience/"><u>Improving Audio Clarity with tvOS 18 on Apple TV - Features to Elevate Your Viewing Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-oneplus-nord-ce-3-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best OnePlus Nord CE 3 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-dazzling-dynamics-the-essence-of-grading-aesthetics/"><u>In 2024, Dazzling Dynamics The Essence of Grading Aesthetics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/marvel-at-apples-wearable-future-embracing-goggles-as-the-next-big-thing-zdnet-insights/"><u>Marvel at Apple’s Wearable Future: Embracing Goggles as the Next Big Thing | ZDNET Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/migrating-your-favorites-moving-playlists-from-apple-music-to-youtube-with-ease-a-comprehensive-guide/"><u>Migrating Your Favorites: Moving Playlists From Apple Music to YouTube with Ease - A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/restoring-deleted-phone-numbers-on-android-phones-tips-and-tricks-for-effective-recovery/"><u>Restoring Deleted Phone Numbers on Android Phones: Tips and Tricks for Effective Recovery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-kid-friendly-mobile-devices-safe-and-fun-smartphones-zdnet-guide/"><u>Top Kid-Friendly Mobile Devices: Safe & Fun Smartphones (ZDNet Guide)</u></a></li>
+</ul></div>
 

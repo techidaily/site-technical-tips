@@ -1,7 +1,7 @@
 ---
 title: "Explore PS4 Portal Specs: When It Hits Shelves, How Much to Pay & Where You Can Grab Your Copy"
-date: 2024-10-26T21:50:19.220Z
-updated: 2024-10-31T00:57:54.671Z
+date: 2024-10-29T20:52:02.550Z
+updated: 2024-11-05T16:05:14.150Z
 categories:
   - BestProducts
 description: "This Article Describes Explore PS4 Portal Specs: When It Hits Shelves, How Much to Pay & Where You Can Grab Your Copy"
@@ -49,13 +49,6 @@ Skynesher/Getty
 
  As you make your purchases, consider how long the item will last with your child. Some kids are rough on technology, while others are more thoughtful and responsible; age often dictates how nice I'm willing to purchase for a specific child.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Look for Student Discounts
 
  Check for discounts before you buy! Several major tech manufacturers offer student discounts, including HP and[Dell](https://www.lifewire.com/dell-student-discount-4686335) . Some retailers, like[Best Buy](https://www.lifewire.com/best-buy-student-discount-4684485) , offer back-to-school deals as well.
@@ -73,16 +66,23 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275751%27 height=%272313%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Hands holding a smartphone with a red smartwatch on wrist over a pencil and paper.](https://www.lifewire.com/thmb/nSqWQLOUlnMzLJD1rc7f4f2qO5g=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/smartwatchandphone_yacobchuk_GettyImages-693332444_CROPPED-616820cc68f645c09d7153ccc1de07ff.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983473">
+<span id="1983588">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Connections: The Power of Phones and Smartwatches
@@ -112,16 +112,10 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using Apps and Sites Can Support Good Study Habits
@@ -131,10 +125,10 @@ Skynesher/Getty
 ![Female student walking with a tablet, smartphone, and headphones.](https://www.lifewire.com/thmb/xlh2OPH52kBp--XJzwjVyR_lZN0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentwithtabletphoneheadphones_COROIMAGE_GettyImages-1429193388_VERTICALCROP-5f30ba23f2f64ada861c3283ce518740.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Back to school means more than finding the right books this year. While those are crucial (and often spendy), a frequently overlooked aspect of getting back into the school groove involves finding and using the right apps to support learning, enhance productivity, and improve organization tactics.
@@ -191,22 +185,22 @@ Skynesher/Getty
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevating-your-video-content-youtube-to-igtv-transition/"><u>[New] 2024 Approved Elevating Your Video Content YouTube to IGTV Transition</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-fierce-competition-gopro-vs-sonys-dslr-for-adventure-films/"><u>[New] Fierce Competition GoPro Vs. Sony's DSLR for Adventure Films</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pioneering-art-for-crypto-the-finest-7-generators-at-hand/"><u>[New] Pioneering Art for Crypto The Finest 7 Generators at Hand</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-proven-methods-to-elevate-patient-testimonial-videos/"><u>[Updated] Proven Methods to Elevate Patient Testimonial Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/a-step-by-step-path-to-authentic-selfie-verification-on-ig-for-2024/"><u>A Step-by-Step Path to Authentic Selfie Verification on IG for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-free-online-movie-platforms-as-great-as-netflix/"><u>Best Free Online Movie Platforms as Great As Netflix</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elevate-your-pc-game-library-the-ultimate-top-6-list-of-super-mario-games-to-play/"><u>Elevate Your PC Game Library: The Ultimate Top 6 List of Super Mario Games to Play</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/express-vs-stick-unraveling-the-key-differences-of-roku-devices/"><u>Express vs Stick? Unraveling the Key Differences of Roku Devices</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-expert-tips-on-jump-cuts-for-dynamic-video-editing/"><u>In 2024, Expert Tips on Jump Cuts for Dynamic Video Editing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-data-preservation-a-guide-to-keeping-your-important-records-safe-and-sound/"><u>Mastering Data Preservation: A Guide to Keeping Your Important Records Safe and Sound</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-digital-waters-with-netflix-your-all-in-one-streaming-solution/"><u>Navigating the Digital Waters with Netflix: Your All-in-One Streaming Solution</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-switching-your-iphones-language-and-region-settings/"><u>Step-by-Step Guide: Switching Your iPhone's Language and Region Settings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-condensation-editing-youtube-video-durations-for-2024/"><u>The Art of Condensation Editing YouTube Video Durations for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-picks-the-best-currently-airing-shows-on-discoveryplus-as-of-july-2024/"><u>Top Picks: The Best Currently Airing Shows on Discovery+ as of July 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-for-missing-comctl32dll-on-your-pc/"><u>Troubleshooting Guide for 'Missing Comctl32.dll' On Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-seamless-disneyplus-entertainment-by-connecting-to-chromecast-how/"><u>Unlock Seamless Disney+ Entertainment by Connecting to Chromecast - How?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-highly-compensated-online-visionary-creator/"><u>[New] In 2024, Highly Compensated Online Visionary Creator</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-inside-look-freewebcampro-software-overview-for-2024/"><u>[New] Inside Look FreeWebcamPro Software Overview for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-artisans-touch-skillfully-applying-face-centric-motion-blur-using-picsart/"><u>[New] The Artisan’s Touch Skillfully Applying Face-Centric Motion Blur Using Picsart</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-step-by-step-to-social-glory-enhance-your-feed-with-gifs-insta-style-for-2024/"><u>[Updated] Step-By-Step to Social Glory Enhance Your Feed with GIFs (Insta Style) for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-mac-mini-upgrades-to-m2-chip-hit-historic-low-at-just-479-techradar-breaking-news/"><u>Apple's Mac Mini Upgrades to M2 Chip Hit Historic Low at Just $479 – TechRadar Breaking News</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/economical-cameras-rated/"><u>Economical Cameras Rated</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/everything-you-need-to-know-about-the-apple-iphone-upgrade-program/"><u>Everything You Need to Know About the Apple iPhone Upgrade Program</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-device-wont-boot-up-expert-tips-on-overcoming-code-10-malfunctions/"><u>Fixing 'Device Won't Boot Up': Expert Tips on Overcoming Code 10 Malfunctions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/global-smartphone-sales-revealed-iphones-capture-the-first-7-slots-according-to-new-data/"><u>Global Smartphone Sales Revealed: IPhones Capture the First 7 Slots, According to New Data</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-pro-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 Pro Max to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210210666-9781722521554-in-tune-with-the-infinite-condensed-classics/"><u>In Tune With the Infinite (Condensed Classics) | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/innovation-alert-apple-delves-into-ai-enhanced-domestic-robots-showcasing-two-revolutionary-products-zdnet-update/"><u>Innovation Alert: Apple Delves Into AI-Enhanced Domestic Robots, Showcasing Two Revolutionary Products | ZDNET Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-ps5s-custom-storage-solutions-upgrading-with-an-ssd-guide/"><u>Mastering PS5's Custom Storage Solutions: Upgrading with an SSD Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-battle-of-streaming-devices-differences-between-roku-express-and-roku-stick-revealed/"><u>The Battle of Streaming Devices: Differences Between Roku Express and Roku Stick Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-the-upcoming-mac-studios-standout-features-could-deter-my-purchase-of-a-new-m4-mac-mini-this-autumn-insights/"><u>Why the Upcoming Mac Studio's Standout Features Could Deter My Purchase of a New M4 Mac Mini This Autumn: Insights</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-mastery-in-marketing-the-top-5-must-knows-for-brands/"><u>YouTube Mastery in Marketing The Top 5 Must-Knows for Brands</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-exposes-apples-secret-plans-for-intelligent-household-assistants-and-related-innovations/"><u>ZDNet Exposes Apple's Secret Plans for Intelligent Household Assistants and Related Innovations</u></a></li>
 </ul></div>
 

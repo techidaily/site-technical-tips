@@ -1,7 +1,7 @@
 ---
 title: "Unlocking New Possibilities: How Apple's iPhone Embraces Third-Party NFC Integration for Enhanced User Experience"
-date: 2024-10-23T18:26:46.887Z
-updated: 2024-10-31T06:08:15.006Z
+date: 2024-10-30T22:35:41.431Z
+updated: 2024-11-05T22:07:45.089Z
 tags:
   - apple
 categories:
@@ -44,22 +44,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -70,6 +63,13 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
@@ -77,10 +77,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -90,10 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,21 +130,20 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-auditory-artifacts-essential-ringtone-archives-online/"><u>[New] 2024 Approved Auditory Artifacts Essential Ringtone Archives Online</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-groundbreaking-action-adventure-masterpieces-top-10/"><u>[Updated] 2024 Approved Groundbreaking Action-Adventure Masterpieces (Top 10)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dodging-account-penaltinas-on-youtube/"><u>[Updated] In 2024, Dodging Account Penaltinas on Youtube</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-in-the-spotlight-these-8-trending-video-clips-online/"><u>[Updated] In 2024, In the Spotlight These 8 Trending Video Clips Online</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-speedy-steps-scribbling-down-slides-in-ppt/"><u>[Updated] Speedy Steps Scribbling Down Slides in PPT</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-guide-how-to-find-and-download-manuals-for-all-iphone-models/"><u>Complete Guide: How to Find and Download Manuals for All iPhone Models</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-depth-of-royal-match-a-count-of-its-distinct-levels/"><u>Exploring the Depth of Royal Match - A Count of Its Distinct Levels</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-upgradable-windows-10-solutions-and-tips/"><u>How to Fix a Non-Upgradable Windows 10: Solutions & Tips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-multi-lens-modifiers-for-creative-video-effects/"><u>In 2024, Multi-Lens Modifiers for Creative Video Effects</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/perfect-order-for-watching-dragon-ball-anime-episodes-from-start-to-finish/"><u>Perfect Order for Watching Dragon Ball Anime Episodes From Start to Finish</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-correcting-ieframedll-problems-on-your-pc/"><u>Step-by-Step Solutions: Correcting IEFrame.DLL Problems on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-what-matters-most-when-shopping-for-a-new-projector/"><u>The Ultimate Guide: What Matters Most When Shopping for a New Projector</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-gaming-systems-in-2-the-year-2024/"><u>Top Rated Gaming Systems in 2 the Year 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-new-possibilities-on-your-apple-gadget-ios-18-free-release-features-uncovered-and-price-insights/"><u>Unlock New Possibilities on Your Apple Gadget: IOs #18 Free Release, Features Uncovered and Price Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016511916-webex-microphone-troubleshooting-fixes-you-need-to-know-for-202n4/"><u>Webex Microphone Troubleshooting: Fixes You Need to Know for 202N4</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-live-broadcast-precision-introducing-an-effective-timer-for-2024/"><u>[Updated] Live Broadcast Precision Introducing an Effective Timer for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-zipping-up-subtitles-from-zip-to-srt-file-transformation-for-2024/"><u>[Updated] Zipping Up Subtitles From ZIP to SRT File Transformation for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-latest-ai-innovations-from-wwdc-yawn-inducing-but-essential-insights-by-zdnet/"><u>Apple's Latest AI Innovations From WWDC: Yawn-Inducing but Essential - Insights by ZDNet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/closer-look-techniques-for-microsoft-teams-for-2024/"><u>Closer Look Techniques for Microsoft Teams for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/favorite-phones-reviewed-tech-experts-top-picks-unveiled/"><u>Favorite Phones Reviewed Tech Experts – Top Picks Unveiled!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/immediate-purchase-options-for-apples-new-releases-post-wwdc-discover-locations-and-preorder-steps/"><u>Immediate Purchase Options for Apple's New Releases Post-WWDC - Discover Locations & Preorder Steps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-craft-a-masterpiece-top-8-iphone-drawing-apps-reviewed/"><u>In 2024, Craft a Masterpiece Top 8 iPhone Drawing Apps Reviewed</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leading-seo-firms-in-the-eternal-city-of-rome-enhance-visibility-with-expert-strategies/"><u>Leading SEO Firms in the Eternal City of Rome: Enhance Visibility with Expert Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-screen-mirroring-sync-your-android-with-amazon-fire-tv/"><u>Mastering Screen Mirroring: Sync Your Android with Amazon Fire TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-efficiency-on-the-go-with-our-updated-selection-of-cutting-edge-xr-headsets-latest-upgrades-revealed/"><u>Maximize Efficiency on the Go with Our Updated Selection of Cutting-Edge XR Headsets – Latest Upgrades Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/october-launch-rumored-as-apple-delays-unveiling-intelligence-tech-features-sources-say-zdnet-exclusive/"><u>October Launch Rumored as Apple Delays Unveiling Intelligence Tech Features, Sources Say | ZDNet Exclusive</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2593901-9781785259876-su-horoscopo-chino-tigre/"><u>Su horóscopo chino. Tigre | Free Book</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sumind-bt70b-bluetooth-transmitter-evaluation-ultimate-companion-for-in-car-connectivity/"><u>Sumind BT70B Bluetooth Transmitter Evaluation: Ultimate Companion for In-Car Connectivity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-smartwatches-comprehensive-reviews-and-comparisons-by-tech-experts/"><u>Top-Rated Smartwatches - Comprehensive Reviews & Comparisons by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-digital-experience-with-the-highly-functional-acemagic-x1-the-must-have-two-screen-computer/"><u>Transform Your Digital Experience with the Highly Functional Acemagic X1: The Must-Have Two-Screen Computer.</u></a></li>
 </ul></div>
 

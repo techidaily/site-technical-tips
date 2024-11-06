@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Protecting Your iPhone Memories by Syncing with iCloud and Mac Devices"
-date: 2024-10-30T07:41:18.530Z
-updated: 2024-10-30T18:30:20.066Z
+date: 2024-11-04T23:59:11.706Z
+updated: 2024-11-05T21:51:47.299Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -62,13 +55,6 @@ Microsoft added iPhone support to Phone Link in Windows 11 in early 2023\. To ma
 Next, confirm that you're running the latest version of Phone Link. To do this, open the Microsoft Store app from the Start menu and click the Library icon. Click the Get Updates button and allow all your installed apps to be updated, including Phone Link if necessary.
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
 
@@ -92,11 +78,25 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -104,18 +104,24 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -128,10 +134,10 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
@@ -158,18 +164,18 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,17 +213,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-managing-who-accesses-your-youtube-videography/"><u>[New] Managing Who Accesses Your YouTube Videography</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-art-of-video-integration-youtube-meets-microsoft-powerpoint/"><u>[Updated] 2024 Approved The Art of Video Integration YouTube Meets Microsoft PowerPoint</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elevate-your-productivity-at-home-mastering-the-ipad-pro-for-office-efficiency-insights-from-zdnet/"><u>Elevate Your Productivity at Home: Mastering the iPad Pro for Office Efficiency | Insights From ZDNet</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-expressive-leadership-examination-refined-no-8/"><u>In 2024, Expressive Leadership Examination - Refined No. 8</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovate-your-tiktok-storytelling-with-effects/"><u>In 2024, Innovate Your TikTok Storytelling with Effects</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722853973028-mastering-pc-restoration-how-to-address-reset-operation-couldnt-be-completed-error/"><u>Mastering PC Restoration: How to Address Reset Operation Couldn't Be Completed Error</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/oculus-favorites-the-8-highest-selling-games-for-2024/"><u>Oculus Favorites The 8 Highest-Selling Games for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-sign-up-process-mastering-user-registration/"><u>Simple Sign-Up Process - Mastering User Registration</u></a></li>
-<li><a href="https://win-superb.techidaily.com/solusi-mutu-mengatur-startup-awalnya-windows-1111-yang-tak-berfungsi-solusi-penyelesaian-terpadu/"><u>Solusi Mutu: Mengatur Startup Awalnya Windows 11/11 Yang Tak Berfungsi, Solusi Penyelesaian Terpadu!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-unbeatable-premium-titanium-band-for-your-apple-watch-expertly-reviewed-and-ranked-by-zdnet/"><u>The Unbeatable Premium Titanium Band for Your Apple Watch, Expertly Reviewed and Ranked by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-choosing-the-perfect-apple-watch-band-in-2eplust-expertly-reviewed/"><u>Ultimate Guide to Choosing the Perfect Apple Watch Band in 2E+t! | Expertly Reviewed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-professional-video-creation-on-your-iphone-with-apples-latest-update-introducing-final-cut/"><u>Unlocking Professional Video Creation on Your iPhone with Apple's Latest Update: Introducing Final Cut</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-explore-the-best-no-cost-video-meeting-apps-iosandroid/"><u>[New] In 2024, Explore the Best No-Cost Video Meeting Apps - iOS/Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-triple-down-on-instagrams-growth-metrics/"><u>[Updated] 2024 Approved How to Triple Down on Instagram's Growth Metrics</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-google-collages-how-to-achieve-it-in-a-blink-of-an-eye/"><u>[Updated] Google Collages How to Achieve It in A Blink of an Eye</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-name-selection-for-distinctive-youtube-channels-for-2024/"><u>[Updated] Mastering Name Selection for Distinctive YouTube Channels for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/advancing-artificial-intelligence-unveiling-apples-latest-breakthrough-models-and-their-capabilities-techinsight/"><u>Advancing Artificial Intelligence: Unveiling Apple's Latest Breakthrough Models and Their Capabilities | TechInsight</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/descubre-el-proceso-simple-de-duplicacion-automatizada-de-archivos-en-un-disco-duro-exterior/"><u>Descubre El Proceso Simple De Duplicación Automatizada De Archivos en Un Disco Duro Exterior</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ideal-protector-for-your-iphone-se-elite-case-selection-reviewed-insights/"><u>Discover the Ideal Protector for Your iPhone SE : Elite Case Selection Reviewed Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/forsta-handsfattat-tips-for-att-spela-in-ljud-pa-din-webplats-movavi/"><u>Första-Handsfattat Tips För Att Spela in Ljud På Din Webplats – Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-does-dts-virtual-x-enhance-your-audio-experience/"><u>How Does DTS Virtual X Enhance Your Audio Experience?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-8-plus-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 8 Plus in Lost Mode</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-use-of-chatgpt-for-seamless-language-translation-solutions/"><u>Navigating the Use of ChatGPT for Seamless Language Translation Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-problems-during-pc-reboot-step-by-step-troubleshooting-guide/"><u>Solving the 'Problems During PC Reboot': Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-apple-watch-screensaver-pick-of-2e23-featured-by-zdnet/"><u>Top-Rated Apple Watch Screensaver Pick of 2E23 Featured by ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-a-superhero-experience-discover-how-apple-vision-pro-transforms-fantasy-into-reality-available-june-1st/"><u>Unlock a Superhero Experience! Discover How Apple Vision Pro Transforms Fantasy Into Reality - Available June 1St</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-new-in-ipados-release-unpack-the-announcement-with-date-and-pricing-info/"><u>What's New in iPadOS Release? Unpack the Announcement with Date and Pricing Info</u></a></li>
 </ul></div>
 

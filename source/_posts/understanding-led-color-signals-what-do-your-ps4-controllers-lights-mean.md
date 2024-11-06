@@ -1,7 +1,7 @@
 ---
 title: "Understanding LED Color Signals: What Do Your PS4 Controller's Lights Mean?"
-date: 2024-09-13T17:57:22.020Z
-updated: 2024-09-15T16:27:18.185Z
+date: 2024-11-03T17:30:10.104Z
+updated: 2024-11-05T21:02:01.579Z
 categories:
   - BestProducts
 description: "This Article Describes Understanding LED Color Signals: What Do Your PS4 Controller's Lights Mean?"
@@ -32,6 +32,13 @@ Close
 
 InspiredImages/Pixabay
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why Is My PS4 Controller Flashing White? 
 
  If the LED light on your PS4 controller is blinking white, it's due to one of two reasons:
@@ -40,6 +47,13 @@ InspiredImages/Pixabay
 * **The controller can't connect** : Reset the controller, then check the USB or Bluetooth connection. If you still have trouble, power cycle your PS4\. Turn the console off by holding down the power button, then remove the power cables and let your console sit for 20 minutes. With the console still unplugged, press and hold the power button again, then plug the console back in.
 
  If you continue to have trouble with your console, you can try[ resetting your PS4 to factory settings](https://www.lifewire.com/how-to-reset-your-ps4-4173916) , but you will lose any data on your hard drive that's not backed up to the cloud.  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why Is My PS4 Controller Blinking Red? 
 
@@ -50,16 +64,10 @@ InspiredImages/Pixabay
  If you're sure the battery or charging port on your controller is defective, you can replace it. This is an advanced fix that requires you to open up your controller, so you might be better off buying a new one. If the controller is still under warranty, you should send it in for repairs.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why Is My PS4 Controller Flashing Orange? 
@@ -72,10 +80,10 @@ InspiredImages/Pixabay
 ![Supply Power to USB Ports in PlayStation 4 settings](https://www.lifewire.com/thmb/LJDfeunJAa8PB2wou89_OvQhlyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_why-is-my-ps4-controller-blinking-blue-white-red-or-orange-6754246-0eef66506e3b4750b67651589c886fb9.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To rule out minor technical hiccups, power cycle the PS4, then reset the controller and let it charge for a couple of hours. If the controller loses its charge too quickly, the internal battery is probably defective.
@@ -120,5 +128,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-expertise-in-making-screen-captures-on-ios-easier/"><u>[New] 2024 Approved Expertise in Making Screen Captures on iOS Easier</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-direct-match-twitchs-battle-against-youtubes-dominance/"><u>[New] In 2024, Direct Match Twitch's Battle Against YouTube's Dominance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-new-era-of-earphones-discover-the-4-key-improvements-in-latest-airpods-across-all-models-innovations/"><u>Apple's New Era of Earphones: Discover the 4 Key Improvements in Latest AirPods Across All Models Innovations</u></a></li>
+<li><a href="https://fox-info.techidaily.com/bigger-captures-intact-detail-quality-for-2024/"><u>Bigger Captures, Intact Detail Quality for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/breaking-down-the-latest-from-apples-let-loose-features-of-the-m4-ipad-pro-13-inch-ipad-air-and-apple-pencil-pro-insights/"><u>Breaking Down the Latest From Apple's 'Let Loose': Features of the M4 iPad Pro, 13-Inch iPad Air & Apple Pencil Pro | Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-to-resolve-libgdk-win32-20-0dll-errors-in-windows-expert-advice/"><u>Easy Steps to Resolve libgdk-win32-2.0-0.dll Errors in Windows - Expert Advice</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macbook-air-showdown-comparing-the-power-of-m3-vs-m2-models-find-your-ideal-apple-laptop/"><u>MacBook Air Showdown: Comparing the Power of M3 Vs. M2 Models - Find Your Ideal Apple Laptop!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protecting-your-new-iphone-16-essential-reasons-why-everyone-should-use-a-phone-case-insights-from-zdnet/"><u>Protecting Your New iPhone 16: Essential Reasons Why Everyone Should Use a Phone Case – Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sing-your-heart-out-in-style-a-review-of-the-user-friendly-and-vibrant-singing-machine-sml385btbk-karaoke-system/"><u>Sing Your Heart Out in Style: A Review of the User-Friendly and Vibrant Singing Machine SML385BTBK Karaoke System</u></a></li>
+<li><a href="https://discover-community.techidaily.com/top-free-dvd-players-compatible-with-windows-10/"><u>Top Free DVD Players Compatible with Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-amazon-offers-in-september-2024-you-cant-miss-featuring-expert-insights-from-zdnet/"><u>Top-Rated Amazon Offers in September 2024 You Can't Miss! Featuring Expert Insights From ZDNet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-free-video-orientation-correction-tools-for-iphone-for-2024/"><u>Updated Best Free Video Orientation Correction Tools for iPhone for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-s23plus-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy S23+ Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

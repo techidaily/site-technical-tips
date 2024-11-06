@@ -1,7 +1,7 @@
 ---
 title: Apple Reveals Exciting New Features Set to Elevate Your iPhone, iPad, and Mac Experience This Fall (AI Included) | Insights
-date: 2024-10-27T17:31:30.883Z
-updated: 2024-10-30T22:24:10.264Z
+date: 2024-10-31T18:28:29.394Z
+updated: 2024-11-05T21:00:03.912Z
 tags:
   - apple
 categories:
@@ -69,10 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -93,13 +93,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -115,10 +108,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -131,6 +124,13 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -141,13 +141,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -173,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,18 +218,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-short-form-showdown-youtube-vs-tiktok-edition/"><u>[Updated] Short-Form Showdown Youtube VS. TikTok Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-multitask-media-consumption-harnessing-pip-feature-in-netflix/"><u>2024 Approved Mastering Multitask Media Consumption Harnessing PIP Feature in Netflix</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-pros-and-cons-of-samsung-photo-editor/"><u>2024 Approved Unveiling the Pros & Cons of Samsung PHOTO EDITOR</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conquer-cluttered-inboxes-expert-tips-on-organizing-messages-using-labels-in-gmail/"><u>Conquer Cluttered Inboxes: Expert Tips on Organizing Messages Using Labels in Gmail</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-convert-multiple-jpeg-photos-into-a-compiled-pdf-format-effortlessly/"><u>How to Convert Multiple JPEG Photos Into a Compiled PDF Format Effortlessly</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-x7-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo Find X7 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-final-cut-pro-x-a-guide-to-instagrams-vertical-preference/"><u>In 2024, Final Cut Pro X A Guide to Instagram’s Vertical Preference</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximizing-your-ps5-a-step-by-step-guide-to-achieving-120fps-gaming/"><u>Maximizing Your PS5: A Step-by-Step Guide to Achieving 120Fps Gaming</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-method-to-solve-the-broken-key-issue-on-your-hp-notebooks-detailed-steps-included-article-title-407-chars/"><u>Quick Method to Solve the 'Broken' Key Issue on Your HP Notebooks — Detailed Steps Included! - Article Title (407 Chars)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-fixes-for-stereo-receivers-failing-to-produce-sound/"><u>Step-by-Step Fixes for Stereo Receivers Failing to Produce Sound</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-easily-set-up-microsoft-office-365-on-any-computer/"><u>Step-by-Step Guide: Easily Set Up Microsoft Office 365 on Any Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-eliminating-vertical-streaks-on-your-samsung-display/"><u>Step-by-Step Solutions for Eliminating Vertical Streaks on Your Samsung Display</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-list-of-educational-animation-software-for-schools-for-2024/"><u>The Ultimate List of Educational Animation Software for Schools for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-seamless-story-connectivity-on-facebook-4-tips-for-2024/"><u>[New] Seamless Story Connectivity on Facebook (4 Tips) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-advanced-techniques-in-video-thumbnail-creation-for-2024/"><u>[Updated] Exploring Advanced Techniques in Video Thumbnail Creation for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-discovering-the-heart-of-editing-filmoras-top-choices/"><u>[Updated] In 2024, Discovering the Heart of Editing - Filmora’s Top Choices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-mastering-the-convenience-of-apple-pay-tips-for-seamless-in-store-and-online-transactions-unlock-efficiency-with-usage-guide/"><u>1. Mastering the Convenience of Apple Pay: Tips for Seamless In-Store & Online Transactions - Unlock Efficiency with Usage Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-snap-to-success-top-pixlr-editing-methods-unveiled/"><u>2024 Approved Snap to Success Top Pixlr Editing Methods Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722901441750-comprehensive-guide-dealing-with-windows-code-19-errors-successfully-what-you-need-to-know/"><u>Comprehensive Guide: Dealing with Windows 'Code 19' Errors Successfully – What You Need To Know!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-capturing-precise-measurements-using-your-android-phones-inbuilt-tools/"><u>Expert Advice: Capturing Precise Measurements Using Your Android Phone's Inbuilt Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-latest-features-top-5-must-try-innovations-on-the-new-ios-18-preview-zdnet/"><u>Explore the Latest Features: Top 5 Must-Try Innovations on the New iOS 18 Preview - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-i-boosted-my-iphone-capacity-by-over-4gb-tips-for-efficient-digital-decluttering/"><u>How I Boosted My iPhone Capacity by Over 4GB - Tips for Efficient Digital Decluttering</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-peak-creativity-youtube-fellowship/"><u>In 2024, Peak Creativity YouTube Fellowship</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-refinement-of-zoom-visual-clarity-techniques-and-strategies/"><u>In 2024, Refinement of Zoom Visual Clarity Techniques and Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/live-gaming-zenith-revealed-9-edition/"><u>Live Gaming Zenith Revealed, #9 Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-ingenious-best-buy-strategy-for-a-free-macbook-air-m3-your-ultimate-guide-to-claiming-this-hidden-gem-without-fuss/"><u>Mastering the Ingenious Best Buy Strategy for a Free MacBook Air M3 - Your Ultimate Guide to Claiming This Hidden Gem Without Fuss!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-blank-gpu-missing-2020/"><u>Screen Blank: GPU Missing [2020]</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/techniques-to-troubleshoot-silent-obs-sessions-for-2024/"><u>Techniques to Troubleshoot Silent OBS Sessions for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-school-tech-upgrade-with-free-apple-cash-get-150-off-on-macs-and-ipads-zdnet/"><u>Transform Your School Tech Upgrade with Free Apple Cash! Get $150 Off on Macs and iPads | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-choosing-the-best-magsafe-wallets-of-2024-in-depth-analysis-and-ratings-gizmodo/"><u>Ultimate Guide to Choosing the Best MagSafe Wallets of 2024 - In-Depth Analysis and Ratings | Gizmodo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncover-10-popular-complimentary-platforms-that-compete-with-netflix/"><u>Uncover 10 Popular, Complimentary Platforms That Compete With Netflix</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/thing-highlighted-online-dialogue/"><u>Unearthing Highlighted Online Dialogue</u></a></li>
 </ul></div>
 

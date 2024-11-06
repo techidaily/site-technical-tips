@@ -1,7 +1,7 @@
 ---
 title: Easy Instructions for Running Command Line Tools Directly From File Explorer
-date: 2024-10-25T22:15:45.671Z
-updated: 2024-10-30T17:07:29.618Z
+date: 2024-11-01T16:37:18.640Z
+updated: 2024-11-05T19:39:06.775Z
 categories:
   - BestProducts
 description: This Article Describes Easy Instructions for Running Command Line Tools Directly From File Explorer
@@ -30,10 +30,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  If you're having issues[making HD video calls with Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) , there are a number of other factors that go into troubleshooting the reason.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 1: Reset Your Password
@@ -44,6 +44,13 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 2: Check to See if It's Skype's Problem
 
  See if others are having troubles with Skype, too. There isn't much you can do to fix it if it's not your problem to fix. Sometimes things go wrong on Skype's end and the only thing you can do is wait it out.
@@ -52,16 +59,16 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
 ![Skype Status Normal Service](https://www.lifewire.com/thmb/gelce_nk6NZFVOXIBopwnyukvrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-status-normal-service-002401f4bdd54451a46e388b733ee6d5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Something else you can do to troubleshoot the problem is to check[Skype's status on Down Detector](https://downdetector.com/status/skype/) to see if other users are reporting that it's down or having some other connection problem.
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 3: Check Your Network Connection
 
@@ -106,25 +113,11 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 2. Find and open**Skype** and then**Permissions** .
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 5: Check Skype's Video Settings and Permissions
 
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
 
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Skype for Computers
 
@@ -147,16 +140,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 6: Make a Test Call in Skype
@@ -186,10 +173,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 9: Verify the Microphone Works
@@ -197,6 +184,13 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
 
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 10: Check the System Sound
 
@@ -237,16 +231,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fb-live-tv-broadcast-4-innovative-methods/"><u>[Updated] In 2024, FB Live TV Broadcast 4 Innovative Methods</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-android-mdm-strategies-enhancing-device-control-using-advanced-tools/"><u>Effective Android MDM Strategies: Enhancing Device Control Using Advanced Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-deep-discount-on-apple-watch-series-9-lingers-beyond-amazon-prime-day-gadgetguru-reveals-deal-details/"><u>Exclusive: Deep Discount on Apple Watch Series 9 Lingers Beyond Amazon Prime Day | GadgetGuru Reveals Deal Details</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://solve-news.techidaily.com/meet-marco-brogiato-renowned-editing-expert-with-movavis-team/"><u>Meet Marco Brogiato, Renowned Editing Expert with Movavi's Team</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/real-time-monitoring-technologies-such-as-digital-image-correlation-or-laser-scanning-provide-immediate-feedback-on-distortion-during-the-welding-process/"><u>Real-Time Monitoring Technologies, Such as Digital Image Correlation or Laser Scanning, Provide Immediate Feedback on Distortion During the Welding Process.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-technical-difficulties-during-helldivers-2-playthroughs-on-pc/"><u>Resolving Technical Difficulties During Helldivers 2 Playthroughs on PC</u></a></li>
-<li><a href="https://driver-download.techidaily.com/simplified-update-process-total-drivers-pack-for-lenovo-x230-compatibility/"><u>Simplified Update Process: Total Drivers Pack for Lenovo X230 Compatibility</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stay-in-touch-on-the-go-using-your-apple-watch-for-quick-chats-with-friends-and-family/"><u>Stay In Touch on the Go: Using Your Apple Watch for Quick Chats with Friends and Family</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-ultimate-iphone-guide-to-breathtaking-shadow-images-for-2024/"><u>The Ultimate iPhone Guide to Breathtaking Shadow Images for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-success-on-bumble-overcoming-the-challenge-of-no-matches/"><u>Unlocking Success on Bumble: Overcoming the Challenge of No Matches</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-leveraging-zooms-full-spectrum-of-live-video-capabilities-for-2024/"><u>[New] Leveraging Zoom's Full Spectrum of Live Video Capabilities for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reveling-in-the-highs-of-nature-with-garmins-ultra-30/"><u>[Updated] Reveling in the Highs of Nature with Garmin's Ultra 30</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-6-easy-free-youtube-closers-for-your-videos-top-picks/"><u>2024 Approved 6 Easy, Free YouTube Closers for Your Videos (Top Picks)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-tales-of-trial-by-fire-vs-innovative-challenges/"><u>2024 Approved Tales of Trial by Fire Vs. Innovative Challenges</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-ai-enhancement-across-apple-mac-lines-using-upcoming-m4-chips-anticipated-launch-timeline/"><u>Comprehensive AI Enhancement Across Apple Mac Lines Using Upcoming M4 Chips - Anticipated Launch Timeline</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortlessly-access-all-videos-on-apple-tv-with-vlc-player-how-to/"><u>Effortlessly Access All Videos on Apple TV with VLC Player - How To</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-festive-spirit-with-a-bargain-exclusive-offer-apple-airpods-at-40-off-unveiled-by-zdnet-ahead-of-july-fourth-celebrations/"><u>Elevate Your Festive Spirit with a Bargain! Exclusive Offer: Apple AirPods at 40% Off - Unveiled by ZDNet Ahead of July Fourth Celebrations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722864052786-essential-tips-for-addressing-gmail-sync-failures-effectively/"><u>Essential Tips for Addressing Gmail Sync Failures Effectively</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-locate-or-share-your-position-with-mac-users-essential-steps-and-benefits-cnet/"><u>How to Locate or Share Your Position with Mac Users – Essential Steps and Benefits | CNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-write-persuasive-proposals-with-chatgpt/"><u>How to Write Persuasive Proposals With ChatGPT</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-closing-chapter-on-instagram-how-to-discard-account-permanently/"><u>In 2024, Closing Chapter on Instagram How to Discard Account Permanently</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-gameplay-fluidity-2024-expert-fixes-for-frequent-fps-drops-in-valorant/"><u>Maximize Gameplay Fluidity: 2024 Expert Fixes for Frequent FPS Drops in Valorant</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-how-to-successfully-duplicating-your-bootable-sd-card-in-windows-using-5-simple-steps/"><u>Quick How-To: Successfully Duplicating Your Bootable SD Card in WINDOWS (Using 5 Simple Steps)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-mp3-players-to-buy-features-and-prices-pcmag/"><u>Top 10 MP3 Players to Buy : Features & Prices | PCMag</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-iphone-and-apple-watch-screen-guards-2023s-ultimate-pick/"><u>Top-Rated iPhone & Apple Watch Screen Guards - 2023'S Ultimate Pick!</u></a></li>
 </ul></div>
 

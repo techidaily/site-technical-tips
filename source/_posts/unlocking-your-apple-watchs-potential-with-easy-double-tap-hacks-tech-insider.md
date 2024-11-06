@@ -1,7 +1,7 @@
 ---
 title: Unlocking Your Apple Watch's Potential with Easy Double-Tap Hacks | Tech Insider
-date: 2024-10-29T19:32:34.106Z
-updated: 2024-10-30T19:25:10.663Z
+date: 2024-10-30T18:41:44.218Z
+updated: 2024-11-05T17:05:44.012Z
 tags:
   - apple
 categories:
@@ -41,10 +41,10 @@ Tap on the Wallet app to open it.
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
@@ -70,10 +70,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. During check-out, double-click the right-side button of your iPhone
@@ -83,6 +83,13 @@ Double-clicking, or, rather, double-pressing, the button on the right side of yo
 Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
@@ -108,6 +115,13 @@ That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.)
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I set up Apple Pay from my iPhone Settings?
 
 To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
@@ -116,13 +130,6 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 2. Tap on Add Card and follow the prompts to add your new card.
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Where can I use Apple Pay to pay in stores and online?
 
@@ -143,10 +150,10 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Apple Cash?
@@ -156,13 +163,6 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -212,18 +212,24 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-iron-out-glitches-restore-missing-facebook-watch-icons/"><u>[Updated] 2024 Approved Iron Out Glitches - Restore Missing Facebook Watch Icons</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-boosting-or-slowing-down-the-netflix-playback-rate-guide/"><u>[Updated] Boosting or Slowing Down The Netflix Playback Rate Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cant-open-mov-files-on-xiaomi-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Xiaomi</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/garantisci-il-riparo-dei-tuoi-dvd-con-questi-4-fini-facili-da-seguire-in-windows-11-and-7-grazie-a-winxdvd/"><u>Garantisci Il Riparo Dei Tuoi DVD Con Questi 4 Fini Facili Da Seguire in Windows 11 & 7 Grazie a WinXDVD!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/google-pixel-tablet-preview-official-launch-detailed-specifications-and-whats-new-for-tech-enthusiasts/"><u>Google Pixel Tablet Preview: Official Launch, Detailed Specifications, and What's New for Tech Enthusiasts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-issues-with-microsoft-word-file-openness/"><u>How To Fix Issues With Microsoft Word File Openness</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-tecno-pop-8-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Tecno Pop 8 to Another | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/oppo-find-x7-ultra-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X7 Ultra Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/preservation-of-ai-assisted-communication-histories/"><u>Preservation of AI-Assisted Communication Histories</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reviving-disappeared-correspondences-in-googles-mail-service/"><u>Reviving Disappeared Correspondences in Google's Mail Service</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/seamless-integration-of-real-time-video-on-websites/"><u>Seamless Integration of Real-Time Video on Websites</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-lgbtqplus-series-streaming-on-netflix-in-july-2024-our-picks/"><u>Top LGBTQ+ Series Streaming on Netflix in July 2024: Our Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-fresh-talent-in-code-creation-top-free-windows-html-coding-applications/"><u>Unlocking Fresh Talent in Code Creation: Top Free Windows HTML Coding Applications</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-innovative-youtube-thumbnail-designers-for-aspiring-filmmakers-for-2024/"><u>[New] 5 Innovative YouTube Thumbnail Designers for Aspiring Filmmakers for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-enhance-video-to-fit-instagrams-visual-taste/"><u>2024 Approved Enhance Video to Fit Instagram's Visual Taste</u></a></li>
+<li><a href="https://facebook.techidaily.com/achieving-an-unplugged-lifestyle-reducing-the-time-spent-on-social-networks/"><u>Achieving an Unplugged Lifestyle: Reducing the Time Spent on Social Networks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/benchmark-test-results-the-fastest-and-most-secure-wi-fi-router-asus-rt-ac68u/"><u>Benchmark Test Results: The Fastest and Most Secure Wi-Fi Router - Asus RT-AC68U</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-no-cost-substitutes-for-netflix-you-shouldnt-miss/"><u>Best No-Cost Substitutes for Netflix You Shouldn't Miss</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bluetooth-boost-how-to-effortlessly-hook-up-various-speakers-to-one-device/"><u>Bluetooth Boost: How To Effortlessly Hook Up Various Speakers To One Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722955805763-get-your-compatible-bluetooth-driver-for-windows-1078-here/"><u>Get Your Compatible Bluetooth Driver for Windows 10/7/8 Here</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-xiaomi-mix-fold-3-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Xiaomi Mix Fold 3?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-12r-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change OnePlus 12R Lock Screen Password?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-13-pro-max-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 13 Pro Max You Should Try Out</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-copilot-integration-with-microsoft-teams-a-step-by-step-guide/"><u>Mastering Copilot Integration with Microsoft Teams: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-vn-video-editor-for-computer-a-concise-review-and-guide/"><u>New In 2024, VN Video Editor for Computer A Concise Review and Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streaming-and-surfing-from-the-comfort-of-your-couch-how-to-get-your-home-theater-online/"><u>Streaming and Surfing From the Comfort of Your Couch: How to Get Your Home Theater Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/summer-essentials-the-ultimate-list-of-7-accessories-for-your-daily-gobag/"><u>Summer Essentials: The Ultimate List of 7 Accessories for Your Daily GoBag</u></a></li>
+<li><a href="https://fox-making.techidaily.com/transferring-sms-how-to-shift-texts-from-samsung-phone-to-laptop-at-no-cost/"><u>Transferring SMS: How to Shift Texts From Samsung Phone to Laptop at No Cost</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-elusive-stop-0x000abcd-error-solutions-and-prevention-tips/"><u>Troubleshooting the Elusive STOP 0X000abcd Error: Solutions and Prevention Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-dll-cannot-be-found-mistakes/"><u>Ultimate Guide: Resolving 'DLL Cannot Be Found' Mistakes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-world-of-cloud-play-your-essential-xbox-game-pass-ultimate-handbook/"><u>Unlock the World of Cloud Play: Your Essential Xbox Game Pass Ultimate Handbook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/water-resistance-does-iphone-15-pro-max-hold-up-underwater/"><u>Water Resistance: Does iPhone 15 Pro Max Hold Up Underwater?</u></a></li>
 </ul></div>
 

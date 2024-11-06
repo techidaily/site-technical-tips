@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Managing & Canceling Your iPhone's App Store Subscriptions with iOS 15 - Tips"
-date: 2024-10-27T05:25:03.760Z
-updated: 2024-10-30T18:16:02.462Z
+date: 2024-10-29T22:10:02.840Z
+updated: 2024-11-05T21:28:10.931Z
 tags:
   - apple
 categories:
@@ -123,13 +123,6 @@ That means when you move your Mac's pointer beyond the edge of your screen, it w
 
 There are a couple of things you'll need to do before you can use Universal Control. I'll walk you through the initial setup, and then how to use it. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Update your Mac and iPad
 
 Before you'll have the option to turn on Universal Control, you need to update the software on your Mac and your iPad. The current versions are MacOS 12.3 and iPadOS 15.4\. 
@@ -139,10 +132,10 @@ On a Mac, open **System Preferences**, then select **Software Update**.
 On your iPad, open the **Settings app** then go to **General** \> **Software Update** and follow the prompts. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your iPad
@@ -153,6 +146,19 @@ There isn't a dedicated Universal Control setting or section in iPadOS. In fact,
 
 In order to make sure your iPad is setup, open the **Settings app** then select **General** \> **AirPlay & Handoff**. Next, make sure the switch next to **Cursor and Keyboard** is turned _On_. 
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to set up Universal Control on your Mac
 
 Screenshot by Jason Cipriani/ZDNet
@@ -162,10 +168,10 @@ The Mac does have a dedicated Universal Control section where you can turn the f
 Check the box next to **Allow your cursor and keyboard to move between any nearby Mac or iPad,** then click **Done**. Leave the other two boxes checked. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to use Universal Control between your Mac and iPad
@@ -182,18 +188,24 @@ Want to go back to your Mac? Drag the mouse pointer off the iPad's screen in the
 
 You can even drag and drop documents between your Mac or iPad, instead of waiting for iCloud Drive to sync or if, for example, you were drawing out an idea in the Notes app with the Apple Pencil on your iPad -- you can easily move that to your Mac once you're finished. 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Arrange your displays, adjust settings
 
 Screenshot by Jason Cipriani/ZDNet
 
 Your Mac will try its best to locate your iPad's location in relation to your main display, but it's not perfect. If you go back into System Preferences on your Mac, you can click-and-drag to rearrange the displays, putting your iPad's screen in the right spot, allowing you to seamlessly move your mouse between the two devices. 
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Troubleshooting Universal Control
 
@@ -247,24 +259,17 @@ Finally, if you're still not having any luck, it could be that your device isn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-step-by-step-selection-of-top-10-no-cost-conference-software/"><u>[New] In 2024, Step-By-Step Selection of Top 10 No-Cost Conference Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-the-best-sky-hd-photography-websites/"><u>[Updated] Explore the Best Sky HD Photography Websites</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-step-by-step-guide-to-youtube-to-igtv-conversion/"><u>[Updated] In 2024, A Step-by-Step Guide to YouTube to IGTV Conversion</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diagnosing-and-repairing-code-39-malfunctions-on-windows/"><u>Diagnosing and Repairing Code 39 Malfunctions on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/economical-essential-components-for-newbie-cinemaphiles/"><u>Economical Essential Components for Newbie Cinemaphiles</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-new-google-nest-hub-gen-2-why-we-need-a-camera-for-enhanced-functionality/"><u>Exploring the New Google Nest Hub (Gen 2): Why We Need a Camera for Enhanced Functionality?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/keep-your-macbook-awake-tips-to-stop-it-from-going-into-sleep-mode-with-closed-lid/"><u>Keep Your MacBook Awake: Tips to Stop It From Going Into Sleep Mode with Closed Lid</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-challenges-a-users-guide-to-fixing-malfunctioning-samsung-tv-apps/"><u>Overcoming Challenges: A User's Guide to Fixing Malfunctioning Samsung TV Apps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/precision-displays-the-finest-screen-options-for-editors-2024/"><u>Precision Displays - The Finest Screen Options For Editors, 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/seamless-live-broadcasting-on-facebook-a-simple-guide/"><u>Seamless Live Broadcasting on Facebook A Simple Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-tips-for-successfully-restoring-a-missing-key-onto-your-laptops-keyboard/"><u>Simple Tips For Successfully Restoring A Missing Key Onto Your Laptop's Keyboard</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stop-unwanted-safety-alerts-on-ios-instructions-for-iphones/"><u>Stop Unwanted Safety Alerts on iOS: Instructions for iPhones</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-blueprint-for-youtube-profitability-via-cpm-strategy/"><u>The Blueprint for YouTube Profitability via CPM Strategy</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-quintessential-guide-to-choosing-your-perfect-free-offline-car-racing-game-2024-edition/"><u>The Quintessential Guide to Choosing Your Perfect Free Offline Car Racing Game - 2024 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-computer-hardware-analysis-t172386287988117/"><u>Tom's Tech Reviews: In-Depth Computer Hardware Analysis</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-realme-c67-4g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Realme C67 4G</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-in-portability-meet-sx740-hs-camera/"><u>Ultimate in Portability? Meet SX740 HS Camera</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upcoming-meta-quest-model-unveiled-insights-on-costs-and-features/"><u>Upcoming Meta Quest Model Unveiled - Insights on Costs & Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/whats-the-best-strategy-for-operating-multiple-channels-on-youtube/"><u>What's the Best Strategy for Operating Multiple Channels on YouTube?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-drafting-dynamic-denouements/"><u>[New] 2024 Approved Drafting Dynamic Denouements</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-future-of-game-logging-exciting-alternatives-to-fbx-centric-apps-for-2024/"><u>[New] The Future of Game Logging Exciting Alternatives to FBX-Centric Apps for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instaloops-unleashed-the-ultimate-guide-to-engagement/"><u>[Updated] In 2024, InstaLoops Unleashed The Ultimate Guide to Engagement</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conquering-language-assessments-key-certifications-unveiled/"><u>Conquering Language Assessments: Key Certifications Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-advanced-airpods-pro-4-by-apple-now-equipped-with-locate-my-earbuds-function-and-modernized-usb-c-power-connection-insights-revealed-on-zdnet.m158/"><u>Discover the Advanced AirPods Pro 4 by Apple, Now Equipped with 'Locate My Earbuds' Function and Modernized USB-C Power Connection – Insights Revealed on ZDNET</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-xr-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone XR to PC | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nubia-red-magic-8s-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nubia Red Magic 8S Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-group-conference-calls-software/"><u>Leading Group Conference Calls Software</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/missing-pages-error-code-404-help-us-find-it/"><u>Missing Pages Error Code 404 – Help Us Find It!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-poco-x6-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolve-no-sound-issue-on-iphone-with-these-simple-tips/"><u>Resolve No Sound Issue on iPhone with These Simple Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-full-potential-of-your-iphone-customizing-control-center-on-ios-nios-18-techexplorer/"><u>Unlocking the Full Potential of Your iPhone: Customizing Control Center on iOS N_iOS 18 | TechExplorer</u></a></li>
 </ul></div>
 

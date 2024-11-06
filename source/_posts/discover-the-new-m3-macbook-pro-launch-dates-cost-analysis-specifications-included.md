@@ -1,7 +1,7 @@
 ---
 title: Discover the New M3 MacBook Pro - Launch Dates, Cost Analysis, Specifications Included
-date: 2024-09-09T21:02:04.517Z
-updated: 2024-09-15T22:07:13.037Z
+date: 2024-10-31T22:12:42.254Z
+updated: 2024-11-05T20:58:37.828Z
 categories:
   - BestProducts
 description: This Article Describes Discover the New M3 MacBook Pro - Launch Dates, Cost Analysis, Specifications Included
@@ -25,25 +25,33 @@ thumbnail: https://www.lifewire.com/thmb/qeSPE_HA-UaX8Qu6fQ76kN92jeE=/400x300/fi
 
  The MacBook Pro with M3, M3 Pro, and M3 Max were announced on October 30, 2023\. The M3 and M3 Pro models were made available to order on October 30, 2023 with a release date of November 7, while the M3 Max was scheduled to be available in November 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## M3 MacBook Pro Prices
 
  The 14" M3 MacBook Pro starts at $1599 (a $400 price cut), and the 16" MacBook Pro starts at $2499\. The price goes up depending on which version of M3 you use, along with storage and RAM options, each of which will add at least $200 to the price.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Order Information
 
  Only 2 of the 3 models were made available to order on October 30\. The M3 Max shipped in late November. You can[order directly from Apple](https://www.apple.com/shop/buy-mac/macbook-pro) .
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## M3 MacBook Pro Features and Specs
@@ -67,16 +75,10 @@ thumbnail: https://www.lifewire.com/thmb/qeSPE_HA-UaX8Qu6fQ76kN92jeE=/400x300/fi
 Apple Inc
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Latest News About the M3 MacBook Pro
@@ -102,5 +104,20 @@ Apple Inc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-essential-filmmakers-toolkit-a-guide-to-audio-recording-for-2024/"><u>[New] The Essential Filmmaker's Toolkit A Guide to Audio Recording for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44cm44oh44o844or57wm55sx44gn6zplusz5qw944ov44kh44kk44or44ks6lui6ycb44gz44kl44gf44kb44gu5asn5a656yep44kz44ou44o85oml6acg44cn/"><u>「メール経由で音楽ファイルを転送するための大容量コピー手順」</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-best-smile-generator-for-memes/"><u>2024 Approved Best Smile Generator for Memes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-uncover-the-best-free-ultimate-3d-videos-playing-solutions/"><u>2024 Approved Uncover the Best Free, Ultimate 3D Videos Playing Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/1719354508470-fix-compatibility-nightmares-in-windows-without-troubleshooting-tools/"><u>Fix Compatibility Nightmares in Windows without Troubleshooting Tools.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-itel-a70-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Itel A70 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/identifying-the-creator-of-chatgpt-whos-behind-it/"><u>Identifying the Creator of ChatGPT: Who's Behind It?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamlessly-secure-your-iphone-with-the-most-innovative-smart-lock-solutions-discover-why-theyre-unmatched-zdnet/"><u>Seamlessly Secure Your iPhone with the Most Innovative Smart Lock Solutions – Discover Why They're Unmatched! | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/set-up-a-virtual-private-network-on-your-apple-vision-pro-device-step-by-step-guide-and-benefits-techadvisor/"><u>Set Up a Virtual Private Network on Your Apple Vision Pro Device: Step-by-Step Guide & Benefits | TechAdvisor</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fix-for-the-infamous-crossbow-glitch-in-minecraft/"><u>Step-by-Step Fix for the Infamous Crossbow Glitch in Minecraft</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-the-best-tablets-of-2-tech-trends-detailed-analysis-and-ratings-zdnet/"><u>The Ultimate Guide to the Best Tablets of 2# Tech Trends - Detailed Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleash-the-potential-elevating-your-tiktok-unboxing-contents-like-count/"><u>Unleash the Potential Elevating Your TikTok Unboxing Content's Like Count</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-ios-181-beta-version-discover-enhanced-apple-intelligence-and-join-the-testers-insights/"><u>Unlocking iOS 18.1 Beta Version - Discover Enhanced Apple Intelligence & Join The Testers | Insights</u></a></li>
+</ul></div>
 

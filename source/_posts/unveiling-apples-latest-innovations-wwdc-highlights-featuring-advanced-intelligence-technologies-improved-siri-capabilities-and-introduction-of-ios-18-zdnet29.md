@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Apple's Latest Innovations: WWDC Highlights Featuring Advanced Intelligence Technologies, Improved Siri Capabilities and Introduction of iOS 18 | ZDNet"
-date: 2024-10-30T03:23:38.075Z
-updated: 2024-10-30T22:38:24.144Z
+date: 2024-11-01T16:55:56.754Z
+updated: 2024-11-05T16:02:12.402Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +89,16 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,19 +139,24 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/elevate-your-game-with-the-all-new-maingear-north-desktops-and-spacious-xl-chassis/"><u>Elevate Your Game with the All-New Maingear North Desktops and Spacious XL Chassis</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-infinix-note-30-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Infinix Note 30 using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-anon-fb-live-watchers-group/"><u>In 2024, Anon FB Live Watchers Group</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-breakthrough-techniques-in-youtube-content-creation/"><u>In 2024, Breakthrough Techniques in YouTube Content Creation</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-xiaomi-redmi-note-13-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Xiaomi Redmi Note 13 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-vivo-s18-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo S18 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-chatgpt-secure-or-does-it-face-cybersecurity-challenges/"><u>Is ChatGPT Secure, or Does It Face Cybersecurity Challenges?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-macos-efficiency-a-step-by-step-tutorial-on-setting-up-and-leveraging-hot-corners-zdnet/"><u>Mastering macOS Efficiency: A Step-by-Step Tutorial on Setting Up and Leveraging Hot Corners | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-ranked-security-camera-deal-arlo-pro-amoan-for-your-peace-of-mind-sale-price-only-180-zdnet/"><u>Top-Ranked Security Camera Deal: Arlo Pro Amoan for Your Peace of Mind - Sale Price Only $180 | ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-electric-scooters-expert-picks-and-reviews-zdnet/"><u>Top-Rated Electric Scooters : Expert Picks & Reviews - ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-comparison-of-2024s-leading-video-doorbells-features-prices-and-reviews-cnet/"><u>Ultimate Comparison of 2024'S Leading Video Doorbells - Features, Prices, and Reviews | CNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-most-efficient-compact-solar-charger-models-cnet/"><u>Ultimate Guide to the Most Efficient Compact Solar Charger Models | CNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-throwing-an-unforgettable-labor-day-bash-expert-tips-from-zdnet/"><u>Ultimate Guide to Throwing an Unforgettable Labor Day Bash - Expert Tips From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unanticipated-delight-in-depth-analysis-of-the-ring-spotlight-cam-pro-featured-in-zdnets-tech-reviews/"><u>Unanticipated Delight: In-Depth Analysis of the Ring Spotlight Cam Pro Featured in ZDNET's Tech Reviews</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-untangling-veiled-feedback-mechanisms-in-video-sites/"><u>[New] Untangling Veiled Feedback Mechanisms in Video Sites</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essential-guide-to-creating-beautifully-stretched-time-videos-online/"><u>2024 Approved The Essential Guide to Creating Beautifully Stretched Time Videos Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722020651144-discover-top-6-engaging-games-featuring-chatgpt-try-them-now/"><u>Discover Top 6 Engaging Games Featuring ChatGPT - Try Them Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-the-most-anticipated-new-features-of-ios-18-at-apples-wwdc-202n-ai-leads-the-charge/"><u>Discovering the Most Anticipated New Features of iOS 18 at Apple's WWDC 202N - AI Leads the Charge!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-guide-to-installing-asus-z370-e-motherboard-drivers-online/"><u>Hassle-Free Guide to Installing ASUS Z370-E Motherboard Drivers Online</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-f34-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy F34 5G Fingerprint Lock</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-building-audience-organically-tactics-that-deliver-views/"><u>In 2024, Building Audience Organically Tactics That Deliver Views</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-a-digital-to-analog-converter-dac-essential-for-high-quality-sound/"><u>Is a Digital-to-Analog Converter (DAC) Essential for High-Quality Sound?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revive-your-airpods-9-proven-strategies-for-charging-issues/"><u>Revive Your AirPods: 9 Proven Strategies for Charging Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/staying-loyal-to-apple-watch-series-n7-the-definitive-guide-against-switching-to-series-10-exclusive-at-zdnet/"><u>Staying Loyal to Apple Watch Series N°7: The Definitive Guide Against Switching to Series 10 | Exclusive at ZDNET</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-silent-pcs-in-fallout-4-a-step-by-step-guide/"><u>Troubleshooting Silent PCs in Fallout 4: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-selection-of-airtag-peripherals-professional-evaluations-and-ratings/"><u>Ultimate Selection of AirTag Peripherals : Professional Evaluations and Ratings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-ussd-a-comprehensive-guide-to-unstructured-supplementary-service-data/"><u>Understanding USSD: A Comprehensive Guide to Unstructured Supplementary Service Data</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-latest-in-smartphone-tech-how-the-new-camera-button-on-iphone-16-models-enhances-your-photography-experience/"><u>Unveiling the Latest in Smartphone Tech: How the New Camera Button on iPhone 16 Models Enhances Your Photography Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-top-attractions-of-the-iphone-case-with-a-physical-keyboard-beyond-just-typing/"><u>Unveiling the Top Attractions of the iPhone Case with a Physical Keyboard: Beyond Just Typing!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrading-ios-18-how-adding-these-four-ai-functions-can-make-the-iphone-compete-on-par-with-android-devices-zdnet-insights/"><u>Upgrading iOS 18: How Adding These Four AI Functions Can Make the iPhone Compete on Par with Android Devices | ZDNet Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-streaming-made-easy-connect-your-pc-screen-to-any-tv-using-chromecast/"><u>Wireless Streaming Made Easy: Connect Your PC Screen to Any TV Using Chromecast</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-playlists-reconfigured-step-by-step-instructions-for-2024/"><u>YouTube Playlists Reconfigured Step-by-Step Instructions for 2024</u></a></li>
 </ul></div>
 

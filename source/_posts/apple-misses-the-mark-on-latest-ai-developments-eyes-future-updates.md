@@ -1,7 +1,7 @@
 ---
 title: Apple Misses the Mark on Latest AI Developments, Eyes Future Updates
-date: 2024-10-24T05:00:31.886Z
-updated: 2024-10-31T07:04:50.816Z
+date: 2024-11-04T21:10:14.358Z
+updated: 2024-11-05T20:56:36.914Z
 tags:
   - apple
 categories:
@@ -81,10 +81,10 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,20 +121,19 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-history-enthusiasts-guide-to-inspiring-youtube-channels/"><u>[Updated] History Enthusiasts' Guide to Inspiring YouTube Channels</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-preferred-options-superior-mac-video-capture-apps-for-2024/"><u>[Updated] Preferred Options Superior Mac Video Capture Apps for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/airpods-vs-vr-headsets-the-unexpected-black-friday-winner/"><u>AirPods Vs. VR Headsets: The Unexpected Black Friday Winner</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/basic-guide-to-modify-clown-voiceprint-in-windoze-pc-for-2024/"><u>Basic Guide to Modify Clown Voiceprint in Windoze PC for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/breakdown-of-features-in-the-latest-microsoft-surface-laptop-setting-new-standards/"><u>Breakdown of Features in the Latest Microsoft Surface Laptop - Setting New Standards</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-leading-augmented-reality-eyewear-a-2eught-list-tech-insights-by-zdnet/"><u>Exploring the Leading Augmented Reality Eyewear - A 2Eught List | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-apple-is-elevating-vision-the-surprising-appeal-of-wearables-uncovered-on-zdnet/"><u>How Apple Is Elevating Vision: The Surprising Appeal of Wearables Uncovered on ZDNet</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-honor-play-8t-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-engaging-stop-motion-content-for-instagram-a-step-by-step-guide/"><u>In 2024, Create Engaging Stop Motion Content for Instagram A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/introducing-metas-quest-os-for-third-party-headsets-now-compatible-with-asus-and-lenovo-devices/"><u>Introducing Meta's Quest OS for Third-Party Headsets, Now Compatible with Asus & Lenovo Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/meta-quest-to-ultra-hd-visual-extravaganza-seamlessly-connect-and-display-across-all-hdmi-devices-the-experts-walkthrough/"><u>Meta Quest to Ultra HD Visual Extravaganza: Seamlessly Connect and Display Across All HDMI Devices - The Expert's Walkthrough</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/setting-up-an-apple-vision-pro-vpn-step-by-step-guide-and-key-reasons-insights-from-zdnet/"><u>Setting Up an Apple Vision Pro VPN: Step-by-Step Guide & Key Reasons - Insights From ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-a-non-functional-mouse-on-your-computer-screen/"><u>Step-by-Step Guide: Resolving a Non-Functional Mouse on Your Computer Screen</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-nokia-g310-by-drfone-android/"><u>Three Ways to Sim Unlock Nokia G310</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-multidimensional-views-with-iphone-15-pros-advanced-spatial-video-capture-for-enhanced-ar-experiences/"><u>Unlocking Multidimensional Views with iPhone 15 Pro's Advanced Spatial Video Capture for Enhanced AR Experiences</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-use-the-instagram-question-sticker/"><u>[New] 2024 Approved How to Use the Instagram Question Sticker?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/3-easy-steps-for-masterful-image-grading/"><u>3 Easy Steps for Masterful Image Grading</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/access-the-latest-macos-15-sequoia-beta-version-immediately-complete-guide-for-mac-users/"><u>Access the Latest MacOS 15 Sequoia Beta Version Immediately: Complete Guide for Mac Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capacity-limit-how-many-vids-in-128gb/"><u>Capacity Limit How Many Vids in 128GB?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/cold-climate-conquests-unveiling-beijings-olympic-flair-for-2024/"><u>Cold Climate Conquests Unveiling Beijing's Olympic Flair for 2024</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/cookiebot-unleashing-advanced-tracking-solutions-for-your-websites-success/"><u>Cookiebot: Unleashing Advanced Tracking Solutions for Your Website's Success</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-seamlessly-and-swiftly-relocate-your-macbook-information-with-these-simple-steps/"><u>Expert Tips: Seamlessly & Swiftly Relocate Your MacBook Information With These Simple Steps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/fb-video-grabber-hq-download-guide-for-2024/"><u>FB Video Grabber HQ Download Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-smartphone-entertainment-at-no-cost-our-top-picks-of-live-streamers/"><u>In 2024, Smartphone Entertainment at No Cost Our Top Picks of Live Streamers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-on-the-go-charge-with-the-affordable-20-anker-battery-a-game-changer-discussed-on-zdnet/"><u>Revolutionize Your On-the-Go Charge with the Affordable $20 Anker Battery - A Game Changer Discussed on ZDNet!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streaming-vs-cable-tv-unraveling-the-main-contrasts-for-viewers/"><u>Streaming Vs. Cable TV: Unraveling the Main Contrasts for Viewers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-essence-of-portuguese-keyboard-shortcuts-across-continents/"><u>The Essence of Portuguese Keyboard Shortcuts Across Continents</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-list-of-top-ranking-free-media-players-for-your-android-smartphone/"><u>The Ultimate List of Top-Ranking Free Media Players for Your Android Smartphone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-home-office-with-ipad-pro-a-complete-guide-for-productivity-enthusiasts-ciotrends/"><u>Transform Your Home Office with iPad Pro: A Complete Guide for Productivity Enthusiasts | CIOTrends</u></a></li>
 </ul></div>
 

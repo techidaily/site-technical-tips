@@ -1,7 +1,7 @@
 ---
 title: "Ahead of the Curve: Meta Quest 3 Launches Pre-Vision Pro AI Capabilities - How to Activate Them | ZDNET"
-date: 2024-10-25T23:04:31.534Z
-updated: 2024-10-31T06:47:38.204Z
+date: 2024-11-04T21:40:36.335Z
+updated: 2024-11-05T22:12:26.177Z
 tags:
   - apple
 categories:
@@ -63,10 +63,10 @@ Once the app is installed, navigate to the TestFlight icon on your Home screen. 
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Running TestFlight for the first time
@@ -90,10 +90,10 @@ Screenshot by David Gewirtz/ZDNET
 Next, let's look at running an app. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Running a beta release app using TestFlight
@@ -181,19 +181,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-understanding-virtual-reality-vernacular/"><u>[Updated] Understanding Virtual Reality Vernacular</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-revamped-podcast-chats-attracting-true-fans/"><u>2024 Approved Revamped Podcast Chats Attracting True Fans</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-revenue-realization-strategies-for-successful-monetization-on-youtube-mobile/"><u>2024 Approved Revenue Realization Strategies for Successful Monetization on YouTube Mobile</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/choosing-your-perfect-mobile-companion-iphone-or-android/"><u>Choosing Your Perfect Mobile Companion: IPhone or Android?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-power-of-ai-unleash-creativity-with-googles-latest-imagen-3-sticker-maker/"><u>Discover the Power of AI: Unleash Creativity with Google's Latest Imagen 3 Sticker Maker!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-motorola-g54-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Motorola G54 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/july-2024s-new-default-login-details-for-linksys-network-devices-revealed/"><u>July 2024'S New Default Login Details for Linksys Network Devices Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/public-profile-checkouts-on-instagram-your-invisible-mode-cheat-sheet/"><u>Public Profile Checkouts on Instagram: Your Invisible Mode Cheat Sheet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-how-to-restore-default-bios-configuration-by-clearing-cmos/"><u>Quick Fixes: How to Restore Default BIOS Configuration by Clearing CMOS</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-6-plus-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6 Plus Data From iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-honor-magic-6-pro-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Honor Magic 6 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-missing-wmvcoredll-error-on-your-computer/"><u>Troubleshooting the Missing Wmvcore.dll Error on Your Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/turn-off-automatic-song-playback-on-apple-music-with-these-steps/"><u>Turn Off Automatic Song Playback on Apple Music with These Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-is-a-408-request-timeout-detailed-explanation-and-troubleshooting-tips/"><u>What Is a 408 Request Timeout? Detailed Explanation and Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-fabricate-funnier-photos-for-2024/"><u>[New] Fabricate Funnier Photos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-efficient-facebook-video-upload-on-computer-and-mobile-systems/"><u>[Updated] Efficient Facebook Video Upload on Computer & Mobile Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-vibrance-grading-secrets-in-ps/"><u>2024 Approved Unleashing Vibrance Grading Secrets in PS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlocking-organic-growth-your-afb-playbook/"><u>2024 Approved Unlocking Organic Growth Your AFB Playbook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-eyes-innovative-vital-signs-monitoring-respiratory-feature-for-upcoming-vision-pro-insider-update-from-zdnet/"><u>Apple Eyes Innovative 'Vital Signs Monitoring', Respiratory Feature For Upcoming Vision Pro: Insider Update From ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/cing-online-privacy-youtubes-access-controls/"><u>Enhancing Online Privacy YouTube's Access Controls</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/immediate-purchase-options-for-apples-new-releases-post-wwdc-discover-locations-and-preorder-steps-zdnet/"><u>Immediate Purchase Options for Apple's New Releases Post-WWDC - Discover Locations & Preorder Steps | ZDNET</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-starting-and-participating-in-zoom-meetings-from-android-devices/"><u>In 2024, Starting and Participating in Zoom Meetings From Android Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-total-gaze-coverage-camera-analysis/"><u>In 2024, Total Gaze Coverage Camera Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-14-analysis-meeting-user-demands-punctually-reviewed/"><u>IPhone 14 Analysis - Meeting User Demands Punctually Reviewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-seamless-device-integration-controlling-your-ipad-with-a-mac-using-apples-universal-control-unleash-the-magic/"><u>Mastering Seamless Device Integration: Controlling Your iPad with a Mac Using Apple's Universal Control - Unleash the Magic!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/premium-selection-of-fastest-recorders-for-2024/"><u>Premium Selection of Fastest Recorders for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/review-of-the-toughest-iphone-shield-by-apple-unveiling-its-revolutionary-security-aspect-zdnet-insights/"><u>Review of the Toughest iPhone Shield by Apple - Unveiling Its Revolutionary Security Aspect | ZDNET Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-enterprise-productivity-top-5-companies-embrace-apple-vision-pros-game-changing-features-insights-from-zdnet/"><u>Revolutionizing Enterprise Productivity: Top 5 Companies Embrace Apple Vision Pro's Game-Changing Features - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sequential-viewing-a-step-by-step-guide-to-watching-dragon-ball-saga/"><u>Sequential Viewing: A Step-by-Step Guide to Watching Dragon Ball Saga</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-retailers-offering-discounts-on-ipad-pro-ipad-air-and-new-apple-pencil-pro-secure-your-early-bird-preorder-today/"><u>Top Retailers Offering Discounts on iPad Pro, iPad Air & New Apple Pencil Pro: Secure Your Early Bird Preorder Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-your-imessages-were-undelivered-recently-a-breakdown-of-yesterdays-issues-insights/"><u>Why Your iMessages Were Undelivered Recently: A Breakdown of Yesterday's Issues - Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revamping Your iPhone's Quick Access: Tailor Control Center in iOS 18 - Articles by Tech Experts at ZDNet"
-date: 2024-10-27T16:02:28.386Z
-updated: 2024-10-30T16:29:07.271Z
+date: 2024-10-31T21:29:31.253Z
+updated: 2024-11-05T17:28:41.170Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -52,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -65,10 +65,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -86,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -134,22 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-analyzing-the-core-disparities-between-metaverse-and-multiplemetaverse-for-2024/"><u>[New] Analyzing the Core Disparities Between Metaverse and MultipleMetaverse for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-shade-adjustments-simplified-learn-with-these-11-guides-for-2024/"><u>[New] Shade Adjustments Simplified - Learn with These 11 Guides for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-beginners-vectors-guide-types-and-applications-demystified/"><u>[Updated] In 2024, Beginner's Vectors Guide Types & Applications Demystified</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expand-your-productivity-how-to-connect-dual-monitors-to-your-m3-macbook-pro-tips-and-tricks-similar-to-m3-macbook-air/"><u>Expand Your Productivity: How To Connect Dual Monitors to Your M3 MacBook Pro - Tips & Tricks Similar to M3 MacBook Air</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-hot-30iwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix Hot 30iwith/without a PC</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/implement-a-take-back-program-to-encourage-recycling-or-repurposing-of-used-products/"><u>Implement a Take-Back Program to Encourage Recycling or Repurposing of Used Products</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-advanced-iphone-voice-controls-for-enhanced-performance-discover-exclusive-siri-shortcuts-today/"><u>Mastering Advanced iPhone Voice Controls for Enhanced Performance - Discover Exclusive Siri Shortcuts Today!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximize-your-apple-watchs-longevity-top-8-tweaks-for-enhanced-battery-performance/"><u>Maximize Your Apple Watch's Longevity: Top 8 Tweaks for Enhanced Battery Performance</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-use-virtual-green-screen-to-shoot-video/"><u>New 2024 Approved How To Use Virtual Green Screen to Shoot Video</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-era-begins-with-chatgpts-significant-upgrades/"><u>New Era Begins with ChatGPT’s Significant Upgrades</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/spring-launch-predicted-for-newest-ipads-of-2024-according-to-zdnet-insights/"><u>Spring Launch Predicted for Newest iPads of 2024, According to ZDNet Insights</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-most-secure-and-stylish-magsafe-wallets-of-2024-in-depth-analysis-and-ratings/"><u>Ultimate Guide to the Most Secure & Stylish MagSafe Wallets of 2024: In-Depth Analysis and Ratings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-joyful-learning-with-our-selection-of-9-fantastic-free-online-preschool-games/"><u>Unlock Joyful Learning with Our Selection of 9 Fantastic Free Online Preschool Games</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unraveling-the-irritation-a-call-for-apples-solution-on-iphone-quirks-techspot/"><u>Unraveling the Irritation: A Call for Apple's Solution on iPhone Quirks | TechSpot</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-experience-final-cut-pro-for-free-90-day-trial-offer-for-2024/"><u>Updated Experience Final Cut Pro for Free 90-Day Trial Offer for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upgrading-from-iphone-13-pro-to-iphone-15-pro-heres-what-you-need-to-know-zdnet/"><u>Upgrading From iPhone 13 Pro to iPhone 15 Pro? Here's What You Need to Know | ZDNET</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-prime-choice-of-low-cost-hd-action-recorders-for-2024/"><u>[New] Prime Choice of Low-Cost HD Action Recorders for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-provideocapture-pro-10plus-features-and-functionality-overview-for-2024/"><u>[New] ProVideoCapture Pro 10+ Features & Functionality Overview for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-comparing-video-tools-bandicam-and-camtasia-explored/"><u>[Updated] Comparing Video Tools Bandicam & Camtasia Explored</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-cultivating-confidence-for-captivating-your-youtube-audience-for-2024/"><u>[Updated] Cultivating Confidence for Captivating Your YouTube Audience for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-aps-hdr-essentials-for-professionals-and-enthusiasts/"><u>[Updated] In 2024, APS HDR Essentials for Professionals & Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-charting-your-youtube-trajectory-essential-tools-from-social-blade/"><u>[Updated] In 2024, Charting Your YouTube Trajectory Essential Tools From Social Blade</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pixelpioneer-8-version-visual-conjurer/"><u>[Updated] PixelPioneer 8-Version Visual Conjurer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-upgrading-your-apple-studio-display-step-by-step-guide-to-firmware-enhancement-tech-insider/"><u>1. Upgrading Your Apple Studio Display: Step-by-Step Guide to Firmware Enhancement - Tech Insider</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/boost-your-conversions-with-our-cookiebot-technology/"><u>Boost Your Conversions with Our Cookiebot Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-features-is-the-upgrade-worth-it-iphone-15-pro-takes-on-iphone-14-pro-in-latest-review-insights-from-zdnet/"><u>Comparing Features: Is the Upgrade Worth It? IPhone 15 Pro Takes on iPhone 14 Pro in Latest Review | Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-apple-tv-4k-third-gen-model-assessment/"><u>Comprehensive Apple TV 4K Third Gen Model Assessment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-free-templates-greatest-slide-shows-of-the-year/"><u>Essential Free Templates Greatest Slide Shows of the Year</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-apple-podcasts-revolutionizes-listener-experience-with-real-time-closed-captioning/"><u>How Apple Podcasts Revolutionizes Listener Experience with Real-Time Closed Captioning</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/moving-on-from-your-old-iphone-top-recommendations-post-iphone-13-and-15-pro-discontinuation-guides/"><u>Moving On From Your Old iPhone: Top Recommendations Post-iPhone 13 and 15 Pro Discontinuation Guides</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-change-the-impact-of-smart-lens-technology-on-biking-displays-cyclistinnovations/"><u>Navigating Change: The Impact of Smart Lens Technology on Biking Displays | CyclistInnovations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/spyware-detection-and-removal-on-smartphones-expert-tips-for-a-secure-device/"><u>Spyware Detection & Removal on Smartphones: Expert Tips for a Secure Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/travel-game-changer-discover-the-best-3-in-1-magsafe-charger-with-qi-support-as-featured-s-favorites-list/"><u>Travel Game Changer: Discover the Best 3-in-1 MagSafe Charger with Qi Support, as Featured ’S Favorites List</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlock-facebook-ad-success-with-these-3-adapted-writing-techniques-for-2024/"><u>Unlock Facebook Ad Success with These 3 Adapted Writing Techniques for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-apple-musics-student-pricing-a-comprehensive-guide/"><u>Unlocking Apple Music's Student Pricing: A Comprehensive Guide</u></a></li>
 </ul></div>
 

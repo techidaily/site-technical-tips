@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Plans & Promotions in May 2024 - Insider's Guide on ZDNet
-date: 2024-10-30T07:10:45.461Z
-updated: 2024-10-31T07:12:59.849Z
+date: 2024-11-04T16:01:01.508Z
+updated: 2024-11-06T00:25:41.704Z
 tags:
   - apple
 categories:
@@ -97,6 +97,13 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the best Apple watch?
 
 ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-apple-watch/) is the Apple Watch Ultra 2 since it is lauded by athletes and members of the press as the best Apple Watch ever made thanks to its rugged durability, large and bright display, long battery life, water resistance, and more. It's no surprise it became the flagship model as soon as the Ultra was released last year. 
@@ -107,13 +114,6 @@ Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Watch SE vs Series 8: Which is the better buy?
 
 If you're buying your first Apple Watch or upgrading from a Series 6 or earlier, ZDNET recommends buying the Series 9 this year because it features a big upgrade in accuracy for tracking your health and fitness. 
@@ -122,20 +122,27 @@ However, if you want to get in at the lowest price or you're buying a watch for 
 
 **Also**: [**Watch Series 8 vs Series 9: Should you upgrade?**](https://www.zdnet.com/article/apple-watch-series-9-vs-apple-watch-series-8/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the newest Apple Watch?
 
 Apple has a lengthy lineup of its flagship tech wearable, with several iterations over the last few years. The two newest watch releases come in the Apple Watch Series 9 and the Apple Watch Ultra 2, which were released in September 2023\. The Apple Watch SE (2nd Gen) remains the most up-to-date base model. With multiple models available, both old and new, you'll be sure to find a watch that fits your needs and your price point. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Apple watches have the new double tap feature?
 
 Apple's newest releases, the Watch Series 9 and the Watch Ultra 2 both feature the new finger tap capability. Apple formally refers to this as the "double tap gesture," and with it users can easily control either watch with just one hand and without touching the display. Users can tap the index finger and thumb of their watch hand together twice to quickly perform many of the most common actions.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the different Apple Watch bands available?
 
@@ -143,16 +150,22 @@ Apple offers several band options that are included with their watches, some dep
 
 Other band options include the Ocean Band, Alpine Loop, Milanese Loop, Trail Loop, Solo Loop, Braided Solo Loop, and more. Apple and other retailers offer tons of bands made of differing materials in a multitude of colors and designs as well. 
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Are there any alternative smartwatches worth considering?
 
 The Apple watch models are not the only options for smart watches, despite their popularity. ZDNET rounded up the [best smartwatch deals](https://www.zdnet.com/article/best-black-friday-and-cyber-monday-smartwatch-deals-still-available/) so you can scope more alternative deals, including the Fitbit Versa 4, Fitbit Luxe, Google Pixel Watch, Samsung Galaxy Watch 6, and more. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What does "trade-in" mean?
 
@@ -161,13 +174,6 @@ Similarly to turning in an older cell-phone to receive monetary credit towards p
 When participating in a trade-in offer, you are providing your previously used item to the retailer in exchange for a predetermined amount of cash back that can be directly applied to your next item purchase of the same product. Eligible trade-in items and the cash back offered for each product is decided by each individual retailer and is often determined by factors such as age, condition, and functionality of the item being presented for trade-in. Apple recently decided to even bump up the amount they offer for trade-ins as well, too. 
 
 **Also:** [**Apple is paying more for your used Apple watches**](https://www.zdnet.com/article/apple-is-now-paying-more-for-your-used-apple-watches-and-ipads/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -213,20 +219,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-making-your-mark-with-effective-facebook-cover-vids/"><u>[Updated] In 2024, Making Your Mark with Effective Facebook Cover Vids</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/a-guide-to-navigating-instagrams-new-updates/"><u>A Guide to Navigating Instagram's New Updates</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bridging-story-and-sound-scriptwriting-for-visual-media-for-2024/"><u>Bridging Story and Sound Scriptwriting for Visual Media for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-picks-for-ultimate-grass-cutting-machines-2024-gadgetzdnet/"><u>Expert Picks for Ultimate Grass Cutting Machines 2024 | GadgetZDnet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-picks-leading-portable-screening-devices-cnet-insights/"><u>Expert Picks: Leading Portable Screening Devices | CNET Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-picks-the-ultimate-solar-charger-rankings-cnets-comprehensive-guide/"><u>Expert Picks: The Ultimate Solar Charger Rankings – CNet's Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-pinnacle-of-innovation-at-ces-2023-day-2s-major-launches-as-covered-on-zdnet/"><u>Exploring the Pinnacle of Innovation at CES 2023 - Day 2'S Major Launches as Covered on ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hacked-heroes-the-activision-incident/"><u>Hacked Heroes: The Activision Incident</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-hot-40-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Hot 40 Pro to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-xs-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone XS without Apple Account</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/innovative-home-kit-options-for-budget-builders-discover-the-top-5-prefabricated-houses-from-a-box-below-50k-zdnet/"><u>Innovative Home Kit Options for Budget Builders: Discover the Top 5 Prefabricated Houses From a Box Below $50K | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/labor-day-special-secure-your-home-with-the-affordable-blink-outdoor-amera-and-lightning-mount-combo-at-only-80-shop-now/"><u>Labor Day Special: Secure Your Home with the Affordable Blink Outdoor Amera and Lightning Mount Combo at Only $80 - Shop Now!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/massive-discount-save-up-to-39-on-bose-soundlink-wireless-speakers-at-amazon-tech-news-from-zdnet/"><u>Massive Discount: Save Up to 39% On Bose SoundLink Wireless Speakers at Amazon - Tech News From ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/propel-your-workflow-final-cut-pros-must-have-tools/"><u>Propel Your Workflow Final Cut Pro’s Must-Have Tools</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/rapid-recovery-of-elusive-memories/"><u>Rapid Recovery of Elusive Memories</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-pinnacle-graphics-the-ultimate-4k-game-enhancement/"><u>[New] 2024 Approved Pinnacle Graphics The Ultimate 4K Game Enhancement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-crafting-captivating-edu-videos-essential-techniques-and-tips-for-youtube-success-for-2024/"><u>[New] Crafting Captivating Edu-Videos Essential Techniques and Tips for YouTube Success for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-streamers-dilemma-is-vlc-superior-to-mpc/"><u>[New] In 2024, Streamer's Dilemma Is VLC Superior to MPC?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-secret-behind-crafting-mesmerizing-slow-motion-media-for-instagram-for-2024/"><u>[New] The Secret Behind Crafting Mesmerizing Slow Motion Media for Instagram for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-ultimate-compilation-of-html5s-best-video-tools-for-2024/"><u>[Updated] The Ultimate Compilation of HTML5's Best Video Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enhanced-a-dynamic-approach-to-tailored-web-experiences/"><u>Cookiebot-Enhanced: A Dynamic Approach to Tailored Web Experiences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-your-next-favorite-sound-top-7-free-mobile-apps-for-music-lovers/"><u>Find Your Next Favorite Sound: Top 7 Free Mobile Apps for Music Lovers!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-finding-and-communicating-with-snapchats-help-desk/"><u>Guide: Finding and Communicating with Snapchat's Help Desk</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/immediate-action-fix-stutter-effects/"><u>Immediate Action: Fix Stutter Effects</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-16-apple-enhances-camera-with-advanced-image-recognition-technology-similar-to-google-lens-detailed-insights/"><u>IPhone 16: Apple Enhances Camera with Advanced Image Recognition Technology Similar to Google Lens - Detailed Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/my-ultimate-must-have-gadget-discover-the-multi-functional-magsafe-charger-for-effortless-charging-compatible-with-qi2-technology/"><u>My Ultimate Must-Have Gadget: Discover the Multi-Functional MagSafe Charger for Effortless Charging - Compatible with Qi2 Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/shared-frustrations-unveiling-the-common-grievances-among-apple-enthusiasts-post-iphone-update-to-ios-18/"><u>Shared Frustrations: Unveiling the Common Grievances Among Apple Enthusiasts Post-iPhone Update to iOS 18</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-your-full-screen-capture-predicament-with-snip-and-sketch/"><u>Solving Your Full-Screen Capture Predicament with Snip & Sketch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-6-persuasive-benefits-of-owning-an-apple-watch-insights-from-a-leading-wearable-technology-specialist-techexploration/"><u>Top 6 Persuasive Benefits of Owning an Apple Watch: Insights From a Leading Wearable Technology Specialist | TechExploration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncovering-the-latest-fixes-in-macos-sonoma-144-essential-updates-and-patch-notes-reviewed-by-zdnet/"><u>Uncovering the Latest Fixes in macOS Sonoma 14.4: Essential Updates and Patch Notes Reviewed by ZDNet</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-video-to-dvd-burners-get-video-to-dvd-on-windows-mac-maveric/"><u>Updated 2024 Approved Best Video to DVD Burners - Get Video to DVD on Windows / Mac (Maveric)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wearable-health-devices/"><u>Wearable Health Devices</u></a></li>
 </ul></div>
 

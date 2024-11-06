@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Gap: How Adding These 4 AI Features Can Boost iPhone’s Competitiveness with Android | Analysis by ZDNet"
-date: 2024-10-26T07:19:53.204Z
-updated: 2024-10-30T18:40:37.354Z
+date: 2024-11-03T20:14:44.570Z
+updated: 2024-11-05T19:31:40.568Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +68,16 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +89,10 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,24 +137,19 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-enhancing-youtube-beauty-mastering-video-color-dynamics/"><u>[Updated] Enhancing YouTube Beauty Mastering Video Color Dynamics</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-no-trouble-way-to-start-iphones-screen-snapshots/"><u>[Updated] In 2024, The No-Trouble Way to Start iPhone's Screen Snapshots</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-maximizing-ad-performance-with-engaging-fb-animation-strategies/"><u>[Updated] Maximizing Ad Performance with Engaging FB Animation Strategies</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-methodical-decrescendo-techniques-for-logic-pro-mixers/"><u>[Updated] Methodical Decrescendo Techniques for Logic Pro Mixers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-burning-movies-to-mac-dvds/"><u>[Updated] Step-by-Step Burning Movies to Mac DVDs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-guide-capturing-images-with-screen-shot-on-your-hp-laptop/"><u>Complete Guide: Capturing Images with Screen Shot on Your HP Laptop</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-steps-to-solve-missing-d3dx940dll-file-issues/"><u>Comprehensive Steps to Solve Missing d3dx9_40.dll File Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-methods-for-detecting-and-controlling-temperature-on-a-macbook-pro/"><u>Easy Methods for Detecting & Controlling Temperature on a MacBook Pro</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expert-mpeg-reconstruction-guide-restore-damaged-avimpeg-files-with-ease/"><u>Expert MPEG Reconstruction Guide - Restore Damaged AVI/MPEG Files with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-strategies-for-efficiently-relaying-digital-game-vouchers-on-steam/"><u>Expert Strategies for Efficiently Relaying Digital Game Vouchers on Steam</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/full-index-of-bsod-error-messages-a-step-by-step-resolution-handbook/"><u>Full Index of BSOD Error Messages: A Step-by-Step Resolution Handbook</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-honor-90-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Honor 90 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/landmark-innovations-in-technology-from-post-1844-era/"><u>Landmark Innovations in Technology From Post-1844 Era</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-faux-friendship-offers-on-platforms-like-facebook/"><u>Navigating Faux Friendship Offers on Platforms Like Facebook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-microsofts-pathway-to-college-level-savings-a-step-by-step-guide/"><u>Navigating Microsoft's Pathway to College-Level Savings: A Step-by-Step Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-list-of-free-3gp-video-rotators/"><u>New 2024 Approved The Ultimate List of Free 3GP Video Rotators</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-android-call-issues-a-step-by-step-guide-to-restore-phone-functionality/"><u>Solving Android Call Issues: A Step-by-Step Guide to Restore Phone Functionality</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/tongue-triumphs-perfect-your-accent-with-twisters/"><u>Tongue Triumphs: Perfect Your Accent With Twisters</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-dvd-ripper-tools-for-windows-1011-optimal-software-for-dvd-viewing-and-backup/"><u>Top DVD Ripper Tools for Windows 10/11: Optimal Software for DVD Viewing & Backup</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-insights-into-the-world-of-google-photos/"><u>[New] Expert Insights Into the World of Google Photos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-vocal-variety-at-your-fingertips-top-7-speech-modification-apps-reviewed/"><u>[New] Vocal Variety at Your Fingertips Top 7 Speech Modification Apps Reviewed</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-instantaneous-inspector-of-images-on-windows/"><u>[Updated] 2024 Approved Instantaneous Inspector of Images on Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-master-your-vision-with-these-6-premier-nft-tools/"><u>[Updated] 2024 Approved Master Your Vision with These 6 Premier NFT Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonizing-hues-the-filmmakers-palette-guide/"><u>[Updated] Harmonizing Hues The Filmmaker's Palette Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-dynamic-color-balance-helper/"><u>[Updated] In 2024, Dynamic Color Balance Helper</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/can-you-afford-cutting-edge-tech-wisdom-from-apple-unveiling-monthly-plans-priced-at-20-and-up/"><u>Can You Afford Cutting-Edge Tech Wisdom From Apple? Unveiling Monthly Plans Priced at $20 and Up!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-latest-features-top-5-exciting-tests-on-apple-ios-18-preview-zdnet/"><u>Explore the Latest Features: Top 5 Exciting Tests on Apple iOS 18 Preview | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-the-apple-m2-macbook-air-for-under-a-grand-on-amazon-sale-happens-way-ahead-of-october-prime-day-zdnet-news/"><u>Get the Apple M2 MacBook Air for Under a Grand on Amazon – Sale Happens Way Ahead of October Prime Day! | ZDNET News</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideas-for-efficiently-using-gopro-power-supplies/"><u>In 2024, Ideas for Efficiently Using GoPro Power Supplies</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplified-steps-accessing-and-customizing-androids-quick-settings-menu/"><u>Simplified Steps: Accessing and Customizing Android's Quick Settings Menu</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/snag-the-new-299-10th-generation-apple-ipad-prime-day-special-covered/"><u>Snag the New $299 10Th Generation Apple iPad - Prime Day Special Covered</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-kid-friendly-ipad-models-of-2022-expert-picks-by-zdnet/"><u>Top 4 Kid-Friendly iPad Models of 2022: Expert Picks by ZDNet</u></a></li>
 </ul></div>
 

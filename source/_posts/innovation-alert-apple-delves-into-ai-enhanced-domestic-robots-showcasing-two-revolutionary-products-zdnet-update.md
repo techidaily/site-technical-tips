@@ -1,7 +1,7 @@
 ---
 title: "Innovation Alert: Apple Delves Into AI-Enhanced Domestic Robots, Showcasing Two Revolutionary Products | ZDNET Update"
-date: 2024-10-25T19:41:28.591Z
-updated: 2024-10-30T22:26:26.790Z
+date: 2024-11-03T00:30:16.008Z
+updated: 2024-11-05T22:56:42.379Z
 tags:
   - apple
 categories:
@@ -69,10 +69,16 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -93,6 +99,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,10 +121,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -125,10 +138,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -166,19 +179,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -224,22 +224,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-into-the-metaverse-top-8-vr-wearables-listed/"><u>[New] Into the Metaverse Top 8 VR Wearables Listed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-lens-leaders-showcase-unveiling-the-best-6-4k-dslrs/"><u>[New] Lens Leaders Showcase Unveiling the Best 6 4K DSLRs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-mac-tips-capturing-class-notes-efficiently/"><u>[Updated] 2024 Approved Mac Tips Capturing Class Notes Efficiently</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/10-most-inspiring-yoga-channels-on-the-web-for-2024/"><u>10 Most Inspiring Yoga Channels on the Web for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-unlocking-ios-device-restore-functionality/"><u>Comprehensive Guide: Unlocking iOS Device Restore Functionality</u></a></li>
-<li><a href="https://win-info.techidaily.com/decouvrez-lart-de-lutilisation-des-copies-dechos-sous-windows-11-une-methode-complete/"><u>Découvrez L'Art De L'Utilisation Des Copies D'Echos Sous Windows 11 : Une Méthode Complète</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-audio-fix-techniques-for-a-silent-pc-get-sound-back-now/"><u>Easy Audio Fix Techniques for a Silent PC - Get Sound Back Now!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/essential-tactics-in-creating-convincing-testimonial-content-for-2024/"><u>Essential Tactics in Creating Convincing Testimonial Content for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-power-5-innovative-ways-to-utilize-chatgpts-programming-translator/"><u>Exploring the Power: 5 Innovative Ways to Utilize ChatGPT's Programming Translator</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-sync-airpods-with-the-nintendo-switch-a-step-by-step-guide/"><u>How to Sync AirPods with the Nintendo Switch: A Step-by-Step Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-the-psychology-behind-successful-long-term-forex-trading-with-steady-patience-and-strong-discipline/"><u>Mastering the Psychology Behind Successful Long-Term Forex Trading with Steady Patience and Strong Discipline</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/newbies-compendium-demystifying-and-assembling-home-sound-systems-with-ease/"><u>Newbie's Compendium: Demystifying and Assembling Home Sound Systems with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-playback-errors-for-netflix-on-roku-effective-solutions-and-fixes/"><u>Overcoming Playback Errors for Netflix on Roku: Effective Solutions and Fixes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-teen-flicks-to-binge-watch-on-netflix/"><u>The Ultimate List of Teen Flicks to Binge-Watch on Netflix</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-recommended-iphone-navigation-apps/"><u>Top 5 Recommended iPhone Navigation Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-66-twitter-accounts-for-savvy-travelers-insider-deals-tips-and-epic-journeys/"><u>Top 66 Twitter Accounts for Savvy Travelers: Insider Deals, Tips, and Epic Journeys</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dominance-in-video-landscape-mirrorless-vs-dslr-cameras-for-2024/"><u>[Updated] Dominance in Video Landscape Mirrorless vs DSLR Cameras for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-parodic-play-writing-and-producing-humor-videos/"><u>[Updated] Parodic Play Writing and Producing Humor Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/alternative-pathway-for-opening-file-explorer-through-onedrive/"><u>Alternative Pathway for Opening File Explorer Through OneDrive</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-zoom-webcams-top-picks-of-the-season-for-2024/"><u>Best Zoom Webcams – Top Picks of the Season for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-free-windows-registry-optimizers-of-202copyrighted-material/"><u>Discover the Best Free Windows Registry Optimizers of 202([Copyrighted Material])</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expect-unusual-meeting-experiences-with-the-new-zoom-integration-in-vision-pro-wireless-earbuds/"><u>Expect Unusual Meeting Experiences with the New Zoom Integration in Vision Pro Wireless Earbuds</u></a></li>
+<li><a href="https://article-helps.techidaily.com/fabricate-funny-images-on-giphy/"><u>Fabricate Funny Images on Giphy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-effortlessly-scan-images-or-text-from-a-printer-to-your-desktop/"><u>How To Effortlessly Scan Images or Text From a Printer to Your Desktop</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/how-to-infuse-prayerful-melodies-on-your-phone-for-2024/"><u>How to Infuse Prayerful Melodies on Your Phone for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-best-free-image-layers-and-enhancers-on-iosandroid/"><u>In 2024, Explore the Best, FREE Image Layers & Enhancers on iOS/Android</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-smartwatch-selection-for-2e24-in-depth-analysis-by-tech-specialists-zdnet/"><u>Leading Smartwatch Selection for 2E24: In-Depth Analysis by Tech Specialists | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/major-news-for-accessibility-get-ready-as-airpods-pro-gain-hearing-mode-on-upcoming-ios-16-release/"><u>Major News for Accessibility: Get Ready as AirPods Pro Gain Hearing Mode on Upcoming iOS 16 Release</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-four-reasons-holding-me-back-from-upgrading-to-an-iphone-16-pro-a-detailed-review-by-zdnet/"><u>Top Four Reasons Holding Me Back From Upgrading to an iPhone 16 Pro - A Detailed Review by ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-kid-friendly-smartphones-a-comprehensive-guide-by-zdnet/"><u>Top Kid-Friendly Smartphones: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/which-avi-and-mp4-codecs-can-you-stream-on-apple-tv/"><u>Which AVI and MP4 Codecs Can You Stream on Apple TV?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/withholding-information-whats-your-guide-to-calling-back-private-numbers/"><u>Withholding Information: What's Your Guide to Calling Back Private Numbers?</u></a></li>
 </ul></div>
 

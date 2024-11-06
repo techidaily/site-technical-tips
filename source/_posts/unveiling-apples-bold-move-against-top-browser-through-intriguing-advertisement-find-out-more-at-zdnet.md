@@ -1,7 +1,7 @@
 ---
 title: Unveiling Apple's Bold Move Against Top Browser Through Intriguing Advertisement - Find Out More at ZDNet
-date: 2024-10-28T07:20:37.400Z
-updated: 2024-10-31T05:06:53.160Z
+date: 2024-11-01T22:09:58.992Z
+updated: 2024-11-06T00:49:41.055Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -37,16 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -63,18 +64,18 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -85,16 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -102,13 +97,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -146,19 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-winning-gameplay-capture-with-fbx/"><u>[New] In 2024, Winning Gameplay Capture with FBX</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-easy-ways-to-record-console-gameplay/"><u>[Updated] 2024 Approved Easy Ways to Record Console Gameplay</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-next-gen-portable-play-top-gba-on-android/"><u>[Updated] 2024 Approved Next-Gen Portable Play Top GBA on Android</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722882302450-all-about-the-newly-announced-samsung-galaxy-z-flip6-pricing-details-inside/"><u>All About the Newly Announced Samsung Galaxy Z Flip6 - Pricing Details Inside</u></a></li>
-<li><a href="https://media-tips.techidaily.com/broadcast-windows-pcs-w10-w8-w7-live-connect-seamlessly-using-beamer-to-apple-tv-via-airplay/"><u>Broadcast Windows PCs (W10, W8, W7) Live - Connect Seamlessly Using Beamer to Apple TV via AirPlay</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/critical-errors-using-ai-for-secure-money-market-analysis/"><u>Critical Errors: Using AI for Secure Money Market Analysis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-error-0x0000004e-in-windows-a-quick-guide/"><u>Fixing Error 0X0000004E in Windows: A Quick Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-managing-monthly-data-allowance-on-smartphones-and-computers/"><u>Guide to Managing Monthly Data Allowance on Smartphones and Computers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nhl-19-review-compelling-online-gameplay/"><u>NHL 19 Review: Compelling Online Gameplay</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-how-to-uninstall-programs-on-samsung-smart-tvs/"><u>Step-by-Step Instructions: How to Uninstall Programs on Samsung Smart TVs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-inside-scoop-on-chatgpt-revolutionizing-natural-language-interaction/"><u>The Inside Scoop on ChatGPT: Revolutionizing Natural Language Interaction</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-a-car-stereo-that-wont-turn-on/"><u>Troubleshooting a Car Stereo That Won't Turn On</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-setting-up-evening-mode-on-apples-smartphone/"><u>Ultimate Guide to Setting Up Evening Mode on Apple's Smartphone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-hearing-colors-and-movements-a-comprehensive-list-of-top-notch-music-visualizers-both-free-and-paid/"><u>Updated 2024 Approved Hearing Colors and Movements A Comprehensive List of Top-Notch Music Visualizers (Both Free & Paid)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-a-stepwise-approach-to-designing-powerful-edu-vids-on-social-media/"><u>[New] 2024 Approved A Stepwise Approach to Designing Powerful Edu-Vids on Social Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-building-a-strong-online-presence-with-attractive-video-thumbnails/"><u>[New] 2024 Approved Building a Strong Online Presence with Attractive Video Thumbnails</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-alternative-video-editor-tips-beyond-youtube/"><u>[Updated] Alternative Video Editor Tips Beyond YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/astonishingly-affordable-snag-a-cents-priced-iphone-15-pro-max-on-amazon-the-ultimate-guide-to-the-steal-of-the-century-smart-savings-daily/"><u>Astonishingly Affordable: Snag a Cents-Priced iPhone 15 Pro Max on Amazon - The Ultimate Guide to the Steal of the Century | Smart Savings Daily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-the-apple-vision-pro-experience-my-key-lessons-after-two-days-of-testing-zdnets-comprehensive-analysis/"><u>Discovering the Apple Vision Pro Experience: My Key Lessons After Two Days of Testing - ZDNet's Comprehensive Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-approach-eliminating-the-pin-authentication-feature-on-windows-11/"><u>DIY Approach: Eliminating the PIN Authentication Feature on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-ensure-genuine-dolby-atmos-sound-performance-at-home/"><u>How to Ensure Genuine Dolby Atmos Sound Performance at Home?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-squaring-the-circle-of-facebook-engagement-with-visuals/"><u>In 2024, Squaring the Circle of Facebook Engagement with Visuals</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-ultimate-list-of-video-editing-software-for-beginners/"><u>In 2024, The Ultimate List of Video Editing Software for Beginners</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-data-retrieval-tool-restore-lost-data-from-infinix-note-30-by-fonelab-android-recover-data/"><u>Infinix Data Retrieval tool – restore lost data from Infinix Note 30</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-showdown-14-pro-vs-14-pro-max-which-one-is-best-suited-for-you-mobile-matters/"><u>IPhone Showdown: 14 Pro vs 14 Pro Max – Which One Is Best Suited for You? | Mobile Matters</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/legally-recording-calls-with-your-iphone-a-comprehensive-guide-by-zdnet/"><u>Legally Recording Calls with Your iPhone: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-optimized-solutions-to-gameplay-lag-and-freezing-problems/"><u>Red Dead Redemption 2 Optimized: Solutions to Gameplay Lag and Freezing Problems</u></a></li>
+<li><a href="https://techidaily.com/remove-samsung-lock-screen-without-password-samsung-galaxy-xcover-7-by-drfone-android-unlock-android-unlock/"><u>Remove Samsung Lock Screen without Password(Samsung Galaxy XCover 7)</u></a></li>
+<li><a href="https://win11.techidaily.com/subnet-adjustment-for-win11-users/"><u>Subnet Adjustment for Win11 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-viewing-guide-for-watching-transformers-movies-back-to-back/"><u>The Ultimate Viewing Guide for Watching Transformers Movies Back to Back</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/three-essential-steps-apple-needs-to-take-to-save-tophat-vision-pro-insights/"><u>Three Essential Steps Apple Needs to Take to Save Tophat Vision Pro - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-recommended-ipad-gadgets-and-extras-insights-from-zdnet/"><u>Top Recommended iPad Gadgets & Extras - Insights From ZDNet</u></a></li>
 </ul></div>
 

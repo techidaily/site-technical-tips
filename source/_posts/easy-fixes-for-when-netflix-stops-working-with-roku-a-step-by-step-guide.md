@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for When Netflix Stops Working with Roku – A Step-by-Step Guide
-date: 2024-09-13T18:38:24.391Z
-updated: 2024-09-15T19:03:05.248Z
+date: 2024-10-30T18:45:31.466Z
+updated: 2024-11-05T22:17:37.463Z
 categories:
   - BestProducts
 description: This Article Describes Easy Fixes for When Netflix Stops Working with Roku – A Step-by-Step Guide
@@ -32,11 +32,25 @@ thumbnail: https://www.lifewire.com/thmb/6pc6_5e3tqf1Y0i89bewS9bMbZE=/400x300/fi
 
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Open Command Prompt Through the Start Menu Folder
 
  Another way to open the Windows Command Prompt in Windows 10 is to look in its Start menu folder. Open the**Start menu** , select the**Windows System** folder from the list, and then choose**Command Prompt** from the folder group.
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Open Command Prompt Using Power User Menu
 
@@ -44,14 +58,14 @@ thumbnail: https://www.lifewire.com/thmb/6pc6_5e3tqf1Y0i89bewS9bMbZE=/400x300/fi
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
 
@@ -84,13 +98,6 @@ thumbnail: https://www.lifewire.com/thmb/6pc6_5e3tqf1Y0i89bewS9bMbZE=/400x300/fi
 
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Elevated Command Prompts and Old Windows Versions
 
  Command Prompt doesn't exist in versions of Windows released before Windows XP, like Windows 98 and Windows 95\. However, the older and very similar MS-DOS Prompt does. This program is located in the Start menu and can be opened with the**command** run command.
@@ -104,10 +111,10 @@ thumbnail: https://www.lifewire.com/thmb/6pc6_5e3tqf1Y0i89bewS9bMbZE=/400x300/fi
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
@@ -152,5 +159,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-phones-to-cameras-enhancing-your-live-stream-setup/"><u>[Updated] 2024 Approved Phones to Cameras Enhancing Your Live Stream Setup</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-becoming-a-pro-at-using-zoom-on-win10-systems/"><u>[Updated] Becoming a Pro at Using Zoom on WIN10 Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfecting-your-iphone-video-shortening-and-altering-size/"><u>[Updated] Perfecting Your iPhone Video Shortening and Altering Size</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-template-trick-for-eye-catching-tiktok-creation-mastery-for-2024/"><u>[Updated] The Template Trick for Eye-Catching TikTok Creation Mastery for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-pencil-inspired-vision-pro-controller-what-new-patent-reveals-insights/"><u>Apple Pencil-Inspired Vision Pro Controller: What New Patent Reveals? - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722897951540-explore-our-handpicked-collection-of-free-music-streaming-apps-for-android-and-iphone-devotees/"><u>Explore Our Handpicked Collection of Free Music Streaming Apps for Android & iPhone Devotees</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-ai-powered-bots-the-role-of-censorship/"><u>Navigating the World of AI-Powered Bots - The Role of Censorship</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/nhl-19-analysis-engaging-virtual-hockey-experience/"><u>NHL '19 Analysis: Engaging Virtual Hockey Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pause-in-apple-watch-series-9-and-ultra-series-2-online-purchases-impact-on-previous-generation-servicing/"><u>Pause in Apple Watch Series 9 & Ultra Series 2 Online Purchases: Impact on Previous Generation Servicing</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722982884679-top-bug-fixes-in-phasmophobia-released-now/"><u>Top Bug Fixes in Phasmophobia Released Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-for-resolving-bios-post-issues/"><u>Troubleshooting Steps for Resolving BIOS POST Issues</u></a></li>
+</ul></div>
 

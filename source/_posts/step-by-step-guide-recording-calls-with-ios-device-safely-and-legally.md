@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Recording Calls with iOS Device Safely and Legally"
-date: 2024-10-25T16:16:21.584Z
-updated: 2024-10-31T01:06:36.002Z
+date: 2024-10-29T22:34:07.893Z
+updated: 2024-11-06T00:33:27.773Z
 tags:
   - apple
 categories:
@@ -56,6 +56,13 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
@@ -85,10 +92,10 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -106,16 +113,10 @@ Screenshot by Lance Whitney/ZDNET
 ## Use Intel Unison
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
@@ -125,13 +126,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -145,11 +139,25 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -157,25 +165,11 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -213,24 +207,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-capturing-whatsapp-call-data-a-compreayers-guide-for-2024/"><u>[New] Capturing WhatsApp Call Data A Compreayer's Guide for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-dive-into-camtasias-ken-burns-feature-rich-tutorial/"><u>[New] In 2024, Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-mastering-zoom-for-podcast-recordings-a-step-by-step-guide-for-2024/"><u>[New] Mastering Zoom for Podcast Recordings A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-undercover-upsell-simple-image-saving/"><u>[Updated] The Undercover Upsell Simple Image Saving</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/20-must-have-additions-we-expect-from-apples-visionos-announcement-at-upcoming-wwdc-event-techinsights/"><u>20 Must-Have Additions We Expect From Apple's VisionOS Announcement at Upcoming WWDC Event | TechInsights</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-calculating-the-storage-space-of-24-hour-videos/"><u>2024 Approved Calculating the Storage Space of 24-Hour Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-foremost-audiovideo-makers-online-guidebook/"><u>2024 Approved The Foremost Audio/Video Makers Online Guidebook</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-fundamentals-of-color-grading-using-luts-in-ae/"><u>2024 Approved The Fundamentals of Color Grading Using LUTs in AE</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/beat-apple-vision-pro-anxiety-on-a-budget-with-revolutionary-xr-glasses-my-game-changing-experience-featured-in-zdnet/"><u>Beat Apple Vision Pro Anxiety on a Budget with Revolutionary XR Glasses - My Game-Changing Experience Featured in ZDNET!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/chick-fil-a-overcomes-sunday-profit-barrier-innovative-strategies-revealed-insights-from-zdnet/"><u>Chick-Fil-A Overcomes Sunday Profit Barrier: Innovative Strategies Revealed - Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-businesses-driving-the-future-of-virtual-worlds-exploring-the-metaverses-pioneers-with-zdnet/"><u>Discover Businesses Driving the Future of Virtual Worlds: Exploring the Metaverse's Pioneers with ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-how-apple-vision-pro-revolutionizes-user-experience-with-these-10-undisclosed-perks-digital-gadget-review/"><u>Discover How Apple Vision Pro Revolutionizes User Experience with These 10 Undisclosed Perks | Digital Gadget Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elevating-in-flight-satisfaction-with-apples-vision-pro-is-economy-class-about-to-get-a-luxury-upgrade/"><u>Elevating In-Flight Satisfaction with Apple's Vision Pro: Is Economy Class About to Get a Luxury Upgrade?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhancing-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-enterprise-playbook-insights-by-zdnet/"><u>Enhancing UX with XR, Digital Twins & Spatial Tech: A Comprehensive Enterprise Playbook - Insights by ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-share-your-ps5-gaming-experience-with-friends-and-family/"><u>How to Share Your PS5 Gaming Experience with Friends and Family</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-elevating-care-delivery-through-effective-fb-ads/"><u>In 2024, Elevating Care Delivery Through Effective FB Ads</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-macrogesture-controls-a-comprehensive-guide-to-choosing-and-pasting-text-via-hand-motions-on-apple-vision-pro-techradar/"><u>Mastering Macrogesture Controls: A Comprehensive Guide to Choosing & Pasting Text via Hand Motions on Apple Vision Pro | TechRadar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionary-shift-how-the-upcoming-iphone-16s-camera-promises-a-monumental-evolution-from-black-and-white-to-color/"><u>Revolutionary Shift: How the Upcoming iPhone 16'S Camera Promises a Monumental Evolution From Black and White to Color</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/superior-suggestions-prime-platforms-for-grabbing-snapalert-rhythms/"><u>Superior Suggestions Prime Platforms for Grabbing SnapAlert Rhythms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-ultimate-battle-ultrawide-vs-uhd-4k-display-options/"><u>[Updated] In 2024, The Ultimate Battle UltraWide vs UHD 4K Display Options</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/102-special-offer-transform-your-macbook-setup-with-the-multi-functional-charger-stand-and-ports-organizer-featured-now/"><u>$102 Special Offer: Transform Your MacBook Setup with the Multi-Functional Charger, Stand, and Ports Organizer Featured Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expertly-testing-the-ultimate-list-of-2024s-best-notetaking-tablets-detailed-analysis-zdnet/"><u>Expertly Testing the Ultimate List of 2024'S Best Notetaking Tablets: Detailed Analysis | ZDNET</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/oth-sides-right-expert-tips-on-crafting-compelling-pov-based-youtube-reaction-videos-2-pov-perspective-for-2024/"><u>Get Both Sides Right – Expert Tips on Crafting Compelling POV-Based YouTube Reaction Videos (2 POV Perspective) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-image-saving-failures-in-win11-camera-app/"><u>Remedying Image Saving Failures in Win11 Camera App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/saving-strategies-how-apples-intervention-could-revitalize-disappointed-sonos-customers/"><u>Saving Strategies: How Apple's Intervention Could Revitalize Disappointed Sonos Customers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/spicing-up-your-comments-using-animated-gifs-in-the-instagram-conversation/"><u>Spicing Up Your Comments: Using Animated GIFs in the Instagram Conversation</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/ultimate-guide-ranking-the-best-3-free-4k-video-grabber-apps-compatible-with-pc-and-mac-systems/"><u>Ultimate Guide: Ranking the Best 3 FREE 4K Video Grabber Apps Compatible with PC & Mac Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo V27 Pro | Dr.fone</u></a></li>
 </ul></div>
 

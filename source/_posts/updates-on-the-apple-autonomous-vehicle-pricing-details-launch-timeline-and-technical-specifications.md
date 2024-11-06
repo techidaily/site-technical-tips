@@ -1,7 +1,7 @@
 ---
 title: "Updates on the Apple Autonomous Vehicle: Pricing Details, Launch Timeline & Technical Specifications"
-date: 2024-09-09T13:34:34.365Z
-updated: 2024-09-10T13:34:34.365Z
+date: 2024-11-02T23:52:10.330Z
+updated: 2024-11-05T16:59:13.875Z
 categories:
   - BestProducts
 description: "This Article Describes Updates on the Apple Autonomous Vehicle: Pricing Details, Launch Timeline & Technical Specifications"
@@ -42,14 +42,22 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 * In 2024, Bloomberg reported on Apple's plans to[ delay the car's launch until at least 2028](https://www.bloomberg.com/tosv2.html?vid=&uuid=5fcc037a-db73-11ee-bb95-8a0d88c2ae76&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wMS0yMy9hcHBsZS1jYXItZXYtc2V0LXRvLWRlYnV0LWluLTIwMjgtd2l0aC1saW1pdGVkLWF1dG9ub21vdXMtZHJpdmluZw==) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Lifewire's Release Date Estimate
 
  If Apple wants to make their car idea happen, we could see a revival by 2028 or 2029\. But it'll only happen if they can strike a deal with Rivian or another car company.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple Car Price Rumors 
 
@@ -64,43 +72,33 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 ![Apple Car concept](https://www.lifewire.com/thmb/JjLbHffcA4sPEkAvIevHx0Lp664=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-car-interior-concept-98c4063ff2814baea4c66ee35503d3ac.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Vanarama
 
 [  9 Questions to Ask Yourself Before You Buy an EV ](https://www.lifewire.com/questions-to-ask-before-buying-an-ev-5202902) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How the Apple Car Might Have Worked 
 
  Exploring the Apple car features isn't something anyone can do because nothing was ever officially announced. But since smart cars are already on the roads today, we're not totally in the dark when we guess what could have been included in Apple's car.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Self-Driving 
 
  One rumor is that Apple would make a fully autonomous car. If you're familiar with the Society of Automotive Engineers,[ SAE calls this Level 5](https://www.sae.org/blog/sae-j3016-update) . At most, this means no pedals and no steering wheel._Full_ automation.
@@ -138,11 +136,12 @@ Vanarama
 ![Canoo Lifestyle Vehicle rear lounge seating](https://www.lifewire.com/thmb/MbfMZiAe5CjoTAbib9NM6GF0llQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/key-4-e8b0605712f24e2e9ea9f995de1812e1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Canoo Lifestyle Vehicle rear lounge seating. 
 
 Canoo
@@ -165,12 +164,6 @@ Vanarama
 
 ![Tesla Model S interior](https://www.lifewire.com/thmb/NPVBJ4YfqwxOgEUAKGACGcEjaGI=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/tesla-model-s-interior-b6b6f02203a341b99b65090f8fe733a0.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tesla Model S interior. 
 
 Tesla
@@ -194,24 +187,12 @@ Tesla
   
 ![Apple Car concept](https://www.lifewire.com/thmb/M9abZPEjS52BrY3qgbZa-vA-Vq0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-car-concept-abb59470e0974eb9a6b12697b8f84f04.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Apple Car exterior concept. 
 
 Vanarama
 
  Vanarama's concept is only one take on how the car might have looked. Of course, nobody knows for sure, but[ Erick Martinez's designs](https://www.erick-martinez.com/icar) show a much smoother exterior. For an interesting, but unrealistic and honestly silly take, check out[ Devanga Borah's pod-style microcar design](https://www.instagram.com/p/CT9-0jaJvam/) .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Safety 
 
  Automated driving carries several prerequisites that make the car safer than one not as smart. Features like[ lane centering](https://www.lifewire.com/how-does-lane-centering-work-5188779) , automatic braking, and blind-spot alerts are a given, so what unique features might Apple have done to make its car safer than other vehicles on the road?
@@ -253,11 +234,18 @@ Vanarama
 ![vehicle's external display that says waiting for you to cross](https://www.lifewire.com/thmb/O65adpyjUraRfkZdBski5i1WVoU=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/waiting-for-you-to-cross-external-display-776df2ff6f8246b4a252208f7380009b.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Latest News About the Apple Car 
 
  You can [ get more Smart and Connected Life news from Lifewire](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Here are other related stories and some early rumors we found about the Apple car specifically:  
@@ -280,8 +268,6 @@ Vanarama
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -289,4 +275,26 @@ Vanarama
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/levate-engagement-discover-these-top-12-techniques-for-video-success-for-2024/"><u>[New] Elevate Engagement - Discover These Top 12 Techniques for Video Success for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-a-tweet-to-snap-showcase-video-posting-techniques/"><u>[Updated] 2024 Approved A Tweet-to-Snap Showcase Video Posting Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-pioneering-apps-for-synching-pictures-and-beats/"><u>[Updated] 2024 Approved Pioneering Apps For Synching Pictures & Beats</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-extensions-catalog-ae-edition/"><u>[Updated] Premium Extensions Catalog AE Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-apple-watch-users-troubleshoot-ghostly-screen-interactions-solutions-and-tips/"><u>1. 'Apple Watch Users Troubleshoot Ghostly Screen Interactions: Solutions and Tips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-7-energizing-youtube-exercise-challenges-for-viewers-participation/"><u>2024 Approved 7 Energizing YouTube Exercise Challenges for Viewers' Participation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/airpods-and-quest-3-unite-without-a-ruckus-a-discreet-pairing-guide-techhowto/"><u>AirPods and Quest 3 Unite Without a Ruckus: A Discreet Pairing Guide | TechHowTo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-watch-showdown-series-10-vs-series-8-which-is-better/"><u>Apple Watch Showdown: Series 10 Vs. Series 8 – Which Is Better?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-machine-mirth-be-reached-giggle-genius-of-ais/"><u>Can Machine Mirth Be Reached?: Giggle Genius of AIs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-on-restoring-default-settings-in-dell-machines/"><u>Complete Tutorial on Restoring Default Settings in Dell Machines</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/empowering-your-meta-quest-3-with-ai-beating-apples-vision-pro-by-stages-activation-guide-techspot/"><u>Empowering Your Meta Quest 3 with AI: Beating Apple's Vision Pro by Stages - Activation Guide | TechSpot</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/essential-mac-capturing-apps-beyond-the-traditional-bandicam/"><u>Essential Mac Capturing Apps Beyond the Traditional Bandicam</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/future-of-fitness-and-monitoring-unveiled-apples-innovative-approach-to-transform-health-tracking-expert-analysis-on-zdnet/"><u>Future of Fitness & Monitoring Unveiled: Apple's Innovative Approach to Transform Health Tracking | Expert Analysis on ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hands-on-guide-making-instagram-collages-a-breeze-for-2024/"><u>Hands-On Guide Making Instagram Collages a Breeze for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-18-by-apple-enables-direct-call-recording-no-need-for-external-apps-technews/"><u>IOS 18 by Apple Enables Direct Call Recording, No Need for External Apps | TechNews</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-air-assessment-surpasses-expectations-makes-me-rethink-my-ipad-pro-choice-techwise/"><u>IPad Air Assessment: Surpasses Expectations, Makes Me Rethink My iPad Pro Choice | TechWise</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-video-conferencing-on-windows-exploring-beyond-facetime/"><u>Seamless Video Conferencing on Windows: Exploring Beyond FaceTime</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-breakdown-apples-potential-venture-into-ai-home-robotics-with-new-project-revealed/"><u>Tech Breakdown: Apple's Potential Venture Into AI Home Robotics with New Project Revealed</u></a></li>
+<li><a href="https://win-latest.techidaily.com/understanding-google-friend-connect-is-it-a-plugin-or-an-online-platform/"><u>Understanding Google Friend Connect: Is It a Plugin or an Online Platform?</u></a></li>
+</ul></div>
 
