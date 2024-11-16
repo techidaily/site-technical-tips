@@ -1,7 +1,7 @@
 ---
 title: Must-See '80S Films Every Movie Enthusiast Should Catch This Moment
-date: 2024-09-09T13:32:38.918Z
-updated: 2024-09-10T13:32:38.918Z
+date: 2024-11-15T06:06:21.873Z
+updated: 2024-11-16T06:03:46.398Z
 categories:
   - BestProducts
 description: This Article Describes Must-See '80S Films Every Movie Enthusiast Should Catch This Moment
@@ -9,12 +9,6 @@ excerpt: This Article Describes Must-See '80S Films Every Movie Enthusiast Shoul
 thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Sequential Watchlist for Every Superman Movie Ever Made
 ### What to Know
 
@@ -29,11 +23,12 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
  While they’re not featured on this list, several serials were created in 1948 and 1950, which you can find on YouTube. And in 1951, Superman appeared in an independent black-and-white film called_Superman and the Mole Men_ , and that’s available on Amazon.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Watch the 'Superman' Movies in Release Order
 
  If you have a healthy chunk of time to spare for a movie marathon, you could easily get through the original four_Superman_ movies in a weekend.
@@ -43,11 +38,12 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 ![Christopher Reeve as Superman in Superman: The Movie](https://www.lifewire.com/thmb/ZHL-RJQzh5JTDa7wGAkoe9HBn2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-watch-the-superman-movies-in-order-5089046-f2fb55ac5c7c456787e9e5f545bc3a8f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Keystone / Getty Images
 
  Let’s not forget two other important supporting characters from these films: the impressive precision of Superman’s S-shaped forehead curl and his favorite changing vessel: the trusty phone booth.
@@ -70,28 +66,10 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 | _Justice League_ (2017)                     | Aquaman, Batman, Cyborg, the Flash, Superman, and Wonder Woman join up to save Earth from an alien invasion.                   | Max                |
 | _Zack Snyder's Justice League_ (2021)       | A four-hour version of the 2017 film by original director Zack Snyder. This one contains restored footage and reworked scenes. | Max                |
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Watch the 'Superman' Movies By Era
 
  You could also break up your viewing with a couple of strategic groupings by series.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The Christopher Reeve Era
 
  These films feature many fans' favorite Superman, Christopher Reeve, who played both the strong and confident Man of Steel and the bumbling, mild-mannered Clark Kent perfectly.
@@ -105,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 | _Superman III_                     | Max                |
 | _Superman IV: The Quest for Peace_ | Max                |
 | _Superman Returns_                 | Max                |
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### DC Extended Universe
 
@@ -127,18 +112,19 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
  If you’re less concerned about chronological order or release order and more interested in comparing similar storylines, here are a few suggested non-linear pairings.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Compare Origin Stories
 
  Origin stories are a quintessential part of superhero anything. Watch the original_Superman: The Movie_ and_Man of Steel_ to see where the two meet and diverge. There’s a considerable time gap between the two, 1978 versus 2013, but all things considered, the special effects from 1978 still hold up in their own (often comical) way.
 
  If you’re interested in seeing more, several platforms offer extended cuts and special editions of both the Christopher Reeve era and DCEU Superman movies. Look for these versions on Amazon Prime, Google Play, Vudu, and YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Something Old, Something New, Something Newer
 
  If you want to experience the Christopher Reeve era but don’t want to watch the whole series, you don’t have to._Superman II_ does a great job of summarizing the first movie in the intro credits and features two formidable enemies: General Zod and Lex Luthor._Superman III_ and_Superman IV_ are not as good, so you can leave it at the second one.
@@ -173,8 +159,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +166,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-enigmatic-engagements-in-top-escape-venues-for-2024/"><u>[Updated] Enigmatic Engagements in Top Escape Venues for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-2023s-best-updated-lg-bp550-overview/"><u>2024 Approved 2023'S Best Updated LG BP550 Overview</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/affordable-xr-solution-overcomes-apple-vision-pro-envy-with-remarkable-results-discover-how/"><u>Affordable XR Solution Overcomes Apple Vision Pro Envy with Remarkable Results – Discover How!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-instagram-hashtags-to-boost-your-post-engagement-now/"><u>Best Instagram Hashtags to Boost Your Post Engagement Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-review-of-the-apple-macbook-pro-13-with-m2-chip-are-users-with-m1-tech-feeling-left-behind/"><u>Comprehensive Review of the Apple MacBook Pro 13 with M2 Chip : Are Users With M1 Tech Feeling Left Behind?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-how-apples-toughest-iphone-case-performs-and-its-exceptional-security-feature-insights-for-tech-savvy-shoppers-powered/"><u>Discover How Apple's Toughest iPhone Case Performs and Its Exceptional Security Feature | Insights for Tech Savvy Shoppers | Powered</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-unbeatable-apple-watch-savings-for-july-2024-exclusive-deals-inside/"><u>Discover Unbeatable Apple Watch Savings for July 2024 - Exclusive Deals Inside!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/effortlessly-play-uninterrupted-videos-vlc/"><u>Effortlessly Play Uninterrupted Videos (VLC)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhance-your-gaming-experience-transform-your-phone-into-an-ultimate-nintendo-switch-alternative-with-just-one-device/"><u>Enhance Your Gaming Experience: Transform Your Phone Into an Ultimate Nintendo Switch Alternative with Just One Device!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-apples-latest-innovations-in-ipados-for-generation-ipads-at-2024-wwdc-the-features-you-cant-miss/"><u>Exploring Apple's Latest Innovations in iPadOS for Generation iPads at 2024 WWDC: The Features You Can't Miss!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/eye-movement-mastery-discovering-apples-groundbreaking-accessibility-updates-for-iphoneipad-control-detailed-by-zdnet/"><u>Eye Movement Mastery: Discovering Apple's Groundbreaking Accessibility Updates for iPhone/iPad Control Detailed by ZDNET</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-lenovo-thinkphone-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Lenovo ThinkPhone to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy S23+</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-lgs-monitor-marvel-the-31mu97-b-4k-showcase-review/"><u>In 2024, LG's Monitor Marvel The 31MU97-B 4K Showcase Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-release-geforce-rtx-cufflinks-2070-driver-version-for-windows-operating-systems/"><u>Latest Release: Geforce RTX Cufflinks 2070 Driver Version for Windows Operating Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revive-your-iphone-15-in-minutes-with-our-easy-troubleshooting-tips/"><u>Revive Your iPhone 15 in Minutes with Our Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/through-the-lens-of-technology-evaluating-the-apple-vision-pro-for-full-workday-use-uncovering-limitations-with-zdnet/"><u>Through the Lens of Technology: Evaluating the Apple Vision Pro for Full Workday Use | Uncovering Limitations with ZDNET</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unseen-elements-in-instagram-stories-for-the-curious-viewer-for-2024/"><u>Unseen Elements in Instagram Stories For the Curious Viewer for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/upgrade-photographic-images-preserve-precision-for-2024/"><u>Upgrade Photographic Images, Preserve Precision for 2024</u></a></li>
+</ul></div>
 

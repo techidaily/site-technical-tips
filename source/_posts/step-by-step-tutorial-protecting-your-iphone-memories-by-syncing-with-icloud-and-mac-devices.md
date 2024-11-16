@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Protecting Your iPhone Memories by Syncing with iCloud and Mac Devices"
-date: 2024-11-04T23:59:11.706Z
-updated: 2024-11-05T21:51:47.299Z
+date: 2024-11-13T17:12:21.815Z
+updated: 2024-11-16T00:20:21.336Z
 tags:
   - apple
 categories:
@@ -56,6 +56,13 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
@@ -72,31 +79,30 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -105,16 +111,10 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Start a new chat
@@ -125,6 +125,13 @@ Screenshot by Lance Whitney/ZDNET
 
 ## Use Intel Unison
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Install Intel Unison
 
 To use Intel Unison, download and install the app from [the Microsoft Store](https://apps.microsoft.com/store/detail/intel%C2%AE-unison%E2%84%A2/9PP9GZM2GN26).
@@ -132,13 +139,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -158,6 +158,19 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
@@ -169,13 +182,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -213,20 +219,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-explore-the-best-no-cost-video-meeting-apps-iosandroid/"><u>[New] In 2024, Explore the Best No-Cost Video Meeting Apps - iOS/Android</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-triple-down-on-instagrams-growth-metrics/"><u>[Updated] 2024 Approved How to Triple Down on Instagram's Growth Metrics</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-google-collages-how-to-achieve-it-in-a-blink-of-an-eye/"><u>[Updated] Google Collages How to Achieve It in A Blink of an Eye</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mastering-name-selection-for-distinctive-youtube-channels-for-2024/"><u>[Updated] Mastering Name Selection for Distinctive YouTube Channels for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/advancing-artificial-intelligence-unveiling-apples-latest-breakthrough-models-and-their-capabilities-techinsight/"><u>Advancing Artificial Intelligence: Unveiling Apple's Latest Breakthrough Models and Their Capabilities | TechInsight</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/descubre-el-proceso-simple-de-duplicacion-automatizada-de-archivos-en-un-disco-duro-exterior/"><u>Descubre El Proceso Simple De Duplicación Automatizada De Archivos en Un Disco Duro Exterior</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ideal-protector-for-your-iphone-se-elite-case-selection-reviewed-insights/"><u>Discover the Ideal Protector for Your iPhone SE : Elite Case Selection Reviewed Insights</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/forsta-handsfattat-tips-for-att-spela-in-ljud-pa-din-webplats-movavi/"><u>Första-Handsfattat Tips För Att Spela in Ljud På Din Webplats – Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-does-dts-virtual-x-enhance-your-audio-experience/"><u>How Does DTS Virtual X Enhance Your Audio Experience?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-8-plus-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 8 Plus in Lost Mode</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-use-of-chatgpt-for-seamless-language-translation-solutions/"><u>Navigating the Use of ChatGPT for Seamless Language Translation Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-problems-during-pc-reboot-step-by-step-troubleshooting-guide/"><u>Solving the 'Problems During PC Reboot': Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-apple-watch-screensaver-pick-of-2e23-featured-by-zdnet/"><u>Top-Rated Apple Watch Screensaver Pick of 2E23 Featured by ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-a-superhero-experience-discover-how-apple-vision-pro-transforms-fantasy-into-reality-available-june-1st/"><u>Unlock a Superhero Experience! Discover How Apple Vision Pro Transforms Fantasy Into Reality - Available June 1St</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/whats-new-in-ipados-release-unpack-the-announcement-with-date-and-pricing-info/"><u>What's New in iPadOS Release? Unpack the Announcement with Date and Pricing Info</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-discover-8-premium-zero-cost-3d-vids-plugins-for-2024/"><u>[New] Discover 8 Premium Zero-Cost 3D Vids Plugins for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-enhancing-twitter-posts-via-facebook-connection/"><u>[Updated] 2024 Approved Enhancing Twitter Posts via Facebook Connection</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-zte-nubia-z60-ultra-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your ZTE Nubia Z60 Ultra Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-music-auto-play-pause-tricks-mastering-offline-listening/"><u>Apple Music Auto-Play Pause Tricks - Mastering Offline Listening</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-choices-in-game-livestream-technology-for-2024/"><u>Best Choices in Game Livestream Technology for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/email-as-a-tool-for-vatican-diplomacy-is-pope-francis-an-avid-user/"><u>Email as a Tool for Vatican Diplomacy: Is Pope Francis an Avid User?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-fixing-error-messages-when-d3dx940dll-cant-be-located/"><u>Expert Advice on Fixing Error Messages When d3dx9_40.dll Can't Be Located</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-honor-90-is-unlocked-by-drfone-android/"><u>How To Check if Your Honor 90 Is Unlocked</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-repair-unresponsive-application-issues-in-samsung-smart-tvs/"><u>How to Repair Unresponsive Application Issues in Samsung Smart TVs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-find-x7-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Find X7 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-when-outlooks-spell-checker-stops-working-properly/"><u>Quick Fixes for When Outlook's Spell Checker Stops Working Properly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/thorough-appraisal-gopro-silver-hero4-version-analysis/"><u>Thorough Appraisal GoPro Silver HERO4 Version Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-verizon-phone-promotions-exclusive-offers-available-this-month/"><u>Top Verizon Phone Promotions: Exclusive Offers Available This Month</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-solutions-resolving-windows-11s-sudden-blackout-display-problems/"><u>Troubleshooting and Solutions: Resolving Windows 11'S Sudden Blackout Display Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-repairing-your-mouse-when-the-left-click-fails/"><u>Troubleshooting Guide: Repairing Your Mouse When the Left-Click Fails</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-techniques-for-xlive-dll-file-not-found-problems/"><u>Troubleshooting Techniques for Xlive DLL File Not Found Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-dealing-with-missing-or-non-existent-msstdfmtdll-file-errors/"><u>Troubleshooting Tips for Dealing with Missing or Non-Existent Msstdfmt.dll File Errors</u></a></li>
 </ul></div>
 

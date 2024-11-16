@@ -1,7 +1,7 @@
 ---
 title: "Patently Innovative: How the New Vision Pro Controller Mirrors Apple's Iconic Stylus, According to a Recent Filing | ZDNET"
-date: 2024-11-03T17:30:17.467Z
-updated: 2024-11-05T17:15:14.516Z
+date: 2024-11-12T05:34:25.724Z
+updated: 2024-11-15T18:58:56.257Z
 tags:
   - apple
 categories:
@@ -75,31 +75,26 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-viral-video-vibes-essential-quotable-phrases-for-your-tiktok-journey-for-2024/"><u>[New] Viral Video Vibes Essential Quotable Phrases for Your TikTok Journey for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2023-ranking-top-6-apps-for-fb-lite-video-downloads/"><u>[Updated] 2023 Ranking Top 6 Apps for FB Lite Video Downloads</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-resolve-airdrop-hurdles-on-any-apple-device/"><u>2024 Approved How to Resolve Airdrop Hurdles on Any Apple Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/airtags-hidden-safety-feature-issue-potential-risks-and-easy-fixes-zdnet/"><u>AirTag's Hidden Safety Feature Issue: Potential Risks and Easy Fixes | ZDNET</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banishing-flicker-fix-your-lenovo-screen/"><u>Banishing Flicker: Fix Your Lenovo Screen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/choosing-the-right-macbook-pro-a-detailed-comparison-of-m3-vs-m2-models-for-savvy-shoppers/"><u>Choosing the Right MacBook Pro: A Detailed Comparison of M3 Vs. M2 Models for Savvy Shoppers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-iphone-12s-latest-feature-improved-qi-charging-that-works-without-magsafe-news/"><u>Discover iPhone 12'S Latest Feature: Improved Qi Charging that Works without MagSafe News</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-methods-to-fix-errors-of-missing-dciman32dll-file/"><u>Effective Methods to Fix Errors of Missing dciman32.dll File</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-picks-for-stylish-and-durable-iphone-1212-pro-cases-of-2023-your-complete-selection-on-zdnet/"><u>Expert Picks for Stylish and Durable iPhone 12/12 Pro Cases of 2023 - Your Complete Selection on ZDNET</u></a></li>
-<li><a href="https://driver-download.techidaily.com/expert-techniques-to-revamp-and-update-your-usb-serial-adapters-driver-software/"><u>Expert Techniques to Revamp and Update Your USB Serial Adapter's Driver Software</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor Magic V2? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Circle Everything You Need to Know On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-nokia-c300-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Nokia C300? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/in-the-camera-shootout-battle-pixel-npro-xl-triumphs-over-iphone-15-pro-with-a-surprising-twist-detailed-review-by-zdnet/"><u>In the Camera Shootout Battle, Pixel nPro XL Triumphs Over iPhone 15 Pro with a Surprising Twist - Detailed Review by ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/invest-in-reliability-find-the-perfect-solar-panel-power-unit-now/"><u>Invest in Reliability: Find the Perfect Solar Panel Power Unit Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-macos-the-ultimate-guide-to-activating-and-utilizing-hot-corners-boost-efficiency-with-expert-tips-from-zdnet/"><u>Mastering macOS: The Ultimate Guide to Activating & Utilizing Hot Corners - Boost Efficiency with Expert Tips From ZDNet</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/mycamadventure-discovering-new-camera-worlds-for-2024/"><u>MyCamAdventure Discovering New Camera Worlds for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-odd-blip-ios-1751-corrects-old-photo-reappearance-error-detailed-analysis/"><u>Resolving the Odd Blip: IOS 17.5.1 Corrects Old Photo Reappearance Error, Detailed Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-smartphone-savings-unlocking-the-most-amazing-offers-in-march-2024-insights/"><u>Top Smartphone Savings: Unlocking the Most Amazing Offers in March 2024 Insights</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-electronic-conference-logging-for-2024/"><u>[New] Electronic Conference Logging for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-expert-techniques-for-effective-tiktok-videos-pcmac-for-2024/"><u>[New] Expert Techniques for Effective TikTok Videos (PC/MAC) for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-retro-social-media-revelations-mastering-outdated-fb-functionality/"><u>2024 Approved Retro Social Media Revelations Mastering Outdated FB Functionality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-implementing-family-safe-settings-on-discord/"><u>A Step-by-Step Guide: Implementing Family Safe Settings on Discord</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-to-enabling-domain-safelist-feature-in-macos-mail-client/"><u>Complete Guide to Enabling Domain Safelist Feature in macOS Mail Client</u></a></li>
+<li><a href="https://fox-links.techidaily.com/decoding-firefox-picture-in-picture-a-comprehensive-guide-for-2024/"><u>Decoding Firefox Picture-in-Picture A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-steps-to-update-the-time-on-your-kindle-paperwhite-device/"><u>Effortless Steps to Update the Time on Your Kindle Paperwhite Device</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-easily-match-color-in-video-clips-with-final-cut-pro/"><u>How to Easily Match Color in Video Clips with Final Cut Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simplifying-media-files-with-xml-ssa-ttml-to-srt-process-for-2024/"><u>Simplifying Media Files with XML, SSA, TTML to SRT Process for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-dealing-with-opengl32dll-errors-on-your-pc/"><u>Step-by-Step Solution: Dealing with OpenGL32.dll Errors on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamers-handbook-demystifying-common-confusions-on-twitch-chat-for-rookies/"><u>Streamer's Handbook: Demystifying Common Confusions on Twitch Chat for Rookies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-premier-selection-of-android-friendly-wristwear-application-suite/"><u>The Premier Selection of Android-Friendly Wristwear Application Suite</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

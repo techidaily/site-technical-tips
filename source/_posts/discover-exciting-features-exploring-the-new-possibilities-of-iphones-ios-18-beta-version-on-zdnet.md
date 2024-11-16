@@ -1,7 +1,7 @@
 ---
 title: "Discover Exciting Features: Exploring the New Possibilities of iPhone’s iOS 18 Beta Version on ZDNet"
-date: 2024-10-29T21:34:02.942Z
-updated: 2024-11-05T21:58:32.793Z
+date: 2024-11-14T20:12:45.901Z
+updated: 2024-11-16T04:55:26.972Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,16 +71,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -92,16 +86,16 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -140,22 +134,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-looms-lens-sharpen-your-recording-skills/"><u>[Updated] 2024 Approved Loom's Lens Sharpen Your Recording Skills</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-zero-cost-downloads-for-high-quality-audios-discover-this-list-of-23-tools-for-2024/"><u>[Updated] Zero Cost Downloads for High-Quality Audios Discover This List of 23 Tools for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-infinix-hot-40-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Infinix Hot 40 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-discounted-at-unprecedented-rate-of-200-off-secure-your-purchase-before-its-gone-zdnet-insights/"><u>Apple Vision Pro Discounted at Unprecedented Rate of $200 Off - Secure Your Purchase Before It's Gone | ZDNET Insights</u></a></li>
-<li><a href="https://fox-links.techidaily.com/codec-comparison-are-we-better-with-av1-or-vp9-for-2024/"><u>Codec Comparison Are We Better With AV1 or VP9 for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-visuals-with-precision-5-top-tips-for-pros-for-2024/"><u>Crafting Visuals with Precision 5 Top Tips for Pros for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-battery-swap-tutorial-for-revitalizing-your-ipad/"><u>DIY Battery Swap Tutorial for Revitalizing Your iPad</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/download-and-explore-ios-181-pre-release-update-with-new-smart-apple-innovations-step-by-step-guide-gadgetguru/"><u>Download and Explore iOS 18.1 Pre-Release Update with New Smart Apple Innovations – Step by Step Guide | GadgetGuru</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-budget-friendly-video-settings-for-low-end-systems/"><u>In 2024, Budget-Friendly Video Settings for Low-End Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share/Fake Location on WhatsApp for Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/new-feature-alert-expressvpn-introduces-built-in-password-storage-solution/"><u>New Feature Alert: ExpressVPN Introduces Built-In Password Storage Solution</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pros-vs-cons-the-ultimate-guide-to-choosing-a-great-mac-vpn-experts-weigh-in-techradar/"><u>Pros vs Cons: The Ultimate Guide to Choosing a Great Mac VPN (Experts Weigh In) | TechRadar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/silent-sync-a-users-manual-for-pairing-airpods-to-quest-3-headphones-discreetly-digitallife/"><u>Silent Sync: A User's Manual for Pairing AirPods to Quest 3 Headphones Discreetly | DigitalLife</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-updating-your-x-twitter-accounts-security-with-a-new-password/"><u>Step-by-Step Guide: Updating Your X (Twitter) Account's Security with a New Password</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-apples-next-gen-ai-breakthrough-capabilities-and-future-prospects-explored-by-zdnet/"><u>Unveiling Apple's Next-Gen AI: Breakthrough Capabilities and Future Prospects Explored by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-ios-175-beta-2-apple-enables-direct-app-downloads-on-the-web-for-european-users-a-step-by-step-guide-techzine/"><u>Unveiling iOS 17.5 Beta 2: Apple Enables Direct App Downloads on the Web for European Users – A Step-by-Step Guide | TechZine</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-ultimate-selection-of-text-enhancers-for-adobe-ae/"><u>[New] In 2024, The Ultimate Selection of Text Enhancers for Adobe AE</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-mobile-video-assembly-software-for-smartphones/"><u>[New] In 2024, Top Mobile Video Assembly Software for Smartphones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-21-edition-breakdown-analyzing-the-revolution-in-vegas-pro-gaming/"><u>[Updated] '21 Edition Breakdown – Analyzing the Revolution in Vegas Pro Gaming</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-best-practices-for-non-audio-filming/"><u>[Updated] Best Practices for Non-Audio Filming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pickup-vs-competitors-an-incisive-review-of-androids-top-editor/"><u>2024 Approved PickUp Vs. Competitors An Incisive Review of Android's Top Editor</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/zing-the-frequency-of-youtube-payments/"><u>Analyzing the Frequency of YouTube Payments</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-communication-apps-signal-vs-whatsapp-unveiling-key-distinctions/"><u>Comparing Communication Apps: Signal Vs. WhatsApp - Unveiling Key Distinctions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-viewing-sequence-of-superman-cinematic-universe/"><u>Complete Guide: Viewing Sequence of Superman Cinematic Universe</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-free-cad-solutions-of-today/"><u>Discover the Leading Free CAD Solutions of Today!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-using-high-dynamic-range-auto-hdr-in-windows-11/"><u>Mastering the Art of Using High Dynamic Range (Auto HDR) in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/most-popular-teen-movies-for-watch-on-netflix/"><u>Most Popular Teen Movies for Watch on Netflix</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimized-with-cookiebot-technology/"><u>Optimized with Cookiebot Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-to-take-screenshots-on-an-hp-laptop-or-pc/"><u>The Complete Walkthrough to Take Screenshots on an HP Laptop or PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-ultimate-inflatable-swimming-pools-simple-assembly-and-ideal-choices/"><u>Top 5 Ultimate Inflatable Swimming Pools - Simple Assembly & Ideal Choices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-functionality-of-smartwatches-a-comprehensive-guide/"><u>Understanding the Functionality of Smartwatches: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watch-how-to-train-your-dragon-saga-from-beginning-to-end-the-official-film-lineup/"><u>Watch How to Train Your Dragon Saga From Beginning to End: The Official Film Lineup.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-is-aim-unraveling-the-story-behind-aols-instant-messenger/"><u>What Is AIM? Unraveling the Story Behind AOL's Instant Messenger</u></a></li>
 </ul></div>
 

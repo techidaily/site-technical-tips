@@ -1,7 +1,7 @@
 ---
 title: ZDNet Exposes Apple's Secret Plans for Intelligent Household Assistants and Related Innovations
-date: 2024-11-04T22:49:50.625Z
-updated: 2024-11-05T18:52:00.458Z
+date: 2024-11-11T16:08:41.043Z
+updated: 2024-11-16T06:40:36.288Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -60,10 +60,10 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -77,10 +77,10 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -125,21 +125,24 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-concept-to-completion-crafting-your-youtube-masterpiece/"><u>[New] 2024 Approved From Concept to Completion Crafting Your YouTube Masterpiece</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-virtual-artisans-haven-retreat/"><u>[Updated] 2024 Approved Virtual Artisans' Haven Retreat</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-basic-tips-for-windows-clown-phonetics-modification/"><u>[Updated] Basic Tips for Windows Clown Phonetics Modification</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-epson-l31-driver-for-your-pc-supports-windows-11-8-and-7/"><u>Get the Newest Epson L31# Driver for Your PC – Supports Windows 11, 8 & 7</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-freeform-thinking-boosts-creativity-discover-the-benefits-of-using-this-technique-in-your-brainstorming-sessions-zdnet/"><u>How Freeform Thinking Boosts Creativity: Discover the Benefits of Using This Technique in Your Brainstorming Sessions | ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-realme-gt-neo-5-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Realme GT Neo 5 Quickly? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-d3dx928dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_28.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-y100i-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo Y100i Without PUK Codes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-clarity-perfect-settings-for-viewing-content-on-your-samsung-uhd-tv/"><u>Mastering Clarity: Perfect Settings for Viewing Content on Your Samsung UHD TV</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/quick-guide-transforming-microsoft-365-email-accounts-into-portable-pst-formats/"><u>Quick Guide: Transforming Microsoft 365 Email Accounts Into Portable PST Formats</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/score-the-ideal-festive-apple-pad-bargains-expert-list-by-zdnet/"><u>Score the Ideal Festive Apple Pad Bargains - Expert List by ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-windows-1n-repeated-reboot-problem-with-simple-steps/"><u>Solving the Windows 1N Repeated Reboot Problem with Simple Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-future-of-tablet-displays-unveiling-insights-from-apples-ipad-pro-with-tandem-oled-technology-zdnet/"><u>The Future of Tablet Displays: Unveiling Insights From Apple's iPad Pro with Tandem OLED Technology | ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-magsafe-power-solutions-comprehensive-testing-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated MagSafe Power Solutions : Comprehensive Testing & Reviews by Tech Gurus | ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-choosing-your-perfect-ipad-why-the-m2-powered-ipad-air-is-a-must-have/"><u>Ultimate Guide to Choosing Your Perfect iPad: Why the M2-Powered iPad Air Is a Must-Have</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-shared-sights-behind-the-memeayer/"><u>[Updated] 2024 Approved Shared Sights Behind the Meme'ayer</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-az-capture-extraordinaire-thorough-app-reviews-for-2024/"><u>[Updated] AZ Capture Extraordinaire Thorough App Reviews for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-enhancing-engagement-through-thoughtful-youtube-tags-for-2024/"><u>[Updated] Enhancing Engagement Through Thoughtful YouTube Tags for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-latest-tcls-expanded-range-of-19-new-q-and-s-class-smart-televisions/"><u>Discover the Latest: TCL's Expanded Range of 19 New Q and S Class Smart Televisions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-reducing-windows-10s-memory-overuse-problem/"><u>Effective Solutions for Reducing Windows 10'S Memory Overuse Problem</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/te-your-video-rankings-with-effective-seo-tactics/"><u>Elevate Your Video Rankings with Effective SEO Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719359918304-error-handling-strategies/"><u>Error Handling Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-new-frontier-in-phones-with-samsungs-latest-release/"><u>Exploring the New Frontier in Phones with Samsung's Latest Release</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-it-now-enable-your-windows-11-file-sharing-and-backup-functionality/"><u>Fix It Now: Enable Your Windows 11 File Sharing & Backup Functionality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-novice-to-ninja-easy-pc-strategies-for-playing-fortnite-as-a-newbie/"><u>From Novice to Ninja: Easy PC Strategies for Playing Fortnite as a Newbie</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-send-and-receive-faxes-for-free-online-the-leading-options/"><u>How to Send & Receive Faxes for Free Online – The Leading Options</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-itel-a60-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Itel A60 Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-xs-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone XS Max After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-building-with-expert-advice-from-toms-system-insights/"><u>Mastering PC Building with Expert Advice From Tom's System Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-wireless-network-authentication-for-optimal-android-connectivity/"><u>Reviving Wireless Network Authentication for Optimal Android Connectivity</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210266247-9781591434344-the-empires-of-atlantis/"><u>The Empires of Atlantis | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-photographers-secret-weapon-mastering-selfie-lights-for-stunning-results/"><u>The Photographer's Secret Weapon: Mastering Selfie Lights for Stunning Results</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-strategy-for-rectifying-error-code-0x80004005/"><u>The Ultimate Strategy for Rectifying Error Code 0X80004005</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/verbesserung-und-wiederherstellung-hochauflosender-bilder-4k/"><u>Verbesserung Und Wiederherstellung Hochauflösender Bilder (4K,</u></a></li>
 </ul></div>
 

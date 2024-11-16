@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Latest Innovations in iPadOS for Generation iPads at 2024 WWDC: The Features You Can't Miss!"
-date: 2024-11-04T18:21:34.936Z
-updated: 2024-11-05T21:17:29.279Z
+date: 2024-11-13T02:05:59.059Z
+updated: 2024-11-16T03:21:02.978Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -69,10 +76,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -93,13 +100,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -114,13 +114,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -132,10 +125,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -148,6 +141,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -218,18 +218,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-sponsoring-made-simple-boosting-your-channel-budget-efficiently/"><u>[Updated] Sponsoring Made Simple Boosting Your Channel Budget Efficiently</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unveiling-2023s-most-efficient-tools-for-fb-lite-videos-download/"><u>[Updated] Unveiling 2023'S Most Efficient Tools for FB Lite Videos Download</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connecting-with-snapchat-customer-service-best-practices-and-methods/"><u>Connecting with Snapchat Customer Service: Best Practices and Methods</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/converti-i-tuoi-film-con-facilita-il-top-tier-software-dvdvideo-di-digiarty/"><u>Converti I Tuoi Film Con Facilità - Il Top-Tier Software DVD/Video Di Digiarty</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-wireless-standards-an-in-depth-look-at-80211bgn-be-ax-ac-and-a/"><u>Decoding Wireless Standards: An In-Depth Look at 802.11B/G/N, Be, Ax, Ac & A</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-guide-setting-up-your-speakers-correctly-on-windows-11/"><u>Easy Guide: Setting Up Your Speakers Correctly on Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-halting-automatic-song-selection-in-apple-music/"><u>Guide: Halting Automatic Song Selection in Apple Music</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-samsung-galaxy-s23-ultra-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Samsung Galaxy S23 Ultra ?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oneplus-nord-3-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from OnePlus Nord 3 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-art-of-restoring-your-lenovo-workstation-by-factory-defaults/"><u>Master the Art of Restoring Your Lenovo Workstation by Factory Defaults</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/mastering-soundtrack-addition-to-social-media-videos-on-facebook/"><u>Mastering Soundtrack Addition to Social Media Videos on Facebook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/spotlight-must-see-lgbtqplus-tv-shows-currently-available-on-netflix/"><u>Spotlight: Must-See LGBTQ+ TV Shows Currently Available on Netflix</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-future-is-now-a-comprehensive-review-of-verizons-5g-capabilities/"><u>The Future Is Now: A Comprehensive Review of Verizon’s 5G Capabilities</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-our-picks-the-best-free-cad-solutions-available-today/"><u>Discover Our Picks: The Best Free CAD Solutions Available Today</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-microsoft-surface-pro-4-drivers-on-windows-step-by-step-guide/"><u>Download and Install Microsoft Surface Pro 4 Drivers on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-repair-libexec32dll-not-found-error-quickly/"><u>How To Repair 'libexec32.dll Not Found' Error Quickly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-note-12-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi Note 12 5G Lock Screen Password?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/instant-improvement-in-visuals-the-canva-technique-for-borderless-images/"><u>Instant Improvement in Visuals The Canva Technique for Borderless Images</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/key-principles-to-deliver-dynamic-ppt-in-online-meets-for-2024/"><u>Key Principles to Deliver Dynamic PPT in Online Meets for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-magiccard-rio-pro-driver-version-available-for-windows-users-download-today/"><u>Latest Magiccard Rio Pro Driver Version Available for Windows Users! Download Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-windows-10-privacy-how-to-turn-network-discovery-on-and-off/"><u>Mastering Windows 10 Privacy: How to Turn Network Discovery On and Off</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplifying-your-searches-using-google-gemini-explained/"><u>Simplifying Your Searches Using Google Gemini Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-integrating-subtitles-and-descriptive-text-onto-your-insta-stories/"><u>The Complete Walkthrough: Integrating Subtitles and Descriptive Text Onto Your Insta-Stories</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-inside-scoop-on-elon-musks-cutting-edge-project-understanding-truthgpt/"><u>The Inside Scoop on Elon Musk's Cutting-Edge Project: Understanding TruthGPT</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-x100-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo X100 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-strategies-for-eliminating-pc-gaming-lags/"><u>Top Strategies for Eliminating PC Gaming Lags</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-comctl32dll-not-found-issues-on-your-pc/"><u>Troubleshooting Comctl32.dll Not Found Issues on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-twitch-connectivity-problems-server-downtime-or-user-error/"><u>Troubleshooting Twitch Connectivity Problems – Server Downtime or User Error?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-snapchats-secret-language-a-definitive-guide-to-emoji-interpretations/"><u>Understanding Snapchat's Secret Language: A Definitive Guide to Emoji Interpretations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-cross-platform-use-how-to-operate-android-apps-in-windows-10-environment/"><u>Unlocking Cross-Platform Use: How to Operate Android Apps in Windows 10 Environment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-potential-of-channels-on-lg-electronics-products/"><u>Unlocking the Potential of Channels on LG Electronics Products</u></a></li>
+<li><a href="https://fox-place.techidaily.com/winmac-sd/"><u>マシンごとに、WinまたはMac - SDカードから消えたファイルの回復法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Future of Tech Unveiled at Sony State of Play 2024 – Top Announcements
-date: 2024-10-29T21:32:43.543Z
-updated: 2024-11-05T16:33:16.934Z
+date: 2024-11-08T23:34:21.863Z
+updated: 2024-11-16T00:03:56.546Z
 categories:
   - BestProducts
 description: This Article Describes The Future of Tech Unveiled at Sony State of Play 2024 – Top Announcements
@@ -31,10 +31,10 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
  Sony hasn't announced its next State of Play. The most recent one was May 30, 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Which Products Will Be Announced?
@@ -44,10 +44,10 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
  The last event introduced 14 PS5 and PS VR2 titles from both PlayStation Studios developers and third-party companies.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Did Sony Announce at the Last State of Play?
@@ -74,10 +74,10 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
 * Mascot character Astro Bot, who taught us all how to play our PlayStation 5s in_Astro's Playroom_ , is back for a new adventure in_Astro Bot_ . This platformer will feature new worlds, costumes based on iconic PlayStation characters like Nathan Drake, Kratos, and Aloy, and a huge starship shaped like the PS5 console. It's coming September 6.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Stream and Watch Sony State of Play
@@ -85,16 +85,10 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
  State of Play events are streamed on PlayStation's[ Twitch](https://www.twitch.tv/playstation) ,[ YouTube](https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA) , and[ TikTok](https://www.tiktok.com/@playstation) channels. You can watch the May 30 event below:
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Latest Sony and Other Gaming News
@@ -122,22 +116,18 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-precision-in-panorama-steadying-the-gopro-sight/"><u>[New] Precision in Panorama Steadying the GoPro Sight</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-increase-your-influence-on-instagram-5-proven-methods-with-case-studies/"><u>2024 Approved Increase Your Influence on Instagram 5 Proven Methods with Case Studies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-latest-showdown-comparing-the-m3-and-m1-macbook-pro-upgrade-or-stick-with-your-current-model-insights-from-zdnet/"><u>Apple's Latest Showdown: Comparing the M3 and M1 MacBook Pro – Upgrade or Stick with Your Current Model? Insights From ZDNet.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/costly-factors-preventing-new-apple-ai-tech-from-landing-on-older-iphones-explored/"><u>Costly Factors Preventing New Apple AI Tech From Landing on Older iPhones, Explored</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/elevate-your-zoom-sessions-utilizing-filters-effectively-for-2024/"><u>Elevate Your Zoom Sessions Utilizing Filters Effectively for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-using-craft-top-features-of-the-best-document-creation-app-for-macos-users/"><u>Expert Tips for Using Craft: Top Features of the Best Document Creation App for macOS Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-correct-visible-vertical-or-horizontal-distortions-on-your-screen/"><u>How to Correct Visible Vertical or Horizontal Distortions on Your Screen</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-extracting-vimeo-videos-for-mp3-playback/"><u>In 2024, Extracting Vimeo Videos for MP3 Playback</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-x50-gt-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor X50 GT to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-leading-the-way-in-efficient-meeting-recording-zooms-finest-tools-reviewed/"><u>In 2024, Leading the Way in Efficient Meeting Recording Zoom’s Finest Tools Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-budget-friendly-timer-tools/"><u>In 2024, Top Budget-Friendly Timer Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/innovative-visionaries-choice-top-10-graphics-creation-apps/"><u>Innovative Visionaries' Choice Top 10 Graphics Creation Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/instant-download-of-amd-ryzen-5-2400g-drivers-seamless-setup-tips/"><u>Instant Download of AMD Ryzen 5 2400G Drivers - Seamless Setup Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ios-18-unveiled-expert-strategies-for-customizing-apples-control-center-features-insights-by-zdnet/"><u>IOS 18 Unveiled: Expert Strategies for Customizing Apple's Control Center Features – Insights by ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-fix-apple-greenlights-refurbishing-old-components-for-selective-repair-services-insights/"><u>IPhone Fix: Apple Greenlights Refurbishing Old Components for Selective Repair Services - Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-effective-ways-to-deep-clean-your-mechanical-keyboard/"><u>Step-by-Step Guide: Effective Ways to Deep Clean Your Mechanical Keyboard</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-rcs-technology-an-in-depth-guide/"><u>Understanding RCS Technology: An In-Depth Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hd-to-uhd-seamless-video-transformations/"><u>[New] HD to UHD Seamless Video Transformations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-15-online-haven-for-your-favorite-ringtone-files/"><u>[New] Top 15 Online Haven for Your Favorite Ringtone Files</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-enhance-streaming-quality-non-xplit-choices-for-2024/"><u>[Updated] Enhance Streaming Quality Non-Xplit Choices for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-videography-7-free-sound-effects-collection/"><u>[Updated] In 2024, Elevate Your Videography - 7 Free Sound Effects Collection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-ring-sound-repeat-a-comprehensible-guide-to-personalization-on-android-devices/"><u>[Updated] Ring, Sound, Repeat A Comprehensible Guide to Personalization on Android Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-why-openai-leads-the-charge-in-advocacy-for-stricter-ai-oversight/"><u>Deciphering Why OpenAI Leads the Charge in Advocacy for Stricter AI Oversight</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/effective-guide-mastering-data-restoration-with-apowerrecover/"><u>Effective Guide: Mastering Data Restoration with ApowerRecover</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-approaches-to-network-broadcast-with-vlc/"><u>In 2024, Innovative Approaches to Network Broadcast with VLC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-your-pc-specs-easily-check-ram-on-windows-devices-today/"><u>Mastering Your PC Specs: Easily Check RAM on Windows Devices Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximizing-frame-rates-effective-strategies-to-enhance-fps-in-the-game-rust/"><u>Maximizing Frame Rates: Effective Strategies to Enhance FPS in the Game 'Rust'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pairing-bluetooth-earbuds-with-sony-ps4-detailed-instructions-and-visual-aids-included/"><u>Pairing Bluetooth Earbuds with Sony PS4 - Detailed Instructions and Visual Aids Included</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-guide-opening-the-windows-10-boot-menu/"><u>Quick Guide: Opening the Windows 10 Boot Menu</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/say-goodbye-to-sticky-windows-keyboard-keys-with-this-step-by-step-solution/"><u>Say Goodbye to Sticky Windows Keyboard Keys with This Step-by-Step Solution</u></a></li>
 </ul></div>
 

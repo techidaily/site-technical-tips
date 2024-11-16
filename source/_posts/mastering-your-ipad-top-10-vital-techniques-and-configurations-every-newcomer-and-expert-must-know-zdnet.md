@@ -1,7 +1,7 @@
 ---
 title: Mastering Your iPad? Top 10 Vital Techniques and Configurations Every Newcomer and Expert Must Know | ZDNET
-date: 2024-11-02T00:10:30.301Z
-updated: 2024-11-05T21:42:12.235Z
+date: 2024-11-09T23:19:12.289Z
+updated: 2024-11-16T06:12:52.374Z
 tags:
   - apple
 categories:
@@ -55,10 +55,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
@@ -81,6 +87,13 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Low Power Mode can quickly become your best friend
 
 There's no doubt that iPads (especially some of the more recent models) have great battery life. My iPad cruises easily through a full day of use before conking out at bedtime. But that's only true if you limit the amount of heavy lifting you put your iPad through. If you're editing photos or videos, playing lots of games, or using it on a spotty Wi-Fi network for very long, it's going to die sooner than you expect.
@@ -90,13 +103,6 @@ There's no doubt that iPads (especially some of the more recent models) have gre
 That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit your screen brightness and refresh rate, disable features like background app refresh and iCloud photo syncing, limit visual effects, and more. These sacrifices will be well worth it, though, when you realize they can add another hour or two of endurance to your iPad -- all with the tap of a button.
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Hide your notifications from prying eyes
 
@@ -118,6 +124,19 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -127,10 +146,10 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
@@ -140,13 +159,6 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -188,19 +200,20 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-much-do-youtube-clips-pay-per-view-in-2024/"><u>[New] How Much Do YouTube Clips Pay Per View, In 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-vision-quest-steps-to-secure-your-dream-4k-screen/"><u>[New] In 2024, Vision Quest Steps to Secure Your Dream 4K Screen</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-expert-techniques-for-crafting-high-end-gopro-vlogs/"><u>[Updated] 2024 Approved Expert Techniques for Crafting High-End GoPro Vlogs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audacity-sound-device-problem-here-are-5-effective-solutions/"><u>Audacity Sound Device Problem? Here Are 5 Effective Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/elevate-your-emergency-readiness-and-cut-costs-by-100plus-with-the-best-solar-power-station-zdnet/"><u>Elevate Your Emergency Readiness & Cut Costs by $100+ with the Best Solar Power Station | ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-nvidia-quadro-graphics-driver-for-windows-11-secure-your-optimal-performance-now/"><u>Get the Newest NVIDIA Quadro Graphics Driver for Windows 11 – Secure Your Optimal Performance Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-removing-included-apps-on-apples-iphone-without-jailbreaking/"><u>Guide: Removing Included Apps on Apple's iPhone Without Jailbreaking</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/harness-the-power-of-meta-ai-to-transform-your-instagram-marketing-game/"><u>Harness the Power of Meta AI to Transform Your Instagram Marketing Game</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-apple-iphone-6-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass Apple iPhone 6 Activation Lock</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722889326189-macbook-pro-keyboard-woes-discover-how-to-revive-unresponsive-keys/"><u>MacBook Pro Keyboard Woes? Discover How to Revive Unresponsive Keys!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-issue-unresponsive-roku-television-powering-up-tips/"><u>Solving the Issue: Unresponsive Roku Television - Powering Up Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-steam-disk-writing-issue-a-comprehensive-guide/"><u>Solving the Steam Disk Writing Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-essential-factors-for-selecting-the-perfect-smartwatch/"><u>Top 5 Essential Factors for Selecting the Perfect Smartwatch</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-showdown-pros-and-cons-of-the-apple-watch-s9-vs-fitbits-charge/"><u>Ultimate Showdown: Pros and Cons of the Apple Watch S9 vs Fitbit's Charge</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-video-reversal-on-ios-devices-for-2024/"><u>[New] Mastering Video Reversal on iOS Devices for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-navigating-url-integration-in-ig-stories-and-posts/"><u>[Updated] 2024 Approved Navigating URL Integration in IG Stories and Posts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unlock-creative-potential-in-photography-top-15-tricks-for-using-pixlr/"><u>[Updated] Unlock Creative Potential in Photography Top 15 Tricks for Using Pixlr</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/convert-any-video-file-to-mp4-or-mov-with-movavis-web-based-tool-start-your-free-trial/"><u>Convert Any Video File to MP4 or MOV with Movavi's Web-Based Tool - Start Your Free Trial</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-the-world-of-minecraft-plugins-the-new-non-mod-enhancements/"><u>Discover the World of Minecraft Plugins: The New Non-Mod Enhancements</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-nord-n30-5g-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Nord N30 5G’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-motorola-moto-g24-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Motorola Moto G24 is off? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/lenovo-device-reboot-mastering-the-process-of-a-clean-system-installation/"><u>Lenovo Device Reboot: Mastering the Process of a Clean System Installation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-convenience-setting-up-seamless-sign-in-for-windows-users/"><u>Mastering Convenience: Setting Up Seamless Sign-In for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-3-pc-stutter-and-crash-effective-fixes-to-enhance-playability/"><u>Modern Warfare 3 PC Stutter and Crash: Effective Fixes to Enhance Playability</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-watch-call-handling-identifying-and-correcting-non-responsive-behavior/"><u>Samsung Galaxy Watch Call Handling: Identifying & Correcting Non-Responsive Behavior</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-battle-of-streaming-devices-examining-the-differences-between-roku-express-and-stick/"><u>The Battle of Streaming Devices: Examining the Differences Between Roku Express and Stick</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-http-status-code-401-step-by-step-tips/"><u>Troubleshooting HTTP Status Code 401 – Step-by-Step Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-a-comprehensive-guide-on-securing-your-microsoft-education-offer/"><u>Unlocking the Secrets: A Comprehensive Guide on Securing Your Microsoft Education Offer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/updated-august-2024-your-ultimate-resource-for-d-link-default-login-credentials/"><u>Updated August 2024: Your Ultimate Resource for D-Link Default Login Credentials</u></a></li>
 </ul></div>
 

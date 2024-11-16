@@ -1,7 +1,7 @@
 ---
 title: "Discover Apple's Latest Enhancements: Top 4 New Features in Updated AirPod Models - ZDNet"
-date: 2024-11-04T18:18:57.066Z
-updated: 2024-11-05T22:27:01.794Z
+date: 2024-11-09T16:32:23.150Z
+updated: 2024-11-16T00:47:44.274Z
 tags:
   - apple
 categories:
@@ -39,22 +39,15 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Pause your rings
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
 
@@ -67,10 +60,10 @@ The feature plays into the Apple Watch's cycle-tracking experience, so everythin
 Apple
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More widgets for your Smart Stack, including Live Activities
@@ -97,9 +90,23 @@ Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
 
@@ -118,13 +125,6 @@ Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhi
 ## 11\. Tickets in your Wallet get an upgrade
 
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
 
@@ -160,22 +160,21 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-creating-an-efficient-framework-for-ps3-game-screencasts/"><u>[New] 2024 Approved Creating an Efficient Framework for PS3 Game Screencasts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-essential-guide-to-capturing-vr-gaming-sessions/"><u>[New] Essential Guide to Capturing VR Gaming Sessions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-unraveling-successs-secrets-how-to-amass-more-subscribers-on-youtube/"><u>[New] Unraveling Success's Secrets How to Amass More Subscribers on YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-shade-smarts-mastering-the-art-of-color-correction-with-speed/"><u>2024 Approved Shade Smarts Mastering the Art of Color Correction with Speed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-issues-alert-on-advanced-spyware-threats-targeting-iphones-are-your-devices-safe/"><u>Apple Issues Alert on Advanced Spyware Threats Targeting iPhones - Are Your Devices Safe?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-watch-woes-understanding-and-resolving-the-phantom-touch-dilemma-expert-advice-from-zdnet/"><u>Apple Watch Woes: Understanding and Resolving the Phantom Touch Dilemma | Expert Advice From ZDNet</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/drone-dynamics-yuneecs-4k-flight-exploration-for-2024/"><u>Drone Dynamics Yuneec's 4K Flight Exploration for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-reasons-behind-youtube-malfunctions-and-how-to-overcome-them/"><u>Exploring Reasons Behind YouTube Malfunctions and How to Overcome Them</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-restore-keyboard-light-up-functionality-on-mac-and-windows-systems/"><u>Fixing the Issue: How to Restore Keyboard Light Up Functionality on Mac and Windows Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/innovative-macpaw-solution-an-iphone-app-store-substitute-adapting-to-latest-policy-changes-insights/"><u>Innovative MacPaw Solution: An iPhone App Store Substitute Adapting to Latest Policy Changes - Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-libcurldll-deficiency-methods-to-address-file-errors/"><u>Solving the libcurl.dll Deficiency: Methods to Address File Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-case-for-how-win11-wins-over-macos/"><u>The Case For: How Win11 Wins over macOS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-repairing-msvcrtdll-could-not-be-located-error-messages/"><u>Troubleshooting and Repairing 'MSVCRT.DLL Could Not Be Located' Error Messages</u></a></li>
-<li><a href="https://driver-download.techidaily.com/tutorial-on-securing-your-asus-wireless-internet-connection-with-updated-drivers/"><u>Tutorial on Securing Your ASUS Wireless Internet Connection with Updated Drivers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unboxing-savings-alert-score-an-unbelievable-price-on-apple-watch-series-10-only-99-when-you-preorder-now-at-best-buy/"><u>Unboxing Savings Alert: Score an Unbelievable Price on Apple Watch Series 10 - Only $99 When You Preorder Now at Best Buy</u></a></li>
-<li><a href="https://games-able.techidaily.com/virtual-team-players-curated-list-of-cross-platform-pals/"><u>Virtual Team Players: Curated List of Cross-Platform Pals</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/whos-peeking-learn-how-to-spot-the-names-of-those-who-have-reviewed-your-google-doc/"><u>Who's Peeking? Learn How to Spot the Names of Those Who Have Reviewed Your Google Doc</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ultimate-free-stopwatches-without-a-price-tag/"><u>[Updated] Ultimate Free Stopwatches Without a Price Tag</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/banish-libxml2dll-not-found-messages-proven-fixes-to-get-your-system-running-again/"><u>Banish 'Libxml2.dll Not Found' Messages: Proven Fixes to Get Your System Running Again</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/efficient-techniques-for-unwrapping-backgrounds-in-affinity-photo/"><u>Efficient Techniques for Unwrapping Backgrounds in Affinity Photo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-top-5-free-alternatives-to-skype-in-2e-e/"><u>Explore the Top 5 Free Alternatives to Skype in 2E! (E)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instagram-writers-and-broadcasters-podcast-sharing-explained-for-2024/"><u>Instagram’ Writers & Broadcasters Podcast Sharing Explained for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/multiple-bluetooth-audio-devices-sync-with-one-the-ultimate-tutorial/"><u>Multiple Bluetooth Audio Devices Sync with One: The Ultimate Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-common-challenges-with-windows-10/"><u>Overcoming Common Challenges with Windows 지구류 10 검색기</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-editors-roadmap-to-perfection-in-fcp/"><u>The Editor's Roadmap to Perfection in FCP</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-factors-to-evaluate-when-purchasing-pre-owned-ipads/"><u>Top 5 Factors to Evaluate When Purchasing Pre-Owned iPads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-strategies-to-find-your-ideal-selfie-extension/"><u>Top 6 Strategies to Find Your Ideal Selfie Extension</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshoot-youtube-stuttering-with-easy-and-free-techniques/"><u>Troubleshoot YouTube Stuttering with Easy & Free Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-solving-the-mystery-of-the-disappearing-wlanapidll-file/"><u>Understanding and Solving The Mystery of the Disappearing WLANAPI.DLL File</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-rules-owning-and-operating-multiple-youtube-channels/"><u>Understanding the Rules: Owning and Operating Multiple YouTube Channels</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-toms-hardware-insights/"><u>Unveiling the Latest in Computing - Tom's Hardware Insights</u></a></li>
+<li><a href="https://fox-links.techidaily.com/vivid-color-equilibrium-for-2024/"><u>Vivid Color Equilibrium for 2024</u></a></li>
 </ul></div>
 

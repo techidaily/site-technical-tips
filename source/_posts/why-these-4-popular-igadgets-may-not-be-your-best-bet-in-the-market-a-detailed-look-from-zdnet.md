@@ -1,7 +1,7 @@
 ---
 title: "Why These 4 Popular iGadgets May Not Be Your Best Bet in the Market: A Detailed Look From ZDNet"
-date: 2024-10-31T20:11:07.876Z
-updated: 2024-11-05T20:24:42.052Z
+date: 2024-11-11T03:32:37.975Z
+updated: 2024-11-16T05:57:04.825Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,16 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -135,24 +129,24 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-shoot-igtv-videos-with-smartphonedlsr-cameras/"><u>[New] In 2024, How to Shoot IGTV Videos With Smartphone/DLSR Cameras?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-step-by-step-screen-record-your-win10-game-log-for-2024/"><u>[New] Step-by-Step Screen Record Your Win10 Game Log for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-top-beauty-brands-with-powerful-youtubers-for-2024/"><u>[New] The Top Beauty Brands with Powerful YouTubers for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-essential-guide-for-instagram-video-uploads-from-pcmac/"><u>[Updated] In 2024, The Essential Guide for Instagram Video Uploads From PC/Mac</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-making-a-lasting-impact-with-office-meetings-via-snap-camera/"><u>2024 Approved Making a Lasting Impact with Office Meetings via Snap Camera</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-y200e-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo Y200e 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-initiates-compensation-process-for-eligible-macbook-buyers-under-class-action-resolution-insights-from-zdnet/"><u>Apple Initiates Compensation Process for Eligible MacBook Buyers Under Class Action Resolution - Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-showcases-enhanced-demo-experience-secrets-and-steps-for-booking-your-session/"><u>Apple Vision Pro Showcases Enhanced Demo Experience – Secrets & Steps for Booking Your Session</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-latest-endeavor-discover-whats-brewing-with-its-new-game-mode-top-3-insights-revealed-zdnet/"><u>Apple's Latest Endeavor: Discover What's Brewing with Its New Game Mode - Top 3 Insights Revealed | ZDNET</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/epitaph-to-entertainment-picking-the-ultimate-zombie-games/"><u>Epitaph to Entertainment Picking the Ultimate Zombie Games</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-experience-the-full-story-of-x-men-in-sequential-movie-marathon/"><u>How to Experience the Full Story of X-Men in Sequential Movie Marathon</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/latest-microsoft-os-enhancements-breaking-down-the-july-2024-patch-releases/"><u>Latest Microsoft OS Enhancements: Breaking Down the July 2024 Patch Releases</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/most-popular-free-photography-and-film-archives-for-2024/"><u>Most Popular Free Photography and Film Archives for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revamp-your-mac-applications-with-ease-exploring-the-top-two-updates-methods/"><u>Revamp Your Mac Applications with Ease: Exploring the Top Two Updates Methods</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simplify-your-inbox-discover-the-simple-method-to-clear-out-messages-without-needing-separate-accounts-techtips/"><u>Simplify Your Inbox: Discover the Simple Method to Clear Out Messages Without Needing Separate Accounts! | TechTips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-iphone-se-cases-in-202-similar-problem/"><u>Ultimate Guide to iPhone SE Cases in 202 # Similar Problem</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-elite-selection-of-key-finder-gadgets-in-2n24/"><u>Unveiling the Elite Selection of Key Finder Gadgets in 2N24</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-boxes-that-speak-love-the-top-10-websites-offering-custom-wrapped-treasures/"><u>[New] In 2024, Boxes That Speak Love The Top 10 Websites Offering Custom Wrapped Treasures</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-broadcast-brilliance-how-to-prevent-live-video-halts-on-facebook/"><u>[New] In 2024, Broadcast Brilliance How to Prevent Live Video Halts on Facebook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-superheroes-clash-black-vs-silver/"><u>[New] In 2024, Superheroes Clash BLACK vs SILVER</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-jocular-video-hacker-review/"><u>[New] Jocular Video Hacker Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitgrabber-mobile-app-for-downloading-tweets-videos/"><u>[New] TwitGrabber Mobile App for Downloading Tweets' Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweeting-to-whatsapp-direct-video-distribution/"><u>[Updated] In 2024, Tweeting to WhatsApp Direct Video Distribution</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-assessing-luminance-for-hd-raises-questions/"><u>2024 Approved Assessing Luminance for HD Raises Questions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-cost-effective-media-providers-online/"><u>2024 Approved The Ultimate Guide to Cost-Effective Media Providers Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieve-mastery-in-asl-access-these-16-free-learning-tools/"><u>Achieve Mastery in ASL: Access These 16 Free Learning Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bring-back-your-snapstreaks-the-process-of-restoring-your-snapchat-profile/"><u>Bring Back Your Snapstreaks: The Process of Restoring Your Snapchat Profile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-an-ideal-surge-protector-a-guide-for-your-electronic-devices/"><u>Choosing an Ideal Surge Protector: A Guide for Your Electronic Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/first-steps-in-home-audio-an-in-depth-guide-for-the-uninitiated/"><u>First Steps in Home Audio: An In-Depth Guide for the Uninitiated</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-iphone-xs-max-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On iPhone XS Max If Youve Tried Everything</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-motorola-moto-g23-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Motorola Moto G23 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quieten-down-that-unsettling-sound-effective-techniques-for-silencing-a-loud-computer-fan/"><u>Quieten Down that Unsettling Sound: Effective Techniques for Silencing a Loud Computer Fan</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-walkthrough-for-completely-restoring-your-dell-laptop-settings/"><u>The Definitive Walkthrough for Completely Restoring Your Dell Laptop Settings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-strategies-to-lock-in-your-key-chat-threads-as-favorites-on-instagram/"><u>Top Strategies to Lock in Your Key Chat Threads as Favorites on Instagram</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-vcompdll-error-file-missing-or-corrupted/"><u>Ultimate Guide: Resolving vcomp.dll Error - File Missing or Corrupted</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-is-apples-most-current-macbook-version-on-the-market/"><u>What Is Apple's Most Current MacBook Version on the Market?</u></a></li>
 </ul></div>
 

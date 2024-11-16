@@ -1,7 +1,7 @@
 ---
 title: "Ahead of the Curve: Meta Quest 3 Launches Pre-Vision Pro AI Capabilities - How to Activate Them | ZDNET"
-date: 2024-11-04T21:40:36.335Z
-updated: 2024-11-05T22:12:26.177Z
+date: 2024-11-14T01:24:15.727Z
+updated: 2024-11-15T20:53:21.925Z
 tags:
   - apple
 categories:
@@ -63,10 +63,10 @@ Once the app is installed, navigate to the TestFlight icon on your Home screen. 
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Running TestFlight for the first time
@@ -90,10 +90,10 @@ Screenshot by David Gewirtz/ZDNET
 Next, let's look at running an app. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Running a beta release app using TestFlight
@@ -181,22 +181,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-fabricate-funnier-photos-for-2024/"><u>[New] Fabricate Funnier Photos for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-efficient-facebook-video-upload-on-computer-and-mobile-systems/"><u>[Updated] Efficient Facebook Video Upload on Computer & Mobile Systems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-vibrance-grading-secrets-in-ps/"><u>2024 Approved Unleashing Vibrance Grading Secrets in PS</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlocking-organic-growth-your-afb-playbook/"><u>2024 Approved Unlocking Organic Growth Your AFB Playbook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-eyes-innovative-vital-signs-monitoring-respiratory-feature-for-upcoming-vision-pro-insider-update-from-zdnet/"><u>Apple Eyes Innovative 'Vital Signs Monitoring', Respiratory Feature For Upcoming Vision Pro: Insider Update From ZDNet</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/cing-online-privacy-youtubes-access-controls/"><u>Enhancing Online Privacy YouTube's Access Controls</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/immediate-purchase-options-for-apples-new-releases-post-wwdc-discover-locations-and-preorder-steps-zdnet/"><u>Immediate Purchase Options for Apple's New Releases Post-WWDC - Discover Locations & Preorder Steps | ZDNET</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-starting-and-participating-in-zoom-meetings-from-android-devices/"><u>In 2024, Starting and Participating in Zoom Meetings From Android Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-total-gaze-coverage-camera-analysis/"><u>In 2024, Total Gaze Coverage Camera Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-14-analysis-meeting-user-demands-punctually-reviewed/"><u>IPhone 14 Analysis - Meeting User Demands Punctually Reviewed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-seamless-device-integration-controlling-your-ipad-with-a-mac-using-apples-universal-control-unleash-the-magic/"><u>Mastering Seamless Device Integration: Controlling Your iPad with a Mac Using Apple's Universal Control - Unleash the Magic!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/premium-selection-of-fastest-recorders-for-2024/"><u>Premium Selection of Fastest Recorders for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/review-of-the-toughest-iphone-shield-by-apple-unveiling-its-revolutionary-security-aspect-zdnet-insights/"><u>Review of the Toughest iPhone Shield by Apple - Unveiling Its Revolutionary Security Aspect | ZDNET Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionizing-enterprise-productivity-top-5-companies-embrace-apple-vision-pros-game-changing-features-insights-from-zdnet/"><u>Revolutionizing Enterprise Productivity: Top 5 Companies Embrace Apple Vision Pro's Game-Changing Features - Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/sequential-viewing-a-step-by-step-guide-to-watching-dragon-ball-saga/"><u>Sequential Viewing: A Step-by-Step Guide to Watching Dragon Ball Saga</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-retailers-offering-discounts-on-ipad-pro-ipad-air-and-new-apple-pencil-pro-secure-your-early-bird-preorder-today/"><u>Top Retailers Offering Discounts on iPad Pro, iPad Air & New Apple Pencil Pro: Secure Your Early Bird Preorder Today</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-your-imessages-were-undelivered-recently-a-breakdown-of-yesterdays-issues-insights/"><u>Why Your iMessages Were Undelivered Recently: A Breakdown of Yesterday's Issues - Insights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-legacy-linkup-suite/"><u>[New] In 2024, Legacy Linkup Suite</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-satirical-hits-the-funniest-song-rewrites/"><u>[New] Satirical Hits The Funniest Song Rewrites</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-academic-avenue-leading-educators-on-youtube/"><u>[Updated] 2024 Approved Academic Avenue Leading Educators on YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-silent-story-consumers-leading-anonymity-apps/"><u>2024 Approved Silent Story Consumers Leading Anonymity Apps</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-choosing-an-original-channel-moniker-a-guide-for-filmmakers-with-filmora/"><u>In 2024, Choosing an Original Channel Moniker A Guide for Filmmakers with Filmora</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unexpected-angle-alterations-in-instagram-video-posts/"><u>In 2024, Unexpected Angle Alterations in Instagram Video Posts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-academic-writing-leveraging-chatgpt-for-enhanced-research-and-essays/"><u>Mastering Academic Writing: Leveraging ChatGPT for Enhanced Research & Essays</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-your-laptops-potential-with-these-10-performance-boosting-tips/"><u>Maximize Your Laptop's Potential with These 10 Performance-Boosting Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimizing-your-pc-far-cry-5-essential-hardware-specs-and-expert-advice/"><u>Optimizing Your PC: Far Cry 5 Essential Hardware Specs & Expert Advice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-not-found-error-for-python24dll-file/"><u>Troubleshooting the 'Not Found' Error for Python24.dll File</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-freeing-up-storage-space-in-windows-10/"><u>Ultimate Guide: Freeing Up Storage Space in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-on-linking-laptop-and-television-through-hdmi-visual-steps-included/"><u>Ultimate Tutorial on Linking Laptop and Television Through HDMI – Visual Steps Included</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-fixing-sudden-system-failures-when-playing-games-on-your-computer/"><u>Understanding and Fixing Sudden System Failures When Playing Games on Your Computer</u></a></li>
 </ul></div>
 

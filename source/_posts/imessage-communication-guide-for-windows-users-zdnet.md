@@ -1,7 +1,7 @@
 ---
 title: IMessage Communication Guide for Windows Users | ZDNet
-date: 2024-11-02T17:34:52.376Z
-updated: 2024-11-05T16:27:05.849Z
+date: 2024-11-13T06:40:58.642Z
+updated: 2024-11-15T20:57:49.084Z
 tags:
   - apple
 categories:
@@ -62,6 +62,13 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -72,24 +79,31 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -103,13 +117,6 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
 
 ## 1\. Install Intel Unison
@@ -121,10 +128,10 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
@@ -139,37 +146,24 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -213,15 +207,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-gear-youtube-pros-choice-in-shaky-free-video-capture/"><u>[New] Top Gear YouTube Pros' Choice in Shaky-Free Video Capture</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-equipment-for-beginners-ultimate-guide/"><u>[Updated] YouTube Equipment for Beginners [Ultimate Guide]</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-audiovisual-success-recording-gotomeetings-easily/"><u>2024 Approved Audiovisual Success Recording GoToMeetings Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bridging-the-gap-between-ios-and-windows-with-facetime-integration-techniques/"><u>Bridging the Gap Between iOS & Windows with FaceTime Integration Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977293713-grab-your-gigabyte-auditory-drivers-now-no-cost/"><u>Grab Your Gigabyte Auditory Drivers Now - No Cost!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-install-non-apple-approved-ios-apps-safely-without-jailbreaking-a-guide/"><u>How to Install Non-Apple Approved iOS Apps Safely Without Jailbreaking - A Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-upcoming-apple-pay-later-transactions-may-impact-your-experian-credit-score-insights-from-zdnet/"><u>How Upcoming Apple Pay Later Transactions May Impact Your Experian Credit Score - Insights From ZDNet</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-unleash-your-creative-potential-with-these-top-explainer-video-tools/"><u>In 2024, Unleash Your Creative Potential with These Top Explainer Video Tools</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-logitech-g35-sound-card-drivers-for-windows-users-windows-7-to-1n0/"><u>Latest Logitech G35 Sound Card Drivers for Windows Users: Windows 7 to 1N0</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-ultimate-apple-watch-display-shields-of-2eplust6-in-depth-comparison-and-rankings-by-zdnet/"><u>Unveiling the Ultimate Apple Watch Display Shields of 2E+t6 | In-Depth Comparison & Rankings by ZDNET</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-no-more-costs-discover-best-free-camera-screen-recorder-apps/"><u>[New] 2024 Approved No More Costs? Discover Best FREE Camera Screen Recorder Apps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-puzzle-of-facebooks-status-emoji-unveiling-the-hidden-meaning/"><u>[New] In 2024, The Puzzle of Facebook's Status Emoji Unveiling the Hidden Meaning</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-sprinkle-life-into-text-two-methods-for-bouncing-effects/"><u>[New] Sprinkle Life Into Text Two Methods for Bouncing Effects</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-transforming-gamers-with-funimate-knowledge/"><u>[Updated] 2024 Approved Transforming Gamers with Funimate Knowledge</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-enabling-earnings-a-step-by-step-approach-for-mobile-youtubers/"><u>[Updated] Enabling Earnings A Step-by-Step Approach for Mobile YouTubers</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/abbyy-finereader-14-revolutionizing-business-productivity-with-advanced-document-handling/"><u>ABBYY FineReader 14: Revolutionizing Business Productivity with Advanced Document Handling</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-overcoming-steam-disk-write-problems/"><u>Expert Tips for Overcoming Steam Disk Write Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-addressing-errors-with-a-missing-or-misplaced-launchdll/"><u>Expert Tips: Addressing Errors with a Missing or Misplaced 'Launch.dll'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-apples-ios-milestones-from-genesis-at-10-to-the-peak-of-version-180/"><u>Exploring Apple's iOS Milestones: From Genesis at 1.0 to the Peak of Version 18.0</u></a></li>
+<li><a href="https://win-docs.techidaily.com/klonen-von-bootfahigem-usb-flashdrive-unter-windows-7-8-und-10-schritt-fur-schritt/"><u>Klonen Von Bootfähigem USB-Flashdrive Unter Windows 7, 8 Und 10 - Schritt Für Schritt</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-stop-code-a-guide-to-overcoming-nospinlockavailable-error/"><u>Solving the Stop Code: A Guide to Overcoming NO_SPIN_LOCK_AVAILABLE Error</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-power-packed-performance-of-jabra-talk-25-microphone/"><u>The Power-Packed Performance of Jabra Talk 25 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-missing-sounds-in-mozilla-firefox/"><u>Troubleshooting Missing Sounds in Mozilla Firefox</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watching-the-matrix-trilogy-perfect-order-revealed/"><u>Watching the Matrix Trilogy – Perfect Order Revealed!</u></a></li>
 </ul></div>
 

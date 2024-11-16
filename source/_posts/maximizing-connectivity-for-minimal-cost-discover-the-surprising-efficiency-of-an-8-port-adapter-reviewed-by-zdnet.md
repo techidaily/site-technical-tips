@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Connectivity for Minimal Cost: Discover the Surprising Efficiency of an 8-Port Adapter Reviewed by ZDNET"
-date: 2024-10-31T18:19:08.057Z
-updated: 2024-11-05T20:50:36.068Z
+date: 2024-11-15T04:45:56.884Z
+updated: 2024-11-16T06:47:15.169Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What do I mean by my flow?
 
 I divide my work day into two main chunks of time: Communications and knowledge gathering time, and project time. Every day has pretty much the same communications and knowledge gathering activities, which follows a relatively consistent pattern that has proven to be highly productive for me. These are the daily productivity activities I've been talking about. 
@@ -52,10 +45,10 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Changes due to the pandemic
@@ -98,13 +91,6 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Daily must-reads with Pocket
 
 Next up, I hit my daily most-reads. Of course, this starts with [_ZDNet_](https://www.zdnet.com/), then usually [_Drudge_](http://www.drudgereport.com/)and [_Techmeme_](http://www.techmeme.com/). I do a quick headline scan and anything that seems worth reading, I right-click and save to [Pocket](http://getpocket.com/). 
@@ -120,6 +106,13 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -147,6 +140,13 @@ Rinse, wash, repeat.
 I'm relatively holistic about my morning reading process. I do it until I'm bored or hungry, or feel like switching gears and moving on to managing my email and schedule. 
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Connecting and scheduling
 
@@ -184,13 +184,6 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -199,6 +192,13 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -230,13 +230,6 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
@@ -256,6 +249,13 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -286,22 +286,21 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-resolving-iphone-xs-facial-recognition-hurdles/"><u>[New] 2024 Approved Resolving iPhone X's Facial Recognition Hurdles</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-become-a-shorts-connoisseur-must-know-facts/"><u>[New] In 2024, Become a Shorts Connoisseur Must-Know Facts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-battle-of-video-capturing-apps-for-2024/"><u>[New] Ultimate Battle of Video Capturing Apps for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-next-big-leap-revolutionizing-ai-with-a-custom-security-focused-os-for-enhanced-data-center-performance-exclusive-details-revealed-digital-innovation28/"><u>Apple's Next Big Leap: Revolutionizing AI with a Custom Security-Focused OS for Enhanced Data Center Performance - Exclusive Details Revealed | Digital Innovation Hub</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-apple-watchs-battery-life-with-these-easy-configuration-tweaks-tips-from-zdnet/"><u>Boost Your Apple Watch's Battery Life with These Easy Configuration Tweaks - Tips From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-how-an-apple-employee-found-unexpected-joy-using-the-innovative-vision-pro-a-must-read-article/"><u>Discover How an Apple Employee Found Unexpected Joy Using the Innovative Vision Pro - A Must-Read Article!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-enhanced-ar-with-apples-new-spatial-persona-on-vision-pro-tutorial-inside/"><u>Experience Enhanced AR with Apple's New Spatial Persona on Vision Pro - Tutorial Inside</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-a-broken-wi-fi-link-on-the-microsoft-surface-series/"><u>Fixing a Broken Wi-Fi Link on the Microsoft Surface Series</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-customize-and-download-free-outro-video-templates/"><u>In 2024, Customize and Download Free Outro Video Templates</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-framing-speed-the-hyperlapse-video-methods/"><u>In 2024, Framing Speed The Hyperlapse Video Methods</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-penniless-to-partnered-a-small-channels-journey/"><u>In 2024, From Penniless to Partnered A Small Channel's Journey</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-iphone-screen-record-functionality-expert-advice/"><u>Mastering iPhone Screen Record Functionality: Expert Advice</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/portable-power-solutions-how-to-recharge-your-mobile-without-a-standard-charger/"><u>Portable Power Solutions: How to Recharge Your Mobile without a Standard Charger</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-x-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/shop-our-handpicked-selection-of-travelers-essentials-iphone-cases-portable-chargers-and-apple-watch-bands-with-a-sweet-20-discount-today-zdnet/"><u>Shop Our Handpicked Selection of Traveler's Essentials: IPhone Cases, Portable Chargers & Apple Watch Bands with a Sweet 20% Discount Today | ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-microphone-problems-in-astro-a5-headset-expert-hacks-and-advice/"><u>Solving Microphone Problems in Astro A5# Headset: Expert Hacks & Advice</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/turn-off-on-screen-text-on-amazon-prime-entertainment-videos-quickly/"><u>Turn Off On-Screen Text on Amazon Prime Entertainment Videos Quickly</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-hot-oculus-vr-games-that-everyones-playing/"><u>[New] 2024 Approved Hot Oculus VR Games That Everyone's Playing</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-affordable-minecraft-video-graphics/"><u>[New] Affordable Minecraft Video Graphics</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-drone-buying-basics-must-know-points-before-shopping/"><u>[Updated] 2024 Approved Drone Buying Basics Must-Know Points Before Shopping</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-gamers-almanac-expert-tips-to-record-and-save-your-minecraft-sessions/"><u>[Updated] In 2024, Gamer's Almanac Expert Tips to Record and Save Your Minecraft Sessions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-using-google-analytics-for-growth/"><u>[Updated] The Ultimate Guide to Using Google Analytics for Growth</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/critical-system-files-restoration-addressing-the-absent-shell32dll-file/"><u>Critical System Files Restoration: Addressing the Absent shell32.dll File</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175710378-get-cold-pay-less-secure-arctics-high-efficiency-liquid-freezer-ii-aioldii-for-only-74-bucks/"><u>Get Cold, Pay Less: Secure Arctic's High-Efficiency Liquid Freezer II (AIOLDII) for Only 74 Bucks!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/86901847-in-2024-buy-subscribers-wisely-watch-your-numbers-soar/"><u>In 2024, Buy Subscribers Wisely, Watch Your Numbers Soar</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-free-animated-logo-design-software-top-picks-and-expert-advice-for-2024/"><u>New Free Animated Logo Design Software Top Picks and Expert Advice for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/switching-from-gmail-discover-the-leading-8-mail-providers-for-2n25/"><u>Switching From Gmail? Discover the Leading 8 Mail Providers for 2N25!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-anatomy-of-an-internet-meme-explained/"><u>The Anatomy of an Internet Meme Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-insightful-guide-to-facebooks-birthplace-appeal-reasons-and-core-elements/"><u>The Insightful Guide to Facebook's Birthplace, Appeal Reasons, and Core Elements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-libcea32dll-missing-file-a-comprehensive-guide/"><u>Troubleshooting the libcea32.dll Missing File: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-dji-mavic-air-2s-top-of-the-line-drone-analysis/"><u>Ultimate Guide: DJI Mavic Air 2S - Top of the Line Drone Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722867210551-why-cant-i-find-libxmllibxml2httpsenwikipediaorgwikilibxml-dll-solutions-inside/"><u>Why Can't I Find Libxml^[libxml2](https://en.wikipedia.org/wiki/LibXML) DLL? Solutions Inside!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-is-my-apple-watch-touch-screen-not-working-how-to-fix-the-problem/"><u>Why Is My Apple Watch Touch Screen Not Working? How to Fix The Problem</u></a></li>
 </ul></div>
 

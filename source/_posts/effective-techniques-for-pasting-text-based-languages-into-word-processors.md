@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques for Pasting Text-Based Languages Into Word Processors
-date: 2024-09-09T13:30:28.183Z
-updated: 2024-09-10T13:30:28.183Z
+date: 2024-11-11T07:10:55.283Z
+updated: 2024-11-15T19:39:27.856Z
 categories:
   - BestProducts
 description: This Article Describes Effective Techniques for Pasting Text-Based Languages Into Word Processors
@@ -9,25 +9,7 @@ excerpt: This Article Describes Effective Techniques for Pasting Text-Based Lang
 thumbnail: https://www.lifewire.com/thmb/rzYewCryTjWb2_V2_mncFJn6Mew=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-849858958-a4a6c8b5db8d4d439c431420575705b3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Effortless Techniques for Inserting Text-Based Programming Into Microsoft Word
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What to Know
 
 * Go to**Insert** \>**Object** \>**Microsoft Word Document** \>**OK** to prepare a new document.
@@ -35,6 +17,13 @@ thumbnail: https://www.lifewire.com/thmb/rzYewCryTjWb2_V2_mncFJn6Mew=/400x300/fi
 * You can also use**Paste Special** to insert a variety of data into a document, including code.
 
  This article explains how to insert code in Word. Directions apply to Word 2010 and newer, including Word 2021 and Microsoft 365.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Insert Code in Word With an Embedded Document
 
@@ -49,23 +38,27 @@ These instructions only work with a single page of code.
 3. From the**Create New** tab, select**Microsoft Word Document** .  
 ![Create New Object box in Word with the Microsoft Word Document option highlighted](https://www.lifewire.com/thmb/ubtpMlrpJY0mh1rhIZL7mTUeCd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-insert-source-code-into-word-document-3994582-1f1467fff74c4365913779c89a44dbaa.jpg)  
  In Word 2007, select**OpenDocument Text** .
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Clear the**Display as icon** check box.  
 ![Create New Object window in Word with the Display as icon box highlighted](https://www.lifewire.com/thmb/WfEAUTUH0LAddtO-6cyGBZT-mD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-insert-source-code-into-word-document-3994582-4b2746dea1ed49bcada5827d208e1b0e.jpg)
 5. Select**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create New Object window in Word with the OK button highlighted](https://www.lifewire.com/thmb/8N0g_QZk5AJ8wFNEQ383YZ-mRsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-insert-source-code-into-word-document-3994582-14b9900cd90341d1a925d63b07c467df.jpg)
 6. A new document opens, titled **Document in \[_target document file name_ \]** . Save the document in the same folder as the original document.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. [Copy and paste the source code](https://www.lifewire.com/cut-copy-and-paste-in-microsoft-word-4159583) into the new document. Word automatically ignores the spaces, tabs, and other formatting problems. Spelling errors and grammatical errors are highlighted in the document, but these errors are ignored when the code is inserted in the original document.  
 ![Microsoft Word displaying source code to insert into a Word presentation document](https://www.lifewire.com/thmb/AxWUG0N0zvb3wxwA_zIcMWY9qiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NewSourceCode-d276da35f0ba4f36aafddaa578cad3b0.jpg)
 8. Save and close the source code document. The code automatically appears in the main document.  
@@ -73,17 +66,12 @@ These instructions only work with a single page of code.
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Using Different Paste Types in Word
 
  Modern versions of Word handle code better than they used to. Word for[Microsoft 365](https://www.lifewire.com/microsoft-office-4156573) supports several forms of pasting, including with and without source formatting. So pasting a block of code from your code-editing app will look different based on the paste type.
@@ -94,12 +82,6 @@ These instructions only work with a single page of code.
 * **HTML Format** : This renders what appears to be a photo of the code, complete with the text editor's background color. This code block is editable, and you can remove the background color if you wish.
 * **Unformatted Unicode Text** : Pastes the text as is but strips the text and background colors. Re-format the code as needed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Problem With Using Source Code in Word
 
  Programmers write software programs using languages like Java, C++, and HTML. Programming languages use different formatting and symbols from regular languages, so pasting a snippet of code into Word from a programming application causes errors such as text reformatting, indentation shifts, link creation, and misspellings.
@@ -137,8 +119,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +126,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-global-perspective-your-favorite-travel-youtubers/"><u>[New] 2024 Approved A Global Perspective Your Favorite Travel Youtubers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-beneath-the-wave-expert-strategies-for-filming-with-gopro-below-water/"><u>[New] In 2024, Beneath the Wave Expert Strategies for Filming with GoPro Below Water</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maximize-visual-and-auditory-impact-in-windows-10-photos-app/"><u>[New] Maximize Visual & Auditory Impact in Windows 10 Photos App</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/a-detailed-guide-to-making-your-pictures-speak-for-2024/"><u>A Detailed Guide to Making Your Pictures Speak for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ace-school-and-save-big-how-to-obtain-dells-educational-price-cuts/"><u>Ace School and Save Big: How To Obtain Dell's Educational Price Cuts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-about-the-buzzer-beaters-radio-highlights-from-the-final-four-and-ncaa-basketball-showdowns/"><u>All About the Buzzer-Beaters: Radio Highlights From the Final Four and NCAA Basketball Showdowns.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722995770609-arcadegeddon-pc-performance-optimized-say-no-more-frequent-crashes/"><u>Arcadegeddon PC Performance Optimized: Say No More Frequent Crashes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-device-disabled-by-windows-10/"><u>Graphics Device Disabled by Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-navigate-and-utilize-the-revolutionary-photo-cutout-function-on-your-iphone-ios-16-unveiled/"><u>How to Navigate and Utilize the Revolutionary Photo Cutout Function on Your iPhone - iOS 16 Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improving-bd-render-on-ws-21-ws-10-and-beyond/"><u>Improving BD Render on WS-21, WS-10, and Beyond</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-time-to-switch-to-a-high-end-rtx-gpu/"><u>Is It Time to Switch to a High-End RTX GPU?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210333811-9781922565457-our-eternal-relationship/"><u>Our Eternal Relationship | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/overcoming-pillowing-defects-to-enhance-quality-of-your-3d-creations/"><u>Overcoming Pillowing Defects to Enhance Quality of Your 3D Creations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simultaneous-streaming-can-you-and-your-friend-tune-into-spotify-together/"><u>Simultaneous Streaming: Can You and Your Friend Tune Into Spotify Together?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-9-amazing-sites-offering-complimentary-early-childhood-learning-activities/"><u>Top 9 Amazing Sites Offering Complimentary Early Childhood Learning Activities</u></a></li>
+</ul></div>
 

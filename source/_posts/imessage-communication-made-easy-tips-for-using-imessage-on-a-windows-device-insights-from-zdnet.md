@@ -1,7 +1,7 @@
 ---
 title: "IMessage Communication Made Easy: Tips for Using iMessage on a Windows Device - Insights From ZDNet"
-date: 2024-11-02T19:11:41.514Z
-updated: 2024-11-05T21:45:36.294Z
+date: 2024-11-12T02:00:24.455Z
+updated: 2024-11-15T22:51:15.915Z
 tags:
   - apple
 categories:
@@ -44,19 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -85,6 +72,13 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
@@ -97,13 +91,6 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
@@ -111,10 +98,10 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Start a new chat
@@ -123,21 +110,7 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -159,17 +132,38 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -213,22 +207,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-nine-key-points-before-investing-in-a-new-4k-lens/"><u>[New] 2024 Approved Nine Key Points Before Investing in a New 4K Lens</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-lens-language-speaking-visually-with-snapchat-filters/"><u>[New] In 2024, Lens Language Speaking Visually with Snapchat Filters</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-simplified-approach-to-nvidia-screen-recording/"><u>[New] Simplified Approach to NVIDIA Screen Recording</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-first-steps-into-facebook-data-analysis-for-new-users/"><u>[Updated] First Steps Into Facebook Data Analysis for New Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/activities-galore-chess-and-poker-in-discord-servers/"><u>Activities Galore: Chess & Poker in Discord Servers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-devotees-rejoice-discover-the-new-complimentary-lg-tv-audio-upgrade-on-zdnet/"><u>Apple Devotees Rejoice: Discover the New Complimentary LG TV Audio Upgrade on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bringing-advanced-language-models-to-apple-ecosystem-openais-technology-now-available-on-mac-ipad-and-iphone-zdnet/"><u>Bringing Advanced Language Models to Apple Ecosystem: OpenAI's Technology Now Available on Mac, iPad, and iPhone - ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-affordable-powerhouse-iphone-14-plus-offers-unbeatable-all-day-battery-and-more-insights/"><u>Discover the Affordable Powerhouse: IPhone 14 Plus Offers Unbeatable All-Day Battery & More! - Insights</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/key-approaches-to-enhance-vhs-photos-digitally/"><u>Key Approaches to Enhance VHS Photos Digitally</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/massive-labor-day-discount-save-700-on-the-latest-2022-ipad-pro-zdnets-exclusive-deal/"><u>Massive Labor Day Discount: Save $700 on the Latest 2022 iPad Pro - ZDNet's Exclusive Deal</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-fixing-hulu-rununk13-code-for-smooth-streaming/"><u>Step-by-Step Guide to Fixing Hulu RUNUNK13 Code for Smooth Streaming</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-integrating-a-bass-booster-for-your-samsung-soundbar-system/"><u>Step-by-Step Tutorial: Integrating a Bass Booster for Your Samsung Soundbar System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/telecharger-et-convertir-des-fichiers-ogg-en-mp4-facilement-grace-a-movavi-le-meilleur-tutoriel-gratuit/"><u>Télécharger Et Convertir Des Fichiers OGG en MP4 Facilement Grâce À Movavi - Le Meilleur Tutoriel Gratuit</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/time-to-choose-in-depth-review-of-google-pixel-watch-2-against-apples-series-9-zdnet-insights/"><u>Time to Choose: In-Depth Review of Google Pixel Watch 2 Against Apple's Series 9 | ZDNET Insights</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/tiny-turbines-car-shindig-for-2024/"><u>Tiny Turbines' Car Shindig for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/vision-specialists-uncover-surprising-weaknesses-essential-steps-for-dealing-with-unexpected-security-breaches-insights-from-zdnet/"><u>Vision Specialists Uncover Surprising Weaknesses: Essential Steps for Dealing With Unexpected Security Breaches | Insights From ZDNET</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-mix-fold-3-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Mix Fold 3 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-uploading-and-showcasing-videos-on-instagram-made-easy/"><u>[New] Uploading and Showcasing Videos on Instagram Made Easy</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-mastering-metaverse-life-your-ultimate-device-list/"><u>2024 Approved Mastering Metaverse Life Your Ultimate Device List</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/analyzing-active-presenters-advantage-on-screens/"><u>Analyzing Active Presenter’s Advantage on Screens</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/crafting-and-sharing-your-personalized-contact-card-in-ios-17-a-step-by-step-guide/"><u>Crafting and Sharing Your Personalized Contact Card in iOS 17: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-address-the-wlanapidll-file-disappearance-problem/"><u>Effective Strategies to Address the WLANAPI.DLL File Disappearance Problem</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-repairing-typing-problems-in-your-keyboard/"><u>Expert Tips on Repairing Typing Problems in Your Keyboard</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-bold-creation-mastering-timelapses-and-animations-with-movie-maker/"><u>In 2024, Bold Creation Mastering Timelapses & Animations with Movie Maker</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/maximizing-capabilities-upgrading-to-macos-sierra/"><u>Maximizing Capabilities Upgrading to macOS Sierra</u></a></li>
+<li><a href="https://win11.techidaily.com/skirt-sie-on-windows-installing-and-updating-unsigned-drivers/"><u>Skirt SIE on Windows: Installing and Updating Unsigned Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/speed-essentials-discovering-the-necessary-processor-rates-for-your-pc/"><u>Speed Essentials: Discovering the Necessary Processor Rates for Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ins-and-outs-of-sms-receipts-ensuring-your-text-is-actually-read/"><u>The Ins and Outs of SMS Receipts: Ensuring Your Text Is Actually Read</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-a-smooth-gta-5-experience-without-crashes/"><u>Troubleshooting Tips for a Smooth GTA 5 Experience Without Crashes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-d3dx933dll-file-not-found-error-in-windows-systems/"><u>Troubleshooting Tips for d3dx9_33.dll File Not Found Error in Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-how-to-repair-unresponsive-dvd-bd-and-cd-drives/"><u>Troubleshooting Tips: How to Repair Unresponsive DVD, BD & CD Drives</u></a></li>
 </ul></div>
 

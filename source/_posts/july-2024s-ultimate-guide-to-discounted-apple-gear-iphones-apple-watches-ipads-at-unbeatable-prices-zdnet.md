@@ -1,7 +1,7 @@
 ---
 title: "July 2024'S Ultimate Guide to Discounted Apple Gear: IPhones, Apple Watches, iPads at Unbeatable Prices | ZDNet"
-date: 2024-11-03T19:44:15.163Z
-updated: 2024-11-05T22:39:25.949Z
+date: 2024-11-15T04:08:31.346Z
+updated: 2024-11-16T00:39:40.500Z
 tags:
   - apple
 categories:
@@ -171,22 +171,15 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the cheapest Apple product?
@@ -194,10 +187,10 @@ Yes, but you must ensure that your new iPhone is not locked to a specific carrie
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
@@ -205,6 +198,13 @@ Apple's AirTag, a tracking device that connects to your account and allows you t
 This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-only iPad -- regardless of whether you have bought a classic iPad, iPad mini, or iPad Pro -- then there will be no monthly fee or subscription. 
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
 
@@ -218,6 +218,13 @@ Factors influencing our recommendations include:
 * **Use cases**: We have included a range of Apple devices on sale suitable for different uses, including work, study, entertainment, and sports.
 * **Variety**: Here at ZDNET, we want to provide you with various products and accessories in the Apple ecosystem. We've selected deals spanning laptops and smartphones to smartwatches and more.
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -239,13 +246,6 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -291,18 +291,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-advanced-filmmaking-techniques-selecting-top-notch-lenses-for-2024/"><u>[New] Advanced Filmmaking Techniques Selecting Top-Notch Lenses for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-artful-depth-of-field-with-modern-tools/"><u>[Updated] Crafting Artful Depth of Field with Modern Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/anticipated-launch-and-specs-apples-new-domestic-ai-assistant-what-you-need-to-know/"><u>Anticipated Launch & Specs: Apple's New Domestic AI Assistant – What You Need to Know</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/capturing-images-of-your-screen-a-guide-for-hp-device-users/"><u>Capturing Images of Your Screen: A Guide for HP Device Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-sierras-icloud-drives-the-full-experience-for-2024/"><u>Comprehensive Sierra's iCloud Drives – The Full Experience for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-diy-ssd-installation-for-your-playstation-5-console-a-step-by-step-walkthrough/"><u>Easy DIY SSD Installation for Your PlayStation 5 Console - A Step by Step Walkthrough</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-steps-to-enable-your-homepod-as-the-central-hub-of-your-television-viewing-experience/"><u>Easy Steps to Enable Your HomePod as the Central Hub of Your Television Viewing Experience</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-gt-neo-5-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme GT Neo 5 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-actionable-tips-on-how-to-post-on-reddit-step-by-step-guide/"><u>In 2024, Actionable Tips On How to Post on Reddit - Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-conversion-of-vob-captions-to-srt-files-free-and-straightforward-techniques/"><u>Mastering the Conversion of VOB Captions to SRT Files: Free & Straightforward Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-windows-11-turn-onoff-network-browsing-features-easily/"><u>Mastering Windows 11: Turn On/Off Network Browsing Features Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-concealed-shortcuts-a-comprehensive-guide-to-enabling-and-leveraging-your-devices-hidden-path-bar-feature/"><u>Unveiling Concealed Shortcuts: A Comprehensive Guide to Enabling & Leveraging Your Device's Hidden Path Bar Feature</u></a></li>
-<li><a href="https://facebook.techidaily.com/whatsapp-withholds-enforcement-of-new-privacy-stance/"><u>WhatsApp Withholds Enforcement of New Privacy Stance</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-broadcasting-recorded-videos-live-on-facebook-step-by-step/"><u>[Updated] Broadcasting Recorded Videos Live on Facebook Step by Step</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-best-mac-software-for-cutting-edge-media-production-for-2024/"><u>5 Best Mac Software for Cutting-Edge Media Production for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ideal-spots-to-purchase-mobile-phones/"><u>Discover the Ideal Spots to Purchase Mobile Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-your-writing-with-visual-elements-line-insertion-techniques-for-microsoft-word-users/"><u>Enhancing Your Writing with Visual Elements: Line Insertion Techniques for Microsoft Word Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-output-impedance-and-its-significance-for-circuit-performance/"><u>Exploring Output Impedance and Its Significance for Circuit Performance</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-nokia-c32-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Nokia C32 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-4k-with-the-new-nikon-d500-camera/"><u>In 2024, Mastering 4K with the New Nikon D500 Camera</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/permanent-deletion-of-yahoo-mail-a-step-by-step-tutorial/"><u>Permanent Deletion of Yahoo Mail - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-trending.techidaily.com/pourquoi-mon-cle-usb-ne-montre-plus-son-contenu-et-comment-y-remedier-en-france/"><u>Pourquoi Mon Clé USB Ne Montre Plus Son Contenu Et Comment Y Remédier En France</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-troubleshooting-tips-for-the-graphics-driver-crashed-problem-in-valorant/"><u>Quick Troubleshooting Tips for the 'Graphics Driver Crashed' Problem in Valorant</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/retrieving-lost-contacts-uncovering-deleted-numbers-in-android-devices/"><u>Retrieving Lost Contacts: Uncovering Deleted Numbers in Android Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-setting-up-windows-10-on-a-fresh-hard-disk/"><u>Step-by-Step Guide: Setting Up Windows 10 on a Fresh Hard Disk</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/tips-for-seamlessly-screening-instagram-stories/"><u>Tips for Seamlessly Screening Instagram Stories</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zero-dollar-mobile-messaging-solutions-for-iphone-and-ipod-touch-users/"><u>Zero Dollar Mobile Messaging Solutions for iPhone and iPod Touch Users</u></a></li>
 </ul></div>
 

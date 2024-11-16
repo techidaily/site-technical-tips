@@ -1,7 +1,7 @@
 ---
 title: Is Blizzard's Battle.net Experiencing Downtime? Here’s What You Need to Know!
-date: 2024-09-09T13:30:53.520Z
-updated: 2024-09-10T13:30:53.520Z
+date: 2024-11-14T17:39:13.963Z
+updated: 2024-11-16T03:06:31.739Z
 categories:
   - BestProducts
 description: This Article Describes Is Blizzard's Battle.net Experiencing Downtime? Here’s What You Need to Know!
@@ -9,23 +9,11 @@ excerpt: This Article Describes Is Blizzard's Battle.net Experiencing Downtime? 
 thumbnail: https://www.lifewire.com/thmb/7SVNsNvJRUYagG161s9Wb40HsGI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-blizzard-battle-net-down-or-is-it-just-you-5025181-240dd5bdcffd4b9bb3fe79e8b90ac5fb.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Dealing with a Silent iPhone? Here’s How to Get Your Ringtone Back
  There are many reasons why an iPhone won't ring, but most of these problems are easy to fix. If your iPhone isn't ringing when someone calls you, try these tips before concluding that your iPhone needs an expensive repair.
 
  The tips in this article apply to all supported iPhone models and recent iOS versions, including iOS 13, 12, and 11.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix an iPhone That Won't Ring
 
  Try these common fixes in the order that we present them:
@@ -48,12 +36,6 @@ thumbnail: https://www.lifewire.com/thmb/7SVNsNvJRUYagG161s9Wb40HsGI=/400x300/fi
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
  If you miss calls from only certain people, open the Phone app, and then complete these steps:  
    1. Tap**Contacts** .  
@@ -61,20 +43,15 @@ thumbnail: https://www.lifewire.com/thmb/7SVNsNvJRUYagG161s9Wb40HsGI=/400x300/fi
    3. Tap**Ringtone** , and then assign the contact a new ringtone.  
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## If None of These Tips Fixed the Problem
 
  If you tried all these tips and still don't hear your incoming calls, it's time to consult the experts.[Make an Apple Genius Bar appointment](https://www.lifewire.com/how-to-make-an-apple-genius-bar-appointment-1999601) at your local Apple Store or[contact an Apple-authorized service provider](https://support.apple.com/repair) , and bring in your iPhone for inspection and repair.
@@ -82,11 +59,12 @@ thumbnail: https://www.lifewire.com/thmb/7SVNsNvJRUYagG161s9Wb40HsGI=/400x300/fi
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -126,8 +104,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +111,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-top-5-drone-vr-set-matchups/"><u>[Updated] Exclusive Top 5 Drone-VR Set Matchups</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-render-blur-effect-on-digital-snaps-in-ps/"><u>[Updated] In 2024, Render Blur Effect on Digital Snaps in PS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-ultimate-free-open-sources-20-best-pubg-shots/"><u>[Updated] In 2024, Ultimate Free, Open Sources 20 Best PUBG Shots</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-streamline-video-analytics-a-guide-to-youtube-statistics-with-social-blade/"><u>[Updated] Streamline Video Analytics A Guide to YouTube Statistics with Social Blade</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-transformative-camera-movements-your-guide-to-ken-burns-in-camtasa/"><u>[Updated] Transformative Camera Movements Your Guide to Ken Burns in Camtasa</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decode-the-mystery-a-detailed-look-at-all-blue-screen-stop-messages/"><u>Decode the Mystery: A Detailed Look at All Blue Screen 'STOP' Messages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-onscreen-entertainment-browse-movies-and-series-on-crackle-for-zero-dollars/"><u>Free Onscreen Entertainment: Browse Movies & Series on Crackle for Zero Dollars</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973421898-get-the-latest-rtx-2060-super-graphics-card-drivers-compatible-with-windows-10-and-11/"><u>Get the Latest RTX 2060 Super Graphics Card Drivers - Compatible with Windows 10 & 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-change-the-sound-of-new-mail-alerts-in-your-gmail-account-the-ultimate-tutorial/"><u>How to Change the Sound of New Mail Alerts in Your Gmail Account: The Ultimate Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-the-not-found-msvcr71dll-system-error/"><u>How To Correctly Address The Not Found: msvcr71.dll System Error</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/powerpoint-audio-repair-tips-addressing-and-resolving-soundplay-problems-in-your-slideshow/"><u>PowerPoint Audio Repair Tips: Addressing and Resolving Soundplay Problems in Your Slideshow</u></a></li>
+<li><a href="https://techidaily.com/samsung-data-recovery-recover-lost-data-from-samsung-by-fonelab-android-recover-data/"><u>Samsung Data Recovery – recover lost data from Samsung</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamlining-your-social-circle-remove-groups-of-contacts-quickly-from-snapchat/"><u>Streamlining Your Social Circle: Remove Groups of Contacts Quickly From Snapchat</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ultimate-guide-to-using-partimage-on-windows-7-8-and-10-step-by-step-tutorial/"><u>Ultimate Guide to Using Partimage on Windows 7, 8 & 10 - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-dacs-why-you-should-consider-adding-this-device-for-superior-sound-quality/"><u>Understanding DACs: Why You Should Consider Adding This Device for Superior Sound Quality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-next-for-sony-in-vr-price-insights-and-release-timeline-revealed/"><u>What's Next for Sony in VR? Price Insights and Release Timeline Revealed</u></a></li>
+</ul></div>
 

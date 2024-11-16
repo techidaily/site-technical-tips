@@ -1,7 +1,7 @@
 ---
 title: "Smart TV Skills: Controlling Your Roku Device Without the Conventional Remote"
-date: 2024-09-09T13:28:47.497Z
-updated: 2024-09-10T13:28:47.497Z
+date: 2024-11-14T20:04:25.023Z
+updated: 2024-11-16T05:49:03.195Z
 categories:
   - BestProducts
 description: "This Article Describes Smart TV Skills: Controlling Your Roku Device Without the Conventional Remote"
@@ -9,12 +9,6 @@ excerpt: "This Article Describes Smart TV Skills: Controlling Your Roku Device W
 thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e0b00b8441f133e8ae3bdb81.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discover the Best Note Taking Solutions : Our Expert Picks
  Note-taking apps are more useful than you might think. Taking notes with pen and paper works just fine for some, but if you have a smartphone or tablet, using an app designed for note-taking can truly change the way you get things done.
 
@@ -32,18 +26,6 @@ of 10
 
 ![Evernote website](https://www.lifewire.com/thmb/9oleNje8SO__JGQQ0VGFGJiKDmU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at2.20.13PM-58ee71395f9b582c4dc3d173.png)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Available for Windows, Mac, Android, and iOS.
@@ -74,16 +56,17 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [Creative Note-Taking for the Apple Fan: Notability](https://notability.com/)
 
 ![GingerLabs Notability website](https://www.lifewire.com/thmb/thNiSXfw8G3iysBhc2IHZBZv7KY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-15at5.02.40PM-58f28ac55f9b582c4d5c1cbf.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Good text-formatting options.
@@ -113,6 +96,13 @@ of 10
 ## [Use Cards to Make Note-Taking Fun and Colorful: Google Keep](https://www.google.com/keep/)
 
 ![Google Keep website](https://www.lifewire.com/thmb/ztU4ICqf971rpM5HCwySkDaAI1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at3.16.47PM-58ee7d993df78cd3fc52e00a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -185,22 +175,17 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Note-Taking for the Minimalist: Simplenote](https://simplenote.com/)
 
 ![Simplenote website](https://www.lifewire.com/thmb/_9N5RUSjHN_SraN7hIAJ7L4x_yQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at3.02.14PM-58ee79ed5f9b582c4dd97d0a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  What We Like
 
 * Design is minimalist and simple.
@@ -233,12 +218,6 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [A Stunningly Visual Note-Taking Experience: Zoho Notebook](https://www.zoho.com/notebook/)
 
 ![Zoho.com Notebook website](https://www.lifewire.com/thmb/i99lX_6eh9Cpzoh3YeJ4FdYCpa0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-15at5.17.45PM-58f28e545f9b582c4d61fae6.png)
@@ -276,15 +255,16 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [A Collaborative Note-Taking App for Your Whole Team: Dropbox Paper](https://www.dropbox.com/paper/start)
 
 ![Dropbox Paper website](https://www.lifewire.com/thmb/3Y9VYshyhwfzEAhYUQo6qfLW-v8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-17at9.13.18PM-58f5693f5f9b581d59046520.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -345,17 +325,12 @@ of 10
 of 10
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## [Most Flexible Note-Taking App: Bear](https://bear.app/)
 
 ![Bear-Writer website](https://www.lifewire.com/thmb/HfqVhGO6cwI3Ri8C9uk733BRr7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at2.04.58PM-58ee6cad3df78cd3fc28aae8.png)
@@ -388,22 +363,17 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Basic, Minimal, and Possibly All You Need: Notes](https://apps.apple.com/app/notes/id1110145109)
 
 ![Apple Notes website](https://www.lifewire.com/thmb/a3hdmF_cqcF1RmxUS5cVmozIgpM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-25at7.10.21PM-58ffd86f5f9b581d59b97459.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ​
 
  What We Like
@@ -453,8 +423,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -462,4 +430,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-from-novice-to-pro-paving-the-way-in-graphics-careers/"><u>[New] From Novice to Pro Paving the Way in Graphics Careers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-innovative-approaches-to-enhancing-google-meet-visibility/"><u>[New] In 2024, Innovative Approaches to Enhancing Google Meet Visibility</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cracking-the-code-calculating-your-income-from-youtubes-cpm-for-2024/"><u>[Updated] Cracking the Code Calculating Your Income From YouTube's CPM for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-face-to-face-factor-dissecting-apples-x-and-samsungs-identification-methods/"><u>2024 Approved Face-to-Face Factor Dissecting Apple’s X and Samsung’s Identification Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-7-notetaking-solutions-optimized-for-the-latest-ipad-generation/"><u>Best 7 Notetaking Solutions Optimized for the Latest iPad Generation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-server-productivity-a-comprehensive-guide-to-adding-bots-on-discord/"><u>Boosting Server Productivity: A Comprehensive Guide to Adding Bots on Discord</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dells-best-kept-academic-secret-how-students-can-save-big-with-exclusive-offers/"><u>Dell's Best-Kept Academic Secret: How Students Can Save Big with Exclusive Offers!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discord-safety-a-step-by-step-tutorial-for-enabling-parental-controls/"><u>Discord Safety: A Step-by-Step Tutorial for Enabling Parental Controls</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-nvidia-rtx-2060-driver-downloads-for-windows-11-10-8-and-7/"><u>Ensure Optimal Performance: NVIDIA RTX 2060 Driver Downloads for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-ksuserdll-error-expert-tips-for-when-it-wont-load-or-appears-absent/"><u>Fix Ksuser.dll Error - Expert Tips for When It Won't Load or Appears Absent</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/les-meilleurs-programmes-de-sauvegarde-sans-frais-pour-windows-11-10-et-plus-anciens/"><u>Les Meilleurs Programmes De Sauvegarde Sans Frais Pour Windows 11, 10 Et Plus Anciens</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-your-star-wars-movie-marathon-the-perfect-viewing-order-on-disneyplus/"><u>Master Your 'Star Wars' Movie Marathon: The Perfect Viewing Order on Disney+</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mobiledesktop-seamless-fb-video-downloading-2023/"><u>Mobile/Desktop Seamless FB Video Downloading, 2023</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/reclaim-your-memories-with-ipad-data-rescue-how-to-flawlessly-reinstate-missing-files/"><u>Reclaim Your Memories with iPad Data Rescue: How to Flawlessly Reinstate Missing Files</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/resolve-nonfunctional-speakers-on-your-windows-11-pc-expert-tips-and-tricks/"><u>Resolve Nonfunctional Speakers on Your Windows 11 PC: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrecting-vintage-windows-file-layouts/"><u>Resurrecting Vintage Windows File Layouts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-right-moment-mastering-the-art-of-deleting-your-follow-list-on-previous-name-accounts/"><u>The Right Moment: Mastering the Art of Deleting Your Follow List on [Previous Name] Accounts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-how-to-excel-at-royal-match/"><u>The Ultimate Tutorial on How to Excel at Royal Match</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-family-fun-exclusive-look-at-best-kids-flicks-on-disney-plus-in-july-2024/"><u>Ultimate Guide to Family Fun: Exclusive Look at Best Kid's Flicks on Disney Plus in July 2024</u></a></li>
+</ul></div>
 

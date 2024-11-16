@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Tracking Opened Emails: A Guide to 'Read Receipts' On Gmail"
-date: 2024-09-09T13:30:10.522Z
-updated: 2024-09-10T13:30:10.522Z
+date: 2024-11-11T05:09:39.728Z
+updated: 2024-11-15T22:59:45.998Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Art of Tracking Opened Emails: A Guide to 'Read Receipts' On Gmail"
@@ -9,23 +9,11 @@ excerpt: "This Article Describes Mastering the Art of Tracking Opened Emails: A 
 thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c88648a5d01b942d93707afe0dac.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Placing a New Drainage Bag on the Bedside Stand Does Not Directly Relate to the Procedure of Irrigating the Urinary Catheter
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## NETGEAR Default Passwords (Valid July 2024)
 
  Below is a list of default usernames, passwords, and IP addresses for different NETGEAR models that I've obtained directly from official sources: user manuals and support pages. If you don't see your NETGEAR device listed here, the listed default data doesn't work, you need help changing the password once you're in or have other questions, more help is below the table.
@@ -272,11 +260,12 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -288,11 +277,12 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -304,17 +294,12 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -343,8 +328,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -352,4 +335,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-how-to-use-your-phone-as-a-webcam-to-record-videos-in-2024/"><u>[New] How to Use Your Phone as A Webcam to Record Videos, In 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-uniquely-branding-podcasts-expert-led-logo-insights/"><u>[New] Uniquely Branding Podcasts Expert-Led Logo Insights</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-ultimate-guide-to-inspiring-youtube-names/"><u>[Updated] 2024 Approved The Ultimate Guide to Inspiring YouTube Names</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-pull-in-viewers-with-the-best-tiktok-caption-ideas-for-engagement-for-2024/"><u>[Updated] Pull in Viewers With The Best TikTok Caption Ideas for Engagement for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-visualvoyage-mastering-the-art-of-image-and-video-size-on-instagram/"><u>2024 Approved VisualVoyage Mastering the Art of Image and Video Size on Instagram</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/an-introduction-to-llama-2-and-its-real-world-benefits/"><u>An Introduction to Llama 2 & Its Real-World Benefits</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-instructions-how-to-establish-a-connection-between-logiteche-and-your-computer/"><u>Comprehensive Instructions: How To Establish a Connection Between Logiteche and Your Computer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-broadcom-gigabit-ethernet-driver-for-windows-10-step-by-step-guide/"><u>Download and Update Broadcom Gigabit Ethernet Driver for Windows 10: Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-on-fixing-dll-absent-or-non-existent-error-messages/"><u>Expert Tips on Fixing DLL Absent or Non-Existent Error Messages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/file-analysis-at-your-fingertips-top-6-chatgpt-apps/"><u>File Analysis at Your Fingertips: Top 6 ChatGPT Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-address-and-fix-the-unavailability-of-d3dx924dll-file-on-windows/"><u>How to Address and Fix the Unavailability of d3dx9_24.dll File on Windows</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-new-era-of-youtube-branding-best-titles-for-video-content-creators-limit-it-to-156-characters/"><u>In 2024, The New Era of YouTube Branding Best Titles for Video Content Creators (Limit It to 156 Characters)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-microsofts-xbox-network-experiencing-an-outage-or-is-your-console-at-fault/"><u>Is Microsoft's Xbox Network Experiencing an Outage? Or Is Your Console at Fault?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-acquiring-and-reading-ebooks-on-your-iphoneipad-via-ibooks/"><u>Step-by-Step Instructions for Acquiring and Reading eBooks on Your iPhone/iPad via iBooks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/text-timing-mastery-how-to-schedule-imessages-for-later-delivery/"><u>Text Timing Mastery: How To Schedule iMessages for Later Delivery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722871152298-this-title-appeals-to-users-looking-to-master-or-learn-about-command-prompt-across-different-windows-environments-suggesting-comprehensive-guidance/"><u>This Title Appeals to Users Looking to Master or Learn About Command Prompt Across Different Windows Environments, Suggesting Comprehensive Guidance.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-must-watch-culinary-series-streaming-now-on-netflix/"><u>Top 10 Must-Watch Culinary Series Streaming Now on Netflix</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ultimate-video-grabber-for-livestream-effortlessly-archive-or-share-online-content-from-various-platforms/"><u>Ultimate Video Grabber for Livestream: Effortlessly Archive or Share Online Content From Various Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unfolding-details-on-the-next-gen-foldable-iphone-pricing-predictions-availability-date-and-feature-overview/"><u>Unfolding Details on the Next-Gen Foldable iPhone: Pricing Predictions, Availability Date, and Feature Overview</u></a></li>
+</ul></div>
 

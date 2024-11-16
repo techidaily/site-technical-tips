@@ -1,7 +1,7 @@
 ---
 title: "The Basics of Biometrics Explained: How It Works and Why We Use It"
-date: 2024-09-09T13:28:32.124Z
-updated: 2024-09-10T13:28:32.124Z
+date: 2024-11-12T21:07:00.539Z
+updated: 2024-11-16T02:11:28.248Z
 categories:
   - BestProducts
 description: "This Article Describes The Basics of Biometrics Explained: How It Works and Why We Use It"
@@ -9,12 +9,6 @@ excerpt: "This Article Describes The Basics of Biometrics Explained: How It Work
 thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64226c4e5f87f88fc35435d44.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Basics of Biometrics Explained: How It Works and Why We Use It
 
 Close 
@@ -30,11 +24,12 @@ Close
  In fact, many of us already use biometrics now in the[ forms of our fingerprints](https://www.lifewire.com/understanding-finger-scanners-4150464) and our faces.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How Biometrics Are Used in Daily Life 
 
  Although biometrics has been used by various industries for decades, modern tech has helped it gain more public awareness. For example, many of the latest smartphones feature fingerprint scanners and/or[ facial recognition](https://www.lifewire.com/how-facial-recognition-is-learning-to-read-masked-faces-5089684) to unlock devices.
@@ -51,12 +46,6 @@ Close
 
  However, the collection, storage, and handling of biometric data (particularly with regards to consumer tech) often brings up concerns about personal privacy, security, and identity protection.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Biometric Types and Screening Characteristics 
 
  There are a number of biometric characteristics in use today, each with different means of collection, measurement, evaluation, and application. Physiological characteristics used in biometrics relate to the_shape and/or composition_ of the body. Some examples are (but not limited to):
@@ -88,21 +77,16 @@ Close
 
  These factors also help determine if one biometric solution may be better to apply in a situation than another. But cost and the overall collection process are also considered. For example, fingerprint and face scanners are small, inexpensive, fast, and easy to implement into mobile devices. This is why smartphones feature those instead of hardware for analyzing body odor or vein geometry!
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How Biometrics Work in Everyday Life 
 
 ![A thumb in the process of recording a print with black ink](https://www.lifewire.com/thmb/lb87r1wJMdq1q8wkKjYUpAyKYsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-680792625-5a0f120547c2660037ff8cdf.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Law enforcement agencies regularly collect fingerprints to help establish crime scenes and identify individuals.  MAURO FERMARIELLO/SCIENCE PHOTO LIBRARY / Getty Images 
 
@@ -127,27 +111,23 @@ Close
  Matching involves a scoring process that calculates degrees of similarity, errors (e.g. imperfections from the collection process), natural variances (i.e. some human characteristics can experience subtle changes over time), and more. If a score passes the minimum mark for matching, then the system succeeds at identifying/authenticating the individual.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Biometric Identification vs. Authentication (Verification) 
 
 ![A close up of hands holding smartphones using biometric access for mobile banking apps](https://www.lifewire.com/thmb/tRyYGEDb1mQpT__SniNb5GInrbU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-657174560-5a0f125f89eacc0037a6bbc6.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Fingerprint scanners are a growing type of security feature to be incorporated in mobile devices.  mediaphotos / Getty Images 
 
  When it comes to biometrics, the terms ‘identification’ and ‘authentication’ are often confused with one another. However, each one is really asking a slightly different yet distinct question.
@@ -187,8 +167,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +174,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-economical-360-cameras-for-quality-videography/"><u>[Updated] 2024 Approved Economical 360° Cameras for Quality Videography</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-parchment-to-paperbacks-the-quintessential-quest-for-classics/"><u>[Updated] From Parchment to Paperbacks The Quintessential Quest for Classics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-store-walkthrough-scheduling-personalized-assistance/"><u>Apple Store Walkthrough: Scheduling Personalized Assistance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-working-with-microsoft-teams-and-its-copilot-functionality/"><u>Comprehensive Tutorial: Working with Microsoft Teams and Its Copilot Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-techniques-for-exceptional-windows-images/"><u>Cutting-Edge Techniques for Exceptional Windows Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/film-talents-unleashed-downloadable-content-pass-for-2024/"><u>Film Talents Unleashed Downloadable Content Pass for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/gain-unlimited-stock-videos-through-essential-4-youtube-sources-for-2024/"><u>Gain Unlimited Stock Videos Through Essential 4 YouTube Sources for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-google-gemini-a-step-by-step-guide/"><u>Mastering Google Gemini: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-column-combination-a-foolproof-guide-for-excel-users/"><u>Mastering the Art of Column Combination: A Foolproof Guide for Excel Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-window-11-a-comprehensive-guide-on-taking-screenshots-with-10-different-methods/"><u>Mastering Window 11: A Comprehensive Guide on Taking Screenshots with 10 Different Methods</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-best-7-ways-to-promote-twitch-stream/"><u>New In 2024, Best 7 Ways to Promote Twitch Stream</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvme-driver-installation-for-windows-fast-download-and-tutorials/"><u>NVMe Driver Installation for Windows: Fast Download & Tutorials</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ordered-watchlist-experience-the-matrix-movies-rightly/"><u>Ordered Watchlist: Experience The Matrix Movies Rightly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-securing-your-apple-store-consultation/"><u>Step-by-Step Guide: Securing Your Apple Store Consultation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-educational-apps-dominating-the-market/"><u>Top 8 Educational Apps Dominating the Market</u></a></li>
+</ul></div>
 

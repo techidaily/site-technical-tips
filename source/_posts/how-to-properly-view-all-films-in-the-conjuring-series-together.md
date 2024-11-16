@@ -1,7 +1,7 @@
 ---
 title: How to Properly View All Films in the 'Conjuring' Series Together
-date: 2024-09-09T13:27:56.771Z
-updated: 2024-09-10T13:27:56.771Z
+date: 2024-11-09T16:14:40.791Z
+updated: 2024-11-16T06:39:52.772Z
 categories:
   - BestProducts
 description: This Article Describes How to Properly View All Films in the 'Conjuring' Series Together
@@ -18,22 +18,17 @@ thumbnail: https://www.lifewire.com/thmb/H2gc65zJ3e5pilRaRHHO18GdTPg=/400x300/fi
 
  This article explains how to watch all the_Superman_ movies in order of release and by series, along with some non-linear ways to watch.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Note
 
  While they’re not featured on this list, several serials were created in 1948 and 1950, which you can find on YouTube. And in 1951, Superman appeared in an independent black-and-white film called_Superman and the Mole Men_ , and that’s available on Amazon.
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Watch the 'Superman' Movies in Release Order
 
  If you have a healthy chunk of time to spare for a movie marathon, you could easily get through the original four_Superman_ movies in a weekend.
@@ -41,6 +36,13 @@ thumbnail: https://www.lifewire.com/thmb/H2gc65zJ3e5pilRaRHHO18GdTPg=/400x300/fi
  The whole gang is there: ambitious Lois Lane who inexplicably can’t spell, Clark Kent’s gee-whiz disguise marked by oversized glasses and his hair parted on the opposite side, Jimmy Olsen’s trusty camera and enthusiasm, and the no-nonsense_Daily Planet_ editor Perry White.
 
 ![Christopher Reeve as Superman in Superman: The Movie](https://www.lifewire.com/thmb/ZHL-RJQzh5JTDa7wGAkoe9HBn2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-watch-the-superman-movies-in-order-5089046-f2fb55ac5c7c456787e9e5f545bc3a8f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Keystone / Getty Images
 
@@ -64,15 +66,16 @@ thumbnail: https://www.lifewire.com/thmb/H2gc65zJ3e5pilRaRHHO18GdTPg=/400x300/fi
 | _Justice League_ (2017)                     | Aquaman, Batman, Cyborg, the Flash, Superman, and Wonder Woman join up to save Earth from an alien invasion.                   | Max                |
 | _Zack Snyder's Justice League_ (2021)       | A four-hour version of the 2017 film by original director Zack Snyder. This one contains restored footage and reworked scenes. | Max                |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Watch the 'Superman' Movies By Era
 
  You could also break up your viewing with a couple of strategic groupings by series.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The Christopher Reeve Era
 
@@ -88,18 +91,6 @@ thumbnail: https://www.lifewire.com/thmb/H2gc65zJ3e5pilRaRHHO18GdTPg=/400x300/fi
 | _Superman IV: The Quest for Peace_ | Max                |
 | _Superman Returns_                 | Max                |
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### DC Extended Universe
 
  The DCEU ran from 2013 (_Man of Steel_ ) to 2023 (_Aquaman and the Lost Kingdom_ ). Henry Cavill plays Superman in this franchise, and the character appears in several installments.
@@ -117,40 +108,29 @@ thumbnail: https://www.lifewire.com/thmb/H2gc65zJ3e5pilRaRHHO18GdTPg=/400x300/fi
 | _Peacemaker_ (TV-2022)                      | Brad Abramenko plays Superman in a non-speaking role.                                                | Max                |
 | _The Flash_ (2023)                          | Cavill–along with several other former Superman actors–appears in a multiversal hub.                 | Max                |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Alternate Ways to View the 'Superman' Movies
 
  If you’re less concerned about chronological order or release order and more interested in comparing similar storylines, here are a few suggested non-linear pairings.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Compare Origin Stories
 
  Origin stories are a quintessential part of superhero anything. Watch the original_Superman: The Movie_ and_Man of Steel_ to see where the two meet and diverge. There’s a considerable time gap between the two, 1978 versus 2013, but all things considered, the special effects from 1978 still hold up in their own (often comical) way.
 
  If you’re interested in seeing more, several platforms offer extended cuts and special editions of both the Christopher Reeve era and DCEU Superman movies. Look for these versions on Amazon Prime, Google Play, Vudu, and YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Something Old, Something New, Something Newer
 
  If you want to experience the Christopher Reeve era but don’t want to watch the whole series, you don’t have to._Superman II_ does a great job of summarizing the first movie in the intro credits and features two formidable enemies: General Zod and Lex Luthor._Superman III_ and_Superman IV_ are not as good, so you can leave it at the second one.
 
  As for the newer options, you have your pick between a few. You could opt for the stand-alone retelling in the mid-aughts or a_Man of Steel_ /_Batman v. Superman_ /_Justice League_ triple-feature.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is ‘Superman’ (2025)?
 
  The upcoming_Superman_ , directed by_The Suicide Squad_ writer-director James Gunn, is the start of the next franchise of DC movies: the DCU. It was formerly called_Superman: Legacy_ .
@@ -179,8 +159,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +166,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-9-stealthy-pro-tools-tricks-for-novice-designers/"><u>2024 Approved 9 Stealthy Pro Tools Tricks for Novice Designers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-overview-mastering-cloud-gaming-on-xbox-game-pass-ultimate/"><u>Comprehensive Overview: Mastering Cloud Gaming on Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/education-perks-for-learners-your-pathway-to-affordable-lenovo-equipment-with-student-offers/"><u>Education Perks for Learners: Your Pathway to Affordable Lenovo Equipment with Student Offers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elevating-your-iphone-photos-through-hdr-methods-for-2024/"><u>Elevating Your iPhone Photos Through HDR Methods for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-techniques-for-merging-data-between-columns-in-microsoft-excel/"><u>Expert Techniques for Merging Data Between Columns in Microsoft Excel</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-infinix-smart-8-hd-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Infinix Smart 8 HD Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-honor-90-gt-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Honor 90 GT Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-conquering-hdr-photography-with-ease/"><u>In 2024, Conquering HDR Photography with Ease</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-70-lite-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor 70 Lite 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-eliminating-stuttering-problems-in-halo-infinite-gameplay/"><u>Resolved: Eliminating Stuttering Problems in Halo Infinite Gameplay</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-removing-the-windows-restore-partition-from-your-pc/"><u>Step-by-Step Guide: Removing the Windows Restore Partition From Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-upcoming-apple-extravaganza-timelines-expert-rumors-and-what-to-watch-for/"><u>The Upcoming Apple Extravaganza: Timelines, Expert Rumors, and What to Watch For</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-solutions-for-repairing-your-wi-fi-adapteraccess-point-troubles/"><u>Top 10 Solutions for Repairing Your Wi-Fi Adapter/Access Point Troubles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-trusted-email-protection-solutions/"><u>Top 5 Trusted Email Protection Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-to-electric-vehicles-superiority-over-gasoline-powered-counterparts/"><u>Unlocking the Secrets to Electric Vehicles' Superiority Over Gasoline-Powered Counterparts</u></a></li>
+</ul></div>
 

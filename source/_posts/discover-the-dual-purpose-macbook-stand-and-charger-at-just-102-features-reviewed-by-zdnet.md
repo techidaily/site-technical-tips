@@ -1,7 +1,7 @@
 ---
 title: Discover the Dual-Purpose MacBook Stand & Charger at Just $102 - Features Reviewed by ZDNet
-date: 2024-11-04T17:46:27.939Z
-updated: 2024-11-05T23:16:04.885Z
+date: 2024-11-14T23:55:47.090Z
+updated: 2024-11-15T18:17:20.082Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -60,10 +60,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -71,10 +71,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -115,22 +115,20 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-download-youtube-videos-without-any-software-13-proven-ways/"><u>[New] In 2024, How to Download YouTube Videos without Any Software [13 Proven Ways]</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unlocking-igtv-videos-secure-downloading-techniques-for-computers/"><u>[New] In 2024, Unlocking IGTV Videos Secure Downloading Techniques for Computers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-cutting-edge-creativity-choosing-high-quality-camera-lenses-for-2024/"><u>[Updated] Cutting Edge Creativity Choosing High-Quality Camera Lenses for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-tailoring-your-content-to-perfection-youtube-edits-in-sony-vegas-style/"><u>[Updated] Tailoring Your Content to Perfection YouTube Edits in Sony Vegas Style</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-vr-video-versus-spherical-capture-tech-distinctions/"><u>2024 Approved Unveiling VR Video versus Spherical Capture Tech Distinctions</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/begin-with-vrecorder-seamless-downloads-and-installs-for-2024/"><u>Begin with VRecorder Seamless Downloads and Installs for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/brighten-up-your-desktop-techniques-for-adjusting-mac-folder-colors/"><u>Brighten Up Your Desktop: Techniques for Adjusting Mac Folder Colors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/configuring-your-external-drive-as-a-network-location-on-a-mac-computer/"><u>Configuring Your External Drive as a Network Location on a Mac Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-troubleshooting-tips-for-a-non-operational-wsreset/"><u>Essential Troubleshooting Tips for a Non-Operational WSReset</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-on-diagnosing-and-repairing-post-problems-during-computer-startup/"><u>Expert Advice on Diagnosing and Repairing POST Problems During Computer Startup</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-connecting-an-external-monitor-to-your-mac-successfully/"><u>Expert Tips for Connecting an External Monitor to Your Mac Successfully</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-clear-cmos-aka-reset-bios-settings/"><u>How to Clear CMOS (AKA Reset BIOS Settings)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-privacy-a-complete-tutorial-for-purging-cache-in-major-internet-explorers/"><u>Mastering Privacy: A Complete Tutorial for Purging Cache in Major Internet Explorers</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/osteolytic-lesions-are-areas-where-bone-has-been-destroyed-due-to-diseases-such-as-cancer-metastasis/"><u>Osteolytic Lesions Are Areas Where Bone Has Been Destroyed Due to Diseases Such as Cancer Metastasis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-common-errors-a-user-friendly-guide-when-netflix-wont-stream-titles-correctly/"><u>Overcoming Common Errors: A User-Friendly Guide When Netflix Won’t Stream Titles Correctly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reviving-the-sound-a-guide-to-restoring-audio-on-non-functional-receivers/"><u>Reviving the Sound: A Guide to Restoring Audio on Non-Functional Receivers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-tech-secrets-at-toms-hardware-store/"><u>Unlocking Tech Secrets at Tom's Hardware Store</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-journey-through-the-landscape-of-human-computer-interaction/"><u>[Updated] A Journey Through the Landscape of Human-Computer Interaction</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/achieving-flawless-gameplay-optimizing-your-switch-pro-experience-on-steam/"><u>Achieving Flawless Gameplay Optimizing Your Switch Pro Experience on Steam</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-disabling-cortanas-copilot-feature-in-windows-11/"><u>Comprehensive Tutorial on Disabling Cortana's Copilot Feature in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-fixing-invisible-comments-on-youtube-posts/"><u>Expert Tips for Fixing Invisible Comments on YouTube Posts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-download-apple-podcasts/"><u>How to Download Apple Podcasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/immerse-yourself-in-authentic-stories-the-top-lgbt-movie-choices-for-netflix-subscribers-this-summer/"><u>Immerse Yourself in Authentic Stories: The Top LGBT Movie Choices for Netflix Subscribers This Summer</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-watermark-free-video-editing-the-top-10-free-online-options/"><u>New Watermark-Free Video Editing The Top 10 Free Online Options</u></a></li>
+<li><a href="https://fox-access.techidaily.com/sky-high-security-the-prime-5-cloud-choices/"><u>Sky High Security The Prime 5 Cloud Choices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-streaming-videos-from-your-pc-to-apple-tv-using-vlc-media-player/"><u>Step-by-Step Guide: Streaming Videos From Your PC to Apple TV Using VLC Media Player</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stop-spam-start-secure-communications-the-ultimate-guide-to-using-gmails-whitelist-feature/"><u>Stop Spam, Start Secure Communications: The Ultimate Guide to Using Gmail's Whitelist Feature</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-on-shifting-photo-albums-from-google-to-icloud-platforms/"><u>The Ultimate Walkthrough on Shifting Photo Albums From Google to iCloud Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-12-no-cost-keyboard-skills-classes-for-every-age-group/"><u>Top 12 No-Cost Keyboard Skills Classes for Every Age Group</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-recording-your-ps4-gaming-sessions/"><u>Ultimate Guide: Recording Your PS4 Gaming Sessions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-iphone-video-editing-essentials-top-picks/"><u>Updated In 2024, IPhone Video Editing Essentials Top Picks</u></a></li>
 </ul></div>
 

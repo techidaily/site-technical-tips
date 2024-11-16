@@ -1,7 +1,7 @@
 ---
 title: "Navigating Permissions: Understanding and Working Around the TrustedInstaller in Windows 11"
-date: 2024-11-04T17:03:21.772Z
-updated: 2024-11-05T22:58:08.574Z
+date: 2024-11-11T23:24:57.021Z
+updated: 2024-11-15T20:34:24.169Z
 categories:
   - BestProducts
 description: "This Article Describes Navigating Permissions: Understanding and Working Around the TrustedInstaller in Windows 11"
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 ![The TAKEOWN /F command in Windows 10 Command Prompt](https://www.lifewire.com/thmb/nOnoS4n34cd8C2EJEDT2_rLzdhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/takeown-command-trustsedinstaller-windows-10-267bfffb4f974a29940a0af233ef4a84.png)
 4. Enter the following command (replacing our example file with your own) to immediately give your user account permission to delete or change the file or folder:  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  `icacls C:\Windows\System32\fr-FR\fms.dll.mui /grant Administrators:F /T`  
 ![icacls command executed in Windows 10 Command Prompt](https://www.lifewire.com/thmb/clN3CT0-H0V3QdOSRZWprDCigZ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/icacls-command-windows-10-7f562cffaf424cd281b4e58c68b19e25.png)
 
@@ -50,24 +57,25 @@ Make sure you are logged in as an administrator.
 2. Go to**Security** \>**Advanced** , then select**Change** next to**Owner: TrustedInstaller** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Properties and Advanced Security Settings options for a Windows 10 folder](https://www.lifewire.com/thmb/823H3LgLGW5GbhyNSwSn1HNUZlk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/advanced-security-settings-windows-10-folder-4eb4fed4cb134eb1ba00993a705f7175.png)
 3. Type your username into the text box and then choose**Check Names** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Windows 10 Check Names box with a user account listed](https://www.lifewire.com/thmb/ESMv2bIcNtWxpryKYLlwZFwmyCA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-10-select-user-or-group-880cbe35a52348f19d11206db4d7a0b6.png)
 4. Check the box next to**Replace owner on subcontainers and objects** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The replace owner on subcontainers and objects checkbox in Windows 10](https://www.lifewire.com/thmb/n8OW45wPPq3HiSTrW4eQIT_Y0EU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/replace-owner-windows-10-folder-885ef894881e4e21a60b1b09568ea020.png)
 5. Select**OK** at the bottom and then**OK** on the Properties window you opened in Step 1.
 6. Open**Properties** \>**Security** \>**Advanced** once more. This time, select**Add** .  
@@ -79,31 +87,24 @@ Make sure you are logged in as an administrator.
 9. Check the box next to**Full control** , then select**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Full Control permission selected for a folder in Windows 10](https://www.lifewire.com/thmb/cLa_4Jv8moyuFMZaNvHFNWAcllw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/full-control-folder-permissions-b0f31e6f8d7d418e91990e6c32476c30.png)
 10. Check the box next to **Replace all child object permission entries with inheritable permission entries from this object** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The checkbox called Replace all child object permission entries in Windows 10](https://www.lifewire.com/thmb/6T2vTKuuRj3ONEWEpCefVrYtszQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/replace-all-child-object-permission-entries-windows-10-fc09040d1d8b4357b5866ced25b79262.png)
 11. Select**OK** on the Advanced Security Settings window and then**Yes** on the confirmation prompts. You should now have full permission to make changes to the file or folder, and you can close any other windows you opened to make these changes.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Do I Need Permission From TrustedInstaller?
 
@@ -140,22 +141,15 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-direct-recording-tool-for-chrome-os/"><u>[New] 2024 Approved Direct Recording Tool for Chrome OS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unrivaled-windows-video-calls-top-8-apps/"><u>[New] 2024 Approved Unrivaled Windows Video Calls Top 8 Apps</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-direct-download-of-youtube-videos/"><u>[New] In 2024, Direct Download of YouTube Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-enriched-viewing-experience-with-these-free-downloader-apps-for-youtubes/"><u>[New] In 2024, Enriched Viewing Experience with These Free Downloader Apps for YouTubes</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-secure-recording-techniques-masking-personal-details-for-2024/"><u>[New] Secure Recording Techniques Masking Personal Details for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-chart-your-course-navigating-the-waters-of-youtube-subscription-surges-for-2024/"><u>[Updated] Chart Your Course Navigating the Waters of YouTube Subscription Surges for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-unveils-the-upgraded-mac-studio-a-matured-version-of-the-classic-mac-mini/"><u>Apple Unveils the Upgraded Mac Studio - A Matured Version of the Classic Mac Mini</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/choosing-loyalty-over-upgrades-why-i-remain-committed-to-my-apple-watch-series/"><u>Choosing Loyalty Over Upgrades: Why I Remain Committed to My Apple Watch Series</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/college-students-ultimate-hack-setting-up-a-portable-wireless-tv-system-in-shared-spaces/"><u>College Students' Ultimate Hack: Setting Up a Portable Wireless TV System in Shared Spaces</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/deciphering-the-next-gen-airpods-what-sets-the-airpods-pro-and-max-apart-according-to-zdnet/"><u>Deciphering the Next-Gen AirPods: What Sets the AirPods Pro & Max Apart According to ZDNET</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-in-black-ops-cold-war-a-comprehensive-guide-for-windows-players/"><u>How to Restore Sounds in Black Ops Cold War - A Comprehensive Guide for Windows Players</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/pioneering-approaches-to-data-rescue-stellar-edition-by-singh/"><u>Pioneering Approaches to Data Rescue: Stellar Edition by Singh</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/protecting-against-threats-for-less-a-selection-of-15-recommended-free-bootable-anti-viruses/"><u>Protecting Against Threats for Less: A Selection of 15 Recommended Free Bootable Anti-Viruses</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/top-5-hidden-gems-to-watch-insta-stories-for-2024/"><u>Top 5 Hidden Gems to Watch Insta Stories for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-waterproof-wearables-comprehensive-tests-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Waterproof Wearables : Comprehensive Tests & Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-ultimate-collection-of-professional-video-editors-the-top-5-selections/"><u>Unveiling the Ultimate Collection of Professional Video Editors - The Top 5 Selections</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-timeline-all-you-need-to-know-about-new-airpods-launch-and-pre-order-info-zdnet-exclusive/"><u>Unveiling Timeline: All You Need To Know About New AirPods Launch & Pre-Order Info - ZDNet Exclusive</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/are-wi-fi-mesh-systems-a-smart-investment-for-home-or-business/"><u>Are Wi-Fi Mesh Systems a Smart Investment for Home or Business?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-transcription-creating-subtitles-and-captions-for-your-insta-story-content/"><u>Effortless Transcription: Creating Subtitles and Captions for Your Insta Story Content</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oppo-reno-10-pro-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Oppo Reno 10 Pro 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-iphone-13-mini-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your iPhone 13 mini and iPad?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/how-to-guide-for-adding-friends-as-pins-on-snapchat/"><u>How-To Guide for Adding Friends as Pins on Snapchat</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-graphics-cards-download-rtx-2060-super-gpu-drivers-for-win-10-and-win-11/"><u>Latest Graphics Cards: Download RTX 2060 Super GPU Drivers for Win 10 & Win 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-admin-access-a-guide-to-obtaining-control-over-trustedinstaller-on-windows-10/"><u>Securing Admin Access: A Guide to Obtaining Control Over TrustedInstaller on Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-animators-dream-tools-premium-choices-for-3d-mastery/"><u>The Animator’s Dream Tools Premium Choices for 3D Mastery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-steps-to-reboot-your-samsung-television/"><u>Ultimate Guide: Steps to Reboot Your Samsung Television</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-usb-20-speeds-cabling-and-connector-options/"><u>Understanding USB 2.0: Speeds, Cabling, and Connector Options</u></a></li>
 </ul></div>
 

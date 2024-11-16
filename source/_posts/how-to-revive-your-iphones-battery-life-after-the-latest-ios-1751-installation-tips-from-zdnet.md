@@ -1,7 +1,7 @@
 ---
 title: How to Revive Your iPhone's Battery Life After the Latest iOS 17.5.1 Installation | Tips From ZDNet
-date: 2024-11-02T19:21:04.294Z
-updated: 2024-11-05T16:35:30.273Z
+date: 2024-11-14T02:16:48.327Z
+updated: 2024-11-15T17:35:05.709Z
 tags:
   - apple
 categories:
@@ -32,43 +32,44 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
 
 After installing the latest iOS update, your iPhone will restart.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -81,13 +82,6 @@ Apple Intelligence, featuring the company's AI tools, will begin to roll out for
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -109,10 +103,10 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 Screenshot: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
@@ -175,18 +169,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-tiktok-text-mastery-identify-these-five-pioneering-font-generators/"><u>[New] In 2024, TikTok Text Mastery Identify These Five Pioneering Font Generators</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-scripting-summative-stories/"><u>[New] Scripting Summative Stories</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-permission-to-browse-friends-media-content-on-smschat-services/"><u>[Updated] In 2024, Permission to Browse Friends' Media Content on SMS/Chat Services</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-should-you-review-off-facebook-histories-security-tips-and-tricks/"><u>2024 Approved Should You Review Off-Facebook Histories? Security Tips & Tricks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/deciphering-rcs-protocol-next-level-sms-functionality-explained/"><u>Deciphering RCS Protocol: Next-Level SMS Functionality Explained</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-directx-downloads-issue-in-os/"><u>Mending DirectX Downloads Issue in OS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/preserve-and-protect-discover-five-key-methods-for-keeping-your-digital-data-safe-from-harm/"><u>Preserve and Protect: Discover Five Key Methods for Keeping Your Digital Data Safe From Harm</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionizing-communication-again-anticipating-the-latest-iphone-launch/"><u>Revolutionizing Communication Again: Anticipating the Latest iPhone Launch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/roku-travel-hacks-turning-your-tv-into-a-wireless-lifeline-in-hotels-and-dorms/"><u>Roku Travel Hacks: Turning Your TV Into a Wireless Lifeline in Hotels and Dorms</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-how-to-hide-or-remove-suggested-posts-on-instagram/"><u>Step-by-Step Guide: How to Hide or Remove Suggested Posts on Instagram</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-for-arranging-a-meeting-with-apple-specialists/"><u>The Complete Walkthrough for Arranging a Meeting with Apple Specialists</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-nokia-c300-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Nokia C300? Here is How | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-what-is-mukbang-and-how-to-make-mukbang-videos/"><u>[New] What Is Mukbang and How to Make Mukbang Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-accelerated-fortnite-visualization-steps/"><u>2024 Approved Accelerated Fortnite Visualization Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-specifications-the-contrast-between-ipad-mini-and-ipad-air/"><u>Decoding Specifications: The Contrast Between iPad Mini and iPad Air</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-sites-to-enjoy-music-vids-our-top-picks/"><u>Discover the Ultimate Sites to Enjoy Music Vids - Our Top Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-and-repair-the-shelldll-file-mistake/"><u>How to Correctly Address and Repair the Shell.DLL File Mistake</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-12-pro-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-a-beginners-tutorial-on-using-luts-in-ar/"><u>In 2024, A Beginner's Tutorial on Using LUTs in AR</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-craft-the-perfect-stream-a-comprehensive-guide-to-youtubes-full-rotation-videos/"><u>In 2024, Craft the Perfect Stream A Comprehensive Guide to YouTube’s Full-Rotation Videos</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/schritt-fur-schritt-anleitung-zur-wiederherstellung-geloschter-daten-von-der-datentrageroberflache/"><u>Schritt-Für-Schritt-Anleitung Zur Wiederherstellung Gelöschter Daten Von Der Datenträgeroberfläche</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-on-how-to-set-up-and-sync-your-chromecast-remote/"><u>Step-by-Step Instructions on How to Set Up and Sync Your Chromecast Remote</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-fix-for-missing-ssleay3-32dll-error-a-step-by-step-solution-guide/"><u>The Ultimate Fix for Missing 'ssLeay3 32.dll' Error: A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-25-gratis-software-a-aplikace-pro-vyrobu-skladacku-do-roku-2024/"><u>Top 25 Grátis Software a Aplikace Pro Výrobu Skládačku Do Roku 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-issues-when-mozilla-thunderbird-wont-launch/"><u>Troubleshooting Steps: Resolving Issues When Mozilla Thunderbird Won't Launch</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-magic5-ultimate-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor Magic5 Ultimate.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-youtube-stardom-the-8-essential-tactics-to-go-viral-with-your-content/"><u>Unlocking YouTube Stardom: The 8 Essential Tactics to Go Viral with Your Content</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-video-editing-software-for-splitting-wmv-files/"><u>Updated Best Free Video Editing Software for Splitting WMV Files</u></a></li>
 </ul></div>
 

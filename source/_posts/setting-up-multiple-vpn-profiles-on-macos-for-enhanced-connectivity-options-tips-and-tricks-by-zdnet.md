@@ -1,7 +1,7 @@
 ---
 title: Setting Up Multiple VPN Profiles on macOS for Enhanced Connectivity Options | Tips & Tricks by ZDNet
-date: 2024-10-30T22:37:52.202Z
-updated: 2024-11-05T20:24:34.339Z
+date: 2024-11-13T05:40:19.606Z
+updated: 2024-11-16T04:04:33.017Z
 tags:
   - apple
 categories:
@@ -39,37 +39,37 @@ Let me show you how it works.
 ## How to create different network locations in MacOS
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Requirements
 
 The only thing you'll need is a device running an updated version of MacOS. This feature works with both wired and wireless connections.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open System Preferences
 
 Click the Apple menu at the top right of your display and select System Preferences from the menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Open Network
 
 From within System Preferences, click the Network icon to open the Network section.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Create a new network location
 
@@ -90,16 +90,10 @@ Image: Jack Wallen
 Once you've configured the location exactly how you need it, click Apply to save everything.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Switching to a different Network Location
@@ -145,17 +139,18 @@ Fortunately, you are now empowered to more easily make that switch.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-techniques-for-captivating-visual-fb-ads/"><u>[Updated] In 2024, Techniques for Captivating Visual FB Ads</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/airedges-ultimate-selection-of-apple-watch-bands-expert-opinions-and-ratings/"><u>AIREDGE's Ultimate Selection of Apple Watch Bands : Expert Opinions and Ratings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-savings-like-never-before-grab-the-highly-anticipated-2022-ipad-pro-now-with-a-700-price-cut-on-labor-day-exclusive-news/"><u>Experience Savings Like Never Before: Grab the Highly Anticipated 2022 iPad Pro Now with a $700 Price Cut on Labor Day | Exclusive News</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Tecno Spark 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-complete-guide-to-structuring-effective-audio-xml/"><u>In 2024, The Complete Guide to Structuring Effective Audio XML</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/slide-by-slide-audio-integration-for-dynamic-ppts-for-2024/"><u>Slide-by-Slide Audio Integration for Dynamic PPTs for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-waterproof-smartwatches-comprehensive-reviews-and-testing-insights-techexplorers/"><u>Top Rated Waterproof Smartwatches : Comprehensive Reviews & Testing Insights | TechExplorers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-iphone-se-cases-of-2022-ultimate-defense-and-style-featured/"><u>Top-Rated iPhone SE Cases of 2022: Ultimate Defense & Style - Featured</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/ultimate-crew-for-imaginative-audio-visual-art/"><u>Ultimate Crew for Imaginative Audio-Visual Art</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-steps-to-view-friends-whereabouts-on-iphone/"><u>Unveiling the Steps to View Friend's Whereabouts on iPhone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-hdr-editing-essentials-for-pc-users/"><u>[New] 2024 Approved HDR Editing Essentials for PC Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-blueprint-for-successful-biographies-top-tips-and-techniques-from-experts/"><u>[New] In 2024, The Blueprint for Successful Biographies Top Tips & Techniques From Experts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-solutions-to-stop-blank-spots-in-obs-media-for-2024/"><u>[New] Solutions to Stop Blank Spots in OBS Media for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-punchline-perfection-creating-memes-that-make-people-tickle/"><u>[Updated] 2024 Approved Punchline Perfection Creating Memes that Make People Tickle</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-constructing-captivating-conclusions-for-2024/"><u>[Updated] Constructing Captivating Conclusions for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-launching-a-sports-vlog-on-apple-computers/"><u>[Updated] Launching a Sports Vlog on Apple Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-productivity-on-microsoft-teams-with-the-power-of-github-copilot/"><u>Boost Productivity on Microsoft Teams with the Power of GitHub Copilot</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-techniques-to-hook-up-ps-vr-with-a-computer-easy-to-follow-guide/"><u>Expert Techniques to Hook Up PS VR with a Computer - Easy-to-Follow Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-home-charging-for-your-electric-car-a-step-by-step-manual/"><u>Mastering Home Charging for Your Electric Car: A Step-by-Step Manual</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-best-new-documentary-features-starring-maximillian-in-july-2024-our-picks/"><u>The Best New Documentary Features Starring Maximillian in July 2024: Our Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-fixing-code-28-problems-in-windows-operating-system/"><u>Troubleshooting and Fixing Code 28 Problems in Windows Operating System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-when-your-android-cannot-place-or-take-calls/"><u>Troubleshooting Steps When Your Android Cannot Place or Take Calls</u></a></li>
 </ul></div>
 

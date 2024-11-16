@@ -1,7 +1,7 @@
 ---
 title: How Apple Is Confronting Internet Giants with a Startling Advertisement Strategy - Discover More at ZDNET
-date: 2024-10-30T22:57:19.697Z
-updated: 2024-11-05T20:01:33.025Z
+date: 2024-11-08T22:18:02.644Z
+updated: 2024-11-16T03:22:15.217Z
 tags:
   - apple
 categories:
@@ -44,16 +44,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -64,16 +64,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -83,10 +77,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -96,10 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -136,17 +130,20 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/armonizing-hit-hits-building-the-perfect-youtube-soundtrack/"><u>[New] Harmonizing Hit Hits Building the Perfect YouTube Soundtrack</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-tweeting-videos-to-tweenish-animations-for-no-fee/"><u>[Updated] 2024 Approved Tweeting Videos to Tweenish Animations for No Fee</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-a-step-by-step-guide-for-effective-use-of-luts-in-adobe-suite/"><u>[Updated] A Step-by-Step Guide for Effective Use of LUTs in Adobe Suite</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-infusing-energy-youtube-music-in-film-and-media-projects/"><u>[Updated] Infusing Energy YouTube Music in Film and Media Projects</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-noise-free-auditory-shifts/"><u>[Updated] Navigating Noise-Free Auditory Shifts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ultimate-tips-to-streamline-your-ipad-screen-saving/"><u>2024 Approved Ultimate Tips to Streamline Your iPad Screen Saving</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-syncing-disneyplus-streaming-with-your-chromecast-device/"><u>Guide: Syncing Disney+ Streaming with Your Chromecast Device</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-7-plusipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 7 Plus/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/live-coverage-mens-ncaa-hoops-from-march-madness-to-the-final-four/"><u>Live Coverage: Men's NCAA Hoops - From March Madness to The Final Four!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-time-adjustment-customizing-kindle-paperwhites-display-timings/"><u>Mastering Time Adjustment: Customizing Kindle Paperwhite's Display Timings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-to-rectify-coredll-disappears-without-a-trace-problem/"><u>Step-by-Step Tutorial to Rectify 'Core.dll' Disappears Without a Trace Problem</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-streaming-and-saving-games-on-xbox-one/"><u>[Updated] 2024 Approved Streaming and Saving Games on Xbox One</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-adhering-to-correct-aspect-ratio-in-twitter-videos/"><u>[Updated] In 2024, Adhering to Correct Aspect Ratio in Twitter Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-iphone-video-playback-cycles/"><u>[Updated] Mastering iPhone Video Playback Cycles</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-seamless-tweet-integration-on-facebook-platform-for-2024/"><u>[Updated] Seamless Tweet Integration on Facebook Platform for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/10-incredible-secrets-behind-the-world-of-emojis/"><u>10 Incredible Secrets Behind the World of Emojis</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ve-high-rankings-on-youtube-with-top-seo-tips-1-11-for-2024/"><u>Achieve High Rankings on YouTube with Top SEO Tips (1-11) for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/focusing-your-online-narrative-for-success-on-professional-networks-like-fb/"><u>Focusing Your Online Narrative for Success on Professional Networks Like FB</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-cloaking-details-in-visual-data-storage/"><u>In 2024, Cloaking Details in Visual Data Storage</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/librecam-x-live-streaming-experience-analyzed-for-2024/"><u>LibreCam X Live Streaming Experience Analyzed for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-dll-hiccups-repairing-microsofts-directinput-and-directx-components-successfully/"><u>Overcoming DLL Hiccups: Repairing Microsoft's DirectInput & DirectX Components Successfully</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-unveils-revolutionary-32gb-ddr5-ic-chips-enabling-future-1tb-memory-sticks/"><u>Samsung Unveils Revolutionary 32GB DDR5 IC Chips, Enabling Future 1TB Memory Sticks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722888183785-the-quadratic-factor-can-be-rewritten-as-splus2kplus2splus2k-20-giving-us-two-more-roots-s-2k-2-and-s-2kplus2-these-are-distinct-real-roots-if-k-neq-1/"><u>The Quadratic Factor Can Be Rewritten as ((S+2K+2)(S+2K-2)=0 ), Giving Us Two More Roots: (S=-2K-2 ) and (S=-2K+2 ). These Are Distinct Real Roots if (K Neq 1 ).</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-15-films-with-dolby-atmos-sound-experience-for-your-home-theater/"><u>Top 15 Films with Dolby Atmos Sound Experience for Your Home Theater</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turn-off-automatic-song-switching-on-apple-music-with-these-simple-steps/"><u>Turn Off Automatic Song Switching on Apple Music with These Simple Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-nothing-phone-3-latest-leaks-on-price-launch-timeline-and-features/"><u>Unveiling the 'Nothing Phone 3': Latest Leaks on Price, Launch Timeline & Features</u></a></li>
 </ul></div>
 

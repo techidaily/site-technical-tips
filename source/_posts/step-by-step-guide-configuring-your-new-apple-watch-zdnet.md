@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Configuring Your New Apple Watch (ZDNet)"
-date: 2024-11-02T22:18:57.070Z
-updated: 2024-11-05T17:45:03.689Z
+date: 2024-11-15T05:54:37.847Z
+updated: 2024-11-15T18:44:53.633Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ Here's how.
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -60,6 +60,13 @@ Here's how.
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
@@ -74,6 +81,13 @@ Once you're in the Slack settings pane, make sure Background App Refresh and Cel
 Now, back out to the top of the Settings app and tap the red Notifications icon. Make sure you Allow Notifications and turn on Time Sensitive Notifications. I also recommend you make sure Sounds is set to on. 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
@@ -98,10 +112,16 @@ Screenshot by David Gewirtz/ZDNET
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
@@ -124,23 +144,9 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
@@ -187,14 +193,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-free-and-legal-youtube-downloader-tools-recommendations/"><u>[Updated] Free & Legal YouTube Downloader Tools - Recommendations</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-simplify-your-social-media-uploading-multiple-photos-and-vids-on-ig/"><u>[Updated] Simplify Your Social Media Uploading Multiple Photos and Vids on IG</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/2024-approved-essential-tips-for-shooting-talking-head-videos/"><u>2024 Approved Essential Tips for Shooting Talking Head Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/integrated-mobility-evaluation-study/"><u>Integrated Mobility Evaluation Study</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-volume-control-step-by-step-solutions-for-windows-11-audio-problems/"><u>Restoring Volume Control: Step-by-Step Solutions for Windows 11 Audio Problems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-the-504-gateway-timeout-issue-a-step-by-step-guide/"><u>Solving the Mystery of the 504 Gateway Timeout Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-choosing-the-perfect-apple-watch-band-professional-testing-and-ratings/"><u>The Ultimate Guide to Choosing the Perfect Apple Watch Band : Professional Testing and Ratings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tuning-into-championship-glory-top-mens-college-basketball-showdowns-on-air/"><u>Tuning Into Championship Glory: Top Men's College Basketball Showdowns On Air!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-top-4-groundbreaking-features-of-apples-iphone-16-that-justify-upgrading-from-older-models-wired/"><u>Unveiling the Top 4 Groundbreaking Features of Apple's iPhone 16 That Justify Upgrading From Older Models | Wired</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-social-syncing-strategy-post-videos-between-platforms/"><u>[New] Social Syncing Strategy Post Videos Between Platforms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-elevate-your-brand-with-these-10-keywords-on-facebook-for-2024/"><u>[Updated] Elevate Your Brand with These 10 Keywords on Facebook for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unveiling-the-secrets-of-youtube-to-mp4mpeg-mastery/"><u>[Updated] In 2024, Unveiling the Secrets of YouTube to MP4/MPEG Mastery</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-secure-practices-for-storing-video-conversations/"><u>[Updated] Secure Practices for Storing Video Conversations</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/can-a-single-user-host-multiple-youtube-platforms-effectively/"><u>Can a Single User Host Multiple YouTube Platforms Effectively?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixes-for-watching-paramountplus-on-amazon-fire-stick-step-by-step-solutions/"><u>Fixes for Watching Paramount+ on Amazon Fire Stick - Step-by-Step Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-dciman32dll-absent-issue-on-your-pc/"><u>How to Correctly Address dciman32.dll Absent Issue on Your PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722882775076-mastering-multi-pin-drops-a-comprehensive-guide-on-google-maps/"><u>Mastering Multi-Pin Drops: A Comprehensive Guide on Google Maps</u></a></li>
+<li><a href="https://windows11.techidaily.com/precise-strategies-resetting-razers-system-integration/"><u>Precise Strategies: Resetting Razer's System Integration</u></a></li>
+<li><a href="https://win-hot.techidaily.com/resolution-transfert-de-donnees-sur-samsung-sans-alterer-la-source-disque-guide-complet/"><u>Résolution : Transfert De Données Sur Samsung Sans Altérer La Source Disque - Guide Complet.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrect-your-device-reviving-dead-usb-connections-win/"><u>Resurrect Your Device: Reviving Dead USB Connections Win</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-guide-resolve-your-missing-msvcrt10dll-computer-problems/"><u>The Definitive Guide: Resolve Your 'Missing msvcrt10.dll' Computer Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722882370798-the-grand-introduction-all-you-need-to-know-about-the-new-samsung-phone/"><u>The Grand Introduction: All You Need to Know About the New Samsung Phone!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-new-features-seamlessly-incorporate-github-copilot-into-microsoft-teams-workflows/"><u>Unlocking New Features: Seamlessly Incorporate GitHub Copilot Into Microsoft Teams Workflows</u></a></li>
 </ul></div>
 

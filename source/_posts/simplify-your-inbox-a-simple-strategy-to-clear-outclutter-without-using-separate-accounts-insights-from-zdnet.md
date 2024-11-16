@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Inbox: A Simple Strategy To Clear Outclutter Without Using Separate Accounts - Insights From ZDNet"
-date: 2024-11-04T18:12:16.452Z
-updated: 2024-11-05T21:01:59.608Z
+date: 2024-11-08T16:28:37.627Z
+updated: 2024-11-16T01:01:31.610Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +76,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +93,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,10 +110,16 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -154,18 +160,17 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-next-gen-patient-rehabilitation-tools/"><u>[Updated] Next-Gen Patient Rehabilitation Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/9-things-to-consider-before-buying-a-dash-cam/"><u>9 Things to Consider Before Buying a Dash Cam</u></a></li>
-<li><a href="https://network-issues.techidaily.com/address-display-anomalies-quickly/"><u>Address Display Anomalies Quickly</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/fb-content-extraction-mastered-discover-the-5-apps/"><u>FB Content Extraction Mastered - Discover the #5 Apps</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-xiaomi-redmi-note-12t-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Xiaomi Redmi Note 12T Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/innovative-techniques-for-backward-video-editing-in-snapchat-apps/"><u>Innovative Techniques for Backward Video Editing in Snapchat Apps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-study-habits-with-this-essential-tech-gadget-for-students-the-all-in-one-reusable-smart-notebook-zdnet/"><u>Revolutionize Your Study Habits with This Essential Tech Gadget for Students - The All-in-One Reusable Smart Notebook | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-how-to-retrieve-hidden-login-credentials-on-macos/"><u>Step-by-Step Tutorial: How to Retrieve Hidden Login Credentials on macOS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-powering-down-the-latest-iphone-models/"><u>Step-by-Step Tutorial: Powering Down the Latest iPhone Models</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-for-a-missing-avcodecdll-error-message/"><u>Troubleshooting Steps for a Missing avcodec.dll Error Message</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722895283459-unlock-hidden-desktop-shortcut-magic-learn-to-enable-the-finder-path-bar/"><u>Unlock Hidden Desktop Shortcut Magic - Learn to Enable the Finder Path Bar!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-system-level-functions-techniques-for-working-with-trustedinstaller-in-windows-10/"><u>Unlocking System-Level Functions: Techniques for Working with TrustedInstaller in Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-forefront-ai-how-does-it-stack-up-against-chatgpt-for-natural-language-processing/"><u>Unveiling Forefront AI: How Does It Stack Up Against ChatGPT for Natural Language Processing?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-easy-obs-youtube-live-streaming-guide/"><u>[New] 2024 Approved Easy OBS YouTube Live Streaming Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-crafting-viral-content-on-tiktok-a-route-to-more-likes-and-watches/"><u>[New] Crafting Viral Content on TikTok A Route to More Likes & Watches</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-securing-your-gaming-legacy-through-fbx-capture-systems/"><u>2024 Approved Securing Your Gaming Legacy Through FBX Capture Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-julys-latest-updates-for-windows-os/"><u>Comprehensive Guide to July's Latest Updates for Windows OS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-no-cost-community-based-dns-providers-online/"><u>Discover No-Cost Community-Based DNS Providers Online</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/elevate-youtube-navigating-tweets-in-1080p-clarity-for-2024/"><u>Elevate YouTube Navigating Tweets in 1080P Clarity for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-itel-p55-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-set-night-mode-in-iphone/"><u>How to Set Night Mode in iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protecting-personal-boundaries-controlling-visibility-of-your-iphone-location/"><u>Protecting Personal Boundaries: Controlling Visibility of Your iPhone Location</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-your-oculus-link-in-minutes-with-these-essential-tips/"><u>Troubleshoot Your Oculus Link in Minutes with These Essential Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-does-blue-screen-error-really-signify-in-your-pc/"><u>What Does Blue Screen Error Really Signify in Your PC?</u></a></li>
 </ul></div>
 

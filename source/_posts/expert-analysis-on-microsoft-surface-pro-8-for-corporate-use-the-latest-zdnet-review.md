@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis on Microsoft Surface Pro 8 for Corporate Use – The Latest ZDNet Review
-date: 2024-11-04T00:28:22.173Z
-updated: 2024-11-05T23:10:24.668Z
+date: 2024-11-13T19:31:20.189Z
+updated: 2024-11-15T17:48:45.742Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ Jason Cipriani/ZDNet
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -77,6 +77,13 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -92,13 +99,6 @@ I already had the combo kit, so that's what I've been using during my testing.
 Regardless of which keyboard you pick up, all of them have a slot for a Surface Slim Pen 2 above the keyboard. When it's folded up, the pen rests against the Pro 8's bottom bezel. It wirelessly charges the pen, so it's constantly ready for use. 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
 
@@ -143,13 +143,6 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -161,6 +154,19 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 **Also:** [**Want a touchscreen MacBook? This portable monitor makes it possible**](https://www.zdnet.com/home-and-office/smart-office/want-a-touchscreen-macbook-this-portable-monitor-makes-it-possible/)
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -174,14 +180,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -220,18 +232,24 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-boomerang-brilliance-keeping-users-hooked-on-ig-for-2024/"><u>[New] Boomerang Brilliance Keeping Users Hooked on IG for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-dissecting-vidma-a-guide-to-screen-capturing-tech-for-2024/"><u>[New] Dissecting Vidma A Guide to Screen Capturing Tech for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-adding-melodies-to-facebook-clips-easy-methods/"><u>[Updated] Adding Melodies to Facebook Clips Easy Methods</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-aspect-ratio-for-video-content-on-social-platforms/"><u>[Updated] In 2024, Aspect Ratio for Video Content on Social Platforms</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-capture-and-save-fb-videos-on-windows-mac/"><u>[Updated] In 2024, Capture and Save FB Videos on Windows, Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/eliminate-error-alerts-expert-strategies-for-restoring-coredll-on-your-computer/"><u>Eliminate Error Alerts: Expert Strategies for Restoring Core.dll on Your Computer</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-apple-iphone-se-2020-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About Apple iPhone SE (2020) Activation Lock</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-enhancing-presentations-incorporating-snap-features-on-meet/"><u>In 2024, Enhancing Presentations Incorporating Snap Features on Meet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/key-tech-innovations-shaping-our-future-the-top-three-to-know/"><u>Key Tech Innovations Shaping Our Future: The Top Three To Know</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/silent-mode-off-expert-tips-for-fixing-sound-problems-in-windows/"><u>Silent Mode Off: Expert Tips for Fixing Sound Problems in Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-checklist-key-aspects-to-assess-prior-to-purchasing-wearable-tech-gear/"><u>The Ultimate Checklist: Key Aspects to Assess Prior to Purchasing Wearable Tech Gear</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-the-limitations-deleting-default-apps-installed-on-iphones/"><u>Understanding the Limitations: Deleting Default Apps Installed on iPhones</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-12-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 12 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-progressive-audio-softening-methods/"><u>[New] 2024 Approved Progressive Audio Softening Methods</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-procedure-for-removing-stashed-videos-from-watch-later/"><u>[New] Procedure for Removing Stashed Videos From Watch Later</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-zen-of-broadcasting-perfecting-zooms-techniques-for-youtube/"><u>[Updated] In 2024, The Zen of Broadcasting Perfecting Zoom's Techniques for YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-three-simple-ways-to-block-unwanted-messages-on-iphone-expert-guide-zdnet/"><u>1. Three Simple Ways to Block Unwanted Messages on iPhone - Expert Guide (ZDNet)</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/complete-faq-resource-at-flipbuildercom-expert-answers-and-solutions/"><u>Complete FAQ Resource at FlipBuilder.com: Expert Answers and Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-guide-changing-your-macs-folder-colors/"><u>Easy Guide: Changing Your Mac's Folder Colors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-cost-effective-tools-for-your-diy-home-cinema-setup/"><u>Essential Cost-Effective Tools for Your DIY Home Cinema Setup</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expanding-possibilities-with-chatgpts-imagery-technology/"><u>Expanding Possibilities with ChatGPT’s Imagery Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-unlocking-windows-pin-protection-in-windows-10/"><u>Guide: Unlocking Windows ‛Pin Protection' In Windows 10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-x5frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco X5FRP Lock</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restore-scanner-link-to-computer-in-windows-10/"><u>Restore Scanner Link to Computer in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722868602090-sneak-peek-into-the-future-with-samsung-galaxy-s25-predictions-on-pricing-specs-and-release-day/"><u>Sneak Peek Into the Future with Samsung Galaxy S25 - Predictions on Pricing, Specs and Release Day</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-when-one-of-your-airpods-fails-to-work/"><u>Solving the Issue When One of Your AirPods Fails to Work</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-finding-iphone-user-locations-safely-and-legally/"><u>Step-by-Step Tutorial: Finding iPhone User Locations Safely and Legally</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-decision-makers-guide-to-choosing-between-staying-on-current-os-or-going-for-ios-17/"><u>The Decision-Maker's Guide to Choosing Between Staying on Current OS or Going for iOS 17</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-how-to-refresh-your-chromecast-software/"><u>The Ultimate Tutorial on How to Refresh Your Chromecast Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-must-play-imessage-games/"><u>Top 7 Must-Play iMessage Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-dnssddll-errors-on-your-windows-pc/"><u>Troubleshooting Missing dnssd.dll Errors on Your Windows PC</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-list-of-easy-to-use-neon-text-generators/"><u>Updated In 2024, The Ultimate List of Easy-to-Use Neon Text Generators</u></a></li>
 </ul></div>
 

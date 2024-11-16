@@ -1,7 +1,7 @@
 ---
 title: "Mastering Collaborative Work in Apple's iCloud: A Detailed Guide Based on ZDNet's Analysis"
-date: 2024-10-31T20:33:55.519Z
-updated: 2024-11-05T16:57:24.097Z
+date: 2024-11-11T03:41:08.077Z
+updated: 2024-11-16T05:40:49.825Z
 tags:
   - apple
 categories:
@@ -27,22 +27,29 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -63,10 +70,10 @@ Image: Jack Wallen
 ## Enable the Collaboration feature
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
@@ -77,13 +84,6 @@ The first thing you must do is open the Pages document that will be shared with 
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Enable the Collaborate feature
 
 Click Collaborate and you'll be informed the document must be moved to iCloud before you can collaborate (**Figure 4**).
@@ -91,13 +91,6 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -116,6 +109,13 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -157,17 +157,20 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-solutions.techidaily.com/fixed-fallout-4-freezing-on-pc/"><u>[Fixed] Fallout 4 Freezing on PC</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-isolating-subject-with-affinity/"><u>[New] 2024 Approved Isolating Subject with Affinity</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-flash-fixing-fame-is-it-youtubes-shorts-or-tiktok-for-quick-content-conquest/"><u>[Updated] In 2024, Flash-Fixing Fame Is It YouTubes Shorts or TikTok for Quick Content Conquest?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1726220918977-wma-wav-movavi/"><u>音楽ファイルを完全保存:無料WMA によるWAV形式へのシームレスなオンライン変換 – Movaviサービス紹介</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/affordable-wireless-magnetic-charging-solution-for-your-iphone-only-35-recommended-by-zdnet/"><u>Affordable Wireless Magnetic Charging Solution for Your iPhone, Only $35 – Recommended by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connect-your-oura-smart-ring-to-strava-the-ultimate-guide-to-seamless-fitness-integration/"><u>Connect Your Oura Smart Ring to Strava: The Ultimate Guide to Seamless Fitness Integration</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/enhanced-site-analytics-with-the-power-of-cookiebot-technology/"><u>Enhanced Site Analytics with the Power of Cookiebot Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-top-free-online-chat-platforms-to-replace-skype/"><u>Explore Top Free Online Chat Platforms to Replace Skype</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-infinix-smart-8-plus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Infinix Smart 8 Plus to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-best-way-to-use-obs-live-stream-to-facebook/"><u>In 2024, Best Way to Use OBS Live Stream to Facebook</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-ultimate-guide-to-discerning-exceptional-sound-designers-for-your-projects/"><u>The Ultimate Guide to Discerning Exceptional Sound Designers for Your Projects</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-18-unbeatable-prime-day-blowout-on-laptops-including-hp-apple-and-razer-exclusive-deals-from-zdnet/"><u>Top 18 Unbeatable Prime Day Blowout on Laptops Including HP, Apple & Razer - Exclusive Deals From ZDNet!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-charting-a-new-course-for-creative-vr-content/"><u>[New] Charting a New Course for Creative VR Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-list-free-online-meeting-software-roundup/"><u>[New] In 2024, The Ultimate List Free Online Meeting Software Roundup</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-exclusive-roundup-the-best-video-to-mp3-converters-for-2024/"><u>[Updated] Exclusive Roundup The Best Video to Mp3 Converters for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-new-google-extravaganza-insights-on-speculations-and-fresh-disclosures/"><u>Anticipating the New Google Extravaganza - Insights on Speculations & Fresh Disclosures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-twitter-management-software-expert-recommendations/"><u>Essential Twitter Management Software – Expert Recommendations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-what-to-do-when-your-gaming-headset-for-xbox-series-fails-to-function-correctly/"><u>Expert Advice: What to Do When Your Gaming Headset for Xbox Series Fails to Function Correctly</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-a1x-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-zoom-settings-for-microsoft-teams-communication/"><u>In 2024, Optimal Zoom Settings for Microsoft Teams Communication</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-photobooth-video-glitch-understanding-the-halt/"><u>In 2024, Photobooth Video Glitch - Understanding the Halt</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-csr8510-a10-printer-drivers-problems-on-windows-expert-fixes-and-tips/"><u>Resolving CSR8510 A10 Printer Drivers Problems on Windows: Expert Fixes and Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-of-smartwatches-apples-latest-gossip-on-the-much-awaited-watch-ultra-2-specs-and-arrival-date/"><u>The Future of Smartwatches: Apple's Latest Gossip on the Much-Awaited Watch Ultra 2 Specs and Arrival Date</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-methods-for-effective-maintenance-of-a-mechanical-keyboard/"><u>Ultimate Methods for Effective Maintenance of a Mechanical Keyboard</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-secrets-to-launch-resident-evil-7-biohazard-in-202cd-top-tips-and-solutions/"><u>Unlock the Secrets to Launch Resident Evil 7 Biohazard in 202CD: Top Tips & Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-7-free-online-services-for-sending-and-receiving-faxes/"><u>Unveiling 7 Free Online Services for Sending and Receiving Faxes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-linking-ultimate-guide-to-pair-your-samsung-soundbar-with-your-television/"><u>Wireless Linking: Ultimate Guide to Pair Your Samsung Soundbar with Your Television</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Three Essential Steps Apple Needs to Take to Save Tophat Vision Pro - Insights From ZDNet
-date: 2024-11-01T23:23:33.631Z
-updated: 2024-11-06T00:30:35.886Z
+date: 2024-11-11T21:43:33.033Z
+updated: 2024-11-16T01:09:02.480Z
 tags:
   - apple
 categories:
@@ -55,13 +55,6 @@ During this time, the company focused on providing viable mixed reality and VR e
 
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  That old Apple magic
 
 Apple, on the other hand, has a problem. It no longer has Steve Jobs to ruthlessly remove features and capabilities added by over-enthusiastic engineers and designers. Instead, Apple sometimes has a myopic focus on being special, on producing something "magic." 
@@ -89,6 +82,13 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Think different?
 
 For Apple to be able to move forward with the Vision Pro, it must answer one simple question: Why should I buy this thing? 
@@ -110,10 +110,10 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Vision for the rest of us
@@ -130,6 +130,13 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Give the Vision a controller
 
 VisionOS 2 has made some improvements. Beyond a trackpad, the new OS version (coming this fall) will support a mouse for pointing. It will also allow some form of keyboard passthrough, even in immersive environments, enabling you to see your keyboard. 
@@ -141,10 +148,10 @@ The eye tracking and hand gestures interface that are the primary means of opera
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
@@ -158,19 +165,6 @@ Just the absence of the Vision Pro battery and its tether to manage makes the Qu
 The idea that a future Vision device might need to be physically tethered to an iPhone to work would be a joy killer, especially when the Quest 3 doesn't have such an annoyance. 
 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
 
@@ -241,24 +235,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-natural-vs-artificial-balancing-your-sets-illumination/"><u>[Updated] Natural Vs. Artificial Balancing Your Set's Illumination</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/behind-chatgpts-innovation-who-are-the-brain-trust/"><u>Behind ChatGPT's Innovation: Who Are The Brain Trust?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-the-buzz-around-tesla-robotaxi-price-estimates-expected-release-dates-and-technical-innovations-revealed/"><u>Decoding the Buzz Around Tesla Robotaxi: Price Estimates, Expected Release Dates and Technical Innovations Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dell-laptop-maintenance-made-easy-ultimate-tips-for-effective-cleaning/"><u>Dell Laptop Mainten#ance Made Easy: Ultimate Tips for Effective Cleaning</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/eight-expert-recommended-tools-for-successful-online-person-tracking/"><u>Eight Expert-Recommended Tools for Successful Online Person Tracking</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-compile-multiple-jpegs-together-into-one-consolidated-pdf-format/"><u>How to Compile Multiple JPEGs Together Into One Consolidated PDF Format</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/indiana-jones-franchise-a-comprehensive-guide-on-viewing-sequences/"><u>Indiana Jones Franchise: A Comprehensive Guide on Viewing Sequences</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-art-of-purging-your-apple-devices-dns-cache-a-complete-tutorial/"><u>Master the Art of Purging Your Apple Device's DNS Cache - A Complete Tutorial</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-return-policy-how-to-get-money-back-for-steam-games/"><u>Navigating the Return Policy: How to Get Money Back for Steam Games</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-t2-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo T2 5G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/primeworldplus-local-complete-tv-content-at-fingertips/"><u>PrimeWorld+ Local Complete TV Content at Fingertips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/step-by-step-guide-to-download-and-store-twitter-videos-on-phone-for-2024/"><u>Step-by-Step Guide to Download and Store Twitter Videos on Phone for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/steps-to-enhance-instagram-content-with-background-music/"><u>Steps to Enhance Instagram Content with Background Music</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-noise-problem-heres-what-to-do-when-your-computer-fan-is-alarmingly-loud/"><u>The Noise Problem? Here’s What to Do When Your Computer Fan Is Alarmingly Loud</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-9-amazing-sites-for-gratis-pre-k-game-fun/"><u>The Ultimate List of 9 Amazing Sites for Gratis Pre-K Game Fun</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-crafting-powerful-video-titles-and-sizes/"><u>[New] In 2024, Crafting Powerful Video Titles & Sizes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-enhancing-engagement-essential-video-formats-for-youtube-viewers-for-2024/"><u>[Updated] Enhancing Engagement Essential Video Formats for YouTube Viewers for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-transforming-srt-to-widely-used-digital-audio-formats-with-ease/"><u>[Updated] Transforming SRT to Widely Used Digital Audio Formats with Ease</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2020s-windows-updates-a-quick-overview/"><u>2020'S Windows Updates A Quick Overview</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieving-maximum-frame-rates-a-guide-to-reaching-120fps-gameplay-on-your-playstation-5/"><u>Achieving Maximum Frame Rates: A Guide to Reaching 120FPS Gameplay on Your PlayStation 5</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-your-pc-solutions-for-handling-missing-bootmgr-issues/"><u>Fix Your PC: Solutions for Handling Missing BOOTMGR Issues</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/picsart-revamp-explained-in-depth-review-and-step-by-step-tutorial-update-for-2024/"><u>PicsArt Revamp Explained In-Depth Review & Step-by-Step Tutorial Update for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-getting-your-mac-to-acknowledge-external-displays/"><u>Step-by-Step Solution: Getting Your Mac to Acknowledge External Displays</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-motorola-moto-g73-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Motorola Moto G73 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-15-no-cost-anti-virus-software-options-for-your-system/"><u>Top 15 No-Cost Anti-Virus Software Options for Your System</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unique-14-motion-graphics-showcasing-text-for-2024/"><u>Unique 14 Motion Graphics Showcasing Text for 2024</u></a></li>
 </ul></div>
 

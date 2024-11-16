@@ -1,7 +1,7 @@
 ---
 title: The Importance of Diversifying IT Sources for Governments in Light of Frequent Outages at Microsoft
-date: 2024-09-09T13:33:04.692Z
-updated: 2024-09-10T13:33:04.692Z
+date: 2024-11-12T02:11:39.055Z
+updated: 2024-11-15T21:10:37.966Z
 categories:
   - BestProducts
 description: This Article Describes The Importance of Diversifying IT Sources for Governments in Light of Frequent Outages at Microsoft
@@ -9,12 +9,6 @@ excerpt: This Article Describes The Importance of Diversifying IT Sources for Go
 thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/shekai-vKla95GgAwg-unsplash-1d46c69f3d5f462faee87878fc1e0a57.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Evening Symphony Concerts Held in Rudolfinum or Municipal House for an Audience of Around 1200 People
  USB 2.0 is a[Universal Serial Bus](https://www.lifewire.com/universal-serial-bus-usb-2626039) (USB) standard. Almost all devices with USB capabilities, and nearly all USB cables, support_at least_ USB 2.0 (often called_Hi-Speed USB_ ).
 
@@ -24,20 +18,8 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
 
 ![Illustration of a person using a USB device on a laptop.](https://www.lifewire.com/thmb/JHMuTme7vTBFFvh3qADLD-hK6dY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-usb-2-0-2626037-724c3c1c829c42e3b638e9e0c85238cd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Derek Abella
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## USB 2.0 Connectors
 
 _Plug_ is the name given to the_male_ connector on a USB 2.0 cable or[flash drive](https://www.lifewire.com/what-is-a-flash-drive-2625794) , while the_receptacle_ is the name given to the_female_ connector on a USB 2.0 device or extension cable.
@@ -55,11 +37,12 @@ _Plug_ is the name given to the_male_ connector on a USB 2.0 cable or[flash driv
  You may want to consult a[USB Physical Compatibility Chart](https://www.lifewire.com/usb-physical-compatibility-chart-2624585) for a reference on what-fits-with-what.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Interconnected Device Speeds
 
  Older USB 1.1 devices and cables are, for the most part, physically compatible with USB 2.0 hardware. However, the only way to reach USB 2.0 transmission speeds is if all devices and cables being connected to each other support USB 2.0.
@@ -71,11 +54,12 @@ _Plug_ is the name given to the_male_ connector on a USB 2.0 cable or[flash driv
  In other words, the transmission speed falls to the older of the two technologies. This makes sense, since you can't pull USB 3.0 speeds out of a USB 2.0 cable, nor can you get USB 2.0 transmission speeds using a USB 1.1 cable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## USB On-the-Go (OTG)
 
 [USB On-the-Go](https://www.lifewire.com/what-is-usb-otg-and-what-does-it-do-4768902) was released in December 2006\. It allows devices to switch between acting as a host and as a subordinate when necessary so that they can be connected to each other directly.
@@ -108,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +99,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-soaring-visions-with-dji-mavic-pro-insight-for-2024/"><u>[New] Soaring Visions with DJI Mavic Pro Insight for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-obs-tutorial-for-youtube-and-twitch-broadcasts-for-2024/"><u>[New] The Ultimate OBS Tutorial for YouTube & Twitch Broadcasts for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-efficiently-configuring-zoom-for-flawless-calls/"><u>[Updated] 2024 Approved Efficiently Configuring Zoom for Flawless Calls</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-cyber-risks-apples-enhanced-protections-for-imessage-as-featured/"><u>Anticipating Cyber Risks: Apple's Enhanced Protections for iMessage as Featured</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-11-proipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 11 Pro/iPad? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expand-your-listening-horizons-how-to-set-up-multiple-bt-speakers-with-a-lone-device/"><u>Expand Your Listening Horizons: How To Set Up Multiple BT Speakers With A Lone Device</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-learning-to-capture-virtual-conferences-without-costs/"><u>In 2024, Learning to Capture Virtual Conferences Without Costs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-your-first-step-to-a-profitable-youtube-experience/"><u>In 2024, Your First Step to a Profitable Youtube Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-15-evaluation-a-must-have-device-that-pros-and-novices-will-love-insights/"><u>IPhone 15 Evaluation: A Must-Have Device That Pros and Novices Will Love - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-graphics-delays-optimizing-your-gaming-experience-on-a-second-monitor-via-windows-11/"><u>Overcoming Graphics Delays: Optimizing Your Gaming Experience on a Second Monitor via Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-steps-for-death-stranding-pc-crash-problems/"><u>Resolved: Troubleshooting Steps for Death Stranding PC Crash Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-your-apple-watch-series-10-today-exclusive-pre-order-tips-and-savings-hacks-from-zdnet/"><u>Secure Your Apple Watch Series 10 Today! Exclusive Pre-Order Tips & Savings Hacks From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-tablet-reviews-in-depth-analysis-by-tech-experts/"><u>Top Rated Tablet Reviews - In-Depth Analysis by Tech Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-paramountplus-streaming-issues-on-amazon-fire-tv/"><u>Troubleshooting Steps: Resolving Paramount+ Streaming Issues on Amazon Fire TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbeatable-discounts-get-apple-airpods-at-a-40-savings-before-independence-day-tech-news/"><u>Unbeatable Discounts: Get Apple AirPods at a $40 Savings Before Independence Day | Tech News</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-the-innovative-features-of-apples-mac-studio-outshine-the-upcoming-m4-mac-mini-this-fall-a-deep-dive-by-zdnet/"><u>Why the Innovative Features of Apple's Mac Studio Outshine the Upcoming M4 Mac Mini This Fall: A Deep Dive by ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revamping Your iPhone's Quick Access: Tailor Control Center in iOS 18 - Articles by Tech Experts at ZDNet"
-date: 2024-10-31T21:29:31.253Z
-updated: 2024-11-05T17:28:41.170Z
+date: 2024-11-10T18:39:12.984Z
+updated: 2024-11-15T23:05:46.085Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -51,13 +51,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -65,10 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -86,10 +79,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -97,6 +90,19 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,24 +140,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-prime-choice-of-low-cost-hd-action-recorders-for-2024/"><u>[New] Prime Choice of Low-Cost HD Action Recorders for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-provideocapture-pro-10plus-features-and-functionality-overview-for-2024/"><u>[New] ProVideoCapture Pro 10+ Features & Functionality Overview for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-comparing-video-tools-bandicam-and-camtasia-explored/"><u>[Updated] Comparing Video Tools Bandicam & Camtasia Explored</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-cultivating-confidence-for-captivating-your-youtube-audience-for-2024/"><u>[Updated] Cultivating Confidence for Captivating Your YouTube Audience for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-aps-hdr-essentials-for-professionals-and-enthusiasts/"><u>[Updated] In 2024, APS HDR Essentials for Professionals & Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-charting-your-youtube-trajectory-essential-tools-from-social-blade/"><u>[Updated] In 2024, Charting Your YouTube Trajectory Essential Tools From Social Blade</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pixelpioneer-8-version-visual-conjurer/"><u>[Updated] PixelPioneer 8-Version Visual Conjurer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1-upgrading-your-apple-studio-display-step-by-step-guide-to-firmware-enhancement-tech-insider/"><u>1. Upgrading Your Apple Studio Display: Step-by-Step Guide to Firmware Enhancement - Tech Insider</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/boost-your-conversions-with-our-cookiebot-technology/"><u>Boost Your Conversions with Our Cookiebot Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comparing-features-is-the-upgrade-worth-it-iphone-15-pro-takes-on-iphone-14-pro-in-latest-review-insights-from-zdnet/"><u>Comparing Features: Is the Upgrade Worth It? IPhone 15 Pro Takes on iPhone 14 Pro in Latest Review | Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-apple-tv-4k-third-gen-model-assessment/"><u>Comprehensive Apple TV 4K Third Gen Model Assessment</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-free-templates-greatest-slide-shows-of-the-year/"><u>Essential Free Templates Greatest Slide Shows of the Year</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-apple-podcasts-revolutionizes-listener-experience-with-real-time-closed-captioning/"><u>How Apple Podcasts Revolutionizes Listener Experience with Real-Time Closed Captioning</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/moving-on-from-your-old-iphone-top-recommendations-post-iphone-13-and-15-pro-discontinuation-guides/"><u>Moving On From Your Old iPhone: Top Recommendations Post-iPhone 13 and 15 Pro Discontinuation Guides</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-change-the-impact-of-smart-lens-technology-on-biking-displays-cyclistinnovations/"><u>Navigating Change: The Impact of Smart Lens Technology on Biking Displays | CyclistInnovations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/spyware-detection-and-removal-on-smartphones-expert-tips-for-a-secure-device/"><u>Spyware Detection & Removal on Smartphones: Expert Tips for a Secure Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/travel-game-changer-discover-the-best-3-in-1-magsafe-charger-with-qi-support-as-featured-s-favorites-list/"><u>Travel Game Changer: Discover the Best 3-in-1 MagSafe Charger with Qi Support, as Featured ’S Favorites List</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unlock-facebook-ad-success-with-these-3-adapted-writing-techniques-for-2024/"><u>Unlock Facebook Ad Success with These 3 Adapted Writing Techniques for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-apple-musics-student-pricing-a-comprehensive-guide/"><u>Unlocking Apple Music's Student Pricing: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-10-igtv-channels-shaping-content-trends/"><u>[New] In 2024, The 10 IGTV Channels Shaping Content Trends</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-simple-process-for-preserving-tweets-imagesvideos/"><u>[Updated] 2024 Approved Simple Process for Preserving Tweets' Images/Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-compatible-software-for-viewing-apples-pages-documents-on-windows-and-mac-os/"><u>Complete Guide: Compatible Software for Viewing Apple's Pages Documents on Windows and Mac OS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-huion-inspiroy-g10t-touchpad-art-tablet-assessment-exceptional-craftsmanship-and-features/"><u>Comprehensive Huion Inspiroy G10T Touchpad Art Tablet Assessment - Exceptional Craftsmanship & Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-a-harmonic-narrative-adding-youtube-music-to-vids/"><u>Crafting a Harmonic Narrative Adding YouTube Music to Vids</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-vivo-y28-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y28 5G Phone that is Locked?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/peak-visionary-suite-feedback-for-2024/"><u>Peak Visionary Suite Feedback for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/slack-reminders-simplified-tips-for-seamless-integration-and-management/"><u>Slack Reminders Simplified: Tips for Seamless Integration and Management</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/snapchat-reactivation-strategies-regain-control-over-your-digital-friendships-today/"><u>Snapchat Reactivation Strategies: Regain Control Over Your Digital Friendships Today!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210882811-9781088186596-source-and-interpretation-of-dreams-with-fasting-prayer-for-fulfilment-of-good-dreams/"><u>Source And Interpretation Of Dreams With Fasting & Prayer For Fulfilment Of Good Dreams | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-utilizing-google-meets-blur-effect-to-enhance-virtual-meeting-aesthetics/"><u>Step-by-Step Tutorial: Utilizing Google Meet's Blur Effect to Enhance Virtual Meeting Aesthetics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-flaws-that-arise-from-blind-trust-in-algorithms/"><u>The Flaws That Arise From Blind Trust in Algorithms</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/bes-eco-film-hub-dive-into-green-screen-creativity/"><u>Youtube’s Eco-Film Hub Dive Into Green Screen Creativity</u></a></li>
 </ul></div>
 

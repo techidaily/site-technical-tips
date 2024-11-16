@@ -1,7 +1,7 @@
 ---
 title: "Innovation Alert: Apple Delves Into AI-Enhanced Domestic Robots, Showcasing Two Revolutionary Products | ZDNET Update"
-date: 2024-11-03T00:30:16.008Z
-updated: 2024-11-05T22:56:42.379Z
+date: 2024-11-14T23:57:18.106Z
+updated: 2024-11-15T17:20:40.538Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -67,19 +74,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -99,13 +93,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -121,10 +108,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -138,10 +125,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -179,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -224,22 +218,15 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-dominance-in-video-landscape-mirrorless-vs-dslr-cameras-for-2024/"><u>[Updated] Dominance in Video Landscape Mirrorless vs DSLR Cameras for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-parodic-play-writing-and-producing-humor-videos/"><u>[Updated] Parodic Play Writing and Producing Humor Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/alternative-pathway-for-opening-file-explorer-through-onedrive/"><u>Alternative Pathway for Opening File Explorer Through OneDrive</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-zoom-webcams-top-picks-of-the-season-for-2024/"><u>Best Zoom Webcams – Top Picks of the Season for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-free-windows-registry-optimizers-of-202copyrighted-material/"><u>Discover the Best Free Windows Registry Optimizers of 202([Copyrighted Material])</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expect-unusual-meeting-experiences-with-the-new-zoom-integration-in-vision-pro-wireless-earbuds/"><u>Expect Unusual Meeting Experiences with the New Zoom Integration in Vision Pro Wireless Earbuds</u></a></li>
-<li><a href="https://article-helps.techidaily.com/fabricate-funny-images-on-giphy/"><u>Fabricate Funny Images on Giphy</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-effortlessly-scan-images-or-text-from-a-printer-to-your-desktop/"><u>How To Effortlessly Scan Images or Text From a Printer to Your Desktop</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/how-to-infuse-prayerful-melodies-on-your-phone-for-2024/"><u>How to Infuse Prayerful Melodies on Your Phone for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-best-free-image-layers-and-enhancers-on-iosandroid/"><u>In 2024, Explore the Best, FREE Image Layers & Enhancers on iOS/Android</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo S18e? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/leading-smartwatch-selection-for-2e24-in-depth-analysis-by-tech-specialists-zdnet/"><u>Leading Smartwatch Selection for 2E24: In-Depth Analysis by Tech Specialists | ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/major-news-for-accessibility-get-ready-as-airpods-pro-gain-hearing-mode-on-upcoming-ios-16-release/"><u>Major News for Accessibility: Get Ready as AirPods Pro Gain Hearing Mode on Upcoming iOS 16 Release</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-four-reasons-holding-me-back-from-upgrading-to-an-iphone-16-pro-a-detailed-review-by-zdnet/"><u>Top Four Reasons Holding Me Back From Upgrading to an iPhone 16 Pro - A Detailed Review by ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-kid-friendly-smartphones-a-comprehensive-guide-by-zdnet/"><u>Top Kid-Friendly Smartphones: A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/which-avi-and-mp4-codecs-can-you-stream-on-apple-tv/"><u>Which AVI and MP4 Codecs Can You Stream on Apple TV?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/withholding-information-whats-your-guide-to-calling-back-private-numbers/"><u>Withholding Information: What's Your Guide to Calling Back Private Numbers?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-cutting-edge-creations-yearly-free-text-files/"><u>[New] In 2024, Cutting-Edge Creations Yearly, Free Text Files</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-shorts-revenue-sharing-how-much-do-creators-get-paid-in-2024/"><u>[New] YouTube Shorts Revenue Sharing How Much Do Creators Get Paid, In 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/agile-operations-top-lite-android-workhorses/"><u>Agile Operations: Top Lite Android Workhorses</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-3d-lut-expertise-in-a-quick-learning-journey/"><u>In 2024, 3D LUT Expertise in a Quick Learning Journey</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-and-easy-steps-for-connecting-a-wireless-printer-at-homeoffice/"><u>Quick & Easy Steps for Connecting a Wireless Printer at Home/Office</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rotation-locked-learn-how-to-activate-landscape-on-your-ios-gadget/"><u>Rotation Locked? Learn How to Activate Landscape on Your iOS Gadget</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-problem-steps-to-fix-a-non-functional-keyboard/"><u>Solving the Problem: Steps to Fix a Non-Functional Keyboard</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-updating-realteks-pci-express-fe-series-chipset-drivers-on-windows-7/"><u>Step-by-Step Guide: Updating Realtek's PCI Express FE Series Chipset Drivers on Windows 7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-overcoming-fortnites-edit-slowdown-issues-with-reliable-fixes/"><u>Step-by-Step Tutorial: Overcoming Fortnite's Edit Slowdown Issues with Reliable Fixes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Experience the Future of Computing with MacOS 15 - Top-Notch Enhancements for Your Apple MacBook | Insights From ZDNET!
-date: 2024-11-02T17:35:04.424Z
-updated: 2024-11-05T16:14:37.631Z
+date: 2024-11-09T18:25:56.388Z
+updated: 2024-11-15T23:31:43.975Z
 tags:
   - apple
 categories:
@@ -52,6 +52,19 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Continuity
 
 Screenshot by Nina Raemont
@@ -63,13 +76,6 @@ The new Continuity app links your Mac to your iPhone in a fully comprehensive wa
 The app also streamlines your devices by bringing your iPhone's notifications straight to the Mac, allowing you to pull up the corresponding app onto the laptop. If you're worried about privacy while using your phone on your laptop, your phone's screen actually remains locked and turned off, even while you're using the phone remotely.   
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
 
@@ -84,10 +90,10 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -103,16 +109,10 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -136,10 +136,10 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -176,22 +176,24 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-achieving-professional-skype-recordings-in-obs/"><u>[Updated] 2024 Approved Achieving Professional Skype Recordings in OBS</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-virtually-vivacious-top-humorous-memes-for-the-metaverse-enthusiasts/"><u>2024 Approved Virtually Vivacious Top Humorous Memes for the Metaverse Enthusiasts</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-watch-tips-quick-ways-to-message-loved-ones-on-the-go/"><u>Apple Watch Tips: Quick Ways to Message Loved Ones on the Go</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-collection-of-playstation-5s-exclusive-titles/"><u>Complete Collection of PlayStation 5'S Exclusive Titles</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/creating-and-securing-your-online-playstation-id/"><u>Creating and Securing Your Online PlayStation ID</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-new-rock-bottom-deal-apples-mac-mini-fitted-with-m2-chip-for-just-479-tech-insights-from-zdnet/"><u>Discover the New Rock-Bottom Deal: Apple's Mac Mini Fitted with M2 Chip for Just $479 | Tech Insights From ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-huawei-p60-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Huawei P60 Phone Now with These Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/prime-day-deals-how-the-apple-watch-series-se-2nd-generation-remains-80-cheaper-on-launch-insights/"><u>Prime Day Deals: How the Apple Watch Series SE (2Nd Generation) Remains $80 Cheaper on Launch - Insights</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quickly-solve-roblox-lag-and-freezes-effective-tips-for-gamers/"><u>Quickly Solve Roblox Lag and Freezes: Effective Tips for Gamers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-2024-saga-of-windows-and-crowdstrike-decoding-the-origins-behind-the-infamous-cyber-clash-insights-and-analysis-by-zdnet/"><u>The 2024 Saga of Windows and CrowdStrike: Decoding the Origins Behind the Infamous Cyber Clash | Insights & Analysis by ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-future-is-here-explore-potential-specs-launch-timeframe-and-cost-estimations-for-the-new-apple-watch-ultra-2/"><u>The Future Is Here – Explore Potential Specs, Launch Timeframe & Cost Estimations for the New Apple Watch Ultra 2</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transition-from-finewoven-to-beats-how-apple-revamps-accessories-lineup-for-enhanced-audio-experience-cnet/"><u>Transition From FineWoven to Beats: How Apple Revamps Accessories Lineup for Enhanced Audio Experience | CNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-halinitializationfailed-error-stop-0x0000005c/"><u>Troubleshooting Guide: Resolving HAL_INITIALIZATION_FAILED Error STOP 0X0000005C</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unleashing-potential-instagram-tiktok-sync-guidebook-for-2024/"><u>Unleashing Potential Instagram-TikTok Sync Guidebook for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-diving-into-the-depths-of-hdr-with-asus-pa32u/"><u>[New] In 2024, Diving Into the Depths of HDR with ASUS PA32U</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-masterclass-on-minimizing-video-footage-in-youtube/"><u>[Updated] In 2024, Masterclass on Minimizing Video Footage in YouTube</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1725286197221-winx-dvd-copy-pro-dvddvdisodvd/"><u>公式版 WinX DVD Copy Pro - DVDコピーソフト簡単操作！無料ダウンロードでDVD/ISOイメージ、DVDフォルダへの容易な変換</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-walkthrough-how-to-disable-cortanacopilot-on-windows-11-systems/"><u>Complete Walkthrough: How To Disable Cortana/Copilot on Windows 11 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-missing-or-corrupted-wininetdll-strategies-to-restore-functionality/"><u>Dealing with Missing or Corrupted wininet.dll: Strategies to Restore Functionality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-dac-understanding-its-importance-and-your-necessity/"><u>Demystifying DAC: Understanding Its Importance & Your Necessity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/do-i-really-need-a-blu-ray-player-in-the-age-of-streaming-services/"><u>Do I Really Need a Blu-Ray Player in the Age of Streaming Services?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-to-the-not-found-or-missing-msodll-file-problem/"><u>Effective Solutions to the Not Found or Missing MSODLL File Problem</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-2023s-best-replacements-for-samsung-gear-360/"><u>In 2024, 2023'S Best Replacements for Samsung Gear 360</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-value-in-4k-cameras-for-under-1000/"><u>In 2024, Best Value in 4K Cameras for Under $1,000</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-create-magic-download-premium-soundscapes-now/"><u>In 2024, Create Magic Download Premium Soundscapes Now!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y78plus-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y78+ Phone FRP Lock</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-beyerdynamic-mmx-300-pro-superior-acoustics-meets-fundamental-design/"><u>In-Depth Analysis of the Beyerdynamic MMX 300 Pro: Superior Acoustics Meets Fundamental Design</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-downloading-popular-netflix-shows-and-movies-onto-your-laptop/"><u>Master the Art of Downloading Popular Netflix Shows and Movies Onto Your Laptop</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/maximizing-learning-through-recording-classroom-discourse-on-mac-for-2024/"><u>Maximizing Learning Through Recording Classroom Discourse on Mac for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fix-guide-how-to-address-non-syncing-issues-with-gmail/"><u>Quick Fix Guide: How to Address Non-Syncing Issues with Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-techniques-for-fixing-missing-or-lost-coredll-errors-efficiently/"><u>Troubleshooting Techniques for Fixing Missing or Lost Core.dll Errors Efficiently</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-capturing-perfect-vertical-videos-with-your-desktop/"><u>Ultimate Guide: Capturing Perfect Vertical Videos with Your Desktop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722853570262-unveiling-the-samsung-galaxy-s2n-prospective-price-points-debut-date-and-specs-revealed/"><u>Unveiling the Samsung Galaxy S2n: Prospective Price Points, Debut Date & Specs Revealed</u></a></li>
 </ul></div>
 

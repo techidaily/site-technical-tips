@@ -1,7 +1,7 @@
 ---
 title: "Upcoming October Launch: Apple Pushes Back Initial Artificial Intelligence Offerings, Says ZDNET Report"
-date: 2024-11-03T22:59:04.249Z
-updated: 2024-11-05T17:08:03.503Z
+date: 2024-11-09T23:30:05.594Z
+updated: 2024-11-16T03:45:42.623Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -86,6 +93,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -100,13 +114,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -116,13 +123,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -153,10 +153,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -168,16 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -224,24 +218,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-flashback-screen-recorder-review-in-depth-for-2024/"><u>[New] FlashBack Screen Recorder Review in Depth for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-perfecting-distance-remote-podcast-capture-techniques/"><u>[New] In 2024, Perfecting Distance Remote Podcast Capture Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-precision-voice-transformation-through-morphvox/"><u>[Updated] Precision Voice Transformation Through MorphVOX</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/anticipated-apple-releases-this-autumn-ai-integration-and-new-features-for-iphone-ipad-mac-spectrum-unveiled/"><u>Anticipated Apple Releases This Autumn: AI Integration and New Features for iPhone, iPad, Mac Spectrum Unveiled</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boosting-your-iphones-ringtone-tips-for-increasing-call-volume/"><u>Boosting Your iPhone's Ringtone: Tips for Increasing Call Volume</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bypassing-and-repairing-code-31-problems-expert-tips-for-windows-users/"><u>Bypassing and Repairing Code 31 Problems: Expert Tips for Windows Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-crypto-analysis-understanding-the-5-major-constraints/"><u>ChatGPT and Crypto Analysis: Understanding the 5 Major Constraints</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/discover-the-tricks-to-recording-and-screencasting-your-youtube-views-without-cash/"><u>Discover The Tricks to Recording & Screencasting Your YouTube Views without Cash</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-skillfully-craft-awkward-potions-in-minecraft-advanced-techniques/"><u>How to Skillfully Craft Awkward Potions in Minecraft - Advanced Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-diagnoses-moisture-inside-charger-heres-what-you-can-do-gizmopundit/"><u>IPhone Diagnoses Moisture Inside Charger, Here's What You Can Do | GizmoPundit</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-gmail-sync-obstacles-expert-tips-and-advice/"><u>Overcoming Gmail Sync Obstacles: Expert Tips and Advice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-failure-to-detect-powershell/"><u>Overcoming Windows Failure to Detect PowerShell</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-remediation-of-the-could-not-load-propstsydll-problem-in-windows/"><u>Step-by-Step Remediation of the 'Could Not Load Propstsy.dll' Problem in Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-future-of-ar-glasses-with-apple-vision-pro-must-have-upgrades-discussed/"><u>The Future of AR Glasses with Apple Vision Pro: Must-Have Upgrades Discussed</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-blade-e-flite-mcx-rtf-heli-unbiased-review-of-the-best-pre-assembled-flying-marvel/"><u>The Ultimate Guide to Blade E-Flite mCX² RTF Heli: Unbiased Review of the Best Pre-Assembled Flying Marvel</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-choosing-an-iphone-se-case-for-maximum-protection-trusted-picks-by-zdnet/"><u>The Ultimate Guide to Choosing an iPhone SE Case for Maximum Protection - Trusted Picks by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-overwatchs-buffer-management-feature-and-its-impact-on-streaming-quality/"><u>Understanding Overwatch's Buffer Management Feature and Its Impact on Streaming Quality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-your-secrets-a-guide-to-finding-passwords-in-macos-keychain/"><u>Unlocking Your Secrets: A Guide to Finding Passwords in macOS Keychain</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-in-depth-analysis-screenflow-performance-on-macbooks/"><u>[New] In 2024, In-Depth Analysis ScreenFlow Performance on MacBooks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-watchful-eye-app-critique-and-rating-for-2024/"><u>[New] The Watchful Eye App Critique and Rating for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-reaping-health-rewards-from-asmrs-embrace/"><u>[Updated] In 2024, Reaping Health Rewards From ASMR's Embrace</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-revolutionize-with-a-stroke-premier-tablet-draw-tools-for-2024/"><u>[Updated] Revolutionize with a Stroke Premier Tablet Draw Tools for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-freeweb-cams-features-uncovered-in-detail/"><u>2024 Approved FreeWeb Cam's Features Uncovered in Detail</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conquer-code-10-boot-problems-with-these-proven-strategies-and-tips/"><u>Conquer Code 10 Boot Problems with These Proven Strategies and Tips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-engaging-youtube-videos-using-finalcut-pro-expertise/"><u>Crafting Engaging YouTube Videos Using FinalCut Pro Expertise</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-top-workout-logging-apps-for-fitness-enthusiasts/"><u>Discover the Ultimate List of Top Workout Logging Apps for Fitness Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-switch-up-your-chromecast-backdrop-for-a-fresh-look/"><u>How to Switch Up Your Chromecast Backdrop for a Fresh Look</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hunt-for-hot-electronics-discounts-on-amazon-prime-day-extravaganza/"><u>Hunt for Hot Electronics Discounts on Amazon Prime Day Extravaganza</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-not-alerting-with-ringtones-fix-the-problem-in-simple-steps/"><u>IPhone Not Alerting with Ringtones? Fix the Problem in Simple Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/patch-tuesday-explained-keeping-your-software-up-to-date/"><u>Patch Tuesday Explained: Keeping Your Software Up-to-Date</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stop-unwanted-apple-music-playback-effective-methods-explored/"><u>Stop Unwanted Apple Music Playback: Effective Methods Explored</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-essential-guide-to-choosing-between-ipad-mini-and-ipad-air/"><u>The Essential Guide to Choosing Between iPad Mini and iPad Air</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-why-this-reliable-ipad-pro-usb-c-hub-stands-out-featured/"><u>The Ultimate Guide: Why This Reliable iPad Pro USB-C Hub Stands Out - Featured</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-20-must-have-tools-and-effects-for-your-tiktok-edits/"><u>Top 20 Must-Have Tools & Effects for Your TikTok Edits</u></a></li>
 </ul></div>
 

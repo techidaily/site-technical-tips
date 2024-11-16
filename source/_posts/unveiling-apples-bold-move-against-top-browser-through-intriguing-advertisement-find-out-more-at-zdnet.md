@@ -1,7 +1,7 @@
 ---
 title: Unveiling Apple's Bold Move Against Top Browser Through Intriguing Advertisement - Find Out More at ZDNet
-date: 2024-11-01T22:09:58.992Z
-updated: 2024-11-06T00:49:41.055Z
+date: 2024-11-09T02:47:01.954Z
+updated: 2024-11-15T22:13:52.203Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -44,10 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -64,18 +64,18 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -86,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -134,24 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-a-stepwise-approach-to-designing-powerful-edu-vids-on-social-media/"><u>[New] 2024 Approved A Stepwise Approach to Designing Powerful Edu-Vids on Social Media</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-building-a-strong-online-presence-with-attractive-video-thumbnails/"><u>[New] 2024 Approved Building a Strong Online Presence with Attractive Video Thumbnails</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-alternative-video-editor-tips-beyond-youtube/"><u>[Updated] Alternative Video Editor Tips Beyond YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/astonishingly-affordable-snag-a-cents-priced-iphone-15-pro-max-on-amazon-the-ultimate-guide-to-the-steal-of-the-century-smart-savings-daily/"><u>Astonishingly Affordable: Snag a Cents-Priced iPhone 15 Pro Max on Amazon - The Ultimate Guide to the Steal of the Century | Smart Savings Daily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discovering-the-apple-vision-pro-experience-my-key-lessons-after-two-days-of-testing-zdnets-comprehensive-analysis/"><u>Discovering the Apple Vision Pro Experience: My Key Lessons After Two Days of Testing - ZDNet's Comprehensive Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-approach-eliminating-the-pin-authentication-feature-on-windows-11/"><u>DIY Approach: Eliminating the PIN Authentication Feature on Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-ensure-genuine-dolby-atmos-sound-performance-at-home/"><u>How to Ensure Genuine Dolby Atmos Sound Performance at Home?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-squaring-the-circle-of-facebook-engagement-with-visuals/"><u>In 2024, Squaring the Circle of Facebook Engagement with Visuals</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-ultimate-list-of-video-editing-software-for-beginners/"><u>In 2024, The Ultimate List of Video Editing Software for Beginners</u></a></li>
-<li><a href="https://review-topics.techidaily.com/infinix-data-retrieval-tool-restore-lost-data-from-infinix-note-30-by-fonelab-android-recover-data/"><u>Infinix Data Retrieval tool – restore lost data from Infinix Note 30</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-showdown-14-pro-vs-14-pro-max-which-one-is-best-suited-for-you-mobile-matters/"><u>IPhone Showdown: 14 Pro vs 14 Pro Max – Which One Is Best Suited for You? | Mobile Matters</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/legally-recording-calls-with-your-iphone-a-comprehensive-guide-by-zdnet/"><u>Legally Recording Calls with Your iPhone: A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-optimized-solutions-to-gameplay-lag-and-freezing-problems/"><u>Red Dead Redemption 2 Optimized: Solutions to Gameplay Lag and Freezing Problems</u></a></li>
-<li><a href="https://techidaily.com/remove-samsung-lock-screen-without-password-samsung-galaxy-xcover-7-by-drfone-android-unlock-android-unlock/"><u>Remove Samsung Lock Screen without Password(Samsung Galaxy XCover 7)</u></a></li>
-<li><a href="https://win11.techidaily.com/subnet-adjustment-for-win11-users/"><u>Subnet Adjustment for Win11 Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-viewing-guide-for-watching-transformers-movies-back-to-back/"><u>The Ultimate Viewing Guide for Watching Transformers Movies Back to Back</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/three-essential-steps-apple-needs-to-take-to-save-tophat-vision-pro-insights/"><u>Three Essential Steps Apple Needs to Take to Save Tophat Vision Pro - Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-recommended-ipad-gadgets-and-extras-insights-from-zdnet/"><u>Top Recommended iPad Gadgets & Extras - Insights From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-crafting-intricate-photo-mosaics/"><u>[Updated] Expert Tips for Crafting Intricate Photo Mosaics</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-your-secure-video-chatting-needs-met-top-10-safe-and-free-applications-on-smart-devices-for-2024/"><u>[Updated] Your Secure Video Chatting Needs Met Top 10 Safe & Free Applications on Smart Devices for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/easy-to-follow-tutorial-securely-saving-data-with-backup-solutions-for-dell-laptops-using-windows-11/"><u>Easy-to-Follow Tutorial: Securely Saving Data with Backup Solutions for Dell Laptops Using Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/finding-solutions-deadlock-woes-and-how-to-get-deathloop-running/"><u>Finding Solutions: Deadlock Woes and How to Get Deathloop Running</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-canon-mg3620-printer-drivers-now-safe-and-simple-steps/"><u>Get Your Canon MG3620 Printer Drivers Now – Safe and Simple Steps</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-to-seamlessly-transition-a-linux-vm-from-vmware-environment-to-kvm-platform/"><u>How To Seamlessly Transition A Linux VM From VMware Environment to KVM Platform</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-fixes-to-tackle-overloading-ram-on-your-windows-11-device/"><u>Step-by-Step Fixes to Tackle Overloading RAM on Your Windows ^[11^] Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-successfully-disabling-safe-mode-in-windows-11/"><u>Step-by-Step Guide: Successfully Disabling Safe Mode in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-on-how-to-repair-windows-device-driver-issues/"><u>Step-by-Step Instructions on How to Repair Windows Device Driver Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-to-resolve-sticky-keys-in-windows-systems/"><u>Step-by-Step Solution to Resolve Sticky Keys in Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-fixing-windows-11-installation-errors/"><u>Step-by-Step Solutions for Fixing Windows 11 Installation Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-entering-bios-on-windows-11-devices/"><u>Step-by-Step Tutorial: Entering BIOS on Windows 11 Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/step-up-your-pc-game-upgrading-from-windows-11-home/"><u>Step-Up Your PC Game: Upgrading From Windows 11 Home</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/superfetch-explained-your-definitive-source-of-information/"><u>SuperFetch Explained: Your Definitive Source of Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-vivo-y100t-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo Y100t Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-portable-storage-options-external-hdds-and-ssds-for-macos-users/"><u>Top Rated Portable Storage Options: External HDDs & SSDs for macOS Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-excessive-processor-load-on-windows-11-systems-solutions-revealed/"><u>Troubleshooting Excessive Processor Load on Windows 11 Systems - Solutions Revealed</u></a></li>
 </ul></div>
 

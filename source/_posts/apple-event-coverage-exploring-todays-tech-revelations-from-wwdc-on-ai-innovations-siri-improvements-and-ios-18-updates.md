@@ -1,7 +1,7 @@
 ---
 title: "Apple Event Coverage: Exploring Today's Tech Revelations From WWDC on AI Innovations, Siri Improvements & iOS 18 Updates"
-date: 2024-11-03T21:27:42.278Z
-updated: 2024-11-05T23:32:01.231Z
+date: 2024-11-14T18:32:33.363Z
+updated: 2024-11-16T03:20:35.823Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +89,10 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,22 +133,19 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-access-free-photographic-treasures-through-favored-4-youtube-clips/"><u>[New] 2024 Approved Access Free Photographic Treasures Through Favored 4 Youtube Clips</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-emulating-old-hollywood-style-in-modern-videos/"><u>[New] 2024 Approved Emulating Old Hollywood Style in Modern Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-creative-photography-palette-radiantvisuals-edge/"><u>[New] Creative Photography Palette RadiantVisuals Edge</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-exploring-instagrams-max-video-length-for-2024/"><u>[New] Exploring Instagram's Max Video Length for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1-how-apple-vision-pro-can-rise-to-the-top-essential-improvements-for-market-triumph-insights-from-zdnet/"><u>1. How Apple Vision Pro Can Rise to the Top: Essential Improvements for Market Triumph - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-pc-building-tips-by-tom-unlocking-performance-secrets/"><u>Advanced PC Building Tips by Tom - Unlocking Performance Secrets</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-steps-to-remove-synchronized-captions-in-your-amazon-prime-viewing-experience/"><u>Easy Steps to Remove Synchronized Captions in Your Amazon Prime Viewing Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-next-generation-unveiling-key-distinctions-of-apples-upcoming-airpods-pro-and-max-insights-for-tech-enthusiasts/"><u>Exploring the Next Generation: Unveiling Key Distinctions of Apple's Upcoming AirPods Pro and Max - Insights for Tech Enthusiasts</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lava-yuva-3-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava Yuva 3</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-apples-pursuit-of-thinner-ipads-does-reducing-to-0n-inches-really-matter-insights-from-an-apple-store-experience/"><u>Inside Apple's Pursuit of Thinner iPads: Does Reducing to 0.n Inches Really Matter? | Insights From an Apple Store Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-look-how-apple-aims-to-reinvent-audio-tech-with-camera-enabled-airpods-by-2026-insights-report/"><u>Inside Look: How Apple Aims to Reinvent Audio Tech with Camera-Enabled AirPods by 2026 - Insights Report</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-realme-11-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Realme 11 Pro – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-the-missing-msvcr80dll-file-issue-a-step-by-step-guide/"><u>Resolving the 'Missing MSVCR80.dll File' Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/speedy-iphone-screen-management-how-to-accelerate-the-black-out-process/"><u>Speedy iPhone Screen Management: How to Accelerate the Black Out Process!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-pairing-your-samsung-earbuds-with-your-pc/"><u>Step-by-Step Guide: Pairing Your Samsung Earbuds with Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-apple-watch-offers-in-july-2024-unbeatable-discounts-and-reviews-techradar/"><u>Top Apple Watch Offers in July 2024 - Unbeatable Discounts & Reviews | TechRadar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-error-developer-cannot-be-verified-for-macos-apps/"><u>Troubleshooting 'Error: Developer Cannot Be Verified' For macOS Apps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-secret-social-scrolls-best-kept-facebook-memes/"><u>[New] 2024 Approved Secret Social Scrolls Best-Kept Facebook Memes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-depth-insight-on-selecting-superior-valheim-seeds-for-2024/"><u>[New] In-Depth Insight on Selecting Superior Valheim Seeds for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-critical-methods-to-record-lol-skirmishes/"><u>[Updated] 2024 Approved Critical Methods to Record LOL Skirmishes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitpic-saver-streamline-ios-video-downloads-from-tweets/"><u>[Updated] 2024 Approved TwitPic Saver Streamline iOS Video Downloads From Tweets</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-rapid-diy-filming-ideas-for-aspiring-directors/"><u>2024 Approved Rapid DIY Filming Ideas for Aspiring Directors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-overcoming-windows-1nt-installed-error-code-0020/"><u>Guide to Overcoming 'Windows 1N't Installed Error Code #0020</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-connect-and-use-your-ps4-controller-with-steam-a-comprehensive-guide/"><u>How to Connect and Use Your PS4 Controller with Steam: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-prevent-automatic-driver-updates-during-windows-11-os-setup/"><u>How to Prevent Automatic Driver Updates During Windows 11 OS Setup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-record-screen-on-laptop/"><u>How to Record Screen on Laptop</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-motorola-moto-g14-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Motorola Moto G14 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/instant-solution-a-step-by-step-process-for-a-speedy-facebook-password-change/"><u>Instant Solution: A Step-by-Step Process for a Speedy Facebook Password Change</u></a></li>
+<li><a href="https://techidaily.com/miracast-in-windows-7-everything-you-need-to-know/"><u>Miracast in Windows 7 - Everything You Need to Know</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-poco-f5-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco F5 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-or-not-found-avcodecdll-error-messages-on-your-pc/"><u>Troubleshooting 'Missing' Or 'Not Found' Avcodec.dll Error Messages on Your PC</u></a></li>
 </ul></div>
 
