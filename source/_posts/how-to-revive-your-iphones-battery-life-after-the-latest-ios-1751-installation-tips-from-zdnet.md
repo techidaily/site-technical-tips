@@ -1,7 +1,7 @@
 ---
 title: How to Revive Your iPhone's Battery Life After the Latest iOS 17.5.1 Installation | Tips From ZDNet
-date: 2024-11-14T02:16:48.327Z
-updated: 2024-11-15T17:35:05.709Z
+date: 2024-11-23T16:54:21.020Z
+updated: 2024-11-25T16:30:01.933Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
@@ -33,10 +37,7 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -44,26 +45,20 @@ Jason Hiner/ZDNET
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -83,6 +78,10 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Can you still download the iOS 18 public beta?
 
 You can always be part of the Apple Beta program to get the latest beta versions of iOS. Before you download a beta version of an operating system, you should have some housekeeping items in mind:
@@ -101,13 +100,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -169,21 +161,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-what-is-mukbang-and-how-to-make-mukbang-videos/"><u>[New] What Is Mukbang and How to Make Mukbang Videos</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-accelerated-fortnite-visualization-steps/"><u>2024 Approved Accelerated Fortnite Visualization Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-specifications-the-contrast-between-ipad-mini-and-ipad-air/"><u>Decoding Specifications: The Contrast Between iPad Mini and iPad Air</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-sites-to-enjoy-music-vids-our-top-picks/"><u>Discover the Ultimate Sites to Enjoy Music Vids - Our Top Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-and-repair-the-shelldll-file-mistake/"><u>How to Correctly Address and Repair the Shell.DLL File Mistake</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-12-pro-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-a-beginners-tutorial-on-using-luts-in-ar/"><u>In 2024, A Beginner's Tutorial on Using LUTs in AR</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-craft-the-perfect-stream-a-comprehensive-guide-to-youtubes-full-rotation-videos/"><u>In 2024, Craft the Perfect Stream A Comprehensive Guide to YouTube’s Full-Rotation Videos</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/schritt-fur-schritt-anleitung-zur-wiederherstellung-geloschter-daten-von-der-datentrageroberflache/"><u>Schritt-Für-Schritt-Anleitung Zur Wiederherstellung Gelöschter Daten Von Der Datenträgeroberfläche</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-on-how-to-set-up-and-sync-your-chromecast-remote/"><u>Step-by-Step Instructions on How to Set Up and Sync Your Chromecast Remote</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-fix-for-missing-ssleay3-32dll-error-a-step-by-step-solution-guide/"><u>The Ultimate Fix for Missing 'ssLeay3 32.dll' Error: A Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-25-gratis-software-a-aplikace-pro-vyrobu-skladacku-do-roku-2024/"><u>Top 25 Grátis Software a Aplikace Pro Výrobu Skládačku Do Roku 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-issues-when-mozilla-thunderbird-wont-launch/"><u>Troubleshooting Steps: Resolving Issues When Mozilla Thunderbird Won't Launch</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-magic5-ultimate-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor Magic5 Ultimate.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-youtube-stardom-the-8-essential-tactics-to-go-viral-with-your-content/"><u>Unlocking YouTube Stardom: The 8 Essential Tactics to Go Viral with Your Content</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-video-editing-software-for-splitting-wmv-files/"><u>Updated Best Free Video Editing Software for Splitting WMV Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-photos-repository-hubs/"><u>[New] Superior Photos Repository Hubs</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-daily-video-size-summation-total-gb-cost-for-2024/"><u>[Updated] Daily Video Size Summation Total GB Cost for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-the-mystery-of-where-are-my-youtube-comments-in-2024/"><u>[Updated] Decoding the Mystery of Where Are My YouTube Comments, In 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-3-affordable-switch-game-counterparts/"><u>[Updated] Top 3 Affordable Switch Game Counterparts</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-efficient-language-switching-in-windows-11/"><u>A Guide to Efficient Language Switching in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciphering-the-hdcp-error-message-causes-and-remedies-explained/"><u>Deciphering the HDCP Error Message: Causes and Remedies Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-0xc0000185-error-message-causes-diagnoses-and-fixes-explained/"><u>Decoding the 0xC0000185 Error Message – Causes, Diagnoses, and Fixes Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-ios-18-latest-version-released-at-no-cost-with-key-updates-and-insights/"><u>Discover iOS 18 – Latest Version Released at No Cost with Key Updates & Insights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-and-speedy-transfer-of-usb-to-rs232-drivers/"><u>Easy and Speedy Transfer of USB to RS232 Drivers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-infinix-note-30-vip-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Infinix Note 30 VIP Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protect-your-inbox-setting-up-googles-two-step-login-for-gmail/"><u>Protect Your Inbox: Setting Up Google's Two-Step Login for Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-solving-issues-with-microsoft-edge-browser/"><u>Troubleshooting Guide: Solving Issues with Microsoft Edge Browser</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/user-guide-and-review-for-apples-latest-entry-in-4k-streaming-devices/"><u>User Guide & Review for Apple's Latest Entry in 4K Streaming Devices</u></a></li>
 </ul></div>
 

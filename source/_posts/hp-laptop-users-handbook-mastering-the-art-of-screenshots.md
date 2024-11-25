@@ -1,7 +1,7 @@
 ---
 title: "HP Laptop User's Handbook: Mastering the Art of Screenshots"
-date: 2024-09-09T13:27:46.935Z
-updated: 2024-09-10T13:27:46.935Z
+date: 2024-11-24T16:45:17.862Z
+updated: 2024-11-25T16:16:14.108Z
 categories:
   - BestProducts
 description: "This Article Describes HP Laptop User's Handbook: Mastering the Art of Screenshots"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 ---
 
 ## HP Laptop User's Handbook: Mastering the Art of Screenshots
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * **PrtSc** saves the whole screen to the clipboard.**Win** +**PrtSc** saves screenshots to**Pictures** \>**Screenshots** .
@@ -20,40 +25,20 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 
 [How to Take Screenshots in Windows 10, 8, and 7](https://www.lifewire.com/take-screenshot-windows-7-8-10-4049964)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use the Keyboard to Take a Screenshot in Windows
 
  There are a few ways to take screenshots using the keyboard. Most methods require you to paste and save the screen capture in the image editor of your choice.  
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Save the Screen to the Clipboard
 
  Use the**PrtSc** (Print Screen) button to capture everything visible on the screen to the clipboard. It's often on the far right of the top row of the keyboard. You will then need to paste the image into an editor like Paint (or some[other image editor](https://www.lifewire.com/free-photo-editors-1357098) ) to see and manipulate the image further.
 
  To use the screenshot in a document, place the cursor where you want the image to be, and then press**Ctrl** +**V** to paste.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Capture the Whole Screen
 
  Press**Win** +**PrtSc** to capture the whole screen. You'll see a flash on the screen for just a moment to indicate that the screenshot was taken. By default, this kind of screen capture goes directly into this folder:
@@ -80,13 +65,16 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 3. Select**New** to start your screen capture.  
 !['New' and 'Full screen' highlighted in Windows 11 Snipping Tool.](https://www.lifewire.com/thmb/g66hVFQzkmgPsL_-O_rBUg5_zcc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-ScreenshotonanHPLaptop-annotated-445623206c1e4eef89a213342557830b.jpg)
 4. Snipping Tool will open the screenshot in a new window. From here, you can use the tools up top to make notes and highlights, or copy the image to Paint, before you save the screenshot, which you can do from the**floppy disk** icon.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Editing tools and save button highlighted in the Windows 11 Snipping Tool.](https://www.lifewire.com/thmb/UOBedWb_YxuBBdnppspmJ6w-akE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ScreenshotonanHPLaptop-annotated-f68b452cb4314b9097d3a1e2851933ec.jpg)  
  There are also third-party[screenshot apps for Windows](https://www.lifewire.com/best-screenshot-apps-windows-4177685) that offer more editing options.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Snip & Sketch in Windows 10  
@@ -95,6 +83,11 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 5. With the window or screen you want to capture open, click the**Start menu** .  
 ![The Start menu in Windows 10](https://www.lifewire.com/thmb/jhfqJPusffnGbRDz0h4z34Cr2KY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-screenshot-on-an-hp-laptop-5113272-18280d7e9f2646ec9737b568a63e1f6d.jpg)
 6. Search for**Snip & Sketch** in the**search bar** and select it from the results.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Snip & Sketch in Windows 10 search](https://www.lifewire.com/thmb/BVW5_zNPQIiLElFJfb9LJncuxCA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-screenshot-on-an-hp-laptop-5113272-90cfac0731be469b84f371dd350418b7.jpg)
 7. A menu will appear at the top of the screen. Click the fourth option to capture the whole image, which looks like a rectangle with marks in each corner.  
 ![The Fullscreen Snap option in Snip & Sketch ](https://www.lifewire.com/thmb/J0OSAm42Pokyx2lgosQHb1FGec4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-screenshot-on-an-hp-laptop-5113272-e15fbcfa15374ebba4b40f6c9ae509e6.jpg)  
@@ -102,42 +95,17 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 8. However you take the screen, Windows will save it to the clipboard, and a notification will appear. Select the notification (which includes a thumbnail of the screen you just took) to open a customization window.  
 ![A thumbnail of a screen from Snip & Sketch](https://www.lifewire.com/thmb/vToUxAoilJyyDCqp-p5WU7k9f44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-screenshot-on-an-hp-laptop-5113272-2b4f0f801846402e9a5b19baa15ea3d3.jpg)
 9. In this window, you can mark up, highlight, and crop the image using the tools at the top of the screen.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Editing tools in Snip & Sketch](https://www.lifewire.com/thmb/sYD0JV4SnJihP8vQIPKLDtLcK3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-screenshot-on-an-hp-laptop-5113272-9bdc8e07001c4cb6ba077d56b6f127b8.jpg)
-10. To save the screenshot, select the**Save** icon.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![The Save button in Snip & Sketch](https://www.lifewire.com/thmb/tne8-m5QuuEH054CwG8jz5Ysklc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-screenshot-on-an-hp-laptop-5113272-0d187feff1f046bb90f87e2567b2540c.jpg)
-11. In the next window, choose a file name, file type, and location for your saved screenshot, then select**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Save in the Save window in Windows Snip & Sketch](https://www.lifewire.com/thmb/ytqrZAnY_rgAb2JoVonbEBpA5H4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-how-to-screenshot-on-an-hp-laptop-5113272-5537372a44cc491baa434a42656ba761.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+![Editing tools in Snip & Sketch](https://www.lifewire.com/thmb/sYD0JV4SnJihP8vQIPKLDtLcK3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-screenshot-on-an-hp-laptop-5113272-9bdc8e07001c4cb6ba077d56b6f127b8.jpg)
+10. To save the screenshot, select the**Save** icon.  
+![The Save button in Snip & Sketch](https://www.lifewire.com/thmb/tne8-m5QuuEH054CwG8jz5Ysklc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-screenshot-on-an-hp-laptop-5113272-0d187feff1f046bb90f87e2567b2540c.jpg)
+11. In the next window, choose a file name, file type, and location for your saved screenshot, then select**Save** .  
+![Save in the Save window in Windows Snip & Sketch](https://www.lifewire.com/thmb/ytqrZAnY_rgAb2JoVonbEBpA5H4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-how-to-screenshot-on-an-hp-laptop-5113272-5537372a44cc491baa434a42656ba761.jpg)
+
 ## How to Take a Screenshot on an HP Tablet
 
  HP dropped out of the tablet market in 2011, but you can capture the screen by pressing**Power** +**Volume Down** if you still have one. You can find screenshots in the**Photos** app.
@@ -145,17 +113,9 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 ![The Power and Volume Down buttons on an HP tablet](https://www.lifewire.com/thmb/LQyDhN14pOtcwoGTDvOYoDj3aKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-screenshot-on-an-hp-laptop-5113272-108a6439e9a64000a39c0ed68fa2f6c1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 HP
 
 [How to Screenshot on HP Envy](https://www.lifewire.com/take-screenshot-on-hp-envy-5187988)
@@ -189,8 +149,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +156,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-foremost-frame-openers-identifying-the-most-effective-16-youtube-intros/"><u>[New] In 2024, Foremost Frame Openers Identifying the Most Effective 16 YouTube Intros</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-leading-phones-best-gopro-videos-editing-tools-for-2024/"><u>[New] Leading Phones' Best GoPro Videos Editing Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-improve-chromium-performance-fb-video-streaming/"><u>[Updated] 2024 Approved Improve Chromium Performance FB Video Streaming</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unlock-content-potential-with-the-right-vimeo-membership-choice/"><u>[Updated] Unlock Content Potential with the Right Vimeo Membership Choice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/access-roku-content-from-your-browser-skip-roku-hardware/"><u>Access Roku Content From Your Browser, Skip Roku Hardware!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoying-roku-channels-even-if-you-dont-have-a-roku-player-tips-and-tricks/"><u>Enjoying Roku Channels Even If You Don't Have a Roku Player: Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-top-free-video-conferencing-apps-of-2nndy-four-alternatives-to-skype/"><u>Explore Top Free Video Conferencing Apps of 2Nndy Four - Alternatives To Skype</u></a></li>
+<li><a href="https://windows11.techidaily.com/five-fun-flicks-in-windows-cmd-world/"><u>Five Fun Flicks in Windows' CMD World</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fresh-perspectives-on-logo-design-for-podcast-brands/"><u>Fresh Perspectives on Logo Design for Podcast Brands</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-determine-your-macbooks-operating-temperature-a-comprehensive-guide/"><u>How to Determine Your MacBook’s Operating Temperature: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-merge-playlists-on-spotify/"><u>How to Merge Playlists on Spotify</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-lava-blaze-2-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-how-to-handle-a-missing-binkw32dll-component/"><u>The Ultimate Fix: How to Handle a Missing binkw32.dll Component</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-tips-for-speeding-up-your-sluggish-internet/"><u>Top Tips for Speeding Up Your Sluggish Internet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/webcam-ingenuity-for-productivity-boost/"><u>Webcam Ingenuity for Productivity Boost</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-11-nightmare-unraveled-proven-solutions-to-tackle-the-ominous-black-screen-fault/"><u>Windows 11 Nightmare Unraveled: Proven Solutions to Tackle the Ominous Black Screen Fault</u></a></li>
+</ul></div>
 

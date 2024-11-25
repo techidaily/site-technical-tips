@@ -1,7 +1,7 @@
 ---
 title: The Future of Tech Unveiled at Sony State of Play 2024 – Top Announcements
-date: 2024-11-08T23:34:21.863Z
-updated: 2024-11-16T00:03:56.546Z
+date: 2024-11-24T16:30:04.226Z
+updated: 2024-11-25T16:30:54.035Z
 categories:
   - BestProducts
 description: This Article Describes The Future of Tech Unveiled at Sony State of Play 2024 – Top Announcements
@@ -26,15 +26,16 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When Is the Next Sony State of Play Event?
 
  Sony hasn't announced its next State of Play. The most recent one was May 30, 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Which Products Will Be Announced?
@@ -44,10 +45,7 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
  The last event introduced 14 PS5 and PS VR2 titles from both PlayStation Studios developers and third-party companies.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Did Sony Announce at the Last State of Play?
@@ -74,10 +72,7 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
 * Mascot character Astro Bot, who taught us all how to play our PlayStation 5s in_Astro's Playroom_ , is back for a new adventure in_Astro Bot_ . This platformer will feature new worlds, costumes based on iconic PlayStation characters like Nathan Drake, Kratos, and Aloy, and a huge starship shaped like the PS5 console. It's coming September 6.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Stream and Watch Sony State of Play
@@ -85,10 +80,7 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
  State of Play events are streamed on PlayStation's[ Twitch](https://www.twitch.tv/playstation) ,[ YouTube](https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA) , and[ TikTok](https://www.tiktok.com/@playstation) channels. You can watch the May 30 event below:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Latest Sony and Other Gaming News
@@ -116,18 +108,22 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-hd-to-uhd-seamless-video-transformations/"><u>[New] HD to UHD Seamless Video Transformations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-15-online-haven-for-your-favorite-ringtone-files/"><u>[New] Top 15 Online Haven for Your Favorite Ringtone Files</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-enhance-streaming-quality-non-xplit-choices-for-2024/"><u>[Updated] Enhance Streaming Quality Non-Xplit Choices for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-videography-7-free-sound-effects-collection/"><u>[Updated] In 2024, Elevate Your Videography - 7 Free Sound Effects Collection</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-ring-sound-repeat-a-comprehensible-guide-to-personalization-on-android-devices/"><u>[Updated] Ring, Sound, Repeat A Comprehensible Guide to Personalization on Android Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-why-openai-leads-the-charge-in-advocacy-for-stricter-ai-oversight/"><u>Deciphering Why OpenAI Leads the Charge in Advocacy for Stricter AI Oversight</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/effective-guide-mastering-data-restoration-with-apowerrecover/"><u>Effective Guide: Mastering Data Restoration with ApowerRecover</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-approaches-to-network-broadcast-with-vlc/"><u>In 2024, Innovative Approaches to Network Broadcast with VLC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-your-pc-specs-easily-check-ram-on-windows-devices-today/"><u>Mastering Your PC Specs: Easily Check RAM on Windows Devices Today</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximizing-frame-rates-effective-strategies-to-enhance-fps-in-the-game-rust/"><u>Maximizing Frame Rates: Effective Strategies to Enhance FPS in the Game 'Rust'</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pairing-bluetooth-earbuds-with-sony-ps4-detailed-instructions-and-visual-aids-included/"><u>Pairing Bluetooth Earbuds with Sony PS4 - Detailed Instructions and Visual Aids Included</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-guide-opening-the-windows-10-boot-menu/"><u>Quick Guide: Opening the Windows 10 Boot Menu</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/say-goodbye-to-sticky-windows-keyboard-keys-with-this-step-by-step-solution/"><u>Say Goodbye to Sticky Windows Keyboard Keys with This Step-by-Step Solution</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-exploring-9-zero-price-editors-for-youtube-content-for-2024/"><u>[Updated] Exploring 9 Zero Price Editors for YouTube Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-watch-deleted-youtube-videos-online-in-2-ways-ultimate-guide-for-2024/"><u>[Updated] How to Watch Deleted YouTube Videos Online in 2 Ways | Ultimate Guide for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-detailed-syma-x8c-assessment/"><u>[Updated] In 2024, Detailed Syma X8C Assessment</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-speaking-into-the-future-iphone-recordings/"><u>2024 Approved Speaking Into the Future - iPhone Recordings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/access-the-action-catch-wbc-and-major-league-baseball-for-free-online/"><u>Access the Action: Catch WBC and Major League Baseball for Free Online!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-world-of-exclusive-ps5-video-games-you-cant-miss/"><u>Explore the World of Exclusive PS5 Video Games You Can't Miss</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-steam-purchase-anomalies-quickly/"><u>Fixing Steam Purchase Anomalies Quickly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722892566498-get-ready-for-a-revolution-in-wearable-tech-expert-predictions-on-the-google-pixel-watch-release-and-specs/"><u>Get Ready for a Revolution in Wearable Tech: Expert Predictions on the Google Pixel Watch Release and Specs.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-honor-70-lite-5g-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Honor 70 Lite 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-revive-a-stuck-macbook-air-effective-solutions-inside/"><u>How To Revive A Stuck MacBook Air: Effective Solutions Inside</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-blizzards-battlenet-experiencing-downtime-heres-what-you-need-to-know/"><u>Is Blizzard's Battle.net Experiencing Downtime? Here’s What You Need to Know!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-steam-refunds-a-comprehensive-guide/"><u>Master the Art of Steam Refunds: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-savvy-students-secret-to-saving-on-dell-equipment-with-special-offers/"><u>The Savvy Student's Secret to Saving on Dell Equipment with Special Offers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-t6-camera-guide-inexpensive-professionalism/"><u>The T6 Camera Guide: Inexpensive Professionalism</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-restoring-the-lost-nspr4dll-file-on-your-computer/"><u>The Ultimate Guide to Restoring the Lost nspr4.dll File on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-solutions-resolve-msxml4dll-file-missing-or-corrupted/"><u>Troubleshooting Solutions: Resolve 'Msxml4.dll' File Missing or Corrupted</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unveiling-the-mysteries-high-quality-minecraft-capture-on-macos/"><u>Unveiling the Mysteries High-Quality Minecraft Capture on MacOS</u></a></li>
 </ul></div>
 

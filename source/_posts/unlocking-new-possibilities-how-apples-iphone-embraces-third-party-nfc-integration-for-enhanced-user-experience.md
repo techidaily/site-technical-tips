@@ -1,7 +1,7 @@
 ---
 title: "Unlocking New Possibilities: How Apple's iPhone Embraces Third-Party NFC Integration for Enhanced User Experience"
-date: 2024-11-15T04:08:03.024Z
-updated: 2024-11-16T03:55:52.508Z
+date: 2024-11-21T16:34:35.288Z
+updated: 2024-11-25T16:54:38.292Z
 tags:
   - apple
 categories:
@@ -45,15 +45,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -64,10 +65,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -77,10 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -90,10 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,19 +122,22 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-adobe-audition-tutorial-managing-sound-curves/"><u>[New] 2024 Approved Adobe Audition Tutorial Managing Sound Curves</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unleash-your-inner-influencer-9-essential-instagram-steps/"><u>[New] Unleash Your Inner Influencer 9 Essential Instagram Steps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-attraction-steering-your-instagram-creativity-towards-sponsorship-success/"><u>[Updated] The Art of Attraction Steering Your Instagram Creativity Towards Sponsorship Success</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-redmi-note-12-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi Redmi Note 12 5G System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808101196-break-up-that-pdf-learn-the-top-three-strategies-for-quickly-separating-pdf-sheets/"><u>Break Up That PDF - Learn the Top Three Strategies for Quickly Separating PDF Sheets!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-photographs-from-movies-in-windows-photos-app-for-savvy-users-for-2024/"><u>Capturing Photographs From Movies in Windows Photos App for Savvy Users for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-elite-selection-of-stardew-customizations-and-updates/"><u>In 2024, The Elite Selection of Stardew Customizations and Updates</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-both-worlds-vn-video-editor-for-mac-and-its-alternatives/"><u>The Best of Both Worlds VN Video Editor for Mac and Its Alternatives</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/unique-soundscapes-for-your-one-person-show-for-2024/"><u>Unique Soundscapes for Your One-Person Show for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-exactly-are-pc-drivers-tips-for-resolving-windows-driver-errors/"><u>What Exactly Are PC Drivers? Tips for Resolving Windows Driver Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-10-autonomous-fixing-quick-solutions-to-computer-glitches/"><u>Windows 10 Autonomous Fixing: Quick Solutions to Computer Glitches</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723807952444-windows-10-equalizer-best-way-to-improve-audio/"><u>Windows 10 Equalizer - Best Way to Improve Audio</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-11-update-assistant-what-is-it-and-how-to-uninstall-it/"><u>Windows 11 Update Assistant - What Is It and How to Uninstall It</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wireless-mouse-setup-a-step-by-step-guide-for-pc-and-mac-users/"><u>Wireless Mouse Setup: A Step-by-Step Guide for PC and Mac Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mobilizing-audience-engagement-igtv-and-fb-synchronization/"><u>[New] 2024 Approved Mobilizing Audience Engagement IGTV and FB Synchronization</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-standout-settings-guide-for-online-events/"><u>2024 Approved Standout Settings Guide for Online Events</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/asus-rocks-amry-zen-powered-compact-pc-deskmini-x600-series-international-release-date-may-24/"><u>ASUS ROCK'S AMRY ZEN Powered Compact PC, DeskMini X600 Series: International Release Date - May 24</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722886900665-discover-the-best-value-tech-treats-for-a-luxe-experience-on-a-dime/"><u>Discover the Best Value Tech Treats for a Luxe Experience on a Dime</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/explore-the-power-of-vce-22-for-impeccable-video-clarity-for-2024/"><u>Explore the Power of VCE 2.2 for Impeccable Video Clarity for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-nord-n30-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Nord N30 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oneplus-ace-3-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your OnePlus Ace 3 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-nubia-z50-ultra-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Nubia Z50 Ultra Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-android-smartwatch-apps-for-optimal-device-integration/"><u>Leading Android Smartwatch Apps for Optimal Device Integration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862724391-limited-time-sale-on-the-m3-macbook-air-speedy-16gb-and-elegant-13-for-just-1149-dont-miss-out/"><u>Limited Time Sale on the M3 MacBook Air: Speedy 16GB & Elegant 13 for Just $1,149 - Don't Miss Out</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-tracking-opened-emails-a-guide-to-read-receipts-on-gmail/"><u>Mastering the Art of Tracking Opened Emails: A Guide to 'Read Receipts' On Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-issue-of-missing-msvcr71dll-files/"><u>Resolving the Issue of Missing MSVCR71.DLL Files</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/srt-transition-subbed-content-conversion-strategies/"><u>SRT Transition Subbed Content Conversion Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-refreshing-your-iphone-model-2023-15/"><u>The Ultimate Guide to Refreshing Your iPhone Model 2023 (15)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-devices-and-literature-exploring-laptops-phones-and-novels-together/"><u>Top Devices & Literature: Exploring Laptops, Phones & Novels Together</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-ksuserdll-missing-mistake-effective-solutions-and-techniques/"><u>Troubleshooting Ksuser.dll Missing Mistake: Effective Solutions and Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-windows-11-battery-status-tool-and-maximizing-its-utility/"><u>Understanding the Windows 11 Battery Status Tool & Maximizing Its Utility</u></a></li>
 </ul></div>
 

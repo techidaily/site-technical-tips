@@ -1,7 +1,7 @@
 ---
 title: How Apple Is Confronting Internet Giants with a Startling Advertisement Strategy - Discover More at ZDNET
-date: 2024-11-08T22:18:02.644Z
-updated: 2024-11-16T03:22:15.217Z
+date: 2024-11-21T16:27:22.777Z
+updated: 2024-11-25T16:59:47.057Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### New eye-tracking features
 
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
@@ -45,15 +49,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -64,10 +69,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -76,13 +78,6 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
@@ -90,10 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,20 +122,16 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-streaming-and-saving-games-on-xbox-one/"><u>[Updated] 2024 Approved Streaming and Saving Games on Xbox One</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-adhering-to-correct-aspect-ratio-in-twitter-videos/"><u>[Updated] In 2024, Adhering to Correct Aspect Ratio in Twitter Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-iphone-video-playback-cycles/"><u>[Updated] Mastering iPhone Video Playback Cycles</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-seamless-tweet-integration-on-facebook-platform-for-2024/"><u>[Updated] Seamless Tweet Integration on Facebook Platform for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/10-incredible-secrets-behind-the-world-of-emojis/"><u>10 Incredible Secrets Behind the World of Emojis</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ve-high-rankings-on-youtube-with-top-seo-tips-1-11-for-2024/"><u>Achieve High Rankings on YouTube with Top SEO Tips (1-11) for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/focusing-your-online-narrative-for-success-on-professional-networks-like-fb/"><u>Focusing Your Online Narrative for Success on Professional Networks Like FB</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-cloaking-details-in-visual-data-storage/"><u>In 2024, Cloaking Details in Visual Data Storage</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/librecam-x-live-streaming-experience-analyzed-for-2024/"><u>LibreCam X Live Streaming Experience Analyzed for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-dll-hiccups-repairing-microsofts-directinput-and-directx-components-successfully/"><u>Overcoming DLL Hiccups: Repairing Microsoft's DirectInput & DirectX Components Successfully</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsung-unveils-revolutionary-32gb-ddr5-ic-chips-enabling-future-1tb-memory-sticks/"><u>Samsung Unveils Revolutionary 32GB DDR5 IC Chips, Enabling Future 1TB Memory Sticks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722888183785-the-quadratic-factor-can-be-rewritten-as-splus2kplus2splus2k-20-giving-us-two-more-roots-s-2k-2-and-s-2kplus2-these-are-distinct-real-roots-if-k-neq-1/"><u>The Quadratic Factor Can Be Rewritten as ((S+2K+2)(S+2K-2)=0 ), Giving Us Two More Roots: (S=-2K-2 ) and (S=-2K+2 ). These Are Distinct Real Roots if (K Neq 1 ).</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-15-films-with-dolby-atmos-sound-experience-for-your-home-theater/"><u>Top 15 Films with Dolby Atmos Sound Experience for Your Home Theater</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/turn-off-automatic-song-switching-on-apple-music-with-these-simple-steps/"><u>Turn Off Automatic Song Switching on Apple Music with These Simple Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-nothing-phone-3-latest-leaks-on-price-launch-timeline-and-features/"><u>Unveiling the 'Nothing Phone 3': Latest Leaks on Price, Launch Timeline & Features</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-top-tips-mastering-music-on-instagram-for-2024/"><u>[Updated] Top Tips Mastering Music on Instagram for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-13-mini-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone 13 mini online without jailbreak</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a05s-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A05s Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/metodo-simple-y-sin-coste-para-transformar-vob-en-mp4-digitalmente-solucion-optimizada-por-movavi/"><u>Método Simple Y Sin Coste Para Transformar VOB en MP4 Digitalmente – Solución Optimizada Por Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/onikuma-mic-malfunction-heres-how-to-restore-audio-functionality/"><u>Onikuma Mic Malfunction? Here's How to Restore Audio Functionality!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-llms-the-key-to-advanced-conversational-ai/"><u>Understanding LLMs - The Key to Advanced Conversational AI</u></a></li>
+<li><a href="https://win-forum.techidaily.com/updating-your-pcs-hardware-a-step-by-step-guide-for-windows-11-driver-updates/"><u>Updating Your PC's Hardware: A Step-by-Step Guide for Windows 11 Driver Updates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgraded-recall-abilities-discover-the-new-chatgpt-plus-advantages/"><u>Upgraded Recall Abilities: Discover the New ChatGPT Plus Advantages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/utilizing-your-automobiles-electrical-system-a-guide-on-generating-power-in-times-of-outage/"><u>Utilizing Your Automobile's Electrical System: A Guide on Generating Power in Times of Outage</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/volkswagen-joins-elite-group-now-supporting-tesla-supercharger-network/"><u>Volkswagen Joins Elite Group: Now Supporting Tesla Supercharger Network</u></a></li>
 </ul></div>
 

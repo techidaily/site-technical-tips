@@ -1,7 +1,7 @@
 ---
 title: Discover the Dual-Purpose MacBook Stand & Charger at Just $102 - Features Reviewed by ZDNet
-date: 2024-11-14T23:55:47.090Z
-updated: 2024-11-15T18:17:20.082Z
+date: 2024-11-20T16:17:35.843Z
+updated: 2024-11-25T16:59:59.731Z
 tags:
   - apple
 categories:
@@ -30,15 +30,16 @@ Here's a look at what's new for the 6th generation iPad Air.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. A bigger screen option
 
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -60,10 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -71,10 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -115,20 +110,18 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-journey-through-the-landscape-of-human-computer-interaction/"><u>[Updated] A Journey Through the Landscape of Human-Computer Interaction</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/achieving-flawless-gameplay-optimizing-your-switch-pro-experience-on-steam/"><u>Achieving Flawless Gameplay Optimizing Your Switch Pro Experience on Steam</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-disabling-cortanas-copilot-feature-in-windows-11/"><u>Comprehensive Tutorial on Disabling Cortana's Copilot Feature in Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-fixing-invisible-comments-on-youtube-posts/"><u>Expert Tips for Fixing Invisible Comments on YouTube Posts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-download-apple-podcasts/"><u>How to Download Apple Podcasts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/immerse-yourself-in-authentic-stories-the-top-lgbt-movie-choices-for-netflix-subscribers-this-summer/"><u>Immerse Yourself in Authentic Stories: The Top LGBT Movie Choices for Netflix Subscribers This Summer</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-watermark-free-video-editing-the-top-10-free-online-options/"><u>New Watermark-Free Video Editing The Top 10 Free Online Options</u></a></li>
-<li><a href="https://fox-access.techidaily.com/sky-high-security-the-prime-5-cloud-choices/"><u>Sky High Security The Prime 5 Cloud Choices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-streaming-videos-from-your-pc-to-apple-tv-using-vlc-media-player/"><u>Step-by-Step Guide: Streaming Videos From Your PC to Apple TV Using VLC Media Player</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stop-spam-start-secure-communications-the-ultimate-guide-to-using-gmails-whitelist-feature/"><u>Stop Spam, Start Secure Communications: The Ultimate Guide to Using Gmail's Whitelist Feature</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-on-shifting-photo-albums-from-google-to-icloud-platforms/"><u>The Ultimate Walkthrough on Shifting Photo Albums From Google to iCloud Platforms</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-12-no-cost-keyboard-skills-classes-for-every-age-group/"><u>Top 12 No-Cost Keyboard Skills Classes for Every Age Group</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-recording-your-ps4-gaming-sessions/"><u>Ultimate Guide: Recording Your PS4 Gaming Sessions</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-iphone-video-editing-essentials-top-picks/"><u>Updated In 2024, IPhone Video Editing Essentials Top Picks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-quick-guide-saving-screen-share-dialogue/"><u>[New] 2024 Approved Quick Guide Saving Screen Share Dialogue</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-pathway-to-creating-metaverse-identities/"><u>[New] The Ultimate Pathway to Creating Metaverse Identities</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-framefusion-instagram-photo-fusion-across-oses-for-2024/"><u>[Updated] FrameFusion Instagram Photo Fusion Across OSes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-sculpt-perfect-images-on-youtube-with-right-dimensions-for-2024/"><u>[Updated] How to Sculpt Perfect Images on YouTube with Right Dimensions for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-hooking-up-a-firestick-with-a-projector/"><u>Comprehensive Tutorial on Hooking Up a Firestick with a Projector</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/easy-and-effective-methods-for-bulk-data-backup-across-your-entire-computer-network/"><u>Easy and Effective Methods for Bulk Data Backup Across Your Entire Computer Network</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flickering-screen-follow-this-quick-asus-guide-to-solve-it/"><u>Flickering Screen? Follow This Quick ASUS Guide to Solve It</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capture-the-crash-expert-surfer-cameras-review/"><u>In 2024, Capture the Crash - Expert Surfer Cameras Review</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-honor-100-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor 100 Pro FRP?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-tweeting-etiquette-knowing-when-to-disconnect-from-x-users/"><u>Mastering the Art of Tweeting Etiquette: Knowing When to Disconnect From X Users</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/mise-a-jour-complete-configurer-avec-elegance-installation-de-windows-hemes-en-3-simples-etape/"><u>Mise À Jour Complète : Configurer Avec Élégance, Installation De Windows Hemes en 3 Simples Etape !</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-ac1st16dll-not-found-expert-tips-and-tricks/"><u>Solving 'ac1st16.dll Not Found': Expert Tips and Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-pre-purchase-considerations-a-list-of-5-crucial-elements-in-selecting-a-smartwatch/"><u>Understanding Pre-Purchase Considerations: A List of 5 Crucial Elements in Selecting a Smartwatch</u></a></li>
 </ul></div>
 

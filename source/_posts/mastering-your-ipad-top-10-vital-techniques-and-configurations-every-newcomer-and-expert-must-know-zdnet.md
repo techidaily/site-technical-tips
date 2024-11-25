@@ -1,7 +1,7 @@
 ---
 title: Mastering Your iPad? Top 10 Vital Techniques and Configurations Every Newcomer and Expert Must Know | ZDNET
-date: 2024-11-09T23:19:12.289Z
-updated: 2024-11-16T06:12:52.374Z
+date: 2024-11-21T16:56:36.979Z
+updated: 2024-11-25T16:06:36.206Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and 
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Configure your focus settings
 
 I kid you not: The Focus settings that Apple rolled out a few years ago might be some of my most-used settings of all time. For those unfamiliar, Focus modes are basically fancy Do Not Disturb profiles that can be enabled manually, automatically at a certain time of day, or even when you travel somewhere. They allow you to control which notifications you see, who can contact you, and more. It's helpful when you want certain notifications while at work and others while you're relaxing at home. 
@@ -55,16 +59,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
@@ -79,6 +74,10 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -86,13 +85,6 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **Also:** [**What iPad Pro's Tandem OLED tells us about future device screens**](https://www.zdnet.com/article/what-ipad-pros-tandem-oled-tells-us-about-future-device-screens/)
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
 
@@ -110,6 +102,10 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Split or float your keyboard
 
 Max Buondonno/ZDNET
@@ -124,19 +120,6 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -146,10 +129,7 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
@@ -200,20 +180,18 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-mastering-video-reversal-on-ios-devices-for-2024/"><u>[New] Mastering Video Reversal on iOS Devices for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-navigating-url-integration-in-ig-stories-and-posts/"><u>[Updated] 2024 Approved Navigating URL Integration in IG Stories and Posts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unlock-creative-potential-in-photography-top-15-tricks-for-using-pixlr/"><u>[Updated] Unlock Creative Potential in Photography Top 15 Tricks for Using Pixlr</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/convert-any-video-file-to-mp4-or-mov-with-movavis-web-based-tool-start-your-free-trial/"><u>Convert Any Video File to MP4 or MOV with Movavi's Web-Based Tool - Start Your Free Trial</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discover-the-world-of-minecraft-plugins-the-new-non-mod-enhancements/"><u>Discover the World of Minecraft Plugins: The New Non-Mod Enhancements</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-nord-n30-5g-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Nord N30 5G’s lock screen pattern, PIN or password</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-motorola-moto-g24-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Motorola Moto G24 is off? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/lenovo-device-reboot-mastering-the-process-of-a-clean-system-installation/"><u>Lenovo Device Reboot: Mastering the Process of a Clean System Installation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-convenience-setting-up-seamless-sign-in-for-windows-users/"><u>Mastering Convenience: Setting Up Seamless Sign-In for Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/modern-warfare-3-pc-stutter-and-crash-effective-fixes-to-enhance-playability/"><u>Modern Warfare 3 PC Stutter and Crash: Effective Fixes to Enhance Playability</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-watch-call-handling-identifying-and-correcting-non-responsive-behavior/"><u>Samsung Galaxy Watch Call Handling: Identifying & Correcting Non-Responsive Behavior</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-battle-of-streaming-devices-examining-the-differences-between-roku-express-and-stick/"><u>The Battle of Streaming Devices: Examining the Differences Between Roku Express and Stick</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-http-status-code-401-step-by-step-tips/"><u>Troubleshooting HTTP Status Code 401 – Step-by-Step Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-a-comprehensive-guide-on-securing-your-microsoft-education-offer/"><u>Unlocking the Secrets: A Comprehensive Guide on Securing Your Microsoft Education Offer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/updated-august-2024-your-ultimate-resource-for-d-link-default-login-credentials/"><u>Updated August 2024: Your Ultimate Resource for D-Link Default Login Credentials</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-capturing-life-on-camera-mastering-the-art-of-vlogging/"><u>[New] 2024 Approved Capturing Life on Camera Mastering the Art of Vlogging</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-enhanced-samsung-k850u-experience/"><u>[New] Unveiling the Enhanced Samsung K850U Experience</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximizing-video-visibility-on-youtube-through-lighting-for-2024/"><u>[Updated] Maximizing Video Visibility on YouTube Through Lighting for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/androids-fastest-vid-tuning-tools-reviewed/"><u>Android's Fastest Vid Tuning Tools Reviewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/assessing-ev-life-span-do-they-offer-similar-durability-to-gasoline-powered-automobiles/"><u>Assessing EV Life Span: Do They Offer Similar Durability to Gasoline-Powered Automobiles?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-12-mini-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 12 mini to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-look-at-the-samsung-galaxy-z-fold4-top-tier-specs-with-a-touch-of-nostalgia/"><u>In-Depth Look at the Samsung Galaxy Z Fold4: Top-Tier Specs with a Touch of Nostalgia</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/retrieve-removed-mobile-numbers-an-android-users-manual-for-finding-deleted-contact-info/"><u>Retrieve Removed Mobile Numbers: An Android User's Manual for Finding Deleted Contact Info</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sony-afeela-car-official-announcement-launch-date-and-pricing-details-unveiled/"><u>Sony Afeela Car: Official Announcement, Launch Date & Pricing Details - Unveiled!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-enable-closed-captions-on-your-roku-device/"><u>Step-by-Step Guide to Enable Closed Captions on Your Roku Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-walkthrough-of-every-major-ipados-transformation/"><u>Step-by-Step Walkthrough of Every Major iPadOS Transformation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-lg-smart-tv-screen-casting-techniques/"><u>Ultimate Guide: LG Smart TV Screen Casting Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover Exciting Features: Exploring the New Possibilities of iPhone’s iOS 18 Beta Version on ZDNet"
-date: 2024-11-14T20:12:45.901Z
-updated: 2024-11-16T04:55:26.972Z
+date: 2024-11-20T17:01:01.897Z
+updated: 2024-11-25T16:05:50.599Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Place your Home screen icons anywhere
 
 With iOS 18, you can customize the Home screen by moving icons to any spot and applying different themes. To dive in, press down on any empty area of the Home screen. Drag an icon to any location on the screen, and it will stay in place. This means you can place icons in columns, as a border around the screen, or just free-floating in space.
@@ -43,10 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,16 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -134,22 +120,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-ultimate-selection-of-text-enhancers-for-adobe-ae/"><u>[New] In 2024, The Ultimate Selection of Text Enhancers for Adobe AE</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-mobile-video-assembly-software-for-smartphones/"><u>[New] In 2024, Top Mobile Video Assembly Software for Smartphones</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-21-edition-breakdown-analyzing-the-revolution-in-vegas-pro-gaming/"><u>[Updated] '21 Edition Breakdown – Analyzing the Revolution in Vegas Pro Gaming</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-best-practices-for-non-audio-filming/"><u>[Updated] Best Practices for Non-Audio Filming</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pickup-vs-competitors-an-incisive-review-of-androids-top-editor/"><u>2024 Approved PickUp Vs. Competitors An Incisive Review of Android's Top Editor</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/zing-the-frequency-of-youtube-payments/"><u>Analyzing the Frequency of YouTube Payments</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comparing-communication-apps-signal-vs-whatsapp-unveiling-key-distinctions/"><u>Comparing Communication Apps: Signal Vs. WhatsApp - Unveiling Key Distinctions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-guide-viewing-sequence-of-superman-cinematic-universe/"><u>Complete Guide: Viewing Sequence of Superman Cinematic Universe</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-leading-free-cad-solutions-of-today/"><u>Discover the Leading Free CAD Solutions of Today!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-using-high-dynamic-range-auto-hdr-in-windows-11/"><u>Mastering the Art of Using High Dynamic Range (Auto HDR) in Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/most-popular-teen-movies-for-watch-on-netflix/"><u>Most Popular Teen Movies for Watch on Netflix</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/optimized-with-cookiebot-technology/"><u>Optimized with Cookiebot Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-to-take-screenshots-on-an-hp-laptop-or-pc/"><u>The Complete Walkthrough to Take Screenshots on an HP Laptop or PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-ultimate-inflatable-swimming-pools-simple-assembly-and-ideal-choices/"><u>Top 5 Ultimate Inflatable Swimming Pools - Simple Assembly & Ideal Choices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-the-functionality-of-smartwatches-a-comprehensive-guide/"><u>Understanding the Functionality of Smartwatches: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/watch-how-to-train-your-dragon-saga-from-beginning-to-end-the-official-film-lineup/"><u>Watch How to Train Your Dragon Saga From Beginning to End: The Official Film Lineup.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-is-aim-unraveling-the-story-behind-aols-instant-messenger/"><u>What Is AIM? Unraveling the Story Behind AOL's Instant Messenger</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-blueprint-to-top-notch-tiktok-marketing-mastery/"><u>[New] In 2024, Blueprint to Top-Notch TikTok Marketing Mastery</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-precision-window-photography-in-winoses-for-2024/"><u>[Updated] Precision Window Photography in WinOSes for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-change-facebook-cover-photo/"><u>2024 Approved How to Change Facebook Cover Photo</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-immediate-insta-friendship-status-check/"><u>2024 Approved Immediate Insta Friendship Status Check</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-windows-media-player-alternative/"><u>2024 Approved Windows Media Player Alternative</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-brief-history-of-netflixs-dvd-subscription-model-what-was-it-all-about/"><u>A Brief History of Netflix's DVD Subscription Model – What Was It All About?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/adolescent-adventures-await-in-these-top-teen-movies-available-on-netflix/"><u>Adolescent Adventures Await in These Top Teen Movies Available on Netflix</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convertir-facilmente-mp4-a-mp3-sin-costo-alguno-utilizando-herramientas-en-linea-para-descargar-musica-y-videos/"><u>Convertir Fácilmente MP4 a MP3 Sin Costo Alguno Utilizando Herramientas en Línea Para Descargar Música Y Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fix-guide-when-netflix-struggles-with-playing-titles-correctly/"><u>Easy Fix Guide: When Netflix Struggles with Playing Titles Correctly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-when-you-cant-access-tiktok/"><u>Effective Solutions for When You Can't Access TikTok</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oppo-f25-pro-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Oppo F25 Pro 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-tell-if-someone-is-not-who-they-seem-online/"><u>How To Tell If Someone Is Not Who They Seem Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/investigating-the-true-ecological-benefits-of-switching-to-an-electric-vehicle/"><u>Investigating the True Ecological Benefits of Switching to an Electric Vehicle</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-innovation-in-phones-pricing-insights-on-galaxy-z-flip-6-with-release-specs-revealed/"><u>The Next Innovation in Phones: Pricing Insights on Galaxy Z Flip 6 with Release Specs Revealed</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/two-ways-to-track-my-boyfriends-apple-iphone-13-pro-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>Two Ways to Track My Boyfriends Apple iPhone 13 Pro without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones"
-date: 2024-11-13T23:29:40.183Z
-updated: 2024-11-15T16:08:30.778Z
+date: 2024-11-23T17:23:07.752Z
+updated: 2024-11-25T16:32:42.379Z
 tags:
   - apple
 categories:
@@ -59,6 +59,10 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -105,34 +109,24 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-metavision-quest-selecting-the-most-advanced-vr-headset/"><u>[New] Metavision Quest Selecting the Most Advanced VR Headset</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-from-phone-ideas-to-online-presence-simple-youtube-channel-creation-tips-for-2024/"><u>[Updated] From Phone Ideas to Online Presence Simple YouTube Channel Creation Tips for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728506104884-windows/"><u>他の機器にWindowsサーバーシステムイメージを移行・復元する手順</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connecting-and-utilizing-external-storage-with-your-xbox-one-a-step-by-step-guide/"><u>Connecting and Utilizing External Storage with Your Xbox One: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/cost-effective-starter-packs-for-aspiring-home-movie-buffs/"><u>Cost-Effective Starter Packs for Aspiring Home Movie Buffs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/detailed-analysis-of-the-line-messaging-app/"><u>Detailed Analysis of the Line Messaging App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-money-saving-mastery-with-our-top-6-coupon-havens/"><u>Discover Money-Saving Mastery with Our Top 6 Coupon Havens</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-selection-the-5-star-workout-logging-tools-of-2024/"><u>Discover the Ultimate Selection: The 5 Star Workout Logging Tools of 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/exploiting-b-roll-for-visual-impact-on-projects/"><u>Exploiting B Roll for Visual Impact on Projects</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-integrating-pinterest-features-into-your-facebook-business-profile/"><u>Guide: Integrating Pinterest Features Into Your Facebook Business Profile</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-mini-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 mini to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-iphone-13-pro-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your iPhone 13 Pro and iPad?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/miniature-drones-unveiled-top-10-list-ready-for-2024/"><u>Miniature Drones Unveiled Top 10 List Ready for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-8-android-platforms-revolutionizing-large-calls-for-2024/"><u>Top 8 Android Platforms Revolutionizing Large Calls for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-made-simple-resolving-issues-with-your-iphone-remote-control-feature/"><u>Troubleshooting Made Simple: Resolving Issues with Your iPhone Remote Control Feature</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/windows-11avi-3/"><u>Windows 11でAVIファイルプレーヤーなしでもスムーズに視聴!? 3つのシンプル方法</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-top-tiktok-edits-mastering-your-cut-lists/"><u>[New] 2024 Approved Top TikTok Edits Mastering Your Cut Lists</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-film-lovers-ultimate-selection-of-stop-motion-works/"><u>[Updated] Film Lovers' Ultimate Selection of Stop-Motion Works</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-secrets-to-polished-photo-edits-in-canva/"><u>[Updated] The Secrets to Polished Photo Edits in Canva</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-revolutionize-your-laptop-experience-innovative-methods-for-screen-capture/"><u>2024 Approved Revolutionize Your Laptop Experience Innovative Methods for Screen Capture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-giggles-galore-crafting-memes-in-adobe/"><u>In 2024, Giggles Galore Crafting Memes in Adobe</u></a></li>
+<li><a href="https://techidaily.com/is-your-motorola-defy-2-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Defy 2 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-focus-effective-strategies-for-ensuring-application-visibility-on-any-windowed-os/"><u>Mastering Focus: Effective Strategies for Ensuring Application Visibility on Any Windowed OS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-nohup-command-a-comprehensive-guide-for-continuous-processes-on-linux/"><u>Mastering the Nohup Command: A Comprehensive Guide for Continuous Processes on Linux</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-setup-of-playstation-5s-wireless-controller-for-a-seamless-pc-gaming-experience-on-windows-10/"><u>Mastering the Setup of PlayStation 5'S Wireless Controller for a Seamless PC Gaming Experience on Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximizing-efficiency-with-kde-task-management-on-linux-systems/"><u>Maximizing Efficiency with KDE Task Management on Linux Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-the-new-era-an-update-on-verizons-5g-services/"><u>Navigating Through the New Era: An Update on Verizon's 5G Services</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/newly-released-the-2404-lts-version-of-ubuntu-your-reliable-choice-in-the-world-of-operating-systems/"><u>Newly Released: The 24.04 LTS Version of Ubuntu - Your Reliable Choice in the World of Operating Systems!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/readying-your-hard-drive-for-use-master-these-7-disk-formatting-strategies/"><u>Readying Your Hard Drive for Use? Master These 7 Disk Formatting Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-windows-license-restricted-to-single-display-language-error/"><u>Resolving 'Windows License Restricted to Single Display Language' Error</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ue-war-diary-dailymotion-vs-youtube-monetization-strategies/"><u>Revenue War Diary Dailymotion vs YouTube Monetization Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revitalize-your-vintage-pc-top-5-linux-os-choices/"><u>Revitalize Your Vintage PC: Top 5 Linux OS Choices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionary-ms-dos-40-from-1988-released-as-free-and-open-source/"><u>Revolutionary MS-DOS 4.0 From 1988, Released as Free and Open-Source!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-running-ubuntu-from-an-external-hard-drive-unveil-your-5-preferred-approaches/"><u>Step-by-Step Guide to Running Ubuntu From an External Hard Drive – Unveil Your 5 Preferred Approaches</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-nvidiaintel-hybrid-card-problems-in-windows/"><u>Tackling NVIDIA/Intel Hybrid Card Problems in Windows</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

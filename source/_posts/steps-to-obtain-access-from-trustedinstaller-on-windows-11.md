@@ -1,7 +1,7 @@
 ---
 title: Steps to Obtain Access From TrustedInstaller on Windows 11
-date: 2024-11-09T04:10:48.382Z
-updated: 2024-11-16T04:09:17.983Z
+date: 2024-11-23T17:14:02.032Z
+updated: 2024-11-25T17:26:00.139Z
 categories:
   - BestProducts
 description: This Article Describes Steps to Obtain Access From TrustedInstaller on Windows 11
@@ -34,10 +34,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fullscreen Screenshot and Auto-save to Folder
@@ -50,13 +47,14 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Screenshot Part of the Screen
@@ -74,19 +72,6 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -96,10 +81,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Delayed Screenshots With Snipping Tool
@@ -109,6 +91,10 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
  Taking screenshots of open menus and other areas of Windows can sometimes be difficult if triggering the screenshot breaks whatever it is you're doing. Snipping Tool has a timed screenshot option, so you can do what you need to and then wait for the screenshot to happen automatically, hands-free.
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
 
@@ -156,22 +142,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-instantly-professional-rapidly-crafting-valorant-game-imagery/"><u>[New] 2024 Approved Instantly Professional Rapidly Crafting Valorant Game Imagery</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-ultimate-challenge-away-from-grand-theft/"><u>[New] 2024 Approved The Ultimate Challenge Away From Grand Theft</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-video-editing-virtuosity-mastering-the-fade-inout/"><u>[New] 2024 Approved Video Editing Virtuosity Mastering the Fade-In/Out</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-melodies-for-memories-music-tips-for-reels-on-instagram-for-2024/"><u>[New] Melodies for Memories Music Tips for Reels on Instagram for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-ultimate-share-worthiness-creator/"><u>[Updated] 2024 Approved Ultimate Share Worthiness Creator</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-10-budget-friendly-platforms-for-youtube-branding-mastery/"><u>2024 Approved 10 Budget-Friendly Platforms for YouTube Branding Mastery</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/choosing-the-right-streamer-lets-compare-apple-tv-4k-with-roku-ultra/"><u>Choosing the Right Streamer? Let's Compare Apple TV 4K with Roku Ultra</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-power-of-ai-how-does-meta-incorporate-machine-learning/"><u>Discover the Power of AI: How Does Meta Incorporate Machine Learning?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dissecting-duration-for-a-20mb-digital-showcase/"><u>Dissecting Duration for a 20MB Digital Showcase</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-steps-to-erase-your-tiktok-account-a-comprehhrenous-explanation/"><u>Easy Steps to Erase Your TikTok Account – A Comprehhrenous Explanation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortless-guide-transforming-your-jpeg-images-into-animated-gifs-in-two-simple-methods/"><u>Effortless Guide: Transforming Your JPEG Images Into Animated GIFs in Two Simple Methods</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-on-finding-and-buying-a-high-quality-tv-to-enhance-your-home-entertainment-experience/"><u>Expert Tips on Finding and Buying a High-Quality TV to Enhance Your Home Entertainment Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-on-dealing-with-microsoft-word-files-that-wont-load/"><u>Guide on Dealing with Microsoft Word Files That Won't Load</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-resolve-an-apple-watch-that-fails-to-detect-physical-activity/"><u>How to Resolve an Apple Watch that Fails to Detect Physical Activity</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-restore-power-9-methods-to-fix-airpods-that-wont-charge/"><u>How to Restore Power: 9 Methods to Fix AirPods That Won't Charge</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-9-fantastic-locations-for-enjoying-no-cost-preschool-games/"><u>Top 9 Fantastic Locations for Enjoying No-Cost Preschool Games</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unstoppable-yahoo-find-out-why-your-inbox-might-be-empty-and-solutions-to-get-emails-flowing-again/"><u>Unstoppable Yahoo! - Find Out Why Your Inbox Might Be Empty & Solutions to Get Emails Flowing Again</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-free-online-compilation-of-copyright-free-charts/"><u>[Updated] 2024 Approved Free Online Compilation of Copyright-Free Charts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-comparing-the-best-in-class-with-apowersoft/"><u>2024 Approved Comparing the Best in Class with Apowersoft</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/before-you-go-electric-the-ultimate-checklist-of-9-important-inquiries/"><u>Before You Go Electric: The Ultimate Checklist of 9 Important Inquiries</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-movie-night-the-best-15-dolby-atmos-movies-curated-for-home-cinema-enthusiasts/"><u>Elevate Your Movie Night: The Best 15 Dolby Atmos Movies Curated for Home Cinema Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-your-computers-stop-error-0x0000003d-a-comprehensive-tutorial/"><u>Fixing Your Computer's STOP Error 0X0000003D: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-establish-an-oculus-meta-headset-account-for-beginners/"><u>How To Establish An Oculus Meta Headset Account For Beginners</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-digital-deception-steering-clear-from-buying-non-existent-followers/"><u>In 2024, Digital Deception Steering Clear From Buying Non-Existent Followers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-mp280-printer-driver-installers-compatible-with-windows-1187/"><u>Latest MP280 Printer Driver Installers Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/league-of-legends-boost-trick-get-your-game-running-faster-now/"><u>League of Legends Boost Trick - Get Your Game Running Faster Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-microsoft-copilot-a-comprehensive-install-guide-for-apple-computers/"><u>Mastering Microsoft Copilot: A Comprehensive Install Guide for Apple Computers</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-oppo-reno-10-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Oppo Reno 10 5G</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138567493-9780595857876-synchronicity/"><u>Synchronicity | Free Book</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/tips-and-tricks-for-windows-hdr-video-workflows-for-2024/"><u>Tips and Tricks for Windows HDR Video Workflows for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-your-wallets-potential-navigating-through-these-amazing-6-online-coupons-and-deals-platforms/"><u>Unlock Your Wallet’s Potential: Navigating Through These Amazing 6 Online Coupons and Deals Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unmasking-bogus-connections-tips-on-detecting-false-friend-requests-online/"><u>Unmasking Bogus Connections: Tips on Detecting False Friend Requests Online</u></a></li>
 </ul></div>
 

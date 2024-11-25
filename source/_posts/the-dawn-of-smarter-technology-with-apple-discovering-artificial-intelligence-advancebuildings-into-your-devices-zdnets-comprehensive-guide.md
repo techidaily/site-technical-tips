@@ -1,7 +1,7 @@
 ---
 title: "The Dawn of Smarter Technology with Apple: Discovering Artificial Intelligence Advancebuildings Into Your Devices | ZDNet's Comprehensive Guide"
-date: 2024-11-14T16:10:24.943Z
-updated: 2024-11-16T05:07:44.954Z
+date: 2024-11-22T17:19:29.562Z
+updated: 2024-11-25T16:14:02.522Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Apple Intelligence?
 
 Apple
@@ -35,13 +39,6 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -62,6 +59,10 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -78,6 +79,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -91,10 +96,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -121,6 +123,10 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -132,19 +138,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -176,13 +169,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -224,21 +210,21 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-clear-screening-for-focused-online-participation/"><u>[New] In 2024, Clear Screening for Focused Online Participation</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-initial-glimpse-at-vectors-classifying-and-choosing-right-tech/"><u>2024 Approved Initial Glimpse at Vectors Classifying and Choosing Right Tech</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/are-you-experiencing-psn-issues-or-is-the-service-actually-unavailable/"><u>Are You Experiencing PSN Issues or Is the Service Actually Unavailable?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/before-purchasing-a-fitness-tracker-the-5-crucial-aspects-everyone-should-know/"><u>Before Purchasing a Fitness Tracker: The 5 Crucial Aspects Everyone Should Know</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-tecno-pop-7-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Pop 7 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/download-corsair-k70-mouse-software-and-drivers-get-started/"><u>Download Corsair K70 Mouse Software & Drivers - Get Started</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/enhance-user-engagement-with-cookiebot-driven-custom-experiences/"><u>Enhance User Engagement with Cookiebot-Driven Custom Experiences</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/error-resolved-comprehensive-fixes-for-missing-or-corrupt-msstfmtdll-files/"><u>Error Resolved: Comprehensive Fixes for Missing or Corrupt msstfmt.dll Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-googles-gemini-compare-to-chatgpt-an-in-depth-analysis/"><u>How Does Google's Gemini Compare to ChatGPT: An In-Depth Analysis</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-your-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>How to identify some outdated your drivers with Windows Device Manager on Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/keeping-games-running-on-rtx-3080/"><u>Keeping Games Running on RTX 3080</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-engaging-content-the-definitive-guide-to-the-507-greatest-instagram-captions/"><u>Master Engaging Content: The Definitive Guide to the 507 Greatest Instagram Captions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/retracting-replicas-on-tiktok-a-comprehensive-guide-to-removing-a-repost/"><u>Retracting Replicas on TikTok: A Comprehensive Guide to Removing a Repost</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-definitive-steps-in-finding-your-dream-smartphone-cover/"><u>The Definitive Steps in Finding Your Dream Smartphone Cover</u></a></li>
-<li><a href="https://facebook.techidaily.com/tracing-outages-in-tech-giants-platforms/"><u>Tracing Outages in Tech Giants' Platforms</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-non-responsive-fn-keys-in-dell-computers-easy-fixes-you-can-do-now/"><u>Troubleshooting Non-Responsive Fn Keys in Dell Computers - Easy Fixes You Can Do Now</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-elevate-your-snapchat-creativity-with-these-6-editors/"><u>[New] 2024 Approved Elevate Your Snapchat Creativity with These 6 Editors</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-the-tasty-trail-10-viral-eats-on-social-media/"><u>[New] In 2024, The Tasty Trail 10 Viral Eats on Social Media</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-skullduggery-scribbler/"><u>[Updated] Skullduggery Scribbler</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2024-d-link-security-oversight-current-default-usernames-and-passwords-exposed/"><u>2024 D-Link Security Oversight - Current Default Usernames & Passwords Exposed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-honor-x9a-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Honor X9a</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/battery-powered-google-nest-doorbell-comprehensive-performance-and-feature-review/"><u>Battery-Powered Google Nest Doorbell: Comprehensive Performance and Feature Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/cost-free-guide-mastering-simple-techniques-in-editing-your-screenshots/"><u>Cost-Free Guide: Mastering Simple Techniques in Editing Your Screenshots</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-newest-intel-iris-plus-graphics-drivers-v396546-for-windows-10-and-11/"><u>Download the Newest Intel Iris Plus Graphics Drivers (v39.6546) for Windows 10 and 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-hashtags-to-metadata-unraveling-the-mystery-of-tagging-in-digital-spaces/"><u>From Hashtags to Metadata: Unraveling the Mystery of Tagging in Digital Spaces</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-pro-tip-8-key-sites-to-harvest-free-eco-friendly-filming-backdrops/"><u>In 2024, Pro Tip! 8 Key Sites to Harvest FREE Eco-Friendly Filming Backdrops</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-news-aggregators-to-follow-our-expert-picks/"><u>Leading News Aggregators to Follow - Our Expert Picks!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-common-problems-with-closed-captioning-on-roku-quick-solutions/"><u>Overcoming Common Problems with Closed Captioning on Roku - Quick Solutions!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reestablishing-internet-access-resolving-wi-fi-disconnection-on-surface-pro-devices/"><u>Reestablishing Internet Access: Resolving Wi-Fi Disconnection on Surface Pro Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-unauthorized-uses-for-gpt-3/"><u>Top 5 Unauthorized Uses for GPT-3</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-tier-online-experiences-your-guide-to-the-webs-most-acclaimed-and-trafficked-sites/"><u>Top-Tier Online Experiences: Your Guide to the Web's Most Acclaimed and Trafficked Sites</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-price-difference-uber-vs-taxi-costs-revealed/"><u>Understanding the Price Difference: Uber vs Taxi Costs Revealed</u></a></li>
 </ul></div>
 

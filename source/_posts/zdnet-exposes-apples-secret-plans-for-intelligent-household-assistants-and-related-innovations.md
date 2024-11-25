@@ -1,7 +1,7 @@
 ---
 title: ZDNet Exposes Apple's Secret Plans for Intelligent Household Assistants and Related Innovations
-date: 2024-11-11T16:08:41.043Z
-updated: 2024-11-16T06:40:36.288Z
+date: 2024-11-23T16:24:32.730Z
+updated: 2024-11-25T16:09:41.121Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The cost of GPU processing
 
 Advanced AI features require substantial computational power, typically provided by high-performance GPUs. For instance, [NVIDIA's MGX with GH 200 and Grace Hopper superchip](https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/) designed for AI training, inference, 5G, and HPC cost around $65,000 each. Deploying these servers regionally to support lower-end devices would be prohibitively expensive. Apple would easily need thousands of these units to support its entire user base, resulting in astronomical costs likely passed on to consumers through service fees.
@@ -45,10 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -60,10 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -77,10 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -125,24 +120,21 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-shared-sights-behind-the-memeayer/"><u>[Updated] 2024 Approved Shared Sights Behind the Meme'ayer</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-az-capture-extraordinaire-thorough-app-reviews-for-2024/"><u>[Updated] AZ Capture Extraordinaire Thorough App Reviews for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-enhancing-engagement-through-thoughtful-youtube-tags-for-2024/"><u>[Updated] Enhancing Engagement Through Thoughtful YouTube Tags for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-latest-tcls-expanded-range-of-19-new-q-and-s-class-smart-televisions/"><u>Discover the Latest: TCL's Expanded Range of 19 New Q and S Class Smart Televisions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-reducing-windows-10s-memory-overuse-problem/"><u>Effective Solutions for Reducing Windows 10'S Memory Overuse Problem</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/te-your-video-rankings-with-effective-seo-tactics/"><u>Elevate Your Video Rankings with Effective SEO Tactics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719359918304-error-handling-strategies/"><u>Error Handling Strategies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-new-frontier-in-phones-with-samsungs-latest-release/"><u>Exploring the New Frontier in Phones with Samsung's Latest Release</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-it-now-enable-your-windows-11-file-sharing-and-backup-functionality/"><u>Fix It Now: Enable Your Windows 11 File Sharing & Backup Functionality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-novice-to-ninja-easy-pc-strategies-for-playing-fortnite-as-a-newbie/"><u>From Novice to Ninja: Easy PC Strategies for Playing Fortnite as a Newbie</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-send-and-receive-faxes-for-free-online-the-leading-options/"><u>How to Send & Receive Faxes for Free Online – The Leading Options</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-itel-a60-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Itel A60 Phone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-xs-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone XS Max After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-pc-building-with-expert-advice-from-toms-system-insights/"><u>Mastering PC Building with Expert Advice From Tom's System Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reviving-wireless-network-authentication-for-optimal-android-connectivity/"><u>Reviving Wireless Network Authentication for Optimal Android Connectivity</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210266247-9781591434344-the-empires-of-atlantis/"><u>The Empires of Atlantis | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-photographers-secret-weapon-mastering-selfie-lights-for-stunning-results/"><u>The Photographer's Secret Weapon: Mastering Selfie Lights for Stunning Results</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-strategy-for-rectifying-error-code-0x80004005/"><u>The Ultimate Strategy for Rectifying Error Code 0X80004005</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/verbesserung-und-wiederherstellung-hochauflosender-bilder-4k/"><u>Verbesserung Und Wiederherstellung Hochauflösender Bilder (4K,</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-chromebook-screenshot-hacks-in-four-steps/"><u>[New] 2024 Approved Chromebook Screenshot Hacks in Four Steps</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-access-tons-of-free-vocal-textures/"><u>[New] Access Tons of Free Vocal Textures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-allocate-more-ram-to-minecraft-3-methods/"><u>[New] How to Allocate More Ram to Minecraft 3 Methods</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-make-screenshots-and-recordings-on-imac-simple/"><u>[Updated] Make Screenshots & Recordings on iMac Simple</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-audio-best-practices-for-ipodcasting-interviews-on-ios-devices-for-2024/"><u>[Updated] Mastering Audio Best Practices for iPodcasting Interviews on iOS Devices for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/audiences-on-the-rise-gauge-for-2024/"><u>Audiences on the Rise Gauge for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-it-when-yahoo-mail-is-not-receiving-emails/"><u>How to Fix It When Yahoo Mail Is Not Receiving Emails</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-reduce-or-eliminate-noise-from-a-malfunctioning-desktop-fan/"><u>How to Reduce or Eliminate Noise From a Malfunctioning Desktop Fan</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audio-ambiance-assembler-selecting-background-scores/"><u>In 2024, Audio Ambiance Assembler Selecting Background Scores</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/install-or-upgrade-your-canoscan-lide-220-driver-with-ease/"><u>Install or Upgrade Your CanoScan LiDE 220 Driver with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-snapchat-emojis-the-definitive-guide-explained/"><u>Mastering Snapchat Emojis: The Definitive Guide Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/merging-your-fortnite-players-a-step-by-step-guide/"><u>Merging Your Fortnite Players: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-desktop-purchases-understanding-the-8-important-considerations-first/"><u>Navigating Desktop Purchases: Understanding the 8 Important Considerations First</u></a></li>
+<li><a href="https://techidaily.com/sign-jpg-online-add-signature-to-jpg-for-free-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>Sign JPG Online - Add Signature to JPG for Free</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2536439-9780008191498-the-ghost-whisperer/"><u>The Ghost Whisperer | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-recover-deleted-or-unseen-gmail-messages-efficiently/"><u>The Ultimate Guide to Recover Deleted or Unseen Gmail Messages Efficiently</u></a></li>
 </ul></div>
 

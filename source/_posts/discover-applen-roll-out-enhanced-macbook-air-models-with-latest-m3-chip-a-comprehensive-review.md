@@ -1,7 +1,7 @@
 ---
 title: "Discover Apple'n Roll Out Enhanced MacBook Air Models with Latest M3 Chip: A Comprehensive Review"
-date: 2024-11-12T18:31:01.286Z
-updated: 2024-11-15T23:13:55.928Z
+date: 2024-11-21T17:15:17.451Z
+updated: 2024-11-25T16:50:42.464Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -53,16 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -78,10 +73,7 @@ The app also streamlines your devices by bringing your iPhone's notifications st
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
@@ -108,6 +100,10 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -119,10 +115,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -134,13 +127,6 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -176,15 +162,18 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-trim-and-cut-vimeo-videos/"><u>[Updated] How to Trim and Cut Vimeo Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-strategies-to-repair-your-device-from-code-43-errors-effectively/"><u>Comprehensive Strategies to Repair Your Device From Code 43 Errors Effectively</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/empower-your-win11-experience-with-expert-led-zoom-insights/"><u>Empower Your Win11 Experience with Expert-Led Zoom Insights</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-entry-point-not-found-error-on-windows/"><u>How to Fix the Entry Point Not Found Error on Windows</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-guide-to-perfectly-fit-your-content-in-instagram-feed/"><u>In 2024, Guide to Perfectly Fit Your Content in Instagram Feed</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/inconsistent-performance-of-video-editing-programs/"><u>Inconsistent Performance of Video Editing Programs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-common-issues-reactivating-a-non-operational-roku-display-unit/"><u>Overcoming Common Issues: Reactivating a Non-Operational Roku Display Unit</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-ftd2xxdll-file-missing-or-unavailable-issue/"><u>Resolving the ftd2XX.dll File Missing or Unavailable Issue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/roblox-server-status-checking-if-its-down-or-your-connection-is-the-issue/"><u>Roblox Server Status: Checking if It's Down or Your Connection Is the Issue</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-video-file-management-in-adobe-premiere-import-edit-and-export-like-a-pro/"><u>Updated 2024 Approved Video File Management in Adobe Premiere Import, Edit, and Export Like a Pro</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nleashing-video-potential-efficiently-add-subtitlescc-to-your-youtube-videos/"><u>[New] Unleashing Video Potential Efficiently Add Subtitles/CC to Your YouTube Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigate-to-recent-fb-views-with-ease-2023-guide/"><u>[Updated] Navigate to Recent FB Views with Ease, 2023 Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-showdown-vlc-versus-mpc-in-video-viewing/"><u>2024 Approved The Ultimate Showdown VLC Versus MPC in Video Viewing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/bushido-code-continuation-top-similar-game-experiences/"><u>Bushido Code Continuation - Top Similar Game Experiences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/creating-a-unified-pdf-from-multiple-jpg-photos-tips-and-techniques/"><u>Creating a Unified PDF From Multiple JPG Photos: Tips and Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-bsod-exploring-the-causes-and-consequences-of-blue-screens-in-computers/"><u>Decoding BSOD: Exploring the Causes and Consequences of Blue Screens in Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/firestick-users-manual-installing-and-using-the-fandango-streamer/"><u>Firestick Users' Manual: Installing and Using the Fandango Streamer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-recover-from-an-iphone-that-shows-sos-but-no-other-signal-indicators/"><u>How to Recover From an iPhone that Shows SOS But No Other Signal Indicators</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/luxury-leisure-levels-review-roundup-for-2024/"><u>LUXURY LEISURE LEVELS Review Roundup for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/swift-transfer-tweets-as-vids-on-whatsapp-platform/"><u>Swift Transfer Tweets as Vids on WhatsApp Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722869593927-the-future-of-personal-assistants-arrives-with-rumored-apple-innovation-price-speculations-inside/"><u>The Future of Personal Assistants Arrives with Rumored Apple Innovation – Price Speculations Inside!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/xviddivx/"><u>コンバート戦略：XvidとDivXの違いを解き明かす - 変換ガイド</u></a></li>
 </ul></div>
 

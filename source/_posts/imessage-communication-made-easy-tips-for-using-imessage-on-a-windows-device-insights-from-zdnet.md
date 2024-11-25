@@ -1,7 +1,7 @@
 ---
 title: "IMessage Communication Made Easy: Tips for Using iMessage on a Windows Device - Insights From ZDNet"
-date: 2024-11-12T02:00:24.455Z
-updated: 2024-11-15T22:51:15.915Z
+date: 2024-11-23T17:20:09.888Z
+updated: 2024-11-25T16:16:05.289Z
 tags:
   - apple
 categories:
@@ -62,6 +62,10 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -73,10 +77,7 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
@@ -98,10 +99,7 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Start a new chat
@@ -109,6 +107,10 @@ Screenshot by Lance Whitney/ZDNET
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -132,25 +134,11 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -158,18 +146,15 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,19 +192,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-uploading-and-showcasing-videos-on-instagram-made-easy/"><u>[New] Uploading and Showcasing Videos on Instagram Made Easy</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-mastering-metaverse-life-your-ultimate-device-list/"><u>2024 Approved Mastering Metaverse Life Your Ultimate Device List</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/analyzing-active-presenters-advantage-on-screens/"><u>Analyzing Active Presenter’s Advantage on Screens</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/crafting-and-sharing-your-personalized-contact-card-in-ios-17-a-step-by-step-guide/"><u>Crafting and Sharing Your Personalized Contact Card in iOS 17: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-address-the-wlanapidll-file-disappearance-problem/"><u>Effective Strategies to Address the WLANAPI.DLL File Disappearance Problem</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-repairing-typing-problems-in-your-keyboard/"><u>Expert Tips on Repairing Typing Problems in Your Keyboard</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-bold-creation-mastering-timelapses-and-animations-with-movie-maker/"><u>In 2024, Bold Creation Mastering Timelapses & Animations with Movie Maker</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/maximizing-capabilities-upgrading-to-macos-sierra/"><u>Maximizing Capabilities Upgrading to macOS Sierra</u></a></li>
-<li><a href="https://win11.techidaily.com/skirt-sie-on-windows-installing-and-updating-unsigned-drivers/"><u>Skirt SIE on Windows: Installing and Updating Unsigned Drivers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/speed-essentials-discovering-the-necessary-processor-rates-for-your-pc/"><u>Speed Essentials: Discovering the Necessary Processor Rates for Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ins-and-outs-of-sms-receipts-ensuring-your-text-is-actually-read/"><u>The Ins and Outs of SMS Receipts: Ensuring Your Text Is Actually Read</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-a-smooth-gta-5-experience-without-crashes/"><u>Troubleshooting Tips for a Smooth GTA 5 Experience Without Crashes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-d3dx933dll-file-not-found-error-in-windows-systems/"><u>Troubleshooting Tips for d3dx9_33.dll File Not Found Error in Windows Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-how-to-repair-unresponsive-dvd-bd-and-cd-drives/"><u>Troubleshooting Tips: How to Repair Unresponsive DVD, BD & CD Drives</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-optimize-your-memory-perfecting-iphone-album-organization-and-icloud-backup-for-2024/"><u>[New] Optimize Your Memory Perfecting iPhone Album Organization and iCloud Backup for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-webcams-elevating-podcast-production/"><u>[Updated] Ideal Webcams Elevating Podcast Production</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-intro-ideas-free-download-options/"><u>[Updated] In 2024, Intro Ideas Free Download Options</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-starting-up-youtube-your-first-gear-list/"><u>[Updated] In 2024, Starting Up YouTube - Your First Gear List</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-pinnacle-performance-discover-the-top-8-webcams-today/"><u>2024 Approved Pinnacle Performance Discover the Top 8 Webcams Today</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-rank-the-top-free-tools-convert-srt-files-efficiently/"><u>2024 Approved Rank the Top Free Tools Convert Srt Files Efficiently</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-when-your-yahoo-mail-isnt-getting-new-messages/"><u>Effective Solutions When Your Yahoo Mail Isn't Getting New Messages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-display-woes-fixing-windows-11-when-your-screen-wont-show/"><u>Overcoming Display Woes: Fixing Windows 11 When Your Screen Won't Show</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-when-user32dll-goes-mia/"><u>Troubleshooting Tips for When User32.dll Goes MIA</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722897496127-two-factor-fortified-learn-to-implement-advanced-authentication-on-gmail-today/"><u>Two-Factor Fortified: Learn to Implement Advanced Authentication on Gmail Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-you-need-to-know-about-atandts-international-data-roaming-terms/"><u>What You Need to Know About AT&T's International Data Roaming Terms</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Student Prices on Apple Music – The Comprehensive Walkthrough for Academic Savings
-date: 2024-11-11T16:50:04.926Z
-updated: 2024-11-16T07:15:02.797Z
+date: 2024-11-18T16:36:59.067Z
+updated: 2024-11-25T16:23:17.313Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Apple Intelligence?
 
 Apple
@@ -35,6 +39,10 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -56,16 +64,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -97,10 +96,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -115,13 +111,6 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is Image Playground?
 
 Apple
@@ -133,13 +122,6 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -184,6 +166,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the technical requirements for Apple Intelligence?
 
 Apple
@@ -224,24 +210,24 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-wdf01000sys-blue-screen-error/"><u>[Fixed] Wdf01000.sys Blue Screen Error</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-capturing-your-device-a-comprehensive-screen-recording-guide/"><u>[New] 2024 Approved Capturing Your Device A Comprehensive Screen Recording Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-transform-your-vision-30-video-presentation-tips/"><u>[Updated] 2024 Approved Transform Your Vision 30 Video Presentation Tips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-best-picks-essential-websites-for-free-text-enhancements/"><u>[Updated] Best Picks Essential Websites for Free Text Enhancements</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/0x800705b3-error-code-when-tried-to-update-on-windows-11-solved/"><u>0X800705B3 Error Code When Tried to Update on Windows 11 [Solved]</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-comparing-recording-quality-the-pros-and-cons-of-30fps-and-60fps/"><u>2024 Approved Comparing Recording Quality The Pros & Cons of 30Fps and 60Fps</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-v30-lite-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo V30 Lite 5G</u></a></li>
-<li><a href="https://fox-links.techidaily.com/green-screen-glossary-for-novice-visual-effect-enthusiasts/"><u>Green Screen Glossary for Novice Visual Effect Enthusiasts</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/how-to-copy-a-gpt-partition-on-windows-10-to-ssdmbr-storage-devices-efficiently/"><u>How to Copy a GPT Partition on Windows 10 to SSD/MBR Storage Devices Efficiently</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-connection-effective-fixes-for-oculus-quest-2s-pc-connectivity-issues/"><u>Mastering the Connection: Effective Fixes for Oculus Quest 2'S PC Connectivity Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximize-file-transfer-speeds-expert-solutions-uncovered/"><u>Maximize File Transfer Speeds: Expert Solutions Uncovered</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-audio-issue-after-windows-11-patch-quick-troubleshooting-steps-inside/"><u>No Audio Issue After Windows 11 Patch? Quick Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolved-how-to-fix-msvcr100dll-errors-and-missing-files-on-windows-pc/"><u>Resolved: How to Fix MSVCR100.dll Errors and Missing Files on Windows PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/run-apps-in-compatibility-mode-in-windows-10/"><u>Run Apps in Compatibility Mode in Windows 10</u></a></li>
-<li><a href="https://facebook.techidaily.com/sharp-eyes-spot-these-14-typical-social-media-traps/"><u>Sharp Eyes! Spot These 14 Typical Social Media Traps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-enabling-and-using-a-vpn-through-opera-browser/"><u>Step-by-Step Guide: Enabling and Using a VPN Through Opera Browser</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-pairing-your-bluetooth-headset-with-a-windows-1noteq-10-laptop/"><u>Step-by-Step Guide: Pairing Your Bluetooth Headset with a Windows 1Noteq 10 Laptop</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-how-to-fix-itunes-unable-to-establish-connection-with-your-iphone-due-to-invalid-response/"><u>Troubleshooting: How to Fix 'iTunes Unable To Establish Connection With Your iPhone Due to Invalid Response'</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-anonymity-online-with-us-leading-vpn-services-start-your-risk-free-adventure-today/"><u>Ultimate Anonymity Online with US Leading VPN Services – Start Your Risk-Free Adventure Today</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ultimate-choices-in-high-definition-screen-capture/"><u>[New] 2024 Approved Ultimate Choices in High Definition Screen Capture</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-no-cost-sound-transformation-ultimate-10-youtube-tools/"><u>[New] No-Cost Sound Transformation Ultimate 10 YouTube Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-perfecting-your-srt-craft-a-compreran-guide-to-tips-and-tricks/"><u>[New] Perfecting Your SRT Craft A Compreran Guide to Tips & Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fusing-melodies-to-visuals-in-virtual-space/"><u>[Updated] Fusing Melodies to Visuals in Virtual Space</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-lyrics-with-images-on-instagram/"><u>[Updated] Harmonizing Lyrics with Images on Instagram</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fast-easy-free-uncovering-the-best-10-image-converters/"><u>2024 Approved Fast, Easy, FREE Uncovering the Best 10 Image Converters</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-removing-background-music-and-sounds-from-new-avi-files/"><u>2024 Approved Removing Background Music and Sounds From New AVI Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/breaking-down-the-new-iphones-features-a-comprehensive-look/"><u>Breaking Down the New iPhone's Features - A Comprehensive Look</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-windows-movie-maker-for-efficient-video-projects-in-windows-8/"><u>In 2024, Navigating Windows Movie Maker for Efficient Video Projects in Windows 8</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-simplify-your-workflow-top-timecode-conversion-tools-for-video-pros/"><u>New 2024 Approved Simplify Your Workflow Top Timecode Conversion Tools for Video Pros</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-of-insignia-usbnetworking-drivers-for-windows-systems/"><u>Quick Download of Insignia USB/Networking Drivers for Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-your-email-account-a-tutorial-for-activating-google-mails-two-step-verification/"><u>Secure Your Email Account: A Tutorial for Activating Google Mail's Two-Step Verification</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/states-must-also-develop-emergency-response-plans-in-case-of-environmental-disasters-involving-hazardous-waste/"><u>States Must Also Develop Emergency Response Plans in Case of Environmental Disasters Involving Hazardous Waste.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-capturing-screen-shots-on-your-hp-notebook/"><u>Step-by-Step Guide: Capturing Screen Shots on Your HP Notebook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-saga-a-step-by-step-harry-potter-movie-marathon/"><u>The Complete Saga: A Step-by-Step Harry Potter Movie Marathon</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-tech-bargains-during-amazons-biggest-sale-event/"><u>Top Tech Bargains During Amazon's Biggest Sale Event</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-connection-woes-are-service-disruptions-affecting-microsoft-teams-or-your-network/"><u>Troubleshooting Connection Woes: Are Service Disruptions Affecting Microsoft Teams or Your Network?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-comctl32dll-error-code-0xc0000142-fixes-and-solutions/"><u>Troubleshooting Guide: Resolving comctl32.dll Error Code 0Xc0000142 | Fixes & Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-when-you-encounter-nspr4dll-errors/"><u>Troubleshooting Tips for When You Encounter nspr4.dll Errors</u></a></li>
 </ul></div>
 

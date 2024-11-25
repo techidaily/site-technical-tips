@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Literature: How to Buy and Read E-Books on iPhones with the App Store Books Feature"
-date: 2024-11-09T18:33:31.473Z
-updated: 2024-11-16T03:43:37.984Z
+date: 2024-11-19T16:49:07.180Z
+updated: 2024-11-25T17:13:43.891Z
 categories:
   - BestProducts
 description: "This Article Describes Unlocking Literature: How to Buy and Read E-Books on iPhones with the App Store Books Feature"
@@ -15,6 +15,11 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 >
 
 ## Unlocking Literature: How to Buy and Read E-Books on iPhones with the App Store Books Feature
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Open the**Books** app on an iPhone or iPad and tap**Book Store** .
@@ -24,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
  This article explains how to buy e-books on an iPhone or iPad using the Books app in iOS 10.0 and iPadOS 13 or later. It includes information on reading e-books and tips for acquiring samples and free books.
 
  Before you buy e-books on your[iPad](https://www.lifewire.com/ipad-comparison-chart-1994214) or[iPhone](https://www.lifewire.com/pick-best-iphone-for-you-1999293) , tap the title to view details or preview or download a sample before committing to it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Buy E-Books on iPhone or iPad
 
@@ -38,24 +47,23 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 3. Find and select the e-book you want to order to open its information screen.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Apple Books New This Week section on iPad](https://www.lifewire.com/thmb/WN_yOzmbtUggcZkPINQNAZ0I1cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-book-store-254be83453ed4e1baa39aec617a0acea.PNG)
 4. Tap**Buy** and then confirm the order to purchase the e-book.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the title you chose is free, select**Get** to download it to your device.  
 ![Buy button in Books app on iPad](https://www.lifewire.com/thmb/s8QY8eeGK6W5WDxifBDdoVj1jbE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_buy-ebooks-at-ibookstore-ipad-1999866-6190920ff7254f0f80b8ad8e8cf6a5c5.jpg)
 
  Similar to App Store and subscriptions on your iPhone or iPad, Books purchases use your iCloud payment method. You can[view details and make updates](https://www.lifewire.com/change-itunes-account-details-2000448) from Settings.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Read Your E-Books
@@ -64,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 ![Read button in Books app on iPad](https://www.lifewire.com/thmb/SerpnZPTaDQhmYQpcPOcWlhOtw8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_buy-ebooks-at-ibookstore-ipad-1999866-b2cafab437ca453091185f06bf1fd04b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Another way to read a book is to go to the Library. Every book you add to the Books app is stored there—including books you ordered from the Books app, transferred to your device from other apps, or copied to your iPad or iPhone.
 
 ![Library tab of Books app for iPad](https://www.lifewire.com/thmb/vSd9Lljd3sqaIrR4jNio1Hkbmr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/books-app-library-ipad-a62998329c8c494db423be141aa994b6.PNG)
@@ -78,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
  Once you're in the Library, select the book you want to read. It opens immediately. Swipe left and right to turn the pages or tap once to access the menu.
 
 ![Free eBook open on iPad](https://www.lifewire.com/thmb/nssUbKPyPWGUsHEY8VSohohlDdQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ebook-ipad-8145236e2a3343d5927fae6f5da80b85.PNG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To return to your other e-books, tap once to show the menu, then select the back arrow or**x** .
 
@@ -130,24 +124,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-unleashing-the-power-of-hashtags-for-instagram-success-for-2024/"><u>[New] Unleashing the Power of Hashtags for Instagram Success for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-easy-desktop-screen-capture-method/"><u>[Updated] 2024 Approved Easy Desktop Screen Capture Method</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-natural-landscapes-essential-templates-to-improve-your-film-craft/"><u>[Updated] Natural Landscapes Essential Templates to Improve Your Film Craft</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/auditory-anchors-scouting-10-prime-songs-for-podcast-starts/"><u>Auditory Anchors Scouting 10 Prime Songs for Podcast Starts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/best-value-in-screen-recording-in-depth-review-of-free-apps/"><u>Best Value in Screen Recording In-Depth Review of Free Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-picks-the-20-leading-graphic-design-software-solutions-today/"><u>Expert Picks: The 20 Leading Graphic Design Software Solutions Today</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-to-set-up-custom-windows-server-backup-hold-policies/"><u>How to Set Up Custom Windows Server Backup Hold Policies</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-edge-2023-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola Edge 2023 FRP</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-unleash-creativity-with-these-essential-vector-editors/"><u>In 2024, Unleash Creativity with These Essential Vector Editors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-tesla-robotaxi-pricing-forecast-release-window-and-feature-highlights-expert-analysis/"><u>Inside Tesla Robotaxi: Pricing Forecast, Release Window & Feature Highlights - Expert Analysis</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/mastering-youtube-to-watch-facebook-content-on-apple-tv/"><u>Mastering YouTube to Watch Facebook Content on Apple TV</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/premiere-uninterruptible-power-supplies-in-2n4-your-guide-to-the-finest-picks/"><u>Premiere Uninterruptible Power Supplies in 2N4: Your Guide to the Finest Picks</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/quality-control-vll-approach-to-apps-for-2024/"><u>Quality Control VLL Approach to Apps for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-issues-what-to-do-when-netflix-struggles-to-stream-your-chosen-movie/"><u>Solving Issues: What to Do When Netflix Struggles to Stream Your Chosen Movie</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tethering-made-easy-a-users-guide-to-connecting-your-amazon-fire-stick-with-phone-wifi/"><u>Tethering Made Easy: A User's Guide to Connecting Your Amazon Fire Stick with Phone WiFi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722877542013-the-next-chapter-in-google-smartwatches-anticipated-pricing-launch-window-and-specs-the-rumor-mill-churns/"><u>The Next Chapter in Google Smartwatches: Anticipated Pricing, Launch Window & Specs - The Rumor Mill Churns!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-increasing-your-instagram-crowd/"><u>The Ultimate Guide to Increasing Your Instagram Crowd</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722895997242-the-ultimate-guide-to-overcoming-code-n-series-hiccups-especially-43/"><u>The Ultimate Guide to Overcoming Code N-Series Hiccups – Especially #43!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-using-ping-tools-for-quick-web-server-response-time-analysis/"><u>The Ultimate Tutorial on Using Ping Tools for Quick Web Server Response Time Analysis</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-swift-shadowing-secrets/"><u>2024 Approved Swift Shadowing Secrets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-editors-pathway-for-diminishing-sound-levels/"><u>2024 Approved The Editor's Pathway for Diminishing Sound Levels</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/demystifying-whatsapp-voice-chat-functionality-for-2024/"><u>Demystifying WhatsApp Voice Chat Functionality for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-free-early-learning-games-online/"><u>Discover the Best Free Early Learning Games Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-homes-digital-tv-reception-with-a-simple-indoor-antenna-solution/"><u>Enhance Your Home's Digital TV Reception with a Simple Indoor Antenna Solution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-picks-the-ultimate-list-of-ups-batteries/"><u>Expert Picks: The Ultimate List of UPS Batteries</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/google-home-app-tips-and-tricks-for-seamless-pc-integration/"><u>Google Home App: Tips and Tricks for Seamless PC Integration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-magnification-how-to-zoom-in-and-out-on-ios-devices/"><u>Mastering the Art of Magnification: How to Zoom In & Out on iOS Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-world-of-slack-reminders-a-comprehensive-guide/"><u>Navigating the World of Slack Reminders: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamlining-speeches-with-these-7-ai-innovators/"><u>Streamlining Speeches with These 7 AI Innovators</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-big-thing-in-smartphones-insider-info-on-samsung-galaxy-z-fold-6s-price-tag-pre-release-details-and-feature-list/"><u>The Next Big Thing in Smartphones: Insider Info on Samsung Galaxy Z Fold 6'S Price Tag, Pre-Release Details & Feature List</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/transform-your-mornings-totobay-2nd-generation-light-alarm-clock-unveiled-for-savvy-savers/"><u>Transform Your Mornings: Totobay 2Nd Generation Light Alarm Clock Unveiled for Savvy Savers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-pdf-access-4-methods-for-enabling-chatgpt-to-read-files/"><u>Unlocking PDF Access: 4 Methods for Enabling ChatGPT to Read Files</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-14-pro-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi 14 Pro Users</u></a></li>
 </ul></div>
 

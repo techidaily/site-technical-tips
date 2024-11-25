@@ -1,7 +1,7 @@
 ---
 title: Apple Reveals Exciting New Features Set to Elevate Your iPhone, iPad, and Mac Experience This Fall (AI Included) | Insights
-date: 2024-11-09T18:25:19.189Z
-updated: 2024-11-15T23:45:38.283Z
+date: 2024-11-19T16:00:27.789Z
+updated: 2024-11-25T16:47:57.756Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -69,10 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -94,10 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -114,6 +112,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,13 +125,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -141,13 +136,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -173,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,20 +210,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-deep-dive-into-videomovavi-11s-features-and-performance/"><u>[New] In 2024, Deep Dive Into VideoMovavi 11'S Features & Performance</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-optimizing-your-workflow-nvidia-screener/"><u>[Updated] In 2024, Optimizing Your Workflow NVIDIA Screener</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-online-platforms-for-youtube-media-growth/"><u>2024 Approved Top Online Platforms for YouTube Media Growth</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/a-comprehensive-solution-for-when-your-laptop-is-mute-get-it-working-again/"><u>A Comprehensive Solution for When Your Laptop Is Mute – Get It Working Again</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apple-macbook-air-13-inch-m1-2020-review-the-revolutionary-power-of-apples-m1-chip/"><u>Apple MacBook Air 13-Inch (M1, 2020) Review: The Revolutionary Power of Apple's M1 Chip</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-methods-for-bulk-email-deletion-in-the-gmail-application-mobile-edition/"><u>Easy Methods for Bulk Email Deletion in the Gmail Application - Mobile Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elevate-your-facebook-game-the-ultimate-guide-to-using-it-more-efficiently/"><u>Elevate Your Facebook Game: The Ultimate Guide to Using It More Efficiently</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-erase-your-presence-on-tiktok-a-comprehensive-walkthrough/"><u>How To Erase Your Presence on TikTok – A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-color-laserjet-pro-mfp-m477-downloading-the-correct-printer-drivers/"><u>HP Color LaserJet Pro MFP M477: Downloading the Correct Printer Drivers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-art-of-movie-marathon-with-the-matrix-series/"><u>Master the Art of Movie Marathon With The Matrix Series</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reusing-old-receivers-syncing-them-to-a-different-logitech-mouse/"><u>Reusing Old Receivers: Syncing Them to a Different Logitech Mouse</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-fix-fortnite-microphone-issues-troubleshooting-guide/"><u>Solved: How to Fix Fortnite Microphone Issues - Troubleshooting Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-puzzle-comprehensive-insight-into-blue-screen-issues-and-fixes/"><u>Solving the Puzzle: Comprehensive Insight Into Blue Screen Issues and Fixes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-winx-mediatrans-mastery-efficient-techniques-for-media-format-switching-and-data-migration/"><u>Step-by-Step WinX MediaTrans Mastery: Efficient Techniques for Media Format Switching and Data Migration</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722853079059-steps-to-follow-handling-an-instagram-account-suspension-or-deactivation/"><u>Steps to Follow: Handling an Instagram Account Suspension or Deactivation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-adjusting-obs-encoding-settings/"><u>[New] Adjusting OBS Encoding Settings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-elevating-your-channel-a-gamers-blueprint-for-success-for-2024/"><u>[Updated] Elevating Your Channel A Gamers' Blueprint for Success for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-insta-stories-enhancing-background-blur-technique/"><u>[Updated] Insta Stories Enhancing Background Blur Technique</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-analysis-calculating-your-podcasts-cost/"><u>2024 Approved In-Depth Analysis Calculating Your Podcast's Cost</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/32-free-backup-software-tools-ranked-and-reviewed/"><u>32 Free Backup Software Tools: Ranked and Reviewed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/diving-into-periscope-understanding-its-free-access-and-account-creation-process-for-2024/"><u>Diving Into Periscope Understanding Its Free Access & Account Creation Process for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-techniques-for-repairing-hardware-exceptions-understanding-and-fixing-the-wheee-error-in-windows/"><u>Effective Techniques for Repairing Hardware Exceptions – Understanding and Fixing the WHEeE Error in Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-potential-of-color-grading-through-luts-and-ar-for-2024/"><u>Explore the Potential of Color Grading Through LUTs and AR for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-dbghelpdll-not-found-or-missing-errors/"><u>How to Fix Dbghelp.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-historical-imagery-unleashed-from-copyrights/"><u>In 2024, Historical Imagery Unleashed From Copyrights</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-spheres-meld-facebook-and-instagrams-bond-deepens/"><u>Social Spheres Meld: Facebook & Instagram's Bond Deepens</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-advice-on-choosing-an-ideal-surge-protector-for-gadgets/"><u>Step-by-Step Advice on Choosing an Ideal Surge Protector for Gadgets</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/ultimate-spots-for-discovering-rich-gold-text-effects-for-2024/"><u>Ultimate Spots for Discovering Rich, Gold Text Effects for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-users-who-spread-your-content-on-facebook/"><u>Unveiling the Users Who Spread Your Content on Facebook</u></a></li>
 </ul></div>
 

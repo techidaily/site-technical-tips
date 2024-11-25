@@ -1,7 +1,7 @@
 ---
 title: IOS 16 Launch Details Revealed - Pricing, New Functionalities & Latest Updates
-date: 2024-11-13T05:43:12.147Z
-updated: 2024-11-15T18:19:54.429Z
+date: 2024-11-22T16:00:08.458Z
+updated: 2024-11-25T16:29:41.643Z
 categories:
   - BestProducts
 description: This Article Describes IOS 16 Launch Details Revealed - Pricing, New Functionalities & Latest Updates
@@ -26,6 +26,10 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Apple Wearable Device With Direct Audio Release Date?
 
  There's not a lot to go on about this device, just the patent—and not all patents lead to products. In fact, Apple and other tech companies receive hundreds and thousands of patents every year, and not all of that technology makes it to market.
@@ -33,10 +37,7 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
@@ -52,10 +53,7 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Wearable Device With Direct Audio Features
@@ -63,13 +61,6 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
 
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple, Inc / USPTO
 
@@ -80,6 +71,10 @@ Apple, Inc / USPTO
 * Directional audio
 * Microphones for commands, user identification, and calibration.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -89,10 +84,7 @@ Apple, Inc / USPTO
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Microphones for Commands, User Identification, and Callibration
@@ -126,24 +118,19 @@ Apple, Inc / USPTO
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-progopro-tips-for-cinematic-results/"><u>[Updated] 2024 Approved ProGoPro Tips for Cinematic Results</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-dynamic-videos-made-easy-with-best-stabilizers/"><u>[Updated] Dynamic Videos Made Easy with Best Stabilizers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-meme-magic-unleashed-top-humorous-creations-for-the-metaverse-world/"><u>[Updated] Meme Magic Unleashed Top Humorous Creations for the Metaverse World</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-reduce-audio-noise-in-video-recording-free-and-paid/"><u>[Updated] Reduce Audio Noise in Video Recording [Free and Paid]</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-easy-way-to-change-and-upgrade-iphones-ringtones/"><u>[Updated] The Easy Way to Change and Upgrade iPhone's Ringtones</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/p-by-step-breakdown-creating-your-best-yt-shorts/"><u>A Step-by-Step Breakdown Creating Your Best YT Shorts</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-oppo-f25-pro-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Oppo F25 Pro 5G Unlock Without Password</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-practices-for-incorporating-b-footage-in-projects/"><u>In 2024, Best Practices for Incorporating B-Footage in Projects</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-first-time-furnishings-minimalist-house-plans-in-mc/"><u>In 2024, First-Time Furnishings Minimalist House Plans in MC</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-motorola-razr-40-ultra-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-setting-up-and-using-a-vpn-on-your-pc-mac-iphone-or-android-device/"><u>Step-by-Step Guide: Setting Up and Using a VPN on Your PC, Mac, iPhone or Android Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-upgrading-your-pc-with-a-new-graphics-card/"><u>Step-by-Step Guide: Upgrading Your PC with a New Graphics Card</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stepwise-instructions-on-shutting-down-the-cortana-assistant-on-windows-10-computers/"><u>Stepwise Instructions on Shutting Down the Cortana Assistant on Windows 10 Computers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshoot-and-update-hp-deskjet-printer-drivers-for-seamless-operation-in-windows-11/"><u>Troubleshoot and Update HP Deskjet Printer Drivers for Seamless Operation in Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-diablo-4-pc-performance-smoother-gameplay-consistent-item-drops/"><u>Troubleshooting Diablo 4 PC Performance: Smoother Gameplay, Consistent Item Drops</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-how-to-repair-an-unresponsive-keyboard-quickly/"><u>Troubleshooting Guide: How to Repair an Unresponsive Keyboard Quickly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-top-7-ways-to-optimize-your-pubg-gameplay-performance/"><u>Ultimate Guide: Top 7 Ways to Optimize Your PUBG Gameplay Performance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uninstalling-nvidia-drivers-made-easy-for-windows-11-users/"><u>Uninstalling NVIDIA Drivers Made Easy for Windows 11 Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/we-cant-sign-into-your-account-in-windows-11-solved/"><u>We Can't Sign Into Your Account in Windows 11 [Solved]</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-do-i-access-the-full-range-of-shared-media-on-messenger/"><u>[New] 2024 Approved How Do I Access the Full Range of Shared Media on Messenger?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-5-esteemed-platforms-for-easy-text-effect-implementation/"><u>[Updated] 5 Esteemed Platforms for Easy Text Effect Implementation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-building-your-ultimate-youtube-music-list-step-by-step-guide-webmobile-for-2024/"><u>[Updated] Building Your Ultimate YouTube Music List Step-by-Step Guide (Web/Mobile) for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-pioneering-techniques-to-enhance-fb-video-ads/"><u>[Updated] Pioneering Techniques to Enhance Fb Video Ads</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-step-by-step-tailoring-your-way-to-youtube-subtitles-srt/"><u>2024 Approved Step-by-Step Tailoring Your Way to YouTube Subtitles (SRT)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/explore-the-power-of-vce-22-for-impeccable-video-clarity-for-2024/"><u>Explore the Power of VCE 2.2 for Impeccable Video Clarity for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-msstdfmtdll-not-found-issue-on-your-computer-easily/"><u>How to Fix Msstdfmt.dll Not Found Issue on Your Computer Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-stop-0x0000005c-halinitializationfailed/"><u>How to Fix STOP 0X0000005C (HAL_INITIALIZATION_FAILED)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-sync-multiple-devices-with-your-multi-functional-remote-control/"><u>How to Sync Multiple Devices with Your Multi-Functional Remote Control</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audiovisual-mastery-imovie-sound-guide/"><u>In 2024, Audiovisual Mastery IMovie Sound Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-issue-a-step-by-step-guide-to-solve-error-0x80004005/"><u>Resolving the Issue: A Step-by-Step Guide to Solve Error 0X80004005</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sonys-big-reveal-key-updates-and-insights-from-the-2024-state-of-play-event/"><u>Sony's Big Reveal: Key Updates & Insights From the 2024 State of Play Event</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-y56-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo Y56 5G Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unstick-stuck-airpods-a-guide-to-nine-methods-that-will-charge-them-up-again/"><u>Unstick Stuck AirPods: A Guide to Nine Methods That Will Charge Them Up Again</u></a></li>
 </ul></div>
 

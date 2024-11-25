@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Latest Innovations in iPadOS for Generation iPads at 2024 WWDC: The Features You Can't Miss!"
-date: 2024-11-13T02:05:59.059Z
-updated: 2024-11-16T03:21:02.978Z
+date: 2024-11-19T16:58:26.516Z
+updated: 2024-11-25T17:00:57.119Z
 tags:
   - apple
 categories:
@@ -61,10 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -74,13 +71,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -114,6 +104,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -125,10 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -143,10 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -165,6 +153,10 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -218,24 +210,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://technical-tips.techidaily.com/discover-our-picks-the-best-free-cad-solutions-available-today/"><u>Discover Our Picks: The Best Free CAD Solutions Available Today</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-microsoft-surface-pro-4-drivers-on-windows-step-by-step-guide/"><u>Download and Install Microsoft Surface Pro 4 Drivers on Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-repair-libexec32dll-not-found-error-quickly/"><u>How To Repair 'libexec32.dll Not Found' Error Quickly</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-note-12-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi Note 12 5G Lock Screen Password?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/instant-improvement-in-visuals-the-canva-technique-for-borderless-images/"><u>Instant Improvement in Visuals The Canva Technique for Borderless Images</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/key-principles-to-deliver-dynamic-ppt-in-online-meets-for-2024/"><u>Key Principles to Deliver Dynamic PPT in Online Meets for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-magiccard-rio-pro-driver-version-available-for-windows-users-download-today/"><u>Latest Magiccard Rio Pro Driver Version Available for Windows Users! Download Today</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-windows-10-privacy-how-to-turn-network-discovery-on-and-off/"><u>Mastering Windows 10 Privacy: How to Turn Network Discovery On and Off</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simplifying-your-searches-using-google-gemini-explained/"><u>Simplifying Your Searches Using Google Gemini Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-integrating-subtitles-and-descriptive-text-onto-your-insta-stories/"><u>The Complete Walkthrough: Integrating Subtitles and Descriptive Text Onto Your Insta-Stories</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-inside-scoop-on-elon-musks-cutting-edge-project-understanding-truthgpt/"><u>The Inside Scoop on Elon Musk's Cutting-Edge Project: Understanding TruthGPT</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-x100-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo X100 Pro Android SIM Unlock APK</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-strategies-for-eliminating-pc-gaming-lags/"><u>Top Strategies for Eliminating PC Gaming Lags</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-comctl32dll-not-found-issues-on-your-pc/"><u>Troubleshooting Comctl32.dll Not Found Issues on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-twitch-connectivity-problems-server-downtime-or-user-error/"><u>Troubleshooting Twitch Connectivity Problems – Server Downtime or User Error?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-snapchats-secret-language-a-definitive-guide-to-emoji-interpretations/"><u>Understanding Snapchat's Secret Language: A Definitive Guide to Emoji Interpretations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-cross-platform-use-how-to-operate-android-apps-in-windows-10-environment/"><u>Unlocking Cross-Platform Use: How to Operate Android Apps in Windows 10 Environment</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-potential-of-channels-on-lg-electronics-products/"><u>Unlocking the Potential of Channels on LG Electronics Products</u></a></li>
-<li><a href="https://fox-place.techidaily.com/winmac-sd/"><u>マシンごとに、WinまたはMac - SDカードから消えたファイルの回復法</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-streamline-success-a-review-of-top-name-generators/"><u>[New] 2024 Approved Streamline Success A Review of Top Name Generators</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-cropped-footage-queries-why-is-my-video-clipped/"><u>[New] Cropped Footage Queries Why Is My Video Clipped?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-win11s-top-5-no-cost-screen-recorders-updated-guide/"><u>[New] Win11's Top 5 No-Cost Screen Recorders - Updated Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-affordable-pc-obs-tuning-guide/"><u>[Updated] Affordable PC OBS Tuning Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-unlimited-cloud-storage-service-recommendations-for-2024/"><u>Best Unlimited Cloud Storage Service Recommendations for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/code-39-trouble-heres-how-to-correctly-fix-it-in-windows/"><u>Code 39 Trouble? Here's How to Correctly Fix It in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/differentiating-between-global-discord-outages-and-personal-internet-problems-what-you-need-to-know/"><u>Differentiating Between Global Discord Outages and Personal Internet Problems – What You Need to Know.</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-speeding-techniques-for-a-lag-free-chrome-web-browsing/"><u>Effortless Speeding Techniques for a Lag-Free Chrome Web Browsing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/empower-your-studies-top-10-educational-apps-that-make-learning-fun-for-students-in-secondary-school/"><u>Empower Your Studies: Top 10 Educational Apps that Make Learning Fun for Students in Secondary School</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enabling-night-shift-feature-on-your-iphone-the-ultimate-tutorial/"><u>Enabling Night Shift Feature on Your iPhone - The Ultimate Tutorial</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-lava-blaze-pro-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/innovative-techniques-in-repackaging-apps-for-seamless-distribution/"><u>Innovative Techniques in Repackaging Apps for Seamless Distribution</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/solutions-to-spy-on-apple-iphone-xr-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>Solutions to Spy on Apple iPhone XR with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-exceptional-value-top-tier-verizon-upgrade-specials-for-month/"><u>Unlock Exceptional Value: Top-Tier Verizon Upgrade Specials for [Month]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Gaining Consent From TrustedInstaller for Windows 10 Modifications
-date: 2024-11-09T20:42:23.183Z
-updated: 2024-11-16T02:29:10.588Z
+date: 2024-11-19T16:16:04.673Z
+updated: 2024-11-25T16:00:35.805Z
 categories:
   - BestProducts
 description: This Article Describes Gaining Consent From TrustedInstaller for Windows 10 Modifications
@@ -19,6 +19,10 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject Within the OS
 
  We'll start with the easiest way to get the drive open—skip the physical button on the outside and ask your[operating system](https://www.lifewire.com/operating-systems-2625912) to force eject the disc. You can only try this if your computer has power and is working. Skip down to the next section if that's not the case.
@@ -33,6 +37,10 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 ![File Explorer in Windows 10 showing right-click menu with Eject command highlighted](https://www.lifewire.com/thmb/JdH15OVtIjSJeEPIvh9TCVtlnYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-dvd-bd-cd-drive-that-wont-open-or-eject-2626113-5bf8523e46e0fb0083220b80.jpg)
 4. The drive bay or disc should spin down and eject within seconds.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Using a Mac?** Similar to the method described above for Windows, find the disc icon, right-click it, and then choose**Eject** .
 
 [How Do I Eject a CD or DVD From My Mac?](https://www.lifewire.com/how-do-i-eject-cd-from-mac-2260195)
@@ -40,10 +48,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
  If this doesn't work (Windows, macOS, Linux, etc.), it's time to get physical with it!
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject With a Paper Clip
@@ -66,10 +71,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
  Those are not necessarily in a step-by-step troubleshooting order. What steps you take depends a lot on the type of computer and optical drive you have, as well as your specific situation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No Luck? Here's What to Do Next
@@ -82,16 +84,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 * Replace the drive. Optical drives are relatively cheap—Amazon sells many for around $20 USD.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Causes of a DVD/BD/CD Drive That Won't Open or Eject
@@ -140,24 +133,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-hold-whole-page-snapshot-image/"><u>[Updated] 2024 Approved Hold Whole Page Snapshot Image</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-echoes-of-the-beginner-learning-fades-in-the-realm-of-audition/"><u>2024 Approved Echoes of the Beginner Learning Fades in the Realm of Audition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/detecting-deceptive-friends-on-social-media-platforms/"><u>Detecting Deceptive Friends on Social Media Platforms</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-free-spots-for-legally-grabbing-tunes-online/"><u>Discover the Best Free Spots for Legally Grabbing Tunes Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/excellence-in-ai-based-photo-transformations/"><u>Excellence in AI-Based Photo Transformations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-guide-how-to-address-the-absence-of-d3dx940dll-errors/"><u>Fix Guide: How to Address The Absence of d3dx9_40.dll Errors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-g533-mic-step-by-step-solutions-for-common-problems/"><u>Fixing Your Logitech G533 Mic - Step-by-Step Solutions for Common Problems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-nubia-red-magic-8s-proplus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Nubia Red Magic 8S Pro+ to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-aspect-ratios-unveiled-a-complete-youtube-manual/"><u>In 2024, Aspect Ratios Unveiled A Complete YOUTUBE Manual</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-realme-v30-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Realme V30 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-it-feasible-to-create-and-maintain-more-than-one-youtube-presence/"><u>Is It Feasible to Create and Maintain More Than One YouTube Presence?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/should-i-invest-in-a-ps5-top-four-benefits-of-owning-sonys-latest-console/"><u>Should I Invest in a PS5? Top Four Benefits of Owning Sony's Latest Console</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/snapseed-advanced-usage-insights-for-2024/"><u>Snapseed Advanced Usage Insights for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-when-you-cant-find-oleaut32dll-on-your-computer/"><u>Step-by-Step Solutions for When You Can't Find OleAut32.dll on Your Computer</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-gradual-sound-escalation-auditions-guide-to-fades/"><u>The Gradual Sound Escalation Audition’s Guide to Fades</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-12-complimentary-disk-defragmentation-programs-july-2024-update/"><u>Top 12 Complimentary Disk Defragmentation Programs - July 2024 Update</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-factors-to-assess-when-choosing-your-new-gaming-system/"><u>Top 5 Factors to Assess When Choosing Your New Gaming System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-advrcntr2dll-not-found-issue-in-nero-software/"><u>Troubleshooting the 'advrcntr2.dll Not Found' Issue in Nero Software</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-explore-the-finest-5-android-photo-editing-apps-for-2024/"><u>[New] Explore the Finest 5 Android Photo Editing Apps for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-transform-your-view-exclusive-alternative-video-websites/"><u>[New] In 2024, Transform Your View Exclusive Alternative Video Websites</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-precision-adjustment-of-iphone-photo-dimensions-revealed/"><u>[New] Precision Adjustment of iPhone Photo Dimensions Revealed</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-tailoring-audience-for-your-youtube-videos/"><u>[Updated] Tailoring Audience for Your Youtube Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-z-list-of-premium-quality-films-for-free-watch-now/"><u>A-Z List of Premium Quality Films for FREE – Watch Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722874435427-all-you-need-to-know-about-the-new-google-pixel-tablet-launch-info-and-hardware-details-revealed/"><u>All You Need to Know About The New Google Pixel Tablet - Launch Info and Hardware Details Revealed!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-6-plus-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 6 Plus? How to Fix it?</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-v27-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo V27 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-virtual-worlds-worth-playing-for-2024/"><u>Essential Virtual Worlds Worth Playing for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplifying-your-wallet-comprehensive-guide-to-employing-apple-pay-features-on-an-apple-watch/"><u>Simplifying Your Wallet: Comprehensive Guide to Employing Apple Pay Features on an Apple Watch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-activatedeactivate-file-sharing-in-windows-11/"><u>Step-by-Step Tutorial: Activate/Deactivate File Sharing in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamline-study-time-with-these-top-er-6-student-and-parent-friendly-apps/"><u>Streamline Study Time with These Top Er 6 Student & Parent Friendly Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-installing-apple-tv-apps-on-amazon-fire-stick/"><u>Ultimate Guide: Installing Apple TV Apps on Amazon Fire Stick</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-mirroring-your-devices-display-onto-an-lg-smart-tv/"><u>Ultimate Guide: Mirroring Your Device's Display Onto an LG Smart TV</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/virtual-worlds-real-learning/"><u>Virtual Worlds, Real Learning</u></a></li>
 </ul></div>
 

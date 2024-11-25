@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Insights From ZDNet"
-date: 2024-11-11T18:55:49.168Z
-updated: 2024-11-15T20:21:56.175Z
+date: 2024-11-20T16:03:10.253Z
+updated: 2024-11-25T17:20:10.686Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
@@ -37,10 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -52,10 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -65,10 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -77,13 +72,6 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -91,6 +79,10 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -134,19 +126,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-capturing-adventures-in-high-definition-with-intova-x/"><u>[Updated] 2024 Approved Capturing Adventures in High Definition With Intova X</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722881072925-anticipating-the-google-pixel-10-latest-leaks-on-price-release-date-and-specs/"><u>Anticipating the Google Pixel 10 - Latest Leaks on Price, Release Date & Specs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-tutorial-refresh-zoom-software-for-pc-and-mac-users/"><u>Comprehensive Tutorial: Refresh Zoom Software for PC & Mac Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-winning-videographies-the-essential-guide-to-chatgpt-scriptwriting/"><u>Crafting Winning Videographies: The Essential Guide to ChatGPT Scriptwriting</u></a></li>
-<li><a href="https://games-able.techidaily.com/effective-troubleshooting-quick-fixes-for-playstation-5-devices/"><u>Effective Troubleshooting: Quick Fixes for PlayStation 5 Devices</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-unparalleled-capturing-the-best-camcorders/"><u>In 2024, Unparalleled Capturing The Best Camcorders</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/managing-icloud-and-mobile-storage-keeping-iphone-pictures-with-selective-icloud-deletion/"><u>Managing iCloud and Mobile Storage: Keeping iPhone Pictures with Selective iCloud Deletion</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-top-video-editing-software-for-pc-gopro-quik-and-more-for-2024/"><u>New Top Video Editing Software for PC GoPro Quik and More for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-mfc42dll-file-not-present-issue-a-step-by-step-guide/"><u>Resolving the mfc42.dll File Not Present Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-your-new-hp-victus-amoled-tech-laptop-for-only-515-with-our-specialized-anti-prime-deal-at-best-buy-top-picks/"><u>Score Your New HP Victus Amoled-Tech Laptop for Only $515 with Our Specialized Anti-Prime Deal at Best Buy – Top Picks !</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-mfc71dll-file-missing-a-step-by-step-guide/"><u>Solving mfc71.dll File Missing: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/step-by-step-livestreaming-to-facebook-from-iphonestablets/"><u>Step-by-Step Livestreaming to Facebook From iPhones/Tablets</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-strategy-learning-how-to-excel-in-pokemon-unite/"><u>Step-by-Step Strategy: Learning How to Excel in Pokémon Unite</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/taylor-swift-filmography-a-complete-watchlist-from-start-to-finish/"><u>Taylor Swift Filmography: A Complete Watchlist From Start to Finish</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-premium-12-video-capture-apps-no-time-limit/"><u>[New] In 2024, Premium 12 Video Capture Apps, No Time Limit</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-capturing-your-digital-world/"><u>[Updated] In 2024, Capturing Your Digital World</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-inspiring-vistas-top-20-scenic-shots-for-social-media-success-for-2024/"><u>[Updated] Inspiring Vistas Top 20 Scenic Shots for Social Media Success for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-instructions-to-capture-screen-shots-seamlessly-on-an-hp-notebook/"><u>Comprehensive Instructions to Capture Screen Shots Seamlessly on an HP Notebook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-a-lost-msvcr80dll-file-a-comprehensive-fix-tutorial/"><u>Dealing with a Lost MSVCR80.DLL File: A Comprehensive Fix Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-activating-low-light-display-settings-on-your-iphone-devices/"><u>Guide to Activating Low Light Display Settings on Your iPhone Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-maintain-continuous-operation-on-your-mac-without-sleep-interruptions/"><u>How To Maintain Continuous Operation on Your Mac Without Sleep Interruptions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-scan-from-a-printer-to-a-computer/"><u>How to Scan From a Printer to a Computer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-12-pro-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 12 Pro Safe and Legal</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-ways-to-randomize-youtube-playlist-on-pcphonestvs/"><u>In 2024, Quick Ways to Randomize YouTube Playlist On PC/Phones/TVs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-travel-video-setup-must-have-items-checklist/"><u>In 2024, Travel Video Setup Must-Have Items Checklist</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-on-how-to-bridge-amazon-firestick-and-projectors-seamlessly/"><u>Ultimate Tutorial on How to Bridge Amazon Firestick and Projectors Seamlessly</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-tecno-spark-20-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Tecno Spark 20 Pro? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

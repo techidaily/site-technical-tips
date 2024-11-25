@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Release: Apple Eyes New Buds and Over-Ear Headphones - Tech News by ZDNet"
-date: 2024-11-13T04:56:40.867Z
-updated: 2024-11-15T22:06:37.491Z
+date: 2024-11-21T16:10:26.228Z
+updated: 2024-11-25T16:55:10.750Z
 tags:
   - apple
 categories:
@@ -43,9 +43,17 @@ These AirPods can be separated into entry-level and mid-tier categories, with th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the AirPods 4 (entry-level) if...
 
 Screenshot by Kayla Solino/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. You love your AirPods (2nd generation) but want some upgrades
 
@@ -56,10 +64,7 @@ If you like the simplicity of the second-generation AirPods but think it's time 
 Regarding upgrades, the AirPods 4's charging case delivers six more hours of battery life than the second-generation AirPods. Additionally, the AirPods 4's charging case supports USB-C charging and has an IP54 dust and water resistance rating. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. You want the most affordable option
@@ -69,22 +74,12 @@ The entry-level AirPods are cheaper than the AirPods 4 mid-tier model and the Ai
 [Preorder the AirPods 4 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the AirPods 4 (mid-tier) if...
 
 Screenshot by Kayla Solino/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. The AirPods Pro 2 have too many features you'll never use
 
@@ -95,10 +90,7 @@ The AirPods Pro 2 are Apple's most advanced earbuds, offering an array of audio 
 The AirPods 4 with active noise cancellation have noise-canceling and transparency modes, spatial audio with dynamic head tracking, and an IP54 water and dust resistance rating. The charging case is USB-C and wireless charging compatible. However, the mid-tier AirPods 4 have one less hours of continuous playback than the AirPods 3.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You want the "just right" AirPods
@@ -145,20 +137,22 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-exclusive-drone-visuals-free-luts-for-dji-drones-for-2024/"><u>[New] Exclusive Drone Visuals Free LUTS for DJI Drones for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-assessing-the-value-proposition-of-itop-recorder/"><u>[New] In 2024, Assessing the Value Proposition of ITop Recorder</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-10-final-cut-pro-plug-ins/"><u>2024 Approved 10 Final Cut Pro-Plug-Ins</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/avoid-browser-crashes-handling-jscriptdll-not-found-error-effectively/"><u>Avoid Browser Crashes: Handling 'jScript.dll Not Found' Error Effectively</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/code-ntrouble-resolution-tips-and-techniques/"><u>Code Ntrouble Resolution Tips and Techniques</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-c33-2023-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme C33 2023 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-facebook-profile-transformation-top-11-online-image-makers/"><u>In 2024, Facebook Profile Transformation Top 11 Online Image Makers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-multitasking-media-expertise-in-using-picture-in-picture/"><u>In 2024, Navigating Multitasking Media Expertise in Using Picture-in-Picture</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ipad-messaging-guide-mastering-text-communication/"><u>IPad Messaging Guide: Mastering Text Communication</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/leading-smartwatch-applications-optimized-for-your-android-gadget/"><u>Leading Smartwatch Applications Optimized for Your Android Gadget</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigate-through-the-best-tv-streaming-subscriptions-of-2024-a-comprehensive-ranking/"><u>Navigate Through the Best TV Streaming Subscriptions of 2024: A Comprehensive Ranking</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-opengl32dll-file-absence-issues-on-your-pc/"><u>Resolving OpenGL32.dll File Absence Issues on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-capturing-a-screen-on-your-hp-laptop/"><u>Step-by-Step Guide: Capturing a Screen on Your HP Laptop</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/vobmp3-google/"><u>VOBからMP3への変換：容易なガイドと方法 - Google 検索</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-ifunny-meme-downloads-and-fun/"><u>[New] 2024 Approved Mastering iFunny Meme Downloads & Fun</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-proven-techniques-to-elevate-your-videos-sonic-palette-on-youtube/"><u>[New] 2024 Approved Proven Techniques to Elevate Your Video's Sonic Palette on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvd-shrink5/"><u>最新版ディスク最適化ツールで、DVD Shrinkを超える無料/有料サービス5つの推奨リスト</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-user-experience-enhancing-website-personalization-and-marketing/"><u>Cookiebot-Enabled User Experience: Enhancing Website Personalization and Marketing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-instructions-for-connecting-a-logitech-wifi-mouse-to-a-new-transmitter-device/"><u>Easy Instructions for Connecting a Logitech WiFi Mouse to a New Transmitter Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-capturing-and-sharing-your-ps4-game-moments-as-images/"><u>Expert Advice on Capturing and Sharing Your PS4 Game Moments as Images</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-the-finest-top-8-android-mp3-downloader-apps/"><u>Explore the Finest Top 8 Android MP3 Downloader Apps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-find-x6withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Find X6with/without a PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-and-repair-alexas-echo-is-offline-notification-issue/"><u>How To Correctly Address and Repair Alexa’s 'Echo Is Offline' Notification Issue</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-oneplus-ace-2v-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From OnePlus Ace 2V to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-outwiththeold-camerasbeyondmycam/"><u>In 2024, OutWithTheOld CamerasBeyondMyCam</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lenovo-thinkphone-messages-recovery-recover-deleted-messages-from-lenovo-thinkphone-by-fonelab-android-recover-messages/"><u>Lenovo ThinkPhone Messages Recovery - Recover Deleted Messages from Lenovo ThinkPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-steam-video-game-refunds-tips-and-tricks/"><u>Mastering the Art of Steam Video Game Refunds: Tips and Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-your-device-a-guide-to-navigating-androids-quick-settings/"><u>Mastering Your Device: A Guide to Navigating Android's Quick Settings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rumor-check-insider-info-on-costs-and-launch-for-apples-innovative-home-robot/"><u>Rumor Check: Insider Info on Costs and Launch for Apple's Innovative Home Robot</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-kernel-data-inpage-fault-issues-efficiently/"><u>Step-by-Step Guide: Resolving Kernel Data Inpage Fault Issues Efficiently</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-emptying-entire-email-archives-on-gmail-for-androidios/"><u>Step-by-Step Tutorial: Emptying Entire Email Archives on Gmail for Android/iOS</u></a></li>
 </ul></div>
 

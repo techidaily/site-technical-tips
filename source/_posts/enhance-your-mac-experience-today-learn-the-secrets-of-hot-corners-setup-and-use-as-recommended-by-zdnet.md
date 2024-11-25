@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Mac Experience Today! Learn the Secrets of Hot Corners Setup and Use, as Recommended by ZDNET
-date: 2024-11-15T04:57:17.238Z
-updated: 2024-11-16T02:42:22.273Z
+date: 2024-11-23T17:19:10.864Z
+updated: 2024-11-25T16:11:02.138Z
 tags:
   - apple
 categories:
@@ -18,6 +18,10 @@ One of my most popular posts last year was a [tour of my home office](https://ww
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [Home Office Tours ZDNet contributors welcome you inside their home-based workspaces and show off the tech gear that drives their productivity.  Read now](https://www.zdnet.com/topic/home-office-tours/)
@@ -29,6 +33,10 @@ A few of the entries on this list are genuine old-timers that I've been using on
 Of course, this selection reflects my work habits and my personal preferences. Your needs are probably different, so your list will undoubtedly be different from mine. I encourage you to share your favorite software in the comments section below.
 
 **See also:** [My five favorite free Windows 10 utilities](https://www.zdnet.com/article/windows-10-my-five-favorite-free-utilities/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Productivity
 
@@ -50,21 +58,7 @@ Show less
 
 [View now at Tweeten](https://tweetenapp.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tweeten
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It's TweetDeck on steroids
 
@@ -78,20 +72,10 @@ Show less
 
 [View now at OneNote](https://www.onenote.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## OneNote
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### An infinitely expandable notebook
@@ -122,6 +106,10 @@ Show less
 
 [View now at Quicken](https://go.shopyourlikes.com/pi/de0d8ba2852fb0f3e2424bb37baf8478e8f2e34e?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Quicken Home and Business
 
 ### I hate it, but I use it
@@ -141,10 +129,7 @@ Show less
 ## Microsoft Edge (Chromium)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The only browser I need on the desktop
@@ -158,6 +143,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at 1Password](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://1password.com/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1Password
 
@@ -173,7 +162,15 @@ Show less
 
 [View now at Workona](https://workona.com/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Workona
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The cleanest way to organize browser tabs
 
@@ -191,13 +188,6 @@ Show less
 
 ## Spotify Music
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### No music app is perfect, but Spotify is best all around
 
 When it comes to music, we live in the best of times and the worst of times. I've tried every free and paid music streaming service (for details, see: [Best streaming music service in 2021](https://www.zdnet.com/article/best-streaming-music-service/#listicle-ac2319a8-78d6-4fea-9569-41035d7ee2a1)) and finally settled on Spotify as the best, on balance. Those last two words are key. No streaming service is perfect. There are others (like Tidal and Qobuz) that offer higher-quality downloads, and I grit my teeth every time I try to remember how to upload an album from my personal collection to Spotify's servers. (I finally bookmarked the [official Spotify instructions](https://support.spotify.com/is/article/listen-to-local-files/).)
@@ -209,6 +199,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at VLC Media Player](https://www.videolan.org/vlc/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VLC Media Player
 
@@ -222,21 +216,7 @@ Show less
 
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## MediaMonkey
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### A Swiss Army knife for digital media
 
@@ -276,20 +256,20 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-capturing-the-joy-of-nintendo-switch-gaming/"><u>[New] In 2024, Capturing the Joy of Nintendo Switch Gaming</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-mastering-the-art-of-earning-through-vlogs/"><u>2024 Approved Mastering the Art of Earning Through Vlogs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-proven-methods-for-backdrop-cleansing-in-photoshop-enhanced-by-affinity/"><u>2024 Approved Proven Methods for Backdrop Cleansing in Photoshop Enhanced by Affinity</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-tips-on-how-to-manage-and-audit-your-mobilebroadband-data-use/"><u>Essential Tips on How to Manage and Audit Your Mobile/Broadband Data Use</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Realme GT 3? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/inside-the-pros-playbook-top-5-gaming-techniques/"><u>Inside the Pro's Playbook Top 5 Gaming Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/melody-on-calls-the-complete-guide-to-downloading-and-editing-tamil-tracks-for-2024/"><u>Melody on Calls The Complete Guide to Downloading & Editing Tamil Tracks for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/samsung-soundbar-resets-simplified-an-in-depth-instructional-guide/"><u>Samsung Soundbar Resets Simplified: An In-Depth Instructional Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-openal32dll-file-not-present-a-complete-guide/"><u>Solving 'openal32.dll' File Not Present: A Complete Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/spotify-group-listening-sessions-connect-and-groove-with-your-budds/"><u>Spotify Group Listening Sessions: Connect and Groove With Your Budds</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-classic-80s-cinema-gems-you-cant-miss/"><u>The Ultimate List of Classic '80S Cinema Gems You Can't Miss</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-your-non-responsive-macbook-pro-keyboard-a-step-by-step-guide/"><u>Troubleshooting Your Non-Responsive MacBook Pro Keyboard: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-the-cause-of-xbox-connectivity-issues-is-it-a-server-malfunction-or-local-network-glitches/"><u>Understanding the Cause of Xbox Connectivity Issues: Is It a Server Malfunction or Local Network Glitches?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-no-cost-wmv-video-editing-the-best-free-software/"><u>Updated No-Cost WMV Video Editing The Best Free Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-budget-conscious-pc-capture-programs/"><u>[Updated] Budget-Conscious PC Capture Programs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/altering-game-console-speech-ps5ps4-upgrades/"><u>Altering Game Console Speech PS5/PS4 Upgrades</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/bitraser-enterprise-data-erasure-software/"><u>BitRaser Enterprise Data Erasure Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/clipchamp/"><u>Clipchampによる単独音声トラック編集ガイド</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-galaxy-ford-f-150-rc-car-assessment-a-look-at-a-dominant-force-in-the-world-of-toy-trucks/"><u>Comprehensive Galaxy Ford F-150 RC Car Assessment: A Look at a Dominant Force in the World of Toy Trucks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-infinix-smart-8-pro-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Infinix Smart 8 Pro.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-components-of-a-successful-digital-twin-strategy-integrating-artificial-intelligence-zdnet-insights/"><u>Essential Components of a Successful Digital Twin Strategy: Integrating Artificial Intelligence | ZDNet Insights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/essential-tips-for-creating-films-with-movie-maker-in-w11-for-2024/"><u>Essential Tips for Creating Films with Movie Maker in W11 for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/home-theaters-vs-stereo-receivers-understanding-the-key-distinctions/"><u>Home Theaters Vs. Stereo Receivers: Understanding the Key Distinctions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-enhance-digital-television-reception-with-an-indoor-antenna/"><u>How to Enhance Digital Television Reception with an Indoor Antenna</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-analysis-what-to-expect-from-nothing-phone-3-specs-release-date-and-potential-costs/"><u>In-Depth Analysis: What to Expect From 'Nothing Phone 3' - Specs, Release Date & Potential Costs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-no-spin-lock-available-error-a-step-by-step-guide/"><u>Resolving the No Spin Lock Available Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/successfully-setting-up-playstation-vr-on-your-desktop-or-laptop/"><u>Successfully Setting Up PlayStation VR on Your Desktop or Laptop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-potential-of-facebook-photo-search-functionality/"><u>Unlocking the Potential of Facebook Photo Search Functionality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watching-netflix-on-a-game-boy-feasible-with-the-nintendo-switch/"><u>Watching Netflix on a Game Boy - Feasible With the Nintendo Switch?</u></a></li>
 </ul></div>
 

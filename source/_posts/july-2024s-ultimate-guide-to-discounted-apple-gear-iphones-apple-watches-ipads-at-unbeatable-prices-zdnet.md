@@ -1,7 +1,7 @@
 ---
 title: "July 2024'S Ultimate Guide to Discounted Apple Gear: IPhones, Apple Watches, iPads at Unbeatable Prices | ZDNet"
-date: 2024-11-15T04:08:31.346Z
-updated: 2024-11-16T00:39:40.500Z
+date: 2024-11-20T16:43:17.789Z
+updated: 2024-11-25T17:12:09.984Z
 tags:
   - apple
 categories:
@@ -125,6 +125,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More Apple deals
 
 [Walmart: Save up to $1,200 on the new iPhone 15 series View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fcol%2Fnew-iphone&subId1=zd-__COM_CLICK_ID__-dtp)
@@ -176,10 +180,7 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the cheapest Apple product?
@@ -187,10 +188,7 @@ Yes, but you must ensure that your new iPhone is not locked to a specific carrie
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
@@ -198,13 +196,6 @@ Apple's AirTag, a tracking device that connects to your account and allows you t
 This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-only iPad -- regardless of whether you have bought a classic iPad, iPad mini, or iPad Pro -- then there will be no monthly fee or subscription. 
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
 
@@ -220,10 +211,7 @@ Factors influencing our recommendations include:
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
@@ -246,6 +234,10 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -291,20 +283,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-broadcasting-recorded-videos-live-on-facebook-step-by-step/"><u>[Updated] Broadcasting Recorded Videos Live on Facebook Step by Step</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/5-best-mac-software-for-cutting-edge-media-production-for-2024/"><u>5 Best Mac Software for Cutting-Edge Media Production for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ideal-spots-to-purchase-mobile-phones/"><u>Discover the Ideal Spots to Purchase Mobile Phones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhancing-your-writing-with-visual-elements-line-insertion-techniques-for-microsoft-word-users/"><u>Enhancing Your Writing with Visual Elements: Line Insertion Techniques for Microsoft Word Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-output-impedance-and-its-significance-for-circuit-performance/"><u>Exploring Output Impedance and Its Significance for Circuit Performance</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-nokia-c32-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Nokia C32 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-4k-with-the-new-nikon-d500-camera/"><u>In 2024, Mastering 4K with the New Nikon D500 Camera</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/permanent-deletion-of-yahoo-mail-a-step-by-step-tutorial/"><u>Permanent Deletion of Yahoo Mail - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-trending.techidaily.com/pourquoi-mon-cle-usb-ne-montre-plus-son-contenu-et-comment-y-remedier-en-france/"><u>Pourquoi Mon Clé USB Ne Montre Plus Son Contenu Et Comment Y Remédier En France</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-troubleshooting-tips-for-the-graphics-driver-crashed-problem-in-valorant/"><u>Quick Troubleshooting Tips for the 'Graphics Driver Crashed' Problem in Valorant</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/retrieving-lost-contacts-uncovering-deleted-numbers-in-android-devices/"><u>Retrieving Lost Contacts: Uncovering Deleted Numbers in Android Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-setting-up-windows-10-on-a-fresh-hard-disk/"><u>Step-by-Step Guide: Setting Up Windows 10 on a Fresh Hard Disk</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/tips-for-seamlessly-screening-instagram-stories/"><u>Tips for Seamlessly Screening Instagram Stories</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/zero-dollar-mobile-messaging-solutions-for-iphone-and-ipod-touch-users/"><u>Zero Dollar Mobile Messaging Solutions for iPhone and iPod Touch Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-navigate-the-vlogiverse-6-curated-questionnaires-for-discerning-viewers/"><u>[New] 2024 Approved Navigate the Vlogiverse 6 Curated Questionnaires for Discerning Viewers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-quieter-recordings-basic-or-advanced-techniques-for-2024/"><u>[New] Mastering Quieter Recordings - Basic or Advanced Techniques for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-compelling-content-the-most-attractive-6-video-types/"><u>[Updated] Compelling Content The Most Attractive 6 Video Types</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unveiling-vlcs-network-live-stream-capabilities/"><u>[Updated] In 2024, Unveiling VLC's Network Live Stream Capabilities</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-controlling-your-windows-10-printer-a-comprehensive-guide/"><u>Effective Strategies for Controlling Your Windows 10 Printer: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-multitasking-on-macos-the-ultimate-split-screen-tutorial/"><u>Effortless Multitasking on macOS: The Ultimate Split-Screen Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-linux-expertise-unveiling-sophisticated-concepts/"><u>Elevate Your Linux Expertise: Unveiling Sophisticated Concepts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevating-pc-gaming-experience-like-never-before-navigating-through-modern-game-launcher-challenges/"><u>Elevating PC Gaming Experience Like Never Before: Navigating Through Modern Game Launcher Challenges</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-your-hands-on-linux-mint-22-early-release-experience-a-new-level-of-stability-and-performance/"><u>Get Your Hands on Linux Mint 22 Early Release - Experience a New Level of Stability & Performance!</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oppo-a1x-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Oppo A1x 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/installing-and-utilizing-the-yay-tool-in-arch-linux-a-comprehensive-tutorial/"><u>Installing and Utilizing the Yay Tool in Arch Linux – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/intel-compatible-features-in-apples-macos-sequoia-operating-system/"><u>Intel-Compatible Features in Apple's macOS Sequoia Operating System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-investing-in-additional-icloud-storage-a-smart-choice/"><u>Is Investing in Additional iCloud Storage a Smart Choice?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/latest-threat-discovery-in-apple-silicon-macintosh-processors-revealed/"><u>Latest Threat Discovery in Apple Silicon Macintosh Processors Revealed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-fixes-stop-street-fighter-6-from-freezing-your-pc-tips-and-tweaks/"><u>Master the Fixes: Stop Street Fighter 6 From Freezing Your PC, Tips & Tweaks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/realtek-rtl8188cu-wi-fi-card-drivers-for-windows-download-the-most-recent-version-compatible-with-windows-11-and-7/"><u>Realtek RTL8188CU Wi-Fi Card Drivers for Windows: Download the Most Recent Version Compatible with Windows 11 & 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-secret-ingredient-to-seamless-household-harmony-discovering-cozis-magic-with-my-family/"><u>The Secret Ingredient to Seamless Household Harmony - Discovering Cozi's Magic with My Family</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-boot-problems-on-your-windows-11-system/"><u>Troubleshooting Persistent Boot Problems on Your Windows 11 System</u></a></li>
 </ul></div>
 

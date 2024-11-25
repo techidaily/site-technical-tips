@@ -1,7 +1,7 @@
 ---
 title: "Mastering Messaging: Setting Up Slack Push Notifications for iPhone Series | Expert Tips"
-date: 2024-11-11T19:15:05.793Z
-updated: 2024-11-15T17:39:29.473Z
+date: 2024-11-20T16:53:00.950Z
+updated: 2024-11-25T16:50:05.283Z
 tags:
   - apple
 categories:
@@ -58,19 +58,6 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##   
 
 Screenshot by David Gewirtz/ZDNET
@@ -81,28 +68,12 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -122,6 +93,10 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -143,9 +118,17 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -154,16 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -205,17 +179,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-top-10-essential-disco-upgrades-for-peak-performance-for-2024/"><u>[New] Top 10 Essential Disco Upgrades for Peak Performance for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-key-takeaways-on-youtube-tv-an-overview-of-its-advantages/"><u>[Updated] Key Takeaways on YouTube TV An Overview of Its Advantages</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-tamil-tunes-steps-for-ringtones-and-editing-songs-as-alerts-for-2024/"><u>[Updated] Tamil Tunes Steps for Ringtones & Editing Songs as Alerts for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/campus-deals-unveiled-how-students-can-save-with-lenovo-discounts/"><u>Campus Deals Unveiled: How Students Can Save with Lenovo Discounts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-8-most-popular-free-roku-channels-for-2nd4/"><u>Discover the 8 Most Popular Free Roku Channels for 2nD4</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-social-media-habits-mastering-the-art-of-unfollowing-on-platform-x/"><u>Effective Social Media Habits: Mastering The Art of Unfollowing on Platform X</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/managing-your-listening-experience-halting-continuous-playback-on-apple-music/"><u>Managing Your Listening Experience: Halting Continuous Playback on Apple Music</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-guide-how-to-fix-mouse-tracking-glitches-on-magic-mouse/"><u>Simple Guide: How To Fix Mouse Tracking Glitches on Magic Mouse</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-acer-chromebook-n-evaluating-its-worth-as-a-sizable-and-effective-chrome-os-device/"><u>The Ultimate Guide to the Acer Chromebook N: Evaluating Its Worth as a Sizable and Effective Chrome OS Device</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-or-fresh-install-of-brother-mfc-7860dw-printer-software-for-windows-users/"><u>Update or Fresh Install of Brother MFC-7860DW Printer Software for Windows Users</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-learn-to-edit-mp4-files-on-mac-and-windows-a-beginners-guide/"><u>Updated 2024 Approved Learn to Edit MP4 Files on Mac and Windows A Beginners Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-crafting-compelling-gopro-livestreams-on-facebook-and-periscope/"><u>[Updated] Crafting Compelling GoPro Livestreams on Facebook & Periscope</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-how-to-disableremove-youtube-shorts-permanently2-for-2024/"><u>[Updated] How to Disable/Remove YouTube Shorts Permanently?2 For 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-highest-rated-video-call-software-not-zoom-for-pcs-and-phones/"><u>2024 Approved Highest-Rated Video Call Software (Not Zoom) for PCs & Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/an-easy-fix-for-a-magic-mouse-tracking-problem/"><u>An Easy Fix for a Magic Mouse Tracking Problem</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/birds-bamboo-boogie-for-2024/"><u>Birds Bamboo Boogie for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breakthrough-in-drone-tech-yuneec-q500-4k-for-2024/"><u>Breakthrough in Drone Tech Yuneec Q500 4K for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decode-the-buzz-around-googles-imminent-event-key-announcements-ahead/"><u>Decode the Buzz Around Google’s Imminent Event – Key Announcements Ahead</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-set-up-a-chromecast-connection-for-displaying-windows-on-tv/"><u>How to Set Up a ChromeCast Connection for Displaying Windows on TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-or-generic-tablet-understanding-key-contrasts/"><u>IPad or Generic Tablet? Understanding Key Contrasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-your-travel-adventures-with-these-8-ideal-planner-applications/"><u>Master Your Travel Adventures with These 8 Ideal Planner Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-health-outcomes-with-chatgpts-leading-techniques/"><u>Maximizing Health Outcomes with ChatGPT’s Leading Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reattaching-a-keys-from-your-computer-keyboard-a-step-by-step-guide/"><u>Reattaching a Keys From Your Computer Keyboard: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-frenzy-jbs-anti-covid-strategy-unfolds/"><u>Social Media Frenzy: JB's Anti-COVID Strategy Unfolds</u></a></li>
 </ul></div>
 

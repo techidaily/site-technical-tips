@@ -1,7 +1,7 @@
 ---
 title: "Upcoming October Launch: Apple Pushes Back Initial Artificial Intelligence Offerings, Says ZDNET Report"
-date: 2024-11-09T23:30:05.594Z
-updated: 2024-11-16T03:45:42.623Z
+date: 2024-11-24T16:06:46.790Z
+updated: 2024-11-25T16:26:28.404Z
 tags:
   - apple
 categories:
@@ -61,10 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -74,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -94,10 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -123,6 +121,10 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -153,10 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -166,13 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,22 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-in-depth-analysis-screenflow-performance-on-macbooks/"><u>[New] In 2024, In-Depth Analysis ScreenFlow Performance on MacBooks</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-watchful-eye-app-critique-and-rating-for-2024/"><u>[New] The Watchful Eye App Critique and Rating for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-reaping-health-rewards-from-asmrs-embrace/"><u>[Updated] In 2024, Reaping Health Rewards From ASMR's Embrace</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-revolutionize-with-a-stroke-premier-tablet-draw-tools-for-2024/"><u>[Updated] Revolutionize with a Stroke Premier Tablet Draw Tools for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-freeweb-cams-features-uncovered-in-detail/"><u>2024 Approved FreeWeb Cam's Features Uncovered in Detail</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conquer-code-10-boot-problems-with-these-proven-strategies-and-tips/"><u>Conquer Code 10 Boot Problems with These Proven Strategies and Tips</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafting-engaging-youtube-videos-using-finalcut-pro-expertise/"><u>Crafting Engaging YouTube Videos Using FinalCut Pro Expertise</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-top-workout-logging-apps-for-fitness-enthusiasts/"><u>Discover the Ultimate List of Top Workout Logging Apps for Fitness Enthusiasts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-switch-up-your-chromecast-backdrop-for-a-fresh-look/"><u>How to Switch Up Your Chromecast Backdrop for a Fresh Look</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/hunt-for-hot-electronics-discounts-on-amazon-prime-day-extravaganza/"><u>Hunt for Hot Electronics Discounts on Amazon Prime Day Extravaganza</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-not-alerting-with-ringtones-fix-the-problem-in-simple-steps/"><u>IPhone Not Alerting with Ringtones? Fix the Problem in Simple Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/patch-tuesday-explained-keeping-your-software-up-to-date/"><u>Patch Tuesday Explained: Keeping Your Software Up-to-Date</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stop-unwanted-apple-music-playback-effective-methods-explored/"><u>Stop Unwanted Apple Music Playback: Effective Methods Explored</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-essential-guide-to-choosing-between-ipad-mini-and-ipad-air/"><u>The Essential Guide to Choosing Between iPad Mini and iPad Air</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-why-this-reliable-ipad-pro-usb-c-hub-stands-out-featured/"><u>The Ultimate Guide: Why This Reliable iPad Pro USB-C Hub Stands Out - Featured</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-20-must-have-tools-and-effects-for-your-tiktok-edits/"><u>Top 20 Must-Have Tools & Effects for Your TikTok Edits</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-websites-for-youtube-preview-creation-tools/"><u>[New] In 2024, Essential Websites for YouTube Preview Creation Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-reversing-time-retracing-your-steps-for-lost-snaps/"><u>[New] In 2024, Reversing Time Retracing Your Steps for Lost Snaps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-how-to-make-tiktok-dance-on-mac/"><u>2024 Approved How to Make TikTok Dance on Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-fixing-the-tracking-difficulties-on-a-magic-mouse/"><u>A Step-by-Step Guide: Fixing The Tracking Difficulties on a Magic Mouse</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-vr-equipment-enhancing-flight-control-for-2024/"><u>Best VR Equipment Enhancing Flight Control for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cambiar-archivo-raw-a-formato-png-gratuito-en-linea-con-movavi/"><u>Cambiar Archivo RAW a Formato PNG Gratuito en Línea Con Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-compilation-of-playstation-5s-unique-game-titles/"><u>Complete Compilation of PlayStation 5'S Unique Game Titles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cracking-down-on-counterfeit-connections-the-art-of-identifying-inauthentic-friend-requests-online/"><u>Cracking Down on Counterfeit Connections: The Art of Identifying Inauthentic Friend Requests Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/employee-exodus-explained-tackling-burnout-and-ineffective-recruitment-for-modern-workplaces-zdnet/"><u>Employee Exodus Explained: Tackling Burnout & Ineffective Recruitment for Modern Workplaces | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expand-your-visual-workspace-a-step-by-step-tutorial-for-adding-three-monitors/"><u>Expand Your Visual Workspace: A Step-by-Step Tutorial for Adding Three Monitors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-achieving-vibrant-colors-srgb-techniques/"><u>In 2024, Achieving Vibrant Colors Srgb Techniques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Infinix Zero 30 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-multi-bluetooth-setup-linking-several-speakers-to-a-single-device/"><u>Mastering Multi-Bluetooth Setup: Linking Several Speakers to a Single Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/retrieve-deleted-ios-notifications-with-these-easy-steps/"><u>Retrieve Deleted iOS Notifications with These Easy Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tackling-netflix-troubles-effective-fixes-for-error-nw-1-19-revealed/"><u>Tackling Netflix Troubles: Effective Fixes for Error NW-1-19 Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-missing-wlanapidll-file-on-your-pc/"><u>Troubleshooting the Missing wlanAPI.dll File on Your PC</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-zero-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Zero 30 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-isnt-my-youtube-working-exploring-potential-issues-and-fixes/"><u>Why Isn't My YouTube Working? Exploring Potential Issues and Fixes</u></a></li>
 </ul></div>
 

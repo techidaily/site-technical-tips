@@ -1,7 +1,7 @@
 ---
 title: Are Free Cellphones From Carriers Truly Free? Understanding The Real Price You Pay.
-date: 2024-11-08T19:30:32.055Z
-updated: 2024-11-16T01:48:52.044Z
+date: 2024-11-23T17:28:23.093Z
+updated: 2024-11-25T17:20:58.926Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ How do you tell the difference?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How free and low-cost phone offers work
 
 The deals we're discussing here are unique to the United States, and specifically to the three big carriers that dominate the US mobile market. When you agree to accept your new phone from the carrier, the price you pay typically includes some combination of a down payment, a trade-in allowance for your current phone, and a series of credits that will be applied to your monthly bill. You agree to finance the phone at 0% interest, typically over a period of 24 to 36 months, and the credits offset all or part of the equipment charge for that same period.
@@ -41,6 +45,10 @@ If you trade your phone for a newer model or switch carriers before the promo pe
 You might be offered a higher-than-expected trade-in value for your current phone, again offered as a series of monthly credits. To qualify for the deal, you might have to add a new line of service or change to a new plan, but you can occasionally find upgrade deals for your current device. And, of course, these deals are only for "well-qualified" customers. If you have so-so credit scores, you might not be able to take advantage of the deal.
 
 In my experience, carriers go out of their way to make these deals complicated, and you need to look carefully to see if there are any hidden gotchas. Here are seven questions to ask up front to make sure you don't encounter an unpleasant surprise later.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Do I need to add a line to qualify?
 
@@ -57,10 +65,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does my existing plan qualify?
@@ -68,10 +73,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 The most attractive upgrade offers are typically only available if you sign up for one of the carrier's premium plans. If you're currently on a low-cost legacy plan from the same carrier or a competitor, be sure to find out how much your monthly payment for mobile service will increase. The difference might be enough to wipe out any savings from the promo credits.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will my new phone be locked to this carrier?
@@ -79,19 +81,6 @@ The most attractive upgrade offers are typically only available if you sign up f
 The carrier is offering that phone at a discount because they want to lock you into a steady stream of monthly service fees. Typically, that means the phone is SIM-locked until it's fully paid off. Consequently, you can't use it with a prepaid SIM card on your overseas trip, nor can you add a second line from a different carrier, even if you have a dual-SIM device.
 
 **Also: [The best iPhone deals of 2024: Free iPhone 15s, free iPads, cheap accessories](https://www.zdnet.com/article/iphone-deals/)**
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How many months does the payment agreement last?
 
@@ -105,16 +94,13 @@ At any time during the agreement, you can pay the remaining balance and ask for 
 
 As an inducement for you to switch, some carriers will offer to reimburse you for your device payoff. Check the terms and conditions carefully before you accept that offer. If you decide to move to a new carrier, don't cancel your line at the old carrier until you've successfully ported your number over; if you do that move in the wrong order you risk losing your current phone number. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I get a better deal on the phone somewhere else?
 
 Even if your carrier seems to be offering a good deal, be sure to shop around. Apple occasionally offers meaningful discounts on its iPhones, and the price after a trade-in might be good enough to consider, especially when you factor in the savings you get from sticking with a lower-cost legacy plan. Among the top Android device makers, Samsung and Google regularly offer deep discounts that are worth checking out. And all of those device makers offer 0% financing options.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can I get a better deal selling my phone instead of trading it in?
 
@@ -154,17 +140,22 @@ The exception to that rule is usually when a new smartphone model comes out; dur
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unlocking-the-secrets-to-stellar-sims-gameplay-recording/"><u>[New] 2024 Approved Unlocking the Secrets to Stellar Sims Gameplay Recording</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-audfreetechunveiled-detailed-look-at-the-new-audio-tool/"><u>[Updated] AudFreeTechUnveiled Detailed Look at the New Audio Tool</u></a></li>
-<li><a href="https://driver-download.techidaily.com/boost-graphics-and-system-stability-on-a-dell-xps-15-update-essential-device-drivers-in-windows/"><u>Boost Graphics and System Stability on a Dell XPS 15 - Update Essential Device Drivers in Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-fixes-for-the-dbghelpdll-not-found-dilemma-on-windows-pcs/"><u>Effective Fixes for the 'dbghelp.dll Not Found' Dilemma on Windows PCs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-automate-sorting-emails-efficiently-using-gmails-rule-making-feature/"><u>How to Automate Sorting Emails Efficiently Using Gmail's Rule-Making Feature</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-effortlessly-sign-up-for-a-playstation-network-psn-profile/"><u>How to Effortlessly Sign Up for a PlayStation Network (PSN) Profile</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/improper-maintenance/"><u>Improper Maintenance:</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/macbook-multi-display-configuration-a-step-by-step-guide/"><u>Macbook Multi-Display Configuration: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-and-repair-hey-siri-functionality-problems-with-our-comprehensive-guide/"><u>Troubleshoot and Repair 'Hey Siri' Functionality Problems with Our Comprehensive Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/unlock-total-macxdvd-capabilities-at-zero-expense-officially-licensed-full-version/"><u>Unlock Total MacXDVD Capabilities at Zero Expense: Officially Licensed Full Version!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-infinix-smart-8-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Infinix Smart 8 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-innovative-approaches-for-rising-through-the-rankings/"><u>[Updated] 2024 Approved Innovative Approaches for Rising Through the Rankings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-cutting-edge-tools-to-snatch-and-save-videos-flawlessly/"><u>[Updated] Cutting-Edge Tools to Snatch and Save Videos Flawlessly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-elevate-your-content-on-facebook-using-wirecast/"><u>[Updated] Elevate Your Content on Facebook Using Wirecast</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-itunes-recording-hacks-for-enhanced-videos/"><u>2024 Approved ITunes Recording Hacks for Enhanced Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-movie-streaming-websites-for-children-offering-films-at-no-cost/"><u>Discover the Best Movie Streaming Websites for Children, Offering Films at No Cost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-correcting-difficulties-with-realtek-rtl8811au-device-driver-malfunctions/"><u>Expert Tips: Correcting Difficulties with Realtek RTL8811AU Device Driver Malfunctions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-setting-up-and-using-triple-monitor-setups-with-your-pc/"><u>Guide: Setting Up and Using Triple Monitor Setups with Your PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-to-overcome-boredom-these-10-top-video-games-will-keep-your-mind-engaged/"><u>How to Overcome Boredom? These 10 Top Video Games Will Keep Your Mind Engaged</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-set-up-an-apple-store-consultation-with-ease-and-confidence/"><u>How to Set Up an Apple Store Consultation with Ease and Confidence</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-find-x6-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo Find X6 Pro FRP Bypass</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/insights-on-the-upcoming-google-pixel-phase-anticipated-cost-and-release-timeline/"><u>Insights on the Upcoming Google Pixel Phase: Anticipated Cost & Release Timeline</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-crafting-crystal-clear-soundscapes-for-home-video-filmmakers-what-you-need-to-know-for-2024/"><u>New Crafting Crystal Clear Soundscapes for Home Video Filmmakers (What You Need to Know ) for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-gamepad-surfaces-explored/"><u>Premium Gamepad Surfaces Explored</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-msvbvm50dll-not-found-a-step-by-step-guide/"><u>Resolving the 'Msvbvm50.dll Not Found' - A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revitalize-your-browsers-performance-effective-cache-clearing-techniques-for-major-browsers/"><u>Revitalize Your Browser's Performance: Effective Cache-Clearing Techniques for Major Browsers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-fixes-for-chromecast-audio-problems-get-started-now/"><u>The Ultimate Fixes for Chromecast Audio Problems - Get Started Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-enabling-closed-captions-on-your-roku-device/"><u>Troubleshooting Guide: Enabling Closed Captions on Your Roku Device</u></a></li>
 </ul></div>
 

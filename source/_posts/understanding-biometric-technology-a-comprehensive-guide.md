@@ -1,7 +1,7 @@
 ---
 title: "Understanding Biometric Technology: A Comprehensive Guide"
-date: 2024-09-09T13:27:46.628Z
-updated: 2024-09-10T13:27:46.628Z
+date: 2024-11-23T16:40:22.531Z
+updated: 2024-11-25T17:08:07.817Z
 categories:
   - BestProducts
 description: "This Article Describes Understanding Biometric Technology: A Comprehensive Guide"
@@ -9,17 +9,15 @@ excerpt: "This Article Describes Understanding Biometric Technology: A Comprehen
 thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94887f50639d498bad918e7a5.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Understanding Biometric Technology: A Comprehensive Guide
 
 Close 
 
 [ Artificial intelligence](https://www.lifewire.com/what-is-artificial-intelligence-5119206) is converging with biometrics to help provide more security in computers and[ smartphones](https://www.lifewire.com/what-makes-a-smartphone-smart-579597) . This article explains the topic.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Biometrics Defined 
 
@@ -30,11 +28,9 @@ Close
  In fact, many of us already use biometrics now in the[ forms of our fingerprints](https://www.lifewire.com/understanding-finger-scanners-4150464) and our faces.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Biometrics Are Used in Daily Life 
 
  Although biometrics has been used by various industries for decades, modern tech has helped it gain more public awareness. For example, many of the latest smartphones feature fingerprint scanners and/or[ facial recognition](https://www.lifewire.com/how-facial-recognition-is-learning-to-read-masked-faces-5089684) to unlock devices.
@@ -42,11 +38,9 @@ Close
 ![Eye overlaid with a computer-generated retina scanner](https://www.lifewire.com/thmb/PbK4vRFrhiDsli6CECK91rgASfs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/eyeretinascanner-30543474ba0340338d038bab9442da7f.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Anthony Lee / Getty Images 
 
  Compared with so called_token-based_ (e.g. keys, ID cards, driver’s licences) and_knowledge-based_ (e.g. PIN codes, passwords) methods of access control, biometric traits are far more difficult to hack, steal, or fake.
@@ -56,6 +50,10 @@ Close
  Characteristics used by biometric identification/authentication are predominantly permanent, which offers a convenience — you can’t simply forget or accidentally leave them somewhere at home.
 
  However, the collection, storage, and handling of biometric data (particularly with regards to consumer tech) often brings up concerns about personal privacy, security, and identity protection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Biometric Types and Screening Characteristics 
 
@@ -88,28 +86,14 @@ Close
 
  These factors also help determine if one biometric solution may be better to apply in a situation than another. But cost and the overall collection process are also considered. For example, fingerprint and face scanners are small, inexpensive, fast, and easy to implement into mobile devices. This is why smartphones feature those instead of hardware for analyzing body odor or vein geometry!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How Biometrics Work in Everyday Life 
 
 ![A thumb in the process of recording a print with black ink](https://www.lifewire.com/thmb/lb87r1wJMdq1q8wkKjYUpAyKYsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-680792625-5a0f120547c2660037ff8cdf.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Law enforcement agencies regularly collect fingerprints to help establish crime scenes and identify individuals.  MAURO FERMARIELLO/SCIENCE PHOTO LIBRARY / Getty Images 
 
  Biometric identification/authentication starts with the collection process. This requires sensors designed for capturing specific biometric data. Many iPhone owners may be familiar with setting up[ Touch ID](https://www.lifewire.com/what-is-touch-id-4586807) , where they have to place fingers on the Touch ID sensor over and over and over again.
@@ -136,12 +120,6 @@ Close
 
 ![A close up of hands holding smartphones using biometric access for mobile banking apps](https://www.lifewire.com/thmb/tRyYGEDb1mQpT__SniNb5GInrbU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-657174560-5a0f125f89eacc0037a6bbc6.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Fingerprint scanners are a growing type of security feature to be incorporated in mobile devices.  mediaphotos / Getty Images 
 
  When it comes to biometrics, the terms ‘identification’ and ‘authentication’ are often confused with one another. However, each one is really asking a slightly different yet distinct question.
@@ -181,8 +159,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +166,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-diy-digital-footprint-creating-youtube-thumbnails-from-mobile-devices/"><u>[Updated] 2024 Approved DIY Digital Footprint Creating YouTube Thumbnails From Mobile Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-integrating-skype-into-zoom-meetings-made-simple/"><u>2024 Approved Integrating Skype Into Zoom Meetings Made Simple</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/accelerate-your-knowledge-in-artificial-intelligence-with-free-anytime-learning-opportun/"><u>Accelerate Your Knowledge in Artificial Intelligence with Free, Anytime Learning Opportun</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avoiding-mistakes-easy-steps-for-revoking-sent-messages-in-outlook/"><u>Avoiding Mistakes: Easy Steps for Revoking Sent Messages in Outlook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blending-apple-music-with-cinematic-content/"><u>Blending Apple Music with Cinematic Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-overview-identifying-your-macs-operating-system/"><u>Comprehensive Overview: Identifying Your Mac's Operating System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-factors-to-evaluate-when-choosing-your-perfect-dash-camera/"><u>Essential Factors to Evaluate When Choosing Your Perfect Dash Camera</u></a></li>
+<li><a href="https://blog-min.techidaily.com/handbrake-and-cuda-integration-guide-supercharge-your-video-transcoding-workflows-with-hardware-acceleration/"><u>HandBrake and CUDA Integration Guide: Supercharge Your Video Transcoding Workflows with Hardware Acceleration</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-hashtags-for-six-figure-youtube-growth-for-2024/"><u>Mastering Hashtags for Six-Figure YouTube Growth for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/merging-youtube-melodies-in-cinematic-pieces-for-2024/"><u>Merging YouTube Melodies in Cinematic Pieces for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/multiplying-productivity-splitting-your-screen-on-a-macbook-air/"><u>Multiplying Productivity: Splitting Your Screen on a MacBook Air</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/premier-ai-driven-picture-editing-suite-for-2024/"><u>Premier AI-Driven Picture Editing Suite for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/premier-twitter-client-applications-expertly-curated-list-of-tools/"><u>Premier Twitter Client Applications: Expertly Curated List of Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-how-to-assess-the-strength-of-your-home-internet-connection-through-wi-fi-signals/"><u>Step-by-Step Tutorial: How To Assess the Strength of Your Home Internet Connection Through Wi-Fi Signals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-strategy-for-timing-tweets-secrets-from-the-twitter-gurus/"><u>The Ultimate Strategy for Timing Tweets: Secrets From the Twitter Gurus</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-non-roots-required-clicking-programs-for-android-devices/"><u>Top 5 Non-Roots Required Clicking Programs for Android Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-wireless-routers-for-travelers/"><u>Top Rated Wireless Routers for Travelers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-multilingual-skills-without-spending-a-penny-the-ultimate-9-picks/"><u>Unlocking Multilingual Skills Without Spending a Penny: The Ultimate 9 Picks</u></a></li>
+</ul></div>
 

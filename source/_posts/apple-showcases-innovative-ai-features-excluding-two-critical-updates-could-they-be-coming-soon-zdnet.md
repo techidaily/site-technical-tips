@@ -1,7 +1,7 @@
 ---
 title: "Apple Showcases Innovative AI Features, Excluding Two Critical Updates: Could They Be Coming Soon? [ZDNet]"
-date: 2024-11-09T19:47:30.940Z
-updated: 2024-11-16T06:03:36.536Z
+date: 2024-11-24T16:03:41.081Z
+updated: 2024-11-25T16:36:16.924Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ All iPhone releases are momentous occasions, but this one is special because it 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apple Intelligence
 
 Screenshot by Kayla Solino/ZDNET
@@ -39,10 +43,7 @@ The updates don't stop there. Apple Intelligence enables so much more. They incl
 Apple Intelligence will not be available at launch. It'll roll out in October as a software upgrade in the United States and in English only. It'll be available in more countries like the United Kingdom later this December. And in 2025, it'll expand to other languages like Spanish.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Camera Upgrades
@@ -66,10 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Eye-catching colors
@@ -81,10 +79,7 @@ Every generation of iPhones brings with it new colors. For this release, Apple d
 The Pro models go for a more striking design. Desert Titanium adorns their brushed metal, making the iPhones look like they've been forged from bronze. If you prefer something a little more low-key, the Pro models are available in the equally impressive Black, White, and Natural Titanium too.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Design changes bring other benefits
@@ -127,21 +122,24 @@ Apple even updated the iPhone 16's internal design, allowing the device to dissi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-prime-methods-transforming-pin-videos-to-mp3-format-for-2024/"><u>[New] Prime Methods Transforming Pin Videos To MP3 Format for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-seconds-for-a-high-quality-20mb-video/"><u>[New] Seconds for a High-Quality 20MB Video</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-encompassing-gyroscopic-vr-tests/"><u>[Updated] In 2024, Encompassing Gyroscopic VR Tests</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/access-your-netgear-equipment-easily-with-our-updated-default-passwords-list-july-24/"><u>Access Your NETGEAR Equipment Easily with Our Updated Default Passwords List (July '24)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-visibility-of-results-with-windows-11-search-fixes/"><u>Enhancing Visibility of Results with Windows 11 Search Fixes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-discounts-on-apple-watches-limited-time-offer/"><u>Exclusive Discounts on Apple Watches - Limited Time Offer!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-on-salvaging-your-water-damaged-mobile-device/"><u>Expert Advice on Salvaging Your Water-Damaged Mobile Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/google-hangouts-demystified-everything-you-need-to-know/"><u>Google Hangouts Demystified: Everything You Need to Know</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-finding-and-reaching-out-to-snapchat-support/"><u>Guide: Finding and Reaching Out to Snapchat Support</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-reno-9a-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-impact-and-value-of-instagrams-self-verifying-feature/"><u>In 2024, The Impact and Value of Instagram's Self-Verifying Feature</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/perfecting-synchronized-recording-webcam-plus-display-techniques/"><u>Perfecting Synchronized Recording Webcam + Display Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revive-your-macs-network-capabilities-a-step-by-step-guide-to-reconfiguring-connections/"><u>Revive Your Mac's Network Capabilities: A Step-by-Step Guide to Reconfiguring Connections</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-6-premier-destinations-for-watching-newest-and-classics-music-vids-online/"><u>The 6 Premier Destinations for Watching Newest & Classics Music Vids Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/viewing-instagram-stories-and-posts-without-sign-up-easy-steps-for-browsing-without-an-account/"><u>Viewing Instagram Stories and Posts without Sign-Up: Easy Steps for Browsing Without an Account</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/visual-upgrades-top-apps-to-transform-your-photos-for-2024/"><u>Visual Upgrades Top Apps to Transform Your Photos for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-exodus-of-followers-instagrams-new-map/"><u>[New] In 2024, The Exodus of Followers Instagram's New Map</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-insiders-secrets-of-screencastify-recording/"><u>[New] The Insider’s Secrets of Screencastify Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-yt-cover-art-the-key-to-more-views/"><u>[New] YT Cover Art The Key to More Views</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unveiling-vrs-immersive-visual-experience/"><u>[Updated] 2024 Approved Unveiling VR's Immersive Visual Experience</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-sns-hdr-pro-analysis-worth-its-weight-in-gold/"><u>2024 Approved SNS HDR Pro Analysis Worth Its Weight in Gold?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-walkthrough-for-creating-effective-slack-alarms/"><u>A Step-by-Step Walkthrough for Creating Effective Slack Alarms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-steps-to-delete-microsofts-ai-assistant-from-your-pc-the-cortana-and-copilot-method/"><u>Comprehensive Steps to Delete Microsoft's AI Assistant From Your PC: The Cortana and Copilot Method</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-motivation-for-shifting-from-gasoline-to-electric-cars/"><u>Decoding the Motivation for Shifting From Gasoline to Electric Cars</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-tutorial-on-connecting-printers-for-shared-usage-amongst-various-devices/"><u>Easy Tutorial on Connecting Printers for Shared Usage Amongst Various Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-and-tricks-refreshing-your-audio-experience-by-properly-cleansing-home-stereo-speakers/"><u>Expert Tips & Tricks - Refreshing Your Audio Experience by Properly Cleansing Home Stereo Speakers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-canon-pixma-mx492-drivers-on-your-pc-latest-version-for-windows-users/"><u>Find & Install Canon PIXMA MX492 Drivers on Your PC – Latest Version for Windows Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-stop-code-0x0000001d-troubleshooting-techniques-and-solutions/"><u>Fixing Stop Code 0X0000001D: Troubleshooting Techniques and Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-choices-for-enhancing-drone-functionality-and-flexibility/"><u>In 2024, Top Choices for Enhancing Drone Functionality and Flexibility</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-development-combine-chatgpt-and-visual-studio-code-in-10-ways/"><u>Mastering Development: Combine ChatGPT and Visual Studio Code in 10 Ways</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-collection-8-amazing-3d-websites-with-gold-for-2024/"><u>The Ultimate Collection 8 Amazing 3D Websites with Gold for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-secrets-overcoming-call-handling-problems-in-samsung-galaxy-wearable-devices/"><u>Unlock the Secrets: Overcoming Call Handling Problems in Samsung Galaxy Wearable Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unmasking-the-facade-tips-for-discerning-genuine-from-counterfeit-friend-requests-online/"><u>Unmasking the Facade: Tips for Discerning Genuine From Counterfeit Friend Requests Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/updated-linksys-standard-login-credentials-for-july-2024-complete-directory/"><u>Updated Linksys Standard Login Credentials for July 2024 - Complete Directory</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Do Electric Vehicles Hold Their Own Against Conventional Car Lifespans?
-date: 2024-09-09T13:27:46.591Z
-updated: 2024-09-10T13:27:46.591Z
+date: 2024-11-21T16:04:18.912Z
+updated: 2024-11-25T16:27:55.946Z
 categories:
   - BestProducts
 description: This Article Describes Do Electric Vehicles Hold Their Own Against Conventional Car Lifespans?
@@ -9,23 +9,15 @@ excerpt: This Article Describes Do Electric Vehicles Hold Their Own Against Conv
 thumbnail: https://www.lifewire.com/thmb/MxM3Ih2U32CdM6o3sPuag7bj_Fk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1217880607-396a43a056d54a25a0f1a34d96c8dcf4.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## DIY Solutions for Unresponsive Optical Drives - How to Get Them Opening Again
  Have you ever needed to open your CD or DVD drive (also referred to as your[optical drive](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) ) but couldn't? There's no reason to rush out and replace the disc or drive just because the eject button doesn't do what you expected it to do.
 
  Fortunately, one of the following two methods_almost always_ does the trick to get the drive open:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject Within the OS
 
  We'll start with the easiest way to get the drive open—skip the physical button on the outside and ask your[operating system](https://www.lifewire.com/operating-systems-2625912) to force eject the disc. You can only try this if your computer has power and is working. Skip down to the next section if that's not the case.
@@ -39,17 +31,9 @@ thumbnail: https://www.lifewire.com/thmb/MxM3Ih2U32CdM6o3sPuag7bj_Fk=/400x300/fi
 3. Right-click or tap-and-hold the optical drive and choose**Eject** from the menu that pops open.  
 ![File Explorer in Windows 10 showing right-click menu with Eject command highlighted](https://www.lifewire.com/thmb/JdH15OVtIjSJeEPIvh9TCVtlnYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-dvd-bd-cd-drive-that-wont-open-or-eject-2626113-5bf8523e46e0fb0083220b80.jpg)
 4. The drive bay or disc should spin down and eject within seconds.
+
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Using a Mac?** Similar to the method described above for Windows, find the disc icon, right-click it, and then choose**Eject** .
@@ -59,11 +43,9 @@ thumbnail: https://www.lifewire.com/thmb/MxM3Ih2U32CdM6o3sPuag7bj_Fk=/400x300/fi
  If this doesn't work (Windows, macOS, Linux, etc.), it's time to get physical with it!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject With a Paper Clip
 
  It sounds strange, yes, but most computer optical drives, including external ones and those you'll find in your game systems like Xbox and PlayStation, have a tiny pinhole that's designed as a last resort method to get the drive bay open.
@@ -84,11 +66,9 @@ thumbnail: https://www.lifewire.com/thmb/MxM3Ih2U32CdM6o3sPuag7bj_Fk=/400x300/fi
  Those are not necessarily in a step-by-step troubleshooting order. What steps you take depends a lot on the type of computer and optical drive you have, as well as your specific situation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## No Luck? Here's What to Do Next
 
  At this point, there's likely something physically wrong with the drive or another part of the computer. Here are some things to consider doing:
@@ -99,11 +79,9 @@ thumbnail: https://www.lifewire.com/thmb/MxM3Ih2U32CdM6o3sPuag7bj_Fk=/400x300/fi
 * Replace the drive. Optical drives are relatively cheap—Amazon sells many for around $20 USD.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of a DVD/BD/CD Drive That Won't Open or Eject
 
  There are a few reasons why a CD or DVD doesn’t eject. A loss of power either from your laptop/desktop or the power to the drive itself. This can include a faulty or damaged power cable to your optical drive.
@@ -141,8 +119,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +126,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-prime-strategies-for-high-quality-youtube-mp3mpeg/"><u>[New] 2024 Approved Prime Strategies for High-Quality YouTube MP3/MPEG</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-excelling-at-content-creation-a-guide-to-gamers-success/"><u>[New] In 2024, Excelling at Content Creation A Guide to Gamers' Success</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-lone-audio-device-repair-manual/"><u>[New] In 2024, Lone Audio Device Repair Manual</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-vlc-users-guide-to-screen-capturing-for-2024/"><u>[New] VLC User's Guide to Screen Capturing for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-optimal-flv-to-youtube-transformers-in-a-ranking-list/"><u>[Updated] In 2024, Optimal FLV to YouTube Transformers in a Ranking List</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-ace-your-video-masterful-use-of-hash-tags-in-games/"><u>2024 Approved Ace Your Video Masterful Use of Hash Tags in Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cross-operational-expertise-enabling-and-running-android-software-with-ease-on-windows-10-systems/"><u>Cross-Operational Expertise: Enabling and Running Android Software with Ease on Windows 10 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciphering-royal-match-a-deep-dive-into-its-layered-structure/"><u>Deciphering 'Royal Match': A Deep Dive Into Its Layered Structure</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-no-cost-movie-platforms/"><u>Discover the Ultimate List of No-Cost Movie Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expertly-selected-best-twitter-client-software-for-efficient-engagement/"><u>Expertly Selected Best Twitter Client Software for Efficient Engagement</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/initiating-setup-for-amazon-echo-dot-a-simple-process/"><u>Initiating Setup for Amazon Echo Dot – A Simple Process</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-on-watching-spider-man-no-way-home-online/"><u>Step-by-Step Guide on Watching 'Spider-Man: No Way Home' Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-quick-fixes-with-ios-shortcuts-18-essential-techniques/"><u>Ultimate Guide to Quick Fixes with iOS Shortcuts – 18 Essential Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlock-zoom-broadcasting-potential-for-youtube-success/"><u>Unlock Zoom Broadcasting Potential for YouTube Success</u></a></li>
+</ul></div>
 

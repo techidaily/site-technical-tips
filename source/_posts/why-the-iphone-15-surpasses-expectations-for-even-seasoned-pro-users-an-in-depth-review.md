@@ -1,7 +1,7 @@
 ---
 title: Why the iPhone 15 Surpasses Expectations for Even Seasoned 'Pro' Users - An In-Depth Review
-date: 2024-11-13T22:10:29.634Z
-updated: 2024-11-15T21:48:17.837Z
+date: 2024-11-24T16:20:29.133Z
+updated: 2024-11-25T16:05:37.781Z
 tags:
   - apple
 categories:
@@ -46,16 +46,7 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -72,6 +63,10 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 | Price        | Starting at $799                                  | Starting at $899                                  |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
@@ -133,13 +128,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -155,10 +143,7 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -174,15 +159,16 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -218,24 +204,20 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-crafting-harmonious-photographic-mosaics-with-ease/"><u>[Updated] Crafting Harmonious Photographic Mosaics with Ease</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-realme-c67-4g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Realme C67 4G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-realme-gt-neo-5-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Realme GT Neo 5 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-instructions-for-deleting-windows-rebuild-zone/"><u>Comprehensive Instructions for Deleting Windows Rebuild Zone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-turning-on-browser-cookies-for-seamless-sessions/"><u>Comprehensive Tutorial on Turning On Browser Cookies for Seamless Sessions</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/cutting-edge-techniques-pushing-boundaries-in-youtube-cinematography-for-2024/"><u>Cutting Edge Techniques Pushing Boundaries in YouTube Cinematography for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-steps-for-successfully-playing-pokemon-unite-through-a-laptop/"><u>Essential Steps for Successfully Playing Pokémon Unite Through a Laptop</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/getting-started-with-microsoft-word-on-a-budget-free-edition-insights-and-tips/"><u>Getting Started with Microsoft Word on a Budget: Free Edition Insights and Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratuitamente-converti-file-webp-in-formato-gif-su-internet-con-il-servizio-facile-di-movavi/"><u>Gratuitamente Converti File WEBP in Formato GIF Su Internet Con Il Servizio Facile Di Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/identifying-older-windows-systems-quickly/"><u>Identifying Older Windows Systems Quickly</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-iphone-13-mini-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 13 mini Device from iCloud</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-jest-journeys-charting-7-comedic-paths-to-viral-videos/"><u>In 2024, Jest Journeys Charting 7 Comedic Paths to Viral Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/insider-information-on-the-meta-quest-3-lite-projected-pricing-release-schedule-and-speculative-details-unpacked/"><u>Insider Information on the Meta Quest 3 Lite: Projected Pricing, Release Schedule & Speculative Details Unpacked</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/license-free-minecraft-banner-pack/"><u>License-Free Minecraft Banner Pack</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-iphone-sound-issues-why-your-device-isnt-ringing-and-how-to-restore-it/"><u>Solving iPhone Sound Issues: Why Your Device Isn't Ringing and How to Restore It</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-missing-msstfmtdll-files-a-step-by-step-guide/"><u>Solving the Mystery of Missing msstfmt.dll Files: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-evolution-of-contextual-understanding-deciphering-the-significance-of-one-million-tokens-in-gemini-15/"><u>The Evolution of Contextual Understanding: Deciphering the Significance of One Million Tokens in Gemini 1.5</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-how-to-fix-ipad-not-connecting-to-printer/"><u>Troubleshooting Guide: How to Fix 'iPad Not Connecting to Printer'</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-the-secrets-6-premier-destinations-for-music-video-enthusiasts/"><u>Unlock the Secrets: 6 Premier Destinations for Music Video Enthusiasts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-in-depth-training-adopting-the-best-screen-recording-practices-with-adobe-captivate/"><u>[New] 2024 Approved In-Depth Training Adopting the Best Screen Recording Practices with Adobe Captivate</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-drone-innovation-reimagined-with-the-q500-typhoon/"><u>[New] Drone Innovation Reimagined with the Q500 Typhoon</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-your-companion-in-choosing-high-grade-hdr-cameras-for-2024/"><u>[Updated] Your Companion in Choosing High-Grade HDR Cameras for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/all-you-need-to-know-about-adding-apple-music-to-video/"><u>All You Need to Know About Adding Apple Music to Video</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beyond-just-funny-faces-uncovering-remarkable-tidbits-from-the-history-and-usage-of-emojis/"><u>Beyond Just Funny Faces: Uncovering Remarkable Tidbits From the History and Usage of Emojis.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-unexpected-failures-of-in-car-radio-systems/"><u>Dealing with Unexpected Failures of In-Car Radio Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/imbalances-can-lead-to-soil-depletion-or-pest-outbreaks-a-balanced-ecosystem-promotes-healthy-crops-and-resilience-against-diseases/"><u>Imbalances Can Lead to Soil Depletion or Pest Outbreaks; a Balanced Ecosystem Promotes Healthy Crops and Resilience Against Diseases</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ordered-guide-watching-all-harry-potter-films-sequentially/"><u>Ordered Guide: Watching All Harry Potter Films Sequentially</u></a></li>
+<li><a href="https://fox-where.techidaily.com/sichere-deine-dokumente-vor-dem-selbstausloschungseffekt-von-microsoft-onedrive-masterclass-in-dateiwiedergewinnungstechniken/"><u>Sichere Deine Dokumente Vor Dem Selbstauslöschungseffekt Von Microsoft OneDrive: Masterclass in Dateiwiedergewinnungstechniken</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-pros-and-cons-of-purchasing-a-blu-ray-player-what-you-need-to-know/"><u>The Pros and Cons of Purchasing a Blu-Ray Player - What You Need to Know</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-scoop-inside-the-latest-facebook-data-revelations/"><u>The Scoop: Inside the Latest Facebook Data Revelations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleash-the-power-of-high-definition-viewing-discover-hitachi-tvs-with-built-in-roku-for-seamless-content-streaming/"><u>Unleash the Power of High-Definition Viewing: Discover Hitachi TVs With Built-In Roku for Seamless Content Streaming</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-hulu-streaming-success-resolve-the-rununk13-error-with-ease/"><u>Unlocking Hulu Streaming Success: Resolve the RUNUNK13 Error with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/vanquishing-vpn-error-800-expert-advice-on-correcting-issues-in-clients-and-servers/"><u>Vanquishing VPN Error 800: Expert Advice on Correcting Issues in Clients and Servers</u></a></li>
 </ul></div>
 

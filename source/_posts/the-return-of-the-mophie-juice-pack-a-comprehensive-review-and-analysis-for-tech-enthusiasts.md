@@ -1,7 +1,7 @@
 ---
 title: "The Return of the Mophie Juice Pack: A Comprehensive Review and Analysis for Tech Enthusiasts"
-date: 2024-11-12T23:16:59.867Z
-updated: 2024-11-16T07:18:14.997Z
+date: 2024-11-23T16:50:14.282Z
+updated: 2024-11-25T16:29:47.249Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
 From the Wallet app, tap on the + (plus) sign at the top right of your screen to add a card. Then, choose the type of card you're adding; if it's a payment method, select Debit or Credit Card. The other options are for Transit Cards and [Driver's License](https://www.zdnet.com/article/how-to-add-your-drivers-license-to-the-apple-wallet-app/) or [State ID](https://www.zdnet.com/article/apple-adds-drivers-licenses-state-ids-to-apple-wallet/), and are limited to a few states within the US.
@@ -62,13 +66,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -76,13 +73,6 @@ Double-clicking, or, rather, double-pressing, the button on the right side of yo
 Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
@@ -93,10 +83,7 @@ Enter your passcode to confirm Apple Pay payment.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
@@ -114,20 +101,10 @@ Apple
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How do I set up Apple Pay from my iPhone Settings?
 
@@ -145,6 +122,10 @@ You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there i
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -177,6 +158,10 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -212,18 +197,16 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-achieve-fluent-fb-video-posting-windows-linux-ios-and-android-tips/"><u>[Updated] Achieve Fluent FB Video Posting Windows, Linux, iOS & Android Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/advanced-techniques-to-manage-safe-area-multitasking/"><u>Advanced Techniques to Manage Safe Area Multitasking</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/cross-device-messaging-hack-using-apps-to-get-imessage-working-on-android-phones-and-tablets/"><u>Cross-Device Messaging Hack: Using Apps to Get iMessage Working on Android Phones and Tablets</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-easily-sign-up-for-an-x-account-complete-walkthrough/"><u>How To Easily Sign Up For An X Account - Complete Walkthrough</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-lava-yuva-3-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Lava Yuva 3 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-updates-how-to-install-logitech-wireless-mice-on-windows-systems/"><u>Latest Updates: How to Install Logitech Wireless Mice on Windows Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/managing-default-iphone-software-can-you-delete-core-apps/"><u>Managing Default iPhone Software: Can You Delete Core Apps?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/master-the-art-of-video-resizing-top-7-techniques-to-downscale-4k-videos-into-crisp-1080p-resolution/"><u>Master the Art of Video Resizing: Top 7 Techniques to Downscale 4K Videos Into Crisp 1080P Resolution</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-future-of-micromobility-a-comprehensive-guide-to-trends-updates-and-speculations/"><u>Navigating the Future of Micromobility: A Comprehensive Guide to Trends, Updates & Speculations</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-gameplay-restored-how-to-overcome-crashing-problems-in-dark-souls-iii/"><u>Smooth Gameplay Restored: How to Overcome Crashing Problems in Dark Souls III</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/tricks-to-faster-and-smoother-instagram-media/"><u>Tricks to Faster and Smoother Instagram Media</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-x9a-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Honor X9a Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wireless-wifi-solutions-your-guide-to-a-cable-and-phone-free-internet-experience/"><u>Wireless WiFi Solutions - Your Guide to a Cable and Phone-Free Internet Experience</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-build-high-impact-facebook-ad-videos-free-creation-kit-provides-tools/"><u>[New] Build High-Impact Facebook Ad Videos - FREE Creation Kit Provides Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-premium-internet-spots-for-glossy-3d-text-effects/"><u>[Updated] Premium Internet Spots for Glossy 3D Text Effects</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beat-enthusiasts-rejoice-8-amazing-gratis-music-apps-tailored-for-ios-users/"><u>Beat Enthusiasts Rejoice: 8 Amazing Gratis Music Apps Tailored for iOS Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-downloading-applications-on-your-samsung-smart-tv/"><u>Complete Guide: Downloading Applications on Your Samsung Smart TV</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-savvy-scribblers-selection-the-top-compiler-of-twitter-animation/"><u>In 2024, Savvy Scribbler's Selection - The Top Compiler of Twitter Animation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-to-restore-proper-audio-functionality-in-outriders/"><u>Step-by-Step Fixes to Restore Proper Audio Functionality in Outriders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-modifying-your-instagram-message-content/"><u>Step-by-Step Guide: Modifying Your Instagram Message Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-repairing-shelldll-file-issues-effectively/"><u>Troubleshooting and Repairing 'Shell.dll' File Issues Effectively</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-guide-your-canon-printer-wont-print/"><u>Troubleshooting Guide: Your Canon Printer Won't Print</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1726029262352-youtube/"><u>YouTubeストリーミングにおけるフリーズ問題:改善方法のマニュアル</u></a></li>
 </ul></div>
 

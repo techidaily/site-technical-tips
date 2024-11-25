@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Memorial Day Offer! Secure Your Favorite Apple Watch SE for $60 Less | Expert Review by ZDNet
-date: 2024-11-08T20:42:35.888Z
-updated: 2024-11-15T16:34:29.865Z
+date: 2024-11-21T17:16:07.978Z
+updated: 2024-11-25T16:38:47.339Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ The Apple Watch SE (2nd gen) does offer some of the same health and safety featu
 During Black Friday sales, I upgraded from the Series 3 Apple Watch to the 40mm SE model, and I've never been happier with a tech purchase. The SE has all the necessary features without the complicated bells and whistles I didn't want (or need) -- yet it still offers a crisp display, fast response rate, and seamless use. It's perfect for tracking my workouts and walks, and for quickly answering texts, emails, and more. 
 
 Grab the [Apple Watch SE (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-2nd-Gen-GPS-40mm-Starlight-Aluminum-Case-Sport-Band-S-M-Fitness-Sleep-Tracker-Crash-Detection-Heart-Rate-Monitor%2F5033741510%3F&subId1=zd-__COM_CLICK_ID__-dtp) now and upgrade your or a loved one's smartwatch setup this summer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -85,24 +89,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-7-amazing-builds-in-creative-mode/"><u>[Updated] 7 Amazing Builds in Creative Mode</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-the-art-of-imitation-for-a-unique-and-authentic-tiktok-presence/"><u>[Updated] Mastering the Art of Imitation for a Unique and Authentic TikTok Presence</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-the-square-wave-of-facebook-video-popularity-for-2024/"><u>[Updated] Navigating the Square Wave of Facebook Video Popularity for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/all-you-need-to-know-about-downloading-wm6/"><u>All You Need to Know About Downloading WM6</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquering-performance-issues-boosting-fps-in-your-outriders-adventure/"><u>Conquering Performance Issues: Boosting FPS in Your Outriders Adventure</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-timeline-pioneering-milestones-in-electric-vehicle-development/"><u>Discover the Timeline: Pioneering Milestones in Electric Vehicle Development</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-journey-ahead-an-in-depth-look-at-panasonics-hx-a1-wearable-camera/"><u>In 2024, Journey Ahead - An In-Depth Look at Panasonic’s HX-A1 Wearable Camera</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-motorola-moto-g-stylus-5g-2023-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Motorola Moto G Stylus 5G (2023) Phone Pattern Lock</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ipados-16-arrives-learn-about-the-updates-release-date-free-download-and-notable-innovations/"><u>IPadOS 16 Arrives! Learn About the Update's Release Date, Free Download, and Notable Innovations.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-galaxy-of-star-wars-films-in-proper-chronology-on-disneys-streaming-platform/"><u>Navigating the Galaxy of Star Wars Films in Proper Chronology on Disney's Streaming Platform</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-selecting-the-best-iphone-model-for-mobile-gaming/"><u>Ultimate Guide to Selecting the Best iPhone Model for Mobile Gaming</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-bargains-on-mini-travel-projectors-solar-chargers-smart-home-security-cameras-and-latest-gadgets/"><u>Unbeatable Bargains on Mini Travel Projectors, Solar Chargers, Smart Home Security Cameras, & Latest Gadgets!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-10-essential-vlog-editing-hacks-for-novice-creators-for-2024/"><u>[New] 10 Essential Vlog Editing Hacks for Novice Creators for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-comprehensive-mp4-video-downloader-review-for-2024/"><u>[New] Comprehensive MP4 Video Downloader Review for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beware-of-malicious-extensions-how-a-fake-chatgpt-plugin-compromises-social-media-security/"><u>Beware of Malicious Extensions: How a Fake ChatGPT Plugin Compromises Social Media Security</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-free-global-communication-tools/"><u>Discover the Ultimate List of Free Global Communication Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dragon-ball-mastery-watching-the-series-in-correct-order-explained/"><u>Dragon Ball Mastery: Watching the Series in Correct Order Explained</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-downloads-and-setup-canon-imageclass-mf48n-printer-drivers-available-now/"><u>Easy Downloads & Setup - Canon ImageCLASS MF48n Printer Drivers Available Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-most-trusted-protected-email-platforms/"><u>Exploring the Most Trusted Protected Email Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-march-madness-to-final-four-experience-the-thrills-of-college-basketball-live-on-radio/"><u>From March Madness To Final Four - Experience The Thrills Of College Basketball Live on Radio!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/harmony-through-play-our-best-10-gems/"><u>Harmony Through Play Our Best 10 Gems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-tecno-pop-8-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Tecno Pop 8</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-guide-for-srt-format-conversions/"><u>In 2024, Comprehensive Guide for SRT Format Conversions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-definitive-guide-for-effective-and-smooth-youtube-video-uploads/"><u>In 2024, The Definitive Guide for Effective and Smooth YouTube Video Uploads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/perfect-your-photo-game-expert-techniques-for-stunning-selfies-with-light-equipment/"><u>Perfect Your Photo Game: Expert Techniques for Stunning Selfies with Light Equipment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-beginners-guide-to-syncing-your-chats-setting-up-and-using-whatsapp-on-macos-computers/"><u>The Beginner's Guide to Syncing Your Chats: Setting Up and Using WhatsApp on macOS Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-picks-the-best-lgbtq-series-streaming-on-netflix-in-july-2024/"><u>Top Picks: The Best LGBTQ Series Streaming on Netflix in July 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-to-fix-missing-mfc71dll-error-messages-on-your-pc/"><u>Troubleshooting Steps to Fix Missing mfc71.dll Error Messages on Your PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-7-plus-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 7 Plus i Do? Get Answers here</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-the-optimal-speed-requirement-for-an-efficient-pc/"><u>What's the Optimal Speed Requirement for an Efficient PC?</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

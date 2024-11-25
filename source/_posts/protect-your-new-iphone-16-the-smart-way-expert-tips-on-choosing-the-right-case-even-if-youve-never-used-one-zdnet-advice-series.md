@@ -1,7 +1,7 @@
 ---
 title: "Protect Your New iPhone 16 the Smart Way: Expert Tips on Choosing the Right Case - Even If You've Never Used One | ZDNET Advice Series"
-date: 2024-11-14T19:16:45.501Z
-updated: 2024-11-16T00:08:27.624Z
+date: 2024-11-23T16:23:35.153Z
+updated: 2024-11-25T17:11:12.748Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ Well, I didn't. Why? Because I'm throwing mine in a case, that's why. I ordered 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do you need a case? Absolutely
 
 Not using a case almost guarantees you'll damage your device the first time you drop it. Maybe you've been one of the lucky ones who's never cracked a screen. If so, congratulations -- you've defied the odds. But the [iPhone 16 lineup](https://www.zdnet.com/article/every-iphone-16-model-compared-which-iphone-should-you-buy-today/) introduces new risks, and you might not be so lucky this time.
@@ -41,13 +45,6 @@ Those upgrading from the iPhone 12 or iPhone 13 will notice an even more dramati
 **Also: [iPhone 16 Pro vs. iPhone 13 Pro: Should you upgrade?](https://www.zdnet.com/article/iphone-16-pro-vs-iphone-13-pro-should-you-upgrade-to-apples-latest-model/)**
 
 If you're coming from one of these older models, you'll be adjusting to a significantly more exposed display, making the need for a protective case and glass screen protector even more crucial.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## My top picks for iPhone 16 cases
 
@@ -104,10 +101,7 @@ Spigen's [Tough Armor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https
 These cases offer excellent value without adding excessive bulk.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ESR
@@ -124,6 +118,10 @@ Its Stash Stand is an integrated, fold-out kickstand that doubles as a camera pr
 
 The case also supports MagSafe via HaloLock, making it versatile for charging and mounting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why a glass protector is also a must
 
 Even with a case, your iPhone 16's screen is more vulnerable than ever. With bezels so close to the edge, a case alone won't protect against scratches, cracks, or the dreaded spider-web shatter after a fall. 
@@ -135,10 +133,7 @@ A tempered glass screen protector is your next essential line of defense. Here's
 OtterBox offers three tiers of protection for the iPhone 16: [Premium Pro](https://www.dpbolvw.net/click-9041660-15734810?url=https%3A%2F%2Fwww.otterbox.com%2Fen-us%2Fiphone-16-pro-max-screen-protector%3Fprefn1%3Dname2%26prefv1%3DPremium%2520Pro%2520Glass&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [Premium](https://www.dpbolvw.net/click-9041660-15734810?url=https%3A%2F%2Fwww.otterbox.com%2Fen-us%2Fiphone-16-pro-max-screen-protector%3Fprefn1%3Dname2%26prefv1%3DPremium%2520Pro%2520Glass&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the entry-level [OtterBox Glass](https://www.dpbolvw.net/click-9041660-15734810?url=https%3A%2F%2Fwww.otterbox.com%2Fen-us%2Fiphone-16-pro-max-screen-protector%3Fprefn1%3Dname2%26prefv1%3DOtterBox%2520Glass&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The Premium Pro provides enhanced scratch resistance and impact absorption, while Premium offers solid protection at a slightly lower price point. OtterBox Glass is a more affordable entry-level option, providing basic protection.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ESR Tempered Glass Screen Protector
@@ -146,10 +141,7 @@ OtterBox offers three tiers of protection for the iPhone 16: [Premium Pro](https
 ESR's [Tempered Glass Screen Protector](https://shareasale.com/r.cfm?b=1200223&u=4338022&m=80610&afftrack=techidaily&urllink=https%3A%2F%2Fzonlipartnershipprogram.pxf.io%2Fb0rbxy) is one of the most affordable options available, and it comes in a 3-pack. With 9H hardness and edge-to-edge protection, this protector provides excellent defense against scratches and drops. The easy installation system ensures a bubble-free fit, making it a great budget-friendly choice without compromising quality.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Spigen Glas.tR EZ Fit
@@ -192,24 +184,24 @@ The iPhone 16 series's slimmer bezels and larger screens increase the importance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-sightsphere-scrutiny-summary-for-2024/"><u>[New] SightSphere Scrutiny Summary for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-cutting-edge-design-aids-no-cost-premier-prestige/"><u>[Updated] Cutting-Edge Design Aids No-Cost Premier Prestige</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-enhance-your-marketing-game-the-top-15-social-media-analyzers-to-increase-e-commerce-for-2024/"><u>[Updated] Enhance Your Marketing Game The Top 15 Social Media Analyzers to Increase E-Commerce for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-swift-cinematic-skills-the-quickest-5-diy-hacks-for-success/"><u>[Updated] In 2024, Swift Cinematic Skills The Quickest 5 DIY Hacks for Success</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1-unveiling-the-secrets-of-google-discover-a-comprehensive-guide-for-mobile-users/"><u>1. Unveiling the Secrets of Google Discover: A Comprehensive Guide for Mobile Users</u></a></li>
-<li><a href="https://win-help.techidaily.com/1726226049659-movavimp4gif/"><u>安価なオンラインツール: Movaviを使ったMP4ファイルからGIFへ無料で簡単に変換するコツ</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-tips-to-fix-connection-issues-by-refreshing-your-macs-network-preferences/"><u>Easy Tips to Fix Connection Issues by Refreshing Your Mac's Network Preferences</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210177784-9781643340838-el-libro-de-la-verdad/"><u>El libro de la verdad | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-hacks-and-tricks-for-a-flawless-run-on-subway-surfers/"><u>Expert Hacks & Tricks for a Flawless Run on 'Subway Surfers'</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-and-tricks-for-maintaining-the-clarity-of-your-sleek-modern-hdtv-screen/"><u>Expert Tips & Tricks for Maintaining the Clarity of Your Sleek, Modern HDTV Screen</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/full-access-your-in-depth-look-at-fcp/"><u>Full Access Your In-Depth Look at FCP</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-does-roku-express-stand-against-the-classic-roku-stick-a-detailed-analysis/"><u>How Does Roku Express Stand Against the Classic Roku Stick? A Detailed Analysis</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-video-metadata-management-best-mp4-tag-editors-for-pc-and-mac/"><u>In 2024, Video Metadata Management Best MP4 Tag Editors for PC and Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-automated-sms-scheduling-with-ios-devices/"><u>Mastering the Art of Automated SMS Scheduling with iOS Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximizing-text-communication-without-draining-your-plan/"><u>Maximizing Text Communication Without Draining Your Plan</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pinnacle-camera-technology-the-best-reviewed/"><u>Pinnacle Camera Technology – The Best Reviewed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-why-is-netflix-not-working-on-my-roku-and-how-to-fix-it/"><u>Step-by-Step Solutions: Why Is Netflix Not Working on My Roku and How to Fix It</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/twitch-not-working-heres-how-to-determine-if-the-problem-lies-with-twitch-or-your-network/"><u>Twitch Not Working? Here's How to Determine If the Problem Lies with Twitch or Your Network</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-our-picks-top-13-captivating-true-crime-audio-series-for-thrill-seekers/"><u>Unveiling Our Picks: Top 13 Captivating True Crime Audio Series for Thrill Seekers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-10plus-top-tips-for-accessing-the-best-of-international-cricket-online/"><u>[New] 2024 Approved 10+ Top Tips for Accessing the Best of International Cricket Online</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-craft-humorous-images-on-no-cost/"><u>[New] Craft Humorous Images on No-Cost</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tips-for-sending-tweets-video-content-via-whatsapp/"><u>[New] In 2024, Tips for Sending Tweets' Video Content via WhatsApp</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-best-hd-video-screen-recorders/"><u>2024 Approved Best HD Video Screen Recorders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-fantasy-villas-with-oriental-elegance-mc-edition/"><u>2024 Approved Fantasy Villas with Oriental Elegance, MC Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-your-youtube-experience-stop-previews/"><u>2024 Approved Perfecting Your YouTube Experience - Stop Previews</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-searching-comments-on-youtube/"><u>2024 Approved Searching Comments on YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/data-harmony-strategies-for-fusing-separate-columns-in-excel/"><u>Data Harmony: Strategies for Fusing Separate Columns in Excel</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-list-of-observers-a-guide-on-identifying-document-viewer-contacts-in-google-docs/"><u>Discover the List of Observers: A Guide on Identifying Document Viewer Contacts in Google Docs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-whats-new-at-samsung-unpacked-2025-release-dates-announcements-and-rumored-gadgets-revealed/"><u>Discover What's New at Samsung Unpacked 2025 - Release Dates, Announcements & Rumored Gadgets Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-graphics-game-is-an-rtx-card-worth-it/"><u>Elevate Your Graphics Game: Is An RTX Card Worth It?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/zero-to-hero-learning-the-art-of-youtube-content/"><u>From Zero to Hero Learning the Art of YouTube Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/immersive-puzzle-experiences-for-ios-devices-akin-to-the-room-and-myst/"><u>Immersive Puzzle Experiences for iOS Devices Akin to 'The Room' And 'Myst'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/make-the-right-choice-a-detailed-comparison-between-iphone-and-android-devices/"><u>Make The Right Choice: A Detailed Comparison Between iPhone and Android Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/managing-excessive-cpu-consumption-by-dropbox-on-windows/"><u>Managing Excessive CPU Consumption by Dropbox on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-netflix-error-ui-800-3-expert-fixing-strategies/"><u>Overcoming Netflix Error UI-800-3: Expert Fixing Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-guide-to-creating-engaging-facebook-stories/"><u>The Ultimate Guide to Creating Engaging Facebook Stories</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-whats-airing-now-on-max-entertainment-channel/"><u>The Ultimate Selection: What’s Airing Now on Max Entertainment Channel</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/travel-tech-essentials-mastering-roku-connectivity-in-academic-settings-and-hotel-rooms/"><u>Travel Tech Essentials: Mastering Roku Connectivity in Academic Settings and Hotel Rooms</u></a></li>
 </ul></div>
 

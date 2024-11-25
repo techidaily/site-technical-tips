@@ -1,7 +1,7 @@
 ---
 title: Prepare Your iPhone for a Seamless Transition to iOS 18 with These Expert-Approved Strategies
-date: 2024-11-09T00:47:38.497Z
-updated: 2024-11-15T18:26:13.569Z
+date: 2024-11-24T16:37:24.543Z
+updated: 2024-11-25T16:55:13.356Z
 tags:
   - apple
 categories:
@@ -29,6 +29,10 @@ If you're the same way, keep reading. Plus, these tips also work for preparing y
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to get your iPhone ready for iOS 18
 
@@ -63,10 +67,7 @@ The following iPads will get iPadOS 18:
 * iPad mini models from 2019 and later (5th generation onwards)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Consider playing the 'wait-and-see' game
@@ -91,13 +92,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Update your apps and free up space
 
 I recommend updating all your apps if you're the sort of person who has disabled automatic updates and forgets to do it manually. Running older apps on the new release could cause glitches and issues.
@@ -119,10 +113,7 @@ Apple has a [support document](https://support.apple.com/en-us/HT203977) detaili
 If you don't think you need to do this, imagine that your iPhone is erased right now. Everything is gone. Have you lost anything important? If the answer is yes, you need to make at least one backup.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Know your iCloud password
@@ -136,15 +127,16 @@ Don't know what it is? Now might be the [time to reset it](https://support.apple
 Also, if your local backup is encrypted, remember that you'll need that password if something goes wrong. Makes sure that's also saved somewhere other than on your iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Charge your device
 
 While you can technically update iOS with only 50% battery, it's better to be safe than sorry and put it on a charger. Running out of power mid-update wouldn't be good.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Check your connectivity
 
@@ -184,20 +176,21 @@ Now you're ready! Either wait for iOS to be downloaded and installed automatical
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-sounding-off-on-channel-titling-tips-from-experienced-filmmakers/"><u>[New] 2024 Approved Sounding Off on Channel Titling Tips From Experienced Filmmakers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sky-surfing-in-hd-with-the-yuneec-drone-review/"><u>[New] Sky Surfing in HD with the Yuneec Drone Review</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-masters-picks-highest-rated-cards-for-streaming-on-youtube/"><u>[Updated] 2024 Approved Master's Picks Highest Rated Cards for Streaming on YouTube</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-celebrity-quick-shot-analysis/"><u>[Updated] In 2024, Celebrity Quick Shot Analysis</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-simplify-image-editing-picart-background-shedding/"><u>[Updated] In 2024, Simplify Image Editing PicArt Background Shedding</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-budget-friendly-alternatives-to-premium-vr-headsets/"><u>2024 Approved Budget-Friendly Alternatives to Premium VR Headsets</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/driving-change-whats-behind-the-global-shift-to-electric-cars/"><u>Driving Change: What's Behind the Global Shift to Electric Cars?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-3-technological-advances-shaping-our-future/"><u>Essential 3 Technological Advances Shaping Our Future</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-must-watch-lgbtq-content-netflixs-latest-and-greatest-in-july-2024/"><u>Explore Must-Watch LGBTQ Content: Netflix's Latest and Greatest in July 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-power-and-capabilities-of-nvidia-rtx-gpu-technology/"><u>Exploring the Power and Capabilities of Nvidia RTX GPU Technology</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-100-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor 100 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-get-creative-with-these-top-vignette-apps-for-mobile-phones/"><u>New Get Creative with These Top Vignette Apps for Mobile Phones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-world-of-warcraft-voice-chat-problems-a-comprehve-guide-for-gamers/"><u>Resolving World of Warcraft Voice Chat Problems - A Comprehve Guide for Gamers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/restoring-access-solutions-for-a-forgotten-ipad-code/"><u>Restoring Access: Solutions for a Forgotten iPad Code</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-setting-up-dual-monitors-with-a-macbook-air-for-efficient-workflows/"><u>Step-by-Step Tutorial: Setting Up Dual Monitors with a MacBook Air for Efficient Workflows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boosting-engagement-youtube-strategies-for-increased-viewership-for-2024/"><u>[Updated] Boosting Engagement YouTube Strategies for Increased Viewership for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-detailed-overview-of-enhanced-mobile-communication-rcs-explained/"><u>A Detailed Overview of Enhanced Mobile Communication: RCS Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-disabled-accounts-fixing-windows-login-fails/"><u>Bypassing Disabled Accounts: Fixing Windows Login Fails</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dont-miss-out-a-complete-breakdown-of-amazon-prime-day-2024/"><u>Don't Miss Out: A Complete Breakdown of Amazon Prime Day 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/o-be-a-beauty-guru-on-youtube-beauty-vlogger-set-up-for-2024/"><u>How To Be A Beauty Guru on YouTube Beauty Vlogger Set Up for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-honor-magic-5-lite-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Honor Magic 5 Lite to Another | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y200e-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y200e 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/julys-best-discoveryplus-shows-for-streaming-according-to-us/"><u>July's Best Discovery+ Shows for Streaming According to Us</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/microsoft-word-on-a-budget-how-to-enjoy-this-tool-without-spending-money/"><u>Microsoft Word on a Budget: How to Enjoy This Tool Without Spending Money</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-say-goodbye-to-watermarks-filmora-removal-techniques/"><u>New 2024 Approved Say Goodbye to Watermarks Filmora Removal Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-yet-powerful-software-for-seamless-screen-capture/"><u>Simple Yet Powerful Software for Seamless Screen Capture</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-resetting-forgotten-passwords-regain-access-to-your-ipad/"><u>Solutions for Resetting Forgotten Passwords: Regain Access to Your iPad</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-list-of-20-budget-friendly-1tbplus-cloud-space-providers/"><u>The Essential List of 20 Budget-Friendly, 1TB+ Cloud Space Providers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-methodology-behind-finding-someones-email-securely/"><u>The Methodology Behind Finding Someone's Email Securely</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-not-found-dll-files-in-windows-solutions-for-developers/"><u>Troubleshooting 'Not Found' DLL Files in Windows: Solutions for Developers</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-your-sites-potential-with-advanced-cookiebot-techniques/"><u>Unlock Your Site's Potential with Advanced Cookiebot Techniques</u></a></li>
 </ul></div>
 

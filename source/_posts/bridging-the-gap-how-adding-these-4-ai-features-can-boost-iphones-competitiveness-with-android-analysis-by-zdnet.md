@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Gap: How Adding These 4 AI Features Can Boost iPhone’s Competitiveness with Android | Analysis by ZDNet"
-date: 2024-11-08T19:14:33.815Z
-updated: 2024-11-16T02:57:50.494Z
+date: 2024-11-24T16:16:47.664Z
+updated: 2024-11-25T17:07:30.992Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Generative AI for a context-aware Siri
 
 Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI services against competitors. While Siri has become a go-to feature on its own, it lags behind its virtual assistant competitors in intelligence and capability. Mounting consumer frustration over Siri's limitations and generative AI's popularity gives Apple a final push to give the voice assistant generative AI.
@@ -51,10 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,21 +126,16 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-creating-momentum-in-life-coaching-video-series/"><u>[New] 2024 Approved Creating Momentum in Life Coaching Video Series</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-digital-laughter-lab-for-2024/"><u>[Updated] Digital Laughter Lab for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimal-data-buffering-for-sony-a7s-ii/"><u>[Updated] Optimal Data Buffering for Sony A7S II</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-refined-lineup-of-conversation-starters-for-podcasting/"><u>[Updated] Refined Lineup of Conversation Starters for Podcasting</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/error-free-operation-a-step-by-step-guide-to-resolving-the-device-wont-start-problem-including-code-10-mishaps/"><u>Error-Free Operation: A Step-by-Step Guide to Resolving the 'Device Won't Start' Problem, Including Code 10 Mishaps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014677257-get-your-apex-legends-voice-chat-up-and-running-again-expert-solutions-inside/"><u>Get Your Apex Legends Voice Chat Up and Running Again! Expert Solutions Inside!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/leading-disk-imaging-solutions-for-windows-preinstallation-environment-winpe-the-ultimate-list/"><u>Leading Disk Imaging Solutions for Windows Preinstallation Environment (WinPE) - The Ultimate List</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-nintendo-switch-online-downtime-discovering-whether-its-a-widespread-issue-or-just-you/"><u>Navigating Through Nintendo Switch Online Downtime: Discovering Whether It's a Widespread Issue or Just You</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/professional-editing-strategies-for-youtube-videos-after-upload-for-2024/"><u>Professional Editing Strategies for YouTube Videos After Upload for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/restoring-your-facebook-steps-to-bring-back-dark-mode/"><u>Restoring Your Facebook: Steps to Bring Back Dark Mode</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revealing-why-electric-vehicles-excel-in-performance-against-gasoline-models/"><u>Revealing Why Electric Vehicles Excel in Performance Against Gasoline Models</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/setting-up-two-screens-on-your-macbook-or-imac-tutorial/"><u>Setting up Two Screens on Your MacBook or iMac - Tutorial</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-years-predictions-rendered-in-infographics/"><u>The Year's Predictions Rendered in Infographics</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-best-travel-influencers-on-twitter-tips-trips-and-bargains-await/"><u>Ultimate Guide to the Best Travel Influencers on Twitter: Tips, Trips, and Bargains Await</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-troubleshooting-guide-reconnecting-your-stadia-headset/"><u>Ultimate Troubleshooting Guide: Reconnecting Your Stadia Headset</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1728462231775-windows-1011/"><u>Windows 10/11硬盘数据恢复无需格式化的免费方法</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unmasking-phony-fans-in-social-media/"><u>[New] 2024 Approved Unmasking Phony Fans in Social Media</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-designing-an-attractive-pfp-for-discord-chat-rooms/"><u>[Updated] In 2024, Designing an Attractive Pfp for Discord Chat Rooms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-tutorial-for-iphone-x-animoji-fun/"><u>[Updated] The Ultimate Tutorial for iPhone X Animoji Fun</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-in-depth-technique-for-formulating-youtube-playlists/"><u>2024 Approved The In-Depth Technique for Formulating YouTube Playlists</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-hyper-v-bsod-steps-to-restore-windows/"><u>Eliminate Hyper-V BSOD: Steps to Restore Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-your-clips-an-in-depth-look-at-recmeisters-features-for-2024/"><u>Mastering Your Clips An In-Depth Look at Recmeister's Features for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/microsoft-teams-not-working-know-the-difference-between-service-outages-and-personal-issues/"><u>Microsoft Teams Not Working? Know the Difference Between Service Outages and Personal Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/share-your-gaming-experience-with-friends-on-ps5-a-step-by-step-how-to/"><u>Share Your Gaming Experience with Friends on PS5 - A Step-by-Step How-To</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-problem-of-sluggish-web-speeds-a-comprehensive-guide/"><u>Solving the Problem of Sluggish Web Speeds: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-essential-guide-to-choosing-between-cat5-or-cat6-cable/"><u>The Essential Guide to Choosing Between Cat5 or Cat6 Cable</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-connecting-your-samsung-remote-with-the-perfect-television/"><u>Ultimate Guide: Connecting Your Samsung Remote with the Perfect Television</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen iPhone on the Horizon: Forecasts for Pricing, Release Timing, Hardware Specs & Breaking Rumors"
-date: 2024-09-09T13:27:43.957Z
-updated: 2024-09-10T13:27:43.957Z
+date: 2024-11-22T16:06:40.644Z
+updated: 2024-11-25T16:28:19.986Z
 categories:
   - BestProducts
 description: "This Article Describes Next-Gen iPhone on the Horizon: Forecasts for Pricing, Release Timing, Hardware Specs & Breaking Rumors"
@@ -33,22 +33,10 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
 
  Like in previous years, there will be several models: iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, and iPhone 17 Slim.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 A September 2025 release date seems like a lock.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## iPhone 17 Price Rumors
 
  Just like with release dates, Apple is consistent in[the pricing of new iPhones](https://www.lifewire.com/cost-of-iphone-1999299) . While nothing has been confirmed, expect that the iPhone 17 price will be very similar to previous models, if not the exactly same. The launch price of the entry-level model of the last three iPhones was:
@@ -60,20 +48,16 @@ A September 2025 release date seems like a lock.
  So, the iPhone 17 price might vary a little, but a starting price around $799 is a safe bet, with the cost going up based on screen size and storage. And of course, the Pro version will be more expensive.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  The iPhone 17 will go up for pre-order once Apple makes it official. Check back here for info once it's available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone 17 Specs & Features
 
@@ -88,12 +72,6 @@ A September 2025 release date seems like a lock.
 * Physically larger phones
 * More AI features.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Screen
 
  The iPhone 17 series screen is rumored to receive three notable upgrades.
@@ -105,21 +83,17 @@ A September 2025 release date seems like a lock.
  Lastly,[MacRumors shares a Chinese report](https://www.macrumors.com/2024/03/19/iphone-17-anti-reflective-display/) that the iPhone 17 screen will use a new, "super-hard anti-reflective layer" to prevent scratches and screen damage, replacing the current ceramic shield technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Face ID
 
  Ross Young, an industry analyst with Display Supply Chain Consultants,[says that the iPhone 17 Pro models will bring a big change to Face ID](https://www.macrumors.com/2023/04/03/under-display-face-id-to-debut-on-iphone-17-pro/) : Instead of using a camera notch at the top of the screen, the[Face ID](https://www.lifewire.com/face-id-4151714) will be embedded under the phone's screen. While the selfie camera cutout would stay, moving the Face ID sensors under the screen would be a step towards getting rid of the notch entirely and having an all-screen front on a future iPhone model.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Processor and Chips
 
  Each year, Apple introduces a new processor that powers the iPhone. Based on past evolution of those chips, expect the iPhone 17 series to be built around the not-yet-revealed Apple A18 processor.
@@ -137,6 +111,10 @@ A September 2025 release date seems like a lock.
  Additionally,[MacRumors also says to expect](https://www.macrumors.com/2024/01/04/kuo-iphone-17-to-feature-24mp-front-facing-camera/) that the selfie camera on the front of iPhone 17 models will offer 24-megapixel resolution, up from 12 megapixels on the iPhone 15.  
 
  Lastly, noted Apple analyst Kuo Ming-Chi suggests that[the camera lenses on the iPhone 17 will be built using 6 elements](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) , up from 5 on current models, which will improve image quality, especially in low-light situations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Phone Size
 
@@ -160,14 +138,11 @@ A September 2025 release date seems like a lock.
 
 [Why a Dedicated iPhone Video Button Is a Great Idea](https://www.lifewire.com/dedicated-iphone-video-button-8546938)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -176,4 +151,26 @@ A September 2025 release date seems like a lock.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-beyond-wirecast-top-video-broadcasting-software-for-2024/"><u>[New] Beyond WireCast Top Video Broadcasting Software for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-prime-vr-options-enhancing-drone-operations/"><u>[Updated] Prime VR Options Enhancing Drone Operations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-visual-narrative-crafting-your-podcasts-brand-image/"><u>[Updated] The Visual Narrative Crafting Your Podcast's Brand Image</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-share-tweets-whatsapp-video-broadcasting/"><u>2024 Approved Share Tweets WhatsApp Video Broadcasting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-gamers-with-funimate-knowledge/"><u>2024 Approved Transforming Gamers with Funimate Knowledge</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/begin-anew-with-your-iphone-n-15-expert-tips-for-a-successful-reboot/"><u>Begin Anew with Your iPhone N 15: Expert Tips for a Successful Reboot</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-steps-to-fully-remove-your-yahoo-email-profile/"><u>Complete Guide: Steps to Fully Remove Your Yahoo! Email Profile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/customize-your-chromecast-display-with-personalized-background-pictures/"><u>Customize Your Chromecast Display with Personalized Background Pictures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dciman32dll-not-detected-heres-how-you-can-resolve-it/"><u>dciman32.dll Not Detected? Here's How You Can Resolve It</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ting-your-youtube-stream-the-wirecast-way-for-2024/"><u>Elevating Your YouTube Stream The WireCast Way for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ensure-email-security-with-these-essential-steps-for-safelist-verification/"><u>Ensure Email Security with These Essential Steps for Safelist Verification</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-stanley-j5c09-reciprocating-saw-a-comprehensive-guide/"><u>Exploring the Stanley J5C09 Reciprocating Saw - A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-your-devices-optical-drive-when-it-refuses-to-open-or-release-discs/"><u>Fixing Your Device's Optical Drive When It Refuses to Open or Release Discs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/free-youtube-extractors-a-comprehensible-guide-for-beginners/"><u>Free YouTube Extractors A Comprehensible Guide for Beginners</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-keep-your-skype-running-smoothly-a-guide-with-10-proven-fixes/"><u>How To Keep Your Skype Running Smoothly: A Guide with 10 Proven Fixes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-free-security-camera-software-reviews-top-10-options-for-2024/"><u>New Free Security Camera Software Reviews Top 10 Options for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-for-backward-video-effects-in-snapchat-explained/"><u>The Ultimate Trick for Backward Video Effects in Snapchat Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-gaming-moments-how-to-create-memorable-video-captures-with-ps4/"><u>Unlocking Gaming Moments: How To Create Memorable Video Captures with PS4</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-streams-optimal-webm-converters-ranked/"><u>YouTube Streams Optimal WebM Converters Ranked</u></a></li>
+</ul></div>
 

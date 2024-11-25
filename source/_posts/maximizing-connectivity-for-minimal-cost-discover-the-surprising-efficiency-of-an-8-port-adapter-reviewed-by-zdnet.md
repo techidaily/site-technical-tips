@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Connectivity for Minimal Cost: Discover the Surprising Efficiency of an 8-Port Adapter Reviewed by ZDNET"
-date: 2024-11-15T04:45:56.884Z
-updated: 2024-11-16T06:47:15.169Z
+date: 2024-11-20T16:16:25.505Z
+updated: 2024-11-25T16:09:28.088Z
 tags:
   - apple
 categories:
@@ -45,10 +45,7 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Changes due to the pandemic
@@ -60,6 +57,10 @@ The last time I updated this guide was in early 2019\. Obviously, a few things h
 Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-office-20-years-of-refinement-and-evolution/). If I'm out, it's a dedicated out-and-back with a specific purpose. There is no meandering, browsing, or schmoozing. Yes, I know other people may feel comfortable going back to the pre-pandemic normal, but I have reasons for playing it a bit more safe than most might.
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tools for my daily flow
 
@@ -81,6 +82,10 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -90,6 +95,10 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -106,13 +115,6 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -142,10 +144,7 @@ I'm relatively holistic about my morning reading process. I do it until I'm bore
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Connecting and scheduling
@@ -192,13 +191,6 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -251,10 +243,7 @@ Finally, there's Planner Tentative. This is where I block out the approximate ti
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Rethinking your flow
@@ -286,21 +275,21 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-hot-oculus-vr-games-that-everyones-playing/"><u>[New] 2024 Approved Hot Oculus VR Games That Everyone's Playing</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-affordable-minecraft-video-graphics/"><u>[New] Affordable Minecraft Video Graphics</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-drone-buying-basics-must-know-points-before-shopping/"><u>[Updated] 2024 Approved Drone Buying Basics Must-Know Points Before Shopping</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-gamers-almanac-expert-tips-to-record-and-save-your-minecraft-sessions/"><u>[Updated] In 2024, Gamer's Almanac Expert Tips to Record and Save Your Minecraft Sessions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-using-google-analytics-for-growth/"><u>[Updated] The Ultimate Guide to Using Google Analytics for Growth</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/critical-system-files-restoration-addressing-the-absent-shell32dll-file/"><u>Critical System Files Restoration: Addressing the Absent shell32.dll File</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175710378-get-cold-pay-less-secure-arctics-high-efficiency-liquid-freezer-ii-aioldii-for-only-74-bucks/"><u>Get Cold, Pay Less: Secure Arctic's High-Efficiency Liquid Freezer II (AIOLDII) for Only 74 Bucks!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/86901847-in-2024-buy-subscribers-wisely-watch-your-numbers-soar/"><u>In 2024, Buy Subscribers Wisely, Watch Your Numbers Soar</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-free-animated-logo-design-software-top-picks-and-expert-advice-for-2024/"><u>New Free Animated Logo Design Software Top Picks and Expert Advice for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/switching-from-gmail-discover-the-leading-8-mail-providers-for-2n25/"><u>Switching From Gmail? Discover the Leading 8 Mail Providers for 2N25!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-anatomy-of-an-internet-meme-explained/"><u>The Anatomy of an Internet Meme Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-insightful-guide-to-facebooks-birthplace-appeal-reasons-and-core-elements/"><u>The Insightful Guide to Facebook's Birthplace, Appeal Reasons, and Core Elements</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-libcea32dll-missing-file-a-comprehensive-guide/"><u>Troubleshooting the libcea32.dll Missing File: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-dji-mavic-air-2s-top-of-the-line-drone-analysis/"><u>Ultimate Guide: DJI Mavic Air 2S - Top of the Line Drone Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722867210551-why-cant-i-find-libxmllibxml2httpsenwikipediaorgwikilibxml-dll-solutions-inside/"><u>Why Can't I Find Libxml^[libxml2](https://en.wikipedia.org/wiki/LibXML) DLL? Solutions Inside!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-is-my-apple-watch-touch-screen-not-working-how-to-fix-the-problem/"><u>Why Is My Apple Watch Touch Screen Not Working? How to Fix The Problem</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-evolutionary-leap-with-macos-11-big-sur-what-you-need/"><u>[New] 2024 Approved Evolutionary Leap with macOS 11 Big Sur – What You Need</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-complete-blueprint-for-exceptional-asmr-production-value/"><u>[New] The Complete Blueprint for Exceptional ASMR Production Value</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-android-no-cost-video-capture-tool/"><u>[Updated] In 2024, Android No-Cost Video Capture Tool</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-premium-download-experience-best-youtube-playlist-extractors-reviewed/"><u>[Updated] Premium Download Experience Best YouTube Playlist Extractors Reviewed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-sprinkle-life-into-text-two-methods-for-bouncing-effects/"><u>[Updated] Sprinkle Life Into Text Two Methods for Bouncing Effects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-top-2023-vr-engine-innovations/"><u>2024 Approved Unveiling Top 2023 VR Engine Innovations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-everything-release-date-cost-and-inside-look-at-samsung-galaxy-ring-features/"><u>Discover Everything - Release Date, Cost and Inside Look at Samsung Galaxy Ring Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-innovation-the-grand-debut-of-samsungs-new-device-lineup/"><u>Discovering Innovation: The Grand Debut of Samsung's New Device Lineup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-your-ig-videos-with-background-tracks-a-how-to/"><u>Enhancing Your IG Videos with Background Tracks - A How-To</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-prove-youre-a-real-account-the-journey-towards-instagram-verification/"><u>How to Prove You're a Real Account: The Journey Towards Instagram Verification</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-13-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 13 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/modify-your-flipbook-interface-editing-button-graphics-and-hues-with-flipbuildercom/"><u>Modify Your FlipBook Interface: Editing Button Graphics & Hues with FlipBuilder.com</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pixel-tablet-unveiling-whats-inside-teaser-on-upcoming-specs-and-release-timelines/"><u>Pixel Tablet Unveiling - What's Inside? Teaser on Upcoming Specs & Release Timelines</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-issue-steps-to-correct-bootmgr-is-absent/"><u>Resolving the Issue: Steps to Correct 'BOOTMGR Is Absent'</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/step-by-step-techniques-for-google-meet-coordination-for-2024/"><u>Step-by-Step Techniques for Google Meet Coordination for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-user-friendly-click-bots-for-your-android-phone-no-root-needed/"><u>The Ultimate List of User-Friendly Click Bots for Your Android Phone (No Root Needed)</u></a></li>
 </ul></div>
 

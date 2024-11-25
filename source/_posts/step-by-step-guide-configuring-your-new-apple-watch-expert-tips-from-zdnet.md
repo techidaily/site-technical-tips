@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Configuring Your New Apple Watch - Expert Tips From ZDNet"
-date: 2024-11-14T23:17:32.236Z
-updated: 2024-11-15T23:39:30.355Z
+date: 2024-11-18T17:14:48.458Z
+updated: 2024-11-25T17:23:04.557Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
@@ -59,16 +63,7 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -80,13 +75,6 @@ Once you're in the Slack settings pane, make sure Background App Refresh and Cel
 Now, back out to the top of the Settings app and tap the red Notifications icon. Make sure you Allow Notifications and turn on Time Sensitive Notifications. I also recommend you make sure Sounds is set to on. 
 
 Screenshot by David Gewirtz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
@@ -111,10 +99,7 @@ Screenshot by David Gewirtz/ZDNET
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
@@ -137,15 +122,16 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -193,14 +179,16 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-explore-the-pinnacle-of-editing-android-edition/"><u>[Updated] Explore the Pinnacle of Editing Android Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/accelerate-windows-11-boot-times-with-these-tips/"><u>Accelerate Windows 11 Boot Times with These Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/beat-chrome-barriers-unblock-websites-with-these-simple-tips/"><u>Beat Chrome Barriers: Unblock Websites with These Simple Tips</u></a></li>
-<li><a href="https://fox-http.techidaily.com/cinematic-clarity-expert-4k-screens-for-editing-artistry/"><u>Cinematic Clarity Expert 4K Screens for Editing Artistry</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversion-video-et-audition-transformez-votre-fichier-m4b-en-m4a-sans-cout-avec-movavi-en-ligne/"><u>Conversion Vidéo Et Audition : Transformez Votre Fichier M4B en M4A Sans Coût Avec Movavi En Ligne</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723807898710-immediate-fixes-for-the-camera-not-found-issue-on-your-pc-guide-updated/"><u>Immediate Fixes for the 'Camera Not Found' Issue on Your PC – Guide Updated!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/swimming-diving-and-more-in-high-res-with-insta360-x2/"><u>Swimming, Diving & More in High-Res with Insta360 X2</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-sky-battle-drone-racing-fundamentals-and-top-5-fpv-titans-for-2024/"><u>The Ultimate Sky Battle Drone Racing Fundamentals & Top 5 FPV Titans for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808201902-usb-selective-suspend-everything-you-need-to-know-about-it/"><u>USB Selective Suspend – Everything You Need to Know About It!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-key-steps-to-screen-record-on-your-phone/"><u>[Updated] In 2024, Key Steps to Screen Record on Your Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-refresh-cpu-driver-software-in-windows-systems/"><u>Easy Steps to Refresh CPU Driver Software in Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-social-media-presence-by-adding-pinterest-to-your-facebook-page-a-how-to-guide/"><u>Enhance Your Social Media Presence by Adding Pinterest to Your Facebook Page - A How-To Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-insights-on-the-effectiveness-of-western-digitals-datalifeguard-diagnostics-application/"><u>Expert Insights on the Effectiveness of Western Digital's DataLifeGuard Diagnostics Application</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/exploring-affordable-connectivity-a-comprehensive-tp-link-archer-c9-assessment/"><u>Exploring Affordable Connectivity: A Comprehensive TP-Link Archer C9 Assessment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-the-meta-quest-3-unveiling-specs-price-points-and-arrival-forecasts/"><u>Inside the Meta Quest 3: Unveiling Specs, Price Points, and Arrival Forecasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mac-users-guide-adjusting-for-non-accelerated-mouse-controls/"><u>Mac Users' Guide: Adjusting for Non-Accelerated Mouse Controls</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-troubleshooting-guide-resolving-sons-of-the-forest-game-crashes/"><u>PC Troubleshooting Guide: Resolving 'Sons of the Forest' Game Crashes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/perfectly-pairing-photos-step-by-step-guide/"><u>Perfectly Pairing Photos - Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-se-2022-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone SE (2022) SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-resource-consumption-by-msmpengine-in-windows-11/"><u>Troubleshooting High Resource Consumption by MsMpEngine in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Uncover the Mystery: Detecting If Someone's Using an AirTag on You"
-date: 2024-11-13T04:31:58.702Z
-updated: 2024-11-15T19:38:13.503Z
+date: 2024-11-22T17:20:02.435Z
+updated: 2024-11-25T16:01:36.611Z
 tags:
   - apple
 categories:
@@ -45,19 +45,6 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | iPhone 15    | iPhone 15 Plus                                    |                                                   |
@@ -74,10 +61,7 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -87,10 +71,7 @@ Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
@@ -147,6 +128,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -173,21 +158,16 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -224,22 +204,22 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-mastering-itunes-archives-in-3-easy-steps/"><u>[New] In 2024, Mastering iTunes Archives in 3 Easy Steps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-optimize-your-videos-discoverability-with-key-youtube-seo-strategies/"><u>[New] In 2024, Optimize Your Videos' Discoverability with Key YouTube SEO Strategies</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-chuckle-cache-the-ultimate-free-meme-compendium/"><u>[Updated] 2024 Approved Chuckle Cache The Ultimate Free Meme Compendium</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-9-metaverse-blueprints-illuminating-virtual-realities/"><u>2024 Approved 9 Metaverse Blueprints Illuminating Virtual Realities</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-sculpting-shareable-online-laughter/"><u>2024 Approved Sculpting Shareable Online Laughter</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/budget-friendly-apeman-c450-dash-cam-comprehensive-review-and-ratings/"><u>Budget-Friendly Apeman C450 Dash Cam - Comprehensive Review and Ratings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-history-of-aim-america-onlines-messaging-legacy/"><u>Exploring the History of AIM - America Online's Messaging Legacy</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-realme-narzo-60-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Realme Narzo 60 5G</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-instant-access-windows-photos-view/"><u>In 2024, Instant Access Windows Photos View</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-gps-coordinates-how-to-add-multiple-waypoints-in-google-maps/"><u>Mastering GPS Coordinates: How to Add Multiple Waypoints in Google Maps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ntdlldll-troubles-overcome-common-errors-across-different-windows-platforms/"><u>Ntdll.dll Troubles? Overcome Common Errors Across Different Windows Platforms</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/purchasing-e-books-on-your-ios-device-a-step-by-step-guide-with-apples-books-app/"><u>Purchasing E-Books on Your iOS Device: A Step-by-Step Guide with Apple's Books App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solve-the-missing-dll-dilemma-a-guide-to-correcting-msvbvm50dll-issues/"><u>Solve the Missing DLL Dilemma: A Guide to Correcting msvbvm50.dll Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-restoring-sound-functionality-in-chromecast-devices/"><u>Step-by-Step Solutions: Restoring Sound Functionality in Chromecast Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/the-rise-of-the-slabtop-revolutionary-ideas-for-personalizing-your-apple-laptops-design/"><u>The Rise of the SLABTOP: Revolutionary Ideas for Personalizing Your Apple Laptop's Design</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-how-to-correctly-address-a-missing-advapi32dll-error-message/"><u>Troubleshooting Guide: How to Correctly Address a Missing Advapi32.dll Error Message</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-syncing-your-fire-stick-with-the-perfect-remote/"><u>Ultimate Guide: Syncing Your Fire Stick with the Perfect Remote</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-sites-for-fetching-video-intro-files/"><u>[New] In 2024, Essential Sites for Fetching Video Intro Files</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-expert-obs-tutorial-for-effective-skype-recording/"><u>[Updated] 2024 Approved Expert OBS Tutorial for Effective Skype Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-fast-and-fun-the-quick-guide-to-taking-screenshots-on-chromebook/"><u>[Updated] Fast & Fun The Quick Guide to Taking Screenshots on Chromebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-explore-youtubes-9-premium-full-length-christmas-flicks/"><u>[Updated] In 2024, Free Explore YouTube's 9 Premium Full-Length Christmas Flicks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/arranging-expert-help-securing-an-apple-genius-bar-appointment/"><u>Arranging Expert Help: Securing an Apple Genius Bar Appointment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blur-it-out-simplified-identity-obscuration-techniques/"><u>Blur It Out Simplified Identity Obscuration Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-gaming-tools-and-extras-the-top-5-picks-for-young-gamers-playtime/"><u>Essential Gaming Tools and Extras: The Top 5 Picks for Young Gamers' Playtime</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722859832850-get-the-scoop-on-apples-latest-rumored-touchscreen-macbook-price-estimates-and-speculated-specifications-inside/"><u>Get the Scoop on Apple's Latest Rumored Touchscreen MacBook - Price Estimates and Speculated Specifications Inside</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-vcompdll-file-missing-or-corrupted-on-your-computer/"><u>How to Fix vcomp.dll File Missing or Corrupted on Your Computer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-there-a-widespread-xbox-network-failure-or-connectivity-problems-at-home/"><u>Is There a Widespread Xbox Network Failure, or Connectivity Problems at Home?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ssl-troubleshooting-tips-for-a-safe-and-private-internet-connection/"><u>SSL Troubleshooting Tips for a Safe and Private Internet Connection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamline-pinning-top-5-tools-for-efficiently-managing-your-pinterest-content/"><u>Streamline Pinning: Top 5 Tools for Efficiently Managing Your Pinterest Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sync-and-save-your-snaps-how-to-move-from-google-photos-to-icloud-seamlessly/"><u>Sync and Save Your Snaps: How To Move From Google Photos To iCloud Seamlessly</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-leading-speech-transcription-tools-for-smartphones-android-and-iphone-edition/"><u>Updated 2024 Approved Leading Speech Transcription Tools for Smartphones - Android and iPhone Edition</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/windowsgopro/"><u>Windows上でGoPro映像をスムーズに回転・反転するテクニック</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winx-dvd-ripper-platinum-windows-1132dvd/"><u>WinX DVD Ripper Platinum: Windows 11上極速32倍DVD還原解碼工具</u></a></li>
 </ul></div>
 

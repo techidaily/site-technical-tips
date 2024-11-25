@@ -1,7 +1,7 @@
 ---
 title: Apple's Mac Mini Upgrades to M2 Chip Hit Historic Low at Just $479 – TechRadar Breaking News
-date: 2024-11-14T00:22:15.216Z
-updated: 2024-11-16T05:06:52.353Z
+date: 2024-11-24T16:05:54.636Z
+updated: 2024-11-25T16:02:22.476Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Just like its predecessor the M1 Mac Mini, the M2 Mac Mini doesn't have an overa
 **Review:** [**Apple Mac Mini M2 (2023)**](https://www.zdnet.com/article/apple-mac-mini-2023-review/)
 
 If you're looking to snag the M2 Mac mini for school, work, or personal use, there's no better time than right now, when it is available for $120 off and its lowest price yet. Shop this deal at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BSHGHGXR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca21b8445-890b-4e49-8d42-015bfc994404%7Cdtp&dtb=1) while stock and these savings last. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -75,23 +79,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-top-cinematographer-secrets-for-exceptional-visuals/"><u>[New] In 2024, Top Cinematographer Secrets for Exceptional Visuals</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-7-essential-audio-tools-for-personal-vocal-customization/"><u>[Updated] 2024 Approved 7 Essential Audio Tools for Personal Vocal Customization</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-groundbreaking-alternatives-to-the-conventional-fbx-recorder-games/"><u>2024 Approved Groundbreaking Alternatives to the Conventional FBX Recorder Games</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-rapid-retrieval-for-missed-snaps/"><u>In 2024, Rapid Retrieval for Missed Snaps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/installing-auto-gpt-a-complete-ubuntu-tutorial/"><u>Installing Auto-GPT: A Complete Ubuntu Tutorial</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017058339-realtek-hd-audio-manager-problem-here-are-proven-ways-to-get-it-running/"><u>Realtek HD Audio Manager Problem? Here Are Proven Ways to Get It Running</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-swift-way-updating-and-maintaining-windows-11-driver-versions-with-ease/"><u>The Swift Way: Updating and Maintaining Windows 11 Driver Versions with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-a-black-screen-issue-with-your-pcs-webcam-in-windows-11-and-10/"><u>Troubleshooting a Black Screen Issue with Your PC's Webcam in Windows 11 & 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-how-to-fix-when-an-external-hdd-is-unseen-by-windows-11-systems/"><u>Troubleshooting: How to Fix When an External HDD Is Unseen by Windows 11 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tutorial-securing-your-workstation-with-a-wifi-network/"><u>Tutorial: Securing Your Workstation with a WiFi Network</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-your-potential-in-chatbot-dialogue-dynamics/"><u>Unlock Your Potential in Chatbot Dialogue Dynamics</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-significance-of-analytics-in-youtube-rank-enhancement/"><u>[New] The Significance of Analytics in YouTube Rank Enhancement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-release-google-pixel-watch-price-and-features-leak-details/"><u>Anticipating the Release: Google Pixel Watch Price & Features Leak Details</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dont-miss-a-beat-11-tricks-to-fix-your-iphones-ring-call-problems/"><u>Don't Miss a Beat: 11 Tricks to Fix Your iPhone's Ring Call Problems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/evaluating-freenocam-for-professional-webcam-use-for-2024/"><u>Evaluating FreenoCam for Professional Webcam Use for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/find-unbeatable-prices-on-desktops-and-notebooks-for-202n4/"><u>Find Unbeatable Prices on Desktops and Notebooks for 202N4</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/handling-unexpected-car-radio-failures-tips-and-solutions/"><u>Handling Unexpected Car Radio Failures: Tips and Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-boost-performance-and-eliminate-glitches-on-red-dead-redemption-2/"><u>How to Boost Performance & Eliminate Glitches on Red Dead Redemption 2</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximizing-sound-quality-with-upgraded-nvidia-audio-for-win11/"><u>Maximizing Sound Quality with Upgraded NVIDIA Audio for Win11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-common-hurdles-in-uploading-and-sharing-your-instagram-stories/"><u>Overcoming Common Hurdles in Uploading and Sharing Your Instagram Stories</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/starting-right-the-ultimate-5-step-setup-for-your-new-device/"><u>Starting Right: The Ultimate 5-Step Setup for Your New Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-crafting-the-perfectly-uncomfortable-potion-in-minecraft/"><u>Step-by-Step Guide: Crafting the Perfectly Uncomfortable Potion in Minecraft</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-66-best-travel-tweeters-deals-advice-and-adventures/"><u>The 66 Best Travel Tweeters: Deals, Advice & Adventures</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

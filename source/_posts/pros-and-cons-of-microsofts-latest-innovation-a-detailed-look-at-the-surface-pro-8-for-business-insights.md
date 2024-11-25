@@ -1,7 +1,7 @@
 ---
 title: "Pros and Cons of Microsoft's Latest Innovation: A Detailed Look at the Surface Pro 8 for Business Insights"
-date: 2024-11-11T03:40:46.176Z
-updated: 2024-11-16T00:56:38.592Z
+date: 2024-11-23T16:03:13.517Z
+updated: 2024-11-25T16:41:17.647Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ While this move towards a [more integrated software environment](https://www.zdn
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Observations of the new S2 UX
 
 The new Sonos S2 controller app for iPadOS.
@@ -57,10 +61,7 @@ It is uncertain whether the codebase is entirely unified. The missing configurat
 Nevertheless, the consistent visual appearance across all platforms significantly enhances the user experience.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The harmonious: advantages of Sonos' web-based platform
@@ -76,16 +77,7 @@ The primary advantage of Sonos' new software strategy lies in its apparent commi
 The updated software sports a cleaner design and boasts enhanced functionality, such as improved search capabilities, making it easier for users to find their favorite music and podcasts. This focus on usability can significantly enhance user satisfaction and cement Sonos's reputation as a user-centric brand.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The dissonant: the challenge of hardware compatibility and loss of functionality
@@ -107,10 +99,7 @@ The biggest source of anguish from Sonos customers is that the new S2 update als
 The company is [hosting an AMA on May 14th](https://en.community.sonos.com/events/sonos-app-redesign-ama-6) to address customer concerns about these redesign issues.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The bigger picture: software over hardware?
@@ -128,10 +117,7 @@ Instead of buying new hardware, consumers might want to consider how long their 
 Companies like Sonos that balance innovation with support for legacy systems are likely to retain loyal customers. Being transparent about product lifecycles and offering programs to help customers upgrade older, incompatible devices could alleviate dissatisfaction.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Looking forward: the role of innovation in user experience
@@ -172,16 +158,22 @@ Although Sonos' new software platform simplifies audio control, it raises questi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-perfect-your-pixels-select-best-10-online-enhancement-apps/"><u>[New] Perfect Your Pixels Select Best 10 Online Enhancement Apps</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-outro-crafting-for-beginners-top-6-free-resources/"><u>2024 Approved Outro Crafting for Beginners Top 6 Free Resources</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/booking-an-in-store-appointment-with-apple-a-complete-how-to/"><u>Booking an In-Store Appointment with Apple - A Complete How-To</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/comment-ajouter-un-deuxieme-hdd-a-votre-pc-avec-windows-10-guides-complets-et-facile/"><u>Comment Ajouter Un Deuxième HDD À Votre PC Avec Windows 10 : Guides Complets Et Facile</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-the-past-of-im-technology-insights-into-what-is-aim/"><u>Decoding the Past of IM Technology - Insights Into What Is AIM?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/disabling-microsofts-sticky-keys-feature-in-windows-a-comprehensive-guide/"><u>Disabling Microsoft's Sticky Keys Feature in Windows - A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-zlibdll-not-found-or-missing-errors/"><u>How to Fix Zlib.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-unveils-easy-to-use-data-restoration-tool-for-consumers/"><u>Stellar Unveils Easy-to-Use Data Restoration Tool for Consumers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-samsung-galaxy-watch-7-release-schedule-value-for-money-and-tech-insights/"><u>Unveiling the Samsung Galaxy Watch 7: Release Schedule, Value for Money & Tech Insights</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/web-windows-10-voice-recorder/"><u>Webミーティングの録音手引: Windows 10 Voice Recorder使用法</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/zoom-like-a-pro-with-nikons-newest-wonder-p1000/"><u>Zoom Like a Pro with Nikon's Newest Wonder, P1000</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimal-solutions-for-webp-to-jpg-image-transformation/"><u>[New] Optimal Solutions for WebP-to-JPG Image Transformation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-best-practices-for-efficient-slide-capture/"><u>[Updated] Best Practices for Efficient Slide Capture</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-elevate-your-online-presence-advanced-techniques-in-zoom-video-sharing/"><u>[Updated] In 2024, Elevate Your Online Presence Advanced Techniques in Zoom Video Sharing</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhance-listening-pleasure-constructing-a-youtube-playlist/"><u>2024 Approved Enhance Listening Pleasure Constructing a YouTube Playlist</u></a></li>
+<li><a href="https://techtrends.techidaily.com/affordable-learning-gadgets-navigating-the-process-of-securing-a-dell-academic-discount/"><u>Affordable Learning Gadgets: Navigating the Process of Securing a Dell Academic Discount</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-comparison-apples-ios-app-store-vs-google-play/"><u>Comprehensive Comparison: Apple's IOS App Store Vs. Google Play</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/elevate-your-spirit-with-these-10-must-see-movies-for-2024/"><u>Elevate Your Spirit with These 10 Must-See Movies for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-fast-access-memory-determines-your-desktops-responsiveness/"><u>How Fast-Access Memory Determines Your Desktop's Responsiveness</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-intova-x-changes-action-camera-game-for-2024/"><u>How Intova X Changes Action Camera Game for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-languages-with-ease-reviewing-6-superior-offline-translator-apps/"><u>Navigating Languages with Ease: Reviewing 6 Superior Offline Translator Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-system-crashes-a-tutorial-on-kernel32dll-recovery/"><u>Overcoming System Crashes: A Tutorial on Kernel32.dll Recovery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-upgrading-your-ps5-with-a-solid-state-drive/"><u>Step-by-Step Guide: Upgrading Your PS5 with a Solid State Drive</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-customizing-chromecast-display-settings/"><u>Step-by-Step Tutorial on Customizing Chromecast Display Settings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-top-5-key-discovery-solutions-of-the-year-2024/"><u>The Top 5 Key Discovery Solutions of the Year 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/top-rated-pc-window-dvd-to-mkv-converters-of-2024-a-comprehensive-guide/"><u>Top-Rated PC Window DVD to MKV Converters of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-electric-vehicles-bev-phev-fcev-and-hybrids-the-key-distinctions/"><u>Understanding Electric Vehicles: BEV, PHEV, FCEV & Hybrids - The Key Distinctions</u></a></li>
 </ul></div>
 

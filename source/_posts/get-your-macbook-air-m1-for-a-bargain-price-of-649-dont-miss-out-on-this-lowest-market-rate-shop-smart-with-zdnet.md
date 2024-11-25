@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Air M1 for a Bargain Price of $649! Don't Miss Out on This Lowest Market Rate | Shop Smart with ZDNET
-date: 2024-11-10T20:22:51.696Z
-updated: 2024-11-15T22:32:23.126Z
+date: 2024-11-23T17:15:10.295Z
+updated: 2024-11-25T16:35:47.812Z
 tags:
   - apple
 categories:
@@ -41,6 +41,10 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Walmart's new partnership with Apple allows them to sell computers and laptops directly to customers, a first for the retailer. As such, there's no expiration date for the M1 MacBook Air for $649, but they almost certainly won't stay in stock long at this price. Similarly, Best Buy's $699 price has potential to sell out quick, too. 
@@ -77,26 +81,22 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-beyond-the-norm-a-review-of-the-4kcg318-display-by-eizo/"><u>[New] Beyond the Norm A Review of the 4KCG318 Display by EIZO</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-navigating-the-starscape-a-guide-to-influencers-for-your-needs/"><u>2024 Approved Navigating the Starscape A Guide to Influencers for Your Needs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722890530608-ipad-wont-connect-to-wi-fi-heres-how-you-can-fix-it/"><u>IPad Won't Connect to Wi-Fi? Here’s How You Can Fix It!</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-work-smarter-not-harder-top-adobe-premiere-shortcuts-and-tricks/"><u>New 2024 Approved Work Smarter, Not Harder Top Adobe Premiere Shortcuts and Tricks</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-x8b-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor X8b? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-15-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 15 Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-sound-glitches-and-audio-quirks-in-windows-107-a-complete-fix-guide/"><u>Resolving Sound Glitches & Audio Quirks in Windows 10/7 – A Complete Fix Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellars-success-story-reviving-dead-hard-drives/"><u>Stellar's Success Story: Reviving Dead Hard Drives</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-precision-of-portioning-video-length-optimization-on-youtube/"><u>The Precision of Portioning Video Length Optimization on YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-properly-referencing-your-conversations-with-chatgpt/"><u>The Ultimate Guide: Properly Referencing Your Conversations with ChatGPT</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-vanishing-wi-fi-dilemamo-tips-for-restoring-your-networks-presence/"><u>The Vanishing Wi-Fi Dilemamo: Tips for Restoring Your Network's Presence</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-secrets-behind-oled-detailed-insights-into-its-workings/"><u>Unveiling the Secrets Behind OLED - Detailed Insights Into Its Workings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/update-your-viewing-experience-how-to-install-a-new-internet-browser-on-your-samsung-tv/"><u>Update Your Viewing Experience: How to Install a New Internet Browser on Your Samsung TV</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-understanding-gb-requirement-for-a-days-film/"><u>[New] In 2024, Understanding GB Requirement for a Day's Film</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unlocking-potential-effective-use-of-zoom-on-win11-pcs/"><u>2024 Approved Unlocking Potential Effective Use of Zoom on Win11 PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/android-tips-for-protecting-your-personal-phone-number-from-unwanted-views/"><u>Android Tips for Protecting Your Personal Phone Number From Unwanted Views</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bypassing-traditional-isps-unplugged-solutions-for-modern-internet-access/"><u>Bypassing Traditional ISPs: Unplugged Solutions for Modern Internet Access</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-mozilla-thunderbird-version-52-the-latest-email-client-update/"><u>Discover Mozilla Thunderbird Version 52: The Latest Email Client Update</u></a></li>
+<li><a href="https://win-lab.techidaily.com/effektive-methoden-zur-wiederherstellung-verlorener-daten-auf-sandisk-speichermedien-erklart/"><u>Effektive Methoden Zur Wiederherstellung Verlorener Daten Auf SanDisk Speichermedien Erklärt</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-insights-on-lg-channels-a-complete-guide/"><u>Essential Insights on LG Channels - A Complete Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722899819887-explore-the-best-ai-conversational-agents-beyond-chatgpt/"><u>Explore the Best AI Conversational Agents Beyond ChatGPT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gopros-rivalry-with-drift-ghost-the-racing-camera-faceoff/"><u>GoPro's Rivalry with Drift Ghost - The Racing Camera Faceoff</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-y27s-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo Y27s to iPod | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-score-high-on-youtube-with-these-ranking-factors/"><u>In 2024, Score High on YouTube with These Ranking Factors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-streaming-disneyplus-on-your-tv-via-chromecast/"><u>Step-by-Step Guide: Streaming Disney+ on Your TV via Chromecast</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-enjoying-android-experience-on-your-windows-10-computer/"><u>Step-by-Step Instructions for Enjoying Android Experience on Your Windows 10 Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-compendium-to-diagnose-your-pcs-bsod-codes/"><u>The Definitive Compendium to Diagnose Your PC's BSOD Codes</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-13c-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi 13C Reset Code | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwind-in-stillness-with-idle-titles/"><u>Unwind in Stillness with Idle Titles</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

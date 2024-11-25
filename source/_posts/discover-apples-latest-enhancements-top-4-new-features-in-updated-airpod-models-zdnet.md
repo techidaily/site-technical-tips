@@ -1,7 +1,7 @@
 ---
 title: "Discover Apple's Latest Enhancements: Top 4 New Features in Updated AirPod Models - ZDNet"
-date: 2024-11-09T16:32:23.150Z
-updated: 2024-11-16T00:47:44.274Z
+date: 2024-11-21T17:11:19.478Z
+updated: 2024-11-25T16:38:50.963Z
 tags:
   - apple
 categories:
@@ -39,10 +39,7 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Pause your rings
@@ -60,10 +57,7 @@ The feature plays into the Apple Watch's cycle-tracking experience, so everythin
 Apple
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More widgets for your Smart Stack, including Live Activities
@@ -75,6 +69,10 @@ Apple is adding one for Shazam, Photos, Distance, and more. Plus, Smart Stack ca
 Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live events, Ubers, food orders, and more on your wrist.
 
 Apple
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. The Photos face, powered by machine learning
 
@@ -91,22 +89,12 @@ Double tap gesture on Apple Watch Series 9.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
 
@@ -121,6 +109,10 @@ Apple is adding the Translate app to WatchOS 11, allowing you to translate in an
 ## 10\. Improved workout tracking for GPS-specific workouts
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Tickets in your Wallet get an upgrade
 
@@ -160,21 +152,17 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-ultimate-free-stopwatches-without-a-price-tag/"><u>[Updated] Ultimate Free Stopwatches Without a Price Tag</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/banish-libxml2dll-not-found-messages-proven-fixes-to-get-your-system-running-again/"><u>Banish 'Libxml2.dll Not Found' Messages: Proven Fixes to Get Your System Running Again</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/efficient-techniques-for-unwrapping-backgrounds-in-affinity-photo/"><u>Efficient Techniques for Unwrapping Backgrounds in Affinity Photo</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-the-top-5-free-alternatives-to-skype-in-2e-e/"><u>Explore the Top 5 Free Alternatives to Skype in 2E! (E)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/instagram-writers-and-broadcasters-podcast-sharing-explained-for-2024/"><u>Instagram’ Writers & Broadcasters Podcast Sharing Explained for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/multiple-bluetooth-audio-devices-sync-with-one-the-ultimate-tutorial/"><u>Multiple Bluetooth Audio Devices Sync with One: The Ultimate Tutorial</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-common-challenges-with-windows-10/"><u>Overcoming Common Challenges with Windows 지구류 10 검색기</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-editors-roadmap-to-perfection-in-fcp/"><u>The Editor's Roadmap to Perfection in FCP</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-factors-to-evaluate-when-purchasing-pre-owned-ipads/"><u>Top 5 Factors to Evaluate When Purchasing Pre-Owned iPads</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-6-strategies-to-find-your-ideal-selfie-extension/"><u>Top 6 Strategies to Find Your Ideal Selfie Extension</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshoot-youtube-stuttering-with-easy-and-free-techniques/"><u>Troubleshoot YouTube Stuttering with Easy & Free Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-and-solving-the-mystery-of-the-disappearing-wlanapidll-file/"><u>Understanding and Solving The Mystery of the Disappearing WLANAPI.DLL File</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-the-rules-owning-and-operating-multiple-youtube-channels/"><u>Understanding the Rules: Owning and Operating Multiple YouTube Channels</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-toms-hardware-insights/"><u>Unveiling the Latest in Computing - Tom's Hardware Insights</u></a></li>
-<li><a href="https://fox-links.techidaily.com/vivid-color-equilibrium-for-2024/"><u>Vivid Color Equilibrium for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-utilizing-slug-lines-for-better-content-structure/"><u>[New] Utilizing Slug Lines for Better Content Structure</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-download-custom-mcb-banner-packs/"><u>[Updated] In 2024, Download Custom MCB Banner Packs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-best-sites-to-download-free-slideshow-templates-filmora/"><u>10 Best Sites to Download Free Slideshow Templates - Filmora</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-10-favorites-spotify-edition/"><u>2024 Approved Top 10 Favorites Spotify Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/android-trouble-heres-how-to-fix-incoming-text-alerts-not-working/"><u>Android Trouble? Here’s How to Fix Incoming Text Alerts Not Working</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211372509-9781923009196-chakras/"><u>Chakras | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disabling-amber-alerts-on-your-android-device-the-ultimate-guide/"><u>Disabling AMBER Alerts on Your Android Device: The Ultimate Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/get-into-it-the-next-level-conversation-ai/"><u>Get Into It: The Next-Level Conversation AI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-long-lasting-mobile-use-with-constant-battery-saver-activation/"><u>Mastering Long-Lasting Mobile Use with Constant Battery Saver Activation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-suddenly-silent-car-radios-expert-advice/"><u>Quick Fixes for Suddenly Silent Car Radios: Expert Advice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-shell32dll-file-cannot-be-found-issue/"><u>Resolving the 'Shell32.dll File Cannot Be Found' Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zoom-connection-difficulties-how-do-i-know-if-its-the-platform-or-me/"><u>Zoom Connection Difficulties: How Do I Know If It's The Platform Or Me?</u></a></li>
 </ul></div>
 

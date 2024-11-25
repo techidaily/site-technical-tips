@@ -1,7 +1,7 @@
 ---
 title: "Inside Scoop on Google's Upcoming Extravaganza: Breaking News & Forecast Analysis"
-date: 2024-09-09T13:27:44.668Z
-updated: 2024-09-10T13:27:44.668Z
+date: 2024-11-21T16:13:05.590Z
+updated: 2024-11-25T16:03:28.809Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Scoop on Google's Upcoming Extravaganza: Breaking News & Forecast Analysis"
@@ -9,18 +9,6 @@ excerpt: "This Article Describes Inside Scoop on Google's Upcoming Extravaganza:
 thumbnail: https://thmb.techidaily.com/287414ff43ab53f27880b8114eed3693184381a70cdfc416ba85990af80f04e8.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Upcoming Google TV Streaming Device - Latest Info on Costs, Launch Timeline, Features & Hidden Gossip
 
 In This Article
@@ -38,11 +26,9 @@ In This Article
  Rumors say the company will announce this Google TV streaming device at[the next Google event](https://www.lifewire.com/google-event-5205756) in August. This is the same event poised to introduce several other Google products like the[Pixel Watch 3](https://www.lifewire.com/google-pixel-watch-3-8431024) and[Pixel 9 smartphone](https://www.lifewire.com/google-pixel-9-8630767) .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 August 13 is our best guess.
@@ -52,11 +38,9 @@ August 13 is our best guess.
  The only reference point we have to price this new[streaming device](https://www.lifewire.com/what-is-a-streaming-device-5208767) is Google's 4K Chromecast with Google TV, which is priced at $50\. They could easily drop that price and slot the Google TV Streamer in its place. If not, the most we can see Google charging for the Google TV Streamer is $70.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Pre-orders for the Google TV Streamer will probably start immediately following its announcement on August 13.
@@ -66,19 +50,11 @@ August 13 is our best guess.
 ![The Google TV Streamer and remote](https://www.lifewire.com/thmb/-vnWbTJuk9OzmaxhkBjEiqhYPRA=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/google-tv-streamer-remote-f778bf371f604247a3e9592a4f4d4f6b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9to5Google
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Google TV Streamer Specs & Features
 
  In the picture above, you can see that, apart from the remote, this device looks nothing like the Chromecast with Google TV. Otherwise, we think it will work exactly like a Chromecast, letting you stream music and videos from online services and cast media to it from other devices.
@@ -93,20 +69,16 @@ August 13 is our best guess.
 
 ![Google TV Streamer remote](https://www.lifewire.com/thmb/a47wfU6UCU7urolc1HR8HsvT2D8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-TV-Streamer-Remote-ee116f9ff7d44f16a632d2414517c129.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9to5Google
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Google TV Streamer
 
  You can[read all the latest on streaming devices here on Lifewire](https://www.lifewire.com/streaming-news-4797038) . Below are some stories about Google products that you might find interesting.
@@ -117,14 +89,11 @@ August 13 is our best guess.
 
 [Chromecast vs. Roku: Which Streaming Device Is Better?](https://www.lifewire.com/chromecast-vs-roku-4580492)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,4 +102,26 @@ August 13 is our best guess.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-chortle-chamber-ideas-for-7-amusing-online-sessions/"><u>[New] 2024 Approved Chortle Chamber Ideas for 7 Amusing Online Sessions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-gopro-hero-5-black-vs-nikon-keymission-170-action-camera-which-is-better/"><u>[Updated] 2024 Approved GoPro Hero 5 Black vs Nikon Keymission 170 Action Camera Which Is Better?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pros-hunters-rate-action-camera-winners/"><u>[Updated] Pros Hunters Rate Action Camera Winners</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-compilation-of-ultimate-gratuitous-lut-downloads/"><u>2024 Approved Compilation of Ultimate, Gratuitous LUT Downloads</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-itel-a60s-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Itel A60s Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-secrets-of-amazons-prime-day-event-a-full-breakdown/"><u>Decoding the Secrets of Amazon's Prime Day Event : A Full Breakdown</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-xiaomi-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Xiaomi ? </u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimizing-ios-display-tips-for-effective-zoom-functionality-on-iphones-and-ipads/"><u>Optimizing iOS Display: Tips for Effective Zoom Functionality on iPhones and iPads</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-hurdles-in-the-updated-version-of-nier-replicant/"><u>Overcoming Launch Hurdles in the Updated Version of NieR Replicant</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fixes-handling-absent-or-lost-propsysdll-files-on-your-pc/"><u>Quick Fixes: Handling Absent or Lost Propsys.dll Files on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/restoring-your-facebook-experience-solutions-to-the-missing-dark-mode/"><u>Restoring Your Facebook Experience: Solutions to the Missing Dark Mode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/retrieve-your-overlooked-email-information-with-these-simple-steps/"><u>Retrieve Your Overlooked Email Information with These Simple Steps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/revolutionize-your-virtual-engagements-with-advanced-google-meet-customization/"><u>Revolutionize Your Virtual Engagements with Advanced Google Meet Customization</u></a></li>
+<li><a href="https://fox-within.techidaily.com/securely-deleting-your-hard-drive-a-guide-to-the-gutmann-method-of-data-wiping/"><u>Securely Deleting Your Hard Drive: A Guide to the Gutmann Method of Data Wiping</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/simple-solutions-for-repairing-a-compromised-systems-primary-storage-section/"><u>Simple Solutions for Repairing a Compromised System's Primary Storage Section</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-repair-instructions-correcting-the-bootmgr-is-not-found-error-in-windows/"><u>Step-by-Step Repair Instructions: Correcting the 'BOOTMGR Is Not Found' Error in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshoot-chromebook-stuck-situations-using-our-proven-8-fixes/"><u>Troubleshoot Chromebook Stuck Situations Using Our Proven 8 Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-for-entering-and-exiting-iphone-recovery-mode-with-ease/"><u>Ultimate Tutorial for Entering and Exiting iPhone Recovery Mode with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/virtual-viewers-manual-how-to-stream-the-worldwide-sports-gala-of-2024-summer-olympics/"><u>Virtual Viewers' Manual: How to Stream the Worldwide Sports Gala of 2024 Summer Olympics</u></a></li>
+</ul></div>
 

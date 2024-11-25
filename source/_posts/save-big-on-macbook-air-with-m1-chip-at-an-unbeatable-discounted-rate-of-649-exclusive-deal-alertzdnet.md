@@ -1,7 +1,7 @@
 ---
 title: Save Big on MacBook Air with M1 Chip at an Unbeatable Discounted Rate of $649 – Exclusive Deal Alert![ZDNet]
-date: 2024-11-08T20:14:47.104Z
-updated: 2024-11-15T18:59:48.846Z
+date: 2024-11-23T16:08:33.170Z
+updated: 2024-11-25T16:13:10.659Z
 tags:
   - apple
 categories:
@@ -41,6 +41,10 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Walmart's new partnership with Apple allows them to sell computers and laptops directly to customers, a first for the retailer. As such, there's no expiration date for the M1 MacBook Air for $649, but they almost certainly won't stay in stock long at this price. Similarly, Best Buy's $699 price has potential to sell out quick, too. 
@@ -77,31 +81,24 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-safe-methods-transforming-youtube-audio-into-mp3-files-efficiently/"><u>[New] In 2024, Safe Methods Transforming YouTube Audio Into MP3 Files Efficiently</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-instagram-savvy-strategists-guide-to-understanding-engagement-figures/"><u>[Updated] In 2024, The Instagram Savvy Strategist’s Guide to Understanding Engagement Figures</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-comprehensive-walkthrough-on-resetting-an-iphone-eighteen-15/"><u>A Comprehensive Walkthrough on Resetting an iPhone Eighteen (15)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/easier-cinematography-perfecting-fade-effects/"><u>Easier Cinematography Perfecting Fade Effects</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-viral-videos-to-goodbye-closing-your-tiktok-account-securely/"><u>From Viral Videos to Goodbye: Closing Your TikTok Account Securely</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-google-pixel-fold-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Google Pixel Fold Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-insert-a-line-in-word/"><u>How to Insert a Line in Word</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/immerse-yourself-in-cinematic-excellence-15-must-watch-dolby-atmos-movies-at-home/"><u>Immerse Yourself in Cinematic Excellence: 15 Must-Watch Dolby Atmos Movies at Home</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-13-mini-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 13 mini to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-lava-storm-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Lava Storm 5G Phones with/without a PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-xr21-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia XR21 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-instant-ideas-recording-ppts-with-ease/"><u>In 2024, Instant Ideas Recording PPTs with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/managing-icloud-photo-deletion-while-retaining-copies-on-your-iphone-device/"><u>Managing iCloud Photo Deletion While Retaining Copies On Your iPhone Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-solutions-reinstating-original-configurations-in-samsung-soundbars/"><u>Simple Solutions: Reinstating Original Configurations in Samsung Soundbars</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simplify-purchases-a-step-by-step-tutorial-for-using-apple-pay-feature-on-the-apple-watch/"><u>Simplify Purchases: A Step-by-Step Tutorial for Using Apple Pay Feature on the Apple Watch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-art-of-hidden-web-trails-in-top-browsers-like-chrome-edge-firefox-safari-and-opera/"><u>The Art of Hidden Web Trails in Top Browsers Like Chrome, Edge, Firefox, Safari, and Opera</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tips-for-pinning-live-chats-on-your-instagram-profile/"><u>Top Tips for Pinning Live Chats on Your Instagram Profile</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-poco-m6-pro-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Poco M6 Pro 5G FRP Bypass</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unpacking-the-differences-level-1-level-2-and-level-3-ev-chargers-simplified/"><u>Unpacking the Differences: Level 1, Level 2 & Level 3 EV Chargers Simplified</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-compreehing-and-engaging-with-your-twitter-archive-for-2024/"><u>[New] Compreehing & Engaging with Your Twitter Archive for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-podcast-titling-evolution-10-ai-generators-to-watch/"><u>[Updated] 2024 Approved Podcast Titling Evolution 10 AI Generators to Watch</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-going-against-gravity-innovative-ways-to-rewind-youtube-content/"><u>[Updated] Going Against Gravity Innovative Ways to Rewind YouTube Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-beauty-tutorials-unveiled-creating-a-youtube-channel-from-scratch/"><u>[Updated] In 2024, Beauty Tutorials Unveiled Creating a YouTube Channel From Scratch</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Xiaomi Redmi Note 12 Pro 4G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decode-and-conquer-effective-strategies-for-resolving-500-server-code-red-alerts/"><u>Decode and Conquer: Effective Strategies for Resolving 500 Server Code Red Alerts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-green-label-are-electric-vehicles-as-environmentally-friendly/"><u>Decoding the 'Green' Label: Are Electric Vehicles as Environmentally Friendly?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/determining-the-ideal-processing-speed-for-your-personal-computer/"><u>Determining the Ideal Processing Speed for Your Personal Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-latest-windows-improvements-july-2024-update-service-pack-and-fixes-summary/"><u>Discover the Latest Windows Improvements - July 2024 Update, Service Pack, and Fixes Summary</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/download-without-cost-the-ultimate-guide-to-free-reading-materials-17-top-resources/"><u>Download Without Cost: The Ultimate Guide to Free Reading Materials (17 Top Resources)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-infinix-note-30-vip-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Infinix Note 30 VIP Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-text-that-talks-back-adding-life-to-vids-on-a-budget/"><u>In 2024, Text that Talks Back Adding Life to Vids on a Budget</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-repair-rights-for-electronics-importance-and-insights-for-consumers-cyberguardian/"><u>Navigating Repair Rights for Electronics: Importance & Insights for Consumers | CyberGuardian</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-ksuserdll-is-missing-a-comprehensive-guide/"><u>Solving 'ksuser.dll Is Missing' - A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-address-the-missing-d3dx928dll-error/"><u>Step-by-Step Guide to Address the Missing d3dx9_28.dll Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-reconnecting-your-alexa-when-not-recognized-online/"><u>Troubleshooting Guide: Reconnecting Your Alexa when Not Recognized Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-steps-for-performing-a-complete-lenovo-laptop-system-restore/"><u>Ultimate Guide: Steps for Performing a Complete Lenovo Laptop System Restore</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-historical-milestastock-in-electric-motor-powered-cars/"><u>Unveiling the Historical Milestastock in Electric Motor-Powered Cars</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

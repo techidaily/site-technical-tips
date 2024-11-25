@@ -1,7 +1,7 @@
 ---
 title: 7 Outweighs the Allure of a Hypothetical Series 10 | Opinions by ZDNET's Tech Expert
-date: 2024-11-08T21:07:14.864Z
-updated: 2024-11-15T19:04:43.096Z
+date: 2024-11-21T16:17:22.810Z
+updated: 2024-11-25T17:14:31.664Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C369026fc-8906-4d8d-97bc-ba3c3cb5d6f8%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best small tablets of 2024
 
 Show less 
@@ -41,26 +45,10 @@ Cons
 * Cellular connectivity is additional cost
 * Expensive
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple iPad Mini 6th Generation
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best small tablet overall
@@ -93,13 +81,6 @@ Pros
 Cons 
 * Performance is slightly slow
 * Cameras aren't as great as other options
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Amazon Fire 7 Tablet
 
@@ -135,13 +116,6 @@ Cons
 
 ## Boox Tab Mini C
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best small tablet for note-taking
 
 Boox is an e-reader and drawing tablet with a vivid color display, so your e-book's illustrations will pop as you read, and so will your color-coordinated notes. Speaking of which, the note-taking templates on the Tab Mini C are handy. Whether you're a student taking Cornell-style notes, a desk job employee making an hourly plan for your day, a musician crafting a piece of sheet music, or a historian drafting a timeline, the Tab Mini C offers a template for that. 
@@ -168,6 +142,10 @@ Pros
 Cons 
 * Web browser functionality could be better
 * No warm light option
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Amazon Kindle 11th generation
 
@@ -199,13 +177,6 @@ Pros
 Cons 
 * Performance could be better
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Tab A7 Lite
 
 ### Best Samsung small tablet
@@ -233,16 +204,7 @@ The best small tablet is the iPad Mini because of its sharp display and impressi
 | Samsung Galaxy A7 Lite | $100      | 8.7 inches          | 1340x800 pixels   |
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which small tablet is right for you?
@@ -266,6 +228,10 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -278,11 +244,19 @@ We also compare the display's performance with what the manufacturer promised, t
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the smallest tablet screen size?
 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
 
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What brand of tablet is best?
 
@@ -297,13 +271,6 @@ Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the ap
 Yes, they can be. Small Android tablets allow you to do everything you would normally do, like reading e-books and video calling, without the higher price tags. 
 
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the smallest iPad?
 
@@ -355,21 +322,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-effective-use-of-snap-camera-for-team-collaboration/"><u>[Updated] 2024 Approved Effective Use of Snap Camera for Team Collaboration</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-voice-transformation-top-7-innovative-mobile-apps/"><u>[Updated] 2024 Approved Voice Transformation Top 7 Innovative Mobile Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-12-hacks-to-find-and-download-the-best-free-stock-photography/"><u>2024 Approved 12 Hacks to Find and Download the Best Free Stock Photography</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/el-branding-mastery-securing-a-loyal-youtube-subscriber-base/"><u>Channel Branding Mastery Securing a Loyal YouTube Subscriber Base</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminating-device-hang-up-the-0x887a0006-guide-for-win1111/"><u>Eliminating Device Hang-Up – The 0X887A0006 Guide for Win11/11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-walkthrough-mastering-the-art-of-rebooting-your-hp-laptop-with-a-factory-reset/"><u>Expert Walkthrough: Mastering the Art of Rebooting Your HP Laptop with a Factory Reset</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-the-windows-11-update-error-0x80070422-a-comprehensive-guide/"><u>Fixing the Windows 11 Update Error 0X80070422: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fortnite-skin-glitch-removal-actual-solutions-for-eliminating-edit-lag/"><u>Fortnite Skin Glitch Removal: Actual Solutions for Eliminating Edit Lag</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-address-windows-11-not-entering-sleep-mode-a-comprehensive-guide/"><u>How to Address Windows 11 Not Entering Sleep Mode – A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-connect-and-use-keyboard-and-mouse-on-ps4/"><u>How to Connect and Use Keyboard and Mouse on PS4</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-download-acpi-drivers/"><u>How to Download ACPI Drivers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-play-dvds-on-windows-10/"><u>How to Play DVDs on Windows 10</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c53-phone-without-password-by-drfone-android/"><u>How To Unlock Realme C53 Phone Without Password?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/timeline-enhancement-incor-written-by-assistant-for-2024/"><u>Timeline Enhancement Incor Written by Assistant for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-offline-voice-processor/"><u>Ultimate Offline Voice Processor</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-navigating-vlc-software-basics-for-macos-for-2024/"><u>[New] Navigating VLC Software Basics for MacOS for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-streamlining-capture-procedures-with-adobe-presenter/"><u>[Updated] 2024 Approved Streamlining Capture Procedures with Adobe Presenter</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-speedy-social-stardom-likes-plus-videos-on-instagram-guide-for-2024/"><u>[Updated] Speedy Social Stardom Likes + Videos on Instagram Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effective-methods-for-playing-vgz-soundtracks-converting-vgz-to-mp3-format/"><u>Effective Methods for Playing VGZ Soundtracks: Converting VGZ to MP3 Format</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/videographer-to-income-generator-on-youtube-for-2024/"><u>From Videographer to Income Generator on YouTube for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-itel-a60-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Itel A60 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maintain-open-macbook-display-despite-closing-the-lid-a-comprehensive-guide/"><u>Maintain Open MacBook Display Despite Closing the Lid - A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/qled-or-oled-decoding-the-distinctions-between-modern-display-tech/"><u>QLED or OLED? Decoding the Distinctions Between Modern Display Tech</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-technique-for-effective-web-pinging-explained/"><u>The Definitive Technique for Effective Web Pinging Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-canon-photos-gratuitous-fundamentals-plus-optional-lut-expansion-for-2024/"><u>Transform Canon Photos Gratuitous Fundamentals + Optional LUT Expansion for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-ai-music-forerunners-crafting-harmonies-for-a-new-era/"><u>Updated 2024 Approved The AI Music Forerunners Crafting Harmonies for a New Era</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/user32dll-error-resolution-overcoming-file-not-found-challenges-on-your-computer/"><u>User32.dll Error Resolution: Overcoming 'File Not Found' Challenges on Your Computer</u></a></li>
 </ul></div>
 

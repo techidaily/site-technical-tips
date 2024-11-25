@@ -1,7 +1,7 @@
 ---
 title: Three Essential Steps Apple Needs to Take to Save Tophat Vision Pro - Insights From ZDNet
-date: 2024-11-11T21:43:33.033Z
-updated: 2024-11-16T01:09:02.480Z
+date: 2024-11-23T16:20:42.786Z
+updated: 2024-11-25T16:55:03.985Z
 tags:
   - apple
 categories:
@@ -31,6 +31,10 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How could Meta possibly beat Apple?
 
 Good, better, best. What does this mean? How can a $500 device from Meta (Facebook, believe it or not) beat Apple's offering?
@@ -54,6 +58,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 During this time, the company focused on providing viable mixed reality and VR experiences, adding capabilities, better visuals, better cameras, improving the headsets overall, and constantly pushing to make the price viable for consumers. 
 
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  That old Apple magic
 
@@ -83,10 +91,7 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Think different?
@@ -110,10 +115,7 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Vision for the rest of us
@@ -130,13 +132,6 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Give the Vision a controller
 
 VisionOS 2 has made some improvements. Beyond a trackpad, the new OS version (coming this fall) will support a mouse for pointing. It will also allow some form of keyboard passthrough, even in immersive environments, enabling you to see your keyboard. 
@@ -148,10 +143,7 @@ The eye tracking and hand gestures interface that are the primary means of opera
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
@@ -235,17 +227,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-crafting-powerful-video-titles-and-sizes/"><u>[New] In 2024, Crafting Powerful Video Titles & Sizes</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-enhancing-engagement-essential-video-formats-for-youtube-viewers-for-2024/"><u>[Updated] Enhancing Engagement Essential Video Formats for YouTube Viewers for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-transforming-srt-to-widely-used-digital-audio-formats-with-ease/"><u>[Updated] Transforming SRT to Widely Used Digital Audio Formats with Ease</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2020s-windows-updates-a-quick-overview/"><u>2020'S Windows Updates A Quick Overview</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/achieving-maximum-frame-rates-a-guide-to-reaching-120fps-gameplay-on-your-playstation-5/"><u>Achieving Maximum Frame Rates: A Guide to Reaching 120FPS Gameplay on Your PlayStation 5</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-your-pc-solutions-for-handling-missing-bootmgr-issues/"><u>Fix Your PC: Solutions for Handling Missing BOOTMGR Issues</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/picsart-revamp-explained-in-depth-review-and-step-by-step-tutorial-update-for-2024/"><u>PicsArt Revamp Explained In-Depth Review & Step-by-Step Tutorial Update for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-getting-your-mac-to-acknowledge-external-displays/"><u>Step-by-Step Solution: Getting Your Mac to Acknowledge External Displays</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-motorola-moto-g73-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Motorola Moto G73 5G to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-15-no-cost-anti-virus-software-options-for-your-system/"><u>Top 15 No-Cost Anti-Virus Software Options for Your System</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unique-14-motion-graphics-showcasing-text-for-2024/"><u>Unique 14 Motion Graphics Showcasing Text for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hit-the-limit-top-youtube-video-achievements-surpassing-100-million-views-in-24-for-2024/"><u>[Updated] Hit the Limit Top YouTube Video Achievements Surpassing 100 Million Views in '24 for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-master-the-art-of-mac-screen-record-via-shortcuts-for-2024/"><u>[Updated] Master the Art of Mac Screen Record via Shortcuts for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-proven-strategies-for-precise-web-based-photo-cropping/"><u>2024 Approved Proven Strategies for Precise Web-Based Photo Cropping</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-transform-your-content-expert-tips-for-bokeh-on-social-media/"><u>2024 Approved Transform Your Content Expert Tips for Bokeh on Social Media</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/catch-the-best-sports-motion-pictures-to-ignite-your-passion-today/"><u>Catch the Best Sports Motion Pictures to Ignite Your Passion Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-bridge-your-fire-stick-and-projector-together/"><u>Easy Steps to Bridge Your Fire Stick and Projector Together</u></a></li>
+<li><a href="https://win-dash.techidaily.com/efficient-epson-v700-driver-downloads-for-seamless-printing-on-win7win81win10/"><u>Efficient Epson V700 Driver Downloads for Seamless Printing on Win7/Win8.1/Win10</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-poco-m6-pro-4g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Poco M6 Pro 4G FRP Locks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-gt-5-pro-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme GT 5 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/insiders-walkthrough-booking-an-expert-session-on-genius-bar-appointments-at-apple-stores/"><u>Insider's Walkthrough: Booking an Expert Session on Genius Bar Appointments at Apple Stores</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-infinix-note-30-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Infinix Note 30 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/nailing-the-skype-interview-proven-techniques-and-tips-for-job-seekers/"><u>Nailing the Skype Interview: Proven Techniques and Tips for Job Seekers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-6-essential-study-apps-every-student-and-parent-should-know-about/"><u>Top 6 Essential Study Apps Every Student and Parent Should Know About</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-smooth-playbacks-connecting-the-disneyplus-app-with-googles-chromecast-technology/"><u>Unlock Smooth Playbacks: Connecting the Disney+ App with Google's Chromecast Technology</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Apple's New Hearables: Release Dates, Cost Estimates & Potential Features Revealed"
-date: 2024-09-09T13:27:46.540Z
-updated: 2024-09-10T13:27:46.540Z
+date: 2024-11-20T17:07:28.554Z
+updated: 2024-11-25T16:15:23.225Z
 categories:
   - BestProducts
 description: "This Article Describes Upcoming Apple's New Hearables: Release Dates, Cost Estimates & Potential Features Revealed"
@@ -9,18 +9,6 @@ excerpt: "This Article Describes Upcoming Apple's New Hearables: Release Dates, 
 thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa778ea2d41cdc52aa7fdbdaa.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Upcoming Apple's New Hearables: Release Dates, Cost Estimates & Potential Features Revealed
 
  In This Article
@@ -34,17 +22,9 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
  Apple may be working on a small wearable device that projects audio beams at the user's ears to let them hear audio without headphones. News of this device came in a patent filing granted to the company in May 2024\. This article explains what the patent covers, what the product might be, and what we know about it.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Apple Wearable Device With Direct Audio Release Date?
 
  There's not a lot to go on about this device, just the patent—and not all patents lead to products. In fact, Apple and other tech companies receive hundreds and thousands of patents every year, and not all of that technology makes it to market.
@@ -56,27 +36,17 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Price Rumors
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
@@ -88,17 +58,9 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Apple, Inc / USPTO
 
  It's not hard to imagine that this device could be a next-generation AirPods product. It also brings to mind wearable computers like the[Humane AI pin](https://www.theverge.com/24126502/humane-ai-pin-review) . While that particular product hasn't succeeded, the concept of a wearable device with a next-generation interface could likely crop up more in the coming years.
@@ -116,18 +78,16 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
  Lifewire delivers all the latest news and opinions about[ear buds and other wearable devices](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Some articles in these areas that might interest you include:
@@ -138,14 +98,11 @@ Apple, Inc / USPTO
 
 [What Is Apple Intelligence?](https://www.lifewire.com/what-is-apple-gpt-7571221)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +111,26 @@ Apple, Inc / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-record-and-share-screencast-tips-from-ezvide-expertise/"><u>[New] 2024 Approved Record and Share Screencast Tips From EZvide Expertise</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-enhance-your-films-innovative-kinemaster-transitions/"><u>[New] In 2024, Enhance Your Films Innovative Kinemaster Transitions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streaming-into-the-future-a-review-for-2024/"><u>[New] Streaming Into the Future A Review for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-enhancing-macs-live-performance-with-mixer/"><u>[Updated] In 2024, Enhancing Mac's Live Performance with Mixer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/5-critical-considerations-every-shopper-needs-before-investing-in-new-speakers/"><u>5 Critical Considerations Every Shopper Needs Before Investing in New Speakers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-worldwide-developer-conference-wwdc-2025-announcements-news-and-more/"><u>Apple Worldwide Developer Conference (WWDC) 2025: Announcements, News, and More</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722880274817-complete-epic-of-dragons-and-riders-ordering-the-how-to-train-your-dragon-movie-series/"><u>Complete Epic of Dragons and Riders - Ordering the How to Train Your Dragon Movie Series</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-solution-for-when-windows-cant-locate-d3dx924dll-file/"><u>Complete Solution for When Windows Can't Locate d3dx9_24.dll File</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-digital-demons-how-to-debug-call-of-duty-mobiles-version-50-and-31-read-error-on-your-pc/"><u>Defeating Digital Demons: How To Debug Call of Duty Mobile's Version 5.0 and 3.1 Read Error on Your PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/digital-subtitling-simplified-best-online-tools-of-the-decade-for-2024/"><u>Digital Subtitling Simplified Best Online Tools of the Decade for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-personalize-font-style-and-size-in-windows-11-a-user-friendly-guide/"><u>How to Personalize Font Style & Size in Windows 11 - A User-Friendly Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-vivo-t2x-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo T2x 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ignite-an-instagram-craze-10-secrets-to-making-your-posts-go-viral/"><u>Ignite an Instagram Craze: 10 Secrets to Making Your Posts Go Viral</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-google-pixel-fold-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Google Pixel Fold FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-fix-revamping-the-performance-of-your-asus-maximus-x-hero-with-latest-drivers/"><u>Quick Fix: Revamping the Performance of Your ASUS Maximus X Hero with Latest Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-tips-for-selecting-an-ideal-surge-protector-for-home-and-office-gadgets/"><u>Top Tips for Selecting an Ideal Surge Protector for Home and Office Gadgets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncover-shocking-cases-with-our-selection-of-the-finest-13-true-crime-podcasts/"><u>Uncover Shocking Cases with Our Selection of the Finest 13 True Crime Podcasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-dvrs-unveiling-the-digital-video-recorder/"><u>Understanding DVRs: Unveiling the Digital Video Recorder</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/eygnwmwn-glwttothpeio-gkreman/"><u>Ευγνώμων Γλωττοτηπειό Γκρεμάν</u></a></li>
+</ul></div>
 

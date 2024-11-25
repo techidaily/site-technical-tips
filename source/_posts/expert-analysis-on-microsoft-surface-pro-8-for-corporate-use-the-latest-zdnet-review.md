@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis on Microsoft Surface Pro 8 for Corporate Use – The Latest ZDNet Review
-date: 2024-11-13T19:31:20.189Z
-updated: 2024-11-15T17:48:45.742Z
+date: 2024-11-21T17:20:21.015Z
+updated: 2024-11-25T16:26:58.386Z
 tags:
   - apple
 categories:
@@ -42,18 +42,15 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -76,13 +73,6 @@ When you open the kickstand, you'll find a small door in the bottom left corner 
 You don't have to use a physical SIM card thanks to the Pro 8's support for an eSIM, but since I often switch between the Pro X and iPad Pro, I already had a dedicated SIM card with a data-only plan tied to it. 
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -133,6 +123,10 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -142,6 +136,10 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -156,16 +154,7 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -180,20 +169,11 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -232,24 +212,17 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-progressive-audio-softening-methods/"><u>[New] 2024 Approved Progressive Audio Softening Methods</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-procedure-for-removing-stashed-videos-from-watch-later/"><u>[New] Procedure for Removing Stashed Videos From Watch Later</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-zen-of-broadcasting-perfecting-zooms-techniques-for-youtube/"><u>[Updated] In 2024, The Zen of Broadcasting Perfecting Zoom's Techniques for YouTube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1-three-simple-ways-to-block-unwanted-messages-on-iphone-expert-guide-zdnet/"><u>1. Three Simple Ways to Block Unwanted Messages on iPhone - Expert Guide (ZDNet)</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/complete-faq-resource-at-flipbuildercom-expert-answers-and-solutions/"><u>Complete FAQ Resource at FlipBuilder.com: Expert Answers and Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-guide-changing-your-macs-folder-colors/"><u>Easy Guide: Changing Your Mac's Folder Colors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-cost-effective-tools-for-your-diy-home-cinema-setup/"><u>Essential Cost-Effective Tools for Your DIY Home Cinema Setup</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expanding-possibilities-with-chatgpts-imagery-technology/"><u>Expanding Possibilities with ChatGPT’s Imagery Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-unlocking-windows-pin-protection-in-windows-10/"><u>Guide: Unlocking Windows ‛Pin Protection' In Windows 10</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-x5frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco X5FRP Lock</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restore-scanner-link-to-computer-in-windows-10/"><u>Restore Scanner Link to Computer in Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722868602090-sneak-peek-into-the-future-with-samsung-galaxy-s25-predictions-on-pricing-specs-and-release-day/"><u>Sneak Peek Into the Future with Samsung Galaxy S25 - Predictions on Pricing, Specs and Release Day</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-when-one-of-your-airpods-fails-to-work/"><u>Solving the Issue When One of Your AirPods Fails to Work</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-finding-iphone-user-locations-safely-and-legally/"><u>Step-by-Step Tutorial: Finding iPhone User Locations Safely and Legally</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-decision-makers-guide-to-choosing-between-staying-on-current-os-or-going-for-ios-17/"><u>The Decision-Maker's Guide to Choosing Between Staying on Current OS or Going for iOS 17</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-how-to-refresh-your-chromecast-software/"><u>The Ultimate Tutorial on How to Refresh Your Chromecast Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-must-play-imessage-games/"><u>Top 7 Must-Play iMessage Games</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-dnssddll-errors-on-your-windows-pc/"><u>Troubleshooting Missing dnssd.dll Errors on Your Windows PC</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-list-of-easy-to-use-neon-text-generators/"><u>Updated In 2024, The Ultimate List of Easy-to-Use Neon Text Generators</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-instagrams-authenticity-rules-for-2024/"><u>[New] Navigating Instagram’s Authenticity Rules for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-playspectate-screen-recorder/"><u>[New] PlaySpectate Screen Recorder</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-align-video-content-with-instagram-viewer-preferences/"><u>2024 Approved Align Video Content with Instagram Viewer Preferences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/detailed-tutorial-how-to-address-when-advapi32dll-is-undetected-or-missing/"><u>Detailed Tutorial: How to Address When Advapi32.dll Is Undetected or Missing</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dissecting-worldwide-french-speaking-populations-by-country/"><u>Dissecting Worldwide French-Speaking Populations by Country</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-using-alternative-methods-to-access-your-iphones-sim-tray/"><u>Guide: Using Alternative Methods to Access Your iPhone's SIM Tray</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c53-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-flight-stability-best-gimbals/"><u>In 2024, Innovative Flight Stability Best Gimbals</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-next-evaluation-diverse-solutions/"><u>In 2024, Next Evaluation Diverse Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-disappearance-of-facebooks-night-mode-expert-tips-and-tricks/"><u>Solving the Disappearance of Facebook's Night Mode: Expert Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-creative-potential-with-these-6-free-graphic-design-tools/"><u>Unlock Creative Potential with These 6 Free Graphic Design Tools</u></a></li>
 </ul></div>
 

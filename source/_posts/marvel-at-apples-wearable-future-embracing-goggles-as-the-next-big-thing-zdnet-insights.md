@@ -1,7 +1,7 @@
 ---
 title: "Marvel at Apple’s Wearable Future: Embracing Goggles as the Next Big Thing | ZDNET Insights"
-date: 2024-11-12T16:50:44.815Z
-updated: 2024-11-15T17:43:42.769Z
+date: 2024-11-19T17:07:35.028Z
+updated: 2024-11-25T17:08:37.579Z
 tags:
   - apple
 categories:
@@ -46,6 +46,10 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## It's the camera, stupid
 
 The company's first gambit is: "iPhone 15 captures up to 4x the resolution of iPhone 12for a new level of detail and color."
@@ -63,10 +67,7 @@ Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## And it's the movies
@@ -88,10 +89,7 @@ Apple explains: "Longer battery life lets you watch up to 3 more hours of video 
 That's the thing when people buy phones. They prefer actual results. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
@@ -152,20 +150,16 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-vidgrabmaster-mobilepc-app-downloads/"><u>[Updated] 2024 Approved VidGrabMaster Mobile/PC App Downloads</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-freememogen-your-guide-to-free-memes-for-2024/"><u>[Updated] FreeMemoGen Your Guide to FREE Memes for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-from-transaction-to-treasure-unlocking-your-facebook-video-archive/"><u>2024 Approved From Transaction to Treasure Unlocking Your Facebook Video Archive</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-navigating-the-maze-a-comprehensive-guide-to-mov-capture-in-win10/"><u>2024 Approved Navigating the Maze A Comprehensive Guide to MOV Capture in Win10</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/centrum-podpory-by-movavi-secure-and-reliable-cloud-storage-solutions/"><u>Centrum Podpory by Movavi - Secure and Reliable Cloud Storage Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/creating-custom-notifications-setting-your-own-ring-tones-for-gmail/"><u>Creating Custom Notifications: Setting Your Own Ring Tones for Gmail</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/demystifying-the-windows-10-battery-diagnostics-what-every-user-should-know/"><u>Demystifying the Windows 10 Battery Diagnostics: What Every User Should Know</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diagnosing-and-fixing-408-request-timeout-problems-in-web-applications/"><u>Diagnosing & Fixing 408 Request Timeout Problems in Web Applications</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-redmi-k70-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi Redmi K70 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/macbook-air-users-must-know-trick-effortlessly-managing-dual-displays/"><u>Macbook Air Users' Must-Know Trick: Effortlessly Managing Dual Displays</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-continuous-crash-issues-in-escape-from-tarkov-for-windows-users/"><u>Resolving Continuous Crash Issues in 'Escape From Tarkov' For Windows Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-on-securing-a-view-of-spider-man-no-way-home-online/"><u>The Ultimate How-To on Securing a View of 'Spider-Man: No Way Home' Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unraveling-the-mystery-of-fixing-an-unrecoverable-error-in-directx/"><u>Unraveling the Mystery of Fixing an 'Unrecoverable Error' In DirectX</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-netflixs-original-dvd-rentals-a-comprehensive-overview/"><u>Unveiling Netflix's Original DVD Rentals: A Comprehensive Overview</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-dynamic-musical-journeys-with-crossfading/"><u>[New] Crafting Dynamic Musical Journeys with Crossfading</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-dynamic-scripting-for-videos/"><u>[New] Dynamic Scripting for Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-discovering-the-best-soundtracks-for-unboxing-vlogs/"><u>[Updated] Discovering the Best Soundtracks for Unboxing Vlogs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-shows-to-binge-on-discovery-plus-for-july-2024/"><u>Best Shows to Binge on Discovery Plus for July 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/descarga-winx-rip-editor-pro-mejora-tu-experiencia-de-extraccion-digital-a-32x-velocizacion-en-ventanas-10/"><u>Descarga WinX Rip Editor Pro: Mejora Tu Experiencia De Extracción Digital a 32X Velocizacion en Ventanas 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/full-guide-the-complete-revamp-of-gpu-drivers/"><u>Full Guide: The Complete Revamp of GPU Drivers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correct-a-404-page-miss-essential-insights-and-tips/"><u>How to Correct a 404 Page Miss: Essential Insights & Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722886076377-tune-in-to-sports-with-espn-plus-on-your-lg-smart-tv-setup-tips-included/"><u>Tune in to Sports with ESPN Plus on Your LG Smart TV - Setup Tips Included</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updated-epson-wf-n3620-printer-drivers-available-now-compatible-with-windows-10-8-and-7/"><u>Updated Epson WF-N3620 Printer Drivers Available Now: Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722903673710-want-to-use-your-macbook-with-a-closed-lid-heres-how-not-to-let-it-go-to-sleep/"><u>Want to Use Your MacBook with a Closed Lid? Here's How Not to Let It Go To Sleep!</u></a></li>
 </ul></div>
 

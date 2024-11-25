@@ -1,7 +1,7 @@
 ---
 title: "How the New USB-C Apple EarPods Became an Irresistible Prime Day Find: Insights From a Tech Enthusiast at ZDNet"
-date: 2024-11-09T01:07:34.492Z
-updated: 2024-11-15T19:12:18.177Z
+date: 2024-11-20T17:07:06.506Z
+updated: 2024-11-25T16:44:51.857Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
@@ -35,10 +39,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -66,10 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -89,10 +87,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -102,13 +97,6 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -125,6 +113,10 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -166,20 +158,18 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-synchronizing-sequential-images-for-impactful-storytelling/"><u>[New] Synchronizing Sequential Images for Impactful Storytelling</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-avoiding-drone-pitfalls-key-factors-for-a-smart-purchase/"><u>[Updated] 2024 Approved Avoiding Drone Pitfalls Key Factors for a Smart Purchase</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/disabling-iphone-emergency-and-amber-alerts-a-step-by-step-guide/"><u>Disabling iPhone Emergency & Amber Alerts: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-speedy-filing-with-macs-finder-path-bar-a-user-friendly-guide-to-easier-navigation/"><u>Discover Speedy Filing with Mac's Finder Path Bar – A User-Friendly Guide to Easier Navigation</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-proplus-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Realme 12 Pro+ 5G Bootloader Easily</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-digging-through-youtube-conversations/"><u>In 2024, Digging Through YouTube Conversations</u></a></li>
-<li><a href="https://extra-support.techidaily.com/integrated-dynamic-movement-analysis-for-2024/"><u>Integrated Dynamic Movement Analysis for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-an-additional-warranty-through-applecareplus-beneficial-for-your-device/"><u>Is an Additional Warranty Through AppleCare+ Beneficial for Your Device?</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/je-excel-bestand-vergeten-in-de-bureaublad-probeer-deze-5-oplossingen/"><u>Je Excel Bestand Vergeten in De Bureaublad? Probeer Deze 5 Oplossingen!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/quick-and-easy-methods-for-shifting-ipad-footage-to-a-mac/"><u>Quick & Easy Methods for Shifting iPad Footage to a Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-multitasking-with-google-duet-on-your-gmail-platform/"><u>Seamless Multitasking with Google Duet on Your Gmail Platform</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solutions-for-resolving-nspr4dll-file-missing-issues-on-your-pc/"><u>Solutions for Resolving 'Nspr4.dll File Missing' Issues on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-accessing-historical-web-pages-with-the-wayback-machine/"><u>Step-by-Step Tutorial: Accessing Historical Web Pages with the Wayback Machine</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-recorders-report-card-best-in-class-rated-for-2024/"><u>The Recorder's Report Card Best in Class Rated for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-the-secrets-of-efficiently-locating-pictures-with-a-facebook-search/"><u>Unlock the Secrets of Efficiently Locating Pictures with a Facebook Search</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-bypass-software-for-youtube-downloads/"><u>[New] 2024 Approved Bypass Software for YouTube Downloads</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-exploring-top-ios-psp-emulation-tools-for-gamers/"><u>[New] In 2024, Exploring Top iOS PSP Emulation Tools for Gamers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-igtv-video-sharing-to-facebook-explained-in-3-ways/"><u>[New] In 2024, IGTV Video Sharing to Facebook Explained in 3 Ways</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-speak-worldwide-with-these-27-premium-tools-to-translate-videos/"><u>2024 Approved Speak Worldwide with These 27 Premium Tools to Translate Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722874253484-beat-code-28errors-in-windows-with-these-proven-fixes/"><u>Beat Code ^[[2][8]Errors in Windows with These Proven Fixes!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/future-of-tech-the-upcoming-tesla-phone-pricing-release-timeline-and-exciting-specs-revealed/"><u>Future of Tech: The Upcoming Tesla Phone – Pricing, Release Timeline & Exciting Specs Revealed</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-htc-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your HTC FRP Locks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tailoring-trending-topics-to-endings/"><u>In 2024, Tailoring Trending Topics to Endings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-multilingualism-explore-the-ultimate-selection-of-6-independent-translator-apps/"><u>Master Multilingualism: Explore the Ultimate Selection of 6 Independent Translator Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-take-when-your-gmail-wont-sync-correctly/"><u>Steps to Take When Your Gmail Won't Sync Correctly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/streamlining-360-degree-video-editing-workflow-in-premiere-pro/"><u>Streamlining 360-Degree Video Editing Workflow in Premiere Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforming-your-student-space-into-an-affordable-wireless-entertainment-hub/"><u>Transforming Your Student Space Into an Affordable Wireless Entertainment Hub</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-wi-fi-disconnects-a-guide-for-microsoft-surface-owners/"><u>Troubleshooting Wi-Fi Disconnects: A Guide for Microsoft Surface Owners</u></a></li>
 </ul></div>
 

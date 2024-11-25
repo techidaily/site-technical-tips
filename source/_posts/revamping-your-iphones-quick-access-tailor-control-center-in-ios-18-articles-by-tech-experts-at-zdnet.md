@@ -1,7 +1,7 @@
 ---
 title: "Revamping Your iPhone's Quick Access: Tailor Control Center in iOS 18 - Articles by Tech Experts at ZDNet"
-date: 2024-11-10T18:39:12.984Z
-updated: 2024-11-15T23:05:46.085Z
+date: 2024-11-19T17:22:48.434Z
+updated: 2024-11-25T17:17:05.575Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -37,10 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -57,18 +58,15 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -79,10 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -92,16 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -140,18 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-10-igtv-channels-shaping-content-trends/"><u>[New] In 2024, The 10 IGTV Channels Shaping Content Trends</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-simple-process-for-preserving-tweets-imagesvideos/"><u>[Updated] 2024 Approved Simple Process for Preserving Tweets' Images/Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-guide-compatible-software-for-viewing-apples-pages-documents-on-windows-and-mac-os/"><u>Complete Guide: Compatible Software for Viewing Apple's Pages Documents on Windows and Mac OS</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-huion-inspiroy-g10t-touchpad-art-tablet-assessment-exceptional-craftsmanship-and-features/"><u>Comprehensive Huion Inspiroy G10T Touchpad Art Tablet Assessment - Exceptional Craftsmanship & Features</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-a-harmonic-narrative-adding-youtube-music-to-vids/"><u>Crafting a Harmonic Narrative Adding YouTube Music to Vids</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-vivo-y28-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y28 5G Phone that is Locked?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/peak-visionary-suite-feedback-for-2024/"><u>Peak Visionary Suite Feedback for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/slack-reminders-simplified-tips-for-seamless-integration-and-management/"><u>Slack Reminders Simplified: Tips for Seamless Integration and Management</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/snapchat-reactivation-strategies-regain-control-over-your-digital-friendships-today/"><u>Snapchat Reactivation Strategies: Regain Control Over Your Digital Friendships Today!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210882811-9781088186596-source-and-interpretation-of-dreams-with-fasting-prayer-for-fulfilment-of-good-dreams/"><u>Source And Interpretation Of Dreams With Fasting & Prayer For Fulfilment Of Good Dreams | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-utilizing-google-meets-blur-effect-to-enhance-virtual-meeting-aesthetics/"><u>Step-by-Step Tutorial: Utilizing Google Meet's Blur Effect to Enhance Virtual Meeting Aesthetics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-flaws-that-arise-from-blind-trust-in-algorithms/"><u>The Flaws That Arise From Blind Trust in Algorithms</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/bes-eco-film-hub-dive-into-green-screen-creativity/"><u>Youtube’s Eco-Film Hub Dive Into Green Screen Creativity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/meta-quest-3quest-for-virtual-reality-detailed-coverage-on-arrival-date-cost-assessment-and-technical-specs/"><u>[Meta Quest 3](Quest for Virtual Reality: Detailed Coverage on Arrival Date, Cost Assessment & Technical Specs)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-visual-vaults-expert-tips-on-capturing-and-storing-twitter-video/"><u>[New] 2024 Approved Visual Vaults Expert Tips on Capturing and Storing Twitter Video</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-capture-clarity-boost-photos-with-zero-cost-for-2024/"><u>[New] Capture Clarity Boost Photos with Zero Cost for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-elevating-your-photography-hdr-strategies-for-ps/"><u>[New] Elevating Your Photography HDR Strategies for PS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-navigating-the-world-of-pc-screencasters-with-ease/"><u>[New] In 2024, Navigating the World of PC Screencasters with Ease</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-chromes-best-5-sites-to-download-fb-videos/"><u>[Updated] 2024 Approved Chrome's Best 5 Sites to Download FB Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-clip-conquest-top-tags-for-dominating-video-trends-on-social-media/"><u>[Updated] Clip Conquest Top Tags for Dominating Video Trends on Social Media</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-6-places-online-to-watch-movies-for-kids-at-no-cost/"><u>Best 6 Places Online to Watch Movies for Kids at No Cost</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-compelling-docu-scripts-a-step-by-step-guide-for-2024/"><u>Crafting Compelling Docu-Scripts A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/efficiently-sharing-multiple-pictures-on-facebook-in-one-go-tips-and-tricks/"><u>Efficiently Sharing Multiple Pictures on Facebook in One Go – Tips & Tricks!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-becoming-proficient-in-ez-grabber-technology/"><u>In 2024, Becoming Proficient in EZ Grabber Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-app-store-vs-google-play-store/"><u>IOS App Store Vs. Google Play Store</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-possible-to-share-a-spotify-playlist-simultaneously-with-someone-else/"><u>Is It Possible to Share a Spotify Playlist Simultaneously with Someone Else?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-viral-posts-on-instagram-top-tips-and-tricks/"><u>Mastering the Art of Viral Posts on Instagram - Top Tips and Tricks</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-vivo-y100i-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo Y100i – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-pitfalls-of-deceptive-network-expansion-tactics/"><u>Navigating the Pitfalls of Deceptive Network Expansion Tactics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-of-wearable-tech-speculations-on-googlevee-pixel-watch-3-edition/"><u>The Future of Wearable Tech: Speculations on Google'vee Pixel Watch 3 Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-solution-for-fixing-missing-libxml2dll-file-issues-on-your-pc/"><u>The Ultimate Solution for Fixing Missing Libxml2.dll File Issues on Your PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Honor Play 7T | Dr.fone</u></a></li>
 </ul></div>
 

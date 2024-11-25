@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential: Maximize Your iPhone with IOS 16 Features - A Comprehensive Guide | ZDNet"
-date: 2024-11-09T21:34:13.391Z
-updated: 2024-11-16T00:43:28.596Z
+date: 2024-11-23T16:58:52.892Z
+updated: 2024-11-25T16:53:37.115Z
 tags:
   - apple
 categories:
@@ -102,6 +102,10 @@ Share: Are you prepared for the future of AI, automation, and jobs?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F "Twitter") 
@@ -114,13 +118,6 @@ Apple's latest software update to the Mac and iPad has enabled a feature that, n
 
 That means when you move your Mac's pointer beyond the edge of your screen, it will automatically switch to your iPad and allow you to use iPadOS without switching devices. To be clear, Universal Control isn't only designed to work between an iPad and a Mac. It'll actually work between multiple Macs as well. For the purpose of this guide, I'm going to stick to using it between and iPad and Mac to cover both devices. But you could easily do the same thing with two Macs by following the steps below. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -131,10 +128,7 @@ That means when you move your Mac's pointer beyond the edge of your screen, it w
 There are a couple of things you'll need to do before you can use Universal Control. I'll walk you through the initial setup, and then how to use it. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Update your Mac and iPad
@@ -144,6 +138,10 @@ Before you'll have the option to turn on Universal Control, you need to update t
 On a Mac, open **System Preferences**, then select **Software Update**. 
 
 On your iPad, open the **Settings app** then go to **General** \> **Software Update** and follow the prompts. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your iPad
 
@@ -161,6 +159,10 @@ The Mac does have a dedicated Universal Control section where you can turn the f
 
 Check the box next to **Allow your cursor and keyboard to move between any nearby Mac or iPad,** then click **Done**. Leave the other two boxes checked. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to use Universal Control between your Mac and iPad
 
 With both devices updated and after double-checking that Universal control is enabled, it's time to actually use Universal Control. 
@@ -176,10 +178,7 @@ Want to go back to your Mac? Drag the mouse pointer off the iPad's screen in the
 You can even drag and drop documents between your Mac or iPad, instead of waiting for iCloud Drive to sync or if, for example, you were drawing out an idea in the Notes app with the Apple Pencil on your iPad -- you can easily move that to your Mac once you're finished. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Arrange your displays, adjust settings
@@ -187,13 +186,6 @@ You can even drag and drop documents between your Mac or iPad, instead of waitin
 Screenshot by Jason Cipriani/ZDNet
 
 Your Mac will try its best to locate your iPad's location in relation to your main display, but it's not perfect. If you go back into System Preferences on your Mac, you can click-and-drag to rearrange the displays, putting your iPad's screen in the right spot, allowing you to seamlessly move your mouse between the two devices. 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Troubleshooting Universal Control
 
@@ -247,15 +239,20 @@ Finally, if you're still not having any luck, it could be that your device isn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/op-choices-pro-shake-free-cameras-for-video-streams/"><u>[New] Top Choices Pro Shake-Free Cameras for Video Streams</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-iphone-and-ipad-video-powerhouses-the-ultimate-list-of-10/"><u>[Updated] 2024 Approved IPhone & iPad Video Powerhouses The Ultimate List of 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-walkthrough-to-deactivate-pin-security-on-windows-11-systems/"><u>Comprehensive Walkthrough to Deactivate PIN Security on Windows 11 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-the-story-behind-yahoo-messengers-launch-and-discontinuation/"><u>Decoding the Story Behind Yahoo! Messenger's Launch & Discontinuation</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-10-proplus-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 10 Pro+ 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-personalized-timeline-presentation-facebook-lookback-tips/"><u>In 2024, Personalized Timeline Presentation Facebook Lookback Tips</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-swift-video-transformation-with-top-8-apps/"><u>In 2024, Swift Video Transformation with Top 8 Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-issues-with-the-iphoness-default-email-client/"><u>Resolving Issues with the iPhones's Default Email Client</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-definitive-guide-to-repairing-msvcr1e-dll-file-errors-on-pc/"><u>The Definitive Guide to Repairing MSVCR1e DLL File Errors on PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-navigating-leading-social-media-sites-facebook-twitter-instagram-youtube/"><u>The Ultimate Guide to Navigating Leading Social Media Sites: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-identifying-the-best-on-the-market-for-hdr-photography/"><u>[New] Identifying the Best on the Market for HDR Photography</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-apple-watch-compatibility-with-watchos-11-what-you-need-to-know/"><u>Comprehensive Guide: Apple Watch Compatibility with WatchOS 11 - What You Need To Know</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-x100-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo X100 to iPad | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-8-official-method-to-unlock-your-apple-iphone-8-by-drfone-ios/"><u>How To Unlock Apple iPhone 8 Official Method to Unlock Your Apple iPhone 8</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-your-ipads-evolution-a-guide-to-os-versions/"><u>Mastering Your iPad's Evolution: A Guide to OS Versions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-social-media-impact-with-these-5-tricks-for-enhanced-facebook-productivity/"><u>Maximize Social Media Impact with These 5 Tricks for Enhanced Facebook Productivity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pros-and-cons-is-opting-for-a-wi-fi-mesh-network-beneficial-for-your-needs/"><u>Pros and Cons: Is Opting for a Wi-Fi Mesh Network Beneficial for Your Needs?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/shining-a-light-top-photo-illumination-hacks/"><u>Shining a Light Top Photo Illumination Hacks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-for-snapping-photos-of-your-computer-display/"><u>Step-by-Step Tutorial for Snapping Photos of Your Computer Display</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-quadratic-factor-can-be-rewritten-as-splus2kplus2splus2k-20-giving-us-two-more-roots-s-2k-2-and-s-2kplus2-these-are-distinct-real-roots-if-k-neq-1/"><u>The Quadratic Factor Can Be Rewritten as ((S+2K+2)(S+2K-2)=0 ), Giving Us Two More Roots: (S=-2K-2 ) and (S=-2K+2 ). These Are Distinct Real Roots if (K Neq 1 )</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultra-portable-camera-with-extreme-capability-g7x-ii/"><u>The Ultra-Portable Camera with Extreme Capability: G7X II</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-vivo-y28-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from Vivo Y28 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-mastering-the-art-of-coding-your-own-all-in-one-remote/"><u>Ultimate Guide: Mastering the Art of Coding Your Own All-in-One Remote</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-expiry-dates-of-your-mailcom-email/"><u>Understanding the Expiry Dates of Your mail.com Email</u></a></li>
 </ul></div>
 

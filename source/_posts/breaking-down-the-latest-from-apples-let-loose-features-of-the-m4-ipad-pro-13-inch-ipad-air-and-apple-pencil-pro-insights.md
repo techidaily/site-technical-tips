@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down the Latest From Apple's 'Let Loose': Features of the M4 iPad Pro, 13-Inch iPad Air & Apple Pencil Pro | Insights"
-date: 2024-11-11T05:57:24.753Z
-updated: 2024-11-15T21:58:13.332Z
+date: 2024-11-23T17:15:10.003Z
+updated: 2024-11-25T16:57:32.693Z
 tags:
   - apple
 categories:
@@ -53,10 +53,7 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -75,6 +72,10 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Apple Pencil Pro
 
 Apple
@@ -91,34 +92,22 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Magic Keyboard
 
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -134,10 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -174,20 +160,24 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unlocking-the-potential-of-ez-grabber/"><u>[Updated] 2024 Approved Unlocking the Potential of EZ Grabber</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1728492877111-clonezilla/"><u>Clonezillaで失敗するときの回復方法</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-how-these-7-apps-master-gpt-4s-ai/"><u>Demystifying How These 7 Apps Master GPT-4's AI</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-extended-view-on-large-windows-display/"><u>Fixed Extended View on Large Windows Display</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-msstdfmtdll-errors-strategies-to-locate-or-restore-the-missing-file/"><u>Fixing Msstdfmt.dll Errors: Strategies to Locate or Restore the Missing File</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-preventing-youtube-use-on-an-ipad-device/"><u>Guide to Preventing YouTube Use on an iPad Device</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-x100-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo X100 to PC? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/no-charge-fb-visual-storyteller-pro-software/"><u>No-Charge FB Visual Storyteller Pro Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/our-selection-of-the-15-best-free-bootable-anti-virus-tools-online/"><u>Our Selection of the 15 Best Free Bootable Anti-Virus Tools Online</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-itel-s23-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-echo-of-you-customizing-your-speak-on-reels-and-stories/"><u>The Echo of You Customizing Your Speak on Reels & Stories</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-overcoming-the-critical-system-failure-0x0000007b-blue-screen/"><u>Troubleshooting Tips: Overcoming the Critical System Failure - 0X0000007B Blue Screen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-is-the-newest-generation-of-ipad/"><u>What Is the Newest Generation of iPad?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722855135758-xinput13dll-file-missing-heres-how-you-can-resolve-it/"><u>xinput1_3.dll File Missing? Here's How You Can Resolve It</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-select-blur-apps-for-softened-backdrops/"><u>[New] Select Blur Apps for Softened Backdrops</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-discover-the-ultimate-affordable-tool-to-transform-your-valorant-gameplay-for-2024/"><u>[Updated] Discover the Ultimate, Affordable Tool to Transform Your Valorant Gameplay for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-outstanding-backdrops-for-video-conferencing/"><u>[Updated] Outstanding Backdrops for Video Conferencing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-fb-live-success-strategies/"><u>2024 Approved FB Live Success Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tricks-to-successfully-link-your-chromecast-with-the-compatible-remote/"><u>Expert Tricks to Successfully Link Your Chromecast with the Compatible Remote</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-cannot-be-opened-because-the-developer-cannot-be-verified-error-on-mac/"><u>How to Fix 'Cannot Be Opened Because the Developer Cannot Be Verified' Error on Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722883986515-how-to-set-up-a-multi-speaker-bluetooth-sound-system-in-minutes/"><u>How to Set Up a Multi-Speaker Bluetooth Sound System in Minutes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-be-quiet-shadow-base-800-fx-masterful-noise-suppression-with-superior-performance-features/"><u>In-Depth Analysis of Be Quiet! Shadow Base 800 FX: Masterful Noise Suppression with Superior Performance Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-mastery-with-manycam-enhance-your-online-presence-with-virtual-camera-capabilities/"><u>Live Streaming Mastery with ManyCam: Enhance Your Online Presence with Virtual Camera Capabilities</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-12-5-ways-to-get-into-a-locked-apple-iphone-12-by-drfone-ios/"><u>Locked Out of Apple iPhone 12? 5 Ways to get into a Locked Apple iPhone 12</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/online-access-to-spider-man-no-way-home-a-comprehensive-guide/"><u>Online Access to Spider-Man: No Way Home – A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-d3dx927dll-file-not-found-a-comprehensive-guide/"><u>Resolving d3dx9_27.dll File Not Found: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamlessly-integrate-android-experience-into-your-windows-10-desktop/"><u>Seamlessly Integrate Android Experience Into Your Windows 10 Desktop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/speeding-up-your-wi-fi-ultimate-guide-to-resolving-sluggish-internet/"><u>Speeding Up Your Wi-Fi: Ultimate Guide to Resolving Sluggish Internet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-non-working-mpow-microphones-on-windows-systems/"><u>Step-by-Step Solution for Non-Working MPOW Microphones on Windows Systems</u></a></li>
+<li><a href="https://win-news.techidaily.com/unclutter-your-microsoft-onedrive-by-effortlessly-freeing-up-space/"><u>Unclutter Your Microsoft OneDrive by Effortlessly Freeing Up Space</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-playstation-network-disruptions-global-glitch-or-personal-setup/"><u>Understanding PlayStation Network Disruptions: Global Glitch or Personal Setup?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-next-for-apple-insight-into-the-iphone-2024-price-tag-launch-timeline-and-rumored-innovations/"><u>What's Next for Apple? Insight Into the iPhone 2024 Price Tag, Launch Timeline, and Rumored Innovations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/windows-10-meeting-mastery-with-zoom-tools/"><u>Windows 10 Meeting Mastery with Zoom Tools</u></a></li>
 </ul></div>
 

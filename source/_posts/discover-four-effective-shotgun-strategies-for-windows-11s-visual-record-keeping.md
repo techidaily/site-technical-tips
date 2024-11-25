@@ -1,7 +1,7 @@
 ---
 title: Discover Four Effective Shotgun Strategies for Windows 11'S Visual Record-Keeping
-date: 2024-09-09T13:27:44.736Z
-updated: 2024-09-10T13:27:44.736Z
+date: 2024-11-24T17:15:09.871Z
+updated: 2024-11-25T16:57:42.864Z
 categories:
   - BestProducts
 description: This Article Describes Discover Four Effective Shotgun Strategies for Windows 11'S Visual Record-Keeping
@@ -15,11 +15,9 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
  Lifewire / Maritsa Patrinos​
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Skype Is Not Working
 
  There could be a microphone problem or an issue with your audio settings, so you can't hear the other person, or they can't hear you. Or maybe you can't log in to Skype because you've forgotten your password. Still, another reason could be that your external speakers or microphone are no longer working, and you need to get new[hardware](https://www.lifewire.com/computer-hardware-2625895) . Maybe Skype won't connect because the service itself is having issues.
@@ -30,12 +28,6 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 
  If you're having issues[making HD video calls with Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) , there are a number of other factors that go into troubleshooting the reason.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 1: Reset Your Password
 
  Reset your password if you can't log in to Skype. Visit[Microsoft's Recover Your Account](https://account.live.com/resetpassword.aspx) page to walk through resetting your Skype password, or use our[step-by-step guide for resetting your Microsoft Account password](https://www.lifewire.com/how-to-reset-your-microsoft-account-password-2624953) (it's the same account).
@@ -44,12 +36,6 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 2: Check to See if It's Skype's Problem
 
  See if others are having troubles with Skype, too. There isn't much you can do to fix it if it's not your problem to fix. Sometimes things go wrong on Skype's end and the only thing you can do is wait it out.
@@ -59,21 +45,13 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 ![Skype Status Normal Service](https://www.lifewire.com/thmb/gelce_nk6NZFVOXIBopwnyukvrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-status-normal-service-002401f4bdd54451a46e388b733ee6d5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Something else you can do to troubleshoot the problem is to check[Skype's status on Down Detector](https://downdetector.com/status/skype/) to see if other users are reporting that it's down or having some other connection problem.
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 3: Check Your Network Connection
 
  Make sure it's not a network problem. Skype won't work if you don't have a network connection. This is true if you're using it from any device, be it on the web, your phone, computer, etc.
@@ -82,17 +60,15 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 4: Check Skype's Audio Settings and Permissions
 
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
 
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Using Skype on a Computer
 
@@ -124,11 +100,9 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 5: Check Skype's Video Settings and Permissions
 
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
@@ -156,11 +130,9 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 6: Make a Test Call in Skype
 
  Now that you've made sure that the hardware is turned on and enabled in Skype, it's time to[make a test audio call](https://www.lifewire.com/skype-quick-audio-test-3426523) .
@@ -194,11 +166,9 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 10: Check the System Sound
 
  If you[can't hear audio anywhere else](https://www.lifewire.com/fix-no-sound-from-computer-speakers-5219903) , like from websites or system sounds, and the speakers are plugged in (if they're external), and the sound card drivers are updated, then see if the[operating system](https://www.lifewire.com/operating-systems-2625912) is blocking the sound.
@@ -229,8 +199,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -238,4 +206,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-determining-better-macbook-air-vs-pro-m1-edition/"><u>[New] In 2024, Determining Better MacBook Air Vs. Pro M1 Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-making-time-move-backwards-a-step-by-step-guide-for-instagram-videos-for-2024/"><u>[New] Making Time Move Backwards A Step-by-Step Guide for Instagram Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-content-distribution-showdown-vimeo-vs-youtubes-and-dailymotions/"><u>[Updated] 2024 Approved Content Distribution Showdown Vimeo vs YouTubes and DailyMotions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-optimizing-whiteboard-use-during-online-sessions-across-different-tech-brands-for-2024/"><u>[Updated] Optimizing Whiteboard Use During Online Sessions Across Different Tech Brands for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-path-to-perfect-presence-on-zoom-platforms/"><u>2024 Approved The Path to Perfect Presence on Zoom Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-non-chatgpt-options-for-advanced-linguistic-interactions/"><u>Discover the Best Non-ChatGPT Options for Advanced Linguistic Interactions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-premier-graphics-software-selections-for-creatives/"><u>Discover the Premier Graphics Software Selections for Creatives</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-to-follow-methods-for-snapping-a-snapshot-on-any-desktop/"><u>Easy-to-Follow Methods for Snapping a Snapshot on Any Desktop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-gastronomic-delights-with-these-amazing-cooking-series-on-netflix-top-10-list/"><u>Explore Gastronomic Delights with These Amazing Cooking Series on Netflix - Top 10 List!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-bland-to-grand-enhancing-lower-thirds-in-final-cut-pro-x/"><u>From Bland to Grand Enhancing Lower Thirds in Final Cut Pro X</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/future-of-iphones-predicting-devices-value-launch-moment-and-potential-innovations/"><u>Future of iPhones: Predicting Device's Value, Launch Moment and Potential Innovations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/innovative-roku-techniques-controlling-your-tv-set-without-reliance-on-a-standard-remote-device/"><u>Innovative Roku Techniques: Controlling Your TV Set without Reliance on a Standard Remote Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-hardware-choices-wisdom-from-toms-technological-review/"><u>Mastering Hardware Choices - Wisdom From Tom's Technological Review</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-flawless-faces-in-fcpx-a-plugin-free-approach-to-skin-smoothing/"><u>New In 2024, Flawless Faces in FCPX A Plugin-Free Approach to Skin Smoothing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-coredll-file-not-found-issue-a-step-by-step-guide/"><u>Resolving the 'Core.dll' File Not Found Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-tecno-spark-10-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Tecno Spark 10 5G.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-of-affordable-youtube-premium-for-students-tips-and-tricks/"><u>Unlocking the Secrets of Affordable YouTube Premium for Students: Tips and Tricks</u></a></li>
+</ul></div>
 

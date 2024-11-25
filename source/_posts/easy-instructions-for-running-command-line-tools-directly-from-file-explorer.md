@@ -1,7 +1,7 @@
 ---
 title: Easy Instructions for Running Command Line Tools Directly From File Explorer
-date: 2024-11-10T16:34:15.958Z
-updated: 2024-11-15T17:34:40.090Z
+date: 2024-11-22T16:08:45.977Z
+updated: 2024-11-25T16:08:55.821Z
 categories:
   - BestProducts
 description: This Article Describes Easy Instructions for Running Command Line Tools Directly From File Explorer
@@ -37,13 +37,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 2: Check to See if It's Skype's Problem
 
  See if others are having troubles with Skype, too. There isn't much you can do to fix it if it's not your problem to fix. Sometimes things go wrong on Skype's end and the only thing you can do is wait it out.
@@ -53,10 +46,7 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 ![Skype Status Normal Service](https://www.lifewire.com/thmb/gelce_nk6NZFVOXIBopwnyukvrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-status-normal-service-002401f4bdd54451a46e388b733ee6d5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Something else you can do to troubleshoot the problem is to check[Skype's status on Down Detector](https://downdetector.com/status/skype/) to see if other users are reporting that it's down or having some other connection problem.
@@ -64,10 +54,7 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 3: Check Your Network Connection
@@ -78,25 +65,11 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 4: Check Skype's Audio Settings and Permissions
 
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
 
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Using Skype on a Computer
 
@@ -127,6 +100,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 2. Find and open**Skype** and then**Permissions** .
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 5: Check Skype's Video Settings and Permissions
 
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
@@ -143,6 +120,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 * Make sure that there's nothing physically blocking the camera.
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Skype for Mobile Devices
 
  If Skype video is not working on your iPad, iPhone, or other iOS devices, go into the**Settings** app and find**Skype** from the list, then turn on**Camera** access if it's not already.
@@ -152,6 +133,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  If the device still doesn't let you use video in Skype, remember that it's really easy to switch between the front and back camera. If your phone is down on a table, or you're holding it in a certain way, it can completely block the video and make it seem like the camera isn't working.
 
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 6: Make a Test Call in Skype
 
@@ -166,10 +151,7 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 7: Reinstall Skype
@@ -231,20 +213,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ow-to-seamlessly-reorganize-video-playlists-on-yt-for-2024/"><u>[New] How to Seamlessly Reorganize Video Playlists on YT for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-most-liked-and-watched-amazon-prime-video-on-twitter-for-2024/"><u>[Updated] Most Liked and Watched Amazon Prime Video on Twitter for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/asus-aura-themes-and-wallpapers-free-downloads-compatible-with-windows-11-systems/"><u>ASUS Aura Themes & Wallpapers: Free Downloads Compatible with Windows 11 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-error-0x80070570-expert-guide-to-restoring-your-data-flow/"><u>Fixing Error 0X80070570: Expert Guide to Restoring Your Data Flow</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-access-internet-content-through-your-television-system-at-home/"><u>How To Access Internet Content Through Your Television System at Home</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/inside-apoyser-detailed-comparison-with-leading-screen-recorder-apps/"><u>Inside Apoyser Detailed Comparison with Leading Screen Recorder Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/latest-updates-on-the-playstation-5-slim-pricing-and-launch-details/"><u>Latest Updates on the PlayStation 5 Slim - Pricing & Launch Details</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-network-sight-options-a-users-manual-for-turning-on-and-off-windows-10/"><u>Mastering Network Sight Options: A User's Manual for Turning On and Off Windows 10</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-create-stunning-mac-slideshows-a-beginners-guide-to-ezvid/"><u>New In 2024, Create Stunning Mac Slideshows A Beginners Guide to Ezvid</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-track-your-moves-best-apps-for-android-and-iphone/"><u>New Track Your Moves Best Apps for Android and iPhone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/snap-instantly-with-iphone-time-lapse-tips-for-2024/"><u>Snap Instantly with iPhone Time Lapse Tips for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-discovering-your-bookmarked-instagram-reels-easily/"><u>Step-by-Step Guide: Discovering Your Bookmarked Instagram Reels Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-repair-why-is-my-playstation-5-controller-not-charging/"><u>Step-by-Step Repair: Why Is My PlayStation 5 Controller Not Charging?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-future-of-apples-notebooks-discover-rumored-specs-release-window-and-price-point-for-new-touch-ready-macbook/"><u>The Future of Apple's Notebooks? Discover Rumored Specs, Release Window, and Price Point for New Touch-Ready MacBook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-elite-uavs-get-yours-today/"><u>[New] Elite UAVs Get Yours Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-cod-vanguard-voice-chat-not-working/"><u>[SOLVED] COD: Vanguard Voice Chat Not Working</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-clearance-checking-guidelines-for-pre-upload-to-tiktok/"><u>[Updated] 2024 Approved Clearance-Checking Guidelines for Pre-Upload to TikTok</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-instructions-for-resetting-to-defaults-on-a-samsung-screen-device/"><u>Complete Instructions for Resetting to Defaults on a Samsung Screen Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-flat-screen-television-cleansing-ensuring-picture-perfect-quality/"><u>DIY Flat Screen Television Cleansing: Ensuring Picture Perfect Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-11s-missing-d3dx939dll-error/"><u>Fixing Windows 11'S Missing D3DX9_39.dll Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/impact-of-ram-speed-and-delay-on-computer-performance/"><u>Impact of RAM Speed & Delay on Computer Performance</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-motorola-defy-2-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Motorola Defy 2 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-xiaomi-redmi-note-12-proplus-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Xiaomi Redmi Note 12 Pro+ 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-smartphone-as-an-artists-canvas-producing-quality-youtube-video-content/"><u>In 2024, Your Smartphone as an Artist’s Canvas Producing Quality YouTube Video Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-d3dx941dll-file-not-found-step-by-step-solution-guide/"><u>Resolving 'd3dx9_41.dll' File Not Found? Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshooting-guide-frequently-asked-technical-issues-with-winxdvd-winx-hd-video-converter-by-digiarty/"><u>Troubleshooting Guide: Frequently Asked Technical Issues with WinXDVD-WinX HD Video Converter by Digiarty</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-solving-the-mystery-of-unresponsive-airpod-pairing/"><u>Ultimate Guide: Solving the Mystery of Unresponsive AirPod Pairing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-time-capsules-the-ultimate-how-to-for-using-the-wayback-machine/"><u>Unlocking Time Capsules: The Ultimate How-To for Using the Wayback Machine</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-do-when-your-apple-watch-screen-wont-respond-helpful-tips-inside/"><u>What to Do When Your Apple Watch Screen Won't Respond? Helpful Tips Inside</u></a></li>
 </ul></div>
 

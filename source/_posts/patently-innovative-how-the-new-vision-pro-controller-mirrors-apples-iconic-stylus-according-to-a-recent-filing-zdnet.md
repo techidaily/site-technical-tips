@@ -1,7 +1,7 @@
 ---
 title: "Patently Innovative: How the New Vision Pro Controller Mirrors Apple's Iconic Stylus, According to a Recent Filing | ZDNET"
-date: 2024-11-12T05:34:25.724Z
-updated: 2024-11-15T18:58:56.257Z
+date: 2024-11-24T16:09:38.100Z
+updated: 2024-11-25T16:11:12.964Z
 tags:
   - apple
 categories:
@@ -75,26 +75,26 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-electronic-conference-logging-for-2024/"><u>[New] Electronic Conference Logging for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-expert-techniques-for-effective-tiktok-videos-pcmac-for-2024/"><u>[New] Expert Techniques for Effective TikTok Videos (PC/MAC) for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-retro-social-media-revelations-mastering-outdated-fb-functionality/"><u>2024 Approved Retro Social Media Revelations Mastering Outdated FB Functionality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-implementing-family-safe-settings-on-discord/"><u>A Step-by-Step Guide: Implementing Family Safe Settings on Discord</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-guide-to-enabling-domain-safelist-feature-in-macos-mail-client/"><u>Complete Guide to Enabling Domain Safelist Feature in macOS Mail Client</u></a></li>
-<li><a href="https://fox-links.techidaily.com/decoding-firefox-picture-in-picture-a-comprehensive-guide-for-2024/"><u>Decoding Firefox Picture-in-Picture A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-steps-to-update-the-time-on-your-kindle-paperwhite-device/"><u>Effortless Steps to Update the Time on Your Kindle Paperwhite Device</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-easily-match-color-in-video-clips-with-final-cut-pro/"><u>How to Easily Match Color in Video Clips with Final Cut Pro</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Realme Note 50? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo V27e? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/simplifying-media-files-with-xml-ssa-ttml-to-srt-process-for-2024/"><u>Simplifying Media Files with XML, SSA, TTML to SRT Process for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-dealing-with-opengl32dll-errors-on-your-pc/"><u>Step-by-Step Solution: Dealing with OpenGL32.dll Errors on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/streamers-handbook-demystifying-common-confusions-on-twitch-chat-for-rookies/"><u>Streamer's Handbook: Demystifying Common Confusions on Twitch Chat for Rookies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-premier-selection-of-android-friendly-wristwear-application-suite/"><u>The Premier Selection of Android-Friendly Wristwear Application Suite</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-echo-chambers-tech-updates/"><u>[New] Echo Chambers Tech Updates</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-social-media-streams-iphone-and-android-best-practices/"><u>2024 Approved Navigating Social Media Streams IPhone & Android Best Practices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-potential-from-standard-sdr-to-high-end-hdr/"><u>2024 Approved Unleashing Potential From Standard SDR to High-End HDR</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-car-project-fresh-insights-on-costs-scheduled-debut-technical-specs-and-newly-breaking-rumors/"><u>Apple's Car Project: Fresh Insights on Costs, Scheduled Debut, Technical Specs & Newly-Breaking Rumors</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/creating-the-perfect-brew-emulating-top-notch-features-of-an-exceptional-tea-timer-application-across-your-products/"><u>Creating the Perfect Brew: Emulating Top-Notch Features of an Exceptional Tea Timer Application Across Your Products</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dell-advancements-updating-and-tuning-the-smart-media-bus-controller-software/"><u>Dell Advancements: Updating and Tuning the Smart Media Bus Controller Software</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-seamlessly-upload-youtube-videos-to-facebook-feed/"><u>How to Seamlessly Upload YouTube Videos to Facebook Feed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-construct-powerpoint-into-digital-film/"><u>In 2024, Construct PowerPoint Into Digital Film</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-scheduling-virtual-gatherings-with-zoom-an-android-users-handbook/"><u>In 2024, Scheduling Virtual Gatherings with Zoom An Android User's Handbook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-look-at-the-gamer-xtreme-by-cyberpowerpc-the-smart-choice-for-cost-conscious-gamers-seeking-flexibility/"><u>In-Depth Look at the Gamer Xtreme by CyberPowerPC: The Smart Choice for Cost-Conscious Gamers Seeking Flexibility</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-contactless-payments-a-step-by-step-guide-to-using-apple-pay-on-apple-watches/"><u>Mastering Contactless Payments: A Step-by-Step Guide to Using Apple Pay on Apple Watches</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-multi-tasking-a-step-by-step-guide-to-splitting-your-macbook-airs-screen/"><u>Mastering Multi-Tasking: A Step-by-Step Guide to Splitting Your MacBook Air's Screen</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/moving-your-windows-server-2012-r2-top-3-techniques-explained/"><u>Moving Your Windows Server 2012 R2 - Top 3 Techniques Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-earbuds-and-laptop-pairing-easy-connection-process-explained/"><u>Samsung Earbuds & Laptop Pairing: Easy Connection Process Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-jvm-dll-missingnotfound-issues-a-comprehensive-guide/"><u>Solving JVM DLL Missing/NotFound Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-elite-circle-of-gaming-top-8-phenomenal-mobile-games-await-you/"><u>The Elite Circle of Gaming: Top 8 Phenomenal Mobile Games Await You</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlocking-revenue-with-strategic-snapchat-promotions/"><u>Unlocking Revenue with Strategic Snapchat Promotions</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

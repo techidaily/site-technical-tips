@@ -1,7 +1,7 @@
 ---
 title: "Ahead of the Curve: Meta Quest 3 Launches Pre-Vision Pro AI Capabilities - How to Activate Them | ZDNET"
-date: 2024-11-14T01:24:15.727Z
-updated: 2024-11-15T20:53:21.925Z
+date: 2024-11-21T16:52:42.974Z
+updated: 2024-11-25T16:19:28.413Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ Because the app was not yet available to the public, trying it out involved inst
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Installing TestFlight
 
 First, you'll need to install TestFlight itself. It's an app found in the Vision Pro App Store. While wearing your Vision Pro, open the App Store and glance at the menu on the left. Select Search. 
@@ -63,10 +67,7 @@ Once the app is installed, navigate to the TestFlight icon on your Home screen. 
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Running TestFlight for the first time
@@ -90,10 +91,7 @@ Screenshot by David Gewirtz/ZDNET
 Next, let's look at running an app. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Running a beta release app using TestFlight
@@ -181,18 +179,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-legacy-linkup-suite/"><u>[New] In 2024, Legacy Linkup Suite</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-satirical-hits-the-funniest-song-rewrites/"><u>[New] Satirical Hits The Funniest Song Rewrites</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-academic-avenue-leading-educators-on-youtube/"><u>[Updated] 2024 Approved Academic Avenue Leading Educators on YouTube</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-silent-story-consumers-leading-anonymity-apps/"><u>2024 Approved Silent Story Consumers Leading Anonymity Apps</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-choosing-an-original-channel-moniker-a-guide-for-filmmakers-with-filmora/"><u>In 2024, Choosing an Original Channel Moniker A Guide for Filmmakers with Filmora</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unexpected-angle-alterations-in-instagram-video-posts/"><u>In 2024, Unexpected Angle Alterations in Instagram Video Posts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-academic-writing-leveraging-chatgpt-for-enhanced-research-and-essays/"><u>Mastering Academic Writing: Leveraging ChatGPT for Enhanced Research & Essays</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximize-your-laptops-potential-with-these-10-performance-boosting-tips/"><u>Maximize Your Laptop's Potential with These 10 Performance-Boosting Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/optimizing-your-pc-far-cry-5-essential-hardware-specs-and-expert-advice/"><u>Optimizing Your PC: Far Cry 5 Essential Hardware Specs & Expert Advice</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-the-not-found-error-for-python24dll-file/"><u>Troubleshooting the 'Not Found' Error for Python24.dll File</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-freeing-up-storage-space-in-windows-10/"><u>Ultimate Guide: Freeing Up Storage Space in Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-on-linking-laptop-and-television-through-hdmi-visual-steps-included/"><u>Ultimate Tutorial on Linking Laptop and Television Through HDMI – Visual Steps Included</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-and-fixing-sudden-system-failures-when-playing-games-on-your-computer/"><u>Understanding and Fixing Sudden System Failures When Playing Games on Your Computer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-digital-film-composer/"><u>[New] 2024 Approved Digital Film Composer</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-pure-summer-pleasures-our-top-10-holiday-flicks/"><u>[New] 2024 Approved Pure Summer Pleasures Our Top 10 Holiday Flicks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-streamline-your-show-entry-on-apple-media/"><u>[Updated] In 2024, Streamline Your Show Entry on Apple Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-secret-sauce-to-never-miss-a-moment-on-youtube/"><u>[Updated] The Secret Sauce to Never Miss a Moment on YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/accessing-live-coverage-of-samsungs-annual-unpacked-showcase/"><u>Accessing Live Coverage of Samsung's Annual Unpacked Showcase</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/athletic-advocates-mastering-machine-dialogue/"><u>Athletic Advocates, Mastering Machine Dialogue</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-5-ultimate-hd-video-editors-for-stunning-quality/"><u>Best 5 Ultimate HD Video Editors for Stunning Quality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connect-and-stream-with-ease-the-ultimate-guide-to-using-roku-in-hotels-and-dorms/"><u>Connect and Stream with Ease: The Ultimate Guide to Using Roku in Hotels and Dorms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-rcs-messaging-for-enhanced-smartphone-conversations/"><u>Demystifying RCS Messaging for Enhanced Smartphone Conversations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-selection-of-9-complimentary-languages-online-platforms/"><u>Discover the Ultimate Selection of 9 Complimentary Languages Online Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-animatedapp-full-guide-24-edition/"><u>In 2024, AnimatedApp Full Guide '24 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-solving-the-binkw32dll-file-not-found-dilemma/"><u>Ultimate Guide: Solving the 'Binkw32.dll File Not Found' Dilemma</u></a></li>
 </ul></div>
 

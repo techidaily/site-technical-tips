@@ -1,7 +1,7 @@
 ---
 title: Unveiling Apple's Bold Move Against Top Browser Through Intriguing Advertisement - Find Out More at ZDNet
-date: 2024-11-09T02:47:01.954Z
-updated: 2024-11-15T22:13:52.203Z
+date: 2024-11-20T16:46:56.668Z
+updated: 2024-11-25T16:13:03.012Z
 tags:
   - apple
 categories:
@@ -28,14 +28,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to customize your iPhone's new Control Center with iOS 18
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
 
@@ -44,10 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -65,10 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -76,6 +67,10 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -86,10 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -134,24 +126,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-crafting-intricate-photo-mosaics/"><u>[Updated] Expert Tips for Crafting Intricate Photo Mosaics</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-your-secure-video-chatting-needs-met-top-10-safe-and-free-applications-on-smart-devices-for-2024/"><u>[Updated] Your Secure Video Chatting Needs Met Top 10 Safe & Free Applications on Smart Devices for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/easy-to-follow-tutorial-securely-saving-data-with-backup-solutions-for-dell-laptops-using-windows-11/"><u>Easy-to-Follow Tutorial: Securely Saving Data with Backup Solutions for Dell Laptops Using Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/finding-solutions-deadlock-woes-and-how-to-get-deathloop-running/"><u>Finding Solutions: Deadlock Woes and How to Get Deathloop Running</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-canon-mg3620-printer-drivers-now-safe-and-simple-steps/"><u>Get Your Canon MG3620 Printer Drivers Now – Safe and Simple Steps</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-to-seamlessly-transition-a-linux-vm-from-vmware-environment-to-kvm-platform/"><u>How To Seamlessly Transition A Linux VM From VMware Environment to KVM Platform</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-fixes-to-tackle-overloading-ram-on-your-windows-11-device/"><u>Step-by-Step Fixes to Tackle Overloading RAM on Your Windows ^[11^] Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-successfully-disabling-safe-mode-in-windows-11/"><u>Step-by-Step Guide: Successfully Disabling Safe Mode in Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-on-how-to-repair-windows-device-driver-issues/"><u>Step-by-Step Instructions on How to Repair Windows Device Driver Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-to-resolve-sticky-keys-in-windows-systems/"><u>Step-by-Step Solution to Resolve Sticky Keys in Windows Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-fixing-windows-11-installation-errors/"><u>Step-by-Step Solutions for Fixing Windows 11 Installation Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-entering-bios-on-windows-11-devices/"><u>Step-by-Step Tutorial: Entering BIOS on Windows 11 Devices</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/step-up-your-pc-game-upgrading-from-windows-11-home/"><u>Step-Up Your PC Game: Upgrading From Windows 11 Home</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/superfetch-explained-your-definitive-source-of-information/"><u>SuperFetch Explained: Your Definitive Source of Information</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-vivo-y100t-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo Y100t Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-portable-storage-options-external-hdds-and-ssds-for-macos-users/"><u>Top Rated Portable Storage Options: External HDDs & SSDs for macOS Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-excessive-processor-load-on-windows-11-systems-solutions-revealed/"><u>Troubleshooting Excessive Processor Load on Windows 11 Systems - Solutions Revealed</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-begin-your-editing-journey-adopting-movie-maker-for-w11/"><u>[New] In 2024, Begin Your Editing Journey Adopting Movie Maker for W11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-best-affordable-flying-tech-today/"><u>[New] In 2024, Best Affordable Flying Tech Today</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-social-media-shifts-yearly-data-visualization-guide/"><u>[New] In 2024, Social Media Shifts Yearly Data Visualization Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-superior-5-social-sites-redefining-connectivity-for-2024/"><u>[New] Superior 5 Social Sites, Redefining Connectivity for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-free-videographers-essential-openers/"><u>[Updated] 2024 Approved Free Videographer's Essential Openers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-onlineoffline-animation-revolution-with-zero-price-tag/"><u>[Updated] Online/Offline Animation Revolution with Zero Price Tag</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-top-tier-televisions-best-4k-edition/"><u>[Updated] Top-Tier Televisions – Best 4K Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-buzz-around-new-sony-vr-device-forecast-pricing-release-eta-and-specs-sneak-peek/"><u>Exploring the Buzz Around New Sony VR Device: Forecast Pricing, Release ETA and Specs Sneak Peek</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-functionality-of-espnplus-streaming-service-insights-for-fans/"><u>Exploring the Functionality of ESPN+ Streaming Service: Insights for Fans</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-tracking-a-contacts-whereabouts-on-your-iphone/"><u>Guide: Tracking a Contact's Whereabouts on Your iPhone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-something-went-wrong-office-error-on-windows/"><u>How to Fix the “Something Went Wrong” Office Error on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hulu-versus-hulu-plus-identifying-core-differences-for-viewers/"><u>Hulu versus Hulu Plus: Identifying Core Differences for Viewers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-strategies-for-creating-an-insta-sensation/"><u>Top 10 Strategies for Creating an Insta-Sensation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-not-found-error-for-d3dx928dll-file-on-your-pc/"><u>Troubleshooting Not Found Error for d3dx9_28.dll File on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-affordable-education-a-guide-to-securing-lenovo-discounts-for-students/"><u>Unlocking Affordable Education: A Guide to Securing Lenovo Discounts for Students</u></a></li>
 </ul></div>
 

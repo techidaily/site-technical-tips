@@ -1,7 +1,7 @@
 ---
 title: "Innovation Alert: Apple Delves Into AI-Enhanced Domestic Robots, Showcasing Two Revolutionary Products | ZDNET Update"
-date: 2024-11-14T23:57:18.106Z
-updated: 2024-11-15T17:20:40.538Z
+date: 2024-11-24T17:13:02.698Z
+updated: 2024-11-25T16:26:34.880Z
 tags:
   - apple
 categories:
@@ -61,10 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -108,10 +105,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -125,10 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -141,6 +132,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -168,10 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,15 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-cutting-edge-creations-yearly-free-text-files/"><u>[New] In 2024, Cutting-Edge Creations Yearly, Free Text Files</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/outube-shorts-revenue-sharing-how-much-do-creators-get-paid-in-2024/"><u>[New] YouTube Shorts Revenue Sharing How Much Do Creators Get Paid, In 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/agile-operations-top-lite-android-workhorses/"><u>Agile Operations: Top Lite Android Workhorses</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-3d-lut-expertise-in-a-quick-learning-journey/"><u>In 2024, 3D LUT Expertise in a Quick Learning Journey</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-and-easy-steps-for-connecting-a-wireless-printer-at-homeoffice/"><u>Quick & Easy Steps for Connecting a Wireless Printer at Home/Office</u></a></li>
-<li><a href="https://fox-that.techidaily.com/rotation-locked-learn-how-to-activate-landscape-on-your-ios-gadget/"><u>Rotation Locked? Learn How to Activate Landscape on Your iOS Gadget</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-problem-steps-to-fix-a-non-functional-keyboard/"><u>Solving the Problem: Steps to Fix a Non-Functional Keyboard</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-updating-realteks-pci-express-fe-series-chipset-drivers-on-windows-7/"><u>Step-by-Step Guide: Updating Realtek's PCI Express FE Series Chipset Drivers on Windows 7</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-overcoming-fortnites-edit-slowdown-issues-with-reliable-fixes/"><u>Step-by-Step Tutorial: Overcoming Fortnite's Edit Slowdown Issues with Reliable Fixes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-immersive-escapes-androidioss-favorite-ar-games-for-2024/"><u>[New] Immersive Escapes Android/iOS's Favorite AR Games for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-affordable-webinar-tools-for-efficient-recording/"><u>[New] In 2024, Affordable Webinar Tools for Efficient Recording</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-flip-clips-android-reversal-technique/"><u>[Updated] 2024 Approved Flip Clips Android Reversal Technique</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-download-dos-and-donts-for-vrecorder/"><u>[Updated] In 2024, Download Dos & Don’ts for VRecorder</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-the-art-of-uplifting-daily-existence-videos/"><u>[Updated] Mastering the Art of Uplifting Daily Existence Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/accessing-your-netgear-devices-julys-default-passwords-revealed/"><u>Accessing Your NETGEAR Devices – July's Default Passwords Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beyond-gmail-the-leading-8-email-providers-of-202currents/"><u>Beyond Gmail: The Leading 8 Email Providers of 202Currents</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-secrets-to-unhiding-apps-on-your-iphone-device/"><u>Discover the Secrets to Unhiding Apps on Your iPhone Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-your-next-favorite-kids-film-on-disney-plus-july-2024-collection/"><u>Discover Your Next Favorite Kids' Film on Disney Plus - July 2024 Collection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-techniques-to-address-the-frustrating-netflix-ui-800-3-glitch/"><u>DIY Techniques to Address the Frustrating Netflix UI-800-3 Glitch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-to-create-a-custom-email-signature-on-godaddy-webmail-for-business-communication/"><u>Easy Steps to Create a Custom Email Signature on GoDaddy Webmail for Business Communication</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-digital-networking-sites-exploring-facebook-twitter-instagram-and-youtube/"><u>Essential Digital Networking Sites: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hisense-50-inch-4k-ultra-hd-smart-led-tv-50h8f-in-depth-review-and-comparison/"><u>Hisense 50-Inch 4K Ultra HD Smart LED TV (50H8F) - In-Depth Review & Comparison</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-13-mini-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On Apple iPhone 13 mini If Youve Tried Everything</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-second-screen-craftsman/"><u>In 2024, Second-Screen Craftsman</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-samsung-galaxy-a24-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Samsung Galaxy A24 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722867959139-navigating-splitting-your-macbook-air-screen-for-better-task-management/"><u>Navigating Splitting Your MacBook Air Screen for Better Task Management</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sony-state-of-play-2024-announcements-news-and-more/"><u>Sony State of Play 2024: Announcements, News, and More</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-troubleshooting-guide-for-non-receiving-yahoo-email-accounts/"><u>The Troubleshooting Guide for Non-Receiving Yahoo Email Accounts</u></a></li>
 </ul></div>
 

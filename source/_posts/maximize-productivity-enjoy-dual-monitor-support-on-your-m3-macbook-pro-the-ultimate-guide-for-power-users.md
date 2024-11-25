@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity: Enjoy Dual-Monitor Support on Your M3 MacBook Pro - The Ultimate Guide for Power Users"
-date: 2024-11-15T04:48:00.157Z
-updated: 2024-11-16T00:26:41.838Z
+date: 2024-11-20T16:30:03.336Z
+updated: 2024-11-25T17:16:35.423Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -52,13 +56,6 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Continuity
 
 Screenshot by Nina Raemont
@@ -72,10 +69,7 @@ The app also streamlines your devices by bringing your iPhone's notifications st
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
@@ -90,6 +84,10 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. AI-fueled productivity apps
 
 Screenshot by Nina Raemont
@@ -102,19 +100,6 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -124,6 +109,10 @@ Safari will see a host of improvements powered by AI functionality, including an
 **Also: [ChatGPT privacy tips: Two important ways to limit the data you share with OpenAI](https://www.zdnet.com/article/chatgpt-privacy-tips-two-important-ways-to-limit-the-data-you-share-with-openai/)** 
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
 
@@ -136,10 +125,7 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -176,22 +162,18 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://technical-tips.techidaily.com/2023s-must-play-no-cost-racing-game-collection-for-pc-gamers/"><u>2023'S Must-Play, No Cost Racing Game Collection for PC Gamers!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-frame-fastness-mastering-time-lapse-shots-with-samsung/"><u>2024 Approved Frame Fastness Mastering Time-Lapse Shots with Samsung</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/crafting-captivating-instagram-puzzles-a-step-by-step-approach/"><u>Crafting Captivating Instagram Puzzles A Step-by-Step Approach</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-elite-selection-of-tv-streaming-services-for-2econd-quarter-2024/"><u>Discover the Elite Selection of TV Streaming Services for 2Econd Quarter, 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-sync-the-time-correctly-on-a-kindle-paperwhite-quick-tips/"><u>How to Sync the Time Correctly on a Kindle Paperwhite: Quick Tips</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-x-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone X When Its Locked Within Seconds</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-the-worth-of-sns-hdr-an-in-depth-comparison-study/"><u>In 2024, The Worth of SNS HDR An In-Depth Comparison Study</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/les-5-meilleurs-lecteurs-video-wmv-optimises-pour-mac-un-guide-complet-a-la-lecture-et-au-partage-de-fichiers-wmv/"><u>Les 5 Meilleurs Lecteurs Vidéo WMV Optimisés Pour Mac : Un Guide Complet À La Lecture Et Au Partage De Fichiers WMV</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pro-tip-effortlessly-conceal-your-environment-in-microsoft-teams-video-calls/"><u>Pro Tip: Effortlessly Conceal Your Environment in Microsoft Teams Video Calls</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/professional-hacks-how-to-implement-a-line-feature-in-word/"><u>Professional Hacks: How to Implement a Line Feature in Word</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-game-multisession-access-enablement/"><u>PS5 Game Multisession Access Enablement</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solutions-for-resolving-mfc42dll-file-missing-issues/"><u>Solutions for Resolving 'MFC42.dll' File Missing Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/stalled-games-not-good-days-manually-extracting-from-sx/"><u>Stalled Games, Not Good Days: Manually Extracting From SX</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-guide-to-self-starting-facebook-videos-for-2024/"><u>The Ultimate Guide to Self-Starting Facebook Videos for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-507-instagram-caption-ideas-for-hitting-the-high-notes/"><u>Top 507 Instagram Caption Ideas for Hitting the High Notes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-bing-microsofts-search-engine-explained/"><u>Understanding Bing: Microsoft's Search Engine Explained</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-hilarious-highlights-reddit-and-twitters-best-bits/"><u>[New] Hilarious Highlights Reddit and Twitter's Best Bits</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-miui-screen-recorder-review/"><u>[Updated] 2024 Approved MIUI Screen Recorder Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-capture-and-share-the-world-in-high-definition-with-mi-11s-screenshot-capabilities/"><u>2024 Approved Capture and Share the World in High Definition with Mi 11'S Screenshot Capabilities</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-performance-the-essential-tutorial-for-refreshing-your-samsung-tvs-software/"><u>Boosting Performance: The Essential Tutorial for Refreshing Your Samsung TV's Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-espns-digital-revolution-inside-espnpluss-streaming-service-mechanism/"><u>Demystifying ESPN's Digital Revolution: Inside Espn+'s Streaming Service Mechanism</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-insights-samsung-smart-tv-applications-guide/"><u>Essential Insights: Samsung Smart TV Applications Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/facebook-alternatives-connecting-on-messenger-without-an-official-account/"><u>Facebook Alternatives: Connecting on Messenger without an Official Account</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-microsofts-strategic-move-to-acquire-blizzard-delving-into-ai-art-and-language-solutions-podcast-episode/"><u>Inside Microsoft’s Strategic Move to Acquire Blizzard: Delving Into AI Art & Language Solutions [Podcast Episode]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/making-your-voice-heard-in-the-podcast-realm/"><u>Making Your Voice Heard in the Podcast Realm</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/maximisez-les-economies-avec-des-bons-bonus-chez-movavi-promotions-exclusives/"><u>Maximisez Les Économies Avec Des Bons Bonus Chez Movavi - Promotions Exclusives</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-windows-11-battery-status-screen-a-comprehensive-guide/"><u>Understanding the Windows 11 Battery Status Screen: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-potential-of-multi-stream-video-on-microsoft-edge/"><u>Unlocking the Potential of Multi-Stream Video on Microsoft Edge</u></a></li>
 </ul></div>
 

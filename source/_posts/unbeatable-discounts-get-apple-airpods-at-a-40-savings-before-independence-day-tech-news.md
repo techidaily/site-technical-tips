@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Discounts: Get Apple AirPods at a $40 Savings Before Independence Day | Tech News"
-date: 2024-11-13T07:18:41.413Z
-updated: 2024-11-16T05:19:42.777Z
+date: 2024-11-23T16:24:15.276Z
+updated: 2024-11-25T17:19:27.322Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ Lucky for us, that already-affordable price dropped once more, and the deal is s
 The second-generation AirPods come with a Lightning charger case. They offer solid sound, five hours of battery of life (and a fully-charged case can recharge them five times, giving you up to 24 hours), and voice-activated Siri access. They're also super easy to set up and to switch between your Apple devices. 
 
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd3615e89-4bc5-490e-8142-47a4e693ce93%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -58,29 +62,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/remier-fifa-vids-data-visualized-for-social-media/"><u>[New] Premier FIFA Vids Data Visualized for Social Media</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-lg-360-camera-mastered-a-full-review-for-2024/"><u>[Updated] LG 360 Camera Mastered A Full Review for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-broadcast-perfection-recommended-tech-and-apps-for-youtubers/"><u>2024 Approved Broadcast Perfection Recommended Tech and Apps for YouTubers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/beginner-secrets-of-x-revealed-top-10-tweets-to-get-you-started/"><u>Beginner Secrets of X Revealed: Top 10 Tweets to Get You Started</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722849423374-connect-and-stream-with-ease-the-ultimate-guide-to-using-roku-in-hotels-and-dorms/"><u>Connect and Stream with Ease: The Ultimate Guide to Using Roku in Hotels and Dorms</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/duo-display-dynamic-duo-configuring-additional-screens-on-mac-devices/"><u>Duo-Display Dynamic Duo: Configuring Additional Screens on Mac Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhance-visuals-basic-ps-color-techniques/"><u>Enhance Visuals Basic PS Color Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-free-tools-for-testing-your-hard-drives-in-july-2e-the-top-13-selections/"><u>Essential Free Tools for Testing Your Hard Drives in July 2E: The Top 13 Selections</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862730933-get-the-powerhouse-performance-the-affordable-lenovo-legion-slim-pert-5-for-gamers-now-available-on-newegg-below-1k/"><u>Get the Powerhouse Performance: The Affordable Lenovo Legion Slim Pert-5 for Gamers Now Available on Newegg Below $1K!</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/how-to-save-your-favorite-antenna-tv-episodes-updated-techniques/"><u>How to Save Your Favorite Antenna TV Episodes: Updated Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722876432081-mastering-new-tongues-without-spending-a-penny-check-out-these-9-favorite-websites-for-learning-languages/"><u>Mastering New Tongues Without Spending a Penny? Check Out These 9 Favorite Websites for Learning Languages!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/roku-express-vs-stick-whats-the-difference/"><u>Roku Express vs Stick: What's the Difference?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solved-troubleshooting-resident-evil-village-pc-instability-issues/"><u>Solved! Troubleshooting Resident Evil Village PC Instability Issues</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-complete-guide-to-applying-vhs-filters-on-pconline-sites/"><u>The Complete Guide to Applying VHS Filters on PC/Online Sites</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-elite-top-1aturals-in-online-dominance-meet-the-10-biggest-websites-ever/"><u>The Elite Top 1Aturals in Online Dominance: Meet The 10 Biggest Websites Ever.</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/transform-your-standard-pdf-into-an-engaging-flip-page-ebook-with-just-a-click-discover-how-on-flipbuildercom/"><u>Transform Your Standard PDF Into an Engaging, Flip-Page Ebook with Just a Click! Discover How on FlipBuilder.com</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-of-pinning-instant-messages-in-your-dm-for-optimal-visibility-and-organization/"><u>Unlocking the Secrets of Pinning Instant Messages in Your DM for Optimal Visibility and Organization</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-sequential-visual-narratives-with-photos/"><u>[Updated] Crafting Sequential Visual Narratives with Photos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlocking-full-potential-with-facebook-interaction/"><u>[Updated] Unlocking Full Potential with Facebook Interaction</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-to-react-when-youre-your-own-reflection-in-a-video-call/"><u>2024 Approved How to React When You're Your Own Reflection in a Video Call</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-fixes-overcoming-the-vanguard-not-initialized-challenge-in-valorant/"><u>Complete Fixes: Overcoming the 'Vanguard Not Initialized' Challenge in VALORANT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-overcoming-cannot-be-opened-error-due-to-unconfirmed-mac-app-developers/"><u>Comprehensive Guide to Overcoming 'Cannot Be Opened' Error Due to Unconfirmed Mac App Developers</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/creative-tims-extensive-collection-of-35plus-react-design-templates-and-ui-components/"><u>Creative Tim's Extensive Collection of 35+ React Design Templates and UI Components</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-z-flip-5-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/improve-your-homes-digital-television-signal-using-indoor-antennas/"><u>Improve Your Home's Digital Television Signal Using Indoor Antennas</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g23frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G23FRP Lock</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-hp-officejet-pro-all-in-one-printer-driver-update-for-windows-10-8-vista-xp-and-earlier-versions/"><u>Latest HP Officejet Pro All-in-One Printer Driver Update for Windows 10, 8, Vista, XP & Earlier Versions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722900874791-lost-track-of-your-email-heres-how-you-can-find-it/"><u>Lost Track of Your Email? Here's How You Can Find It!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/teslas-self-driving-taxi-update-revealed-costs-launch-timeline-and-feature-sneak-peek/"><u>Tesla's Self-Driving Taxi Update: Revealed Costs, Launch Timeline & Feature Sneak Peek</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-journey-through-macos-versions-whats-the-most-recent-update-complete-guide-available-here/"><u>The Journey Through macOS Versions: What's the Most Recent Update? Complete Guide Available Here!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-fixes-when-your-skype-connection-is-down/"><u>Top 10 Fixes When Your Skype Connection Is Down</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-gmail-substitutes-to-try/"><u>Top 8 Gmail Substitutes to Try</u></a></li>
+<li><a href="https://blog-min.techidaily.com/understanding-digiarty-winxdvd-eula-key-terms-and-conditions-explained/"><u>Understanding Digiarty WinXDVD EULA: Key Terms and Conditions Explained</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-apple-homepod-mini-a-deep-dive-into-audio-performance-siri-integration-and-extra-capabilities/"><u>Unveiling the Apple HomePod Mini: A Deep Dive Into Audio Performance, Siri Integration & Extra Capabilities</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-google-pixel-6-unveiled-latest-leaks-on-costs-launch-timeline-and-features/"><u>Upcoming Google Pixel 6 Unveiled: Latest Leaks on Costs, Launch Timeline & Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/voice-message-basics-for-iphones-a-beginners-how-to-guide/"><u>Voice Message Basics for iPhones: A Beginner's How-To Guide</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

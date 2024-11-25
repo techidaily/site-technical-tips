@@ -1,7 +1,7 @@
 ---
 title: "Mastering Collaborative Work in Apple's iCloud: A Detailed Guide Based on ZDNet's Analysis"
-date: 2024-11-11T03:41:08.077Z
-updated: 2024-11-16T05:40:49.825Z
+date: 2024-11-20T16:22:46.576Z
+updated: 2024-11-25T17:00:40.166Z
 tags:
   - apple
 categories:
@@ -18,6 +18,10 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple
 
 * [Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)
@@ -26,13 +30,6 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 * [I uncovered 8 cool ways to use LiDAR on an iPhone and iPad](https://www.zdnet.com/article/i-uncovered-8-cool-ways-to-use-lidar-on-an-iphone-and-ipad/)
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Requirements
 
@@ -45,10 +42,7 @@ I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/76
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -59,6 +53,10 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -67,13 +65,14 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Enable the Collaboration feature
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
@@ -109,13 +108,6 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -157,20 +149,16 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-charting-a-new-course-for-creative-vr-content/"><u>[New] Charting a New Course for Creative VR Content</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-list-free-online-meeting-software-roundup/"><u>[New] In 2024, The Ultimate List Free Online Meeting Software Roundup</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-exclusive-roundup-the-best-video-to-mp3-converters-for-2024/"><u>[Updated] Exclusive Roundup The Best Video to Mp3 Converters for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/anticipating-the-new-google-extravaganza-insights-on-speculations-and-fresh-disclosures/"><u>Anticipating the New Google Extravaganza - Insights on Speculations & Fresh Disclosures</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-twitter-management-software-expert-recommendations/"><u>Essential Twitter Management Software – Expert Recommendations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-what-to-do-when-your-gaming-headset-for-xbox-series-fails-to-function-correctly/"><u>Expert Advice: What to Do When Your Gaming Headset for Xbox Series Fails to Function Correctly</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-a1x-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-zoom-settings-for-microsoft-teams-communication/"><u>In 2024, Optimal Zoom Settings for Microsoft Teams Communication</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-photobooth-video-glitch-understanding-the-halt/"><u>In 2024, Photobooth Video Glitch - Understanding the Halt</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolving-csr8510-a10-printer-drivers-problems-on-windows-expert-fixes-and-tips/"><u>Resolving CSR8510 A10 Printer Drivers Problems on Windows: Expert Fixes and Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-future-of-smartwatches-apples-latest-gossip-on-the-much-awaited-watch-ultra-2-specs-and-arrival-date/"><u>The Future of Smartwatches: Apple's Latest Gossip on the Much-Awaited Watch Ultra 2 Specs and Arrival Date</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-methods-for-effective-maintenance-of-a-mechanical-keyboard/"><u>Ultimate Methods for Effective Maintenance of a Mechanical Keyboard</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlock-the-secrets-to-launch-resident-evil-7-biohazard-in-202cd-top-tips-and-solutions/"><u>Unlock the Secrets to Launch Resident Evil 7 Biohazard in 202CD: Top Tips & Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-7-free-online-services-for-sending-and-receiving-faxes/"><u>Unveiling 7 Free Online Services for Sending and Receiving Faxes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wireless-linking-ultimate-guide-to-pair-your-samsung-soundbar-with-your-television/"><u>Wireless Linking: Ultimate Guide to Pair Your Samsung Soundbar with Your Television</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-leading-techniques-for-effective-webp-to-jpeg-change/"><u>[New] 2024 Approved Leading Techniques for Effective WebP to JPEG Change</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-best-8-convertors-sub-to-srt-on-all-os-platforms-for-2024/"><u>[New] Best 8 Convertors Sub to Srt on All OS Platforms for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/accessing-the-internet-with-these-5-fantastic-free-public-dns-services/"><u>Accessing the Internet with These 5 Fantastic Free Public DNS Services</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/android-to-firestick-casting-techniques-for-seamless-entertainment/"><u>Android to Firestick Casting Techniques for Seamless Entertainment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-engagement-mastering-the-art-of-video-audio-on-instagram/"><u>Boosting Engagement: Mastering the Art of Video Audio on Instagram</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/community-engagement/"><u>Community Engagement</u></a></li>
+<li><a href="https://facebook.techidaily.com/discovering-deep-conversations-via-messenger-polls/"><u>Discovering Deep Conversations via Messenger Polls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ensuring-seamless-communication-why-iphones-might-miss-texts-from-android-devices/"><u>Ensuring Seamless Communication: Why iPhones Might Miss Texts From Android Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-info-on-the-new-tesla-bot-teasers-estimated-pricing-and-release-specs-revealed/"><u>Inside Info on the New Tesla Bot: Teasers, Estimated Pricing, and Release Specs Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-quality-sd-card-for-sony-alpha-7s-ii/"><u>Top Quality SD Card for Sony Alpha 7S II</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-pairing-and-using-a-samsung-smartphone-as-a-tv-remote-control/"><u>Ultimate Tutorial: Pairing and Using a Samsung Smartphone as a TV Remote Control</u></a></li>
 </ul></div>
 

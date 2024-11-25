@@ -1,7 +1,7 @@
 ---
 title: Is It Less Expensive to Use Uber or Take a Cab for Your Rides?
-date: 2024-11-12T16:36:42.523Z
-updated: 2024-11-15T18:50:40.896Z
+date: 2024-11-22T17:29:43.739Z
+updated: 2024-11-25T17:18:02.019Z
 categories:
   - BestProducts
 description: This Article Describes Is It Less Expensive to Use Uber or Take a Cab for Your Rides?
@@ -25,9 +25,17 @@ of 07
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Create Organized, Artistic Notes and Notebooks: Notebook](https://www.zoho.com/notebook/)
 
 ![Screen Shot of Ipad Note Taking App, Notebook by Zoho Corporation](https://www.lifewire.com/thmb/ynAJojse4D1qOQ6eFARWnpDUL1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-10at8.36.21PM-5b45520a46e0fb003752cb4e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -51,13 +59,6 @@ of 07
 02
 
 of 07
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## [Use Your Apple Pencil to Create Notes and Random Doodles: Nebo](https://www.nebo.app/)
 
@@ -86,22 +87,12 @@ of 07
 of 07
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## [Track Your Notes With a Timeline: Agenda](https://agenda.com/)
 
 ![Screen Shot of iPad Note-Taking App, Agenda – A new take on notes 9+ Momenta B.V.](https://www.lifewire.com/thmb/HfQN2TevpYQTN7tZWIKgNhyXlK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-09at10.15.11PM-5b44189ec9e77c0037c9fe7e.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -127,9 +118,17 @@ of 07
 
 of 07
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [The Tools You Need to Finally Finish That Novel: Transom](https://apps.apple.com/us/app/transom-note-taking-for-writers/id927983947)
 
 ![Screen Shot of iPad Note Taking App, Transom, Note-taking for Writers by VoidMedia](https://www.lifewire.com/thmb/D-W0tDJzFgOogqVZz8Cg-uUV5HI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-10at8.02.33PM-5b4549d246e0fb0037b62987.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -184,13 +183,6 @@ of 07
 06
 
 of 07
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## [Customizable Notes: Drafts](https://getdrafts.com/)
 
@@ -276,19 +268,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-key-to-a-successful-tweet-including-aspect-ratio-details/"><u>[Updated] In 2024, The Key to a Successful Tweet Including Aspect Ratio Details</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-10-secure-business-data-sphere/"><u>[Updated] TOP 10 Secure Business Data Sphere</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-next-gen-editing-experience-reviewed-magix-video-pro-x/"><u>2024 Approved Next-Gen Editing Experience Reviewed Magix Video Pro X</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/demystifying-oled-technology-and-insights-into-its-operational-mechanism/"><u>Demystifying OLED Technology & Insights Into Its Operational Mechanism</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/disabling-ios-emergency-and-amber-notifications-a-step-by-step-guide/"><u>Disabling iOS Emergency & Amber Notifications: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-stunning-clarity-discover-hitachi-4k-tvs-featuring-roku-on-board/"><u>Experience Stunning Clarity: Discover Hitachi 4K TVs Featuring Roku on Board</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-seamlessly-accessing-vids-the-top-5-free-online-video-extractors/"><u>In 2024, Seamlessly Accessing Vids The Top 5 Free Online Video Extractors</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-ais-impact-on-job-markets-the-emergence-of-new-yet-to-be-defined-professional-titles-revealed-zdnet-insights/"><u>Navigating AI's Impact on Job Markets: The Emergence of New, Yet-to-Be-Defined Professional Titles Revealed | ZDNET Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/playstation-network-outage-is-it-global-or-am-i-facing-solo-connectivity-woes/"><u>PlayStation Network Outage: Is It Global or Am I Facing Solo Connectivity Woes?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Pokémon Go Cooldown Chart On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-issue-steps-to-correct-mss32dll-is-absent-or-unlocatable/"><u>Resolving the Issue: Steps to Correct 'mss32.dll' Is Absent or Unlocatable</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-clearing-browser-caches-across-all-platforms/"><u>Step-by-Step Guide: Clearing Browser Caches Across All Platforms</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-most-effective-ways-to-enhance-your-wi-fi-range-this-year/"><u>The Most Effective Ways to Enhance Your Wi-Fi Range This Year</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-shortcomings-of-ai-powered-plagiarism-software/"><u>Understanding the Shortcomings of AI-Powered Plagiarism Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-hdr-photoshop-how-to-create-hdr-images-in-photoshop-like-a-pro/"><u>[Updated] 2024 Approved HDR Photoshop How to Create HDR Images in Photoshop Like a Pro</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-how-to-use-io-screen-recorder/"><u>[Updated] How to Use IO Screen Recorder</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-creative-and-captivating-titles-ready/"><u>2024 Approved Quick, Creative, and Captivating Titles Ready</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/android-phone-detective-strategies-to-locate-erased-contact-details-and-numbers/"><u>Android Phone Detective: Strategies to Locate Erased Contact Details and Numbers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciding-on-ps5-here-are-4-convincing-arguments-for-why-its-a-must-have-gaming-system/"><u>Deciding on PS5? Here Are 4 Convincing Arguments for Why It's a Must-Have Gaming System</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-sculpting-the-visual-narrative-a-composers-approach-to-transition-craftsmanship/"><u>In 2024, Sculpting the Visual Narrative A Composers Approach to Transition Craftsmanship</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-xlivedll-cannot-be-opened-effective-solutions-and-techniques/"><u>Overcoming 'Xlive.dll Cannot Be Opened' – Effective Solutions and Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-cheap-cameras-for-dynamic-shots-for-2024/"><u>Top 10 Cheap Cameras For Dynamic Shots for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-twitter-management-applications-and-programs/"><u>Top Rated Twitter Management Applications & Programs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-softsubs-a-step-by-step-guide-to-addingremoving-subtitles-seamlessly/"><u>Understanding Softsubs: A Step-by-Step Guide to Adding/Removing Subtitles Seamlessly</u></a></li>
 </ul></div>
 

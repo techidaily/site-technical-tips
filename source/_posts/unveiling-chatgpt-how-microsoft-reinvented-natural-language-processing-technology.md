@@ -1,7 +1,7 @@
 ---
 title: "Unveiling ChatGPT: How Microsoft Reinvented Natural Language Processing Technology"
-date: 2024-09-09T13:27:44.686Z
-updated: 2024-09-10T13:27:44.686Z
+date: 2024-11-24T16:22:37.667Z
+updated: 2024-11-25T16:57:08.995Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling ChatGPT: How Microsoft Reinvented Natural Language Processing Technology"
@@ -16,11 +16,9 @@ Close
  ChatGPT is an[ artificial intelligence](https://www.lifewire.com/what-is-artificial-intelligence-5119206) (AI) powered[ chatbot](https://www.lifewire.com/twitch-chatbots-4154888) that’s designed to simulate natural human conversation. It's a project of OpenAI, which is the AI research company that’s also responsible for the DALL-E AI art generator.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is It? 
 
  ChatGPT is an AI language model that answers questions and generates text based on prompts. It’s built on a generative[ machine learning](https://www.lifewire.com/artificial-intelligence-vs-machine-learning-5112807) model, which means that it was provided with a large dataset of information and trained to create new text based on the original information.
@@ -32,19 +30,11 @@ Close
 ![The interface for ChatGPT](https://www.lifewire.com/thmb/lPeIxrV65phF3f0tENgwD9xMZAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ChatGPTInterface-95912d3e22404cf0a4ce6b6381d97432.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 OpenAI
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Who Built This? 
 
  ChatGPT was built by OpenAI, which is a research company dedicated to developing and experimenting with artificial intelligence systems. In addition to ChatGPS, OpenAI also has a number of other AI projects in the works.
@@ -53,12 +43,6 @@ OpenAI
 
 [ Who Owns ChatGPT? ](https://www.lifewire.com/who-owns-chatgpt-8659181) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  When Was ChatGPT Released? 
 
  OpenAI launched ChatGPT on November 30, 2022, but it’s built on earlier generative pre-training (GPT) models that OpenAI has been working on since 2018\. The version released in November 2022 was a prototype intended for training and feedback, which is why OpenAI made it available to the public for free.
@@ -70,11 +54,9 @@ OpenAI
  The most recent version is Chat-GPT 4o, released in May 2024\. This version returns results more quickly (an average of 320 ms, which OpenAI claims is similar to human response time).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Does It Impact Me? 
 
  ChatGPT probably won’t have any direct impact on your daily life right away, but artificial intelligence systems like this will have wide-ranging consequences in the future. You can use it in a lot of different ways right now, though. You can ask it questions, have conversations, ask it to assist you in writing emails and other documents, and even find bugs in computer code.
@@ -92,17 +74,9 @@ OpenAI
 [  Microsoft Copilot: What It Is, Where to Find It, and How Much It Costs ](https://www.lifewire.com/what-is-bing-ai-chatbot-7371141) 
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Can I Try It? 
 
  You can try out ChatGPT for yourself at[ ChatGPT's site](https://chat.openai.com/) , but server access is limited for free accounts. If too many people are trying to use it at once, you’ll see an error message and have the opportunity to provide your email address. If you enter your email address, OpenAI will notify you when server congestion is lower.
@@ -116,6 +90,10 @@ OpenAI
  Once you’ve signed up and logged in, you can use ChatGPT by simply typing any question you'd like an answer for. You can format your question or prompt the same way you would as if you were talking to another person, and it will understand. It remembers your previous questions and its previous answers as well, so you can ask it to rephrase an answer or elaborate and it can do that.
 
 [ How to Use ChatGPT ](https://www.lifewire.com/how-to-use-chatgpt-7197760) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Can I Do With ChatGPT? 
 
@@ -158,8 +136,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +143,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-recovery.techidaily.com/1-free-online-image-converter-change-jpegs-into-bmp-files-with-ease/"><u>1. Free Online Image Converter: Change JPEGs Into BMP Files with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-effective-methods-for-fixed-images-not-loading-in-safari-on-iphone/"><u>9 Effective Methods for Fixed Images Not Loading in Safari on iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-prime-disneyplus-titles-for-an-unbeatable-viewing-experience/"><u>Discover Prime Disney+ Titles for an Unbeatable Viewing Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-innovative-features-of-dolby-atmos-dts-virtualx-explained/"><u>Discover the Innovative Features of Dolby Atmos - DTS Virtual:X Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-websites-for-apartment-seekers/"><u>Discover the Ultimate List of Websites for Apartment Seekers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-superior-wallet-trackers-beyond-apple-and-tile-unveiled-by-zdnets-in-depth-testing/"><u>Exploring Superior Wallet Trackers Beyond Apple and Tile - Unveiled by ZDNET's In-Depth Testing!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-apple-bids-adieu-to-itunes-by-introducing-new-windows-based-media-applications-digitalworld-today/"><u>How Apple Bids Adieu to iTunes by Introducing New Windows-Based Media Applications | DigitalWorld Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-finding-your-way-back-to-disappearing-gmail-threads-a-comprehensive-guide/"><u>Master the Art of Finding Your Way Back to Disappearing Gmail Threads – A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-scheduled-text-notifications-with-your-iphones-reminders-app/"><u>Mastering Scheduled Text Notifications with Your iPhone's Reminders App</u></a></li>
+<li><a href="https://games-able.techidaily.com/reflecting-on-an-excessive-gpu-purchase-decision/"><u>Reflecting on an Excessive GPU Purchase Decision</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-to-overcome-missing-d3dx924dll-errors-in-your-system/"><u>Solutions to Overcome Missing d3dx9_24.dll Errors in Your System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-method-for-twitch-account-deletion-explained/"><u>The Ultimate Method for Twitch Account Deletion Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-unsynchronized-gmail-messages/"><u>Troubleshooting Tips for Unsynchronized Gmail Messages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-a-guide-to-gpt-use/"><u>Unlocking Potential: A Guide to GPT Use</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unveiling-solutions-overcoming-macs-system-halt/"><u>Unveiling Solutions: Overcoming Mac's System Halt</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-8-digital-audio-workstations-daws-on-pc-compatible-with-windows-10-and-7-free-and-paid-options-for-2024/"><u>Updated Top 8 Digital Audio Workstations (DAWs) on PC Compatible with Windows 10 & 7, Free and Paid Options for 2024</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/44kk44oz44k44o844on44od44oi44gn5qsc57si77yb44ot44oh44kq44gl44kj5yaz55yf44g444gu5asj5oplusb44ks44kk44oj/"><u>インターネットで検索！ビデオから写真への変換ガイド</u></a></li>
+</ul></div>
 
