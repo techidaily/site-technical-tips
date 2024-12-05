@@ -1,7 +1,7 @@
 ---
 title: "Discover Apple'n Roll Out Enhanced MacBook Air Models with Latest M3 Chip: A Comprehensive Review"
-date: 2024-11-21T17:15:17.451Z
-updated: 2024-11-25T16:50:42.464Z
+date: 2024-12-04T03:52:29.040Z
+updated: 2024-12-04T22:14:16.694Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -57,7 +53,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -73,7 +69,7 @@ The app also streamlines your devices by bringing your iPhone's notifications st
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
@@ -88,6 +84,10 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. AI-fueled productivity apps
 
 Screenshot by Nina Raemont
@@ -100,10 +100,6 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -115,7 +111,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -127,6 +123,10 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -162,18 +162,22 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/nleashing-video-potential-efficiently-add-subtitlescc-to-your-youtube-videos/"><u>[New] Unleashing Video Potential Efficiently Add Subtitles/CC to Your YouTube Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-navigate-to-recent-fb-views-with-ease-2023-guide/"><u>[Updated] Navigate to Recent FB Views with Ease, 2023 Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-showdown-vlc-versus-mpc-in-video-viewing/"><u>2024 Approved The Ultimate Showdown VLC Versus MPC in Video Viewing</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/bushido-code-continuation-top-similar-game-experiences/"><u>Bushido Code Continuation - Top Similar Game Experiences</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/creating-a-unified-pdf-from-multiple-jpg-photos-tips-and-techniques/"><u>Creating a Unified PDF From Multiple JPG Photos: Tips and Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-bsod-exploring-the-causes-and-consequences-of-blue-screens-in-computers/"><u>Decoding BSOD: Exploring the Causes and Consequences of Blue Screens in Computers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/firestick-users-manual-installing-and-using-the-fandango-streamer/"><u>Firestick Users' Manual: Installing and Using the Fandango Streamer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-recover-from-an-iphone-that-shows-sos-but-no-other-signal-indicators/"><u>How to Recover From an iPhone that Shows SOS But No Other Signal Indicators</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/luxury-leisure-levels-review-roundup-for-2024/"><u>LUXURY LEISURE LEVELS Review Roundup for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/swift-transfer-tweets-as-vids-on-whatsapp-platform/"><u>Swift Transfer Tweets as Vids on WhatsApp Platform</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722869593927-the-future-of-personal-assistants-arrives-with-rumored-apple-innovation-price-speculations-inside/"><u>The Future of Personal Assistants Arrives with Rumored Apple Innovation – Price Speculations Inside!</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/xviddivx/"><u>コンバート戦略：XvidとDivXの違いを解き明かす - 変換ガイド</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-innovative-design-and-graphics-free-and-affordable-sources-for-2024/"><u>[New] Innovative Design and Graphics Free & Affordable Sources for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-androids-enhanced-vr-video-viewing-in-the-modern-age/"><u>2024 Approved Android's Enhanced VR Video Viewing in the Modern Age</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977998432-asus-usb-bt500-bluetooth-50-usb-adapter-driver-download-windows-11108/"><u>Asus USB-BT500 Bluetooth 5.0 USB Adapter Driver Download – Windows 11/10/8</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cookiebot-driven-data-collection-and-personalization-enhancing-user-experience/"><u>Cookiebot-Driven Data Collection & Personalization: Enhancing User Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cracking-the-code-on-apples-educational-offers-how-to-enjoy-student-discounts-with-apple-music/"><u>Cracking the Code on Apple's Educational Offers: How to Enjoy Student Discounts with Apple Music</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/finalized-choices-best-10-video-editing-tools-for-reels/"><u>Finalized Choices Best 10 Video Editing Tools for Reels</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-apples-latest-on-device-ai-system-realm-outshines-microsofts-gpt-4-according-to-zdnet/"><u>How Apple's Latest On-Device AI System ReaLM Outshines Microsoft's GPT-4, According to ZDNet</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-move-your-iphone-pictures-to-an-ipad-with-a-simple-pinch-method-plus-three-more-tips/"><u>How to Move Your iPhone Pictures to an iPad with a Simple Pinch Method: Plus Three More Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/live-streaming-guide-how-to-access-samsung-unpacked-events/"><u>Live Streaming Guide: How To Access Samsung Unpacked Events</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722897668155-macos-15-sequoia-preview-whats-coming-next-release-dates-exciting-functionalities-and-recent-news-covered/"><u>MacOS 15 Sequoia Preview - What's Coming Next? Release Dates, Exciting Functionalities & Recent News Covered</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-new-ios-18-a-step-by-step-guide-to-personalizing-your-iphone-control-center/"><u>Mastering the New iOS 18: A Step-by-Step Guide to Personalizing Your iPhone Control Center</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/nothing-phone-3-news-and-expected-price-release-date-specs-and-more-rumors/"><u>Nothing Phone 3: News and Expected Price, Release Date, Specs; and More Rumors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-iphone-s-battery-life-discover-esrs-latest-qi2-magsafe-charger-faster-charging-and-lower-heat-with-the-advanced-cryoboost-feature/"><u>Revolutionize Your iPhone S Battery Life – Discover ESR's Latest Qi2 MagSafe Charger: Faster Charging and Lower Heat with the Advanced CryoBoost Feature</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamline-your-inbox-mastering-the-art-of-select-all-messages-in-gmail/"><u>Streamline Your Inbox: Mastering the Art of Select All Messages in Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-july-2024-promotions-on-iphones-exclusive-offers-from-zdnet/"><u>Top July 2024 Promotions on iPhones: Exclusive Offers From ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722995655947-user-experience-insights-on-the-microsoft-sculpt-keyboard-an-incredible-deal/"><u>User Experience Insights on the Microsoft Sculpt Keyboard - An Incredible Deal!</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/1726029745482-youtube/"><u>YouTubeビデオのクローニングガイド:ストレージ手順集</u></a></li>
 </ul></div>
 

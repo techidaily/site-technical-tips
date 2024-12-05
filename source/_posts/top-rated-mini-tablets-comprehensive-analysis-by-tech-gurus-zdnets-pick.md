@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Mini Tablets : Comprehensive Analysis by Tech Gurus - ZDNet's Pick"
-date: 2024-11-19T17:02:32.550Z
-updated: 2024-11-25T17:01:19.568Z
+date: 2024-12-01T18:59:02.018Z
+updated: 2024-12-05T11:48:05.119Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9b85950-dab1-43df-82ab-be161c6f4d36%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best small tablets of 2024
 
 Show less 
@@ -48,7 +44,7 @@ Cons
 ## Apple iPad Mini 6th Generation
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best small tablet overall
@@ -82,11 +78,11 @@ Cons
 * Performance is slightly slow
 * Cameras aren't as great as other options
 
-## Amazon Fire 7 Tablet
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Amazon Fire 7 Tablet
 
 ### Best budget small tablet
 
@@ -118,15 +114,7 @@ Cons
 * Expensive
 * Some complaints of lag
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Boox Tab Mini C
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best small tablet for note-taking
 
@@ -154,10 +142,6 @@ Pros
 Cons 
 * Web browser functionality could be better
 * No warm light option
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Amazon Kindle 11th generation
 
@@ -215,6 +199,10 @@ The best small tablet is the iPad Mini because of its sharp display and impressi
 | Amazon Kindle          | $100      | 6 inches            | 300ppi glare-free |
 | Samsung Galaxy A7 Lite | $100      | 8.7 inches          | 1340x800 pixels   |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which small tablet is right for you?
 
 It really depends on what size tablet you're looking for, which operating system you prefer, and how much money you're willing to spend. Below, we've broken down the best small tablets to help make your decision easier. 
@@ -236,6 +224,10 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -254,6 +246,10 @@ The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller
 
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What brand of tablet is best?
 
 Tablets made by Apple, Samsung, and Microsoft are the best-made tablets in terms of quality. Amazon has well-rounded tablets in its Fire lineup but with fewer performance-focused features. Boox is also proving to be an industry underdog, with impressive tablets that function as e-readers and illustrators. 
@@ -269,12 +265,16 @@ Yes, they can be. Small Android tablets allow you to do everything you would nor
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -322,24 +322,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-do-shopping-blogs-have-a-payment-scheme-for-reports-for-2024/"><u>[New] Do Shopping Blogs Have a Payment Scheme for Reports for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-high-quality-360-cameras-for-youtube-and-facebook-coverage-for-2024/"><u>[New] High-Quality 360° Cameras for YouTube & Facebook Coverage for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-unearth-your-secret-snapshots/"><u>[Updated] 2024 Approved How to Unearth Your Secret Snapshots</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-focused-growth-instagrams-must-use-tags-to-watch-out-for/"><u>[Updated] Focused Growth Instagram's Must-Use Tags to Watch Out For</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-pioneering-online-video-secrets-for-youtubes-spherical-livestreaming-techniques-for-2024/"><u>[Updated] Pioneering Online Video Secrets for YouTube's Spherical Livestreaming Techniques for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-10-exceptional-cost-saving-passport-portrait-maker-applications/"><u>2024 Approved 10 Exceptional, Cost-Saving Passport Portrait Maker Applications</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-10-most-shared-tiktoks-in-social-media-circles/"><u>2024 Approved 10 Most Shared TikToks in Social Media Circles</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-budget-friendly-obs-configuration-guide/"><u>2024 Approved Budget-Friendly OBS Configuration Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-beginners-guide-to-starting-chats-within-the-mozilla-thunderbird-email-client/"><u>A Beginner's Guide to Starting Chats Within the Mozilla Thunderbird Email Client</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bring-the-theater-home-easy-instructions-for-viewing-3d-movies-via-fandango-online/"><u>Bring the Theater Home: Easy Instructions for Viewing 3D Movies via Fandango Online</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-d-link-default-creds-compilation-july-2024-update/"><u>Comprehensive D-Link Default Creds Compilation: July 2024 Update</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-fixing-wifi-authentication-failures-on-android-phones/"><u>Effective Solutions for Fixing Wifi Authentication Failures on Android Phones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gmail-hacks-revealed-the-comprehensive-guide-to-establishing-an-email-aka/"><u>Gmail Hacks Revealed: The Comprehensive Guide to Establishing an Email AKA</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-fix-asus-pce-ac56-wifi-card-compatibility-problems-with-windows-11-8-and/"><u>How to Fix ASUS PCE-AC56 WiFi Card Compatibility Problems with Windows 11, 8 &</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/rectifying-the-absent-python-dll-a-step-by-step-solution-for-python-24dll-not-found/"><u>Rectifying the Absent Python DLL – A Step-by-Step Solution for Python 24.dll Not Found</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722869413560-samsung-galaxy-ring-2021-price-breakdown-release-schedule-tech-specs-and-current-releases/"><u>Samsung Galaxy Ring 2021: Price Breakdown, Release Schedule, Tech Specs & Current Releases</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-erasing-all-messages-on-gmail-for-a-fresh-start/"><u>Step-by-Step Tutorial: Erasing All Messages on Gmail for a Fresh Start</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-hooking-up-apple-homepod-to-your-tv-screen/"><u>The Ultimate Tutorial for Hooking Up Apple HomePod to Your TV Screen</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-s18-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo S18 Pro Phone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bypassing-the-traditional-remote-innovative-ways-to-control-your-roku-device/"><u>Bypassing the Traditional Remote: Innovative Ways to Control Your Roku Device</u></a></li>
+<li><a href="https://discover-help.techidaily.com/como-reducir-el-tamano-del-tu-video-en-formato-mov-con-las-mejoras-mas-recomendadas/"><u>Cómo Reducir El Tamaño Del Tu Vídeo en Formato MOV Con Las Mejoras Más Recomendadas</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/elevate-your-facebook-ads-game-no-price-tag-for-video-kit/"><u>Elevate Your Facebook Ads Game - No Price Tag for Video Kit</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-realme-c53-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Realme C53</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 15 Pro Max</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-streamline-your-views-the-ultimate-8-fb-movie-download-guide/"><u>In 2024, Streamline Your Views The Ultimate #8 FB Movie Download Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pcbs11plus/"><u>PCで「BS11+」番組の録画方法教えます - ステップバイステップガイド</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-msvcr100dll-file-absence-issues-step-by-step-guide/"><u>Resolving 'MSVCR100.dll' File Absence Issues - Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-issues-with-a-malfunctioning-tiktok-app/"><u>Solving Issues with a Malfunctioning TikTok App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-twin-question-which-ai-wins/"><u>The Twin Question: Which AI Wins?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-upgrading-ps5-hard-drive-with-a-solid-state-drive/"><u>The Ultimate Guide: Upgrading PS5 Hard Drive with a Solid State Drive</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-missing-oleaut32dll-error-on-your-pc/"><u>Troubleshooting the Missing oleAut32.dll Error on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-countdown-the-11-most-inspiring-movie-picks-for-a-positive-boost/"><u>Ultimate Countdown: The 11 Most Inspiring Movie Picks for a Positive Boost</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-new-with-oppos-next-smartphone-pricing-release-window-spec-sheet-sneak-peeks/"><u>What's New with Oppo's Next Smartphone? - Pricing, Release Window, Spec Sheet Sneak Peeks</u></a></li>
 </ul></div>
 

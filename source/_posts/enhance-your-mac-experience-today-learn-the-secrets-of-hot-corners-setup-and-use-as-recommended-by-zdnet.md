@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Mac Experience Today! Learn the Secrets of Hot Corners Setup and Use, as Recommended by ZDNET
-date: 2024-11-23T17:19:10.864Z
-updated: 2024-11-25T16:11:02.138Z
+date: 2024-12-01T21:20:27.208Z
+updated: 2024-12-05T09:29:57.549Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ One of my most popular posts last year was a [tour of my home office](https://ww
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -35,7 +35,7 @@ Of course, this selection reflects my work habits and my personal preferences. Y
 **See also:** [My five favorite free Windows 10 utilities](https://www.zdnet.com/article/windows-10-my-five-favorite-free-utilities/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Productivity
@@ -43,6 +43,10 @@ Of course, this selection reflects my work habits and my personal preferences. Y
 Show less 
 
 [View now at Microsoft](https://microsoft-us.evyy.net/c/159047/434427/3327?u=https://www.microsoft.com/en-us/microsoft-365/business//&subid1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&sharedId=zdnet)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Microsoft 365 apps for Business
 
@@ -57,6 +61,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at Tweeten](https://tweetenapp.com/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tweeten
 
@@ -74,10 +82,6 @@ Show less
 
 ## OneNote
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### An infinitely expandable notebook
 
 I have been keeping my life in OneNote since at least 2003\. It is the digital equivalent of a tattered old Moleskine that is, through some sort of ineffable magic, infinitely expandable. I use OneNote to keep track of receipts, meeting notes, important emails, travel documents, recipes, and so many "notes to self" that I've lost count.
@@ -94,6 +98,10 @@ Show less
 
 ## Adobe Acrobat Pro DC
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### From the inventor of the PDF standard
 
 I suppose I could use a free PDF reader, but I spend enough time editing and annotating files saved in this format that the extra capabilities of the full-strength Adobe package (especially editing and annotation tools) are worth the $15 a month I pay. I understand the arguments of those who object to software subscriptions, but the perpetual license version is $449, which seems like something less than a bargain. If you don't need the full feature set, a Standard version costs a few dollars per month less.
@@ -107,7 +115,7 @@ Show less
 [View now at Quicken](https://go.shopyourlikes.com/pi/de0d8ba2852fb0f3e2424bb37baf8478e8f2e34e?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Quicken Home and Business
@@ -129,7 +137,7 @@ Show less
 ## Microsoft Edge (Chromium)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The only browser I need on the desktop
@@ -143,10 +151,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at 1Password](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://1password.com/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1Password
 
@@ -162,15 +166,7 @@ Show less
 
 [View now at Workona](https://workona.com/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Workona
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The cleanest way to organize browser tabs
 
@@ -188,6 +184,10 @@ Show less
 
 ## Spotify Music
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### No music app is perfect, but Spotify is best all around
 
 When it comes to music, we live in the best of times and the worst of times. I've tried every free and paid music streaming service (for details, see: [Best streaming music service in 2021](https://www.zdnet.com/article/best-streaming-music-service/#listicle-ac2319a8-78d6-4fea-9569-41035d7ee2a1)) and finally settled on Spotify as the best, on balance. Those last two words are key. No streaming service is perfect. There are others (like Tidal and Qobuz) that offer higher-quality downloads, and I grit my teeth every time I try to remember how to upload an album from my personal collection to Spotify's servers. (I finally bookmarked the [official Spotify instructions](https://support.spotify.com/is/article/listen-to-local-files/).)
@@ -200,11 +200,11 @@ Show less
 
 [View now at VLC Media Player](https://www.videolan.org/vlc/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## VLC Media Player
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Free, open source, handles every format imaginable
 
@@ -256,20 +256,20 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-budget-conscious-pc-capture-programs/"><u>[Updated] Budget-Conscious PC Capture Programs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/altering-game-console-speech-ps5ps4-upgrades/"><u>Altering Game Console Speech PS5/PS4 Upgrades</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/bitraser-enterprise-data-erasure-software/"><u>BitRaser Enterprise Data Erasure Software</u></a></li>
-<li><a href="https://video-capture.techidaily.com/clipchamp/"><u>Clipchampによる単独音声トラック編集ガイド</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-galaxy-ford-f-150-rc-car-assessment-a-look-at-a-dominant-force-in-the-world-of-toy-trucks/"><u>Comprehensive Galaxy Ford F-150 RC Car Assessment: A Look at a Dominant Force in the World of Toy Trucks</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-infinix-smart-8-pro-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Infinix Smart 8 Pro.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-components-of-a-successful-digital-twin-strategy-integrating-artificial-intelligence-zdnet-insights/"><u>Essential Components of a Successful Digital Twin Strategy: Integrating Artificial Intelligence | ZDNet Insights</u></a></li>
-<li><a href="https://fox-info.techidaily.com/essential-tips-for-creating-films-with-movie-maker-in-w11-for-2024/"><u>Essential Tips for Creating Films with Movie Maker in W11 for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/home-theaters-vs-stereo-receivers-understanding-the-key-distinctions/"><u>Home Theaters Vs. Stereo Receivers: Understanding the Key Distinctions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-enhance-digital-television-reception-with-an-indoor-antenna/"><u>How to Enhance Digital Television Reception with an Indoor Antenna</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/in-depth-analysis-what-to-expect-from-nothing-phone-3-specs-release-date-and-potential-costs/"><u>In-Depth Analysis: What to Expect From 'Nothing Phone 3' - Specs, Release Date & Potential Costs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-no-spin-lock-available-error-a-step-by-step-guide/"><u>Resolving the No Spin Lock Available Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/successfully-setting-up-playstation-vr-on-your-desktop-or-laptop/"><u>Successfully Setting Up PlayStation VR on Your Desktop or Laptop</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-the-potential-of-facebook-photo-search-functionality/"><u>Unlocking the Potential of Facebook Photo Search Functionality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/watching-netflix-on-a-game-boy-feasible-with-the-nintendo-switch/"><u>Watching Netflix on a Game Boy - Feasible With the Nintendo Switch?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-the-craft-of-in-depth-and-impactful-interviews/"><u>[New] Mastering the Craft of In-Depth and Impactful Interviews</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-charismatic-communicator-overview-part-8/"><u>[Updated] In 2024, Charismatic Communicator Overview, Part 8</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/19-exciting-new-models-enhance-tcls-q-and-s-class-smart-tv-selection/"><u>19 Exciting New Models Enhance TCL's Q and S Class Smart TV Selection</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-guide-to-selecting-peak-performance-lipo-tech-for-2024/"><u>A Guide to Selecting Peak-Performance LiPo Tech for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-eyes-on-the-future-unveiling-potential-costs-release-windows-and-features-of-apple-watch-ultra-2/"><u>All Eyes On The Future: Unveiling Potential Costs, Release Windows & Features of Apple Watch Ultra 2</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/analyzing-the-strengths-and-weaknesses-of-pidgin-chat-application/"><u>Analyzing the Strengths and Weaknesses of Pidgin Chat Application</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-nokia-130-music-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Nokia 130 Music? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-features-of-the-samsung-galaxy-a20-best-android-device-on-a-budget/"><u>Exploring the Features of the Samsung Galaxy A20 - Best Android Device on a Budget</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-your-pc-when-ntldr-goes-awol-comprehensive-troubleshooting-tips/"><u>Fixing Your PC When NTLDR Goes AWOL: Comprehensive Troubleshooting Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-how-to-use-igtv-hashtags-to-gain-more-followers/"><u>In 2024, How to Use IGTV Hashtags to Gain More Followers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-ios-16-a-guide-to-utilizing-live-activities-on-your-iphone/"><u>Mastering iOS 16: A Guide to Utilizing Live Activities on Your iPhone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-installation-guide-realtek-alc892a-audio-drivers-for-windows-11/"><u>Quick Installation Guide: RealTek ALC892A Audio Drivers for Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-silence-a-guide-to-rectifying-your-iphones-inability-to-make-calls/"><u>Solving Silence: A Guide to Rectifying Your iPhone's Inability to Make Calls</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-nonfunctioning-windows-11-search-effective-methods-revealed/"><u>Solving the Mystery of Nonfunctioning Windows 11 Search – Effective Methods Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-guide-to-streaming-netflix-content-on-the-nintendo-switch/"><u>The Complete Guide to Streaming Netflix Content on the Nintendo Switch.</u></a></li>
 </ul></div>
 

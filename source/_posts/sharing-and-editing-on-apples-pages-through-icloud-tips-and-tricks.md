@@ -1,7 +1,7 @@
 ---
 title: Sharing and Editing on Apple's Pages Through iCloud - Tips & Tricks
-date: 2024-11-23T16:25:30.127Z
-updated: 2024-11-25T16:44:08.950Z
+date: 2024-11-30T22:04:02.650Z
+updated: 2024-12-05T08:32:38.438Z
 tags:
   - apple
 categories:
@@ -31,13 +31,13 @@ And that, Dear Reader, we will accomplish after much option-flicking, headset-we
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to watch Apple spatial videos on the Meta Quest 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What you'll need to get started
@@ -57,7 +57,7 @@ In theory, you could get away with running the four provided sample spatial vide
 Now that you've gathered your prerequisites, let's move some videos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Seriously, RTFM
@@ -97,7 +97,7 @@ As the Facebook poster and I both found out, when Meta says, "If you have an iPh
 Next, I tried it with my wife's iPhone 15 Pro Max. Things went better.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Uploading spatial videos from your iPhone
@@ -115,7 +115,7 @@ Once I tapped upload, the images were processed and presumably converted for use
 In any case, it worked. Within a few minutes, the videos were on my Meta Quest 3\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Playing spatial videos on the Meta Quest 3
@@ -186,18 +186,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-ultimate-instagram-reel-playbook/"><u>[New] 2024 Approved The Ultimate Instagram Reel Playbook</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-best-in-class-slideshow-maker-xi-to-x-series-iphones-for-2024/"><u>[New] Best-in-Class Slideshow Maker XI to X Series iPhones for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-superior-pfv-optimization-in-tardy-action/"><u>[New] Superior PFV Optimization in Tardy Action</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-curate-engaging-content-with-top-igtv-editor-tools/"><u>[Updated] Curate Engaging Content with Top IGTV Editor Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-unlocking-full-potential-zdsoft-screen-recorder-for-2024/"><u>[Updated] Unlocking Full Potential ZDSoft Screen Recorder for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-best-transcription-aid-for-your-youtube-videos/"><u>2024 Approved Best Transcription Aid for Your YouTube Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/achieve-stunning-visuals-the-ultimate-guide-to-setting-up-your-samsung-4k-tv/"><u>Achieve Stunning Visuals: The Ultimate Guide to Setting Up Your Samsung 4K TV</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-about-bing-discover-the-ins-and-outs-of-microsofts-alternative-to-google/"><u>All About Bing: Discover the Ins and Outs of Microsoft's Alternative to Google</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/best-practices-for-eliminating-interlace-blur/"><u>Best Practices for Eliminating Interlace Blur</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-iphone-and-ipod-touch-texting-apps/"><u>Free iPhone & iPod Touch Texting Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/immersive-brain-teasers-for-your-ios-device-alternatives-to-the-room-and-myst/"><u>Immersive Brain Teasers for Your iOS Device - Alternatives to The Room and Myst!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximize-hardware-efficiency-with-these-free-driver-update-applications-top-8-selections-for-fall-2024/"><u>Maximize Hardware Efficiency with These Free Driver Update Applications - Top 8 Selections for Fall 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-how-to-fix-error-couldnt-load-coredll/"><u>Step-by-Step Guide: How to Fix Error: Couldn't Load Core.dll</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-avoiding-lost-frames-during-video-capture-in-obs/"><u>[New] 2024 Approved Avoiding Lost Frames During Video Capture in OBS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-front-seat-recreation-10-non-athletic-delights/"><u>[New] In 2024, Front Seat Recreation 10 Non-Athletic Delights</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-webcam-capture-basics-for-hp-and-chromebook-owners/"><u>[New] In 2024, Webcam Capture Basics for HP and Chromebook Owners</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-building-a-business-from-blogs-and-video-reviews/"><u>[Updated] 2024 Approved Building a Business From Blogs and Video Reviews</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-finding-prominent-comment-spotlights/"><u>[Updated] In 2024, Finding Prominent Comment Spotlights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/grab-the-new-apple-watch-s10-ahead-of-time-exclusive-purchase-guide-and-top-savings-tricks/"><u>Grab the New Apple Watch S10 Ahead of Time! Exclusive Purchase Guide & Top Savings Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995970048-how-to-stop-ghost-recon-breakpoint-from-freezing-simple-solutions/"><u>How to Stop Ghost Recon Breakpoint From Freezing - Simple Solutions!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-top-athletes-can-benefit-by-pairing-whoop-with-apple-watch-a-deep-dive-featured-on-zdnet/"><u>How Top Athletes Can Benefit by Pairing Whoop with Apple Watch - A Deep Dive | Featured on ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-article-uploading-and-using-unique-fonts-on-apple-mobile-phones/"><u>How-To Article: Uploading and Using Unique Fonts on Apple Mobile Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/implications-of-dojs-lawsuit-against-apple-potential-effects-on-ios-devices-and-app-creators-explored-by-zdnet/"><u>Implications of DOJ's Lawsuit Against Apple: Potential Effects on iOS Devices & App Creators Explored by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-differences-between-ipad-pro-and-ipad-air-a-comprehve-guide-to-picking-the-best-option-for-you-zdnet/"><u>Navigating the Differences Between iPad Pro and iPad Air: A Comprehve Guide to Picking the Best Option for You | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pro-phone-showdown-google-pixel/"><u>Pro Phone Showdown: Google Pixel</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/restoring-your-hidden-snap-content/"><u>Restoring Your Hidden Snap Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-macintosh-models-expert-reviews-from-zdnet/"><u>Top-Rated Macintosh Models - Expert Reviews From ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-xiaomi-13-ultra-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Xiaomi 13 Ultra Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-inside-a-new-nintendo-switch-console-kit/"><u>What's Inside a New Nintendo Switch Console Kit?</u></a></li>
 </ul></div>
 

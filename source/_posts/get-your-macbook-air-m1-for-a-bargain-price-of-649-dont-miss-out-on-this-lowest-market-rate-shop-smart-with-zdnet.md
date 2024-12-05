@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Air M1 for a Bargain Price of $649! Don't Miss Out on This Lowest Market Rate | Shop Smart with ZDNET
-date: 2024-11-23T17:15:10.295Z
-updated: 2024-11-25T16:35:47.812Z
+date: 2024-12-03T23:35:26.337Z
+updated: 2024-12-04T21:34:56.742Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,22 +81,24 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-understanding-gb-requirement-for-a-days-film/"><u>[New] In 2024, Understanding GB Requirement for a Day's Film</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-unlocking-potential-effective-use-of-zoom-on-win11-pcs/"><u>2024 Approved Unlocking Potential Effective Use of Zoom on Win11 PCs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/android-tips-for-protecting-your-personal-phone-number-from-unwanted-views/"><u>Android Tips for Protecting Your Personal Phone Number From Unwanted Views</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bypassing-traditional-isps-unplugged-solutions-for-modern-internet-access/"><u>Bypassing Traditional ISPs: Unplugged Solutions for Modern Internet Access</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-mozilla-thunderbird-version-52-the-latest-email-client-update/"><u>Discover Mozilla Thunderbird Version 52: The Latest Email Client Update</u></a></li>
-<li><a href="https://win-lab.techidaily.com/effektive-methoden-zur-wiederherstellung-verlorener-daten-auf-sandisk-speichermedien-erklart/"><u>Effektive Methoden Zur Wiederherstellung Verlorener Daten Auf SanDisk Speichermedien Erklärt</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-insights-on-lg-channels-a-complete-guide/"><u>Essential Insights on LG Channels - A Complete Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722899819887-explore-the-best-ai-conversational-agents-beyond-chatgpt/"><u>Explore the Best AI Conversational Agents Beyond ChatGPT</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/gopros-rivalry-with-drift-ghost-the-racing-camera-faceoff/"><u>GoPro's Rivalry with Drift Ghost - The Racing Camera Faceoff</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-y27s-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo Y27s to iPod | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-score-high-on-youtube-with-these-ranking-factors/"><u>In 2024, Score High on YouTube with These Ranking Factors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-streaming-disneyplus-on-your-tv-via-chromecast/"><u>Step-by-Step Guide: Streaming Disney+ on Your TV via Chromecast</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-enjoying-android-experience-on-your-windows-10-computer/"><u>Step-by-Step Instructions for Enjoying Android Experience on Your Windows 10 Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-definitive-compendium-to-diagnose-your-pcs-bsod-codes/"><u>The Definitive Compendium to Diagnose Your PC's BSOD Codes</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-13c-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi 13C Reset Code | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/unwind-in-stillness-with-idle-titles/"><u>Unwind in Stillness with Idle Titles</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-blitzing-sharing-easy-youtube-playlist-methods/"><u>[Updated] Blitzing Sharing Easy YouTube Playlist Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-optimize-your-channels-an-introduction-to-youtube-statistics/"><u>2024 Approved Optimize Your Channels An Introduction to YouTube Statistics</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/a-reliable-approach-to-recovering-deleted-images-forever-on-ios-devices/"><u>A Reliable Approach to Recovering Deleted Images Forever on iOS Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/boomerang-on-instagram-create-addictive-loop-videos-on-ig/"><u>Boomerang on Instagram Create Addictive Loop Videos on IG</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/emeditor-why-you-cant-add-spaces-after-text-in-quotes/"><u>EmEditor: Why You Can't Add Spaces After Text in Quotes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-reviews-on-the-most-essential-airpods-pro-gear/"><u>Expert Reviews on the Most Essential AirPods Pro Gear</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-expanded-support-fedora-operating-system-enhances-compatibility-across-all-intel-based-macs-barring-a-single-model-tech-insights/"><u>Exploring the Expanded Support: Fedora Operating System Enhances Compatibility Across All Intel-Based Macs, Barring a Single Model | Tech Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-online-converter-transforming-aifc-files-into-aiff-format-movavi/"><u>Free Online Converter: Transforming AIFC Files Into AIFF Format - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-turn-on-or-off-network-discovery-in-windows-10/"><u>How to Turn On or Off Network Discovery in Windows 10</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 13 Pro</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-xr-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone XR without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-cross-platform-messaging-imessage-for-windows-explained/"><u>Mastering Cross-Platform Messaging: IMessage for Windows Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-destiny-2-centipede-glitch-solution-found/"><u>Overcoming the Destiny 2 Centipede Glitch - Solution Found</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pixel-vs-apple-wrist-tech-showdown-choosing-between-googles-and-apples-latest-smartwatches/"><u>Pixel Vs. Apple Wrist Tech Showdown: Choosing Between Google's and Apple's Latest Smartwatches</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-steps-to-create-timed-photos-on-the-iphone/"><u>Simple Steps to Create Timed Photos on the iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplified-steps-for-effective-text-communication-on-an-ipad/"><u>Simplified Steps for Effective Text Communication on an iPad</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-unexplained-failures-in-vision-pro-services-a-guide-on-how-to-respond-when-things-go-awry/"><u>Understanding Unexplained Failures in Vision Pro Services: A Guide on How To Respond When Things Go Awry</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-ios-1nce-new-season-brings-transcript-support-for-podcasts-exciting-emojis-and-revamped-apple-store-policies-in-the-eu-coverage-by-zdnet/"><u>Unveiling iOS 1Nce: New Season Brings Transcript Support for Podcasts, Exciting Emojis, and Revamped Apple Store Policies in the EU | Coverage by ZDNET</u></a></li>
 </ul></div>
 

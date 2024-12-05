@@ -1,7 +1,7 @@
 ---
 title: Steps to Obtain Access From TrustedInstaller on Windows 11
-date: 2024-11-23T17:14:02.032Z
-updated: 2024-11-25T17:26:00.139Z
+date: 2024-11-27T22:23:41.810Z
+updated: 2024-12-05T11:20:13.457Z
 categories:
   - BestProducts
 description: This Article Describes Steps to Obtain Access From TrustedInstaller on Windows 11
@@ -23,6 +23,10 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 
  This article explains all the different ways to make Windows 11 screenshots.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use PrtScn to Screenshot the Whole Screen
 
  There are many ways to make screenshots in Windows 11, the most basic being to use the**PrtScn** (aka**PrtSc** ) button on your keyboard. This captures the entire screen, including multiple displays if you have them, plus all visible windows, the taskbar, the Start button, etc. You can then paste the screenshot into any program that supports image pasting.
@@ -34,7 +38,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fullscreen Screenshot and Auto-save to Folder
@@ -48,14 +52,10 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Screenshot Part of the Screen
 
@@ -81,7 +81,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Delayed Screenshots With Snipping Tool
@@ -93,7 +93,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
@@ -142,20 +142,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-free-online-compilation-of-copyright-free-charts/"><u>[Updated] 2024 Approved Free Online Compilation of Copyright-Free Charts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-comparing-the-best-in-class-with-apowersoft/"><u>2024 Approved Comparing the Best in Class with Apowersoft</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/before-you-go-electric-the-ultimate-checklist-of-9-important-inquiries/"><u>Before You Go Electric: The Ultimate Checklist of 9 Important Inquiries</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elevate-your-movie-night-the-best-15-dolby-atmos-movies-curated-for-home-cinema-enthusiasts/"><u>Elevate Your Movie Night: The Best 15 Dolby Atmos Movies Curated for Home Cinema Enthusiasts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-your-computers-stop-error-0x0000003d-a-comprehensive-tutorial/"><u>Fixing Your Computer's STOP Error 0X0000003D: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-establish-an-oculus-meta-headset-account-for-beginners/"><u>How To Establish An Oculus Meta Headset Account For Beginners</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-digital-deception-steering-clear-from-buying-non-existent-followers/"><u>In 2024, Digital Deception Steering Clear From Buying Non-Existent Followers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-mp280-printer-driver-installers-compatible-with-windows-1187/"><u>Latest MP280 Printer Driver Installers Compatible with Windows 11/8/7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/league-of-legends-boost-trick-get-your-game-running-faster-now/"><u>League of Legends Boost Trick - Get Your Game Running Faster Now!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-microsoft-copilot-a-comprehensive-install-guide-for-apple-computers/"><u>Mastering Microsoft Copilot: A Comprehensive Install Guide for Apple Computers</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-oppo-reno-10-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Oppo Reno 10 5G</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138567493-9780595857876-synchronicity/"><u>Synchronicity | Free Book</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/tips-and-tricks-for-windows-hdr-video-workflows-for-2024/"><u>Tips and Tricks for Windows HDR Video Workflows for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-your-wallets-potential-navigating-through-these-amazing-6-online-coupons-and-deals-platforms/"><u>Unlock Your Wallet’s Potential: Navigating Through These Amazing 6 Online Coupons and Deals Platforms</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unmasking-bogus-connections-tips-on-detecting-false-friend-requests-online/"><u>Unmasking Bogus Connections: Tips on Detecting False Friend Requests Online</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-master-looped-videos-for-maximum-instagram-impact-for-2024/"><u>[Updated] Master Looped Videos for Maximum Instagram Impact for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-sony-blu-ray-player-s3700-analysis-updated/"><u>[Updated] Sony Blu-Ray Player S3700 Analysis (Updated)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-seamless-transition-strategies-mastering-the-move-to-your-new-iphone-insights/"><u>1. Seamless Transition Strategies: Mastering the Move to Your New iPhone - Insights</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-social-media-shifts-yearly-data-visualization-guide/"><u>2024 Approved Social Media Shifts Yearly Data Visualization Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-new-generation-airpods-pro-is-the-upgrade-worth-it-techradar/"><u>Comparing New Generation AirPods Pro: Is The Upgrade Worth It? | TechRadar</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fitness-pros-secret-to-more-accurate-chatgpt-prompt-responses/"><u>Fitness Pros' Secret to More Accurate ChatGPT Prompt Responses</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-your-iphone-upgraded-with-ios-18-eligibility-and-installation-tips-from-zdnets-latest-coverage/"><u>Get Your iPhone Upgraded with iOS 18: Eligibility & Installation Tips From ZDNet's Latest Coverage!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-samsung-galaxy-a34-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Samsung Galaxy A34 5G Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-find-out-who-is-observing-your-uploads-on-youtube/"><u>How to Find Out Who Is Observing Your Uploads on YouTube</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/learn-any-language-without-spending-a-penny-top-5-apps-reviewed/"><u>Learn Any Language Without Spending a Penny : Top 5 Apps Reviewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-showdown-deciding-between-the-latest-wrist-tech-a-comprehensive-review-of-google-pixel-watch-2-and-apple-watch-series-9-insights/"><u>Tech Showdown: Deciding Between The Latest Wrist Tech - A Comprehensive Review of Google Pixel Watch 2 and Apple Watch Series 9 Insights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-journey-of-facetime-snapshots-how-to-retrieve-and-store-them-safely/"><u>The Journey of FaceTime Snapshots: How to Retrieve and Store Them Safely</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-motorola-moto-g23-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Motorola Moto G23 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-airtag-accessories-comprehensive-reviews-by-tech-gurus-techsavvy/"><u>Top-Rated AirTag Accessories : Comprehensive Reviews by Tech Gurus | TechSavvy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/total-cache-cleanup-how-to-do-it-on-any-internet-browser-you-use/"><u>Total Cache Cleanup: How to Do It on Any Internet Browser You Use</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-truth-an-in-depth-viber-out-app-analysis/"><u>Unveiling the Truth: An In-Depth Viber Out App Analysis</u></a></li>
 </ul></div>
 

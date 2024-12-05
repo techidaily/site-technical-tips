@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for the Perplexed User Facing 401 Restrictions
-date: 2024-09-04T00:53:55.334Z
-updated: 2024-09-05T00:53:55.334Z
+date: 2024-11-30T12:04:09.948Z
+updated: 2024-12-05T08:18:14.909Z
 categories:
   - BestProducts
 description: This Article Describes Troubleshooting Tips for the Perplexed User Facing 401 Restrictions
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/7MpVwScoZxKghkaokr6onIyCwdw=/400x300/fi
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Ways to Fix the Problem
 
@@ -38,6 +42,10 @@ thumbnail: https://www.lifewire.com/thmb/7MpVwScoZxKghkaokr6onIyCwdw=/400x300/fi
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -50,6 +58,10 @@ thumbnail: https://www.lifewire.com/thmb/7MpVwScoZxKghkaokr6onIyCwdw=/400x300/fi
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -80,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,11 +99,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-decoding-facebook-capturing-and-keeping-status-videos-for-2024/"><u>[New] Decoding Facebook Capturing and Keeping Status Videos for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-non-proprietary-serene-tunes/"><u>[New] Non-Proprietary Serene Tunes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-maximize-your-youtube-viewing-download-icons-via-online-and-os-specific-methods/"><u>[Updated] 2024 Approved Maximize Your YouTube Viewing Download Icons via Online & OS-Specific Methods</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-enhancing-your-discord-experience-with-recordings/"><u>[Updated] In 2024, Enhancing Your Discord Experience with Recordings</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-stunning-iphone-portraits-through-water-imagery-techniques/"><u>[Updated] Stunning iPhone Portraits Through Water Imagery Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-creating-your-personalized-signature-with-godaddys-email-service/"><u>Easy Steps: Creating Your Personalized Signature with GoDaddy's Email Service</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-tips-for-crafting-seamless-interfaces-with-apples-guidelines-for-visionos-developers-expert-advice-from-zdnet/"><u>Essential Tips for Crafting Seamless Interfaces with Apple's Guidelines for VisionOS Developers | Expert Advice From ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/evolution-of-shopping-on-apples-vision-pro-set-to-go-live-february-a-game-changer-wired/"><u>Evolution of Shopping on Apple's Vision Pro Set to Go Live February - A Game Changer? | Wired</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-guidance-manual-time-zone-setup-for-windows-users/"><u>Expert Guidance: Manual Time Zone Setup for Windows Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-more-for-less-secure-an-iphone-ipad-apple-watch-airpods-and-a-mac-together-for-cheaper-than-a-single-vision-pro-exclusive-offer-inside/"><u>Get More for Less: Secure an iPhone, iPad, Apple Watch, AirPods, and a Mac Together for Cheaper Than a Single Vision Pro | Exclusive Offer Inside</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ial-intelligence-may-replace-bulky-headsets/"><u>Ial Intelligence May Replace Bulky Headsets</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-deployment-of-digital-twins-addressing-7-critical-challenges-with-strategies-from-zdnet/"><u>Mastering the Deployment of Digital Twins: Addressing 7 Critical Challenges with Strategies From ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-future-of-immersive-tech-how-vrarxr-are-gaining-traction-at-mit-according-to-zdnet/"><u>Navigating the Future of Immersive Tech: How VR/AR/XR Are Gaining Traction at MIT According to ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/new-era-for-conferencing-with-zoom-on-vision-pro-what-to-expect-from-your-next-meeting-tech-news-by-zdnet/"><u>New Era for Conferencing with Zoom on Vision Pro: What to Expect From Your Next Meeting | Tech News by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/next-level-virtual-adventure-my-experience-with-metas-quest-3-for-a-mind-blowing-mixed-reality-journey-zdnet/"><u>Next-Level Virtual Adventure: My Experience with Meta's Quest 3 for a Mind-Blowing Mixed Reality Journey | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/recovering-missing-bluetooth-icons-on-windows-10-devices-for-seamless-connectivity/"><u>Recovering Missing Bluetooth Icons on Windows 10 Devices for Seamless Connectivity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tired-of-traditional-workspaces-discover-the-potential-impact-of-the-metaverse-on-tomorrows-careers-zdnet/"><u>Tired of Traditional Workspaces? Discover the Potential Impact of the Metaverse on Tomorrow's Careers | ZDNET</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-savings-with-directtv-stream-secure-your-90-off-deal-today-only-dont-miss-out/"><u>Unlock Savings with DirectTV Stream - Secure Your $90 Off Deal Today Only – Don't Miss Out!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

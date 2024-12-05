@@ -1,7 +1,7 @@
 ---
 title: Setting Up Multiple VPN Profiles on macOS for Enhanced Connectivity Options | Tips & Tricks by ZDNet
-date: 2024-11-19T17:18:31.343Z
-updated: 2024-11-25T17:09:59.123Z
+date: 2024-12-02T04:45:34.544Z
+updated: 2024-12-05T04:01:45.777Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ I connect to a lot of different networks. At home, I have three different LANs t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -40,30 +40,30 @@ Let me show you how it works.
 
 **Also:** [**How to manage SSH connections on MacOS with Termius**](https://www.zdnet.com/article/how-to-manage-ssh-connections-on-macos-with-termius/) 
 
-## How to create different network locations in MacOS
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to create different network locations in MacOS
 
 ## Requirements
 
 The only thing you'll need is a device running an updated version of MacOS. This feature works with both wired and wireless connections.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Open System Preferences
 
 Click the Apple menu at the top right of your display and select System Preferences from the menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Open Network
 
 From within System Preferences, click the Network icon to open the Network section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Create a new network location
@@ -74,10 +74,6 @@ Creating a new Network Location in MacOS Monterey.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Configure the new location
 
 Make sure to select the new location you created from the Location drop-down. Click Advanced to open the location configuration window, where you can configure the location to meet your specific needs. For example, you can select the network to be used and then configure that network for a static IP address using the Cloudflare DNS servers.
@@ -87,6 +83,10 @@ Configuring a network for the new location in MacOS.
 Image: Jack Wallen
 
 Once you've configured the location exactly how you need it, click Apply to save everything.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Switching to a different Network Location
 
@@ -131,18 +131,21 @@ Fortunately, you are now empowered to more easily make that switch.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-immersive-color-grading-navigating-luts-in-adobe-premiere-pro/"><u>[New] In 2024, Immersive Color Grading Navigating LUTs in Adobe Premiere Pro</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-in-class-steadicam-equipment-for-drone-cinematography/"><u>[Updated] Best-in-Class Steadicam Equipment for Drone Cinematography</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-comprehvew-of-effective-methods-for-sanitizing-home-stereo-sound-equipment/"><u>A Comprehvew of Effective Methods for Sanitizing Home Stereo Sound Equipment</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-realme-note-50-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme Note 50 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/fast-acting-solutions-to-overcome-lag-in-assassins-creed-valhalla/"><u>Fast-Acting Solutions to Overcome Lag in Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-s17t-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo S17t Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-profile-snap-intro-dimensions-file-type-duration/"><u>In 2024, FB Profile Snap Intro Dimensions, File Type, Duration</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Realme C67 5G? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-androids-quick-settings-a-comprehensive-guide/"><u>Mastering Android's Quick Settings: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastery-of-ntldr-mishaps-expert-tips-for-overcoming-boot-errors-on-windows/"><u>Mastery of NTLDR Mishaps: Expert Tips for Overcoming Boot Errors on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/no-more-interruptions-how-to-resolve-dreamlight-valleys-pc-malfunctions-6-ways/"><u>No More Interruptions: How to Resolve Dreamlight Valley's PC Malfunctions (6 Ways)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/regain-access-to-your-ipad-solutions-for-a-lostforgotten-password/"><u>Regain Access to Your iPad: Solutions for a Lost/Forgotten Password</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upcoming-google-pixel-7-unveiled-pricing-launch-timeline-and-tech-specs-revealed/"><u>Upcoming Google Pixel 7 Unveiled: Pricing, Launch Timeline & Tech Specs Revealed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-finest-global-virtual-learning-hubs-outside-udemy/"><u>[New] 2024 Approved The Finest Global Virtual Learning Hubs Outside Udemy</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-streamlining-online-meetings-zoom-and-gmail-sync-strategies-for-2024/"><u>[New] Streamlining Online Meetings Zoom & Gmail Sync Strategies for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unleash-your-full-potential-in-the-metaverse/"><u>[Updated] 2024 Approved Unleash Your Full Potential in the Metaverse</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unveiling-superior-screen-recording-obs-vs-fraps-face-off/"><u>[Updated] Unveiling Superior Screen Recording OBS vs Fraps Face-Off</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-professional-drones-an-in-depth-pilots-list/"><u>2024 Approved Best Professional Drones – An In-Depth Pilot’s List</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correct-video-glitches-on-monitors/"><u>Correct Video Glitches on Monitors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciding-on-your-next-wrist-companion-googles-pixel-watch-against-apples-latest-series-8-techcomparison-blog/"><u>Deciding on Your Next Wrist Companion: Google's Pixel Watch Against Apple's Latest Series 8 | TechComparison Blog</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-25-prime-festive-season-ipad-discounts-your-ultimate-guide-to-saving-big-powered-by-zdnet/"><u>Discover 25 Prime Festive Season iPad Discounts - Your Ultimate Guide to Saving Big, Powered by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-solutions-to-the-msxml4dll-not-found-problem/"><u>Expert Solutions to the Msxml4.dll Not Found Problem</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-optimal-ways-to-preserve-android-records/"><u>In 2024, Optimal Ways to Preserve Android Records</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-your-first-home-audio-setup-a-comprehensive-beginners-guide/"><u>Navigating Your First Home Audio Setup - A Comprehensive Beginners Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-transition-strategies-upgrading-to-your-new-iphone-with-ease-insights/"><u>Seamless Transition Strategies: Upgrading to Your New iPhone with Ease - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-your-apple-vision-pro-envy-with-budget-friendly-xr-glasses-how-i-did-it/"><u>Solve Your Apple Vision Pro Envy with Budget-Friendly XR Glasses - How I Did It</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-using-craft-on-your-mac-enhance-your-document-handling-skills-with-expert-advice-from-zdnet/"><u>The Ultimate Guide to Using Craft on Your Mac: Enhance Your Document Handling Skills with Expert Advice From ZDNET</u></a></li>
 </ul></div>
 

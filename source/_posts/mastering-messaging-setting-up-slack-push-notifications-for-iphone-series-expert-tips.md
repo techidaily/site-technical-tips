@@ -1,7 +1,7 @@
 ---
 title: "Mastering Messaging: Setting Up Slack Push Notifications for iPhone Series | Expert Tips"
-date: 2024-11-20T16:53:00.950Z
-updated: 2024-11-25T16:50:05.283Z
+date: 2024-11-28T18:07:22.031Z
+updated: 2024-12-05T04:50:22.645Z
 tags:
   - apple
 categories:
@@ -54,6 +54,10 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
@@ -68,12 +72,16 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -93,10 +101,6 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -119,7 +123,7 @@ So, make sure you set the Start and End times that fit with your schedule.
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable Slack notifications in the Watch app
@@ -127,7 +131,7 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -135,10 +139,6 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,19 +179,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-crafting-compelling-gopro-livestreams-on-facebook-and-periscope/"><u>[Updated] Crafting Compelling GoPro Livestreams on Facebook & Periscope</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-how-to-disableremove-youtube-shorts-permanently2-for-2024/"><u>[Updated] How to Disable/Remove YouTube Shorts Permanently?2 For 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-highest-rated-video-call-software-not-zoom-for-pcs-and-phones/"><u>2024 Approved Highest-Rated Video Call Software (Not Zoom) for PCs & Phones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/an-easy-fix-for-a-magic-mouse-tracking-problem/"><u>An Easy Fix for a Magic Mouse Tracking Problem</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/birds-bamboo-boogie-for-2024/"><u>Birds Bamboo Boogie for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/breakthrough-in-drone-tech-yuneec-q500-4k-for-2024/"><u>Breakthrough in Drone Tech Yuneec Q500 4K for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decode-the-buzz-around-googles-imminent-event-key-announcements-ahead/"><u>Decode the Buzz Around Google’s Imminent Event – Key Announcements Ahead</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-set-up-a-chromecast-connection-for-displaying-windows-on-tv/"><u>How to Set Up a ChromeCast Connection for Displaying Windows on TV</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ipad-or-generic-tablet-understanding-key-contrasts/"><u>IPad or Generic Tablet? Understanding Key Contrasts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-your-travel-adventures-with-these-8-ideal-planner-applications/"><u>Master Your Travel Adventures with These 8 Ideal Planner Applications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-health-outcomes-with-chatgpts-leading-techniques/"><u>Maximizing Health Outcomes with ChatGPT’s Leading Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reattaching-a-keys-from-your-computer-keyboard-a-step-by-step-guide/"><u>Reattaching a Keys From Your Computer Keyboard: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-media-frenzy-jbs-anti-covid-strategy-unfolds/"><u>Social Media Frenzy: JB's Anti-COVID Strategy Unfolds</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-full-assessment-razers-hd-webcam/"><u>[Updated] 2024 Approved Full Assessment Razer's HD Webcam</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-aesthetic-almanac-makeup-hair-and-more-on-youtube/"><u>[Updated] The Aesthetic Almanac Makeup, Hair & More on YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/addressing-disc-read-errors-on-your-wiimote-a-users-manual/"><u>Addressing Disc Read Errors on Your Wiimote - A User's Manual</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/all-weather-wonders-exploring-the-kobo-libra-h2os-resilient-reading-experience/"><u>All-Weather Wonders: Exploring the Kobo Libra H2O's Resilient Reading Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-carplay-revolutionized-upgrade-check-out-top-highlights-from-wwdc-announcement-insights-and-analysis/"><u>Apple CarPlay Revolutionized Upgrade! Check Out Top Highlights From WWDC Announcement | Insights & Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversion-gratuita-de-archivo-m4a-a-mp3-online-con-ease/"><u>Conversión Gratuita De Archivo M4A a MP3 Online Con Ease</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-restoring-your-beyond-the-wire-microphone-to-full-functionality/"><u>Expert Tips on Restoring Your 'Beyond The Wire' Microphone to Full Functionality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-ready-for-the-refreshed-apple-watch-se-affordable-model-gets-major-facelift-soon-the-latest-insights/"><u>Get Ready for the Refreshed Apple Watch SE: Affordable Model Gets Major Facelift Soon - The Latest Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-it-when-a-roku-tv-wont-turn-on/"><u>How to Fix It When a Roku TV Won't Turn On</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-y77t-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y77t Fingerprint Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-lava-blaze-2-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Lava Blaze 2 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-your-hotel-stay-discover-apple-airplay-integration-in-select-accommodations-and-master-the-features/"><u>Revolutionizing Your Hotel Stay: Discover Apple AirPlay Integration in Select Accommodations & Master the Features!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/set-up-slack-push-notifications-for-iphone-and-apple-watch-tutorial-by-zdnet/"><u>Set Up Slack Push Notifications for iPhone & Apple Watch - Tutorial by ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oppo-a56s-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Oppo A56s 5G Phone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultrawide-vs-uhd-4k-monitor-showdown-top-picks-for-2024/"><u>UltraWide VS UHD 4K Monitor Showdown Top Picks for 2024</u></a></li>
 </ul></div>
 

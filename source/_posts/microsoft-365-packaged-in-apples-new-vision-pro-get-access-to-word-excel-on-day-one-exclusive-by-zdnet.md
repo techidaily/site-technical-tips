@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 Packaged in Apple's New Vision Pro: Get Access to Word, Excel on Day One | Exclusive by ZDNET"
-date: 2024-11-23T16:29:22.710Z
-updated: 2024-11-25T16:19:45.461Z
+date: 2024-11-30T23:52:57.783Z
+updated: 2024-12-05T11:53:21.925Z
 tags:
   - apple
 categories:
@@ -75,7 +75,7 @@ Users can control the headset with eye and hand tracking, a feature that's slowl
 Vision Pro runs on a new Apple operating system, VisionOS, which resembles the iPadOS interface, bringing Apple's apps and services ecosystem to the headset. VisionOS was created specifically for spatial computing. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is the Apple Vision Pro AR or VR?
@@ -83,6 +83,10 @@ Vision Pro runs on a new Apple operating system, VisionOS, which resembles the i
 The Apple Vision Pro is a mixed-reality headset that combines augmented reality (AR) and virtual reality (VR). This capability means that, when wearing the headset, you can either completely immerse yourself in the virtual reality environment or use the headset to add an augmented reality layer to your environment. 
 
 **Also: [7 upgrades Apple Vision Pro needs to succeed in business](https://www.zdnet.com/article/7-upgrades-apple-vision-pro-needs-to-succeed-in-business/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What can you do with the Vision Pro headset?
 
@@ -146,6 +150,10 @@ There are other bells and whistles you can opt for, such as Apple Care+ for $499
 
 **Also: [Itching to try Vision Pro's Travel Mode? Here's what to expect before you go](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What comes in the Apple Vision Pro box?
 
 Included in the $3,499 purchase price is the headset, the battery pack, a Dual Loop Band, a cover, a light seal cushion, a polishing cloth, a USB-C Power Adapter, and a USB‑C Charge Cable. You [can watch Hiner unbox the device here](https://www.youtube.com/shorts/mEaUtquyqZ4).
@@ -155,7 +163,7 @@ Included in the $3,499 purchase price is the headset, the battery pack, a Dual L
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I wear the Apple Vision Pro with glasses?
@@ -190,10 +198,6 @@ Yes, you can try the Vision Pro before purchasing by booking a one-on-one demo e
 
 **Also: [Apple Vision Pro's in-store demos are better than ever - here's why and how to book one](https://www.zdnet.com/article/apple-vision-pros-in-store-demos-are-better-than-ever-heres-why-and-how-to-book-one/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the return policy on the Apple Vision Pro?
 
 The return policy on the Vision Pro is the same Standard Return Policy as any other Apple product: you have 14 days to return it if you are not satisfied. 
@@ -205,7 +209,7 @@ Now that it has been over two weeks since the Vision Pro's launch, some users ha
 **Also: [How to return the Apple Vision Pro](https://www.zdnet.com/article/how-to-return-the-apple-vision-pro/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Apple Vision Pro updates were announced at WWDC 2024?
@@ -235,10 +239,6 @@ The products differ in display, weight, processors, controllers, and more, affec
 Jason Hiner/ZDNET
 
 **Also: [Why I returned my Apple Vision Pro and Meta Quest 3 for these XR glasses](https://www.zdnet.com/article/why-i-returned-my-apple-vision-pro-and-meta-quest-3-for-these-xr-glasses/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is the Apple Vision Pro worth the price?
 
@@ -283,24 +283,22 @@ ZDNET experts have Apple Vision Pro headsets in their hands, so stay tuned for m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-behind-the-scenes-samsungs-s8-and-4k-technology/"><u>[New] Behind the Scenes Samsung's S8 and 4K Technology</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-portable-balance-enhancer-for-shooting-blurs/"><u>[Updated] 2024 Approved Portable Balance Enhancer for Shooting Blurs</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-empower-your-application-with-microsoft-azure-speech-services/"><u>[Updated] In 2024, Empower Your Application with Microsoft Azure Speech Services</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-windows-11-movie-maker-a-step-by-step-guide/"><u>[Updated] Mastering Windows 11 Movie Maker A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-potential-with-polarrs-advanced-editing-features/"><u>[Updated] Unlocking Potential with Polarr's Advanced Editing Features</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-leveraging-ios-11-for-professional-level-iphone-shots/"><u>2024 Approved Leveraging iOS 11 for Professional-Level iPhone Shots</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/achieve-a-balanced-digital-life-with-7-effective-techniques-to-minimize-your-time-on-social-platforms/"><u>Achieve a Balanced Digital Life with 7 Effective Techniques to Minimize Your Time on Social Platforms</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/august-12th-edition-of-the-new-york-times-unlocking-insights-and-answers-with-connection-tips-427/"><u>August 12Th Edition of The New York Times: Unlocking Insights & Answers with Connection Tips #427</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-guide-browsing-every-listing-on-craigslist-efficiently/"><u>Complete Guide: Browsing Every Listing on Craigslist Efficiently</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-enhanced-translation-feature-in-firefox-128-the-latest-update-for-seamless-multilingual-browsing/"><u>Discover the Enhanced Translation Feature in Firefox 128 – The Latest Update for Seamless Multilingual Browsing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/download-and-test-the-latest-qbittorrent-version-50-new-features-inside/"><u>Download and Test the Latest QBittorrent Version 5.0: New Features Inside!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/elevating-roi-by-mastering-the-craft-of-fb-animated-advertising/"><u>Elevating ROI by Mastering the Craft of FB Animated Advertising</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exciting-update-alert-cutting-edge-composition-and-condensation-tools-for-your-internet-explorer/"><u>Exciting Update Alert! Cutting-Edge Composition & Condensation Tools for Your Internet Explorer</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-integrative-motion-analysis-compendium/"><u>In 2024, Integrative Motion Analysis Compendium</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-overview-of-colour-difference-filming/"><u>Quick Overview of Colour Difference Filming</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-6-awesome-samsung-galaxy-applications-worth-downloading-now/"><u>Top 6 Awesome Samsung Galaxy Applications Worth Downloading Now!</u></a></li>
-<li><a href="https://windows11.techidaily.com/triumph-over-glitches-the-ultimate-guide-for-eradicating-error-0x800700e9-on-xbox-game-pass-and-windows-11/"><u>Triumph Over Glitches: The Ultimate Guide for Eradicating Error 0X800700E9 on Xbox Game Pass & Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-premier-case-selection-for-your-google-pixel-n/"><u>Ultimate Guide: Premier Case Selection for Your Google Pixel N</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/weekly-tech-insight-exploring-the-latest-windows-laptop-innovations-and-hidden-playlists-at-spotify/"><u>Weekly Tech Insight: Exploring the Latest Windows Laptop Innovations & Hidden Playlists at Spotify</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-detailed-instructions-maximizing-mobizen-record-functionality/"><u>[New] 2024 Approved Detailed Instructions Maximizing Mobizen Record Functionality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-enduring-removal-protocol-say-no-to-youtube-shorts/"><u>[New] In 2024, Enduring Removal Protocol Say No to YouTube Shorts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-video-magic-top-5-effect-tools/"><u>[Updated] Free Video Magic Top 5 Effect Tools</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/best-replacement-software-for-jdownloader-on-macwindows-free-trial-available/"><u>Best Replacement Software for JDownloader on MAC/WINDOWS - Free Trial Available</u></a></li>
+<li><a href="https://fox-links.techidaily.com/codec-comparison-are-we-better-with-av1-or-vp9-for-2024/"><u>Codec Comparison Are We Better With AV1 or VP9 for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-apples-enhanced-airpods-line-up-top-4-new-and-improved-features-unveiled/"><u>Discover Apple's Enhanced AirPods Line-Up: Top 4 New and Improved Features Unveiled!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/essential-steps-to-enhance-your-pcs-security-expert-advice-from-yl-computing/"><u>Essential Steps to Enhance Your PC's Security - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expand-your-productivity-how-to-connect-dual-monitors-to-your-m3-macbook-pro-tips-and-tricks-similar-to-m3-macbook-air/"><u>Expand Your Productivity: How To Connect Dual Monitors to Your M3 MacBook Pro - Tips & Tricks Similar to M3 MacBook Air</u></a></li>
+<li><a href="https://fox-search.techidaily.com/guida-alla-sicurezza-dei-dati-con-aomei-clonazione-backup-e-sincronizzazione-impossibili-per-gli-umani/"><u>Guida Alla Sicurezza Dei Dati Con AOMEI: Clonazione, Backup E Sincronizzazione Impossibili per Gli Umani</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-advanced-iphone-voice-controls-for-enhanced-performance-discover-exclusive-siri-shortcuts-today/"><u>Mastering Advanced iPhone Voice Controls for Enhanced Performance - Discover Exclusive Siri Shortcuts Today!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-your-apple-watchs-longevity-top-8-tweaks-for-enhanced-battery-performance/"><u>Maximize Your Apple Watch's Longevity: Top 8 Tweaks for Enhanced Battery Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resident-evil-village-how-to-fix-persistent-mouse-problems/"><u>Resident Evil Village: How To Fix Persistent Mouse Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/spring-launch-predicted-for-newest-ipads-of-2024-according-to-zdnet-insights/"><u>Spring Launch Predicted for Newest iPads of 2024, According to ZDNet Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-fixing-the-silent-problem-of-your-logitech-g933-headset/"><u>Step-by-Step Guide: Fixing the Silent Problem of Your Logitech G933 Headset</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-most-secure-and-stylish-magsafe-wallets-of-2024-in-depth-analysis-and-ratings/"><u>Ultimate Guide to the Most Secure & Stylish MagSafe Wallets of 2024: In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-the-irritation-a-call-for-apples-solution-on-iphone-quirks-techspot/"><u>Unraveling the Irritation: A Call for Apple's Solution on iPhone Quirks | TechSpot</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrading-from-iphone-13-pro-to-iphone-15-pro-heres-what-you-need-to-know-zdnet/"><u>Upgrading From iPhone 13 Pro to iPhone 15 Pro? Here's What You Need to Know | ZDNET</u></a></li>
 </ul></div>
 

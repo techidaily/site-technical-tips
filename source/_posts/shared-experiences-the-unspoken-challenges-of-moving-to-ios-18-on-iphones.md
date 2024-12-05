@@ -1,7 +1,7 @@
 ---
 title: "Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones"
-date: 2024-11-23T17:23:07.752Z
-updated: 2024-11-25T16:32:42.379Z
+date: 2024-11-29T00:42:24.600Z
+updated: 2024-12-04T21:59:33.578Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,24 +109,20 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-top-tiktok-edits-mastering-your-cut-lists/"><u>[New] 2024 Approved Top TikTok Edits Mastering Your Cut Lists</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-film-lovers-ultimate-selection-of-stop-motion-works/"><u>[Updated] Film Lovers' Ultimate Selection of Stop-Motion Works</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-secrets-to-polished-photo-edits-in-canva/"><u>[Updated] The Secrets to Polished Photo Edits in Canva</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-revolutionize-your-laptop-experience-innovative-methods-for-screen-capture/"><u>2024 Approved Revolutionize Your Laptop Experience Innovative Methods for Screen Capture</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-giggles-galore-crafting-memes-in-adobe/"><u>In 2024, Giggles Galore Crafting Memes in Adobe</u></a></li>
-<li><a href="https://techidaily.com/is-your-motorola-defy-2-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Defy 2 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-focus-effective-strategies-for-ensuring-application-visibility-on-any-windowed-os/"><u>Mastering Focus: Effective Strategies for Ensuring Application Visibility on Any Windowed OS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-nohup-command-a-comprehensive-guide-for-continuous-processes-on-linux/"><u>Mastering the Nohup Command: A Comprehensive Guide for Continuous Processes on Linux</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-setup-of-playstation-5s-wireless-controller-for-a-seamless-pc-gaming-experience-on-windows-10/"><u>Mastering the Setup of PlayStation 5'S Wireless Controller for a Seamless PC Gaming Experience on Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximizing-efficiency-with-kde-task-management-on-linux-systems/"><u>Maximizing Efficiency with KDE Task Management on Linux Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-through-the-new-era-an-update-on-verizons-5g-services/"><u>Navigating Through the New Era: An Update on Verizon's 5G Services</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/newly-released-the-2404-lts-version-of-ubuntu-your-reliable-choice-in-the-world-of-operating-systems/"><u>Newly Released: The 24.04 LTS Version of Ubuntu - Your Reliable Choice in the World of Operating Systems!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/readying-your-hard-drive-for-use-master-these-7-disk-formatting-strategies/"><u>Readying Your Hard Drive for Use? Master These 7 Disk Formatting Strategies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-windows-license-restricted-to-single-display-language-error/"><u>Resolving 'Windows License Restricted to Single Display Language' Error</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ue-war-diary-dailymotion-vs-youtube-monetization-strategies/"><u>Revenue War Diary Dailymotion vs YouTube Monetization Strategies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revitalize-your-vintage-pc-top-5-linux-os-choices/"><u>Revitalize Your Vintage PC: Top 5 Linux OS Choices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionary-ms-dos-40-from-1988-released-as-free-and-open-source/"><u>Revolutionary MS-DOS 4.0 From 1988, Released as Free and Open-Source!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-running-ubuntu-from-an-external-hard-drive-unveil-your-5-preferred-approaches/"><u>Step-by-Step Guide to Running Ubuntu From an External Hard Drive – Unveil Your 5 Preferred Approaches</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-nvidiaintel-hybrid-card-problems-in-windows/"><u>Tackling NVIDIA/Intel Hybrid Card Problems in Windows</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-keep-your-snaps-secret-stealthy-photo-taking-tricks-for-snapchat/"><u>[New] In 2024, Keep Your Snaps Secret Stealthy Photo Taking Tricks for Snapchat</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-pitfall-of-superficial-engagement-on-insta/"><u>[New] The Pitfall of Superficial Engagement on Insta</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-free-yourself-from-fringe-a-youtube-video-fix-guide/"><u>[Updated] Free Yourself From Fringe A YouTube Video Fix Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-streamline-your-online-presence-using-wirecast-and-facebook-live/"><u>2024 Approved Streamline Your Online Presence Using Wirecast and Facebook Live</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/capturing-nintendo-joy-in-the-best-cards/"><u>Capturing Nintendo Joy in the Best Cards</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-errors-with-enex-driver-not-loading-in-win11/"><u>Correcting Errors with eNEX Driver Not Loading in Win11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/downloading-dynamism-techniques-for-preserving-online-lives-for-2024/"><u>Downloading Dynamism Techniques for Preserving Online Lives for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-enhancements-what-the-apple-vision-pro-requires-for-successful-enterprise-adoption/"><u>Essential Enhancements: What the Apple Vision Pro Requires for Successful Enterprise Adoption</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-add-extra-security-layer-with-two-factor-auth-in-gmail/"><u>How to Add Extra Security Layer with Two-Factor Auth in Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-free-up-space-by-clearing-the-cache-on-android-devices/"><u>How to Free Up Space by Clearing the Cache on Android Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-move-your-apple-music-playlists-to-and-from-youtube-music-a-comprehensive-guide-by-zdnet/"><u>How to Move Your Apple Music Playlists to and From YouTube Music: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/scanning-made-simple-connecting-and-transferring-data-between-printers-and-computers/"><u>Scanning Made Simple: Connecting and Transferring Data Between Printers & Computers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/smartwatch-shopping-checklist-the-5-questions-you-cant-overlook/"><u>Smartwatch Shopping Checklist: The 5 Questions You Can't Overlook</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-wont-my-iphone-ring-with-these-expert-tips/"><u>Solving the Issue: Why Won't My iPhone Ring with These Expert Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-magsafe-chargers-comprehensive-reviews-and-comparisons-by-tech-experts/"><u>Top-Rated MagSafe Chargers : Comprehensive Reviews & Comparisons by Tech Experts</u></a></li>
 </ul></div>
 

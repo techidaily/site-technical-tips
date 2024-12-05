@@ -1,7 +1,7 @@
 ---
 title: "Upcoming October Launch: Apple Pushes Back Initial Artificial Intelligence Offerings, Says ZDNET Report"
-date: 2024-11-24T16:06:46.790Z
-updated: 2024-11-25T16:26:28.404Z
+date: 2024-11-30T01:18:54.626Z
+updated: 2024-12-05T06:02:08.263Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -61,7 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -73,7 +77,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -94,10 +98,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -112,6 +112,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -121,10 +125,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -136,6 +136,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -153,10 +157,6 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -210,24 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-websites-for-youtube-preview-creation-tools/"><u>[New] In 2024, Essential Websites for YouTube Preview Creation Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-reversing-time-retracing-your-steps-for-lost-snaps/"><u>[New] In 2024, Reversing Time Retracing Your Steps for Lost Snaps</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-how-to-make-tiktok-dance-on-mac/"><u>2024 Approved How to Make TikTok Dance on Mac</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-fixing-the-tracking-difficulties-on-a-magic-mouse/"><u>A Step-by-Step Guide: Fixing The Tracking Difficulties on a Magic Mouse</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-vr-equipment-enhancing-flight-control-for-2024/"><u>Best VR Equipment Enhancing Flight Control for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/cambiar-archivo-raw-a-formato-png-gratuito-en-linea-con-movavi/"><u>Cambiar Archivo RAW a Formato PNG Gratuito en Línea Con Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-compilation-of-playstation-5s-unique-game-titles/"><u>Complete Compilation of PlayStation 5'S Unique Game Titles</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/cracking-down-on-counterfeit-connections-the-art-of-identifying-inauthentic-friend-requests-online/"><u>Cracking Down on Counterfeit Connections: The Art of Identifying Inauthentic Friend Requests Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/employee-exodus-explained-tackling-burnout-and-ineffective-recruitment-for-modern-workplaces-zdnet/"><u>Employee Exodus Explained: Tackling Burnout & Ineffective Recruitment for Modern Workplaces | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expand-your-visual-workspace-a-step-by-step-tutorial-for-adding-three-monitors/"><u>Expand Your Visual Workspace: A Step-by-Step Tutorial for Adding Three Monitors</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-achieving-vibrant-colors-srgb-techniques/"><u>In 2024, Achieving Vibrant Colors Srgb Techniques</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Infinix Zero 30 5G</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-multi-bluetooth-setup-linking-several-speakers-to-a-single-device/"><u>Mastering Multi-Bluetooth Setup: Linking Several Speakers to a Single Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/retrieve-deleted-ios-notifications-with-these-easy-steps/"><u>Retrieve Deleted iOS Notifications with These Easy Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tackling-netflix-troubles-effective-fixes-for-error-nw-1-19-revealed/"><u>Tackling Netflix Troubles: Effective Fixes for Error NW-1-19 Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-missing-wlanapidll-file-on-your-pc/"><u>Troubleshooting the Missing wlanAPI.dll File on Your PC</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-zero-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Zero 30 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-isnt-my-youtube-working-exploring-potential-issues-and-fixes/"><u>Why Isn't My YouTube Working? Exploring Potential Issues and Fixes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-top-tools-for-social-media-marketers-20-free-fb-video-editors-for-2024/"><u>[Updated] Top Tools for Social Media Marketers 20 Free FB Video Editors for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-understanding-your-instagram-stories-visibility/"><u>2024 Approved Understanding Your Instagram Stories Visibility</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-netgear-default-login-info-july-2024-update/"><u>All You Need to Know About NETGEAR Default Login Info – July 2024 Update</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/come-eseguire-il-backup-utilizzando-la-shell-di-comandi-con-aomei-backupper-tutorial-essenziale/"><u>Come Eseguire Il Backup Utilizzando La Shell Di Comandi Con AOMEI Backupper: Tutorial Essenziale</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/direct-pathway-iphone-files-on-your-desktop-for-2024/"><u>Direct Pathway IPhone Files on Your Desktop for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-the-tech-marvel-in-apples-m1-max-clip/"><u>Discovering the Tech Marvel in Apple's M1 Max Clip</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-with-speed-comprehensive-guide-for-dell-latitude-e6eth-latitude-e6420-drivers/"><u>Download and Update with Speed: Comprehensive Guide for Dell Latitude E6([ETH]) (LATITUDE E6420) Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/global-smartphone-rankings-shaken-iphones-claim-first-seven-spots-exclusive-insights/"><u>Global Smartphone Rankings Shaken: IPhones Claim First Seven Spots - Exclusive Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/imessage-communication-from-your-desktop-tips-for-using-it-with-windows-zdnet/"><u>IMessage Communication From Your Desktop: Tips for Using It with Windows - ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-infinix-hot-30i-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Infinix Hot 30i? Try These Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/next-level-ai-for-your-daily-life-siris-upcoming-evolution-revealed-in-2e15-zdnet-analysis/"><u>Next-Level AI for Your Daily Life: Siri's Upcoming Evolution Revealed in 2E15 | ZDNET Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-thumbnail-design-choosing-best-fonts-for-2024/"><u>The Art of Thumbnail Design Choosing Best Fonts for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-honor-magic-5-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Honor Magic 5 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-tips-from-apple-engineers-for-optimizing-your-apps-on-mac-and-ios-with-visionos/"><u>Top 7 Tips From Apple Engineers for Optimizing Your Apps on Mac and iOS with VisionOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-ipad-applications-boosting-efficiency-streamline-your-task-management/"><u>Top iPad Applications Boosting Efficiency: Streamline Your Task Management</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-premium-titanium-apple-watch-band-the-top-pick-zdnet/"><u>Ultimate Guide to the Premium Titanium Apple Watch Band - The Top Pick! | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-how-to-launching-command-line-interface-in-any-version-of-windows/"><u>Ultimate How-To: Launching Command Line Interface in Any Version of Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ate-student-guide-to-best-history-videos-online-for-2024/"><u>Ultimate Student Guide to Best History Videos Online for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-secret-to-a-complimentary-macbook-air-m3-at-best-buy-a-step-by-step-guide/"><u>Unlock the Secret to a Complimentary MacBook Air M3 at Best Buy: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

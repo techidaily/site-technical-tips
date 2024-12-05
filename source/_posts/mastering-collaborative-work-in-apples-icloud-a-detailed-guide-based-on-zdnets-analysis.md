@@ -1,7 +1,7 @@
 ---
 title: "Mastering Collaborative Work in Apple's iCloud: A Detailed Guide Based on ZDNet's Analysis"
-date: 2024-11-20T16:22:46.576Z
-updated: 2024-11-25T17:00:40.166Z
+date: 2024-12-02T04:33:19.550Z
+updated: 2024-12-05T00:53:32.068Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple
@@ -42,7 +42,7 @@ I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/76
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -53,10 +53,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -66,14 +62,10 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable the Collaboration feature
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -83,6 +75,10 @@ The first thing you must do is open the Pages document that will be shared with 
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Enable the Collaborate feature
 
 Click Collaborate and you'll be informed the document must be moved to iCloud before you can collaborate (**Figure 4**).
@@ -90,6 +86,10 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -149,16 +149,18 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-leading-techniques-for-effective-webp-to-jpeg-change/"><u>[New] 2024 Approved Leading Techniques for Effective WebP to JPEG Change</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-best-8-convertors-sub-to-srt-on-all-os-platforms-for-2024/"><u>[New] Best 8 Convertors Sub to Srt on All OS Platforms for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/accessing-the-internet-with-these-5-fantastic-free-public-dns-services/"><u>Accessing the Internet with These 5 Fantastic Free Public DNS Services</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/android-to-firestick-casting-techniques-for-seamless-entertainment/"><u>Android to Firestick Casting Techniques for Seamless Entertainment</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boosting-engagement-mastering-the-art-of-video-audio-on-instagram/"><u>Boosting Engagement: Mastering the Art of Video Audio on Instagram</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/community-engagement/"><u>Community Engagement</u></a></li>
-<li><a href="https://facebook.techidaily.com/discovering-deep-conversations-via-messenger-polls/"><u>Discovering Deep Conversations via Messenger Polls</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ensuring-seamless-communication-why-iphones-might-miss-texts-from-android-devices/"><u>Ensuring Seamless Communication: Why iPhones Might Miss Texts From Android Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-info-on-the-new-tesla-bot-teasers-estimated-pricing-and-release-specs-revealed/"><u>Inside Info on the New Tesla Bot: Teasers, Estimated Pricing, and Release Specs Revealed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-quality-sd-card-for-sony-alpha-7s-ii/"><u>Top Quality SD Card for Sony Alpha 7S II</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-pairing-and-using-a-samsung-smartphone-as-a-tv-remote-control/"><u>Ultimate Tutorial: Pairing and Using a Samsung Smartphone as a TV Remote Control</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-tiktoks-favorite-products-the-best-on-amazon/"><u>[New] 2024 Approved TikTok's Favorite Products The Best On Amazon</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-secrets-to-flawless-webp-to-jpg-image-conversion/"><u>[New] Secrets to Flawless WebP-to-JPG Image Conversion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-premiere-20-unlicensed-pubg-picture-collections/"><u>[Updated] In 2024, Premiere 20 Unlicensed PUBG Picture Collections</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-your-ideal-apple-laptop-a-detailed-comparison-of-the-macbook-pro-vs-macbook-air-insights-and-recommendations/"><u>Choosing Your Ideal Apple Laptop: A Detailed Comparison of the MacBook Pro Vs. MacBook Air – Insights and Recommendations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-new-corsair-icue-for-enhanced-pc-setup-windows-1110-compatible/"><u>Get Your Hands on the New Corsair iCUE for Enhanced PC Setup: Windows 11/10 Compatible</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/new-leak-suggests-apple-pushes-back-launch-of-ai-capabilities-to-october-insights/"><u>New Leak Suggests Apple Pushes Back Launch of AI Capabilities to October - Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-online-price-analysis-required/"><u>Nintendo Switch Online Price Analysis Required</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pros-vs-cons-the-ultimate-guide-to-choosing-a-great-mac-vpn-experts-weigh-in-techradar/"><u>Pros vs Cons: The Ultimate Guide to Choosing a Great Mac VPN (Experts Weigh In) | TechRadar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stay-connected-with-ease-tips-for-sending-texts-and-calls-using-your-apple-watch-insights/"><u>Stay Connected with Ease: Tips for Sending Texts and Calls Using Your Apple Watch Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/struggling-to-perform-a-version-check-on-ffxiv-issues-and-solutions/"><u>Struggling to Perform a Version Check on FFXIV: Issues and Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-kid-friendly-ipad-models-expert-picks-by-zdnet/"><u>Top 5 Kid-Friendly iPad Models : Expert Picks by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-apple-watch-straps-comprehensive-reviews-by-tech-pros-zdnet/"><u>Top-Rated Apple Watch Straps : Comprehensive Reviews by Tech Pros | ZDNet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/visual-snippet-retriever/"><u>Visual Snippet Retriever</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "M2 Meets M1 Showdown: Apple's Mac Mini and Mac Studio Compared"
-date: 2024-11-22T17:25:26.771Z
-updated: 2024-11-25T16:18:41.014Z
+date: 2024-11-30T10:35:17.353Z
+updated: 2024-12-04T22:57:45.805Z
 tags:
   - apple
 categories:
@@ -71,15 +71,15 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy the Apple Watch Series 10 if...
 
 ### 1\. You want a thinner design or larger watch sizes
 
 For the first time since the Watch Series 7 in 2021, the Apple Watch has had a facelift. The new Series 10 has a thinner overall profile and features larger faces and more rounded edges. Choose from a 42mm or 46mm display and enjoy a wearable lighter than the previous Series 9\. So, if you've been avoiding an Apple Watch because you've wanted a slimmer profile or larger face, here's your chance. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. You'd benefit from sleep apnea tracking
 
@@ -90,7 +90,7 @@ Sleep tracking is all the rage in tech (seriously, ZDNET readers [frequently pur
 Brand new for the Series 10, sleep apnea tracking is now built-in and there's a host of other features, such as [depth gauge](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/), for sports like snorkeling and diving.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. You're looking for something future-proof
@@ -104,7 +104,7 @@ The Watch Series 10 is the newest Apple Watch you can buy. History suggests it w
 Not only does the Watch Series 10 offer new features like sleep apnea detection, temperature sensing, and a depth gauge, but it's also designed to maximize [WatchOS 11](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) and benefits from a seamless integration with Apple's latest [iPhone 16 models](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/), which run on [iOS 18](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. It's time to upgrade
@@ -120,7 +120,7 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 [Buy the Apple Watch Series 10 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the Apple Watch Series 8 if...
@@ -135,15 +135,15 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cca6de9db-ba96-4a70-9e3a-95fc0e026b4c%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. You're looking for blood oxygen sensors
 
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -179,18 +179,20 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/approved-global-viewer-count-triumphs-play-button-honors/"><u>2024 Approved Global Viewer Count Triumphs Play Button Honors</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-swift-success-stories-leveraging-instagram-likes-and-videos/"><u>2024 Approved Swift Success Stories Leveraging Instagram Likes and Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722874445667-apple-music-continuous-playback-learn-how-to-pause-it-here/"><u>Apple Music Continuous Playback? Learn How to Pause It Here!</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-rapide-a-la-copie-du-message-demarrage-dun-serveur-windows-server-versions-2003-2008-et-2012-sans-reinstaller/"><u>Guide Rapide À La Copie Du Message Démarrage D’un Serveur Windows Server (Versions 2003, 2008 Et 2012) Sans Réinstaller</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tune-up-the-mundane-how-to-add-custom-ringtones-and-sounds-for-a-unique-auditory-experience-on-android/"><u>In 2024, Tune Up the Mundane How to Add Custom Ringtones & Sounds for a Unique Auditory Experience on Android</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/macos-11-big-sur-system-and-hardware-requirements-for-2024/"><u>MacOS 11 Big Sur System and Hardware Requirements for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-your-pathway-to-authenticity-with-instagrams-verification-badge/"><u>Mastering Your Pathway to Authenticity with Instagram's Verification Badge</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/programmi-di-clonazione-ottimali-per-ssd-toshiba-su-windows-11-8-and-7-guida-completa/"><u>Programmi Di Clonazione Ottimali per SSD Toshiba Su Windows 11, 8 & 7 - Guida Completa</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/streaming-solutions-decoded-getting-to-know-your-device-for-online-entertainment/"><u>Streaming Solutions Decoded: Getting to Know Your Device for Online Entertainment</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-access-free-reads-at-these-17-book-repositories/"><u>Ultimate Guide: Access Free Reads at These 17 Book Repositories</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/unleash-your-potential-with-these-powerful-snapchat-strategies/"><u>Unleash Your Potential with These Powerful Snapchat Strategies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-true-creator-behind-chatgpt-technology/"><u>Unveiling the True Creator Behind ChatGPT Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-does-ray-tracing-mean-for-computer-generated-imagery/"><u>What Does Ray Tracing Mean for Computer-Generated Imagery?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-scripting-stimulating-screen-grabbers/"><u>[New] Scripting Stimulating Screen-Grabbers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-comparative-analysis-of-screen-capture-software-obs-and-fraps/"><u>[Updated] In 2024, Comparative Analysis of Screen Capture Software OBS and Fraps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-tackling-inaudible-portions-in-partially-muted-fb-media/"><u>[Updated] In 2024, Tackling Inaudible Portions in Partially Muted FB Media</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-fantasy-forays-a-decades-best-games/"><u>2024 Approved Fantasy Forays A Decade’s Best Games</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/aeonys-portable-solar-energy-system-a-detailed-look-at-its-performance-with-fragile-healthcare-equipment/"><u>AeonY's Portable Solar Energy System: A Detailed Look at Its Performance with Fragile Healthcare Equipment</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/best-complimentary-mac-music-conversion-tools-top-picks-and-free-downloads/"><u>Best Complimentary Mac Music Conversion Tools: Top Picks & Free Downloads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-apple-watchs-battery-life-with-these-easy-configuration-tweaks-tips/"><u>Boost Your Apple Watch's Battery Life with These Easy Configuration Tweaks - Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-unique-cellphone-alerts-from-popular-tiktok-music/"><u>Crafting Unique Cellphone Alerts From Popular TikTok Music</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dyson-unveils-ontrac-wireless-earbuds-a-potential-competitor-for-apples-airpods-pro/"><u>Dyson Unveils OnTrac Wireless Earbuds: A Potential Competitor for Apple's AirPods Pro?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-the-latest-in-smartwatches-preorder-an-apple-watch-series-10-for-just-99-at-best-buy-the-ultimate-guide/"><u>Experience the Latest in Smartwatches: Preorder an Apple Watch Series 10 for Just $99 at Best Buy - The Ultimate Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fix-it-phoenix-the-pdf-rescuer/"><u>Fix-It Phoenix - The PDF Rescuer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-productivity-and-device-longevity-with-the-ultimate-3-in-1-magsafe-charging-station-for-apple-users/"><u>Maximize Productivity and Device Longevity with the Ultimate 3-in-1 MagSafe Charging Station for Apple Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/picking-the-perfect-powerhouse-macbook-air-or-macbook-pro-the-essential-comparison-cnet/"><u>Picking the Perfect Powerhouse: MacBook Air or MacBook Pro? The Essential Comparison | CNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pixel-9-pro-xl-vs-iphone-15-pro-photography-showdown-reveals-unexpected-champion/"><u>Pixel 9 Pro XL vs iPhone 15 Pro Photography Showdown Reveals Unexpected Champion!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrade-to-dual-monitor-setup-for-your-new-m3-macbook-pro-tips-and-tricks-covered-by-zdnet/"><u>Upgrade to Dual Monitor Setup for Your New M3 MacBook Pro - Tips & Tricks Covered by ZDNET</u></a></li>
 </ul></div>
 

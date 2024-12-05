@@ -1,7 +1,7 @@
 ---
 title: "Mastering Gmail Management: Setup Tips for Message Filters & Extra Emails"
-date: 2024-09-04T00:57:03.413Z
-updated: 2024-09-05T00:57:03.413Z
+date: 2024-12-03T21:46:41.058Z
+updated: 2024-12-05T07:28:45.412Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Gmail Management: Setup Tips for Message Filters & Extra Emails"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 ---
 
 ## Mastering Gmail Management: Setup Tips for Message Filters & Extra Emails
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Add a dot: Gmail ignores dots, but adding a dot will make it seem like a new address to other websites:<_j.oesfamily@gmail.com>._
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 * Set filters:**Settings** \>**See All Settings** \>**Filters and Blocked Addresses** \>**Create a new filter** . Enter the address >**Create Filter** .
 
  This article explains how to tweak your Gmail address to create dozens of variations that appear different to senders, all without actually[making new Gmail accounts](https://www.lifewire.com/how-to-create-a-gmail-account-1171924) .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Add a Dot Anywhere
 
@@ -49,17 +58,9 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 * _t.hese.a.r...e.th.e.same@gmail.com_
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Add a Plus Sign
 
  Another way to spawn different Gmail addresses with nothing but a[syntax](https://www.lifewire.com/what-is-syntax-2626014) trick is to add a plus sign at the end of the username (before the_@_ ). Doing this lets you add other words to your address, so it actually can look quite different.
@@ -70,18 +71,6 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 * _joeman+thatsmyname@gmail.com_
 * _joeman+ilovehunting@gmail.com_
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reasons to Add a Plus Sign
 
  So, why would you want to add a plus sign to your Gmail account? Besides tricking some websites into letting you making multiple accounts as described above, you can more easily understand whether a website is selling your email address to advertisers.
@@ -97,18 +86,6 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 1. Click the**gear icon** on the upper right-hand side of Gmail, and then click**See All Settings** from the drop-down menu.  
 ![The "See All Settings" button in Gmail](https://www.lifewire.com/thmb/vFVY1fT96fGXDU3EV8O9uy4WeM4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002a-how-to-forward-your-gmail-email-to-another-email-address-1171906-3571b33b927f4a3f91dd47069852ff1c.jpg)
 2. Click**Filters and Blocked Addresses** from the Tabs list.  
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Gmail settings with the Filters and Blocked Addresses tab highlighted](https://www.lifewire.com/thmb/Y4JaIMkl_Ab70vkX9FDn4WjhjuM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GmailFiltersandBlockedAddresses-0f3cf009c3314dd0ad753d39bfadb39d.jpg)
 3. Click**Create a new filter** from the very bottom of the page.  
 ![Gmail settings with 'Create a new filter' highlighted](https://www.lifewire.com/thmb/VGkr9S-cYAHL48goVIENLrjuMj4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GmailFilters1-d0871e723e2945319baed3e12947dd6e.jpg)
@@ -116,29 +93,19 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 5. Click**Create filter** .  
 ![Gmail settings with the 'Create filter' option highlighted](https://www.lifewire.com/thmb/kJJuH2Ihep-_Se8SUUoRO0liwTw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GmailFilters2-aa16ddca22dc46109ea05feaf5e30d53.jpg)
 6. To automatically move messages sent to this address to a specific folder, select a label next to**Apply the label** . There's also an option in that drop-down menu to[make a new label](https://www.lifewire.com/create-labels-as-and-when-you-need-them-in-gmail-1172040) .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Optionally, check any other options you want to enable, such as**Mark as read** or**Never send it to Spam** .  
 ![A screenshot of Gmail with the Apply the Label option highlighted](https://www.lifewire.com/thmb/9AUv_zr5I4H9c7mAJIHUnRqGfbU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-use-gmail-as-if-it-had-folders-and-filters-1172085-2757b8318d5c4c179e04dcde40227968.jpg)
 7. Click**Create filter** to finalize the filter.  
 ![A screenshot of Gmail with the Create Filter button highlighted](https://www.lifewire.com/thmb/e5bElhCOI0SwmbgCKybmyD1cTZk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-use-gmail-as-if-it-had-folders-and-filters-1172085-768969869d95471c9425c187e6d59073.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Gmail Ignores Periods and Plus Signs
 
  These Gmail address tweaks are possible because Google ignores periods and plus signs in its email addresses. It treats all incoming mail, regardless of a dot or plus sign, as the exact same account. As far as Gmail is concerned, the periods and plus signs are simply not there.
@@ -165,8 +132,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +139,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-charismatic-charm-of-moving-text-on-screen/"><u>[Updated] 2024 Approved Charismatic Charm of Moving Text on Screen</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-find-the-disappeared-watch-tile-for-2024/"><u>[Updated] Find the Disappeared Watch Tile for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-revamping-imagery-leading-insta-edits-explored/"><u>[Updated] Revamping Imagery Leading Insta Edits Explored</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversion-gratuite-de-fichier-voc-en-format-wma-logiciel-en-ligne-avec-movavi/"><u>Conversion Gratuite De Fichier VOC en Format WMA - Logiciel en Ligne Avec Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/er-nu-den-ideale-tid-til-en-nyt-affaldssorteringsprogram-discover-movavis-multimedia-software/"><u>Er Nu Den Ideale Tid Til en Nyt Affaldssorteringsprogram? Discover Movavi's Multimedia Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-converter-transform-flv-files-into-3gp-format-with-ease/"><u>Free Online Converter: Transform FLV Files Into 3GP Format with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratuito-e-online-converter-de-mp3-para-asf-pela-movavi/"><u>Gratuito E Online: Converter De MP3 Para ASF Pela Movavi</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-screenshotsweeperpro-next-gen-bg-removal-tool/"><u>In 2024, ScreenshotSweeperPro Next-Gen BG Removal Tool</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/m4a-webm-movavi/"><u>M4A から WEBMへの強力な無料オンライン変換ツール: Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-through-toms-detailed-analyses/"><u>Mastering Hardware Choices Through Tom's Detailed Analyses</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-avi-to-mp3-omzetting-vrije-online-luchtige-korting-eenvoudig-en-gratuit/"><u>Movavi AVI-to-MP3-Omzetting Vrije Online Luchtige Korting - Eenvoudig en Gratuit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-webcams-to-improve-your-zoom-video-interactions-for-2024/"><u>Optimal Webcams to Improve Your Zoom Video Interactions for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-webcam-recommendations-for-smooth-zoom-sessions-for-2024/"><u>Premium Webcam Recommendations for Smooth Zoom Sessions for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-ranked-cloud-stores-analysis-and-pricing-insights/"><u>Top-Ranked Cloud Stores Analysis & Pricing Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformez-un-fichier-flv-en-format-ogg-gratuitement-en-ligne-avec-movavi/"><u>Transformez Un Fichier FLV en Format OGG Gratuitement - en Ligne Avec Movavi</u></a></li>
+</ul></div>
 

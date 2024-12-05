@@ -1,7 +1,7 @@
 ---
 title: Beginner's Roadmap to Configuring an Apple Watch (Insights by ZDNet)
-date: 2024-11-18T16:07:48.348Z
-updated: 2024-11-25T16:52:30.205Z
+date: 2024-11-29T03:08:08.327Z
+updated: 2024-12-04T16:22:30.580Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ But, even with all of this simplicity, you may still have questions. What if you
 * **Materials needed**: The Apple Watch you wish to set up, and an iPhone owned by the watch's owner, or a family member.
 * **Estimated time**: 15 to 30 minutes (depending on how many apps need to be installed and if a backup is being restored).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Charge your Apple Watch and bring it near your iPhone
 
 It's important for your Apple Watch to have a solid charge before beginning this process. It can take a while for all of your apps and data to be synced to the device, so an ample supply of battery power is key. You can have your watch on its charger during setup, but some later steps work best while wearing the Apple Watch worn, so it's best to charge it beforehand. 
@@ -53,10 +57,6 @@ Once it's on and near the iPhone you're using for setup, a message should pop up
 They don't have to be quite this close, but the closer they are the faster the required data can transfer. 
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 2: Scan the Apple Watch animation with your iPhone's camera or begin manual pairing
 
@@ -88,6 +88,10 @@ This step allows your new Apple Watch to sync your personal data, access Find My
 
 If you're setting up a used Apple Watch that was previously activated on another iCloud account, you could run into a hiccup at this point. If the watch was reset correctly, it should activate and tie itself to your iCloud account. However, if it wasn't reset, or it was reset without being unpaired from its previous iPhone, your setup may be blocked by the previous owner's Activation Lock. If this occurs, Apple has [a guide on how to proceed](https://support.apple.com/en-us/HT205009). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 5: Set your passcode
 
 You aren't required to set a passcode for your Apple Watch, but failing to do so will mean you can't use its Apple Pay functionality and some other features. Since you only have to enter the passcode once each time you strap on your Apple Watch, it's a minor extra step that's well worth the protection it provides. 
@@ -109,7 +113,7 @@ It's important to set this correctly. Otherwise your Apple's Watch's face will b
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 7: Set up cellular (GPS + Cellular models only) and Apple Pay
@@ -117,10 +121,6 @@ Michael Gariffo/ZDNET
 If you have a GPS + Cellular model of Apple Watch, this is when you'll be prompted to set up your cellular connectivity. This process is typically fairly self-explanatory, but it will vary based on the specific carrier the Apple Watch is being activated on. Simply follow the prompts and accept the addition of the Apple Watch to your carrier's account. 
 
 This is also when you can set up [Apple Pay](https://www.zdnet.com/article/how-to-use-apple-pay-in-stores-and-online/) by adding at least one credit card that will be used for payment purposes. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 8: Wrap-up
 
@@ -131,10 +131,6 @@ This is when your Apple Watch begins syncing all of the apps, data, settings, an
 Expect to be staring at a loading animation like this for as long as 20 minutes. Sometimes even longer if you have a lot of existing apps and data.
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -157,12 +153,16 @@ The main differences you'll run into during family setups are the requirement to
 No. Unfortunately an iPhone is required to set up an Apple Watch, even if it won't remain connected to one constantly, like in the FAQ scenario above.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How can I change my watch face?
 
 We've got [a whole guide to help you](https://www.zdnet.com/article/how-to-change-your-apple-watch-face/) not only [swap out your Apple Watch face](https://www.zdnet.com/article/how-to-change-your-apple-watch-face/), but create the perfect one for your needs, complete with a video walkthrough. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How can I use Apple Music on my Apple Watch?
 
@@ -202,16 +202,24 @@ To do this, open the Watch app on your iPhone. Then, tap **My Watch**, followed 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-professional-stability-systems-for-youtube-filmmakers/"><u>[New] 2024 Approved Professional Stability Systems for YouTube Filmmakers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlocking-the-full-potential-innovative-techniques-for-youtube-end-screen-designs/"><u>[Updated] In 2024, Unlocking the Full Potential Innovative Techniques for Youtube End Screen Designs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-comprehensive-guide-to-the-most-advanced-sprinkler-automation-solutions/"><u>A Comprehensive Guide to the Most Advanced Sprinkler Automation Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/android-communication-fixes-how-to-enable-and-repair-calls/"><u>Android Communication Fixes: How to Enable and Repair Calls</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/avchd-mts-converter-for-galaxy-s23plus-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD MTS Converter for Galaxy S23+</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-linksys-original-login-codes-as-of-july-2024/"><u>Comprehensive Guide: Linksys Original Login Codes as of July 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-guide-to-diagnose-and-fix-error-800-encountered-in-vpn-setup-for-both-clients-and-servers/"><u>Expert Guide to Diagnose and Fix Error 800 Encountered in VPN Setup for Both Clients & Servers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-ending-your-paramount-plus-account/"><u>Guide: Ending Your Paramount Plus Account</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revamp-your-digital-identity-on-discord-changing-your-profile-picture-easily/"><u>Revamp Your Digital Identity on Discord: Changing Your Profile Picture Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-trick-for-changing-what-youve-written-on-ig-posts/"><u>Ultimate Trick for Changing What You've Written on IG Posts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/spider-man-no-way-home-online-viewing-options-where-and-how-to-start-streaming/"><u>'Spider-Man: No Way Home' Online Viewing Options – Where and How to Start Streaming</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-crafting-compelling-online-presentations-using-zoom-for-youtube-broadcasts/"><u>[New] In 2024, Crafting Compelling Online Presentations Using Zoom for YouTube Broadcasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-green-thumbs-united-top-10-farm-titles-for-friendly-playtime-for-2024/"><u>[Updated] Green Thumbs United Top 10 Farm Titles for Friendly Playtime for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-iphone-videography-8-tips-of-recording-pro-videos-for-2024/"><u>[Updated] IPhone Videography 8 Tips of Recording Pro Videos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-streamlining-audio-addition-in-creative-cloud-suite/"><u>2024 Approved Streamlining Audio Addition in Creative Cloud Suite</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/chkdsk-command-mastery-the-definitive-guide-to-repairing-your-windows-disk/"><u>Chkdsk Command Mastery - The Definitive Guide to Repairing Your Windows Disk</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-techniques-to-correctly-address-haldll-errors-on-various-windows-platforms/"><u>Effective Techniques to Correctly Address Hal.dll Errors on Various Windows Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-sync-googles-email-service-on-the-apple-watch-seamlessly/"><u>How to Sync Google's Email Service on the Apple Watch Seamlessly</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-honor-90-lite-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Honor 90 Lite to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-xs-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone XS Lock Screen with Notifications?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-technical-edge-why-high-dynamic-range-triumphs-over-standard-dynamic-range/"><u>In 2024, The Technical Edge Why High Dynamic Range Triumphs over Standard Dynamic Range</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-safe-to-use-your-iphone-13-in-wet-conditions-without-risk-of-damage/"><u>Is It Safe to Use Your iPhone 13 in Wet Conditions Without Risk of Damage?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-pc-accessibility-of-googles-voice-controlled-assistant-via-mobile-applications/"><u>Mastering PC Accessibility of Google's Voice-Controlled Assistant via Mobile Applications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-d3dx934dll-file-not-detected-or-missing-problem/"><u>Solving the d3dx9_34.dll File Not Detected or Missing Problem</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-intersection-of-sophistication-and-high-performance-in-the-apple-imacs-215-inch-4k-display-review/"><u>The Intersection of Sophistication and High-Performance in the Apple iMac's 21.5-Inch 4K Display Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-when-your-pc-powers-on-yet-shows-no-display/"><u>Troubleshooting Steps When Your PC Powers On, Yet Shows No Display</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-with-openai-a-comprehensive-users-handbook/"><u>Unlocking Creativity with OpenAI: A Comprehensive User's Handbook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-features-of-samsungs-most-recent-phone-launch/"><u>Unlocking Features of Samsung's Most Recent Phone Launch</u></a></li>
 </ul></div>
 

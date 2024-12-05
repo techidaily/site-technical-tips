@@ -1,7 +1,7 @@
 ---
 title: "Exciting Sports Flicks: The Ultimate List of Greatest Hits You Need to See Today"
-date: 2024-09-04T00:52:03.038Z
-updated: 2024-09-05T00:52:03.038Z
+date: 2024-12-03T05:07:44.828Z
+updated: 2024-12-04T16:16:06.644Z
 categories:
   - BestProducts
 description: "This Article Describes Exciting Sports Flicks: The Ultimate List of Greatest Hits You Need to See Today"
@@ -22,6 +22,10 @@ Close
 01
 
 of 10
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [ Most Exhilarating Racing Movie: Rush (2013)](https://www.imdb.com/title/tt1979320/) 
 
@@ -99,33 +103,13 @@ Columbia Pictures / IMDb
 of 10
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Best for People Who Don't Watch Sports Movies: Moneyball (2011)](https://www.imdb.com/title/tt1210166/) 
 
 ![Brad Pitt and Jonah Hill in Moneyball (2011)](https://www.lifewire.com/thmb/N-hUPoK2bEzQzMnDm0P3JptzSZ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-moneyball-brad-pitt-jonah-hill-a9ab1628830641d1bcc1338478763d5d.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Columbia Pictures / IMDb
 
 * **IMDb Rating** : 7.6/10
@@ -148,33 +132,13 @@ _Moneyball_ was one of the best-reviewed films of 2011 and received six Academy 
 of 10
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Best Sports Underdog Story: Miracle (2004)](https://www.imdb.com/title/tt0349825/) 
 
 ![Kurt Russell as Herb Brooks in Miracle (2004)](https://www.lifewire.com/thmb/zfb50q7sGql2fW4uCGIVIUIa8_g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-miracle-aaf743805a7a4f44ad6464a7426888b3.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Walt Disney Pictures / Netflix
 
 * **IMDb Rating** : 7.5/10
@@ -220,27 +184,13 @@ _O.J.: Made in America_ won several industry awards, including the Academy Award
 of 10
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Best High School Sports Movie: Friday Night Lights (2004)](https://www.imdb.com/title/tt0390022/) 
 
 ![Billy Bob Thornton as Coach Gary Gaines in Friday Night Lights (2004)](https://www.lifewire.com/thmb/n4EtGXBYJ1TRYZZqXAaXBMztez0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-friday-night-lights-2317320f2b9749059925a71cdfcf454d.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Universal Pictures / IMDb
 
 * **IMDb Rating** : 7.2/10
@@ -268,12 +218,6 @@ of 10
 
 ![William Gates and others in Hoop Dreams (1994)](https://www.lifewire.com/thmb/gxQq-ba8FzK2lOHRgg-D9BYheGc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-hoop-dreams-5d0f2054232549569de8e126acda8e47.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Kartemquin Films
 
 * **IMDb Rating** : 8.3/10
@@ -294,14 +238,16 @@ _Hoop Dreams_ is regularly cited as one of the best documentaries of all time an
 of 10
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Best Blue Collar Sports Comedy: Goon (2011)](https://www.imdb.com/title/tt1456635/) 
 
 ![Seann William Scott as Doug Glatt in Goon (2011)](https://www.lifewire.com/thmb/tVegN5xbquSA3bARqXSXTNTFCts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-goon-2c6f96932af64a6bbdcafe44d7987b47.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Alliance Films / IMDb
 
@@ -323,6 +269,10 @@ Alliance Films / IMDb
 10
 
 of 10
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [ Best Sports Reboot: Creed (2015)](https://www.imdb.com/title/tt3076658/) 
 
@@ -367,8 +317,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -376,4 +324,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-hdr-photoshop-how-to-create-hdr-images-in-photoshop-like-a-pro/"><u>[Updated] In 2024, HDR Photoshop How to Create HDR Images in Photoshop Like a Pro</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/download-the-ultimate-no-cost-dvd-maker-for-windows-winx-author-edition/"><u>Download the Ultimate No-Cost DVD Maker for Windows, WinX Author Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ending-the-nuisance-a-guide-to-blocking-unsolicited-messages-on-your-iphone/"><u>Ending the Nuisance: A Guide to Blocking Unsolicited Messages on Your iPhone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722903232497-inside-look-ahead-to-samsung-galaxy-z-fold-7-rumored-specs-estimated-pricing-and-launch-dates-revealed/"><u>Inside Look Ahead to Samsung Galaxy Z Fold 7 - Rumored Specs, Estimated Pricing, and Launch Dates Revealed!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/newbies-compendium-demystifying-and-assembling-home-sound-systems-with-ease/"><u>Newbie's Compendium: Demystifying and Assembling Home Sound Systems with Ease</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/picture-power-infusing-textual-elements-on-windows-and-mac-photo-canvas-for-2024/"><u>Picture Power Infusing Textual Elements on Windows & Mac Photo Canvas for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-90-gt-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on 90 GT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-teen-flicks-to-binge-watch-on-netflix/"><u>The Ultimate List of Teen Flicks to Binge-Watch on Netflix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-6-strategies-for-selecting-the-ideal-selfie-extender/"><u>Top 6 Strategies for Selecting the Ideal Selfie Extender</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/ucc-article-grocery-sales-but-not-services-or-real-estate/"><u>UCC Article Grocery Sales, but Not Services or Real Estate.</u></a></li>
+</ul></div>
 

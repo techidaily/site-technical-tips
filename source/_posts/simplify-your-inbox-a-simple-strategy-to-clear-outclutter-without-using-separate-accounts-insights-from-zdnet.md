@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Inbox: A Simple Strategy To Clear Outclutter Without Using Separate Accounts - Insights From ZDNet"
-date: 2024-11-22T17:03:25.384Z
-updated: 2024-11-25T16:15:09.999Z
+date: 2024-11-28T04:07:33.869Z
+updated: 2024-12-05T07:14:46.455Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The magic of email aliases
@@ -65,7 +65,7 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -77,7 +77,7 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -91,7 +91,7 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -105,7 +105,7 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -146,17 +146,24 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-amd-classic-bundle/"><u>[Updated] In 2024, AMD Classic Bundle</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-realistic-or-risky-vrs-hidden-dangers-for-2024/"><u>[Updated] Realistic or Risky? VR's Hidden Dangers for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-financial-forecasts-in-focus-select-stock-youtube-channels/"><u>2024 Approved Financial Forecasts in Focus Select Stock YouTube Channels</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-getting-your-email-list-onto-whoissafe/"><u>Effective Strategies for Getting Your Email List Onto WhoisSafe</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-strategies-for-rebooting-your-windows-11-pc-with-the-power-of-revo-uninstaller-pro-4/"><u>Expert Strategies for Rebooting Your Windows 11 PC with the Power of Revo Uninstaller Pro 4</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-infinix-smart-8-plus-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Infinix Smart 8 Plus to New Phone | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-sony-xperia-5-v-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Sony Xperia 5 V</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-d3dx933dll-file-missing-issue-a-comprehensive-guide/"><u>Solving the d3dx9_33.dll File Missing Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-picks-for-free-virtual-conferencing-and-screensharing-software/"><u>Top Picks for FREE Virtual Conferencing & Screensharing Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-smartwatch-applications-for-your-android-device/"><u>Top Rated Smartwatch Applications for Your Android Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-laptop-trackpad/"><u>Troubleshooting Guide: Fixing a Non-Responsive Laptop Trackpad</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/universal-access-how-to-enable-icloud-photo-sharing-across-apple-windows-and-android/"><u>Universal Access: How to Enable iCloud Photo Sharing Across Apple, Windows & Android</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-exploring-samsung-galaxy-s8s-4k-superiority/"><u>[New] 2024 Approved Exploring Samsung Galaxy S8's 4K Superiority</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-live-stream-heroes-face-off-xsplit-vs-obs-showcase-for-2024/"><u>[New] Live Stream Heroes Face Off – XSplit Vs. OBS Showcase for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-optimal-tools-for-educators-lesson-archiving/"><u>[New] Optimal Tools for Educator's Lesson Archiving</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-audio-alchemy-free-perfectly-crafted-dj-template-videos/"><u>[Updated] Audio Alchemy Free, Perfectly Crafted DJ Template Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-limits-of-video-data-storage-on-modern-drives-a-closer-look-at-64128gb/"><u>[Updated] In 2024, Limits of Video Data Storage on Modern Drives - A Closer Look at 64/128GB</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-samsung-galaxy-a15-4g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy A15 4G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connect-your-fire-stick-to-a-smartphones-mobile-hotspot-for-uninterrupted-viewing/"><u>Connect Your Fire Stick to a Smartphone's Mobile Hotspot for Uninterrupted Viewing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-out-what-operating-system-you-need-the-all-inclusive-guide-to-macos-versions/"><u>Find Out What Operating System You Need: The All-Inclusive Guide to macOS Versions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-monitor-who-watches-your-youtube-videos-effectively/"><u>How to Monitor Who Watches Your YouTube Videos Effectively</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-tutorial-pairing-an-apple-homepod-speaker-with-a-tv/"><u>How-To Tutorial: Pairing an Apple HomePod Speaker With a TV</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-benq-bl2711u-reviewed-the-apex-of-27-high-definition-monitoring-technology/"><u>In 2024, BenQ BL2711U Reviewed - The Apex of 27” High-Definition Monitoring Technology</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-pro-m4-versus-macbook-air-m3-a-comprehensive-guide-to-the-differences/"><u>IPad Pro M4 Versus MacBook Air M3 – A Comprehensive Guide to the Differences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcome-common-errors-expert-advice-to-restore-netflix-functionality-on-your-lg-tv/"><u>Overcome Common Errors: Expert Advice to Restore Netflix Functionality on Your LG TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/save-your-device-effective-steps-to-revive-soaked-iphones-and-ipods/"><u>Save Your Device: Effective Steps to Revive Soaked iPhones & iPods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-setting-up-your-own-gmail-email-address-alternative/"><u>Step-by-Step Guide: Setting Up Your Own Gmail Email Address Alternative</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watch-the-hiccup-saga-in-proper-order-a-guide-to-viewing-how-to-train-your-dragon-movies/"><u>Watch the Hiccup Saga in Proper Order: A Guide to Viewing How to Train Your Dragon Movies</u></a></li>
 </ul></div>
 

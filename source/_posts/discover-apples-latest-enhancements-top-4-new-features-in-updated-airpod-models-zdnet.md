@@ -1,7 +1,7 @@
 ---
 title: "Discover Apple's Latest Enhancements: Top 4 New Features in Updated AirPod Models - ZDNet"
-date: 2024-11-21T17:11:19.478Z
-updated: 2024-11-25T16:38:50.963Z
+date: 2024-12-01T20:04:20.340Z
+updated: 2024-12-04T20:16:03.301Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ Below, we break down the coolest new features coming to your Apple Watch in Watc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Track your strain and recovery with Vitals and Training Load
 
 One of the biggest additions to the Apple Watch in WatchOS 11 is the new Vitals app, which helps you explore and contextualize your health by tracking your heart rate, respiratory rate, wrist temperature, and blood oxygen while you're asleep. These metrics are processed through an algorithm and displayed on a chart the next morning to tell you whether you're in your normal range. 
@@ -38,13 +42,13 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Pause your rings
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
 
@@ -56,10 +60,6 @@ The feature plays into the Apple Watch's cycle-tracking experience, so everythin
 
 Apple
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. More widgets for your Smart Stack, including Live Activities
 
 The Smart Stack, introduced in WatchOS 10, is improving slightly with some new widgets.
@@ -70,15 +70,15 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 
 Apple
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. The Photos face, powered by machine learning
 
 The Photos face is one of the most popular faces on the Apple Watch, given its high level of customization. And it's getting a facelift (pun intended) with WatchOS 11.
 
 Your watch will use machine learning to analyze your photo library and find the best snaps to use as a watch face based on aesthetics, composition, and facial expressions. Apple's algorithm will then optimize the image for the watch face and add depth effects, different colored backgrounds, fonts, and more. You can customize it on your own to your heart's content, plus get treated to a new look every time you raise your wrist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Double Tap now works with any app
 
@@ -88,13 +88,13 @@ Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
 
@@ -110,13 +110,13 @@ Apple is adding the Translate app to WatchOS 11, allowing you to translate in an
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 11\. Tickets in your Wallet get an upgrade
 
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
 
@@ -152,17 +152,22 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-utilizing-slug-lines-for-better-content-structure/"><u>[New] Utilizing Slug Lines for Better Content Structure</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-download-custom-mcb-banner-packs/"><u>[Updated] In 2024, Download Custom MCB Banner Packs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/10-best-sites-to-download-free-slideshow-templates-filmora/"><u>10 Best Sites to Download Free Slideshow Templates - Filmora</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-10-favorites-spotify-edition/"><u>2024 Approved Top 10 Favorites Spotify Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/android-trouble-heres-how-to-fix-incoming-text-alerts-not-working/"><u>Android Trouble? Here’s How to Fix Incoming Text Alerts Not Working</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211372509-9781923009196-chakras/"><u>Chakras | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/disabling-amber-alerts-on-your-android-device-the-ultimate-guide/"><u>Disabling AMBER Alerts on Your Android Device: The Ultimate Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/get-into-it-the-next-level-conversation-ai/"><u>Get Into It: The Next-Level Conversation AI</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-long-lasting-mobile-use-with-constant-battery-saver-activation/"><u>Mastering Long-Lasting Mobile Use with Constant Battery Saver Activation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-suddenly-silent-car-radios-expert-advice/"><u>Quick Fixes for Suddenly Silent Car Radios: Expert Advice</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-shell32dll-file-cannot-be-found-issue/"><u>Resolving the 'Shell32.dll File Cannot Be Found' Issue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/zoom-connection-difficulties-how-do-i-know-if-its-the-platform-or-me/"><u>Zoom Connection Difficulties: How Do I Know If It's The Platform Or Me?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-guide-to-accurate-transfer-of-camera-photos-to-social-media-apps/"><u>[New] 2024 Approved Guide to Accurate Transfer of Camera Photos to Social Media Apps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-online-persona-transformation-rendering-your-cartoon-self/"><u>[New] In 2024, Online Persona Transformation Rendering Your Cartoon Self</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-stepwise-guide-to-antiquated-visual-effects-in-videos/"><u>[Updated] Stepwise Guide to Antiquated Visual Effects in Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-ultimate-accessory-guide-for-apple-airtags-expert-insights-and-ratings-zdnet/"><u>2024'S Ultimate Accessory Guide for Apple AirTags: Expert Insights and Ratings | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieve-crystal-clear-audio-with-our-best-practices-for-sparkling-clean-household-stereo-speakers/"><u>Achieve Crystal Clear Audio with Our Best Practices for Sparkling Clean Household Stereo Speakers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/back-to-school-the-9-tech-items-every-student-must-have/"><u>Back to School: The 9 Tech Items Every Student Must Have</u></a></li>
+<li><a href="https://article-helps.techidaily.com/dji-quadcopters-tiers-basic-model-enhanced-version-high-definition-masterclass/"><u>DJI Quadcopters Tiers Basic Model, Enhanced Version, High Definition Masterclass</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a05-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Samsung Galaxy A05 support AVCHD video?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhanced-durability-in-the-latest-iphone-16-apple-reveals-improved-repairability-over-previous-models-detailed-insights-on-zdnet/"><u>Enhanced Durability in the Latest iPhone 16: Apple Reveals Improved Repairability Over Previous Models - Detailed Insights on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhanced-sound-on-lg-televisions-an-exclusive-perk-for-apple-enthusiasts-revealed-by-zdnet/"><u>Enhanced Sound on LG Televisions: An Exclusive Perk for Apple Enthusiasts Revealed by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-picks-the-ultimate-list-of-must-have-ipad-enhancements-curated-by-zdnet/"><u>Expert Picks: The Ultimate List of Must-Have iPad Enhancements | Curated by ZDNET</u></a></li>
+<li><a href="https://win-best.techidaily.com/guide-complet-a-la-reconstitution-de-fichiers-effaces-avec-python-techniques-et-methodes-pratiques/"><u>Guide Complet À La Reconstitution De Fichiers Effacés Avec Python: Techniques Et Méthodes Pratiques</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-se-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone SE Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamlined-content-creation-with-ios-18-on-iphone-14-revealed-experts/"><u>Streamlined Content Creation with iOS 18 on iPhone 14, Revealed Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-places-to-secure-your-ipad-pro-ipad-air-and-new-apple-pencil-pro-in-advance-current-offers-unveiled-by-zdnet/"><u>Top Places to Secure Your iPad Pro, iPad Air & New Apple Pencil Pro in Advance – Current Offers Unveiled by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbeatable-deal-on-macbook-air-with-m1-chip-at-only-649-exclusive-offer/"><u>Unbeatable Deal on MacBook Air with M1 Chip at Only $649 - Exclusive Offer</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-overvoltage-situations-on-your-devices-connector-point/"><u>Understanding and Fixing Overvoltage Situations on Your Device's Connector Point</u></a></li>
 </ul></div>
 

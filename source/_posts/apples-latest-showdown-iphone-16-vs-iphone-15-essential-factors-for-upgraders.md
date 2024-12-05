@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Showdown: IPhone 16 Vs. IPhone 15 - Essential Factors for Upgraders"
-date: 2024-11-23T16:34:11.189Z
-updated: 2024-11-25T16:26:40.546Z
+date: 2024-11-27T23:30:37.662Z
+updated: 2024-12-05T03:26:00.675Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -49,10 +53,6 @@ To help you make this decision, we've broken down all of the most important deta
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You'd benefit from Apple Intelligence features
 
 Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). Chief among them is the long-awaited Siri upgrade. The iOS assistant is much smarter than before as it is now aware of on-screen content, can better understand commands even if you stumble over your words, and can switch between text and voice inputs. This is just the tip of the iceberg, too, as Siri will fully integrate itself with [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-the-worlds-most-popular-ai-chatbot-explained/#link={) later in the year.
@@ -60,10 +60,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -74,7 +70,7 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -96,12 +92,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -112,7 +112,7 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -157,19 +157,19 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-mastering-filming-techniques-on-tiktok-platforms-for-2024/"><u>[New] Mastering Filming Techniques on TikTok Platforms for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-youtube-descriptions-revamped-by-template-professionals/"><u>[Updated] 2024 Approved YouTube Descriptions Revamped by Template Professionals</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-action-camera-face-off-comparing-pro-3-models-on-market/"><u>2024 Approved Action Camera Face-Off Comparing Pro 3 Models on Market</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-places-to-enjoy-cost-free-sports-broadcasts-on-the-internet-2024-edition/"><u>Best Places to Enjoy Cost-Free Sports Broadcasts on the Internet - 2024 Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bypassing-common-drone-mistakes-with-this-essential-checklist-for-2024/"><u>Bypassing Common Drone Mistakes with This Essential Checklist for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1126937-9781612831534-emissary-of-love/"><u>Emissary of Love | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-can-i-link-my-airpods-to-my-nintendo-switch-handheld-gaming-system/"><u>How Can I Link My AirPods to My Nintendo Switch Handheld Gaming System?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-perfectly-take-and-upload-images-from-your-nintendo-switch-gaming-experience/"><u>How to Perfectly Take & Upload Images From Your Nintendo Switch Gaming Experience</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-c33-2023-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme C33 2023</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-utilizing-live-photo-functionality-with-ios-16/"><u>Step-by-Step Instructions for Utilizing Live Photo Functionality with iOS 16</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719154685992-take-your-fb-content-global-upload-and-transfer-to-major-websites-now/"><u>Take Your Fb Content Global: Upload and Transfer to Major Websites Now</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-smart-choice-why-skipping-the-iphone-16-is-worth-it-for-savvy-apple-fans-insights-from-zdnet/"><u>The Smart Choice: Why Skipping the iPhone 16 Is Worth It for Savvy Apple Fans - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-rated-no-cost-music-download-apps-for-windows-computers/"><u>Top Rated No-Cost Music Download Apps for Windows Computers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-finding-your-ideal-selfie-support-tool-with-6-key-factors/"><u>Ultimate Guide: Finding Your Ideal Selfie Support Tool with 6 Key Factors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-upgrade-plans-standard-studio-or-beta-revolution-for-2024/"><u>[New] Channel Upgrade Plans Standard Studio or Beta Revolution for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-sustaining-system-stability-returning-to-el-capitan/"><u>[New] In 2024, Sustaining System Stability Returning to El Capitan</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-ultimate-resource-navigating-through-mobizens-screen-recording-landscape/"><u>[New] In 2024, The Ultimate Resource Navigating Through Mobizen's Screen Recording Landscape</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/5-must-know-fixes-to-avoid-darkness-on-game-capture-by-obs-for-2024/"><u>5 Must-Know Fixes to Avoid Darkness on Game Capture by OBS for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-unveils-revolutionary-on-device-ai-realmsurpasses-gpt-4-in-performance-zdnet/"><u>Apple Unveils Revolutionary On-Device AI, ReaLMSurpasses GPT-4 in Performance - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-standard-the-top-10-customizations-for-chatgpt/"><u>Beyond Standard: The Top 10 Customizations for ChatGPT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-apples-latest-processors-in-macbook-air-m2-vs-m3-the-ultimate-choice-for-tech-enthusiasts-gizmodo/"><u>Comparing Apple's Latest Processors in MacBook Air: M2 Vs. M3 – The Ultimate Choice for Tech Enthusiasts | Gizmodo</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-gaming-experience-with-newest-rtx-2080-drivers-compatible-with-windows-10-and-11-download-here/"><u>Enhance Gaming Experience with Newest RTX 2080 Drivers Compatible with Windows 10 and 11 – Download Here</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-apple-can-rise-in-the-ai-arena-essential-features-for-competition-against-google-and-openai-insights-from-zdnet/"><u>How Apple Can Rise in the AI Arena: Essential Features for Competition Against Google & OpenAI - Insights From ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-to-download-and-update-the-epson-ds-510-printer-software-in-windows/"><u>Step by Step Tutorial to Download and Update the Epson DS- 510 Printer Software in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-adding-chatbots-to-discord-servers/"><u>Step-by-Step Tutorial: Adding Chatbots to Discord Servers</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-mini-tablets-comprehensive-reviews-and-performance-testing-by-tech-experts-zdnet/"><u>Top Rated Mini Tablets : Comprehensive Reviews & Performance Testing by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-techniques-for-regulating-audio-loudness-in-video-based-streaming-with-vlc/"><u>Updated 2024 Approved Techniques for Regulating Audio Loudness in Video-Based Streaming with VLC</u></a></li>
 </ul></div>
 

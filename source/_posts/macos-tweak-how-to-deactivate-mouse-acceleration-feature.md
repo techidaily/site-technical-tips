@@ -1,7 +1,7 @@
 ---
 title: "MacOS Tweak: How to Deactivate Mouse Acceleration Feature"
-date: 2024-09-04T00:51:20.891Z
-updated: 2024-09-05T00:51:20.891Z
+date: 2024-12-01T06:05:43.888Z
+updated: 2024-12-05T06:16:46.682Z
 categories:
   - BestProducts
 description: "This Article Describes MacOS Tweak: How to Deactivate Mouse Acceleration Feature"
@@ -32,16 +32,19 @@ Close
 3. Select**Mouse** .  
 ![Mac System Settings with Mouse highlighted.](https://www.lifewire.com/thmb/LLKtiC5lcSV-tRI1LLT6KKw-xQc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacMouseoption-b7641b2454394154a6c8e58c7334728e.jpg)
 4. Select**Advanced** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Mac Mouse settings with the Advanced button highlighted.](https://www.lifewire.com/thmb/aZuMxe9WaT-jr67FrjH4JsVCgK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macmouseadvancedcopy-019af83909d84639893a747caaa1ea2a.jpg)
 5. Toggle**Pointer acceleration** and select**Done** .  
 ![Mac Pointer acceleration toggle highlighted.](https://www.lifewire.com/thmb/tWPpzXhQJG6vRArC33uSrCYe5DA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mousepointeraccelerationcopy-70baf408c7d64fc1bb54ea11c6352054.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Turn Mouse Acceleration Off on Older macOS 
 
  To turn mouse acceleration off entirely on Mac prior to Sonoma, you'll need to change a command within Mac's Terminal. Here's what to type:  
@@ -52,21 +55,13 @@ Close
 2. Type **defaults write .GlobalPreferences com.apple.mouse.scaling -1** into the Terminal window.  
 ![Mac Terminal with a command highlighted. ](https://www.lifewire.com/thmb/_egyJ5BRDeRY5swLjNoDr_YRx6k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-off-mouse-acceleration-on-mac-65030472-7e5c330e79e746bca4a14432f95f311f.jpg)  
  Change the number to anything between 0 and 3 to turn mouse acceleration back on. You can also enter the command without a number to confirm whether mouse acceleration is activated.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Press**Enter** .
 4. Mouse acceleration has now been switched off until the next time you restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Reduce Mouse Acceleration on a Mac 
 
  If you don't feel comfortable using Terminal, or you would prefer to adjust and reduce mouse acceleration, there's a different method. This way uses System Preferences, which is more user-friendly.
@@ -74,44 +69,23 @@ Close
 1. Select the Apple icon on the menu bar.  
 ![Mac Desktop with the Apple icon highlighted.](https://www.lifewire.com/thmb/E4tPDXQgM-t3BVe-1vqkzuOx1V0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-off-mouse-acceleration-on-mac-65030473-7ea31658e2f349e2b79c78c81e46b05f.jpg)
 2. Select**System Settings.**  
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mac Desktop with System Settings highlighted.](https://www.lifewire.com/thmb/4upgb2uoG_udrV7nkf8yxSdMftQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSystemSettingscopy-e6d9512a7b5546b3bee7dc28eb422de1.jpg)
 3. Select**Mouse** .  
 ![Mac System Settings with Mouse highlighted.](https://www.lifewire.com/thmb/LLKtiC5lcSV-tRI1LLT6KKw-xQc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacMouseoption-b7641b2454394154a6c8e58c7334728e.jpg)  
  If you don't see your mouse, you may need to re-pair it with your Mac or plug it back in.
+
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Adjust the tracking speed to something that feels more comfortable for your needs.  
 ![Mac Mouse options with Tracking Speed highlighted.](https://www.lifewire.com/thmb/QLyrbbIdv2vcihkbQFo6HGO9Jfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Macmousetrackingspeedcopy-4c1c86eaa9b1456885d8071ad32de3ed.jpg)
 5. Adjust the scrolling speed for similar effect when scrolling.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Why Would I Want to Turn off Mouse Acceleration? 
 
  Mouse acceleration makes your pointer move faster, but not everyone wants that. Here's why it can be helpful to disable the feature.   
@@ -148,8 +122,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +129,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-simplified-avatars-navigating-the-metaverse-realm/"><u>[New] In 2024, Simplified Avatars Navigating the Metaverse Realm</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-unveiling-the-magic-crafting-animated-gifs-with-ease/"><u>2024 Approved Unveiling the Magic Crafting Animated GIFs with Ease</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-redmi-note-13-pro-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi Redmi Note 13 Pro 5G PC | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieve-instagram-stardom-in-just-10-moves-secrets-to-virality-unveiled/"><u>Achieve Instagram Stardom in Just 10 Moves – Secrets to Virality Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/an-introduction-to-bing-and-how-it-works/"><u>An Introduction to Bing and How It Works</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-how-to-correct-msodll-not-found-issues/"><u>Comprehensive Guide: How to Correct 'mso.dll' Not Found Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-how-artificial-intelligence-benefits-educators-top-8-compelling-motivations/"><u>Discover How Artificial Intelligence Benefits Educators: Top 8 Compelling Motivations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/finding-nearby-ev-charging-facilities-using-google-maps-step-by-step-instructions/"><u>Finding Nearby EV Charging Facilities Using Google Maps – Step-by-Step Instructions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-poco-x6-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Poco X6 Pro Phone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/integrated-mobility-evaluation-study/"><u>Integrated Mobility Evaluation Study</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-ai-boundaries-safely/"><u>Navigating AI Boundaries Safely</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-winhttpdll-file-absence-a-comprehensive-guide/"><u>Solving the winhttp.dll File Absence: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-basics-of-biometrics-what-you-need-to-know/"><u>The Basics of Biometrics: What You Need to Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-how-to-handle-the-missing-d3dx9t41dll-issue/"><u>Troubleshooting Steps: How To Handle The Missing d3dx9_t_41.dll Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-student-savings-your-guide-to-youtube-premium-offers/"><u>Unlocking Student Savings: Your Guide to YouTube Premium Offers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Poco X6 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

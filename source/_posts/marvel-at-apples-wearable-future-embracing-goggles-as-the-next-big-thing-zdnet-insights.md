@@ -1,7 +1,7 @@
 ---
 title: "Marvel at Apple’s Wearable Future: Embracing Goggles as the Next Big Thing | ZDNET Insights"
-date: 2024-11-19T17:07:35.028Z
-updated: 2024-11-25T17:08:37.579Z
+date: 2024-11-29T22:41:50.712Z
+updated: 2024-12-05T11:02:14.839Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's the camera, stupid
@@ -67,7 +67,7 @@ Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## And it's the movies
@@ -89,7 +89,7 @@ Apple explains: "Longer battery life lets you watch up to 3 more hours of video 
 That's the thing when people buy phones. They prefer actual results. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
@@ -150,16 +150,17 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-dynamic-musical-journeys-with-crossfading/"><u>[New] Crafting Dynamic Musical Journeys with Crossfading</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-dynamic-scripting-for-videos/"><u>[New] Dynamic Scripting for Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-discovering-the-best-soundtracks-for-unboxing-vlogs/"><u>[Updated] Discovering the Best Soundtracks for Unboxing Vlogs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-shows-to-binge-on-discovery-plus-for-july-2024/"><u>Best Shows to Binge on Discovery Plus for July 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/descarga-winx-rip-editor-pro-mejora-tu-experiencia-de-extraccion-digital-a-32x-velocizacion-en-ventanas-10/"><u>Descarga WinX Rip Editor Pro: Mejora Tu Experiencia De Extracción Digital a 32X Velocizacion en Ventanas 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/full-guide-the-complete-revamp-of-gpu-drivers/"><u>Full Guide: The Complete Revamp of GPU Drivers</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-correct-a-404-page-miss-essential-insights-and-tips/"><u>How to Correct a 404 Page Miss: Essential Insights & Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722886076377-tune-in-to-sports-with-espn-plus-on-your-lg-smart-tv-setup-tips-included/"><u>Tune in to Sports with ESPN Plus on Your LG Smart TV - Setup Tips Included</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updated-epson-wf-n3620-printer-drivers-available-now-compatible-with-windows-10-8-and-7/"><u>Updated Epson WF-N3620 Printer Drivers Available Now: Compatible with Windows 10, 8 & 7</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722903673710-want-to-use-your-macbook-with-a-closed-lid-heres-how-not-to-let-it-go-to-sleep/"><u>Want to Use Your MacBook with a Closed Lid? Here's How Not to Let It Go To Sleep!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-surfers-choice-ultimate-cam-tech-review-2023/"><u>[New] 2024 Approved Surfer’s Choice Ultimate Cam Tech Review 2023</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-behind-the-screen-samsung-ue590-4k-freesync-analysis-for-2024/"><u>[Updated] Behind the Screen Samsung UE590 4K, FreeSync Analysis for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-smile-stashers-the-ultimate-list-of-meme-makers/"><u>[Updated] In 2024, Smile Stashers The Ultimate List of Meme Makers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2024s-premier-ipad-air-cases-showdown-in-depth-analysis-and-picks-by-tech-gurus/"><u>2024'S Premier iPad Air Cases Showdown: In-Depth Analysis & Picks by Tech Gurus</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/battle-of-the-macbook-airs-analyzing-performance-differences-between-apples-latest-m3-and-m2-processors-gadgetguru/"><u>Battle of the MacBook Airs: Analyzing Performance Differences Between Apple's Latest M3 & M2 Processors | GadgetGuru</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-efficiency-on-the-go-explore-the-latest-upgrades-in-our-favorite-ar-glasses-for-productivity-and-travel-zdnet/"><u>Boost Your Efficiency on the Go – Explore The Latest Upgrades in Our Favorite AR Glasses for Productivity and Travel | ZDNET</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/complete-step-by-step-tutorial-on-retrieving-information-from-your-patriot-sd-card/"><u>Complete Step-by-Step Tutorial on Retrieving Information From Your Patriot SD Card</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-mfplatdll-missing-error-expert-solutions-for-smooth-operations/"><u>Fixing the mfplat.dll Missing Error: Expert Solutions for Smooth Operations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-selecting-sacred-sounds-a-step-by-step-guide/"><u>In 2024, Selecting Sacred Sounds A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/polishing-your-channels-auditory-appeal-on-youtube/"><u>Polishing Your Channel's Auditory Appeal on YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revealing-hidden-shortcuts-a-comprehensive-guide-to-using-the-concealed-path-panel/"><u>Revealing Hidden Shortcuts: A Comprehensive Guide to Using the Concealed Path Panel</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Tecno Spark 20 Pro | Dr.fone</u></a></li>
 </ul></div>
 

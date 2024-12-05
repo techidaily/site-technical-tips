@@ -1,7 +1,7 @@
 ---
 title: Snag a Discounted 2Nd Generation Apple Pencil at Only $95 - Limited Time Labor Day Sale on TechRadar
-date: 2024-11-20T16:48:54.524Z
-updated: 2024-11-25T16:09:08.276Z
+date: 2024-12-03T17:00:14.846Z
+updated: 2024-12-05T01:30:31.431Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,24 +71,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-masterclass-in-effortless-video-acquisition/"><u>[New] Masterclass in Effortless Video Acquisition</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-tomtoms-actioncam-series-a-new-chapter/"><u>[Updated] 2024 Approved TomTom's ActionCam Series - A New Chapter</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-scoop-unveiling-googles-podcast-application/"><u>[Updated] Full Scoop Unveiling Google's Podcast Application</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-complete-guide-to-designing-personalized-instagram-ringtone/"><u>[Updated] The Complete Guide to Designing Personalized Instagram Ringtone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2024s-comprehensive-list-of-free-voip-services-that-outshine-skype/"><u>2024'S Comprehensive List of Free VoIP Services That Outshine Skype</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/comprehensively-tackling-the-sony-fdr-x1000-action-gear-for-2024/"><u>Comprehensively Tackling the Sony FDR-X1000 Action Gear for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connect-on-the-go-mastering-roku-in-hotels-and-dorms/"><u>Connect on the Go: Mastering Roku in Hotels and Dorms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dive-into-gaming-tecno-x-geekoms-liquid-cooled-case-with-intel-core-i9-and-nvidia-rtx-gpu/"><u>Dive Into Gaming: Tecno X Geekom's Liquid-Cooled Case with Intel Core I9 & NVIDIA RTX GPU</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-fixing-not-found-advapi32dll-system-errors-on-your-pc/"><u>Expert Tips for Fixing 'Not Found: Advapi32.dll' System Errors on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-reasons-behind-youtubes-occasional-performance-glitches/"><u>Exploring Reasons Behind YouTube's Occasional Performance Glitches</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-the-d3dx92edll-is-absent-problem-expert-tips-and-tricks/"><u>Fix the 'd3dx9_2e.dll Is Absent' Problem: Expert Tips and Tricks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-to-enable-or-disable-pip-in-youtube-for-mobile-phones/"><u>How to Enable or Disable PIP in YouTube for Mobile Phones</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Infinix Note 30 VIP? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-discover-the-best-practices-for-5-windows-11-audio-capture-methods/"><u>In 2024, Discover the Best Practices for 5 Windows 11 Audio Capture Methods</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/insta-insight-how-to-keep-essential-conversations-highlighted-with-a-pin-feature/"><u>Insta Insight: How to Keep Essential Conversations Highlighted with a Pin Feature</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/securing-your-fb-profile-again-without-standard-contact-info/"><u>Securing Your FB Profile Again Without Standard Contact Info</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-pairing-your-airpods-with-macos-on-macbook-air/"><u>Step-by-Step Guide: Pairing Your AirPods with macOS on MacBook Air</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/two-factor-fortified-learn-to-implement-advanced-authentication-on-gmail-today/"><u>Two-Factor Fortified: Learn to Implement Advanced Authentication on Gmail Today!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-secret-life-of-a-designer-canvas-hidden-edits/"><u>[New] The Secret Life of a Designer Canva's Hidden Edits</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-live-webcam-broadcast-the-power-of-vlc-technology-for-2024/"><u>[Updated] Live Webcam Broadcast The Power of VLC Technology for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-meizu-21-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Meizu 21? Try These Fixes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-you-dont-have-to-be-a-skilled-video-editor-to-convert-image-to-videos-because-there-are-a-lot-of-online-image-to-video-maker-tools-that-en/"><u>New 2024 Approved You Dont Have to Be a Skilled Video Editor to Convert Image to Videos, because There Are a Lot of Online Image to Video Maker Tools that Enable You to Create a New Video From Photos in Just a Few Eas</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-setting-up-a-home-ev-charging-station-for-optimal-convenience/"><u>Step-by-Step: Setting Up a Home EV Charging Station for Optimal Convenience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-expanding-and-optimizing-image-size-for-stunning-instagram-presence/"><u>The Ultimate Guide to Expanding and Optimizing Image Size for Stunning Instagram Presence</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-world-of-aether-explored-insightful-guide-on-membership-enrollment/"><u>The World of Aether Explored: Insightful Guide on Membership Enrollment</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ttml-xml-and-beyond-creating-flawless-srts-for-audio-files-for-2024/"><u>TTML, XML & Beyond Creating Flawless SRTs for Audio Files for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlock-your-potential-best-instagram-video-editors-android-pc-for-2024/"><u>Unlock Your Potential Best Instagram Video Editors (Android, PC) for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/viewing-order-for-transformers-movies-your-definitive-guide/"><u>Viewing Order for Transformers Movies: Your Definitive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-11-and-password-privacy-how-to-retrieve-your-hidden-wireless-network-key/"><u>Windows 11 and Password Privacy: How to Retrieve Your Hidden Wireless Network Key</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Patently Innovative: How the New Vision Pro Controller Mirrors Apple's Iconic Stylus, According to a Recent Filing | ZDNET"
-date: 2024-11-24T16:09:38.100Z
-updated: 2024-11-25T16:11:12.964Z
+date: 2024-12-01T21:22:46.385Z
+updated: 2024-12-05T05:06:23.584Z
 tags:
   - apple
 categories:
@@ -75,26 +75,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-echo-chambers-tech-updates/"><u>[New] Echo Chambers Tech Updates</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-social-media-streams-iphone-and-android-best-practices/"><u>2024 Approved Navigating Social Media Streams IPhone & Android Best Practices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-potential-from-standard-sdr-to-high-end-hdr/"><u>2024 Approved Unleashing Potential From Standard SDR to High-End HDR</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-car-project-fresh-insights-on-costs-scheduled-debut-technical-specs-and-newly-breaking-rumors/"><u>Apple's Car Project: Fresh Insights on Costs, Scheduled Debut, Technical Specs & Newly-Breaking Rumors</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/creating-the-perfect-brew-emulating-top-notch-features-of-an-exceptional-tea-timer-application-across-your-products/"><u>Creating the Perfect Brew: Emulating Top-Notch Features of an Exceptional Tea Timer Application Across Your Products</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dell-advancements-updating-and-tuning-the-smart-media-bus-controller-software/"><u>Dell Advancements: Updating and Tuning the Smart Media Bus Controller Software</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/how-to-seamlessly-upload-youtube-videos-to-facebook-feed/"><u>How to Seamlessly Upload YouTube Videos to Facebook Feed</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-construct-powerpoint-into-digital-film/"><u>In 2024, Construct PowerPoint Into Digital Film</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-scheduling-virtual-gatherings-with-zoom-an-android-users-handbook/"><u>In 2024, Scheduling Virtual Gatherings with Zoom An Android User's Handbook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/in-depth-look-at-the-gamer-xtreme-by-cyberpowerpc-the-smart-choice-for-cost-conscious-gamers-seeking-flexibility/"><u>In-Depth Look at the Gamer Xtreme by CyberPowerPC: The Smart Choice for Cost-Conscious Gamers Seeking Flexibility</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-contactless-payments-a-step-by-step-guide-to-using-apple-pay-on-apple-watches/"><u>Mastering Contactless Payments: A Step-by-Step Guide to Using Apple Pay on Apple Watches</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-multi-tasking-a-step-by-step-guide-to-splitting-your-macbook-airs-screen/"><u>Mastering Multi-Tasking: A Step-by-Step Guide to Splitting Your MacBook Air's Screen</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/moving-your-windows-server-2012-r2-top-3-techniques-explained/"><u>Moving Your Windows Server 2012 R2 - Top 3 Techniques Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/samsung-earbuds-and-laptop-pairing-easy-connection-process-explained/"><u>Samsung Earbuds & Laptop Pairing: Easy Connection Process Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-jvm-dll-missingnotfound-issues-a-comprehensive-guide/"><u>Solving JVM DLL Missing/NotFound Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-elite-circle-of-gaming-top-8-phenomenal-mobile-games-await-you/"><u>The Elite Circle of Gaming: Top 8 Phenomenal Mobile Games Await You</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/unlocking-revenue-with-strategic-snapchat-promotions/"><u>Unlocking Revenue with Strategic Snapchat Promotions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-content-compromise-rapid-deletion-dilemma/"><u>[Updated] 2024 Approved Content Compromise Rapid Deletion Dilemma</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-ranking-the-most-reliable-youtube-mp3-converters/"><u>[Updated] In 2024, Ranking the Most Reliable YouTube Mp3 Converters</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-personalizing-the-perfect-pixel-rhythm/"><u>2024 Approved Personalizing the Perfect Pixel Rhythm</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/affordable-alternatives-to-apple-vision-pro-and-meta-quest-3-found-in-xr-headset-options-techreview/"><u>Affordable Alternatives to Apple Vision Pro & Meta Quest 3 Found in XR Headset Options | TechReview</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/five-effective-ways-to-open-mpeg-video-files-in-windows-11-a-comprehensive-guide/"><u>Five Effective Ways to Open MPEG Video Files in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-vivo-y78plus-t1-edition-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Vivo Y78+ (T1) Edition Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-ideal-interactive-interface-for-podcasters/"><u>In 2024, Ideal Interactive Interface for Podcasters</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/labor-day-sale-alert-snag-the-new-gen-apple-pencil-for-70-off-now-just-95-insider-tips/"><u>Labor Day Sale Alert: Snag the New-Gen Apple Pencil for 70% Off, Now Just $95 | Insider Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-wellness-how-a-visit-to-the-bathroom-can-provide-health-insights-techhealth-review/"><u>Revolutionizing Wellness: How a Visit to the Bathroom Can Provide Health Insights | TechHealth Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-best-new-macs-of-2024-tech-insights-by-zdnet/"><u>Ultimate Guide to the Best New Macs of 2024 | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-best-note-taking-tablets-of-2024-rigorously-reviewed-zdnet/"><u>Ultimate Guide to the Best Note-Taking Tablets of 2024 - Rigorously Reviewed | ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleashing-creativity-with-pro-gopro-guidance/"><u>Unleashing Creativity with Pro-GoPro Guidance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-ultimate-collection-of-wireless-charger-picks-for-2e24-professional-evaluation-zdnet/"><u>Unveiling the Ultimate Collection of Wireless Charger Picks for 2E24: Professional Evaluation | ZDNET</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y36i-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y36i Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-the-heck-is-a-502-error-unraveling-this-server-mishap-and-how-you-can-fix-it-efficiently/"><u>What the Heck Is a 502 Error? Unraveling This Server Mishap and How You Can Fix It Efficiently</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

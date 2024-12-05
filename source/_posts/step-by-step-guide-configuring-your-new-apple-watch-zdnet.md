@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Configuring Your New Apple Watch (ZDNet)"
-date: 2024-11-20T16:06:23.264Z
-updated: 2024-11-25T16:39:52.150Z
+date: 2024-11-30T20:34:42.749Z
+updated: 2024-12-04T21:01:57.517Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ Here's how.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Slack notifications on your Apple Watch
@@ -59,7 +59,7 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
@@ -67,7 +67,7 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -83,6 +83,10 @@ Screenshot by David Gewirtz/ZDNET
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -122,10 +126,6 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,24 +179,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-posting-photos-and-vids-to-twitter-from-your-phone-not-as-a-retweet/"><u>[New] 2024 Approved Posting Photos and Vids to Twitter From Your Phone, Not as a Retweet</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-easy-way-to-establish-collaborative-conversations-on-skype-regardless-of-your-operating-system/"><u>[New] In 2024, Easy Way to Establish Collaborative Conversations on Skype, Regardless of Your Operating System</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-realms-reborn-state-of-the-art-virtual-experience-for-2024/"><u>[Updated] Realms Reborn State-of-the-Art Virtual Experience for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-soundscape-journeys-with-seamless-audacity-mixes/"><u>2024 Approved Crafting Soundscape Journeys with Seamless Audacity Mixes</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-understanding-a-blue-icons-role-facebooks-communication-tool/"><u>2024 Approved Understanding a Blue Icon’s Role Facebook's Communication Tool</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-wearable-device-with-direct-audio-news-price-release-date-and-rumors/"><u>Apple Wearable Device With Direct Audio: News, Price, Release Date & Rumors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discovering-what-sets-meta-ai-apart-from-others/"><u>Discovering What Sets Meta AI Apart From Others</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-how-to-correctly-handle-openal32dll-not-detected-or-lost/"><u>Expert Tips: How to Correctly Handle 'openAL32.dll Not Detected or Lost'</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphic-resolution-achieved-post-error-normalization/"><u>Graphic Resolution Achieved: Post-Error Normalization</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-keeping-your-mac-awake-tips-and-tricks-for-no-more-hibernation/"><u>Guide: Keeping Your Mac Awake - Tips and Tricks for No More Hibernation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-optimize-performance-by-deleting-temporary-data-on-android-devices/"><u>How to Optimize Performance by Deleting Temporary Data on Android Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ingenious-ways-to-assemble-your-personal-projector-screen/"><u>Ingenious Ways to Assemble Your Personal Projector Screen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722859762687-ipad-specials-and-sales-up-to-the-minute-offers-inside/"><u>IPad Specials and Sales – Up-to-the-Minute Offers Inside!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-art-of-online-photo-trimming-for-2024/"><u>Navigating the Art of Online Photo Trimming for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-fix-for-windows-error-0x80070570-not-found-message-troubleshooting/"><u>Step-by-Step Fix for Windows Error 0X80070570: Not Found Message Troubleshooting</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723204368891-step-by-step-solutions-eradicate-critical-error-scams-from-your-google-chrome-browser-now/"><u>Step-by-Step Solutions: Eradicate Critical Error Scams From Your Google Chrome Browser Now!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/techniques-to-quicken-vimeo-videos-for-2024/"><u>Techniques to Quicken Vimeo Videos for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-turning-on-and-resuming-use-of-your-snapchat-after-deactivation/"><u>The Ultimate Guide to Turning On and Resuming Use of Your Snapchat After Deactivation</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unveiling-lgs-monitor-magic-a-comprehensible-review-of-4k-tech/"><u>Unveiling LG's Monitor Magic A Comprehensible Review of 4K Tech</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-perfect-planning-how-to-schedule-your-online-teams-virtual-gatherings-google-for-2024/"><u>[New] Perfect Planning How to Schedule Your Online Team's Virtual Gatherings (Google) for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-captivating-call-to-action-designing-a-dynamic-subscribe-buttons-with-filmora/"><u>[Updated] 2024 Approved Captivating Call-to-Action Designing a Dynamic Subscribe Buttons with Filmora</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-no-cost-iphone-and-android-apps-for-slow-motion-videos/"><u>2024 Approved Best No-Cost iPhone & Android Apps for Slow Motion Videos</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-broadcom-bluetooth-drivers-compatible-with-windows-10-8-and-7/"><u>Download the Latest Broadcom Bluetooth Drivers Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-techniques-for-snapping-photos-of-your-computer-display/"><u>Effortless Techniques for Snapping Photos of Your Computer Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-a-frozen-instagram-account-a-user-friendly-troubleshooting-guide/"><u>Fixing a Frozen Instagram Account: A User-Friendly Troubleshooting Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hard-drive-is-not-detected-solved/"><u>Hard Drive Is Not Detected [SOLVED]</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-apples-portables-expert-advice-compared-between-macbook-pro-and-macbook-air-by-zdnet/"><u>Navigating Through Apple's Portables: Expert Advice Compared Between MacBook Pro and MacBook Air by ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/talking-to-chatgpt-on-android-the-voicegpt-way/"><u>Talking to ChatGPT on Android – The VoiceGPT Way</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/to-upgrade-or-not-expert-advice-on-why-you-should-consider-the-latest-iphone-n-16-a-comprehensive-guide-by-zdnet-editors/"><u>To Upgrade or Not: Expert Advice on Why You Should Consider the Latest iPhone N [16] - A Comprehensive Guide by ZDNET Editors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-console-and-game-accessory-presents-perfect-gifts-for-young-gamers/"><u>Top Console and Game Accessory Presents: Perfect Gifts for Young Gamers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-selection-expert-picks-for-apple-watch-guards-in-2-reviews-and-comparisons-zdnet/"><u>Ultimate Selection: Expert Picks for Apple Watch Guards in 2# Reviews & Comparisons - ZDNet</u></a></li>
 </ul></div>
 

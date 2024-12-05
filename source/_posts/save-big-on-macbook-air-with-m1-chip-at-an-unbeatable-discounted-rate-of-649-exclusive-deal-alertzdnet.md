@@ -1,7 +1,7 @@
 ---
 title: Save Big on MacBook Air with M1 Chip at an Unbeatable Discounted Rate of $649 – Exclusive Deal Alert![ZDNet]
-date: 2024-11-23T16:08:33.170Z
-updated: 2024-11-25T16:13:10.659Z
+date: 2024-12-04T02:22:57.926Z
+updated: 2024-12-04T23:23:07.805Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,24 +81,18 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-compreehing-and-engaging-with-your-twitter-archive-for-2024/"><u>[New] Compreehing & Engaging with Your Twitter Archive for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-podcast-titling-evolution-10-ai-generators-to-watch/"><u>[Updated] 2024 Approved Podcast Titling Evolution 10 AI Generators to Watch</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-going-against-gravity-innovative-ways-to-rewind-youtube-content/"><u>[Updated] Going Against Gravity Innovative Ways to Rewind YouTube Content</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-beauty-tutorials-unveiled-creating-a-youtube-channel-from-scratch/"><u>[Updated] In 2024, Beauty Tutorials Unveiled Creating a YouTube Channel From Scratch</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Xiaomi Redmi Note 12 Pro 4G</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decode-and-conquer-effective-strategies-for-resolving-500-server-code-red-alerts/"><u>Decode and Conquer: Effective Strategies for Resolving 500 Server Code Red Alerts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-the-green-label-are-electric-vehicles-as-environmentally-friendly/"><u>Decoding the 'Green' Label: Are Electric Vehicles as Environmentally Friendly?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/determining-the-ideal-processing-speed-for-your-personal-computer/"><u>Determining the Ideal Processing Speed for Your Personal Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-latest-windows-improvements-july-2024-update-service-pack-and-fixes-summary/"><u>Discover the Latest Windows Improvements - July 2024 Update, Service Pack, and Fixes Summary</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/download-without-cost-the-ultimate-guide-to-free-reading-materials-17-top-resources/"><u>Download Without Cost: The Ultimate Guide to Free Reading Materials (17 Top Resources)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-infinix-note-30-vip-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Infinix Note 30 VIP Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-text-that-talks-back-adding-life-to-vids-on-a-budget/"><u>In 2024, Text that Talks Back Adding Life to Vids on a Budget</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-repair-rights-for-electronics-importance-and-insights-for-consumers-cyberguardian/"><u>Navigating Repair Rights for Electronics: Importance & Insights for Consumers | CyberGuardian</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-ksuserdll-is-missing-a-comprehensive-guide/"><u>Solving 'ksuser.dll Is Missing' - A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-address-the-missing-d3dx928dll-error/"><u>Step-by-Step Guide to Address the Missing d3dx9_28.dll Error</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-reconnecting-your-alexa-when-not-recognized-online/"><u>Troubleshooting Guide: Reconnecting Your Alexa when Not Recognized Online</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-steps-for-performing-a-complete-lenovo-laptop-system-restore/"><u>Ultimate Guide: Steps for Performing a Complete Lenovo Laptop System Restore</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-historical-milestastock-in-electric-motor-powered-cars/"><u>Unveiling the Historical Milestastock in Electric Motor-Powered Cars</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-become-a-streaming-sensation-on-twitter-platform/"><u>[Updated] In 2024, Become a Streaming Sensation on Twitter Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-solve-clientserver-vpn-mismatch-error-800/"><u>Comprehensive Guide to Solve Client/Server VPN Mismatch Error - #800</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-to-correct-the-500-internal-system-snafu-on-websites/"><u>Effective Solutions to Correct the 500 Internal System Snafu on Websites</u></a></li>
+<li><a href="https://win11.techidaily.com/enlightening-windows-users-on-camera-memory-issues/"><u>Enlightening Windows Users on Camera Memory Issues</u></a></li>
+<li><a href="https://discover-able.techidaily.com/expert-steps-for-configuring-a-secure-bitcoin-wallet-with-yl-software-solutions/"><u>Expert Steps for Configuring a Secure Bitcoin Wallet with YL Software Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-get-new-applications-on-a-samsung-smart-tv-screen/"><u>How To Get New Applications On A Samsung Smart TV Screen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-get-ready-for-success-5-key-tips-when-you-first-power-up-your-device/"><u>How to Get Ready for Success: 5 Key Tips When You First Power Up Your Device</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-captivating-books-in-video-form/"><u>In 2024, Captivating Books in Video Form</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-xs-max-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From iPhone XS Max</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-into-the-realm-of-3d-graffiti-a-guide-to-10-exceptional-websites-for-2024/"><u>Step Into the Realm of 3D Graffiti A Guide to 10 Exceptional Websites for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-error-code-10-steps-for-reactivating-your-inoperable-device/"><u>Troubleshooting Error Code 10: Steps for Reactivating Your Inoperable Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-fixes-for-tackling-code-39-complications-within-your-windows-pc/"><u>Ultimate Fixes for Tackling Code 39 Complications Within Your Windows PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/upgraded-views-installing-new-laptop-gfx/"><u>Upgraded Views: Installing New Laptop GFX</u></a></li>
 </ul></div>
 

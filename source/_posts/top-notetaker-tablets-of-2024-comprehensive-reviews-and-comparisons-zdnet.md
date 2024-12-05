@@ -1,7 +1,7 @@
 ---
 title: Top Notetaker Tablets of 2024 - Comprehensive Reviews & Comparisons | ZDNet
-date: 2024-11-23T17:04:23.144Z
-updated: 2024-11-25T16:28:49.313Z
+date: 2024-11-28T00:08:04.347Z
+updated: 2024-12-05T00:57:05.000Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ Tablets run the gamut in terms of everything they can do (and all the prices the
 
 ZDNET went hands-on with the following tablets, with our pick for the best note-taking tablet overall being the [iPad Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-10-9-inch-ipad-air-latest-model-5th-generation-with-wi-fi-64gb-purple%2F4909101.p&publisher_slug=itechdaily19598&exclusive=1), thanks to its lightweight build and compatibility with the second-generation Apple Pencil. But we also included tablets from Boox, Amazon, and more to take digital notes on this back-to-school season. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best note-taking tablets of 2024
 
 Show less 
@@ -45,11 +41,11 @@ Cons
 * Only compatible with iOS
 * Camera cannot be used with other apps
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple iPad Air (5th generation)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best note-taking tablet overall
 
@@ -83,7 +79,7 @@ Cons
 ## Boox Note Air 3 C
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best lightweight note-taking tablet
@@ -117,10 +113,6 @@ Cons
 
 ## Amazon Kindle Scribe
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best note-taking tablet for reading
 
 The Kindle Scribe is perhaps the perfect example of part e-reader, part tablet. It has the same functions you've come to know and love in a Kindle, like a 300 ppi glare-free screen, weeks of battery life, and adjustable warm light. It's also compatible with Amazon's Basic or Premium Pen, so you can take handwritten notes or underline important quotations within the book you're reading. 
@@ -149,10 +141,14 @@ Pros
 Cons 
 * Missing apps
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Tab S9
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best note-taking tablet for Android users
@@ -186,6 +182,10 @@ Cons
 
 ## Amazon Fire Max 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best budget note-taking tablet
 
 With a starting price of $245, the Fire Max 11 brings an 11-inch display, 4GB of memory and 64GB of storage with support for 1TB of microSD card storage. If you're looking for a tablet for work and play, the Fire Max 11 Productivity Bundle costs $370, but comes with a keyboard with touchpad, case, and a stylus that has 4,096 levels of pressure.
@@ -216,6 +216,10 @@ The best note-taking tablet is the iPad Air based on price, ratings, display, fe
 
  \*Lowest price at the time of writing. Please note that prices may vary based on retailer and available promotions, sales, or discounts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which note-taking tablet is right for you?
 
 Choosing a tablet really comes down to what you want to use it for and what you want to spend. Basic tablets tend to be cheaper, so if you don't plan to use them for much other than taking notes, you can look at spending a little less and getting something like an Amazon Fire Tablet. 
@@ -239,6 +243,10 @@ Before you buy a note-taking tablet, you'll want to consider the following:
 * **Size:** Tablets that you will mainly use for note-taking purposes will have different requirements than tablets you need to replace a laptop with. Smaller size tablets are best for note-taking purposes and are lightweight and portable.
 * **Price:** Tablets will vary in price from $150 all the way up to $1,000 or more, depending on storage capacity, display quality, processors, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -259,10 +267,6 @@ Using a stylus is totally up to you, but it can definitely help with functionali
 
 The [best note-taking apps](https://www.zdnet.com/article/best-note-taking-app-for-ipad/) let you digitize your notes and to-dos while keeping them all in one place or syncing them to a cloud. Our favorites are Notability, Evernote, GoodNotes 5, and even Apple's free Notes app is a worthy choice.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does the Apple Pencil convert handwriting to text?
 
 Yes--the Apple Pencil can convert your handwritten notes into text for better legibility. Here's how: 
@@ -270,10 +274,6 @@ Yes--the Apple Pencil can convert your handwritten notes into text for better le
 1. In the Notes or Freeform apps, tap to show the tool palette.
 2. In the tool palette, tap the Handwriting tool (to the left of the pen).
 3. Write with Apple Pencil, and Scribble automatically converts your handwriting into typed text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Other note-taking tablets we've tested:
 
@@ -311,20 +311,18 @@ If none of the above caught your eye or don't seem quite like what you're lookin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-how-to-use-ez-grabber-software/"><u>[New] 2024 Approved How to Use EZ Grabber Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bypass-the-blues-how-to-fix-netflix-error-code-nw-1-19-and-get-back-to-binge-watching/"><u>Bypass the Blues: How to Fix Netflix Error Code NW-1-19 and Get Back to Binge-Watching</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dealing-with-zoom-video-failures-expert-tips-and-tricks/"><u>Dealing with Zoom Video Failures: Expert Tips & Tricks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-exclusive-luxury-in-electronics-without-breaking-the-bank/"><u>Experience Exclusive Luxury in Electronics without Breaking the Bank.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-localized-learning-on-device-techniques-and-strategies/"><u>Exploring Localized Learning: On-Device Techniques & Strategies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/facetime-on-windows-heres-how-you-can-set-it-up/"><u>FaceTime on Windows? Here's How You Can Set It Up!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-complete-overview-the-ultimate-video-editors-review-for-vivocut/"><u>In 2024, Complete Overview The Ultimate Video Editor's Review for VivoCut</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-elevate-your-youtube-presence-with-studio-insights/"><u>In 2024, Elevate Your YouTube Presence with Studio Insights</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-infinix-note-30-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Infinix Note 30 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/macbook-pro-versus-ipad-pro-which-one-suits-your-needs-best/"><u>MacBook Pro versus iPad Pro: Which One Suits Your Needs Best?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigate-like-a-pro-the-finest-5-gps-apps-for-iphones-unveiled/"><u>Navigate Like a Pro: The Finest 5 GPS Apps for iPhones Unveiled</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/snapchat-tricks-unveiled-transforming-forward-videos-into-reversed-magic/"><u>Snapchat Tricks Unveiled: Transforming Forward Videos Into Reversed Magic!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-essential-guide-to-charging-an-ev-insights-and-tips-for-at-home-use/"><u>The Essential Guide to Charging an EV: Insights and Tips for At-Home Use</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uncovering-your-macs-secret-a-step-by-step-guide-to-reveal-hidden-files-using-terminal/"><u>Uncovering Your Mac's Secret: A Step-by-Step Guide to Reveal Hidden Files Using Terminal</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-proven-methods-for-backdrop-cleansing-in-photoshop-enhanced-by-affinity/"><u>[New] Proven Methods for Backdrop Cleansing in Photoshop Enhanced by Affinity</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-jumpstart-with-vrecorder-easy-installation-walkthrough-for-2024/"><u>[Updated] Jumpstart with VRecorder Easy Installation Walkthrough for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-overview-of-samsung-tv-app-ecosystem/"><u>A Comprehensive Overview of Samsung TV App Ecosystem</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-ram-type-in-windows-a-step-by-step-guide/"><u>Discovering RAM Type in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-updated-intel-iris-xe-gpu-driver-for-windows-11-users/"><u>Download Updated Intel Iris Xe GPU Driver for Windows 11 Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-150-2023-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nokia 150 (2023) to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a14-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A14 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/learn-the-quick-trick-project-your-devices-screen-onto-an-lg-smart-tv/"><u>Learn the Quick Trick: Project Your Device's Screen Onto an LG Smart TV</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-fixes-download-and-update-dell-audio-system-drivers-now/"><u>Quick Fixes: Download & Update Dell Audio System Drivers Now!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-realme-11-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Realme 11 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-not-found-msstfmtdll-issue-efficiently/"><u>Troubleshooting the ‘Not Found’ msstfmt.dll Issue Efficiently</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-hosting-your-own-sing-along-soiree-at-home/"><u>Ultimate Guide: Hosting Your Own Sing-Along Soiree at Home</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/where-to-find-the-ideal-phone-at-great-prices/"><u>Where to Find the Ideal Phone at Great Prices</u></a></li>
 </ul></div>
 

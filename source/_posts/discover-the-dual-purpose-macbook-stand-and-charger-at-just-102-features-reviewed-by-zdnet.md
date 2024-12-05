@@ -1,7 +1,7 @@
 ---
 title: Discover the Dual-Purpose MacBook Stand & Charger at Just $102 - Features Reviewed by ZDNet
-date: 2024-11-20T16:17:35.843Z
-updated: 2024-11-25T16:59:59.731Z
+date: 2024-11-27T19:24:41.052Z
+updated: 2024-12-05T10:55:49.007Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. A bigger screen option
@@ -39,7 +39,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -61,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -69,7 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -110,18 +110,20 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-quick-guide-saving-screen-share-dialogue/"><u>[New] 2024 Approved Quick Guide Saving Screen Share Dialogue</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-pathway-to-creating-metaverse-identities/"><u>[New] The Ultimate Pathway to Creating Metaverse Identities</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-framefusion-instagram-photo-fusion-across-oses-for-2024/"><u>[Updated] FrameFusion Instagram Photo Fusion Across OSes for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-sculpt-perfect-images-on-youtube-with-right-dimensions-for-2024/"><u>[Updated] How to Sculpt Perfect Images on YouTube with Right Dimensions for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-hooking-up-a-firestick-with-a-projector/"><u>Comprehensive Tutorial on Hooking Up a Firestick with a Projector</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/easy-and-effective-methods-for-bulk-data-backup-across-your-entire-computer-network/"><u>Easy and Effective Methods for Bulk Data Backup Across Your Entire Computer Network</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/flickering-screen-follow-this-quick-asus-guide-to-solve-it/"><u>Flickering Screen? Follow This Quick ASUS Guide to Solve It</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-capture-the-crash-expert-surfer-cameras-review/"><u>In 2024, Capture the Crash - Expert Surfer Cameras Review</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-honor-100-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor 100 Pro FRP?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-tweeting-etiquette-knowing-when-to-disconnect-from-x-users/"><u>Mastering the Art of Tweeting Etiquette: Knowing When to Disconnect From X Users</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/mise-a-jour-complete-configurer-avec-elegance-installation-de-windows-hemes-en-3-simples-etape/"><u>Mise À Jour Complète : Configurer Avec Élégance, Installation De Windows Hemes en 3 Simples Etape !</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-ac1st16dll-not-found-expert-tips-and-tricks/"><u>Solving 'ac1st16.dll Not Found': Expert Tips and Tricks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-pre-purchase-considerations-a-list-of-5-crucial-elements-in-selecting-a-smartwatch/"><u>Understanding Pre-Purchase Considerations: A List of 5 Crucial Elements in Selecting a Smartwatch</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-efficiently-priced-flight-machines-affordable-drones-list/"><u>[New] 2024 Approved Efficiently Priced Flight Machines Affordable Drones List</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-navigating-through-film-workflow-choosing-between-hdr-and-sdr/"><u>[New] 2024 Approved Navigating Through Film Workflow Choosing Between HDR & SDR</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-discovering-the-secrets-to-professional-music-mixing-with-magix/"><u>[New] In 2024, Discovering the Secrets to Professional Music Mixing with Magix</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-explore-6-alternative-platforms-for-high-quality-youtube-graphics/"><u>[Updated] Explore 6 Alternative Platforms for High-Quality YouTube Graphics</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-from-favorites-to-featured-the-journey-to-a-unique-youtube-list/"><u>[Updated] In 2024, From Favorites to Featured The Journey to a Unique YouTube List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-ways-to-put-a-windows-computer-to-sleep/"><u>9 Ways to Put a Windows Computer to Sleep</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-deep-dive-into-the-world-of-rich-communication-services-for-smartphones/"><u>A Deep Dive Into the World of Rich Communication Services for Smartphones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/authenticity-on-display-video-reviews-role/"><u>Authenticity on Display Video Reviews' Role</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-these-12-amazing-no-cost-typing-tutorials-suitable-for-any-audience/"><u>Discover These 12 Amazing No-Cost Typing Tutorials Suitable for Any Audience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-solutions-to-fix-unwanted-colors-and-shapes-on-computer-display/"><u>DIY Solutions to Fix Unwanted Colors & Shapes on Computer Display</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-factors-to-evaluate-when-purchasing-a-refurbished-notebook/"><u>Essential Factors to Evaluate When Purchasing a Refurbished Notebook</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-fix-corrupt-or-lost-netframework-files-like-msvcp71dll/"><u>Step-by-Step Guide to Fix Corrupt or Lost '.netframework' Files Like msvcp71.dll</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-multilingual-skills-with-any-of-these-9-free-language-learning-platforms/"><u>Unlock Multilingual Skills with Any of These 9 Free Language-Learning Platforms</u></a></li>
 </ul></div>
 

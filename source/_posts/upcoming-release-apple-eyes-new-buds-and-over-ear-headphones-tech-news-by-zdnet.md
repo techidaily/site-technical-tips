@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Release: Apple Eyes New Buds and Over-Ear Headphones - Tech News by ZDNet"
-date: 2024-11-21T16:10:26.228Z
-updated: 2024-11-25T16:55:10.750Z
+date: 2024-11-29T22:55:39.572Z
+updated: 2024-12-05T00:16:59.620Z
 tags:
   - apple
 categories:
@@ -44,16 +44,12 @@ These AirPods can be separated into entry-level and mid-tier categories, with th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the AirPods 4 (entry-level) if...
 
 Screenshot by Kayla Solino/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. You love your AirPods (2nd generation) but want some upgrades
 
@@ -64,7 +60,7 @@ If you like the simplicity of the second-generation AirPods but think it's time 
 Regarding upgrades, the AirPods 4's charging case delivers six more hours of battery life than the second-generation AirPods. Additionally, the AirPods 4's charging case supports USB-C charging and has an IP54 dust and water resistance rating. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. You want the most affordable option
@@ -74,12 +70,16 @@ The entry-level AirPods are cheaper than the AirPods 4 mid-tier model and the Ai
 [Preorder the AirPods 4 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the AirPods 4 (mid-tier) if...
 
 Screenshot by Kayla Solino/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. The AirPods Pro 2 have too many features you'll never use
 
@@ -88,10 +88,6 @@ The AirPods Pro 2 are Apple's most advanced earbuds, offering an array of audio 
 **Also: [Your AirPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 The AirPods 4 with active noise cancellation have noise-canceling and transparency modes, spatial audio with dynamic head tracking, and an IP54 water and dust resistance rating. The charging case is USB-C and wireless charging compatible. However, the mid-tier AirPods 4 have one less hours of continuous playback than the AirPods 3.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. You want the "just right" AirPods
 
@@ -102,6 +98,10 @@ If you're upgrading from the AirPods 3, you'll enjoy the fact that the mid-tier 
 You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPods since they give users the best of both worlds. You get upgraded audio features not found in the second or third-generation AirPods without offering too many advanced features found in the AirPods Pro 2.
 
 [Preorder the AirPods 4 with active noise cancellation View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4%2Fwith-active-noise-cancellation&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -137,22 +137,18 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-ifunny-meme-downloads-and-fun/"><u>[New] 2024 Approved Mastering iFunny Meme Downloads & Fun</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-proven-techniques-to-elevate-your-videos-sonic-palette-on-youtube/"><u>[New] 2024 Approved Proven Techniques to Elevate Your Video's Sonic Palette on YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/dvd-shrink5/"><u>最新版ディスク最適化ツールで、DVD Shrinkを超える無料/有料サービス5つの推奨リスト</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-user-experience-enhancing-website-personalization-and-marketing/"><u>Cookiebot-Enabled User Experience: Enhancing Website Personalization and Marketing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-instructions-for-connecting-a-logitech-wifi-mouse-to-a-new-transmitter-device/"><u>Easy Instructions for Connecting a Logitech WiFi Mouse to a New Transmitter Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-on-capturing-and-sharing-your-ps4-game-moments-as-images/"><u>Expert Advice on Capturing and Sharing Your PS4 Game Moments as Images</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/explore-the-finest-top-8-android-mp3-downloader-apps/"><u>Explore the Finest Top 8 Android MP3 Downloader Apps</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-find-x6withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Find X6with/without a PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-and-repair-alexas-echo-is-offline-notification-issue/"><u>How To Correctly Address and Repair Alexa’s 'Echo Is Offline' Notification Issue</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-oneplus-ace-2v-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From OnePlus Ace 2V to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-outwiththeold-camerasbeyondmycam/"><u>In 2024, OutWithTheOld CamerasBeyondMyCam</u></a></li>
-<li><a href="https://review-topics.techidaily.com/lenovo-thinkphone-messages-recovery-recover-deleted-messages-from-lenovo-thinkphone-by-fonelab-android-recover-messages/"><u>Lenovo ThinkPhone Messages Recovery - Recover Deleted Messages from Lenovo ThinkPhone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-steam-video-game-refunds-tips-and-tricks/"><u>Mastering the Art of Steam Video Game Refunds: Tips and Tricks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-your-device-a-guide-to-navigating-androids-quick-settings/"><u>Mastering Your Device: A Guide to Navigating Android's Quick Settings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/rumor-check-insider-info-on-costs-and-launch-for-apples-innovative-home-robot/"><u>Rumor Check: Insider Info on Costs and Launch for Apple's Innovative Home Robot</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-kernel-data-inpage-fault-issues-efficiently/"><u>Step-by-Step Guide: Resolving Kernel Data Inpage Fault Issues Efficiently</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-emptying-entire-email-archives-on-gmail-for-androidios/"><u>Step-by-Step Tutorial: Emptying Entire Email Archives on Gmail for Android/iOS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-srt-power-play-transforming-macwindows-experience/"><u>[New] In 2024, SRT Power Play Transforming Mac/Windows Experience</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-reversing-time-retracing-your-steps-for-lost-snaps/"><u>[New] Reversing Time Retracing Your Steps for Lost Snaps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-navigating-the-wonders-of-obs-on-android-devices/"><u>[Updated] In 2024, Navigating the Wonders of OBS on Android Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-precise-guide-to-navigating-adobe-cloud-then-comparing-other-methods/"><u>[Updated] Precise Guide to Navigating Adobe Cloud, Then Comparing Other Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-watch-tips-quick-ways-to-message-loved-ones-on-the-go/"><u>Apple Watch Tips: Quick Ways to Message Loved Ones on the Go</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/creating-and-securing-your-online-playstation-id/"><u>Creating and Securing Your Online PlayStation ID</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-new-rock-bottom-deal-apples-mac-mini-fitted-with-m2-chip-for-just-479-tech-insights-from-zdnet/"><u>Discover the New Rock-Bottom Deal: Apple's Mac Mini Fitted with M2 Chip for Just $479 | Tech Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-idea-to-execution-a-comprehensive-youtube-video-guide-for-2024/"><u>From Idea to Execution A Comprehensive YouTube Video Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/intense-evaluation-the-detailed-study-of-bublcam-360-for-2024/"><u>Intense Evaluation The Detailed Study of Bublcam 360 for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fix-how-to-stop-gzw-from-crashing-on-windows-and-mac-computers/"><u>Mastering the Fix: How to Stop GZW From Crashing on Windows and Mac Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sequence-your-superhero-experience-the-ultimate-guide-to-viewing-superman-films-chronologically/"><u>Sequence Your Superhero Experience: The Ultimate Guide to Viewing 'Superman' Films Chronologically</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-is-here-explore-potential-specs-launch-timeframe-and-cost-estimations-for-the-new-apple-watch-ultra-2/"><u>The Future Is Here – Explore Potential Specs, Launch Timeframe & Cost Estimations for the New Apple Watch Ultra 2</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-halinitializationfailed-error-stop-0x0000005c/"><u>Troubleshooting Guide: Resolving HAL_INITIALIZATION_FAILED Error STOP 0X0000005C</u></a></li>
 </ul></div>
 
