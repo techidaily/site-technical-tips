@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity: Enjoy Dual-Monitor Support on Your M3 MacBook Pro - The Ultimate Guide for Power Users"
-date: 2024-12-03T17:00:25.619Z
-updated: 2024-12-05T09:41:30.300Z
+date: 2024-12-10T06:18:55.112Z
+updated: 2024-12-10T16:32:44.904Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -52,6 +56,10 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Continuity
 
 Screenshot by Nina Raemont
@@ -65,7 +73,7 @@ The app also streamlines your devices by bringing your iPhone's notifications st
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
@@ -81,7 +89,7 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -96,10 +104,6 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -111,7 +115,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -123,10 +127,6 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -162,24 +162,22 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/verage-gain-for-youtubers-per-ad-exposure-in-2024/"><u>[New] Average Gain for YouTubers per Ad Exposure, In 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-revenue-a-step-by-step-money-making-blueprint/"><u>[Updated] In 2024, Vimeo Revenue A Step-by-Step Money-Making Blueprint</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-pay-later-upcoming-inclusion-on-experian-credit-reports-what-you-need-to-know/"><u>Apple Pay Later: Upcoming Inclusion on Experian Credit Reports - What You Need to Know</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/elevating-your-ig-aesthetics-with-top-10-grid-builders/"><u>Elevating Your IG Aesthetics with Top 10 Grid Builders</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-top-free-movie-and-tv-streaming-sites-instead-of-netflix/"><u>Exploring the Top Free Movie & TV Streaming Sites Instead of Netflix</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guide-transitioning-into-the-field-of-prompt-engineering/"><u>Guide: Transitioning Into the Field of Prompt Engineering</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-c55-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme C55 Lock Screen Password</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-anglers-selection-leading-fishing-cameras-ranked/"><u>In 2024, Prime Anglers' Selection Leading Fishing Cameras Ranked</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Samsung Galaxy A05s? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ipad-air-4-vs-ipad-air-5-is-it-time-to-level-up-your-tablet-tips-and-reviews-on-the-latest-models/"><u>IPad Air 4 vs iPad Air 5: Is It Time to Level Up Your Tablet? Tips & Reviews on the Latest Models</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-16-pro-unveiled-a-deep-dive-into-its-studio-level-sound-quality-with-enhanced-audio-mix-capability-cnet/"><u>IPhone 16 Pro Unveiled: A Deep Dive Into Its Studio-Level Sound Quality with Enhanced Audio Mix Capability | CNET</u></a></li>
-<li><a href="https://article-files.techidaily.com/quick-peek-at-windows-files-heres-how/"><u>Quick Peek at Windows Files, Here's How</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-major-issues-with-google-pixel-watch-series-3-insights/"><u>Resolving Major Issues with Google Pixel Watch Series 3 - Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-mfc42dll-file-not-foundmissing-issue/"><u>Resolving the mfc42.dll File Not Found/Missing Issue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/secure-your-early-bird-spot-with-apple-watch-series-10-exclusive-guide-and-savings-tips/"><u>Secure Your Early Bird Spot with Apple Watch Series 10 – Exclusive Guide & Savings Tips!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/step-by-step-guide-to-crafting-stunning-tiktok-edits-for-2024/"><u>Step-by-Step Guide to Crafting Stunning TikTok Edits for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-best-defender-for-your-iphone-se-in-202n-elite-selection-reviews/"><u>The Best Defender for Your iPhone SE in 202N: Elite Selection Reviews</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-current-savings-on-amazon-august-2024-exclusive-offers-zdnet/"><u>Top Current Savings on Amazon - August 2024 Exclusive Offers | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-travel-companion-discover-the-perfectly-versatile-3-in-1-magsafe-charger-with-qi-wireless-charging-a-review/"><u>Ultimate Travel Companion: Discover the Perfectly Versatile 3-in-1 MagSafe Charger with Qi Wireless Charging – A Review</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-masterclass-the-foremost-image-enhancers-on-iphones-and-androids/"><u>[New] Masterclass The Foremost Image Enhancers on iPhones and Androids</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-redirecting-noise-free-tweets-back-to-audio-for-2024/"><u>[New] Redirecting Noise-Free Tweets Back to Audio for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-android-users-the-top-6-video-downloaders-for-easy-access-for-2024/"><u>[Updated] Android Users The Top 6 Video Downloaders for Easy Access for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-humor-horizon-developer/"><u>[Updated] In 2024, Humor Horizon Developer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-samsung-galaxy-m34-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Samsung Galaxy M34 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-tech-savvy-the-ultimate-tutorial-for-programming-a-multifunctional-remote-controller/"><u>DIY Tech Savvy: The Ultimate Tutorial for Programming a Multifunctional Remote Controller</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-top-7-online-fax-options-that-wont-cost-you-a-penny/"><u>Explore the Top 7 Online Fax Options That Won't Cost You a Penny</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-on-viewing-spider-man-movie-online/"><u>Guide on Viewing Spider-Man Movie Online</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-y100i-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo Y100i</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/lost-partition-restoration-efficient-recovery-solutions-for-windows-7-and-windows-10-with-ifind-data-recovery/"><u>Lost Partition Restoration: Efficient Recovery Solutions for Windows 7 and Windows 10 with IFind Data Recovery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-your-desktop-space-a-complete-walkthrough-to-dual-monitoring-on-a-mac/"><u>Maximize Your Desktop Space: A Complete Walkthrough to Dual Monitoring on a Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-gmail-with-dual-verification-enable-two-factor-authentication-today/"><u>Securing Gmail with Dual Verification – Enable Two-Factor Authentication Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seeing-beyond-likes-and-comments-a-comprehensive-guide-to-spotting-who-saved-your-instagram-creations/"><u>Seeing Beyond Likes and Comments: A Comprehensive Guide to Spotting Who Saved Your Instagram Creations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-steps-how-to-download-your-own-youtube-videos-with-privacy/"><u>Simple Steps: How to Download Your Own YouTube Videos with Privacy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-best-unlimited-free-web-based-fax-solutions/"><u>Top 7 Best Unlimited Free Web-Based Fax Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-what-to-do-when-your-pc-wont-turn-on/"><u>Troubleshooting Steps: What to Do When Your PC Won't Turn On</u></a></li>
+<li><a href="https://blog-min.techidaily.com/troubleshooting-dvd-player-functions-with-sound-yet-displays-nothing-visually/"><u>Troubleshooting: DVD Player Functions with Sound Yet Displays Nothing Visually</u></a></li>
 </ul></div>
 

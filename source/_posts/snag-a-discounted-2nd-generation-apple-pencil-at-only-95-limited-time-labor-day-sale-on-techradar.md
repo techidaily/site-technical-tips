@@ -1,7 +1,7 @@
 ---
 title: Snag a Discounted 2Nd Generation Apple Pencil at Only $95 - Limited Time Labor Day Sale on TechRadar
-date: 2024-12-03T17:00:14.846Z
-updated: 2024-12-05T01:30:31.431Z
+date: 2024-12-03T17:51:32.313Z
+updated: 2024-12-11T11:38:21.437Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,16 +71,21 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-the-secret-life-of-a-designer-canvas-hidden-edits/"><u>[New] The Secret Life of a Designer Canva's Hidden Edits</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-live-webcam-broadcast-the-power-of-vlc-technology-for-2024/"><u>[Updated] Live Webcam Broadcast The Power of VLC Technology for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-meizu-21-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Meizu 21? Try These Fixes</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-you-dont-have-to-be-a-skilled-video-editor-to-convert-image-to-videos-because-there-are-a-lot-of-online-image-to-video-maker-tools-that-en/"><u>New 2024 Approved You Dont Have to Be a Skilled Video Editor to Convert Image to Videos, because There Are a Lot of Online Image to Video Maker Tools that Enable You to Create a New Video From Photos in Just a Few Eas</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-setting-up-a-home-ev-charging-station-for-optimal-convenience/"><u>Step-by-Step: Setting Up a Home EV Charging Station for Optimal Convenience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-expanding-and-optimizing-image-size-for-stunning-instagram-presence/"><u>The Ultimate Guide to Expanding and Optimizing Image Size for Stunning Instagram Presence</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-world-of-aether-explored-insightful-guide-on-membership-enrollment/"><u>The World of Aether Explored: Insightful Guide on Membership Enrollment</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/ttml-xml-and-beyond-creating-flawless-srts-for-audio-files-for-2024/"><u>TTML, XML & Beyond Creating Flawless SRTs for Audio Files for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unlock-your-potential-best-instagram-video-editors-android-pc-for-2024/"><u>Unlock Your Potential Best Instagram Video Editors (Android, PC) for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/viewing-order-for-transformers-movies-your-definitive-guide/"><u>Viewing Order for Transformers Movies: Your Definitive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-11-and-password-privacy-how-to-retrieve-your-hidden-wireless-network-key/"><u>Windows 11 and Password Privacy: How to Retrieve Your Hidden Wireless Network Key</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-securing-your-discord-sessions-for-future-viewing/"><u>[New] 2024 Approved Securing Your Discord Sessions for Future Viewing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-find-rich-ambiance-for-video-content/"><u>[Updated] Find Rich Ambiance for Video Content!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-between-iphone-16-and-iphone-15-key-features-for-the-latest-generation-zdnet/"><u>Choosing Between iPhone 16 and iPhone 15: Key Features for the Latest Generation - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/compare-and-contrast-apples-cutting-edge-airpods-4-models-with-in-depth-analysis/"><u>Compare & Contrast Apple's Cutting-Edge AirPods 4 Models with In-Depth Analysis</u></a></li>
+<li><a href="https://article-tips.techidaily.com/crafting-connectivity-with-metaverse-strategies/"><u>Crafting Connectivity with Metaverse Strategies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-compatibility-a-guide-to-updating-intel-hd-graphics-win-solutions/"><u>Fixing Compatibility: A Guide to Updating Intel HD Graphics ([Win-Solutions)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-growth-in-the-grove-top-7-stardew-valley-addons/"><u>In 2024, Growth in the Grove Top 7 Stardew Valley Addons</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/july-2ebr-2024-apple-savings-guide-unbeatable-prices-on-iphones-apple-watches-and-ipads-find-all-the-best-deals-at-zdnet/"><u>July 2Ebr 2024 Apple Savings Guide: Unbeatable Prices on iPhones, Apple Watches & iPads | Find All the Best Deals at ZDNET</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-for-iphones-broken-speaker-eliminate-noise-and-enhance-volume/"><u>Solution for iPhone's Broken Speaker: Eliminate Noise and Enhance Volume</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/story-2-the-confusion-with-immune-complex-diseases-answer-c/"><u>Story 2: The Confusion with Immune Complex Diseases (Answer C)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-trailblazers-reshuffle-as-samsungs-galaxy-ai-rises-challenging-google-after-antitrust-verdict-in-the-innovation-league-table/"><u>Tech Trailblazers Reshuffle as Samsung's Galaxy AI Rises, Challenging Google After Antitrust Verdict in the Innovation League Table</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-brilliance-within-discover-10-exceptional-features-of-the-apple-vision-pro-digitalworld-blog/"><u>The Brilliance Within: Discover 10 Exceptional Features of the Apple Vision Pro | DigitalWorld Blog</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95687184-9781440580031-the-modern-guide-to-witchcraft/"><u>The Modern Guide to Witchcraft | Free Book</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-mp4-videoencoder-effiziente-verfahren-zum-komprimieren-von-mp4-dateien/"><u>Top MP4-Videoencoder: Effiziente Verfahren Zum Komprimieren Von MP4-Dateien</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/virtual-broadcast-battleground-obs-versus-shadowgl-for-2024/"><u>Virtual Broadcast Battleground OBS Versus ShadowGL for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnets-picks-for-the-ultimate-mac-lineup-of-2024-features-and-reviews/"><u>ZDNet's Picks for the Ultimate Mac Lineup of 2024 - Features & Reviews</u></a></li>
 </ul></div>
 

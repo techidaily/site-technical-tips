@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Taking Screen Snaps with Windows 11 (4 Techniques)"
-date: 2024-09-04T00:48:59.086Z
-updated: 2024-09-05T00:48:59.086Z
+date: 2024-12-04T07:41:23.243Z
+updated: 2024-12-10T18:58:52.688Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Taking Screen Snaps with Windows 11 (4 Techniques)"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/a3895cce3360de5913e31306b1dac3362ecfc87f8
  The error could apply to any hardware device in Device Manager but most of them appear on [optical drives](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) like DVD and CD drives, [USB](https://www.lifewire.com/universal-serial-bus-usb-2626039) devices, and keyboards.
 
  Code 19 errors could be seen in any of Microsoft's[operating systems](https://www.lifewire.com/operating-systems-2625912) , including[Windows 10](https://www.lifewire.com/windows-10-2626217) ,[Windows 8](https://www.lifewire.com/windows-8-2626235) ,[Windows 7](https://www.lifewire.com/windows-7-2626265) ,[Windows Vista](https://www.lifewire.com/windows-vista-2626311) ,[Windows XP](https://www.lifewire.com/windows-xp-2626354) , and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a Code 19 Error
 
@@ -37,16 +41,18 @@ thumbnail: https://thmb.techidaily.com/a3895cce3360de5913e31306b1dac3362ecfc87f8
  It's also possible that the device isn't compatible with this version of Windows. You can check the[Windows HCL](https://www.lifewire.com/what-is-the-windows-hardware-compatibility-list-2625914) to be sure.​
 10. If you've discovered that hardware can't be the cause of this Code 19 error, you're left with it being a software-related issue. Try a[repair install of Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) , or if that doesn't work,[a clean install](https://www.lifewire.com/how-to-clean-install-windows-2624904) . We don't recommend doing either of those more drastic options_before_ you try replacing the hardware, but you may have to if you're out of other options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Need More Help?
 
  If you're not interested in fixing this problem yourself, you can view a[full list of your support options](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) , plus help with everything along the way like figuring out repair costs, getting your files off, choosing a repair service, and a whole lot more.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of Code 19 Errors
 
  The Code 19 error is one of several [Device Manager error codes](https://www.lifewire.com/device-manager-error-codes-4159098) . It's caused by one or more issues with parts of the[Windows Registry](https://www.lifewire.com/windows-registry-2625992) that contain[driver](https://www.lifewire.com/what-is-a-device-driver-2625796) and other information about the particular[hardware](https://www.lifewire.com/computer-hardware-2625895) device.
@@ -54,11 +60,9 @@ thumbnail: https://thmb.techidaily.com/a3895cce3360de5913e31306b1dac3362ecfc87f8
 ![Code 19 error on Windows 10 desktop](https://www.lifewire.com/thmb/vXdkCrMBd_gMDi9fzuL3LtYyLxw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-fix-code-19-errors-2623182-5bfdd5d94cedfd0026018311.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Code 19 error will almost always display in one of the following two ways:
 
 * **Windows cannot start this hardware device because its configuration information (in the registry) is incomplete or damaged. To fix this problem you should uninstall and then reinstall the hardware device. (Code 19)**
@@ -95,8 +99,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +106,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-comprehensive-app-insights-with-az-recorders/"><u>[New] In 2024, Comprehensive App Insights with AZ Recorders</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-exploring-the-lost-stories-of-facebook-tech-savvy-approach/"><u>[Updated] Exploring the Lost Stories of Facebook Tech-Savvy Approach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/spotifyapple-musicand/"><u>「SpotifyやApple Musicなどのサブスクリプションで聞ける曲をダウンロード&保管するコツ」</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-motorola-moto-g73-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Motorola Moto G73 5G PC | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/can-you-afford-cutting-edge-tech-wisdom-from-apple-unveiling-monthly-plans-priced-at-20-and-up/"><u>Can You Afford Cutting-Edge Tech Wisdom From Apple? Unveiling Monthly Plans Priced at $20 and Up!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturing-the-heart-of-sims-4-games-for-2024/"><u>Capturing the Heart of Sims 4 Games for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convertisseur-video-en-4khevc-guides-complets-pour-maitriser-les-tutoriels/"><u>Convertisseur Vidéo en 4K/HEVC - Guides Complets Pour Maîtriser Les Tutoriels</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-latest-features-top-5-exciting-tests-on-apple-ios-18-preview-zdnet/"><u>Explore the Latest Features: Top 5 Exciting Tests on Apple iOS 18 Preview | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gamers-rejoice-discover-how-you-can-save-big-with-these-amazing-off-season-discounts-on-high-performance-speaker-systems-at-amazon/"><u>Gamers Rejoice: Discover How You Can Save Big with These Amazing Off-Season Discounts on High-Performance Speaker Systems at Amazon</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-the-apple-m2-macbook-air-for-under-a-grand-on-amazon-sale-happens-way-ahead-of-october-prime-day-zdnet-news/"><u>Get the Apple M2 MacBook Air for Under a Grand on Amazon – Sale Happens Way Ahead of October Prime Day! | ZDNET News</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-3-proven-methods-to-enhance-your-music-archives/"><u>In 2024, 3 Proven Methods to Enhance Your Music Archives</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-16-vs-iphone-15-key-features-and-differences-before-your-next-apple-upgrade-techradar/"><u>IPhone 16 vs iPhone 15: Key Features and Differences Before Your Next Apple Upgrade | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-investing-in-ibrain-tech-worth-it-monthly-fees-could-reach-20-insights/"><u>Is Investing in iBrain Tech Worth It? Monthly Fees Could Reach $20 - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplified-steps-accessing-and-customizing-androids-quick-settings-menu/"><u>Simplified Steps: Accessing and Customizing Android's Quick Settings Menu</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/snag-the-new-299-10th-generation-apple-ipad-prime-day-special-covered/"><u>Snag the New $299 10Th Generation Apple iPad - Prime Day Special Covered</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-kid-friendly-ipad-models-of-2022-expert-picks-by-zdnet/"><u>Top 4 Kid-Friendly iPad Models of 2022: Expert Picks by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubling-phantom-taps-solutions-for-persistent-glitch-on-apple-watch-digital-trends/"><u>Troubling 'Phantom Taps': Solutions for Persistent Glitch on Apple Watch | Digital Trends</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-budget-friendly-marvel-iphone-amo-14-plus-offers-all-day-power-and-surprising-features-reviewed-on-zdnet/"><u>Unveiling the Budget-Friendly Marvel: IPhone Amo 14 Plus Offers All-Day Power & Surprising Features - Reviewed on ZDNET</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover Exciting Features: Exploring the New Possibilities of iPhone’s iOS 18 Beta Version on ZDNet"
-date: 2024-11-28T08:38:10.656Z
-updated: 2024-12-05T02:03:29.963Z
+date: 2024-12-05T10:56:50.447Z
+updated: 2024-12-10T17:26:51.188Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,20 +120,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-spectacular-showdowns-and-excursions-top-10-gaming-treasures/"><u>[New] 2024 Approved Spectacular Showdowns & Excursions – Top 10 Gaming Treasures</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-harmonious-hues-recording-with-a-mac-for-2024/"><u>[New] Harmonious Hues Recording with a Mac for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-real-time-capture-simplified-a-deep-dive-into-vimeo-record-for-2024/"><u>[New] Real-Time Capture Simplified A Deep Dive Into Vimeo Record for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-locate-lively-youtube-conversations/"><u>[Updated] 2024 Approved Locate Lively YouTube Conversations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/299-post-prime-day-offer-get-the-new-apple-ipad-10th-generation-exclusive-deals-on-zdnet/"><u>$299 Post-Prime Day Offer: Get the New Apple iPad 10Th Generation - Exclusive Deals on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-lovers-rejoice-lg-tvs-now-boast-exclusive-complimentary-sound-enhancements-discover-the-perks/"><u>Apple Lovers Rejoice: LG TVs Now Boast Exclusive, Complimentary Sound Enhancements - Discover the Perks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-top-3-new-features-in-the-latest-apple-airpod-series-unveiled-available-soon/"><u>Exclusive: Top 3 New Features in the Latest Apple AirPod Series Unveiled - Available Soon</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-cutting-edge-arithmetic-with-the-new-advanced-calculator-on-your-ipad-why-its-worth-picking-up-an-apple-pencil-today-zdnet-insights/"><u>Experience Cutting-Edge Arithmetic with the New Advanced Calculator on Your iPad - Why It's Worth Picking Up an Apple Pencil Today! | ZDNET Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-tips-and-techniques-for-building-a-rich-rpg-world-using-chatgpt/"><u>Expert Tips and Techniques for Building a Rich RPG World Using ChatGPT</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722996959812-halo-infinite-pc-lag-try-these-7-quick-fixes/"><u>Halo Infinite PC Lag? Try These 7 Quick Fixes!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-emerging-ai-chip-innovations-shaping-the-future/"><u>Top 5 Emerging AI Chip Innovations Shaping the Future</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-apples-picks-discover-the-ultimate-selection-of-apps-and-games-unveiled-by-zdnet/"><u>Top Apple's Picks: Discover the Ultimate Selection of Apps & Games - Unveiled by ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-ankers-super-bright-led-camping-lantern-a-top-notch-tactical-illuminator/"><u>Ultimate Guide to Anker's Super Bright LED Camping Lantern: A Top-Notch Tactical Illuminator</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-list-of-key-applications-for-pc-and-mac-users-insights-from-a-seasoned-pro-at-zdnet/"><u>Ultimate List of Key Applications for PC & Mac Users: Insights From a Seasoned Pro at ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-essential-scripts-for-advanced-affects-workflows/"><u>[New] In 2024, Essential Scripts for Advanced Affects Workflows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-maximizing-view-quality-on-team-meetings-in-ms-teams/"><u>[Updated] In 2024, Maximizing View Quality on Team Meetings in MS Teams</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-online-clarity-a-zoomers-guide/"><u>2024 Approved Capturing Online Clarity A Zoomer's Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-overview-of-apple-car-speculations-release-info-price-estimates-and-features/"><u>Comprehensive Overview of Apple Car Speculations - Release Info, Price Estimates, and Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-to-get-your-razer-kraken-mic-working-again/"><u>Effective Fixes to Get Your Razer Kraken Mic Working Again</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/free-to-learn-4-youtube-channels-unlocking-the-secrets-of-background-substitution/"><u>Free-to-Learn 4 YouTube Channels Unlocking the Secrets of Background Substitution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-your-macbook-air-m1-for-a-bargain-price-of-649-dont-miss-out-on-this-lowest-market-rate-shop-smart-with-zdnet/"><u>Get Your MacBook Air M1 for a Bargain Price of $649! Don't Miss Out on This Lowest Market Rate | Shop Smart with ZDNET</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/harnessing-your-phone-for-virtual-world-explorations/"><u>Harnessing Your Phone for Virtual World Explorations</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-realme-narzo-n55-by-drfone-android/"><u>How to Bypass FRP from Realme Narzo N55?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-restore-missing-d3dx927dll-for-smooth-system-operation/"><u>How to Restore Missing d3dx9_27.dll for Smooth System Operation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-nokia-150-2023-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Nokia 150 (2023) PC | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/interactive-timelines-for-greater-user-retention-on-fb/"><u>Interactive Timelines for Greater User Retention on FB</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-macos-creating-separate-network-spots-for-enhanced-internet-accessibility/"><u>Mastering MacOS: Creating Separate Network Spots for Enhanced Internet Accessibility</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-permissions-understanding-and-working-around-the-trustedinstaller-in-windows-11/"><u>Navigating Permissions: Understanding and Working Around the TrustedInstaller in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/parent-approved-kids-tablet-guide-top-products-featured/"><u>Parent Approved Kids Tablet Guide - Top Products Featured</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-right-way-to-secure-your-tech-devices-with-an-appropriate-surge-protector/"><u>The Right Way to Secure Your Tech Devices with an Appropriate Surge Protector</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-guide-restoring-and-repairing-failed-icloud-backups/"><u>Troubleshooting Guide: Restoring and Repairing Failed iCloud Backups</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncover-the-mystery-detecting-if-someones-using-an-airtag-on-you/"><u>Uncover the Mystery: Detecting If Someone's Using an AirTag on You</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-your-vr-experience-establishing-a-personalized-oculus-quest-or-quest-2-presence/"><u>Unlocking Your VR Experience: Establishing a Personalized Oculus Quest or Quest 2 Presence</u></a></li>
 </ul></div>
 

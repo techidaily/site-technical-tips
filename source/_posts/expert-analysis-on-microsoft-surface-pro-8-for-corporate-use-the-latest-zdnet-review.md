@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis on Microsoft Surface Pro 8 for Corporate Use – The Latest ZDNet Review
-date: 2024-11-27T16:08:10.347Z
-updated: 2024-12-04T16:29:49.746Z
+date: 2024-12-08T00:36:58.350Z
+updated: 2024-12-11T08:52:43.069Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
@@ -53,7 +49,7 @@ Jason Cipriani/ZDNet
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -93,6 +89,10 @@ I already had the combo kit, so that's what I've been using during my testing.
 Regardless of which keyboard you pick up, all of them have a slot for a Surface Slim Pen 2 above the keyboard. When it's folded up, the pen rests against the Pro 8's bottom bezel. It wirelessly charges the pen, so it's constantly ready for use. 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
 
@@ -137,10 +137,6 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -154,7 +150,7 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -170,10 +166,14 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,14 +212,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-gif-galore-converting-tweet-videos-at-zero-cost/"><u>[New] 2024 Approved GIF Galore Converting Tweet Videos at Zero Cost</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-expert-strategies-for-flawless-green-screen-videos/"><u>[Updated] 2024 Approved Expert Strategies for Flawless Green-Screen Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-thrillers-to-crowns-exclusive-radio-coverage-of-mens-ncaa-basketball-and-final-four/"><u>From Thrillers to Crowns - Exclusive Radio Coverage of Men’s NCAA Basketball & Final Four!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-resolve-d3dx939dll-error-messages-for-windows-users/"><u>How to Resolve 'd3dx9_39.dll' Error Messages for Windows Users</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-official-ricoh-printer-drivers-on-windows-step-by-step-guide/"><u>Install Official Ricoh Printer Drivers on Windows - Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-boosting-your-insta-presence-with-meta-ai-tools/"><u>The Ultimate Guide to Boosting Your Insta Presence with Meta AI Tools</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-walkthrough-to-remote-diagnostic-examination-of-your-iphone-with-apple/"><u>The Ultimate Walkthrough to Remote Diagnostic Examination of Your iPhone with Apple</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-unlocking-built-in-fm-radio-on-smartphones/"><u>The Ultimate Walkthrough: Unlocking Built-In FM Radio on Smartphones</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-your-win11-status-key-indicators-and-checks-for-uptime/"><u>Understanding Your Win11 Status: Key Indicators and Checks for Uptime</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-experts-at-work-swift-professional-thumbnails-for-valorant-highlights/"><u>2024 Approved Experts at Work Swift, Professional Thumbnails for Valorant Highlights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-free-top-10-facebook-video-downloader-for-android/"><u>2024 Approved FREE Top 10 Facebook Video Downloader for Android</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-apples-enthralling-vision-why-they-believe-goggles-are-the-future-of-tech-a-detailed-exploration/"><u>Discover Apple's Enthralling Vision: Why They Believe Goggles Are the Future of Tech - A Detailed Exploration</u></a></li>
+<li><a href="https://common-error.techidaily.com/handling-exceptions-fixing-memory-could-not-be-written-error-due-to-improper-references/"><u>Handling Exceptions: Fixing 'Memory Could Not Be Written' Error Due to Improper References</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-y36i-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y36i?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mkv-playback-mac-app-selection-guide/"><u>In 2024, MKV Playback Mac App Selection Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-upgrade-with-ios-18-find-out-eligibility-and-easy-download-instructions-for-latest-apple-os-update-gadgetdaily/"><u>IPhone Upgrade with iOS 18! Find Out Eligibility & Easy Download Instructions for Latest Apple OS Update | GadgetDaily</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-complete-guide-how-to-edit-movies-or-video-download-online/"><u>New In 2024, Complete Guide How to Edit Movies or Video Download Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-economic-aspects-of-making-a-music-video/"><u>The Economic Aspects of Making a Music Video</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/to-upgrade-or-not-pros-and-cons-of-switching-to-iphone-16-insights-experts/"><u>To Upgrade or Not: Pros & Cons of Switching to iPhone 16 - Insights Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncover-deleted-phone-details-step-by-step-restoration-for-android-phones/"><u>Uncover Deleted Phone Details: Step-by-Step Restoration for Android Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-ios-175s-remarkable-photo-recovery-feature-insights-from-apple/"><u>Understanding iOS 17.5'S Remarkable Photo Recovery Feature: Insights From Apple</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-free-video-editing-solutions-for-32-bit-windows-our-top-picks/"><u>Updated 2024 Approved Free Video Editing Solutions for 32-Bit Windows Our Top Picks</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-10-ai-subtitle-translators-for-content-creators/"><u>Updated 2024 Approved Top 10 AI Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/want-to-use-your-macbook-with-a-closed-lid-heres-how-not-to-let-it-go-to-sleep/"><u>Want to Use Your MacBook with a Closed Lid? Here's How Not to Let It Go To Sleep</u></a></li>
 </ul></div>
 

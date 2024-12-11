@@ -1,7 +1,7 @@
 ---
 title: "Patently Innovative: How the New Vision Pro Controller Mirrors Apple's Iconic Stylus, According to a Recent Filing | ZDNET"
-date: 2024-12-01T21:22:46.385Z
-updated: 2024-12-05T05:06:23.584Z
+date: 2024-12-08T10:07:49.922Z
+updated: 2024-12-10T16:58:59.050Z
 tags:
   - apple
 categories:
@@ -75,25 +75,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-content-compromise-rapid-deletion-dilemma/"><u>[Updated] 2024 Approved Content Compromise Rapid Deletion Dilemma</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-ranking-the-most-reliable-youtube-mp3-converters/"><u>[Updated] In 2024, Ranking the Most Reliable YouTube Mp3 Converters</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-personalizing-the-perfect-pixel-rhythm/"><u>2024 Approved Personalizing the Perfect Pixel Rhythm</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/affordable-alternatives-to-apple-vision-pro-and-meta-quest-3-found-in-xr-headset-options-techreview/"><u>Affordable Alternatives to Apple Vision Pro & Meta Quest 3 Found in XR Headset Options | TechReview</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/five-effective-ways-to-open-mpeg-video-files-in-windows-11-a-comprehensive-guide/"><u>Five Effective Ways to Open MPEG Video Files in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Poco X6? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-vivo-y78plus-t1-edition-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Vivo Y78+ (T1) Edition Data? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-ideal-interactive-interface-for-podcasters/"><u>In 2024, Ideal Interactive Interface for Podcasters</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/labor-day-sale-alert-snag-the-new-gen-apple-pencil-for-70-off-now-just-95-insider-tips/"><u>Labor Day Sale Alert: Snag the New-Gen Apple Pencil for 70% Off, Now Just $95 | Insider Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionizing-wellness-how-a-visit-to-the-bathroom-can-provide-health-insights-techhealth-review/"><u>Revolutionizing Wellness: How a Visit to the Bathroom Can Provide Health Insights | TechHealth Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-best-new-macs-of-2024-tech-insights-by-zdnet/"><u>Ultimate Guide to the Best New Macs of 2024 | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-best-note-taking-tablets-of-2024-rigorously-reviewed-zdnet/"><u>Ultimate Guide to the Best Note-Taking Tablets of 2024 - Rigorously Reviewed | ZDNET</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleashing-creativity-with-pro-gopro-guidance/"><u>Unleashing Creativity with Pro-GoPro Guidance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-ultimate-collection-of-wireless-charger-picks-for-2e24-professional-evaluation-zdnet/"><u>Unveiling the Ultimate Collection of Wireless Charger Picks for 2E24: Professional Evaluation | ZDNET</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y36i-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y36i Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-the-heck-is-a-502-error-unraveling-this-server-mishap-and-how-you-can-fix-it-efficiently/"><u>What the Heck Is a 502 Error? Unraveling This Server Mishap and How You Can Fix It Efficiently</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-cultivating-your-persona-in-the-world-of-gamers-for-2024/"><u>[Updated] Cultivating Your Persona in the World of Gamers for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-samsung-galaxy-s23-tactical-edition-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Samsung Galaxy S23 Tactical Edition?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-walkthrough-making-the-most-out-of-google-gemini/"><u>Comprehensive Walkthrough: Making The Most Out Of Google Gemini</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/determining-if-its-a-global-issue-is-blizzards-battlenet-down-or-just-your-connection/"><u>Determining If It's a Global Issue: Is Blizzard's Battle.net Down, Or Just Your Connection?</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-poco-m6-pro-4g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Poco M6 Pro 4G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-our-pick-of-the-best-no-cost-system-registry-tools/"><u>Explore Our Pick of the Best No-Cost System Registry Tools .</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-data-recovery-recover-lost-data-from-honor-90-gt-by-fonelab-android-recover-data/"><u>Honor Data Recovery – recover lost data from Honor 90 GT</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-realme-gt-3-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Realme GT 3 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-scoop-on-android-16s-release-date-no-cost-features-and-cutting-edge-specs-all-the-rumors-you-need/"><u>Inside Scoop on Android 16'S Release Date, No-Cost Features, and Cutting-Edge Specs: All the Rumors You Need!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-gpt-into-daily-life-against-loneliness/"><u>Integrating GPT Into Daily Life Against Loneliness</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171169650-minim-led-slim-gammonitor-budget-great-value/"><u>Minim LED Slim - GamMonitor Budget, Great Value!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mrsa-and-penicillin-resistant-streptococcus-pneumoniae-require-alternative-treatments-to-standard-antibiotics/"><u>MRSA and Penicillin-Resistant Streptococcus Pneumoniae Require Alternative Treatments to Standard Antibiotics.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722879415464-the-samsung-galaxy-z-flip-6-a-comprehensive-guide-to-its-market-release-cost-and-unique-features/"><u>The Samsung Galaxy Z Flip 6: A Comprehensive Guide to Its Market Release, Cost and Unique Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-absent-dbghelpdll-error-in-your-system/"><u>Troubleshooting the Absent Dbghelp.dll Error in Your System</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-full-potential-mastering-multiple-screens-in-win11/"><u>Unlock Full Potential: Mastering Multiple Screens in Win11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/untangling-dll-dilemmas-effective-solutions-for-handling-msvcr70dll-disappearance-errors/"><u>Untangling DLL Dilemmas: Effective Solutions for Handling MSVCR70.DLL Disappearance Errors</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

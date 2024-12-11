@@ -1,7 +1,7 @@
 ---
 title: "Building Your Dream Gaming PC: An RTX 4070 Rig Complete with a 2TB SSD Under Budget at Just $1,000 - Exclusive Prime Day Guide"
-date: 2024-09-04T00:48:57.286Z
-updated: 2024-09-05T00:48:57.286Z
+date: 2024-12-06T08:24:21.739Z
+updated: 2024-12-10T22:20:21.516Z
 tags:
   - desktop
 categories:
@@ -41,6 +41,10 @@ These are the specifications of the two Asus ROG NUC models:
 
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,14 +53,11 @@ These are the specifications of the two Asus ROG NUC models:
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -65,17 +66,19 @@ These are the specifications of the two Asus ROG NUC models:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-tactical-guide-to-screening-meetings-on-mobilepc/"><u>[New] Tactical Guide to Screening Meetings on Mobile/PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-ultimate-framework-for-fullscreen-proficiency-in-premiere/"><u>[Updated] 2024 Approved The Ultimate Framework for Fullscreen Proficiency in Premiere</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ultimate-speed-loading-windows-photo-displayer/"><u>[Updated] Ultimate Speed-Loading Windows Photo Displayer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avoid-ipad-malfunction-with-new-ios-eighteen-expert-advice-on-safe-upgrade-steps-gadgetcentral/"><u>Avoid iPad Malfunction with New iOS Eighteen - Expert Advice on Safe Upgrade Steps | GadgetCentral</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-artisanfusion-8k-montage-magic-toolkit/"><u>In 2024, ArtisanFusion 8K Montage Magic Toolkit</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-discovering-your-youtube-unique-slot/"><u>In 2024, Discovering Your YouTube Unique Slot</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-visual-impact-expert-guide-to-crop-your-instagram-content/"><u>In 2024, Visual Impact Expert Guide to Crop Your Instagram Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/laptop-editing-beyond-inshot-tools-for-2024/"><u>Laptop Editing Beyond Inshot Tools for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/launching-the-latest-exploring-new-features-of-the-apple-iphone/"><u>Launching the Latest: Exploring New Features of the Apple iPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-transfer-of-images-from-google-photos-to-icloud-made-simple-techguide/"><u>Seamless Transfer of Images From Google Photos to iCloud Made Simple | TechGuide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/smart-sound-showdown-deciding-between-apples-homepod-and-homepod-mini-for-ultimate-audio-experience-tech-insights-by-zdnet/"><u>Smart Sound Showdown: Deciding Between Apple's HomePod & HomePod Mini for Ultimate Audio Experience | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-tablets-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated Tablets - Comprehensive Reviews by Tech Gurus</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="540" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

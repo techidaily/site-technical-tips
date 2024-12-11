@@ -1,7 +1,7 @@
 ---
 title: "Mastering Messaging: Setting Up Slack Push Notifications for iPhone Series | Expert Tips"
-date: 2024-11-28T18:07:22.031Z
-updated: 2024-12-05T04:50:22.645Z
+date: 2024-12-10T06:47:10.219Z
+updated: 2024-12-11T04:14:47.497Z
 tags:
   - apple
 categories:
@@ -55,7 +55,7 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
@@ -72,16 +72,12 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -123,7 +119,7 @@ So, make sure you set the Start and End times that fit with your schedule.
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable Slack notifications in the Watch app
@@ -131,7 +127,7 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -139,6 +135,10 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,20 +179,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-full-assessment-razers-hd-webcam/"><u>[Updated] 2024 Approved Full Assessment Razer's HD Webcam</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-the-aesthetic-almanac-makeup-hair-and-more-on-youtube/"><u>[Updated] The Aesthetic Almanac Makeup, Hair & More on YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/addressing-disc-read-errors-on-your-wiimote-a-users-manual/"><u>Addressing Disc Read Errors on Your Wiimote - A User's Manual</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/all-weather-wonders-exploring-the-kobo-libra-h2os-resilient-reading-experience/"><u>All-Weather Wonders: Exploring the Kobo Libra H2O's Resilient Reading Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-carplay-revolutionized-upgrade-check-out-top-highlights-from-wwdc-announcement-insights-and-analysis/"><u>Apple CarPlay Revolutionized Upgrade! Check Out Top Highlights From WWDC Announcement | Insights & Analysis</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/conversion-gratuita-de-archivo-m4a-a-mp3-online-con-ease/"><u>Conversión Gratuita De Archivo M4A a MP3 Online Con Ease</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-on-restoring-your-beyond-the-wire-microphone-to-full-functionality/"><u>Expert Tips on Restoring Your 'Beyond The Wire' Microphone to Full Functionality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-ready-for-the-refreshed-apple-watch-se-affordable-model-gets-major-facelift-soon-the-latest-insights/"><u>Get Ready for the Refreshed Apple Watch SE: Affordable Model Gets Major Facelift Soon - The Latest Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-it-when-a-roku-tv-wont-turn-on/"><u>How to Fix It When a Roku TV Won't Turn On</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-y77t-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y77t Fingerprint Lock</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-lava-blaze-2-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Lava Blaze 2 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionizing-your-hotel-stay-discover-apple-airplay-integration-in-select-accommodations-and-master-the-features/"><u>Revolutionizing Your Hotel Stay: Discover Apple AirPlay Integration in Select Accommodations & Master the Features!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/set-up-slack-push-notifications-for-iphone-and-apple-watch-tutorial-by-zdnet/"><u>Set Up Slack Push Notifications for iPhone & Apple Watch - Tutorial by ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oppo-a56s-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Oppo A56s 5G Phone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultrawide-vs-uhd-4k-monitor-showdown-top-picks-for-2024/"><u>UltraWide VS UHD 4K Monitor Showdown Top Picks for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-detailed-instructions-maximizing-mobizen-record-functionality/"><u>[New] In 2024, Detailed Instructions Maximizing Mobizen Record Functionality</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-sharing-vimeo-content-instagram-tips/"><u>[New] Sharing Vimeo Content Instagram Tips</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-essential-top-5-ultra-light-video-capturers-guide/"><u>[Updated] In 2024, Essential Top 5 Ultra-Light Video Capturers Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-ideal-asmr-channel-selections/"><u>[Updated] In 2024, Ideal ASMR Channel Selections</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unlock-the-secrets-to-preserving-web-streamed-tv-shows/"><u>2024 Approved Unlock the Secrets to Preserving Web-Streamed Tv Shows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210895308-9798987160619-confidently-mindful/"><u>Confidently Mindful | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-secret-superiority-of-iphones-unexpected-features-spotlighted/"><u>Discover the Secret Superiority of iPhones - Unexpected Features Spotlighted</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-geforce-gtx-1050-graphics-card-drivers-quick-and-easy-download-guide/"><u>Latest GeForce GTX 1050 Graphics Card Drivers: Quick & Easy Download Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-srt-subtitle-translation-tools-and-techniques/"><u>New 2024 Approved SRT Subtitle Translation Tools and Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722874603857-samsung-galaxy-z-fold-6s-arrival-get-ahead-with-release-dates-pricing-info-and-key-features/"><u>Samsung Galaxy Z Fold 6'S Arrival: Get Ahead with Release Dates, Pricing Info and Key Features!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-how-to-stream-tiktok-videos-onto-your-television/"><u>Step-by-Step Guide: How To Stream TikTok Videos Onto Your Television</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-premium-ipad-extras-recommended-by-zdnet/"><u>The Ultimate Guide to Premium iPad Extras – Recommended by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-tech-picks-apple-vs-dell-and-beyond-in-the-latest-comparison/"><u>Top Tech Picks : Apple Vs. Dell & Beyond in the Latest Comparison</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-potential-maximize-your-iphone-with-ios-16-features-a-comprehensive-guide-zdnet/"><u>Unlocking Potential: Maximize Your iPhone with IOS 16 Features - A Comprehensive Guide | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-expect-when-ordering-apple-vision-pro-before-release-insights-from-zdnet/"><u>What to Expect When Ordering Apple Vision Pro Before Release - Insights From ZDNet</u></a></li>
 </ul></div>
 

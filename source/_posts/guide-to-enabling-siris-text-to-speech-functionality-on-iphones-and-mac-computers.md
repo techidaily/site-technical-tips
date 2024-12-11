@@ -1,7 +1,7 @@
 ---
 title: Guide to Enabling Siri’s Text-to-Speech Functionality on iPhones & Mac Computers
-date: 2024-09-04T00:48:59.252Z
-updated: 2024-09-05T00:48:59.252Z
+date: 2024-12-08T03:10:10.966Z
+updated: 2024-12-11T04:00:36.313Z
 categories:
   - BestProducts
 description: This Article Describes Guide to Enabling Siri’s Text-to-Speech Functionality on iPhones & Mac Computers
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/Pu8Qc_ne-xLo2nqTKEia1Gu6sBc=/400x300/fi
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Ways to Fix the Problem
 
@@ -38,6 +42,10 @@ thumbnail: https://www.lifewire.com/thmb/Pu8Qc_ne-xLo2nqTKEia1Gu6sBc=/400x300/fi
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -50,6 +58,10 @@ thumbnail: https://www.lifewire.com/thmb/Pu8Qc_ne-xLo2nqTKEia1Gu6sBc=/400x300/fi
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -80,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,11 +99,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/treamline-your-online-listening-experience-with-direct-capture/"><u>[New] Streamline Your Online Listening Experience with Direct Capture</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-evaluating-video-coders-are-you-team-av1-or-vp9/"><u>[Updated] 2024 Approved Evaluating Video Coders Are You Team Av1 or VP9?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unveiling-the-secrets-of-ken-burns-motion-in-camtasa/"><u>[Updated] Unveiling the Secrets of Ken Burns Motion in Camtasa</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/customizing-the-control-center-on-iphone-the-complete-guide-for-ios-18-iphone-techradar/"><u>Customizing the Control Center on iPhone: The Complete Guide for iOS 18 (iPhone) - TechRadar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-freeform-thinking-boosts-creativity-discover-the-benefits-of-using-this-technique-in-your-brainstorming-sessions-zdnet/"><u>How Freeform Thinking Boosts Creativity: Discover the Benefits of Using This Technique in Your Brainstorming Sessions | ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-phone-without-pin-by-drfone-android/"><u>How to Unlock Sony Phone without PIN</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-v27-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo V27 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-possible-for-windows-with-new-arm-developments-to-exceed-the-efficiency-of-apple-silicon-machines/"><u>Is It Possible for Windows with New ARM Developments to Exceed the Efficiency of Apple Silicon Machines?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/maximize-earnings-navigating-youtubes-partner-program-updates/"><u>Maximize Earnings Navigating YouTube's Partner Program Updates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimize-your-macs-battery-life-with-monetary-low-power-strategies-from-zdnet-experts/"><u>Optimize Your Mac's Battery Life with Monetary Low Power Strategies From ZDNet Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-apple-watchs-endurance-discover-8-key-settings-to-boost-battery-performance-tips-by-zdnet/"><u>Revolutionize Your Apple Watch's Endurance: Discover 8 Key Settings to Boost Battery Performance | Tips by ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-of-tablet-displays-unveiling-insights-from-apples-ipad-pro-with-tandem-oled-technology-zdnet/"><u>The Future of Tablet Displays: Unveiling Insights From Apple's iPad Pro with Tandem OLED Technology | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-mac-vpn-services-comprehensive-testing-and-reviews-tech-savvy-insights/"><u>Top-Rated Mac VPN Services: Comprehensive Testing & Reviews - Tech Savvy Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-audio-waves-top-10-bgm-for-youtube-short-videos/"><u>Viral Audio Waves Top 10 BGM for YouTube Short Videos</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

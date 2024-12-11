@@ -1,7 +1,7 @@
 ---
 title: "Tom's Hardware Explained: Your Go-To Source for Tech Reviews & News"
-date: 2024-09-04T00:48:59.136Z
-updated: 2024-09-05T00:48:59.136Z
+date: 2024-12-05T03:32:07.108Z
+updated: 2024-12-11T04:42:30.582Z
 tags:
   - desktop
 categories:
@@ -41,6 +41,10 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,14 +53,11 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -65,11 +66,24 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-screencapture-pro-latest-2023-edition-review/"><u>[Updated] 2024 Approved ScreenCapture Pro Latest 2023 Edition Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-figure-skating-highlights-2022-winter-olympics/"><u>[Updated] Figure Skating Highlights 2022 Winter Olympics</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-honor-magic-6-lite-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Honor Magic 6 Lite Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-m14-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy M14 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avoid-these-4-apple-gadgets-in-the-market-expert-review-and-advice-digitalgurunews/"><u>Avoid These 4 Apple Gadgets in the Market: Expert Review & Advice | DigitalGuruNews</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cease-receiving-junk-text-alerts-a-user-friendly-guide-to-stop-spam-sms-on-iphones-in-just-three-steps-zdnet/"><u>Cease Receiving Junk Text Alerts: A User-Friendly Guide to Stop Spam SMS on iPhones in Just Three Steps | ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevating-listeners-a-comprehensive-guide-to-podcast-seo/"><u>Elevating Listeners A Comprehensive Guide to Podcast SEO</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/gaming-consoles-unveiled-the-ultimate-5-considerations-before-your-buy-decision/"><u>Gaming Consoles Unveiled: The Ultimate 5 Considerations Before Your Buy Decision</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-your-broken-xbox-series-xs-and-send-it-in-for-repair/"><u>How to Fix Your Broken Xbox Series X|S and Send It In for Repair</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-itel-p55plus-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Itel P55+ Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-mastering-lyric-videos-lyric-video-maker-guide/"><u>In 2024, Mastering Lyric Videos Lyric Video Maker Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-15-pro-vs-iphone-14-pro-assessing-the-enhancements-in-apples-newest-release-tech-analysis/"><u>IPhone 15 Pro vs iPhone 14 Pro: Assessing the Enhancements in Apple's Newest Release | Tech Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mac-mini-vs-mac-studio-showdown-the-performance-edge-of-the-apple-m2-over-m1-chip-tech-analysis-by-zdnet/"><u>Mac Mini vs Mac Studio Showdown: The Performance Edge of the Apple M2 over M1 Chip | Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-lack-of-audio-output-from-your-receiver-effective-solutions-and-tips/"><u>Solve Lack of Audio Output From Your Receiver: Effective Solutions and Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-of-wearables-tech-news-reveals-apple-to-unveil-cameras-inside-airpods-by-2026-reported-on-zdnet/"><u>The Future of Wearables: Tech News Reveals Apple to Unveil Cameras Inside AirPods by 2026 | Reported on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-fix-for-opengl32dll-file-missing-errors-on-your-computer/"><u>The Ultimate Fix for OpenGL32.dll File Missing Errors on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-destinations-for-purchasing-mobile-devices/"><u>Top Destinations for Purchasing Mobile Devices</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

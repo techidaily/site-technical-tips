@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Latest: Anticipated Release of New iPhone Models"
-date: 2024-09-04T00:48:59.191Z
-updated: 2024-09-05T00:48:59.191Z
+date: 2024-12-03T16:44:09.259Z
+updated: 2024-12-11T07:57:29.604Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Latest: Anticipated Release of New iPhone Models"
@@ -27,26 +27,22 @@ thumbnail: https://thmb.techidaily.com/d16299364ff8a12ac1730983e510ad0f5d0273900
 
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Price Rumors
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
@@ -58,11 +54,9 @@ thumbnail: https://thmb.techidaily.com/d16299364ff8a12ac1730983e510ad0f5d0273900
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Apple, Inc / USPTO
 
  It's not hard to imagine that this device could be a next-generation AirPods product. It also brings to mind wearable computers like the[Humane AI pin](https://www.theverge.com/24126502/humane-ai-pin-review) . While that particular product hasn't succeeded, the concept of a wearable device with a next-generation interface could likely crop up more in the coming years.
@@ -73,11 +67,9 @@ Apple, Inc / USPTO
 * Microphones for commands, user identification, and calibration.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -87,23 +79,15 @@ Apple, Inc / USPTO
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
  Lifewire delivers all the latest news and opinions about[ear buds and other wearable devices](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Some articles in these areas that might interest you include:
@@ -114,14 +98,11 @@ Apple, Inc / USPTO
 
 [What Is Apple Intelligence?](https://www.lifewire.com/what-is-apple-gpt-7571221)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,4 +111,24 @@ Apple, Inc / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-best-practices-apps-and-sites-mastering-photo-framing-for-2024/"><u>[New] Best Practices Apps & Sites - Mastering Photo Framing for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-frame-rate-impact-on-video-quality-30vs60-in-detail-for-2024/"><u>[New] Frame Rate Impact on Video Quality 30Vs.60 In Detail for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhance-audio-visual-fidelity-use-av1-on-youtube/"><u>2024 Approved Enhance Audio-Visual Fidelity Use AV1 on YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-complimentary-malware-solutions-of-2024-for-optimal-pc-safety/"><u>Discover the Best Complimentary Malware Solutions of 2024 for Optimal PC Safety</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ensuring-perfect-fit-can-you-use-an-iphone-13-case-with-the-brand-new-iphone-14/"><u>Ensuring Perfect Fit: Can You Use an iPhone 13 Case with the Brand-New iPhone 14?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-realme-11-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Realme 11 5G Phone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-fix-the-frustrating-error-126-unable-to-connect-on-your-pc/"><u>How to Fix the Frustrating 'Error 126: Unable to Connect' On Your PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-look-apples-vision-of-camera-equipped-airpods-expected-in-2026-insights-from-zdnet/"><u>Inside Look: Apple's Vision of Camera-Equipped AirPods Expected in 2026 - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-16-pro-vs-iphone-14-pro-unveiling-if-the-new-generation-justifies-the-investment-insights-from-zdnet/"><u>IPhone 16 Pro vs iPhone 14 Pro: Unveiling If The New Generation Justifies The Investment - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-languages-easily-our-handpicked-selection-of-9-premium-free-learning-sites/"><u>Master Languages Easily – Our Handpicked Selection of 9 Premium-Free Learning Sites</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-your-entertainment-budget-with-the-2019-tcl-50s425-50-roku-smart-tv-a-thorough-product-and-value-assessment/"><u>Maximizing Your Entertainment Budget with the 2019 TCL 50S425 50 Roku Smart TV: A Thorough Product & Value Assessment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-account-protection-change-your-credentials-with-ease-on-x-previously-known-as-twitter/"><u>Navigating Account Protection: Change Your Credentials with Ease on X (Previously Known as Twitter)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-resolving-missing-wmvcoredll-errors-on-your-computer/"><u>Solutions for Resolving Missing wmvcore.dll Errors on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncovering-a-major-weakness-in-apples-recent-device-theft-deterrent-expert-fixes-and-improvements-gadgetguardian/"><u>Uncovering a Major Weakness in Apple's Recent Device Theft Deterrent - Expert Fixes & Improvements | GadgetGuardian</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-engaging-videos-the-top-explainer-video-software/"><u>Unleash Engaging Videos The Top Explainer Video Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/whats-next-after-gpt-4-anticipating-the-arrival-of-gpt-5/"><u>What's Next After GPT-4: Anticipating the Arrival of GPT-5?</u></a></li>
+</ul></div>
 

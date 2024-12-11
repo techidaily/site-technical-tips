@@ -1,7 +1,7 @@
 ---
 title: "Marvel at Apple’s Wearable Future: Embracing Goggles as the Next Big Thing | ZDNET Insights"
-date: 2024-11-29T22:41:50.712Z
-updated: 2024-12-05T11:02:14.839Z
+date: 2024-12-10T06:39:38.898Z
+updated: 2024-12-11T06:33:23.938Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's the camera, stupid
@@ -67,7 +67,7 @@ Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## And it's the movies
@@ -89,7 +89,7 @@ Apple explains: "Longer battery life lets you watch up to 3 more hours of video 
 That's the thing when people buy phones. They prefer actual results. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
@@ -150,17 +150,19 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-surfers-choice-ultimate-cam-tech-review-2023/"><u>[New] 2024 Approved Surfer’s Choice Ultimate Cam Tech Review 2023</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-behind-the-screen-samsung-ue590-4k-freesync-analysis-for-2024/"><u>[Updated] Behind the Screen Samsung UE590 4K, FreeSync Analysis for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-smile-stashers-the-ultimate-list-of-meme-makers/"><u>[Updated] In 2024, Smile Stashers The Ultimate List of Meme Makers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2024s-premier-ipad-air-cases-showdown-in-depth-analysis-and-picks-by-tech-gurus/"><u>2024'S Premier iPad Air Cases Showdown: In-Depth Analysis & Picks by Tech Gurus</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/battle-of-the-macbook-airs-analyzing-performance-differences-between-apples-latest-m3-and-m2-processors-gadgetguru/"><u>Battle of the MacBook Airs: Analyzing Performance Differences Between Apple's Latest M3 & M2 Processors | GadgetGuru</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-efficiency-on-the-go-explore-the-latest-upgrades-in-our-favorite-ar-glasses-for-productivity-and-travel-zdnet/"><u>Boost Your Efficiency on the Go – Explore The Latest Upgrades in Our Favorite AR Glasses for Productivity and Travel | ZDNET</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/complete-step-by-step-tutorial-on-retrieving-information-from-your-patriot-sd-card/"><u>Complete Step-by-Step Tutorial on Retrieving Information From Your Patriot SD Card</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-the-mfplatdll-missing-error-expert-solutions-for-smooth-operations/"><u>Fixing the mfplat.dll Missing Error: Expert Solutions for Smooth Operations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-selecting-sacred-sounds-a-step-by-step-guide/"><u>In 2024, Selecting Sacred Sounds A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/polishing-your-channels-auditory-appeal-on-youtube/"><u>Polishing Your Channel's Auditory Appeal on YouTube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revealing-hidden-shortcuts-a-comprehensive-guide-to-using-the-concealed-path-panel/"><u>Revealing Hidden Shortcuts: A Comprehensive Guide to Using the Concealed Path Panel</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-forging-strong-connections-building-youtube-backlinks-right/"><u>[New] Forging Strong Connections Building YouTube Backlinks Right</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-comprehensive-guide-to-whatsapp-vocal-exchange-for-2024/"><u>[Updated] Comprehensive Guide to WhatsApp Vocal Exchange for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-an-easy-way-to-amplify-your-instagram-presence-by-sharing-youtube-links-in-stories/"><u>2024 Approved An Easy Way to Amplify Your Instagram Presence by Sharing YouTube Links in Stories</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-avoiding-common-pitfalls-in-youtube-sponsorships-according-to-famebit/"><u>2024 Approved Avoiding Common Pitfalls in YouTube Sponsorships, According to FameBit</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/m4a-wav/"><u>移動電話 M4A 到 WAV 無限制免費線上音頻格式翻譯 - 動派流式視頻編解碼器</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-hooking-up-three-screens-to-one-computer-system/"><u>Expert Tips for Hooking Up Three Screens to One Computer System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-depth-discovering-royal-matchs-layered-structure/"><u>Exploring the Depth: Discovering Royal Match's Layered Structure</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-x3daudiodll-missing-or-not-found-errors/"><u>How to Fix X3daudio.dll Missing or Not Found Errors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimizing-podcast-visibility-via-instagram-channels/"><u>In 2024, Optimizing Podcast Visibility via Instagram Channels</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maintain-anonymity-learn-how-to-conceal-phone-numbers-using-android-settings/"><u>Maintain Anonymity: Learn How to Conceal Phone Numbers Using Android Settings</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-evolution-continues-tcl-boosts-its-lineup-with-a-staggering-19-upgrades-to-the-q-and-s-series-smart-tvs/"><u>The Evolution Continues: TCL Boosts Its Lineup with a Staggering 19 Upgrades to the Q and S Series Smart TVs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-gear-and-hardware-insights/"><u>Tom's Tech Review: Gear and Hardware Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-top-strategies-for-setting-up-your-super-bowl-viewing-experience/"><u>Ultimate Guide: Top Strategies for Setting Up Your Super Bowl Viewing Experience</u></a></li>
 </ul></div>
 

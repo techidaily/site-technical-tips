@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential: Maximize Your iPhone with IOS 16 Features - A Comprehensive Guide | ZDNet"
-date: 2024-12-03T01:47:46.436Z
-updated: 2024-12-05T11:04:41.442Z
+date: 2024-12-04T02:05:19.382Z
+updated: 2024-12-10T22:39:29.036Z
 tags:
   - apple
 categories:
@@ -102,10 +102,6 @@ Share: Are you prepared for the future of AI, automation, and jobs?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F "Twitter") 
@@ -119,7 +115,7 @@ Apple's latest software update to the Mac and iPad has enabled a feature that, n
 That means when you move your Mac's pointer beyond the edge of your screen, it will automatically switch to your iPad and allow you to use iPadOS without switching devices. To be clear, Universal Control isn't only designed to work between an iPad and a Mac. It'll actually work between multiple Macs as well. For the purpose of this guide, I'm going to stick to using it between and iPad and Mac to cover both devices. But you could easily do the same thing with two Macs by following the steps below. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -132,7 +128,7 @@ That means when you move your Mac's pointer beyond the edge of your screen, it w
 There are a couple of things you'll need to do before you can use Universal Control. I'll walk you through the initial setup, and then how to use it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Update your Mac and iPad
@@ -143,6 +139,10 @@ On a Mac, open **System Preferences**, then select **Software Update**.
 
 On your iPad, open the **Settings app** then go to **General** \> **Software Update** and follow the prompts. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to set up Universal Control on your iPad
 
 Screenshot by Jason Cipriani/ZDNet
@@ -152,7 +152,7 @@ There isn't a dedicated Universal Control setting or section in iPadOS. In fact,
 In order to make sure your iPad is setup, open the **Settings app** then select **General** \> **AirPlay & Handoff**. Next, make sure the switch next to **Cursor and Keyboard** is turned _On_. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your Mac
@@ -162,10 +162,6 @@ Screenshot by Jason Cipriani/ZDNet
 The Mac does have a dedicated Universal Control section where you can turn the feature on or off and adjust settings. Open **System Preferences** then click on **Displays** \> **Universal Control**. 
 
 Check the box next to **Allow your cursor and keyboard to move between any nearby Mac or iPad,** then click **Done**. Leave the other two boxes checked. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to use Universal Control between your Mac and iPad
 
@@ -180,6 +176,10 @@ Pretty cool, right? Notice that the iPad isn't simply acting as an external moni
 Want to go back to your Mac? Drag the mouse pointer off the iPad's screen in the direction of your Mac. Boom. 
 
 You can even drag and drop documents between your Mac or iPad, instead of waiting for iCloud Drive to sync or if, for example, you were drawing out an idea in the Notes app with the Apple Pencil on your iPad -- you can easily move that to your Mac once you're finished. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Arrange your displays, adjust settings
 
@@ -239,16 +239,16 @@ Finally, if you're still not having any luck, it could be that your device isn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-essential-steps-to-enhance-your-gopro-cinematography-for-2024/"><u>[New] Essential Steps to Enhance Your Gopro Cinematography for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-247-wellness-monitoring-with-garmin-venu-your-ultimate-activity-tracker/"><u>Experience 24/7 Wellness Monitoring with Garmin Venu: Your Ultimate Activity Tracker</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-unveiling-the-secrets-of-auto-played-youtube-content-on-facebook-platform/"><u>In 2024, Unveiling the Secrets of Auto-Played YouTube Content on Facebook Platform</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/kinemasters-transition-playbook-for-cinematic-excellence-for-2024/"><u>Kinemaster’s Transition Playbook for Cinematic Excellence for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722896385336-luxurious-advanced-technology-products-with-affordable-pricing-to-test-out/"><u>Luxurious, Advanced Technology Products with Affordable Pricing to Test Out</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-seas-of-education-savings-claiming-your-rightful-place-with-a-tidal-scholarly-cutback/"><u>Navigating the Seas of Education Savings: Claiming Your Rightful Place with a Tidal Scholarly Cutback</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-the-500-internal-server-mistake-a-comprehensive-guide/"><u>Solving the Mystery of the 500 Internal Server Mistake: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-nonfunctional-optical-media-readers/"><u>Step-by-Step Solutions for Nonfunctional Optical Media Readers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/test-drive-the-lian-li-galahad-ii-all-in-one-cooler-an-innovative-solution-for-keeping-your-i7-1-14900k-system-chilled-under-pressure/"><u>Test Drive the Lian Li Galahad II All-in-One Cooler - An Innovative Solution for Keeping Your I7 1 14900K System Chilled Under Pressure</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-isnt-mozilla-thunderbird-launching-find-out-how-to-rectify-it/"><u>Why Isn't Mozilla Thunderbird Launching? Find Out How to Rectify It!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unleash-creativity-on-instagram-stories-with-branded-emojis/"><u>[New] 2024 Approved Unleash Creativity on Instagram Stories with Branded Emojis</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-creative-utilization-of-b-footage-in-media/"><u>[Updated] 2024 Approved The Creative Utilization of B-Footage in Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-clearing-up-youtube-watchlater-stored-list/"><u>[Updated] In 2024, Guide Clearing Up YouTube Watchlater Stored List</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enablingdisabling-network-visibility-a-guide-for-windows-11-users/"><u>Enabling/Disabling Network Visibility: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-building-almost-any-type-of-filter-in-gmail/"><u>Expert Tips for Building Almost Any Type of Filter in Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-get-facetime-in-windows/"><u>How to Get FaceTime in Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-key-scenes-in-video-production-for-2024/"><u>Mastering Key Scenes in Video Production for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/resolved-how-to-fix-adding-an-email-account-on-your-iphone-or-ipad/"><u>Resolved: How to Fix Adding an Email Account on Your iPhone or iPad</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/snag-a-mazing-savings-prime-deals-on-apples-latest-gadgets-iphone-watch-series-and-tablets-in-july-202-cuisine-cnet-money-picks/"><u>Snag A-Mazing Savings: Prime Deals on Apple's Latest Gadgets (iPhone, Watch Series, and Tablets) in July 202 Cuisine | CNET Money Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-living-room-into-a-theater-with-top-dolby-atmos-movies-to-enjoy/"><u>Transform Your Living Room Into a Theater with Top Dolby Atmos Movies to Enjoy</u></a></li>
 </ul></div>
 

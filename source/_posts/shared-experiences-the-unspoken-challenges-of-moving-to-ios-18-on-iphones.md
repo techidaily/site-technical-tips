@@ -1,7 +1,7 @@
 ---
 title: "Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones"
-date: 2024-11-29T00:42:24.600Z
-updated: 2024-12-04T21:59:33.578Z
+date: 2024-12-09T07:09:06.945Z
+updated: 2024-12-10T21:32:11.363Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,20 +109,15 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-keep-your-snaps-secret-stealthy-photo-taking-tricks-for-snapchat/"><u>[New] In 2024, Keep Your Snaps Secret Stealthy Photo Taking Tricks for Snapchat</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-pitfall-of-superficial-engagement-on-insta/"><u>[New] The Pitfall of Superficial Engagement on Insta</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-free-yourself-from-fringe-a-youtube-video-fix-guide/"><u>[Updated] Free Yourself From Fringe A YouTube Video Fix Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-streamline-your-online-presence-using-wirecast-and-facebook-live/"><u>2024 Approved Streamline Your Online Presence Using Wirecast and Facebook Live</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/capturing-nintendo-joy-in-the-best-cards/"><u>Capturing Nintendo Joy in the Best Cards</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correcting-errors-with-enex-driver-not-loading-in-win11/"><u>Correcting Errors with eNEX Driver Not Loading in Win11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/downloading-dynamism-techniques-for-preserving-online-lives-for-2024/"><u>Downloading Dynamism Techniques for Preserving Online Lives for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-enhancements-what-the-apple-vision-pro-requires-for-successful-enterprise-adoption/"><u>Essential Enhancements: What the Apple Vision Pro Requires for Successful Enterprise Adoption</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-add-extra-security-layer-with-two-factor-auth-in-gmail/"><u>How to Add Extra Security Layer with Two-Factor Auth in Gmail</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-free-up-space-by-clearing-the-cache-on-android-devices/"><u>How to Free Up Space by Clearing the Cache on Android Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-move-your-apple-music-playlists-to-and-from-youtube-music-a-comprehensive-guide-by-zdnet/"><u>How to Move Your Apple Music Playlists to and From YouTube Music: A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/scanning-made-simple-connecting-and-transferring-data-between-printers-and-computers/"><u>Scanning Made Simple: Connecting and Transferring Data Between Printers & Computers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/smartwatch-shopping-checklist-the-5-questions-you-cant-overlook/"><u>Smartwatch Shopping Checklist: The 5 Questions You Can't Overlook</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-wont-my-iphone-ring-with-these-expert-tips/"><u>Solving the Issue: Why Won't My iPhone Ring with These Expert Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-magsafe-chargers-comprehensive-reviews-and-comparisons-by-tech-experts/"><u>Top-Rated MagSafe Chargers : Comprehensive Reviews & Comparisons by Tech Experts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-decoding-t-series-online-earnings-stream/"><u>[New] 2024 Approved Decoding T-Series' Online Earnings Stream</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-navigating-the-musical-maze-copyright-rules-for-insta-users/"><u>[New] In 2024, Navigating the Musical Maze Copyright Rules for Insta Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-media-showdown-podcasts-vs-youtube-in-the-modern-world/"><u>[Updated] 2024 Approved Media Showdown Podcasts Vs. YouTube in the Modern World</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-brisk-technique-converting-photos-to-high-impact-youtube-desktop-thumbnails/"><u>[Updated] In 2024, Brisk Technique Converting Photos to High-Impact YouTube Desktop Thumbnails</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-online-tools-and-websites-for-apartment-hunting/"><u>Best Online Tools and Websites for Apartment Hunting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-your-hands-on-an-amazing-macbook-air-m1-for-only-649-top-savings-alert-by-zdnet/"><u>Get Your Hands on an Amazing MacBook Air (M1) for Only $649 - Top Savings Alert by ZDNet!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone 15 Plus?</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-disabling-onedrive-icon-on-windows-11-explore/"><u>Strategies for Disabling OneDrive Icon on Windows 11 Explore</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/switching-from-apple-vision-pro-and-meta-quest-3-top-affordable-xr-glasses-alternatives-reviewed/"><u>Switching From Apple Vision Pro & Meta Quest 3: Top Affordable XR Glasses Alternatives Reviewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-apple-watch-straps-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated Apple Watch Straps : Comprehensive Reviews by Tech Gurus</u></a></li>
 </ul></div>
 

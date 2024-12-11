@@ -1,7 +1,7 @@
 ---
 title: "Matrix Series Viewing Guide: The Correct Order"
-date: 2024-11-30T08:25:24.210Z
-updated: 2024-12-04T23:41:52.929Z
+date: 2024-12-05T10:14:33.043Z
+updated: 2024-12-11T00:12:19.437Z
 categories:
   - BestProducts
 description: "This Article Describes Matrix Series Viewing Guide: The Correct Order"
@@ -107,13 +107,13 @@ _Other Parents_ is a mockumentary-style sitcom, a format that works exceptionall
 
 of 22
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Hacks (2021): Best Buddy Comedy About Show Business](https://www.imdb.com/title/tt11815682/)
 
 ![Jean Smart in Hacks](https://www.lifewire.com/thmb/tYNkwo92w7WC8AyFc07JH4c-GPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-5091949-83a01a603660475a95369880d52baa4c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 HBO Max
 
@@ -167,6 +167,10 @@ HBO Max
 
 of 22
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Succession (2018): Most Critically Acclaimed Show on Max](https://www.imdb.com/title/tt7660850/)
 
 ![The cast of Succession (2018)](https://www.lifewire.com/thmb/Kv2moMCbwGnDh--vsQZqfVhHcxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010-5959cf516044415bbddf2473051c5c38.jpg)
@@ -194,6 +198,10 @@ HBO
 07
 
 of 22
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Gossip Girl (2021): Most Timely Reboot About the Always-Online Generation](https://www.imdb.com/title/tt10653784/)
 
@@ -223,10 +231,6 @@ HBO Max
 
 of 22
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## [Sort Of (2021): Kookiest Canadian Comedy Mini-Series](https://www.imdb.com/title/tt15221950/)
 
 ![The cast of Sort Of](https://www.lifewire.com/thmb/ieKubFkDaFgb2_Yv5JvFTyZ0fRE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-right-now-december-2021-5091949-e370416a67a54866b9fdd3c681a994cc.jpg)
@@ -254,10 +258,6 @@ _Sort Of_ is more heartfelt than your average half-hour comedy show. It tackles 
 09
 
 of 22
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## [Doom Patrol (2019): Best DC Superhero Team-Up](https://www.imdb.com/title/tt8416494/)
 
@@ -291,10 +291,6 @@ of 22
 
 ![A little girl smiles in Through Our Eyes](https://www.lifewire.com/thmb/edp4AJ5SRc0CTGbIA5zvCCgDhzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-shows-on-hbo-max-right-now-october-2021-5091949-829422574cc4474c9ad45e4467f7de94.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 HBO Max
 
 **IMDb Rating** : 7.7/10
@@ -322,6 +318,10 @@ of 22
 ## [Insecure (2016): Best HBO Original Sitcom Starring Issa Rae](https://www.imdb.com/title/tt5024912/)
 
 ![Issa Rae and the cast of Insecure](https://www.lifewire.com/thmb/nNx2RBAVlMy2QlLMQTacSe5Ki1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-5091949-19c594c8d3f94e50a191855e35d80a22.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 HBO Max
 
@@ -375,13 +375,13 @@ HBO Max
 
 of 22
 
-## [Titans (2018): Most Action-Packed Superhero Sidekick Series](https://www.imdb.com/title/tt1043813/)
-
-![The cast of DC Titans](https://www.lifewire.com/thmb/bbZvuY8Zlncr_H_18O4leO4MlSA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-5091949-3acfb2e2151c4b8b8af0ca5c6bb6d054.jpg)
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## [Titans (2018): Most Action-Packed Superhero Sidekick Series](https://www.imdb.com/title/tt1043813/)
+
+![The cast of DC Titans](https://www.lifewire.com/thmb/bbZvuY8Zlncr_H_18O4leO4MlSA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-5091949-3acfb2e2151c4b8b8af0ca5c6bb6d054.jpg)
 
 HBO Max
 
@@ -411,10 +411,6 @@ of 22
 
 ![The Other Two](https://www.lifewire.com/thmb/iQjhGMokV-jX7qaBpPCwim7CjUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-5091949-c04cd144d64f4d9a9251cfa713630bfa.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 HBO Max
 
 **IMDb Rating** : 7.5/10
@@ -440,7 +436,7 @@ _The Other Two_ is a hilarious critique of celebrity culture and our social medi
 of 22
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## [Stath Lets Flats (2018): Funniest NSFW Family Comedy](https://www.imdb.com/title/tt7524382/)
@@ -471,10 +467,6 @@ _Stath Lets Flats_ stars show creator Jamie Demetriou and his real-life sister. 
 
 of 22
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## [Betty (2020): Most Empowering Sports Sitcom for Teens](https://www.imdb.com/title/tt10814438/)
 
 ![The cast of Betty (2020)](https://www.lifewire.com/thmb/u48nyOXvnyRWncpt7LU2idv2w40=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-shows-on-hbo-max-5091949-8c2e1765f957438b88299225fd0a9c51.jpg)
@@ -504,16 +496,12 @@ _Betty_ is inspired by the movie_Skate Kitchen_ directed by Crystal Moselle, who
 of 22
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## [Curb Your Enthusiasm (2000): Longest Running Show About Nothing](https://www.imdb.com/title/tt0264235/)
 
 ![Larry David in Curb Your Enthusiasm](https://www.lifewire.com/thmb/BjmNwvtzUsIVj4A8KbMAhIj_gfA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-right-now-january-2022-5091949-5f47043ea80d43d4876b583cda18f06d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **IMDb Rating** : 8.7/10
 
@@ -565,6 +553,10 @@ HBO Max
 
 of 22
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [South Side (2019): Best Buddy Comedy About Surviving in Late Capitalism](https://www.imdb.com/title/tt9272514/)
 
 ![Sultan Salahuddin and Kareme Young in South Side](https://www.lifewire.com/thmb/Tpkvprq_7dNcgw5wyRIyvD1VBio=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-5091949-2ab58733ac404adca560c6c16fa54df5.jpg)
@@ -596,6 +588,10 @@ of 22
 ## [Station Eleven (2021): Most Timely Post-Apocalyptic Survival Story](https://www.imdb.com/title/tt10574236/)
 
 ![Mackenzie Davis in Station Eleven](https://www.lifewire.com/thmb/cSNm-DA-mzCpavzMytAtVFmEhTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-shows-on-hbo-max-right-now-january-2022-5091949-6b8eec8c6c834fca97fb40593de74f2e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 HBO Max
 
@@ -651,6 +647,10 @@ _Harry Potter: Hogwarts Tournament of Houses_ is a game show that aired on the C
 
 of 22
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Lovecraft Country (2020): Most Horrific Show About American History](https://www.imdb.com/title/tt6905686/)
 
 ![Jonathan Majors and Jurnee Smollett in Lovecraft Country](https://www.lifewire.com/thmb/QW04a-I33_ToevQVIFFcCoWDI-8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/014-5fd61e71b1b041bb93c5e58661ae5d86.jpeg)
@@ -704,24 +704,15 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-easy-guide-start-audio-capture-on-windows-10-for-2024/"><u>[New] Easy Guide Start Audio Capture on Windows 10 for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-learn-the-ins-and-outs-of-twitch-live-stream-archiving/"><u>[New] In 2024, Learn the Ins and Outs of Twitch Live Stream Archiving</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-true-color-harmony-software-for-2024/"><u>[Updated] True Color Harmony Software for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-unveiling-new-dimensions-past-manycams-scope-for-2024/"><u>[Updated] Unveiling New Dimensions Past ManyCam's Scope for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diagnosing-and-solving-non-charging-issues-in-playstation-5-controllers/"><u>Diagnosing and Solving Non-Charging Issues in PlayStation 5 Controllers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722848174008-expert-advice-resolving-issues-with-non-ejectable-dvd-bd-and-cd-drives/"><u>Expert Advice: Resolving Issues with Non-Ejectable DVD, BD & CD Drives</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-navigating-and-using-samsungs-native-apps-on-smart-tvs/"><u>Expert Tips: Navigating and Using Samsung's Native Apps on Smart TVs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-timeline-the-evolutionary-path-of-iphones-operating-system-from-version-10-to-180/"><u>Exploring the Timeline: The Evolutionary Path of iPhone’s Operating System, From Version 1.0 to 18.0</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-12-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 12 With or Without Password</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-tackle-the-408-request-timed-out-error-effectively/"><u>How to Tackle the 408 Request Timed Out Error Effectively</u></a></li>
-<li><a href="https://os-tips.techidaily.com/innovative-tricks-for-powering-up-your-iphone-without-traditional-methods/"><u>Innovative Tricks for Powering Up Your iPhone without Traditional Methods</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/kitty-kicks-a-cat-tastic-playtime/"><u>Kitty Kicks: A Cat-Tastic Playtime</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722889956832-latest-updates-on-the-next-google-pixel-model-expected-costs-release-date-and-speculations-shared/"><u>Latest Updates on the Next Google Pixel Model - Expected Costs, Release Date, and Speculations Shared</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-diskspace-analysis-with-windows-diskusage-commands/"><u>Mastering DiskSpace Analysis with Windows' DiskUsage Commands</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pioneering-companies-for-haptic-rich-views-for-2024/"><u>Pioneering Companies for Haptic-Rich Views for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ps4-live-streaming-secrets-how-to-record-and-share-gameplay-easily/"><u>PS4 Live Streaming Secrets - How to Record and Share Gameplay Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/sony-afeela-crossover-vehicle-upcoming-launch-details-anticipated-costs-and-latest-gossip/"><u>Sony Afeela Crossover Vehicle: Upcoming Launch Details, Anticipated Costs & Latest Gossip</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/superior-gaming-bounties-kids-favorite-consoles-and-accessories-unveiled/"><u>Superior Gaming Bounties: Kids' Favorite Consoles & Accessories Unveiled</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-401-unauthorized-mistake-a-step-by-step-guide/"><u>Troubleshooting the 401 Unauthorized Mistake: A Step-by-Step Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-10-best-webcams-you-should-know/"><u>[New] In 2024, 10 Best Webcams You Should Know</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-inshot-adding-your-favorite-tunes/"><u>[Updated] Mastering InShot Adding Your Favorite Tunes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-youtube-video-replays-your-comprehensive-tutorial/"><u>[Updated] Mastering YouTube Video Replays Your Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-latest.techidaily.com/data-preservation-techniques-how-to-transition-your-drive-from-raw-to-ntfs-format/"><u>Data Preservation Techniques: How to Transition Your Drive From Raw to NTFS Format</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-pro-showdown-unraveling-differences-between-m1-vs-m2-variants-find-your-perfect-match/"><u>IPad Pro Showdown: Unraveling Differences Between M1 Vs. M2 Variants - Find Your Perfect Match!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigating-facebook-analytics-simplified-for-2024/"><u>Navigating Facebook Analytics Simplified for 2024</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-realme-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Realme on Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-iphone-promotions-in-july-2024-exclusive-insights-from-zdnet/"><u>Top-Rated iPhone Promotions in July 2024 - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrading-to-the-newest-apple-phone-compare-iphone-16-with-15-essential-factors-revealed-gadgetsphere/"><u>Upgrading to the Newest Apple Phone? Compare iPhone 16 with 15 – Essential Factors Revealed | GadgetSphere</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-the-mac-studios-unique-capabilities-outshine-the-upcoming-m4-mac-mini-insights-for-autumn-shoppers/"><u>Why the Mac Studio's Unique Capabilities Outshine the Upcoming M4 Mac Mini: Insights for Autumn Shoppers</u></a></li>
 </ul></div>
 

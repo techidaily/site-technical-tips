@@ -1,7 +1,7 @@
 ---
 title: "Mastering Emoji: A Comprehensive Guide to Using Icons on Your iPhone"
-date: 2024-09-04T00:48:59.770Z
-updated: 2024-09-05T00:48:59.770Z
+date: 2024-12-09T21:10:06.824Z
+updated: 2024-12-11T06:54:50.533Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Emoji: A Comprehensive Guide to Using Icons on Your iPhone"
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/8484759aac0f2217a1c47e166f9703590835bee64
 
  Once activated, the built-in emoji keyboard appears at the bottom of your smartphone screen where the regular keyboard appears when you’re composing messages—only instead of letters, the emoji keyboard shows rows of those little cartoon-like pictures known as “emoji” or smiley faces.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Activate Emoji Keys
 
  To activate the emoji keys on your iPhone:
@@ -24,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/8484759aac0f2217a1c47e166f9703590835bee64
 4. You should now see a list of available keyboards in various languages. Scroll down and look for the one labeled "Emoji." Yes, Apple considers "emoji" a type of language and lists it along with all the others!
 5. Tap on**Emoji** and it will install the picture keyboard and make it available to you whenever you're typing anything.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Emoji
 
  To access the emoji keyboard after it's activated, call your regular keyboard and look for a tiny globe icon at the bottom, below all the letters, right next to the microphone icon. Tapping the globe brings up the emoji instead of the regular keyboard letters.
@@ -33,11 +41,9 @@ thumbnail: https://thmb.techidaily.com/8484759aac0f2217a1c47e166f9703590835bee64
  When you want to return to your regular keyboard, just tap the tiny globe again, and it whisks you back to the alpha-numerical keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does 'Emoji' Mean?
 
  You may be wondering what emojis are and how they differ from[emoticons](https://www.lifewire.com/facebook-emoticons-in-comments-2654737) . Emoji are picture characters. The word itself is derived from Japanese, which refers to a graphic symbol used to represent a concept or idea. They’re similar to emoticons, only broader because they don’t just express emotions like[smileys](https://www.lifewire.com/graphical-smileys-outlook-mail-1164542) and other emoticons do.
@@ -47,11 +53,9 @@ thumbnail: https://thmb.techidaily.com/8484759aac0f2217a1c47e166f9703590835bee64
  Many of the emoji images have been adopted into the global computer text-coding standard known as Unicode. The[Unicode Consortium](http://unicode.org/) , the group that maintains the Unicode standard, adopted a whole new set of emoticons as part of an updated Unicode standard in 2014\. You can see examples of popular emoticons on the[EmojiTracker website](http://www.emojitracker.com/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Emoji Keyboard Apps
 
  If you want to do more than simply insert an emoji sticker or emoticon image into your message, tons of free and inexpensive apps allow you to be more creative.
@@ -83,8 +87,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +94,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-meme-world-for-iphone-enthusiasts/"><u>[New] Meme World for iPhone Enthusiasts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-joy-journeys-a-curated-list-of-the-best-humor-vids-online/"><u>[Updated] 2024 Approved Joy Journeys A Curated List of the Best Humor Vids Online</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-detailed-survey-gecatas-game-capture-utility/"><u>[Updated] In 2024, Detailed Survey Gecata's Game Capture Utility</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2024s-ultimate-guide-to-choosing-a-waterproof-smartwatch-ratings-and-reviews-from-the-experts-zdnet/"><u>2024'S Ultimate Guide to Choosing a Waterproof Smartwatch: Ratings & Reviews From the Experts | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/banish-the-blankness-remedies-for-when-facetime-displays-go-dark/"><u>Banish the Blankness: Remedies for When FaceTime Displays Go Dark</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-enhanced-apple-vision-pro-experiences-tips-and-tricks-for-securing-your-demo-insights-from-zdnet/"><u>Discover Enhanced Apple Vision Pro Experiences: Tips & Tricks for Securing Your Demo - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/elite-selection-of-steadicams-suitable-for-drones-in-cinematic-work/"><u>Elite Selection of Steadicams Suitable for Drones in Cinematic Work</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ghostly-glimpses-innovation-highlights/"><u>In 2024, Ghostly Glimpses Innovation Highlights</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-batch-installation-in-windows-11-with-ease-and-speed-winstall-way/"><u>Master the Art of Batch Installation in Windows 11 with Ease and Speed – Winstall Way</u></a></li>
+<li><a href="https://discover-data.techidaily.com/step-by-step-guide-mastering-the-art-of-opening-text-files-tech-insights-by-yl/"><u>Step-by-Step Guide: Mastering the Art of Opening Text Files - Tech Insights by YL</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-non-responsive-alexa-devices/"><u>Troubleshooting Tips for Non-Responsive Alexa Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watch-all-star-wars-films-chronologically-with-disneys-streaming-service/"><u>Watch All Star Wars Films Chronologically with Disney's Streaming Service</u></a></li>
+</ul></div>
 

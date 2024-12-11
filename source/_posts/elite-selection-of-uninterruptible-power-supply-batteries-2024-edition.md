@@ -1,7 +1,7 @@
 ---
 title: Elite Selection of Uninterruptible Power Supply Batteries, 2024 Edition
-date: 2024-09-04T00:48:59.555Z
-updated: 2024-09-05T00:48:59.555Z
+date: 2024-12-05T02:25:08.033Z
+updated: 2024-12-11T04:04:52.400Z
 categories:
   - BestProducts
 description: This Article Describes Elite Selection of Uninterruptible Power Supply Batteries, 2024 Edition
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/80qgIQnH7ZPuYTa5GHRaC0JpWB0=/300x200/fi
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NETGEAR Default Passwords (Valid July 2024)
 
@@ -259,6 +263,10 @@ thumbnail: https://www.lifewire.com/thmb/80qgIQnH7ZPuYTa5GHRaC0JpWB0=/300x200/fi
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -270,11 +278,9 @@ thumbnail: https://www.lifewire.com/thmb/80qgIQnH7ZPuYTa5GHRaC0JpWB0=/300x200/fi
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -286,11 +292,9 @@ thumbnail: https://www.lifewire.com/thmb/80qgIQnH7ZPuYTa5GHRaC0JpWB0=/300x200/fi
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -319,8 +323,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -328,4 +330,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2023s-blueprint-for-winning-tiktok-with-desktops-for-2024/"><u>[New] 2023'S Blueprint for Winning TikTok with Desktops for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-crafting-personalized-instagram-story-sections/"><u>[New] In 2024, Crafting Personalized Instagram Story Sections</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-how-to-facetime-on-android-easily/"><u>[New] In 2024, How To Facetime on Android Easily</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unlock-your-old-game-library-with-these-premier-pc-gba-emulators/"><u>[Updated] Unlock Your Old Game Library with These Premier PC GBA Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/command-line-console-for-revitalizing-nintendo-classics/"><u>Command-Line Console for Revitalizing Nintendo Classics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/echo-archives-digital-sound-recording-for-2024/"><u>Echo Archives Digital Sound Recording for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-apple-vision-pro-pricing-guide-key-features-and-user-experience-highlights-a-comprehensive-overview-by-zdnet/"><u>Exploring the Apple Vision Pro: Pricing Guide, Key Features & User Experience Highlights - A Comprehensive Overview by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximizing-workflow-on-the-ipad-discover-essential-apps-for-peak-performance-expert-tips-by-zdnet/"><u>Maximizing Workflow on the iPad: Discover Essential Apps for Peak Performance | Expert Tips by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-peak-performance-mastering-time-management-tech-and-hacks-for-optimized-daily-workflow-guidance/"><u>Unlock Peak Performance: Mastering Time Management Tech and Hacks for Optimized Daily Workflow | Guidance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-savings-on-new-macbook-air-presidents-day-special-offer-with-300-discount-in-2n3/"><u>Unlock Savings on New MacBook Air - President's Day Special Offer with $300 Discount in 2N3!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Mac Experience Today! Learn the Secrets of Hot Corners Setup and Use, as Recommended by ZDNET
-date: 2024-12-01T21:20:27.208Z
-updated: 2024-12-05T09:29:57.549Z
+date: 2024-12-07T12:28:47.152Z
+updated: 2024-12-10T22:00:46.306Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ One of my most popular posts last year was a [tour of my home office](https://ww
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -34,10 +34,6 @@ Of course, this selection reflects my work habits and my personal preferences. Y
 
 **See also:** [My five favorite free Windows 10 utilities](https://www.zdnet.com/article/windows-10-my-five-favorite-free-utilities/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Productivity
 
 Show less 
@@ -45,7 +41,7 @@ Show less
 [View now at Microsoft](https://microsoft-us.evyy.net/c/159047/434427/3327?u=https://www.microsoft.com/en-us/microsoft-365/business//&subid1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&sharedId=zdnet)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft 365 apps for Business
@@ -61,10 +57,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at Tweeten](https://tweetenapp.com/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tweeten
 
@@ -82,6 +74,10 @@ Show less
 
 ## OneNote
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### An infinitely expandable notebook
 
 I have been keeping my life in OneNote since at least 2003\. It is the digital equivalent of a tattered old Moleskine that is, through some sort of ineffable magic, infinitely expandable. I use OneNote to keep track of receipts, meeting notes, important emails, travel documents, recipes, and so many "notes to self" that I've lost count.
@@ -96,11 +92,11 @@ Show less
 
 [View now at Adobe Acrobat](https://www.adobe.com/products/catalog.html#category=pdf)
 
-## Adobe Acrobat Pro DC
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Adobe Acrobat Pro DC
 
 ### From the inventor of the PDF standard
 
@@ -114,11 +110,11 @@ Show less
 
 [View now at Quicken](https://go.shopyourlikes.com/pi/de0d8ba2852fb0f3e2424bb37baf8478e8f2e34e?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Quicken Home and Business
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### I hate it, but I use it
 
@@ -137,7 +133,7 @@ Show less
 ## Microsoft Edge (Chromium)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The only browser I need on the desktop
@@ -168,6 +164,10 @@ Show less
 
 ## Workona
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The cleanest way to organize browser tabs
 
 My favorite solution for keeping browser tabs under control is a browser extension called Workona. (See my full review here: [Too many browser tabs? This impressive extension is my favorite solution.](https://www.zdnet.com/article/too-many-browser-tabs-this-favorite-extension-is-the-perfect-solution/)) It allows me to organize tabs into groups called workspaces, sync those saved workspaces across devices, share them with team members, and connect cloud-based productivity services for instant access. I use it on Microsoft Edge, but it's also available on Chrome and Firefox on all major desktop platforms, with versions for Safari (on MacOS and iOS) coming soon.
@@ -184,10 +184,6 @@ Show less
 
 ## Spotify Music
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### No music app is perfect, but Spotify is best all around
 
 When it comes to music, we live in the best of times and the worst of times. I've tried every free and paid music streaming service (for details, see: [Best streaming music service in 2021](https://www.zdnet.com/article/best-streaming-music-service/#listicle-ac2319a8-78d6-4fea-9569-41035d7ee2a1)) and finally settled on Spotify as the best, on balance. Those last two words are key. No streaming service is perfect. There are others (like Tidal and Qobuz) that offer higher-quality downloads, and I grit my teeth every time I try to remember how to upload an album from my personal collection to Spotify's servers. (I finally bookmarked the [official Spotify instructions](https://support.spotify.com/is/article/listen-to-local-files/).)
@@ -203,7 +199,7 @@ Show less
 ## VLC Media Player
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Free, open source, handles every format imaginable
@@ -217,6 +213,10 @@ Show less
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
 
 ## MediaMonkey
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A Swiss Army knife for digital media
 
@@ -256,20 +256,22 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-mastering-the-craft-of-in-depth-and-impactful-interviews/"><u>[New] Mastering the Craft of In-Depth and Impactful Interviews</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-charismatic-communicator-overview-part-8/"><u>[Updated] In 2024, Charismatic Communicator Overview, Part 8</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/19-exciting-new-models-enhance-tcls-q-and-s-class-smart-tv-selection/"><u>19 Exciting New Models Enhance TCL's Q and S Class Smart TV Selection</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-guide-to-selecting-peak-performance-lipo-tech-for-2024/"><u>A Guide to Selecting Peak-Performance LiPo Tech for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-eyes-on-the-future-unveiling-potential-costs-release-windows-and-features-of-apple-watch-ultra-2/"><u>All Eyes On The Future: Unveiling Potential Costs, Release Windows & Features of Apple Watch Ultra 2</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/analyzing-the-strengths-and-weaknesses-of-pidgin-chat-application/"><u>Analyzing the Strengths and Weaknesses of Pidgin Chat Application</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-nokia-130-music-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Nokia 130 Music? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-features-of-the-samsung-galaxy-a20-best-android-device-on-a-budget/"><u>Exploring the Features of the Samsung Galaxy A20 - Best Android Device on a Budget</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-your-pc-when-ntldr-goes-awol-comprehensive-troubleshooting-tips/"><u>Fixing Your PC When NTLDR Goes AWOL: Comprehensive Troubleshooting Tips</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-how-to-use-igtv-hashtags-to-gain-more-followers/"><u>In 2024, How to Use IGTV Hashtags to Gain More Followers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-ios-16-a-guide-to-utilizing-live-activities-on-your-iphone/"><u>Mastering iOS 16: A Guide to Utilizing Live Activities on Your iPhone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-installation-guide-realtek-alc892a-audio-drivers-for-windows-11/"><u>Quick Installation Guide: RealTek ALC892A Audio Drivers for Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-silence-a-guide-to-rectifying-your-iphones-inability-to-make-calls/"><u>Solving Silence: A Guide to Rectifying Your iPhone's Inability to Make Calls</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-nonfunctioning-windows-11-search-effective-methods-revealed/"><u>Solving the Mystery of Nonfunctioning Windows 11 Search – Effective Methods Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-guide-to-streaming-netflix-content-on-the-nintendo-switch/"><u>The Complete Guide to Streaming Netflix Content on the Nintendo Switch.</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-crafting-an-ideal-speech-translation-experience-in-google/"><u>[New] 2024 Approved Crafting an Ideal Speech Translation Experience in Google</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-captivating-viewers-with-animated-text-on-instagram-stories/"><u>[New] Captivating Viewers with Animated Text on Instagram Stories</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-best-macos-sierra-tools-for-optimized-video-transformation/"><u>[New] In 2024, Best macOS Sierra Tools for Optimized Video Transformation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-quick-start-guide-to-your-channels-easy-sign-up-button/"><u>[New] In 2024, Quick-Start Guide to Your Channel's Easy Sign Up Button</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-screencapture-pro-tips-record-your-television-easily/"><u>[New] In 2024, ScreenCapture Pro-Tips Record Your Television Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-comparing-the-versatility-of-apple-pencil-pro-vs-apple-pencil-2-finding-the-ideal-companion-for-your-ipad/"><u>1. Comparing the Versatility of Apple Pencil Pro Vs. Apple Pencil 2: Finding the Ideal Companion for Your iPad</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/activating-energy-saving-mode-on-your-apple-watch-a-step-by-step-guide-and-benefits-explained-tech-insights-by-zdnet/"><u>Activating Energy Saving Mode on Your Apple Watch: A Step-by-Step Guide & Benefits Explained - Tech Insights by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ai-revolution-siri-now-replaces-bing-as-apples-core-search-engine-is-it-time-for-a-transformation/"><u>AI Revolution: Siri Now Replaces Bing as Apple's Core Search Engine – Is It Time for a Transformation?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/android-vs-ios-a-comparative-analysis-of-essential-upgrades-needed-to-elevate-android-competitiveness-in-the-mobile-arena/"><u>Android Vs. IOS: A Comparative Analysis of Essential Upgrades Needed to Elevate Android Competitiveness in the Mobile Arena</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhanced-accessibility-apple-enhances-podcast-listening-with-auto-generated-transcriptions-zdnet/"><u>Enhanced Accessibility: Apple Enhances Podcast Listening with Auto-Generated Transcriptions - ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-15-pro-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-elevated-workflows-synopsis-studio-25-comprehensive-checkup-2023/"><u>In 2024, Elevated Workflows Synopsis Studio 25 Comprehensive Checkup, 2023</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/price-breakdown-specifications-and-more-get-ready-for-the-samsung-galaxy-watch-7-release-date-news/"><u>Price Breakdown, Specifications & More: Get Ready for The Samsung Galaxy Watch 7 Release Date News!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-stylus-tablets-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Stylus Tablets : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-smart-brains-behind-android-a-guide-to-system-intelligence/"><u>Understanding the Smart Brains Behind Android: A Guide to System Intelligence</u></a></li>
+<li><a href="https://fox-info.techidaily.com/windowed-guide-windows-movie-maker-60-preparation/"><u>Windowed Guide Windows Movie Maker 6.0 Preparation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/windows-11-evolution-in-focus/"><u>Windows 11 Evolution in Focus</u></a></li>
 </ul></div>
 

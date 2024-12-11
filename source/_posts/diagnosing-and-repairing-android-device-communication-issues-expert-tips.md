@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Android Device Communication Issues - Expert Tips
-date: 2024-09-04T00:49:25.470Z
-updated: 2024-09-05T00:49:25.470Z
+date: 2024-12-05T04:58:02.390Z
+updated: 2024-12-11T00:34:39.903Z
 categories:
   - BestProducts
 description: This Article Describes Diagnosing and Repairing Android Device Communication Issues - Expert Tips
@@ -25,6 +25,10 @@ thumbnail: https://www.lifewire.com/thmb/h7TOGnXGy4iVcnkZ3-pYW5gzfus=/400x300/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -36,12 +40,6 @@ thumbnail: https://www.lifewire.com/thmb/h7TOGnXGy4iVcnkZ3-pYW5gzfus=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -50,11 +48,9 @@ thumbnail: https://www.lifewire.com/thmb/h7TOGnXGy4iVcnkZ3-pYW5gzfus=/400x300/fi
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -64,11 +60,9 @@ thumbnail: https://www.lifewire.com/thmb/h7TOGnXGy4iVcnkZ3-pYW5gzfus=/400x300/fi
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -86,6 +80,10 @@ thumbnail: https://www.lifewire.com/thmb/h7TOGnXGy4iVcnkZ3-pYW5gzfus=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -96,12 +94,6 @@ thumbnail: https://www.lifewire.com/thmb/h7TOGnXGy4iVcnkZ3-pYW5gzfus=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -112,18 +104,6 @@ thumbnail: https://www.lifewire.com/thmb/h7TOGnXGy4iVcnkZ3-pYW5gzfus=/400x300/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -137,11 +117,9 @@ thumbnail: https://www.lifewire.com/thmb/h7TOGnXGy4iVcnkZ3-pYW5gzfus=/400x300/fi
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -170,8 +148,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +155,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-mastering-reddit-a-step-by-step-guide-for-effective-posts/"><u>[New] 2024 Approved Mastering Reddit A Step-By-Step Guide for Effective Posts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ultimate-list-15-must-watch-unboxing-channels/"><u>[New] Ultimate List 15 Must-Watch Unboxing Channels</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-understanding-collective-views-on-vllo/"><u>[Updated] 2024 Approved Understanding Collective Views on VLLO</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-pro-tips-to-enhance-your-use-of-instagrams-query-symbol/"><u>2024 Approved Pro Tips to Enhance Your Use of Instagram's Query Symbol</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-data-driven-odyssey-of-youtubes-statistical-storytelling-2017/"><u>2024 Approved The Data-Driven Odyssey of YouTube's Statistical Storytelling (2017)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-oppo-find-n3-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Oppo Find N3? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016943003-check-if-there-are-any-pending-windows-updates-that-need-to-be-installed-or-rolled-back-in-case-they-conflict-with-tozo-t6-operation/"><u>Check if There Are Any Pending Windows Updates that Need to Be Installed or Rolled Back in Case They Conflict with Tozo T6 Operation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/compact-computing-unleashed-is-the-new-m4-powered-mac-mini-comparable-in-size-to-an-apple-tv-zdnet-exclusive/"><u>Compact Computing Unleashed: Is the New M4-Powered Mac Mini Comparable in Size to an Apple TV? | ZDNet Exclusive</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-benefits-of-using-mozilla-firefox-on-your-android-device/"><u>Discover the Benefits of Using Mozilla Firefox on Your Android Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/download-ios-18-on-your-iphone-compatible-models-and-installation-guide-zdnet/"><u>Download IOS 18 on Your iPhone: Compatible Models and Installation Guide | ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-fixes-for-chromecasts-iso-file-viewing-troubles/"><u>Easy Fixes for Chromecast's ISO File Viewing Troubles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-techniques-for-managing-your-gmail-filters-and-contacts/"><u>Effective Techniques for Managing Your Gmail: Filters & Contacts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-newly-released-macbook-is-this-the-latest-edition/"><u>Exploring the Newly Released MacBook: Is This the Latest Edition?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-your-hands-on-the-finest-last-chance-for-top-apple-savings-during-prime-day-spotlight-deals/"><u>Get Your Hands on the Finest: Last Chance for Top Apple Savings During Prime Day - Spotlight Deals!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-install-apps-on-iphone-without-jailbreaking-a-comprehensive-guide/"><u>How to Install Apps on iPhone Without Jailbreaking - A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/mastering-slow-motion-top-10-video-editing-tools-for-professionals-for-2024/"><u>Mastering Slow Motion Top 10 Video Editing Tools for Professionals for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-amazing-offers-on-apples-airpods-during-the-festive-season-featured-by-zdnet/"><u>Top 7 Amazing Offers on Apple's AirPods During the Festive Season - Featured by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-iphone-16pro-protective-covers-of-2024-comprehensive-reviews-by-tech-gurus/"><u>Top Rated iPhone 16/Pro Protective Covers of 2024: Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrade-dilemma-do-you-need-the-latest-iphone-16-insights-and-arguments-from-zdnets-editorial-team-smartphone-review/"><u>Upgrade Dilemma: Do You Need the Latest iPhone 16? Insights and Arguments From ZDNET's Editorial Team | Smartphone Review</u></a></li>
+</ul></div>
 

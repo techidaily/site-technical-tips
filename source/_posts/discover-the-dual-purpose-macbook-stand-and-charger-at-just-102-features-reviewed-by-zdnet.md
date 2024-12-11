@@ -1,7 +1,7 @@
 ---
 title: Discover the Dual-Purpose MacBook Stand & Charger at Just $102 - Features Reviewed by ZDNet
-date: 2024-11-27T19:24:41.052Z
-updated: 2024-12-05T10:55:49.007Z
+date: 2024-12-04T00:12:57.673Z
+updated: 2024-12-11T12:33:46.703Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. A bigger screen option
@@ -39,7 +39,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -61,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -69,7 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -110,20 +110,18 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-efficiently-priced-flight-machines-affordable-drones-list/"><u>[New] 2024 Approved Efficiently Priced Flight Machines Affordable Drones List</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-navigating-through-film-workflow-choosing-between-hdr-and-sdr/"><u>[New] 2024 Approved Navigating Through Film Workflow Choosing Between HDR & SDR</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-discovering-the-secrets-to-professional-music-mixing-with-magix/"><u>[New] In 2024, Discovering the Secrets to Professional Music Mixing with Magix</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-explore-6-alternative-platforms-for-high-quality-youtube-graphics/"><u>[Updated] Explore 6 Alternative Platforms for High-Quality YouTube Graphics</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-from-favorites-to-featured-the-journey-to-a-unique-youtube-list/"><u>[Updated] In 2024, From Favorites to Featured The Journey to a Unique YouTube List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/9-ways-to-put-a-windows-computer-to-sleep/"><u>9 Ways to Put a Windows Computer to Sleep</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-deep-dive-into-the-world-of-rich-communication-services-for-smartphones/"><u>A Deep Dive Into the World of Rich Communication Services for Smartphones</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/authenticity-on-display-video-reviews-role/"><u>Authenticity on Display Video Reviews' Role</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-these-12-amazing-no-cost-typing-tutorials-suitable-for-any-audience/"><u>Discover These 12 Amazing No-Cost Typing Tutorials Suitable for Any Audience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-solutions-to-fix-unwanted-colors-and-shapes-on-computer-display/"><u>DIY Solutions to Fix Unwanted Colors & Shapes on Computer Display</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-factors-to-evaluate-when-purchasing-a-refurbished-notebook/"><u>Essential Factors to Evaluate When Purchasing a Refurbished Notebook</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Motorola Moto G73 5G? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-fix-corrupt-or-lost-netframework-files-like-msvcp71dll/"><u>Step-by-Step Guide to Fix Corrupt or Lost '.netframework' Files Like msvcp71.dll</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-multilingual-skills-with-any-of-these-9-free-language-learning-platforms/"><u>Unlock Multilingual Skills with Any of These 9 Free Language-Learning Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ignite-your-design-prowess-top-14-text-animation-snapshots/"><u>[Updated] In 2024, Ignite Your Design Prowess Top 14 Text Animation Snapshots</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-grasping-your-youtube-popularity-with-precision/"><u>2024 Approved Grasping Your YouTube Popularity with Precision</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-openal32dll-absence-a-comprehensive-fix-guide/"><u>Diagnosing OpenAL32.DLL Absence: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-your-dream-laptop-discover-the-top-18-sizzling-deals-for-prime-day-savings-from-premium-manufacturnous-including-hp-apple-and-razer/"><u>Find Your Dream Laptop: Discover the Top 18 Sizzling Deals for Prime Day Savings From Premium Manufacturnous Including HP, Apple & Razer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-series-7-to-series-10-the-compelling-case-for-staying-with-my-current-smartwatch/"><u>From Series ^7 to Series 10? The Compelling Case for Staying with My Current Smartwatch</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y27-4g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y27 4G Phone without Google Account?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/quick-access-essential-windows-10-tips/"><u>Quick Access Essential Windows 10 Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-true-solution-from-apple-why-rice-isnt-ideal-for-soggy-iphones-and-what-to-do-instead/"><u>The True Solution From Apple: Why Rice Isn't Ideal for Soggy iPhones and What to Do Instead!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-ranking-iphones-comprehensive-reviews-and-performance-analysis-techradar/"><u>Top-Ranking iPhones : Comprehensive Reviews & Performance Analysis | TechRadar</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-fixing-discords-screen-sharing-audio-issues/"><u>Troubleshooting Steps: Fixing Discord's Screen Sharing Audio Issues</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-narzo-n55-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme Narzo N55 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-alternatives-round-up-top-3-contenders-for-2024/"><u>YouTube Alternatives Round-Up Top 3 Contenders for 2024</u></a></li>
 </ul></div>
 

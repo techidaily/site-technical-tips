@@ -1,7 +1,7 @@
 ---
 title: "Expand Your Xbox One's Capacity: A Detailed Walkthrough on Utilizing External Hard Drives"
-date: 2024-09-04T00:48:59.784Z
-updated: 2024-09-05T00:48:59.784Z
+date: 2024-12-07T12:04:43.432Z
+updated: 2024-12-10T18:43:22.563Z
 categories:
   - BestProducts
 description: "This Article Describes Expand Your Xbox One's Capacity: A Detailed Walkthrough on Utilizing External Hard Drives"
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Tell If Discord Is Down
 
  If you think the Discord servers are down for everyone, try these steps to check:
@@ -21,14 +25,28 @@ thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b
 1. Check the[Discord Service Status](https://status.discord.com) page to see if there have been issues.  
 ![Discord server status page](https://www.lifewire.com/thmb/yFSV49MklrykNCgZ93liSe1qZt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256951-64f18a956bac488899f2b478d1c286a9.jpg)  
  This page is hosted by Discord, so if there's a significant problem with the service, the information may not be available here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -47,17 +65,9 @@ thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -89,8 +99,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +106,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-discovering-the-treasure-trove-of-free-designs-for-2024/"><u>[New] Discovering the Treasure Trove of Free Designs for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-advanced-systems-for-tracking-human-manoeuvres/"><u>[Updated] Advanced Systems for Tracking Human Manoeuvres</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/13-pro-tech-insights-on-zdnet/"><u>13 Pro? | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-10-leading-resources-for-premium-vector-data/"><u>2024 Approved 10 Leading Resources for Premium Vector Data</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-mastering-metaverse-mirth-humorous-digital-world-memes/"><u>2024 Approved Mastering Metaverse Mirth Humorous Digital World Memes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-multi-snapping-made-simple-in-snapchat-video-edits/"><u>2024 Approved Multi-Snapping Made Simple in Snapchat Video Edits</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-latest-ios-version-174-launches-with-enhanced-podcast-accessibility-via-transcripts-new-emojis-and-significant-eu-app-marketplace-modifications-zdnet190/"><u>Apple's Latest iOS Version 17.4 Launches with Enhanced Podcast Accessibility via Transcripts, New Emojis and Significant EU App Marketplace Modifications | ZDNET News</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/complete-guide-to-setting-up-your-western-digital-disk-for-effortless-backups-get-it-here/"><u>Complete Guide to Setting Up Your Western Digital Disk for Effortless Backups - Get It Here!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-enhancements-required-for-apple-vision-pros-successful-market-penetration-insights-from-zdnet/"><u>Essential Enhancements Required for Apple Vision Pro's Successful Market Penetration: Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-offer-alert-the-latest-ipad-9th-gen-is-yours-for-just-250-after-apples-cutting-edge-announcement/"><u>Exclusive Offer Alert: The Latest iPad (9Th Gen) Is Yours for Just $250 After Apple's Cutting-Edge Announcement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/persistence-in-design-choice-why-apple-believes-iphone-doesnt-need-a-case-gadgetcritic/"><u>Persistence in Design Choice: Why Apple Believes iPhone Doesn't Need a Case | GadgetCritic</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/proven-best-iphones-of-2eightyfour-unveiled-thoroughly-evaluated-and-insights-provided/"><u>Proven Best iPhones of 2Eightyfour Unveiled: Thoroughly Evaluated and Insights Provided</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-10-mobile-relaxation-renders-idle-games/"><u>Top 10 Mobile Relaxation Renders (Idle Games)</u></a></li>
+<li><a href="https://win-special.techidaily.com/understanding-the-causes-behind-the-infamous-blue-screen-error-insights-from-yl-computing/"><u>Understanding the Causes Behind the Infamous Blue Screen Error - Insights From YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-from-silence-restore-your-voice-chat-in-destiny-2-now/"><u>Unstuck From Silence: Restore Your Voice Chat in Destiny 2 Now</u></a></li>
+</ul></div>
 

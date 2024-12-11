@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Latest Innovations in iPadOS for Generation iPads at 2024 WWDC: The Features You Can't Miss!"
-date: 2024-12-01T16:28:28.425Z
-updated: 2024-12-05T01:04:57.707Z
+date: 2024-12-03T18:25:49.722Z
+updated: 2024-12-11T06:11:00.516Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -60,6 +64,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -69,7 +77,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -89,10 +97,6 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -118,10 +122,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -134,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -154,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,15 +210,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-soundscapes-for-social-scenarios-on-facebook-for-2024/"><u>[Updated] Soundscapes for Social Scenarios on Facebook for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ace-the-game-preorder-limited-marvels-spidey-ps5/"><u>Ace the Game - Preorder Limited Marvel's Spidey PS5</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-the-speculations-price-range-launch-date-and-key-specifications-for-the-future-apple-ring/"><u>Decoding the Speculations: Price Range, Launch Date, and Key Specifications for the Future Apple Ring</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-methods-correcting-persistent-onscreen-discoloration-and-preventative-care/"><u>DIY Methods: Correcting Persistent Onscreen Discoloration & Preventative Care</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-11-managed-settings-failures-due-to-org-policies/"><u>Fixing Windows 11: Managed Settings Failures Due to Org Policies</u></a></li>
-<li><a href="https://win-web.techidaily.com/guide-pratique-pour-remplacer-le-sata-dun-disque-dur-interieur-dans-une-station-de-travail-ou-serveur/"><u>Guide Pratique Pour Remplacer Le SATA D'un Disque Dur Intérieur Dans Une Station De Travail Ou Serveur</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-v29e-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo V29e to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/make-your-own-meme/"><u>Make Your Own Meme</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-lameencdll-errors-for-easy-audio-conversion-with-audacity/"><u>Troubleshooting lame_enc.dll Errors for Easy Audio Conversion with Audacity</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-solving-the-no-matches-found-issue-in-bumble/"><u>Ultimate Guide: Solving the 'No Matches Found' Issue in Bumble</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/wift-transformation-video-aspects-to-mac-standard/"><u>[New] Swift Transformation Video Aspects to Mac Standard</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-sonic-shadows-the-art-of-sound-and-image-blending/"><u>2024 Approved Sonic Shadows The Art of Sound and Image Blending</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/activating-or-deactivating-the-virtual-keyboard-in-windows-11-a-step-by-step-tutorial/"><u>Activating or Deactivating the Virtual Keyboard in Windows 11: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/advanced-email-organization-creating-specific-rules-in-gmail-tutorial/"><u>Advanced Email Organization: Creating Specific Rules in Gmail Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-moisture-resistant-wearables-of-the-year-in-depth-analysis-and-ratings-zdnet/"><u>Best Moisture-Resistant Wearables of the Year: In-Depth Analysis & Ratings | ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-maximizing-impact-on-insta-story-with-multiple-images/"><u>In 2024, Maximizing Impact on Insta Story with Multiple Images</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pioneering-innovations-the-grandest-tech-leaps-since-1844/"><u>Pioneering Innovations: The Grandest Tech Leaps Since 1844</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/set-up-an-appveyor-virtual-private-network-on-your-apple-vision-pro-device-detailed-steps-and-benefits-techguru/"><u>Set Up an AppVeyor Virtual Private Network on Your Apple Vision Pro Device: Detailed Steps & Benefits | TechGuru</u></a></li>
+<li><a href="https://win-forum.techidaily.com/text-file-privacy-boosted-by-simple-password-defense-strategies/"><u>Text File Privacy Boosted by Simple Password Defense Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-integrating-chatgpt-into-sound-design-on-your-digital-audio-workstation/"><u>The Ultimate Guide to Integrating ChatGPT Into Sound Design on Your Digital Audio Workstation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-missing-normalizdll-error-on-your-pc/"><u>Troubleshooting the Missing 'Normaliz.dll' Error on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-why-your-android-cant-dial-or-answer-calls/"><u>Troubleshooting Tips: Why Your Android Can't Dial or Answer Calls</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-best-magsafe-battery-chargers-of-2-2024-in-depth-analysis-and-expert-ratings-zdnet/"><u>Ultimate Guide to the Best MagSafe Battery Chargers of 2지날리기 2024: In-Depth Analysis and Expert Ratings | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-advanced-coding-capabilities-with-free-ai-powered-tools-tailored-for-mac-users/"><u>Unlock Advanced Coding Capabilities with Free AI-Powered Tools Tailored for Mac Users</u></a></li>
 </ul></div>
 

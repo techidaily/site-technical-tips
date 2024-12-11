@@ -1,7 +1,7 @@
 ---
 title: How to Perform a Total Clean Sweep of Your Inbox in the Gmail App
-date: 2024-09-04T00:48:58.746Z
-updated: 2024-09-05T00:48:58.746Z
+date: 2024-12-08T08:39:19.454Z
+updated: 2024-12-10T19:44:36.847Z
 categories:
   - BestProducts
 description: This Article Describes How to Perform a Total Clean Sweep of Your Inbox in the Gmail App
@@ -11,6 +11,10 @@ thumbnail: https://www.lifewire.com/thmb/b7LvjRLIfI3iLMrcimmC6cevruA=/400x300/fi
 
 ## D3dx9_28.dll Disappears? Here's How You Can Restore the File & Fix Your Software
  Any of Microsoft's[operating systems](https://www.lifewire.com/operating-systems-2625912) since Windows 98 may be affected by d3dx9\_28.dll and other DirectX issues. This includes[Windows 11](https://www.lifewire.com/windows-11-5188930) ,[Windows 10](https://www.lifewire.com/windows-10-2626217) ,[Windows 8](https://www.lifewire.com/windows-8-2626235) ,[Windows 7](https://www.lifewire.com/windows-7-2626265) ,[Windows Vista](https://www.lifewire.com/windows-vista-2626311) ,[Windows XP](https://www.lifewire.com/windows-xp-2626354) , and Windows 2000.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix D3dx9\_28.dll Errors
 
@@ -28,32 +32,26 @@ thumbnail: https://www.lifewire.com/thmb/b7LvjRLIfI3iLMrcimmC6cevruA=/400x300/fi
 5. [Restore the d3dx9_28.dll file from the latest DirectX package](https://www.lifewire.com/how-to-restore-a-missing-directx-dll-file-2624516) . If the above steps haven't worked to solve your error, try extracting the file individually from the DirectX package.
 6. [Update the drivers for your video card](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) . While it's not the most common solution, in some situations updating the[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) for the[video card](https://www.lifewire.com/what-is-a-video-card-2618161) in your computer could correct this DirectX issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Need More Help?
 
  If you're not interested in fixing this problem yourself, see[How Do I Get My Computer Fixed?](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) for a full list of your support options, plus help with everything along the way like figuring out repair costs, getting your files off, choosing a repair service, and a lot more.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="150" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of D3dx9\_28.dll Errors
 
 ![D3dx9_28 DLL error message in Windows](https://www.lifewire.com/thmb/4lXiq7qPMh6UJ0GmonNi9HO--Uo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d3dx9-28-dll-error-message-39cb649ef848499cac4a704ee7a6982c.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Unlike many other[DLL](https://www.lifewire.com/what-is-a-dll-file-2625852) errors which can have complicated causes and fixes, d3dx9\_28.dll issues are caused in one way or another by a single issue: a problem with Microsoft DirectX.
 
  This file is one of many contained in the DirectX software collection. Since DirectX is utilized by most Windows-based games and advanced graphics programs, d3dx9\_28.dll errors usually show up only when using these programs.
@@ -91,8 +89,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +96,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-boost-social-influence-with-these-15-snap-ideas/"><u>[New] 2024 Approved Boost Social Influence with These 15 Snap Ideas</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-decoding-and-manipulating-gender-presentation-online-a-step-by-step-approach/"><u>[New] 2024 Approved Decoding and Manipulating Gender Presentation Online A Step-by-Step Approach</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-revamp-twitter-video-summary/"><u>[New] 2024 Approved Revamp Twitter Video Summary</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/our-path-to-engaging-content-dive-into-our-free-youtube-ad-gallery/"><u>[New] Your Path to Engaging Content – Dive Into Our Free YouTube Ad Gallery</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-essential-tech-mac-screenshoting-basics/"><u>[Updated] 2024 Approved Essential Tech Mac Screenshoting Basics</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-wish-to-look-at-all-my-contacts-media-shared-in-chats/"><u>2024 Approved Wish to Look at All My Contacts' Media Shared in Chats</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-challenges-dominant-web-browsers-with-eerie-ad-campaign-unveil-the-drama-now-news/"><u>Apple Challenges Dominant Web Browsers with Eerie Ad Campaign - Unveil the Drama Now News</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-mechanics-of-t-mobiles-internal-mobile-roaming-strategy/"><u>Decoding the Mechanics of T-Mobile's Internal Mobile Roaming Strategy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-why-apples-latest-ai-innovations-at-wwdc-arent-groundbreaking-and-thats-a-good-thing-according-to-zdnet/"><u>Exploring Why Apple’s Latest AI Innovations at WWDC Aren’t Groundbreaking - And That’s a Good Thing, According to ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/handheld-revolution-how-might-ai-evolve-in-2n4-according-to-experts-at-zdnet/"><u>Handheld Revolution: How Might AI Evolve in 2N4 According to Experts at ZDNET?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-honor-x9a-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Honor X9a Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-sony-xperia-1-v-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Sony Xperia 1 V Lock Screen Password</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-streamlining-presentations-in-microsoft-teams-through-snap-capture/"><u>In 2024, Streamlining Presentations in Microsoft Teams Through Snap Capture</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-x90s-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo X90S Phone Pattern Lock</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/next-level-smartphones-unveiling-apples-cutting-edge-artificial-intelligence-for-smarter-home-screen-insights-and-supercharged-siri/"><u>Next-Level Smartphones: Unveiling Apple's Cutting-Edge Artificial Intelligence for Smarter Home Screen Insights and Supercharged Siri</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/selective-iphone-maintenance-approved-by-apple-eligible-models-now-include-used-part-swaps-zdnet/"><u>Selective iPhone Maintenance Approved by Apple; Eligible Models Now Include Used Part Swaps - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-troubleshooting-of-code-e38-on-your-pc/"><u>Step-by-Step Troubleshooting of Code E_38 on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-iphone-14-plus-is-your-best-bet-exclusive-features-and-cost-benefits-explained-insights-from-zdnet/"><u>Why iPhone 14 Plus Is Your Best Bet: Exclusive Features & Cost Benefits Explained - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnets-personal-pick-for-best-smartphones-insights-from-our-tech-writers/"><u>ZDNet's Personal Pick for Best Smartphones: Insights From Our Tech Writers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Air M1 for a Bargain Price of $649! Don't Miss Out on This Lowest Market Rate | Shop Smart with ZDNET
-date: 2024-12-03T23:35:26.337Z
-updated: 2024-12-04T21:34:56.742Z
+date: 2024-12-10T11:46:54.990Z
+updated: 2024-12-10T20:51:33.443Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,24 +81,21 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-blitzing-sharing-easy-youtube-playlist-methods/"><u>[Updated] Blitzing Sharing Easy YouTube Playlist Methods</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-optimize-your-channels-an-introduction-to-youtube-statistics/"><u>2024 Approved Optimize Your Channels An Introduction to YouTube Statistics</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/a-reliable-approach-to-recovering-deleted-images-forever-on-ios-devices/"><u>A Reliable Approach to Recovering Deleted Images Forever on iOS Devices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/boomerang-on-instagram-create-addictive-loop-videos-on-ig/"><u>Boomerang on Instagram Create Addictive Loop Videos on IG</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/emeditor-why-you-cant-add-spaces-after-text-in-quotes/"><u>EmEditor: Why You Can't Add Spaces After Text in Quotes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-reviews-on-the-most-essential-airpods-pro-gear/"><u>Expert Reviews on the Most Essential AirPods Pro Gear</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-expanded-support-fedora-operating-system-enhances-compatibility-across-all-intel-based-macs-barring-a-single-model-tech-insights/"><u>Exploring the Expanded Support: Fedora Operating System Enhances Compatibility Across All Intel-Based Macs, Barring a Single Model | Tech Insights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-online-converter-transforming-aifc-files-into-aiff-format-movavi/"><u>Free Online Converter: Transforming AIFC Files Into AIFF Format - Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-turn-on-or-off-network-discovery-in-windows-10/"><u>How to Turn On or Off Network Discovery in Windows 10</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 13 Pro</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-xr-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone XR without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-cross-platform-messaging-imessage-for-windows-explained/"><u>Mastering Cross-Platform Messaging: IMessage for Windows Explained</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-destiny-2-centipede-glitch-solution-found/"><u>Overcoming the Destiny 2 Centipede Glitch - Solution Found</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pixel-vs-apple-wrist-tech-showdown-choosing-between-googles-and-apples-latest-smartwatches/"><u>Pixel Vs. Apple Wrist Tech Showdown: Choosing Between Google's and Apple's Latest Smartwatches</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-steps-to-create-timed-photos-on-the-iphone/"><u>Simple Steps to Create Timed Photos on the iPhone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simplified-steps-for-effective-text-communication-on-an-ipad/"><u>Simplified Steps for Effective Text Communication on an iPad</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-unexplained-failures-in-vision-pro-services-a-guide-on-how-to-respond-when-things-go-awry/"><u>Understanding Unexplained Failures in Vision Pro Services: A Guide on How To Respond When Things Go Awry</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-ios-1nce-new-season-brings-transcript-support-for-podcasts-exciting-emojis-and-revamped-apple-store-policies-in-the-eu-coverage-by-zdnet/"><u>Unveiling iOS 1Nce: New Season Brings Transcript Support for Podcasts, Exciting Emojis, and Revamped Apple Store Policies in the EU | Coverage by ZDNET</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-ideal-extras-for-improving-gopro-experience-for-2024/"><u>[New] Ideal Extras for Improving GoPro Experience for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-into-fantasy-with-these-samsung-gear-vr-titles/"><u>[New] Step Into Fantasy with These Samsung Gear VR Titles</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-art-of-elegance-in-design-with-canvas-hidden-tips/"><u>[New] The Art of Elegance in Design with Canva's Hidden Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-play-your-old-games-anywhere-anytime-choosing-the-best-gba-emulators-for-windows-pcs/"><u>[Updated] 2024 Approved Play Your Old Games Anywhere, Anytime Choosing the Best GBA Emulators for Windows PCs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tailored-thumbnail-for-social-media-vids/"><u>[Updated] Tailored Thumbnail for Social Media Vids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-timely-broadcasts-for-maximum-impact/"><u>[Updated] Timely Broadcasts for Maximum Impact</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/airtag-accessory-showdown-of-the-year-2024-thoroughly-tested-and-analyzed/"><u>AirTag Accessory Showdown of the Year 2024: Thoroughly Tested & Analyzed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-the-best-ipad-pro-showdown-selecting-your-ideal-premium-apple-tablet/"><u>Choosing the Best: IPad Pro Showdown – Selecting Your Ideal Premium Apple Tablet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210282111-9780645160918-god-is-me/"><u>God is Me | Free Book</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/navigating-modern-devices-with-guidance-from-toms-hardware/"><u>Navigating Modern Devices With Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimized-charging-and-cooling-the-ultimate-3-in-1-magsafe-dock-for-apple-gadgets-explore-the-latest-review/"><u>Optimized Charging & Cooling: The Ultimate 3-in-1 MagSafe Dock for Apple Gadgets - Explore the Latest Review</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/promoting-download-and-printing-techniques-for-boosting-user-engagement-with-your-flipbooks-at-flipbuildercom/"><u>Promoting Download and Printing: Techniques for Boosting User Engagement with Your Flipbooks at FlipBuilder.com</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protect-your-new-iphone-16-the-smart-way-expert-tips-on-choosing-the-right-case-even-if-youve-never-used-one-zdnet-advice-series/"><u>Protect Your New iPhone 16 the Smart Way: Expert Tips on Choosing the Right Case - Even If You've Never Used One | ZDNET Advice Series</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-common-issues-steps-for-a-smooth-tiktok-experience/"><u>Solving Common Issues: Steps for a Smooth TikTok Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-a-premium-viewing-experience-with-apple-vision-pros-enhanced-demos-discover-why-and-book-yours-now-gadgetworld/"><u>Unlocking a Premium Viewing Experience with Apple Vision Pro's Enhanced Demos – Discover Why and Book Yours Now! | GadgetWorld</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-im-choosing-apples-new-miniature-marvel-the-iphone-16-pro-over-the-max-variant-techinsights/"><u>Why I'm Choosing Apple's New Miniature Marvel, the iPhone 16 Pro, Over the Max Variant | TechInsights</u></a></li>
 </ul></div>
 

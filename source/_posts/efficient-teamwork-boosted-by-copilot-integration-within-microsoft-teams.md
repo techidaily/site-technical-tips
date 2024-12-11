@@ -1,7 +1,7 @@
 ---
 title: Efficient Teamwork Boosted by Copilot Integration Within Microsoft Teams
-date: 2024-09-04T00:49:45.070Z
-updated: 2024-09-05T00:49:45.070Z
+date: 2024-12-09T09:21:50.995Z
+updated: 2024-12-10T23:26:59.611Z
 categories:
   - BestProducts
 description: This Article Describes Efficient Teamwork Boosted by Copilot Integration Within Microsoft Teams
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/fi
 ---
 
 ## Creating Personalized Notification Tones in Gmail – Step by Step
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * With Notifier for Gmail installed, select**Extensions** next to the Chrome navigation bar.
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/fi
 * Change the sound in the drop-down menu and exit.
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable a New Mail Sound for Gmail
 
@@ -31,29 +40,30 @@ thumbnail: https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/fi
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
 
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Enable a Pop-Up Notification
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change Gmail Notification Sounds in Other Email Clients
 
  You can[turn on notification sounds for Outlook](https://www.lifewire.com/change-new-mail-notification-sound-outlook-1173674) email messages in the **FILE** \>**Options** \>**Mail**  menu, with the **Play a sound** option from the Message arrival section. To change the sound,[open Control Panel](https://www.lifewire.com/how-to-open-control-panel-2625782) and search for "sound". Open the Sound [Control Panel applet](https://www.lifewire.com/control-panel-applet-2625831) and modify the **New Mail Notification** option from the Sounds tab.
@@ -91,8 +101,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +108,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-detailed-exploration-youtubes-visionary-suite/"><u>[New] In 2024, A Detailed Exploration YouTube's Visionary Suite</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-acoustic-alerts-on-whatsapp-status/"><u>[Updated] In 2024, Acoustic Alerts on WhatsApp Status</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-approaches-to-integrating-vocal-elements-into-video-storytelling/"><u>[Updated] Innovative Approaches to Integrating Vocal Elements Into Video Storytelling</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-unlock-viewer-interest-with-these-5-effective-tiktok-captions/"><u>2024 Approved Unlock Viewer Interest with These 5 Effective TikTok Captions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-compreenas-best-photo-display-by-brookstone/"><u>A Compreenas Best Photo Display by Brookstone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-laptop-showdown-determining-whether-macbook-pro-or-macbook-air-fits-your-needs-perfectly-zdnet/"><u>Apple Laptop Showdown: Determining Whether MacBook Pro or MacBook Air Fits Your Needs Perfectly (ZDNet)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-innovative-leap-in-security-the-new-os-revolutionizing-its-artificial-intelligence-data-facilities/"><u>Apple’s Innovative Leap in Security: The New OS Revolutionizing Its Artificial Intelligence Data Facilities</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723011951615-boost-your-splitgate-gaming-experience-eliminate-latency-and-glitches/"><u>Boost Your Splitgate Gaming Experience - Eliminate Latency and Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/definitive-fixes-for-erratic-screen-behavior-correcting-chromes-flicker-on-your-windows-machine-guide/"><u>Definitive Fixes for Erratic Screen Behavior: Correcting Chrome's Flicker on Your Windows Machine (Guide)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-latest-speculations-on-oneplus-10s-launch-price-release-timeline-and-expected-features/"><u>Discover the Latest Speculations on OnePlus 10'S Launch - Price, Release Timeline & Expected Features</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/enhanced-wireless-range-with-netgear-nighthawk-x6s-wifi-booster/"><u>Enhanced Wireless Range with Netgear Nighthawk X6S WiFi Booster</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-look-at-apples-new-airpods-4-advanced-tracking-and-compatible-with-usb-c-in-depth-review/"><u>Exclusive Look at Apple's New AirPods 4: Advanced Tracking & Compatible with USB-C | In-Depth Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-apples-immersive-3d-spatial-content-on-your-meta-quest-3-a-step-by-step-guide-zdnet/"><u>Explore Apple's Immersive 3D Spatial Content on Your Meta Quest 3: A Step-by-Step Guide | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/eye-tracking-technology-transforms-mobile-accessibility-discover-apples-latest-innovation-for-iphoneipad-control-as-covered/"><u>Eye-Tracking Technology Transforms Mobile Accessibility: Discover Apple's Latest Innovation for iPhone/iPad Control, as Covered</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/finnish-innovator-challenges-apple-with-groundbreaking-vr-headset-for-professionals-a-deep-dive-into-the-latest-market-disruptor-zdnet/"><u>Finnish Innovator Challenges Apple with Groundbreaking VR Headset for Professionals: A Deep Dive Into the Latest Market Disruptor - ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-perfecting-panoramic-videography-with-premiere-pros-tools/"><u>In 2024, Perfecting Panoramic Videography with Premiere Pro's Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/g-a-mark-advanced-strategies-for-youtube-video-production/"><u>Making a Mark Advanced Strategies for YouTube Video Production</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-linking-your-nintendo-switch-with-hdmi-for-big-screen-gaming/"><u>Step-by-Step Instructions: Linking Your Nintendo Switch with HDMI for Big Screen Gaming</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-magsafe-chargers-comprehensive-reviews-and-ratings-techradar/"><u>Top-Rated Magsafe Chargers : Comprehensive Reviews & Ratings - TechRadar</u></a></li>
+</ul></div>
 

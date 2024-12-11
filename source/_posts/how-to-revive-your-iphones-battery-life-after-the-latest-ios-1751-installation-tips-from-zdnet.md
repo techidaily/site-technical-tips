@@ -1,7 +1,7 @@
 ---
 title: How to Revive Your iPhone's Battery Life After the Latest iOS 17.5.1 Installation | Tips From ZDNet
-date: 2024-12-01T04:46:56.751Z
-updated: 2024-12-04T19:51:45.221Z
+date: 2024-12-08T06:00:56.527Z
+updated: 2024-12-11T05:14:04.222Z
 tags:
   - apple
 categories:
@@ -36,12 +36,16 @@ Jason Hiner/ZDNET
 
 Go to your iPhone's Settings and select General. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Download and install
@@ -49,7 +53,7 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -59,10 +63,6 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
@@ -74,10 +74,6 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Can you still download the iOS 18 public beta?
 
 You can always be part of the Apple Beta program to get the latest beta versions of iOS. Before you download a beta version of an operating system, you should have some housekeeping items in mind:
@@ -87,7 +83,7 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
@@ -100,6 +96,10 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -161,21 +161,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-high-quality-android-photoshoppers-for-2024/"><u>[New] High-Quality Android Photoshoppers for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-ultimate-guide-top-freefire-streams-and-strategies-on-youtube-for-2024/"><u>[Updated] Ultimate Guide Top FreeFire Streams & Strategies on YouTube for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722872315685-are-you-having-trouble-with-microsoft-teams-heres-how-to-tell/"><u>Are You Having Trouble with Microsoft Teams? Here's How to Tell</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/canceling-paramountplus-subscription-simplified-a-detailed-process/"><u>Canceling Paramount+ Subscription Simplified - A Detailed Process</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/demystifying-dacs-what-are-they-and-why-should-you-consider-having-one/"><u>Demystifying DACs: What Are They and Why Should You Consider Having One?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/discover-the-top-11-kid-videography-gear-for-initial-use/"><u>Discover the Top 11 Kid Videography Gear for Initial Use</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-techniques-to-embed-songs-into-your-instagram-footage/"><u>Easy Techniques to Embed Songs Into Your Instagram Footage</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elevate-your-selfie-game-with-effective-use-of-individual-light-sources/"><u>Elevate Your Selfie Game with Effective Use of Individual Light Sources</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-nubia-red-magic-9-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Nubia Red Magic 9 Pro FRP?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor Magic 5 Lite? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-xiaomi-civi-3-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Xiaomi Civi 3 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-c67-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme C67 5G Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-multi-tasking-enable-pip-functionality-on-android-phones-and-tablets/"><u>Mastering Multi-Tasking: Enable PIP Functionality on Android Phones & Tablets</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stop-unwanted-emergency-alerts-on-android-tutorial-for-turning-off-amber-notifications/"><u>Stop Unwanted Emergency Alerts on Android: Tutorial for Turning Off AMBER Notifications</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/umstellung-video-dateien-ohne-kosten-in-mp4-losungen-fur-mac-and-windows-sowie-online-optionen/"><u>Umstellung VIDEO-Dateien Ohne Kosten in MP4: Lösungen Für MAC & WINDOWS Sowie Online Optionen</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-program-commands-keybinding-setup/"><u>Windows Program Commands: Keybinding Setup</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-future-of-editing-decoded-powerdirector-app-24-reviewed-and-explained/"><u>[New] In 2024, The Future of Editing Decoded PowerDirector App '24 Reviewed & Explained</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-navigating-facebook-for-uhd-1080p-content/"><u>[Updated] 2024 Approved Navigating Facebook for UHD (1080P) Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-from-idea-to-execution-an-essential-guide-to-youtube-shorts-template-design/"><u>2024 Approved From Idea to Execution An Essential Guide to YouTube Shorts Template Design</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722903701820-2024s-premier-selection-of-free-hard-drive-defrag-software-find-the-best-today/"><u>2024’S Premier Selection of Free Hard Drive Defrag Software - Find the Best Today!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/a-detailed-look-at-successful-valheim-sowing/"><u>A Detailed Look at Successful Valheim Sowing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-latest-showdown-comparing-m3-vs-m2-macbook-air-for-your-perfect-purchase-insights-from-zdnet/"><u>Apple's Latest Showdown: Comparing M3 Vs. M2 MacBook Air for Your Perfect Purchase - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-instructions-for-linking-your-samsung-soundbar-and-television-system/"><u>Easy Instructions for Linking Your Samsung Soundbar and Television System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-history-of-aol-instant-messenger-an-in-depth-look/"><u>Exploring the History of AOL Instant Messenger: An In-Depth Look</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/focusing-the-lens-detailed-film-techniques-for-2024/"><u>Focusing the Lens Detailed Film Techniques for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-secure-the-latest-driver-update-for-your-epson-xp-420-a-complete-guide/"><u>How To Secure The Latest Driver Update For Your Epson XP 420 – A Complete Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-motorola-moto-g-5g-2023-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Motorola Moto G 5G (2023) Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macbook-air-with-apple-m1-chip-unbeatable-deal-at-only-649-top-saving-on-zdnet/"><u>MacBook Air with Apple M1 Chip: Unbeatable Deal at Only $649 – Top Saving on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/next-level-interaction-how-apples-cutting-edge-artificial-intelligence-can-decipher-your-desktop-and-empower-siri-for-superior-assistance/"><u>Next Level Interaction: How Apple's Cutting-Edge Artificial Intelligence Can Decipher Your Desktop and Empower Siri for Superior Assistance</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y27-4g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Vivo Y27 4G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-best-buy-bargains-in-june-2024-exclusive-offers/"><u>Top Best Buy Bargains in June 2024: Exclusive Offers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-protective-cases-for-iphone-12-and-12-pro-2023s-ultimate-guide-zdnet/"><u>Top Rated Protective Cases for iPhone 12 & 12 Pro: 2023'S Ultimate Guide - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-ipad-air-protectors-in-2eplust5-comprehensive-review-by-tech-experts-zdnet/"><u>Top-Rated iPad Air Protectors in 2E+t5 - Comprehensive Review by Tech Experts (ZDNet)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-truths-why-the-iphone-16-may-not-be-worth-your-money-for-apple-enthusiasts-expert-analysis/"><u>Unlocking Truths: Why the iPhone 16 May Not Be Worth Your Money for Apple Enthusiasts | Expert Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-apples-vision-pro-is-a-game-changer-insider-secrets-and-top-benefits-explored/"><u>Why Apple's Vision Pro Is a Game Changer: Insider Secrets & Top Benefits | Explored</u></a></li>
 </ul></div>
 

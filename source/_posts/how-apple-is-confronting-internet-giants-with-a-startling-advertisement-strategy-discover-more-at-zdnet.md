@@ -1,7 +1,7 @@
 ---
 title: How Apple Is Confronting Internet Giants with a Startling Advertisement Strategy - Discover More at ZDNET
-date: 2024-12-04T02:17:46.665Z
-updated: 2024-12-04T16:36:46.922Z
+date: 2024-12-06T01:47:12.207Z
+updated: 2024-12-10T21:42:26.700Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### New eye-tracking features
 
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
@@ -44,16 +48,12 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -65,7 +65,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -75,7 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,19 +122,18 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-a-step-by-step-approach-to-masterful-screen-recordings-on-hp-systems/"><u>[Updated] A Step-by-Step Approach to Masterful Screen Recordings on HP Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/5-critical-considerations-every-potential-smartwatch-owner-should-know-beforehand/"><u>5 Critical Considerations Every Potential Smartwatch Owner Should Know Beforehand</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/cross-platform-sync-made-simple-post-tiktok-vids-on-fb-for-2024/"><u>Cross-Platform Sync Made Simple Post TikTok Vids on FB for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-latest-mozilla-thunderbird-version-52-features-and-updates/"><u>Discover the Latest Mozilla Thunderbird Version 52 Features and Updates</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722976355897-download-and-install-asus-z370-e-motherboard-drivers-in-minutes/"><u>Download & Install ASUS Z370-E Motherboard Drivers in Minutes!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dual-or-more-mastering-multi-bluetooth-connection-techniques-for-superior-sound-experience-on-your-gadget/"><u>Dual or More - Mastering Multi-Bluetooth Connection Techniques for Superior Sound Experience on Your Gadget</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-power-of-choice-comparing-samsung-and-apple-ecosystem-strengths-and-benefits/"><u>Evaluating the Power of Choice: Comparing Samsung and Apple Ecosystem Strengths & Benefits</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f34-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Samsung Galaxy F34 5G Phone without Google Account?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-s23plus-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy S23+ Lock Screen Password</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/key-insights-choosing-the-perfect-smartwatch-what-you-need-to-know-first/"><u>Key Insights: Choosing the Perfect Smartwatch - What You Need to Know First</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-fix-a-non-reactive-windows-download-folder/"><u>Methods to Fix a Non-Reactive Windows Download Folder</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-issues-with-stuck-media-drives/"><u>Step-by-Step Guide: Resolving Issues with Stuck Media Drives</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-bypass-filmora-watermark-free-and-paid-workarounds/"><u>Updated Bypass Filmora Watermark Free and Paid Workarounds</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/virtual-realitys-creativity-quandary-a-2023-outlook-for-2024/"><u>Virtual Reality's Creativity Quandary - A 2023 Outlook for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-master-the-art-of-mobile-movie-watching-with-top-10-ios-apps/"><u>[New] In 2024, Master the Art of Mobile Movie Watching with Top 10 iOS Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-dji-airborne-collection-basic-kit-elite-series-4k-masterclass/"><u>[Updated] 2024 Approved DJI Airborne Collection Basic Kit, Elite Series, 4K Masterclass</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-calculated-viewing-time-for-a-standard-20mb-film/"><u>[Updated] Calculated Viewing Time for a Standard 20Mb Film</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-secure-apps-for-hidden-instagram-stories/"><u>[Updated] In 2024, Secure Apps for Hidden Instagram Stories</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-guide-to-what-google-hangouts-actually-is/"><u>A Comprehensive Guide to What Google Hangouts Actually Is</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-mac-mini-upgrades-to-m2-chip-hit-historic-low-at-just-479-techradar-breaking-news/"><u>Apple's Mac Mini Upgrades to M2 Chip Hit Historic Low at Just $479 – TechRadar Breaking News</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-startup-failures-master-tips-and-tricks-for-dealing-with-error-code-10/"><u>Fixing Startup Failures: Master Tips and Tricks for Dealing with Error Code 10</u></a></li>
+<li><a href="https://win-web.techidaily.com/identifying-the-root-cause-of-your-devices-overheating-problem-insights-from-yl-computing-experts/"><u>Identifying the Root Cause of Your Device's Overheating Problem: Insights From YL Computing Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/innovation-alert-apple-delves-into-ai-enhanced-domestic-robots-showcasing-two-revolutionary-products-zdnet-update/"><u>Innovation Alert: Apple Delves Into AI-Enhanced Domestic Robots, Showcasing Two Revolutionary Products | ZDNET Update</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-burning-videos-to-dvd-a-comprehensive-guide-for-windows-and-mac-users/"><u>New Burning Videos to DVD A Comprehensive Guide for Windows and Mac Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-battle-of-streaming-devices-differences-between-roku-express-and-roku-stick-revealed/"><u>The Battle of Streaming Devices: Differences Between Roku Express and Roku Stick Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-new-possibilities-how-apples-iphone-embraces-third-party-nfc-integration-for-enhanced-user-experience/"><u>Unlocking New Possibilities: How Apple's iPhone Embraces Third-Party NFC Integration for Enhanced User Experience</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Protecting Your iPhone Memories by Syncing with iCloud and Mac Devices"
-date: 2024-11-30T18:55:47.369Z
-updated: 2024-12-04T17:05:07.938Z
+date: 2024-12-08T23:06:29.649Z
+updated: 2024-12-11T09:30:53.915Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -66,6 +62,10 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -76,15 +76,15 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
 
@@ -92,15 +92,15 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Start a new chat
 
@@ -108,15 +108,7 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -125,6 +117,10 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -137,6 +133,10 @@ You'll then be asked to grant the app access to your contacts, photo library, de
 At the next screen on your phone, tap the button for "Scan QR code." Scan the code in the Unison screen on your PC. Confirm the text string that appears on the screen. Your phone and PC should tell you that the pairing was successful. Tap Get Started in the iPhone app.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Launch the Windows Unison app
 
@@ -192,16 +192,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-premium-platforms-for-virtual-shows/"><u>[New] 2024 Approved Premium Platforms for Virtual Shows</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-20-most-reliable-hashtag-tracker-tools-fbtwitterinsta/"><u>[New] In 2024, 20 Most Reliable Hashtag Tracker Tools (FB/Twitter/Insta)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boosting-revenue-the-content-creators-playbook/"><u>[Updated] 2024 Approved Boosting Revenue The Content Creator's Playbook</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-streamlining-ad-revenue-post-monetization-yt-tips-and-tricks/"><u>[Updated] In 2024, Streamlining Ad Revenue Post-Monetization YT Tips & Tricks</u></a></li>
-<li><a href="https://facebook.techidaily.com/innovating-connectivity-facebook-unveils-new-subscription-link-methods/"><u>Innovating Connectivity: Facebook Unveils New Subscription Link Methods</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/prime-day-deals-how-the-apple-watch-series-se-2nd-generation-remains-80-cheaper-on-launch-insights-from-zdnet/"><u>Prime Day Deals: How the Apple Watch Series SE (2Nd Generation) Remains $80 Cheaper on Launch - Insights From ZDNet</u></a></li>
-<li><a href="https://win-forum.techidaily.com/securely-wipe-out-your-data-for-good-in-windows-11-with-these-tips/"><u>Securely Wipe Out Your Data for Good in Windows 11 with These Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-36-unbeatable-apple-discounts-and-offers-still-up-for-grabs-on-prime-day-shop-smart-guide/"><u>Top 36 Unbeatable Apple Discounts & Offers Still Up for Grabs on Prime Day - Shop Smart Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-tablets-in-depth-analysis-and-reviews-by-tech-experts/"><u>Top-Rated Tablets : In-Depth Analysis & Reviews by Tech Experts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-flaw-navigating-through-the-issues-at-the-recent-ipad-release-a-step-by-step-solution-for-apple/"><u>Unveiling the Flaw: Navigating Through the Issues at the Recent iPad Release | A Step-by-Step Solution for Apple</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-mighty-portable-8-in-1-adapter-under-30-a-review-by-zdnet/"><u>Unveiling the Mighty, Portable 8-in-1 Adapter Under $30 – A Review by ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-tips-and-tricks-for-professional-gamers-on-youtube/"><u>[New] In 2024, Tips & Tricks for Professional Gamers on Youtube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unlock-facebook-slide-in-content-access/"><u>[New] In 2024, Unlock Facebook Slide-In Content Access</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-optimal-listeners-for-university-talks/"><u>[Updated] 2024 Approved Optimal Listeners for University Talks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elite-defense-for-iphone-12pro-models-discover-the-premier-phone-case-selections-of-2023-on-zdnet/"><u>Elite Defense for iPhone 12/Pro Models: Discover the Premier Phone Case Selections of 2023 on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-cutting-edge-capabilities-of-the-latest-m4-ipad-pro-and-the-role-of-artificial-intelligence-showcased-at-apples-worldwide-developers-conferenc183/"><u>Exploring the Cutting-Edge Capabilities of the Latest M4 iPad Pro & The Role of Artificial Intelligence Showcased at Apple's Worldwide Developers Conference | Insights From ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-the-best-of-both-worlds-fixing-wacom-pen-issues-in-modern-operating-systems-windows-11-and-10/"><u>Getting the Best of Both Worlds: Fixing Wacom Pen Issues in Modern Operating Systems - Windows 11 and 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-note-30-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Note 30 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-htc-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any HTC Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-tecno-phantom-v-fold-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Tecno Phantom V Fold Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-the-intricacies-of-power-management-in-windows-10-systems/"><u>Navigating Through the Intricacies of Power Management in Windows 10 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/professional-review-of-the-apple-studio-27-inch-5k-monitor-is-its-elegance-worth-the-price-tag-analysis-by-zdnet/"><u>Professional Review of the Apple Studio 27-Inch 5K Monitor: Is Its Elegance Worth the Price Tag? - Analysis by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-exclusive-how-apples-upcoming-low-cost-vision-glasses-could-revolutionize-augmented-reality-experience/"><u>ZDNet Exclusive: How Apple's Upcoming Low-Cost Vision Glasses Could Revolutionize Augmented Reality Experience</u></a></li>
 </ul></div>
 

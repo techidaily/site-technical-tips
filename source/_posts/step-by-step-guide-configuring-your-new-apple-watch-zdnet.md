@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Configuring Your New Apple Watch (ZDNet)"
-date: 2024-11-30T20:34:42.749Z
-updated: 2024-12-04T21:01:57.517Z
+date: 2024-12-09T05:56:46.376Z
+updated: 2024-12-11T04:30:09.826Z
 tags:
   - apple
 categories:
@@ -45,12 +45,16 @@ Here's how.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -59,7 +63,7 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
@@ -67,7 +71,7 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -83,10 +87,6 @@ Screenshot by David Gewirtz/ZDNET
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,18 +179,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-perfect-planning-how-to-schedule-your-online-teams-virtual-gatherings-google-for-2024/"><u>[New] Perfect Planning How to Schedule Your Online Team's Virtual Gatherings (Google) for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-captivating-call-to-action-designing-a-dynamic-subscribe-buttons-with-filmora/"><u>[Updated] 2024 Approved Captivating Call-to-Action Designing a Dynamic Subscribe Buttons with Filmora</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-no-cost-iphone-and-android-apps-for-slow-motion-videos/"><u>2024 Approved Best No-Cost iPhone & Android Apps for Slow Motion Videos</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-latest-broadcom-bluetooth-drivers-compatible-with-windows-10-8-and-7/"><u>Download the Latest Broadcom Bluetooth Drivers Compatible with Windows 10, 8 & 7</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-techniques-for-snapping-photos-of-your-computer-display/"><u>Effortless Techniques for Snapping Photos of Your Computer Display</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-a-frozen-instagram-account-a-user-friendly-troubleshooting-guide/"><u>Fixing a Frozen Instagram Account: A User-Friendly Troubleshooting Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hard-drive-is-not-detected-solved/"><u>Hard Drive Is Not Detected [SOLVED]</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo Y100t? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-apples-portables-expert-advice-compared-between-macbook-pro-and-macbook-air-by-zdnet/"><u>Navigating Through Apple's Portables: Expert Advice Compared Between MacBook Pro and MacBook Air by ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/talking-to-chatgpt-on-android-the-voicegpt-way/"><u>Talking to ChatGPT on Android – The VoiceGPT Way</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/to-upgrade-or-not-expert-advice-on-why-you-should-consider-the-latest-iphone-n-16-a-comprehensive-guide-by-zdnet-editors/"><u>To Upgrade or Not: Expert Advice on Why You Should Consider the Latest iPhone N [16] - A Comprehensive Guide by ZDNET Editors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-console-and-game-accessory-presents-perfect-gifts-for-young-gamers/"><u>Top Console and Game Accessory Presents: Perfect Gifts for Young Gamers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-selection-expert-picks-for-apple-watch-guards-in-2-reviews-and-comparisons-zdnet/"><u>Ultimate Selection: Expert Picks for Apple Watch Guards in 2# Reviews & Comparisons - ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-becoming-a-snapping-maestro-mastering-the-zoom-feature-in-snapchat/"><u>[New] 2024 Approved Becoming a Snapping Maestro Mastering the Zoom Feature in Snapchat</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-a-compreranly-approach-to-high-quality-ps3-video-capture/"><u>[New] In 2024, A Compreranly Approach to High-Quality PS3 Video Capture</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlocking-the-treasure-chest-digging-into-fb-status-videos/"><u>[Updated] In 2024, Unlocking the Treasure Chest Digging Into FB Status Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-free-pdf-editing-tools-for-your-july-2024-needs/"><u>Best Free PDF Editing Tools for Your July 2024 Needs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-ways-to-address-tiktok-performance-problems/"><u>Effective Ways to Address TikTok Performance Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722871318201-exclusive-leaks-on-apples-rumored-new-touchscreen-macbook-release-schedule-pricing-insights-and-specs-disclosed/"><u>Exclusive Leaks on Apple's Rumored New Touchscreen MacBook - Release Schedule, Pricing Insights, and Specs Disclosed!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-se-2022-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone SE (2022) Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-reversing-live-action-on-twitch-a-comprehensive-guide/"><u>In 2024, Reversing Live Action on Twitch A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-fixes-for-when-d3dx939dll-cannot-be-located/"><u>Step-by-Step Fixes for When d3dx9_39.dll Cannot Be Located</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-complete-breakdown-of-facebooks-changes/"><u>The Complete Breakdown of Facebook's Changes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ai-chatbot-picks-navigating-through-chatgpt-microsofts-copilot-and-more-exploring-the-future-of-digital-conversations/"><u>Top AI Chatbot Picks : Navigating Through ChatGPT, Microsoft's Copilot & More - Exploring the Future of Digital Conversations!</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-using-bluescreenview/"><u>Understanding and Using BlueScreenView</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unite-over-music-the-ultimate-guide-to-streaming-spotify-with-friends/"><u>Unite Over Music: The Ultimate Guide to Streaming Spotify with Friends</u></a></li>
 </ul></div>
 

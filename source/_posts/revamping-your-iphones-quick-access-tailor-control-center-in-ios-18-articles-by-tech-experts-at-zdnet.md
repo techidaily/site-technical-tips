@@ -1,7 +1,7 @@
 ---
 title: "Revamping Your iPhone's Quick Access: Tailor Control Center in iOS 18 - Articles by Tech Experts at ZDNet"
-date: 2024-11-28T00:31:35.226Z
-updated: 2024-12-05T10:02:13.278Z
+date: 2024-12-08T19:00:02.402Z
+updated: 2024-12-11T09:26:26.823Z
 tags:
   - apple
 categories:
@@ -28,14 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -53,7 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -62,6 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -69,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -126,18 +126,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-worldwide-web-watchers-10-top-youtube-stars/"><u>[New] 2024 Approved Worldwide Web Watchers 10 Top YouTube Stars</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-launch-your-fortune-on-periscope-live-chats/"><u>[New] Launch Your Fortune on Periscope Live Chats</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-accelerating-your-watch-experience-on-instagram-videos/"><u>[Updated] Accelerating Your Watch Experience on Instagram Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-review-the-safest-and-most-reliable-phones-for-children-zdnet/"><u>Expert Review: The Safest & Most Reliable Phones for Children (ZDNet)</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-surface-driver-software-effortlessly-downloaded-here/"><u>Get the Latest Surface Driver Software Effortlessly Downloaded Here!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-your-macbook-air-m1-for-a-bargain-price-of-649-dont-miss-out-on-this-lowest-market-rate-shop-smart/"><u>Get Your MacBook Air M1 for a Bargain Price of $649! Don't Miss Out on This Lowest Market Rate | Shop Smart</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratuit-online-convertereen-van-tga-naar-tiff-professioneel-service-enkel-movavi/"><u>Gratuit Online Convertereen Van TGA Naar TIFF - Professioneel Service Enkel Movavi</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-visionary-insights-selecting-from-5-premier-slow-cameras/"><u>In 2024, Visionary Insights Selecting From 5 Premier Slow Cameras</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-video-multitasking-in-chromes-pip-mode-on-all-devices/"><u>Navigating Video Multitasking in Chrome’s PIP Mode on All Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pixel-9-pro-xl-vs-iphone-15-pro-the-ultimate-camera-showdown-reveals-a-stunning-victory-and-unexpected-twist-techinsight/"><u>Pixel 9 Pro XL Vs. IPhone 15 Pro: The Ultimate Camera Showdown Reveals a Stunning Victory & Unexpected Twist | TechInsight</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-julys-hot-iphone-promotions-insights-for-tech-enthusiasts-at-zdnet/"><u>Ultimate Guide to July's Hot iPhone Promotions | Insights for Tech Enthusiasts at ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/uncovering-solutions-to-temp-extraction-hurdles-in-win-oses/"><u>Uncovering Solutions to 'Temp Extraction Hurdles in Win OSes'</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722891398171-winning-the-battle-against-windows-code-19-effective-fixes-and-strategies-for-system-administrators/"><u>Winning the Battle Against Windows 'Code 19': Effective Fixes and Strategies for System Administrators.</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-inside-apowersoft-a-guide-to-recording-pc-screens/"><u>[New] 2024 Approved Inside Apowersoft A Guide to Recording PC Screens</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-ultimate-list-of-prime-video-favorites-on-twittersphere/"><u>[Updated] In 2024, The Ultimate List of Prime Video Favorites on Twittersphere</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/access-history-at-your-fingertips-a-beginners-guide-to-the-wayback-machine/"><u>Access History at Your Fingertips: A Beginner's Guide to the Wayback Machine</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-ipad-models-mini-vs-air-key-features-unveiled/"><u>Comparing iPad Models: Mini vs Air - Key Features Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnose-and-repair-persistent-stripes-or-dots-across-your-tvs-visual-output/"><u>Diagnose & Repair Persistent Stripes or Dots Across Your TV's Visual Output</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-dealing-with-cmos-checksum-error-messages/"><u>Easy Fixes for Dealing with CMOS Checksum Error Messages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-setup-how-to-link-disney-plus-content-directly-to-your-chromecast-device/"><u>Easy Setup: How to Link Disney Plus Content Directly to Your Chromecast Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-disconnection-how-to-detach-a-microsoft-account-from-windows-10-in-minutes/"><u>Effortless Disconnection: How To Detach a Microsoft Account From Windows 10 in Minutes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-gta-ves-fps-drop-rapid-and-simple-methods-to-improve-performance/"><u>Fix Your GTA Ve's FPS Drop: Rapid and Simple Methods to Improve Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/professional-guide-to-screen-image-capture-on-your-hp-notebook/"><u>Professional Guide to Screen Image Capture on Your HP Notebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-unfreeze-file-explorer-on-windows-11-platforms/"><u>Troubleshooting Steps to Unfreeze File Explorer on Windows 11 Platforms</u></a></li>
 </ul></div>
 

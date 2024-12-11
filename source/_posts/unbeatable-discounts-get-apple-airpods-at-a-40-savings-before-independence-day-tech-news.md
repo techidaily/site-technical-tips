@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Discounts: Get Apple AirPods at a $40 Savings Before Independence Day | Tech News"
-date: 2024-11-28T03:09:15.357Z
-updated: 2024-12-04T19:25:20.961Z
+date: 2024-12-10T10:26:11.811Z
+updated: 2024-12-11T10:55:18.363Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd3615e89-4bc5-490e-8142-47a4e693ce93%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,24 +62,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-premier-top-8-4k-blu-ray-playback-machines/"><u>[New] Premier Top 8 4K Blu-Ray Playback Machines</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-lowering-obs-video-bandwidth/"><u>[Updated] Lowering OBS Video Bandwidth</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-comprehensive-tutorial-for-turning-off-sticky-keys-on-a-windows-computer/"><u>A Comprehensive Tutorial for Turning Off Sticky Keys on a Windows Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722856875278-all-about-samsung-unpacked-2025-when-it-happens-plus-top-gadget-reveals/"><u>All About Samsung Unpacked 2025: When It Happens + Top Gadget Reveals!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-free-movie-streaming-applications-for-unlimited-entertainment/"><u>Best Free Movie Streaming Applications for Unlimited Entertainment</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-solutions-for-curing-100-drive-saturation-in-windows-11-computers/"><u>Comprehensive Solutions for Curing 100% Drive Saturation in Windows 11 Computers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dont-let-mystery-calls-disturb-you-how-to-shield-your-iphone-from-unknown-callers/"><u>Don't Let Mystery Calls Disturb You: How to Shield Your iPhone From Unknown Callers</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-mix-fold-3-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi Mix Fold 3</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-art-of-virality-8-essential-tips-for-hitting-big-on-youtube/"><u>Master the Art of Virality: 8 Essential Tips for Hitting Big on YouTube</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-c67-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme C67 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-sending-your-friend-a-steam-gift-package/"><u>Step-by-Step Guide: Sending Your Friend a Steam Gift Package</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-to-refresh-your-ralink-driver-software-on-microsoft-windows-systems/"><u>Step-by-Step Instructions to Refresh Your Ralink Driver Software on Microsoft Windows Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-setting-up-your-personalized-email-signature-with-godaddy-mail/"><u>Step-by-Step Tutorial: Setting Up Your Personalized Email Signature with GoDaddy Mail</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-guide-to-home-audio-systems-for-beginners/"><u>The Complete Guide to Home Audio Systems for Beginners</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-twitter-twist-clarifying-the-use-of-retweet-and-re-tweet/"><u>The Twitter Twist: Clarifying the Use of 'Retweet' And 'Re-Tweet'</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-comparison-adobe-storage-vs-non-adobe-options/"><u>The Ultimate Comparison Adobe Storage Vs. Non-Adobe Options</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-playbook-going-viral-on-tiktok-in-just-10-steps/"><u>The Ultimate Playbook: Going Viral on TikTok in Just 10 Steps!</u></a></li>
-<li><a href="https://win-news.techidaily.com/1728504503819-windows-11/"><u>Windows 11画面保持不变? 详解及解决办法</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-dynamics-of-canon-timelapse-imagery/"><u>[New] Exploring the Dynamics of Canon Timelapse Imagery</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-swift-guide-image-to-youtube-thumbnail-transformation-techniques/"><u>2024 Approved Swift Guide Image to YouTube Thumbnail Transformation Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-engagement-mastery-expert-driven-online-courses/"><u>AI Engagement Mastery: Expert-Driven Online Courses</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-shelldll-not-found-errors-in-windows-operating-systems/"><u>Easy Fixes for 'shell.dll Not Found' Errors in Windows Operating Systems</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1732518622195-effective-strategies-for-resolving-driver-issues-insights-from-yl-computing/"><u>Effective Strategies for Resolving Driver Issues - Insights From YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-guide-top-10-ipad-features-and-setup-tweaks-for-novice-users-and-experts-alike-insights/"><u>Essential Guide: Top 10 iPad Features & Setup Tweaks for Novice Users and Experts Alike - Insights</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/expert-approved-4k-video-editing-software-the-top-choices-for-2024/"><u>Expert-Approved 4K Video Editing Software The Top Choices for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-fcpx-tutorial-achieve-flawless-skin-without-plugins/"><u>New FCPX Tutorial Achieve Flawless Skin without Plugins</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/section-2a-understanding-piping-and-material-compatibility/"><u>Section 2A: Understanding Piping and Material Compatibility</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/struggling-to-send-imessages-find-out-why-they-might-be-failing-now-expert-analysis-on-messaging-issues/"><u>Struggling to Send iMessages? Find Out Why They Might Be Failing Now | Expert Analysis on Messaging Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tackling-the-issue-of-non-existent-wpcpatdll-files-in-windows-systems/"><u>Tackling the Issue of Non-Existent WPCPAT.DLL Files in Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-s24plus-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnets-expert-take-on-acer-chromebook-51-student-how-many-days-prior-to-the-termination-of-an-initial-or-extended-period-should-a-service-provider-provide-n93/"><u>ZDNet's Expert Take on Acer Chromebook 51 # Student: How Many Days Prior to the Termination of an Initial or Extended Period Should a Service Provider Provide Notice of Cancellation?</u></a></li>
 </ul></div>
 

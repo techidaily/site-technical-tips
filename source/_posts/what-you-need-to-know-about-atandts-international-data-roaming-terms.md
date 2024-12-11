@@ -1,7 +1,7 @@
 ---
 title: What You Need to Know About AT&T's International Data Roaming Terms
-date: 2024-09-04T00:48:57.182Z
-updated: 2024-09-05T00:48:57.182Z
+date: 2024-12-05T04:48:14.878Z
+updated: 2024-12-10T17:40:39.684Z
 categories:
   - BestProducts
 description: This Article Describes What You Need to Know About AT&T's International Data Roaming Terms
@@ -24,11 +24,29 @@ thumbnail: https://www.lifewire.com/thmb/9Oay80SZKOR2luRashN83cv5mZg=/400x300/fi
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -47,17 +65,9 @@ thumbnail: https://www.lifewire.com/thmb/9Oay80SZKOR2luRashN83cv5mZg=/400x300/fi
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -89,8 +99,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +106,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-playflixapp-user-feedback-synopsis/"><u>[New] PlayFlixApp User Feedback Synopsis</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fixing-failed-video-uploads-on-facebook-live-features/"><u>[Updated] 2024 Approved Fixing Failed Video Uploads on Facebook Live Features</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-millionaires-motto-attain-1000-followers-every-month/"><u>[Updated] In 2024, The Millionaire’s Motto Attain 1,000 Followers Every Month</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-download-youtube-videos-anywhere-anytime-free-android-tips/"><u>2024 Approved Download YouTube Videos Anywhere, Anytime Free Android Tips</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-unlocking-youtube-potential-with-perpetual-creative-commons-membership/"><u>2024 Approved Unlocking YouTube Potential with Perpetual Creative Commons Membership</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-complimentary-malware-eradication-programs-our-pick-of-five/"><u>Discover the Best Complimentary Malware Eradication Programs - Our Pick of Five!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-alter-a-secondary-users-password-on-your-windows-machine/"><u>How To Alter A Secondary User’s Password On Your Windows Machine</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-t2-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo T2 Pro 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-canon-mx870-driver-for-windows-11-7-and-8/"><u>Install Canon MX870 Driver for Windows 11, 7 & 8</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/limited-time-offer-snag-the-new-apple-pencil-for-just-95-exclusive-deals-this-labor-day/"><u>Limited-Time Offer: Snag the New Apple Pencil for Just $95 - Exclusive Deals This Labor Day !</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-35-tablets-on-prime-day-2024-exclusive-deals-that-are-still-available-discover-them-all-on-zdnet/"><u>Top 35 Tablets on Prime Day 2024: Exclusive Deals That Are Still Available - Discover Them All on ZDNet!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-stellar-iphone-16-pro-innovations-that-tech-lovers-cant-wait-to-experience-gizmodo/"><u>Top 5 Stellar iPhone 16 Pro Innovations That Tech Lovers Can't Wait To Experience | Gizmodo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-do-if-you-cant-connect-via-usb-network-link/"><u>What To Do If You Can't Connect Via USB Network Link?</u></a></li>
+</ul></div>
 

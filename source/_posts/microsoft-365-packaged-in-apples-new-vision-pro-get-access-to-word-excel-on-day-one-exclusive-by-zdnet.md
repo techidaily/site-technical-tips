@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 Packaged in Apple's New Vision Pro: Get Access to Word, Excel on Day One | Exclusive by ZDNET"
-date: 2024-11-30T23:52:57.783Z
-updated: 2024-12-05T11:53:21.925Z
+date: 2024-12-06T20:46:24.725Z
+updated: 2024-12-11T00:07:29.744Z
 tags:
   - apple
 categories:
@@ -75,7 +75,7 @@ Users can control the headset with eye and hand tracking, a feature that's slowl
 Vision Pro runs on a new Apple operating system, VisionOS, which resembles the iPadOS interface, bringing Apple's apps and services ecosystem to the headset. VisionOS was created specifically for spatial computing. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is the Apple Vision Pro AR or VR?
@@ -85,7 +85,7 @@ The Apple Vision Pro is a mixed-reality headset that combines augmented reality 
 **Also: [7 upgrades Apple Vision Pro needs to succeed in business](https://www.zdnet.com/article/7-upgrades-apple-vision-pro-needs-to-succeed-in-business/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What can you do with the Vision Pro headset?
@@ -134,6 +134,10 @@ Vision Pro scanning a user.
 
 Screenshot by Christina Darby/ZDNET 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How much does the Vision Pro cost?
 
 The Vision Pro has a hefty price tag of $3,499 for the 256GB base storage model, setting a premium category apart from [Meta](https://www.zdnet.com/article/meta-quest-3-unveiled-price-features-and-when-you-can-buy-metas-new-vr-headset/), [HTC](https://www.zdnet.com/article/meetings-in-the-metaverse-our-experience-with-htc-vive-sync/), and other manufacturers that play in the sub-$1,000 range. 
@@ -151,7 +155,7 @@ There are other bells and whistles you can opt for, such as Apple Care+ for $499
 **Also: [Itching to try Vision Pro's Travel Mode? Here's what to expect before you go](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What comes in the Apple Vision Pro box?
@@ -161,10 +165,6 @@ Included in the $3,499 purchase price is the headset, the battery pack, a Dual L
 **Also: [Installing a VPN on Apple Vision Pro: How to do it and why you should](https://www.zdnet.com/article/installing-a-vpn-on-apple-vision-pro-how-to-do-it-and-why-you-should/)**
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I wear the Apple Vision Pro with glasses?
 
@@ -208,10 +208,6 @@ Now that it has been over two weeks since the Vision Pro's launch, some users ha
 
 **Also: [How to return the Apple Vision Pro](https://www.zdnet.com/article/how-to-return-the-apple-vision-pro/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Apple Vision Pro updates were announced at WWDC 2024?
 
 At WWDC 2024, a year after the Apple Vision Pro headset was unveiled, the company updated [VisionOS 2](https://www.zdnet.com/article/new-visionos-2-features-unveiled-at-wwdc-2024-what-im-excited-about-and-puzzled-by/), adding many features to the headset. 
@@ -239,6 +235,10 @@ The products differ in display, weight, processors, controllers, and more, affec
 Jason Hiner/ZDNET
 
 **Also: [Why I returned my Apple Vision Pro and Meta Quest 3 for these XR glasses](https://www.zdnet.com/article/why-i-returned-my-apple-vision-pro-and-meta-quest-3-for-these-xr-glasses/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is the Apple Vision Pro worth the price?
 
@@ -283,22 +283,24 @@ ZDNET experts have Apple Vision Pro headsets in their hands, so stay tuned for m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-detailed-instructions-maximizing-mobizen-record-functionality/"><u>[New] 2024 Approved Detailed Instructions Maximizing Mobizen Record Functionality</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-enduring-removal-protocol-say-no-to-youtube-shorts/"><u>[New] In 2024, Enduring Removal Protocol Say No to YouTube Shorts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-video-magic-top-5-effect-tools/"><u>[Updated] Free Video Magic Top 5 Effect Tools</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/best-replacement-software-for-jdownloader-on-macwindows-free-trial-available/"><u>Best Replacement Software for JDownloader on MAC/WINDOWS - Free Trial Available</u></a></li>
-<li><a href="https://fox-links.techidaily.com/codec-comparison-are-we-better-with-av1-or-vp9-for-2024/"><u>Codec Comparison Are We Better With AV1 or VP9 for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-apples-enhanced-airpods-line-up-top-4-new-and-improved-features-unveiled/"><u>Discover Apple's Enhanced AirPods Line-Up: Top 4 New and Improved Features Unveiled!</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/essential-steps-to-enhance-your-pcs-security-expert-advice-from-yl-computing/"><u>Essential Steps to Enhance Your PC's Security - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expand-your-productivity-how-to-connect-dual-monitors-to-your-m3-macbook-pro-tips-and-tricks-similar-to-m3-macbook-air/"><u>Expand Your Productivity: How To Connect Dual Monitors to Your M3 MacBook Pro - Tips & Tricks Similar to M3 MacBook Air</u></a></li>
-<li><a href="https://fox-search.techidaily.com/guida-alla-sicurezza-dei-dati-con-aomei-clonazione-backup-e-sincronizzazione-impossibili-per-gli-umani/"><u>Guida Alla Sicurezza Dei Dati Con AOMEI: Clonazione, Backup E Sincronizzazione Impossibili per Gli Umani</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-advanced-iphone-voice-controls-for-enhanced-performance-discover-exclusive-siri-shortcuts-today/"><u>Mastering Advanced iPhone Voice Controls for Enhanced Performance - Discover Exclusive Siri Shortcuts Today!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximize-your-apple-watchs-longevity-top-8-tweaks-for-enhanced-battery-performance/"><u>Maximize Your Apple Watch's Longevity: Top 8 Tweaks for Enhanced Battery Performance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resident-evil-village-how-to-fix-persistent-mouse-problems/"><u>Resident Evil Village: How To Fix Persistent Mouse Problems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/spring-launch-predicted-for-newest-ipads-of-2024-according-to-zdnet-insights/"><u>Spring Launch Predicted for Newest iPads of 2024, According to ZDNet Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-fixing-the-silent-problem-of-your-logitech-g933-headset/"><u>Step-by-Step Guide: Fixing the Silent Problem of Your Logitech G933 Headset</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-most-secure-and-stylish-magsafe-wallets-of-2024-in-depth-analysis-and-ratings/"><u>Ultimate Guide to the Most Secure & Stylish MagSafe Wallets of 2024: In-Depth Analysis and Ratings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unraveling-the-irritation-a-call-for-apples-solution-on-iphone-quirks-techspot/"><u>Unraveling the Irritation: A Call for Apple's Solution on iPhone Quirks | TechSpot</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upgrading-from-iphone-13-pro-to-iphone-15-pro-heres-what-you-need-to-know-zdnet/"><u>Upgrading From iPhone 13 Pro to iPhone 15 Pro? Here's What You Need to Know | ZDNET</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-drive-engagement-crafting-an-animated-subscribe-button-in-filmoras-step-by-step-guide/"><u>[New] In 2024, Drive Engagement Crafting an Animated Subscribe Button in Filmora's Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astering-the-art-of-channel-creation-on-youtube-for-2024/"><u>[New] Mastering the Art of Channel Creation on YouTube for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-enhancing-productivity-how-to-master-screen-capture-on-an-hp-device/"><u>[Updated] 2024 Approved Enhancing Productivity How to Master Screen Capture on an HP Device</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-splitting-content-introducing-chapters-in-vimeo-for-2024/"><u>[Updated] Splitting Content Introducing Chapters in Vimeo for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-top-webinar-designers-toolset/"><u>2024 Approved Top Webinar Designer's Toolset</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/5-innovative-apps-to-transform-your-house-painting-experience-successfully/"><u>5 Innovative Apps to Transform Your House Painting Experience Successfully</u></a></li>
+<li><a href="https://win-guides.techidaily.com/aomei-onekey-usb/"><u>企業がAOMEI OneKey USB復元ソフトの容易なインストール方法を発見！</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-techniques-for-vce-22-optimization/"><u>Cutting Edge Techniques for VCE 2.2 Optimization</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experian-credit-reports-update-tracking-your-apple-pay-later-loans-insights-for-consumers/"><u>Experian Credit Reports Update: Tracking Your Apple Pay Later Loans - Insights for Consumers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/imessage-communication-made-easy-tips-for-using-imessage-on-a-windows-device-insights-from-zdnet/"><u>IMessage Communication Made Easy: Tips for Using iMessage on a Windows Device - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/integrating-images-into-your-insta-world/"><u>Integrating Images Into Your Insta World</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-update-1751-fixes-disturbing-glitch-restoring-archived-images-tech-news/"><u>IOS Update 17.5.1 Fixes Disturbing Glitch Restoring Archived Images - Tech News</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolve-your-issues-with-missing-python24dll-error-messages-here/"><u>Resolve Your Issues with Missing Python24.dll Error Messages Here</u></a></li>
+<li><a href="https://win-docs.techidaily.com/step-by-step-solution-resolving-the-problem-of-unseen-drives-in-seagates-discwizard-software/"><u>Step-by-Step Solution: Resolving the Problem of Unseen Drives in Seagate's DiscWizard Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-engaging-web-based-games-perfect-for-children/"><u>Top 7 Engaging Web-Based Games Perfect for Children</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-iphone-vpn-apps-in-depth-reviews-and-comparisons-by-tech-experts-zdnet/"><u>Top-Rated iPhone VPN Apps: In-Depth Reviews & Comparisons by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-2024s-premier-tablets-comprehensive-testing-by-tech-experts-zdnet/"><u>Ultimate Guide to 2024'S Premier Tablets: Comprehensive Testing by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-apples-secret-a-remarkable-unadvertised-feature-on-your-iphone-revealed/"><u>Unveiling Apple's Secret: A Remarkable, Unadvertised Feature on Your iPhone Revealed</u></a></li>
 </ul></div>
 
