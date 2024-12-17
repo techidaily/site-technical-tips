@@ -1,7 +1,7 @@
 ---
 title: "Mastering 'Pokémon Go': A Comprehensive Guide"
-date: 2024-08-30T13:45:04.434Z
-updated: 2024-08-31T13:45:04.434Z
+date: 2024-12-10T16:52:41.315Z
+updated: 2024-12-17T16:11:31.714Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering 'Pokémon Go': A Comprehensive Guide"
@@ -32,14 +32,16 @@ Close
 5. Once you’re signed in and the app has the necessary permissions, choose your in-game character’s look from available presets. You can change this later if you want.  
 ![Pokemon GO screens for login options (Android, iOS) and preset character choices](https://www.lifewire.com/thmb/GbX5l852UaODUA4o96UfPUn_pos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sign-in-1b0fe1fd739e49d18b43f2038fc867f4.jpg)
 6. After Professor Willow’s introduction, you’ll need to accept Niantic’s privacy policy (tap**OK** ) and the terms of service (tap**Accept** ).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. On the next screen, tap**Continue** to start playing or select**Have a referral code?** to enter a friend’s referral code.  
 ![Pokemon GO screenshots for Privacy Policy, referral code entry, and Terms of Service](https://www.lifewire.com/thmb/OqcU68BSPPbu8I4BFh4poDNRlAI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Finishing-79b2228ee30e4acfa01fabc28b64c126.jpg)
 
  The Android and iOS setup experiences are slightly different. Some options and pop-ups may appear in a different order, while some may not appear at all depending on the platform.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Select a Starter in ‘Pokémon Go’ 
 
  With setup and sign in complete, Professor Willow will give you a brief walkthrough of the basics.  
@@ -49,21 +51,29 @@ Close
 3. If your first throw misses, repeat the process while varying your timing and swipe speed until you succeed.  
 ![The process of selecting your starter in PokÃ©mon Go](https://www.lifewire.com/thmb/ElXuptnKfYHh0BdeHtptHZQOj60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Catching-Starter-69fd669ebf114215aa21cec948a695e1.jpg)
 4. Once you catch a Pokémon, you'll see a start screen for its health, weight, type, available moves (for use in raids or at gyms), and more info.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Tap the**check** icon at the bottom of the screen to continue.
 6. A pop-up will appear, asking you to choose a nickname for your character. Tap**Nickname** in the text window and type in the name you want to use (this might take a few attempts if the name you want is already taken). Tap**Yes** to submit your nickname.
 7. When prompted, choose whether or not to allow[ Adventure Sync](https://www.lifewire.com/what-is-pokemon-go-adventure-sync-4689082) (let the app monitor your movement, gather items, count distance, etc while closed).  
 ![captured pokemon stats screen, nickname entry, and Adventure Sync pop-up](https://www.lifewire.com/thmb/rJ2Nt54yfWWI3eYYg4akTk3r_3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Starting-Pokemon-Go-72f7c6199a7445c394624fdbd701782a.jpg)
 8. _Pokémon Go_ may also ask to access your fitness data. If the pop-up appears, tap**Allow** to give it access or**Don’t Allow** to block it. You can play the game even if you don't share this data.
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9. If you choose to allow access, tap the toggle next to each option to add one or more specific forms of tracking. You can also tap**Turn On All** to allow all of them.  
 ![Motion & Fitness activity access, permissions, and Time to Walk! screen in PokÃ©mon Go](https://www.lifewire.com/thmb/EZt9GWVwC_iYcZyZy0QuJsMiirY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pokemon-Go-Health-sharing-0e7849d1513342b8aacaa45266d883ea.jpg)
 
 _Pokémon Go_ requires that players move around the real world to travel to different locations in-game. Always be mindful of your surroundings and do not trespass onto private property—no pokémon is worth risking your personal safety.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Catch Pokémon in ‘Pokémon Go’ 
 
@@ -79,9 +89,11 @@ _Pokémon Go_ requires that players move around the real world to travel to diff
 6. Tap the**Berries** icon in the bottom-left corner to choose a berry to throw to the Pokémon. Feeding them berries can make them less feisty and easier to catch.  
 ![A capture ring, the PokÃ© Ball menu, and berries in PokÃ©mon Go](https://www.lifewire.com/thmb/GP4GSNB19JHUWAo5xxp6h38R-aU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Poke-Balls-and-Berries-ae00e33431b04ccab0488dc77681821d.jpg)
 7. It’s also possible to curve the Poké Ball when you throw it by quickly moving your finger in a circular motion before your toss (sparkles around the ball means it’s working).  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Landing a curve ball increases your chances of catching the Pokémon.
 8. Some Pokémon will move around or perform various animations that might throw off your aim or make them temporarily immune to capture. Wait for them to stand still before you move to catch them.
 9. It can be worth the effort to catch Pokémon you’ve already caught before. Two of the same Pokémon will often have different stats, while you can trade in your duplicates for candy (more on that below).
@@ -104,9 +116,11 @@ _Pokémon Go_ requires that players move around the real world to travel to diff
 6. Tap the**Adventure Incense** icon in the top right to use your daily incense. Adventure Incense can make wild Pokémon appear around your character for 15 minutes of real time.  
 ![The map screen, weather report, and daily Adventure Incense option in PokÃ©mon Go](https://www.lifewire.com/thmb/GHZ0t00HJU2FMtQ3m-47AbXbaTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Map-screen-weather-report-daily-incense-b462e34ee2dc4d209bda01407a7c1fde.jpg)
 7. Tap the**Compass** icon in the top-right corner to lock the camera to the direction your character is facing.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Tap your**Character** icon in the bottom left to view your character details, including appearance, walking distance, number of Pokémon caught so far, and more.
 9. Tap the**Binoculars** icon in the bottom-right corner to view current tasks. Tap on the different tabs (**Events** ,**Today** ,**Special** ) to view them.  
  When you complete a task, tap**Claim Reward** to get the prize for finishing it.  
@@ -120,9 +134,6 @@ _Pokémon Go_ requires that players move around the real world to travel to diff
 
  You’ll regularly earn all sorts of items (poké balls, berries, potions, stardust, etc) from PokéStops, Gyms, and catching pokémon.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Take Over Gyms in ‘Pokémon Go’ 
 
  After you reach level five and visit a gym, you’ll need to join a team: Instinct (yellow), Mystic (blue), or Valor (red). Teams don't have any mechanical differences; however, they regularly battle with each other over gym control.  
@@ -138,6 +149,11 @@ _Pokémon Go_ requires that players move around the real world to travel to diff
 Charged Attacks build up over time.  
 ![rival team-owned gym screen, gym battle preparation, battling rival pokÃÂ©mon at a gym](https://www.lifewire.com/thmb/yQox3svRJpNHUlhe3m7IGmY-rss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Gym-battle-50c837dd6915432a988bfcb18dca1340.jpg)
 9. When you defeat all of the defending Pokémon, the gym becomes neutral (grey), at which point you can assign your own Pokémon to defend it and claim the gym for your team.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Gyms also function much like PokéStops by allowing you to collect items from them.
 
  Any Pokémon you place at a gym will be unavailable to use in future battles until they return.
@@ -152,11 +168,13 @@ Charged Attacks build up over time.
 4. Select**Ready** to let the other participants know you’re set. Keep an eye on the timer at the top of the screen—the battle will begin when it hits zero, whether you’re ready or not.  
 ![Gym with raid boss, raid battle prep screen, pokÃÂ©mon team setup before a raid](https://www.lifewire.com/thmb/fKmFjo3OQ8E5YnDNWcvCjXjjMTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Raid-battle-084c6957caa842cb8274d2d9fd2e640b.jpg)
 5. Winning a fight against a raid boss will earn you special Poké Balls that you can use to attempt to catch the boss Pokémon you just defeated. Capturing raid boss Pokémon works the same as regular catching, though it's often more difficult to succeed.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![fighting a raid boss, earning special pokÃÂ© balls from raid battle, attempting to capture raid boss pokÃÂ©mon](https://www.lifewire.com/thmb/4PyQbXpFyXjaSRDw_qV7l8xfbsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Raid-Battle-2-03184c9960b04c6da76adaa174275a0e.jpg)
 6. Raids require**Raid Passes** to participate, which you can earn in a few different ways:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * **Regular Raid Passes** : You earn one per day with an inventory limit of one and collect them from a gym just like items from a PokéStop. Use them to access Tier 1 through Tier 5 raids.  
    * **Premium Raid Passes** : You purchase these from the shop using real-world money. They also work for Tier 1-5 raids.  
    * **Remote Raid Passes** : Also in-app purchases using real money. These let you participate in a raid without having to be close to the gym’s real-world location.
@@ -171,9 +189,6 @@ Charged Attacks build up over time.
 
 ![The More menu, Transfer command, and confirmation button in PokÃ©mon Go](https://www.lifewire.com/thmb/vIm_FNL1B4rVJScz7IkSr_1GLck=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Transfer-Pokemon-c9c3209ffe5d4d3399df32b68f9f2b08.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 * Spend candy and stardust to make your Pokémon stronger. Tap the**Poké Ball** icon > select**Pokémon** \> choose the Pokémon you want to improve. Then, tap**Power Up** and then decide how much to spend improving your Pokémon. Select “**+** ” to use more candy and stardust for a larger boost, and then select**Power Up** again and tap**Yes** to confirm.
 * Some Pokémon can Evolved into more powerful forms if you have enough candy saved up. Look for the**Evolve** option right below**Power Up** .
 * Hatch eggs you acquire to get even more Pokémon. Tap the**Poké Ball** icon and select**Pokémon** , and then tap the**Eggs** tab. Tap the egg to view its details. Tap**Incubate** and choose an incubator to place the egg in.
@@ -183,17 +198,15 @@ Charged Attacks build up over time.
 ![egg menu, egg details page, choosing an incubator in PokÃ©mon Go](https://www.lifewire.com/thmb/zYPU23fbDkrE_MRCflCywZ7-WUA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Egg-Hatching-6427e00370b74f478487ad7bec3245c4.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * Currently incubating eggs appear in an incubator in the egg list, with the number of km traveled (and km needed to hatch) displayed below them. Move around the real world with the_Pokémon Go_ app open to progress towards hatching your incubated eggs. If Adventure Sync is turned on, distances traveled when the app isn’t open will also be counted.
 * Revives are necessary for waking up any Pokémon that have been defeated in battle. Select the Revive item, and then tap on a downed Pokémon to revive it. You can also tap**Revive All** at the bottom of the screen to use multiple revives to wake all of your fainted Pokémon at once—if you have enough items for it.
 * Use potions to replenish Pokémon HP lost during battles. Tap the potion item, and then select an injured Pokémon to use it on, or tap**Heal All** at the bottom of the screen to use multiple potions at once.
 
 ![Items screen, using a Revive, using a Potion](https://www.lifewire.com/thmb/Bu9PsSYTjVPNfg97JKMQKsU_5XI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Revive-bb9253eb5dfc4bb5af697305749541b9.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Each Pokémon can only be powered up or evolved using candy from the exact same type of Pokémon. For example, Pikachu can only use Pikachu Candy, Furret requires Furret candy, and so on.  
 
 Was this page helpful?
@@ -216,8 +229,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -225,4 +236,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-ustream-evaluation-find-alternates/"><u>[New] Ustream Evaluation, Find Alternates</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ideas-that-make-your-meme-go-global/"><u>[Updated] 2024 Approved Ideas That Make Your Meme Go Global</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-eliminating-winhttpdll-missing-errors-on-your-pc/"><u>Comprehensive Guide: Eliminating Winhttp.dll Missing Errors on Your PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-12-proplus-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme 12 Pro+ 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-stop-receiving-unwanted-text-messages-on-iphones/"><u>How To: Stop Receiving Unwanted Text Messages on iPhones</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-oppo-find-n3-flipmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Oppo Find N3 FlipMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-humor-potential-quickly-kapwings-app/"><u>In 2024, Unlock Humor Potential Quickly - Kapwing's App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-look-at-the-future-apple-household-helper-bot-preliminary-price-estimates-launch-forecast-and-specs-rumors/"><u>Inside Look at the Future Apple Household Helper Bot – Preliminary Price Estimates, Launch Forecast & Specs Rumors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/m4-mac-mini-2021-what-we-know-so-far-release-forecast-pricing-estimates-and-feature-leaks/"><u>M4 Mac Mini 2021: What We Know So Far - Release Forecast, Pricing Estimates, and Feature Leaks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/perfectly-preserving-your-favorite-films-mastering-the-art-of-lossless-dvd-to-digital-conversion/"><u>Perfectly Preserving Your Favorite Films: Mastering the Art of Lossless DVD-to-Digital Conversion</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/strategic-background-changes-on-microsoft-teams-beforeafter-calls-for-2024/"><u>Strategic Background Changes on Microsoft Teams Before/After Calls for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-8-must-have-apps-for-extra-mobile-numbers-management/"><u>The Ultimate List of 8 Must-Have Apps for Extra Mobile Numbers Management</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whats-new-with-the-samsung-z-fold4-pricing-release-timeline-and-specifications/"><u>What's New with the Samsung Z Fold4? Pricing, Release Timeline & Specifications</u></a></li>
+</ul></div>
 

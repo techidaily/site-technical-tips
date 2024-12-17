@@ -1,7 +1,7 @@
 ---
 title: Efficiently Track Your Read Emails with These Gmail Tips & Tricks
-date: 2024-08-30T13:42:55.320Z
-updated: 2024-08-31T13:42:55.320Z
+date: 2024-12-15T16:27:22.535Z
+updated: 2024-12-17T17:23:54.344Z
 categories:
   - BestProducts
 description: This Article Describes Efficiently Track Your Read Emails with These Gmail Tips & Tricks
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 ---
 
 ## Efficiently Navigate Google's Features with Gemini - Learn How
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Register or log in to Gemini with your Google account.
@@ -18,11 +23,19 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 
  This article will show you how to use the conversational[Google Gemini](https://www.lifewire.com/what-is-google-bard-7151624) AI chatbot, from signing up to crafting effective prompts and getting the most out of its features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Note
 
  This article uses the free Gemini app. The steps are the same if you have signed up for Gemini Advanced. The latter is a subscription service but allows you to upload documents and other features.
 
 [ChatGPT vs. Gemini: What's the Difference?](https://www.lifewire.com/chatgpt-vs-bard-7504876)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Sign Up for Google Gemini
 
@@ -42,6 +55,10 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 
 ![Google Gemini in iOS](https://www.lifewire.com/thmb/9i8u4Mbuaiwb1oioPFtMAGMytEE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Gemini-iOS-bf356a55a5cd4d01afecd0dc2f5b6da2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do I Use Gemini AI?
 
  Gemini relies on[generative AI](https://www.lifewire.com/what-is-generative-ai-7510795) to take your natural language queries and turn them into detailed answers. You can start a conversation and get any content, like text, images, music, language, 3D models, and more, with the help of a simple prompt.
@@ -49,9 +66,6 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 1. In the Gemini chat window, begin typing your request in the**Enter your prompt here** field.  
 ![The prompt field in the Google Gemini web interface](https://www.lifewire.com/thmb/df8I0SZWORbiyM8-BLz2rxN2m8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Gemini-prompt-field-94528b5550664e2f9c5c489c7ba2cd98.jpg)
 2. As a multi-modal chatbot, you can speak to the chatbot, upload an image, write code, or ask it to process information from an online video.
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Make your prompt specific while giving Gemini as much context as you can about your query.
 4. Ask follow-up questions and carry out a conversation with the chatbot.
 5. Select the pencil icon next to your query to edit the original question, and then choose**Update** .  
@@ -59,16 +73,10 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 6. You can ask Gemini to generate images with words like "draw," "generate," and "create."
 7. Select**New chat** on the sidebar to start a conversation on another topic with the chatbot.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Tip
 
  Google suggests several[tips for getting the best results with your prompts](https://support.google.com/a/users/answer/14200040?hl=en) . Download the free[Gemini for Workspace prompt guide](https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html) if you use Google Workspace with other tools in the suite.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Review Gemini's Answer With More Features
 
  You don't have to accept Gemini's original answer. The generative AI chatbot offers a few extra methods to change the style of the answer.  
@@ -76,21 +84,17 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 1. Select**Show drafts** and view two more versions of the result. You can choose**Regenerate drafts** to force Gemini to make another attempt at better answers.  
 ![The "Hide/Show drafts" and "Regenerate drafts" options in Google Gemini](https://www.lifewire.com/thmb/qA7gawJp3_oXG1w3DcDUr9ydFBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Hide-drafts-and-regenerate-google-gemini-9cbbe551f2904f008b8c05bcf385caa5.jpg)
 2. Give Gemini's large language model some feedback by choosing the**Good response** or**Bad response** icons (the thumb icons).
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 3. The**Modify response** filter pop-up helps you adjust the length, simplify the language, and change the tone of a response. Use this to tailor the answers for your intended audience or finetune them.  
 ![The "Modify response" option in Google Gemini](https://www.lifewire.com/thmb/tM5Ik6bHqWlxMYpKv-VT30BTI2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Modify-response-in-Google-Gemini-c53c46000aea49879f6ad313767b5a33.jpg)
 4. Instead of making Gemini rewrite the entire content, you can modify parts of the generated responses. Highlight any part of the text and select the**Modify selected text** icon.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Enter a fresh prompt in the Modify with a prompt field to describe how you want the selected text to change, and then press**Enter** . The other options of**Regenerate** ,**Shorter** ,**Longer** , and**Remove** are self-explanatory.  
 ![Google Gemini Modify selected text ](https://www.lifewire.com/thmb/ek4DwjpGOxgIqgqgg0yWUoHFeHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GoogleGemini-Modify-Answer-Content-34d76e37a88c42c9969dfd593be19c21.jpg)  
 ![Google Gemini Modify selected text ](https://www.lifewire.com/thmb/ek4DwjpGOxgIqgqgg0yWUoHFeHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GoogleGemini-Modify-Answer-Content-34d76e37a88c42c9969dfd593be19c21.jpg)
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Gemini can be error-prone. Select the**Google** button at the foot of the response to double-check the answers. The AI checks with a Google Search and highlights content similar to (Green highlight) or different (Orange highlight) from Gemini's statements.
 
 ## Using Extensions in Gemini
@@ -100,27 +104,21 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 1. Go to**Settings** \>**Extensions** .  
 ![The Settings > Extensions options in Google Gemini](https://www.lifewire.com/thmb/pccAkIep3BpKkhVuV-2YYAWwlYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Extensions-in-Google-Gemini-08e89dd23f4940048feb9db7f2cf1f17.jpg)
 2. Enable or disable your choice of extensions with the toggle switch.
+
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. To automatically use any Google services as an extension, mention it in the prompt. Alternatively, enter @ and select the extension to allow Gemini to use a specific extension.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip
 
  Gemini is a handy way to summarize YouTube videos you don't want to watch till the end. Ask Gemini multiple questions to dig deeper into the video's content in half the time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## More Tips for Using Gemini Effectively
 
  Here are a few more tips to make better use of Gemini.
@@ -151,8 +149,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +156,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-guide-for-snapchat-business-for-2024/"><u>[New] Guide for Snapchat Business for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-copycat-cinema-steps-for-satirical-video-making/"><u>[Updated] In 2024, Copycat Cinema Steps for Satirical Video Making</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/18-steps-to-make-your-instagram-unboxing-content-stand-out-for-2024/"><u>18 Steps to Make Your Instagram Unboxing Content Stand Out for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-guide-to-what-is-rcs-messaging/"><u>A Comprehensive Guide to What Is RCS Messaging?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginners-tutorial-activating-your-psn-user-account/"><u>Beginner's Tutorial: Activating Your PSN User Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-free-from-file-read-only-status-on-pc/"><u>Breaking Free From File Read-Only Status on PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-fix-user32dll-not-detected-problems-quickly/"><u>Comprehensive Guide to Fix User32.dll Not Detected Problems Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/disco-elysium-pc-game-errors-resolved-smooth-sailing-now/"><u>Disco Elysium PC Game Errors Resolved: Smooth Sailing Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/entertaining-prank-guides-perfectly-suited-for-iphone-and-ipad-users/"><u>Entertaining Prank Guides Perfectly Suited for iPhone and iPad Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-troubleshooting-how-to-restore-access-to-your-windows-installer-services/"><u>Error Troubleshooting: How to Restore Access to Your Windows Installer Services</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-itel-p40-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-playtime-paradises-nine-fantastic-resources-for-pre-k-games-and-lessons/"><u>Free Playtime Paradises: Nine Fantastic Resources for Pre-K Games and Lessons</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-honor-magic-6-pro-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Honor Magic 6 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/lenovo-laptops-made-simple-mastering-the-factory-reset-process-for-fresh-start/"><u>Lenovo Laptops Made Simple: Mastering the Factory Reset Process for Fresh Start</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-world-of-lg-channels-critical-facts-exposed/"><u>Navigating the World of LG Channels: Critical Facts Exposed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/perfect-star-wars-viewing-sequence-watching-the-saga-chronologically-on-disneyplus/"><u>Perfect Star Wars Viewing Sequence: Watching the Saga Chronologically on Disney+</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-windows-update-freeze-implementing-effective-fixes/"><u>Stop Windows Update Freeze: Implementing Effective Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-17-resources-for-finding-and-downloading-free-e-books/"><u>Top 17 Resources for Finding and Downloading Free E-Books</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-latest-innovation-the-new-samsung-smartphone-release/"><u>Unveiling the Latest Innovation: The New Samsung Smartphone Release</u></a></li>
+</ul></div>
 

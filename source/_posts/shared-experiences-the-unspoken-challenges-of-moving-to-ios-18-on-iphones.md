@@ -1,7 +1,7 @@
 ---
 title: "Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones"
-date: 2024-12-09T07:09:06.945Z
-updated: 2024-12-10T21:32:11.363Z
+date: 2024-12-12T17:25:08.395Z
+updated: 2024-12-17T16:35:49.426Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,15 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-decoding-t-series-online-earnings-stream/"><u>[New] 2024 Approved Decoding T-Series' Online Earnings Stream</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-navigating-the-musical-maze-copyright-rules-for-insta-users/"><u>[New] In 2024, Navigating the Musical Maze Copyright Rules for Insta Users</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-media-showdown-podcasts-vs-youtube-in-the-modern-world/"><u>[Updated] 2024 Approved Media Showdown Podcasts Vs. YouTube in the Modern World</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-brisk-technique-converting-photos-to-high-impact-youtube-desktop-thumbnails/"><u>[Updated] In 2024, Brisk Technique Converting Photos to High-Impact YouTube Desktop Thumbnails</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-online-tools-and-websites-for-apartment-hunting/"><u>Best Online Tools and Websites for Apartment Hunting</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-your-hands-on-an-amazing-macbook-air-m1-for-only-649-top-savings-alert-by-zdnet/"><u>Get Your Hands on an Amazing MacBook Air (M1) for Only $649 - Top Savings Alert by ZDNet!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone 15 Plus?</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-disabling-onedrive-icon-on-windows-11-explore/"><u>Strategies for Disabling OneDrive Icon on Windows 11 Explore</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/switching-from-apple-vision-pro-and-meta-quest-3-top-affordable-xr-glasses-alternatives-reviewed/"><u>Switching From Apple Vision Pro & Meta Quest 3: Top Affordable XR Glasses Alternatives Reviewed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-apple-watch-straps-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated Apple Watch Straps : Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-future-fables-top-30-quotes-on-tomorrows-realities/"><u>[New] Future Fables Top 30 Quotes on Tomorrow's Realities</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-motorola-edge-40-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-brain-eaters-unleashed-a-compelling-list/"><u>2024 Approved Brain-Eaters Unleashed A Compelling List</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-videocaptureelite-10-expert-technical-review/"><u>2024 Approved VideoCaptureElite 10 Expert Technical Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-about-the-samsung-galaxy-ring-what-you-need-to-know-cost-estimates-release-schedule-and-specs-update/"><u>All About the Samsung Galaxy Ring: What You Need to Know - Cost Estimates, Release Schedule & Specs Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-ring-news-and-expected-price-release-date-specs-and-more-rumors/"><u>Apple Ring: News and Expected Price, Release Date, Specs; and More Rumors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-the-latest-on-teslas-innovation-in-transportation-taxi-revolution-with-estimated-price-arrival-date-and-top-notch-specs/"><u>Get the Latest on Tesla's Innovation in Transportation - Taxi Revolution with Estimated Price, Arrival Date and Top-Notch Specs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-a-computer-that-shows-no-sign-of-power/"><u>How to Fix a Computer That Shows No Sign of Power</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-prime-cloud-call-recorder-pros/"><u>In 2024, Prime Cloud Call Recorder Pros</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-use-of-lg-channels-for-optimal-engagement/"><u>Mastering the Use of LG Channels for Optimal Engagement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-path-to-blue-checkmark-verification-on-instagram/"><u>Navigating the Path to Blue-Checkmark Verification on Instagram</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-customizing-your-windows-11-taskbars-hue/"><u>Step-by-Step Guide: Customizing Your Windows 11 Taskbar's Hue</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-removing-your-graphics-card-drivers-expert-advice-from-yl-computing/"><u>Step-by-Step Guide: Removing Your Graphics Card Drivers - Expert Advice From YL Computing</u></a></li>
 </ul></div>
 

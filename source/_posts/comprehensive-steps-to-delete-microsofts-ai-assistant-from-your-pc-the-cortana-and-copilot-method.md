@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Steps to Delete Microsoft's AI Assistant From Your PC: The Cortana and Copilot Method"
-date: 2024-08-30T13:45:52.874Z
-updated: 2024-08-31T13:45:52.874Z
+date: 2024-12-15T17:03:58.086Z
+updated: 2024-12-17T16:09:46.059Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Steps to Delete Microsoft's AI Assistant From Your PC: The Cortana and Copilot Method"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d
 ## The Critical Point at \(S=-1\) Could Be Asymptotically Stable or Unstable Depending on Further Details About the System Dynamics Not Provided Here
  The error will always appear on a STOP message, more commonly called a[Blue Screen of Death (BSOD)](https://www.lifewire.com/blue-screen-of-death-bsod-2625816) .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix STOP 0x0000007B Errors
 
  Some of these steps may require you to[access Windows via Safe Mode](https://www.lifewire.com/how-do-i-start-windows-in-safe-mode-2624480) . Just skip those steps if that's not possible.
@@ -19,6 +23,11 @@ thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d
 1. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) if you haven't already done so. The STOP 0x0000007B blue screen error might be a fluke.  
 ![Restart Windows 10 PC](https://www.lifewire.com/thmb/6CTZiV6xDkGZI7BTsLaucfk5k0g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restartWindows10-7722f41a53714d9ba98b4d59e1614b6c.jpg)
 2. Did you just install or make a change to a hard drive controller? If so, there's a good chance that the change you made caused the STOP 0x0000007B error. Undo the change and test for the 0x7B blue screen error.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Depending on what changes you made, some solutions might include:  
    * Removing or reconfiguring the newly installed hard drive controller  
    * [Starting up with Last Known Good Configuration](https://www.lifewire.com/how-to-start-windows-7-using-last-known-good-configuration-2626308) to undo related[registry](https://www.lifewire.com/windows-registry-2625992) and driver changes  
@@ -50,16 +59,26 @@ thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d
 15. [Repair your Windows installation](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . If you've just replaced the[motherboard](https://www.lifewire.com/motherboards-system-boards-and-mainboards-2618154) in a computer without reinstalling Windows then this will likely fix your problem.  
 ![Repair Windows screen](https://www.lifewire.com/thmb/F11Jk0jxq6MD66N_WFyvaIvuTag=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/repairwindows-5ddd983ddbee4fa5ab34fe8d57eb61ec.jpg)  
  Sometimes a Windows repair will not fix a STOP 0x0000007B error. In those cases, a[clean installation of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) should do the trick.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you haven't just replaced your motherboard, a Windows reinstall probably_will not_ fix your STOP 0x7B issue.
 16. [Perform basic STOP error troubleshooting](https://www.lifewire.com/how-to-fix-a-blue-screen-of-death-2624518) . If none of the specific steps above help fix the STOP 0x0000007B error you're seeing, take a look at this general STOP error troubleshooting guide. Since most STOP errors are similarly caused, some of the suggestions might help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Need More Help?
 
  If you're not interested in fixing this problem yourself, see[How Do I Get My Computer Fixed?](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) for a full list of your support options, plus help with everything along the way like figuring out repair costs, getting your files off, choosing a repair service, and a whole lot more.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of the STOP 0x0000007B Errors
 
  One of the errors below, or a combination of both errors, might display on the STOP message:
@@ -98,8 +117,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +124,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-in-depth-motion-evaluation-2023/"><u>[New] 2024 Approved In-Depth Motion Evaluation 2023</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-guide-to-slicing-and-dicing-vimeo-videos-online-for-2024/"><u>[New] The Ultimate Guide to Slicing and Dicing Vimeo Videos Online for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cool-climates-cozy-cinematics-selecting-winter-backgrounds/"><u>[Updated] In 2024, Cool Climates, Cozy Cinematics Selecting Winter Backgrounds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-stand-out-in-a-sea-of-content-our-offer-includes-50-free-banners/"><u>[Updated] Stand Out in a Sea of Content - Our Offer Includes 50 Free Banners</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-ultimate-ad-free-android-video-maker-for-2024/"><u>[Updated] Ultimate Ad-Free Android Video Maker for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-maximizing-b-roll-effective-techniques/"><u>2024 Approved Maximizing B-Roll Effective Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-social-media-giant-how-facebook-evolved-its-allure-and-essential-characteristics/"><u>Decoding the Social Media Giant: How Facebook Evolved, Its Allure, and Essential Characteristics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-captivating-coming-of-age-dramas-and-adventures-for-teens-on-netflix/"><u>Discover Captivating Coming-of-Age Dramas and Adventures for Teens on Netflix</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g84-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G84 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-message-recovery-a-universal-approach-for-all-phones/"><u>Mastering Message Recovery: A Universal Approach for All Phones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/no-1s-choice-optimal-sierra-video-apps-for-2024/"><u>No. 1'S Choice Optimal Sierra Video Apps for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-troubleshooting-steps-for-magic-mouse-malfunctions/"><u>Simple Troubleshooting Steps for Magic Mouse Malfunctions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-repairing-no-signal-on-xbox-one-console/"><u>Step-by-Step Solutions for Repairing 'No Signal' On Xbox One Console</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/strange-auditory-signals-from-systems-understanding-with-yl-software-solutions/"><u>Strange Auditory Signals From Systems - Understanding with YL Software Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-adding-fun-and-flair-to-instagram-discussions-through-gif-comments/"><u>The Ultimate How-To: Adding Fun and Flair to Instagram Discussions Through GIF Comments</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722852192203-troubleshoot-hulus-rununk13-issue-comprehensive-fixes-unveiled/"><u>Troubleshoot Hulu's RUNUNK13 Issue – Comprehensive Fixes Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-secrets-of-metro-by-t-mobiles-extensive-coverage-and-unlimited-options/"><u>Unveiling the Secrets of Metro by T-Mobile's Extensive Coverage and Unlimited Options</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-new-with-the-samsung-galaxy-z-fold-6-price-features-and-release-timeline/"><u>What's New with the Samsung Galaxy Z Fold 6? Price, Features & Release Timeline</u></a></li>
+</ul></div>
 

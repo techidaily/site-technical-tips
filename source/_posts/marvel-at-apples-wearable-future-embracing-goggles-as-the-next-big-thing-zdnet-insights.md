@@ -1,7 +1,7 @@
 ---
 title: "Marvel at Apple’s Wearable Future: Embracing Goggles as the Next Big Thing | ZDNET Insights"
-date: 2024-12-10T06:39:38.898Z
-updated: 2024-12-11T06:33:23.938Z
+date: 2024-12-15T17:14:50.990Z
+updated: 2024-12-17T16:06:56.758Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's the camera, stupid
@@ -67,7 +67,7 @@ Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## And it's the movies
@@ -89,7 +89,7 @@ Apple explains: "Longer battery life lets you watch up to 3 more hours of video 
 That's the thing when people buy phones. They prefer actual results. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
@@ -150,19 +150,14 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-forging-strong-connections-building-youtube-backlinks-right/"><u>[New] Forging Strong Connections Building YouTube Backlinks Right</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-comprehensive-guide-to-whatsapp-vocal-exchange-for-2024/"><u>[Updated] Comprehensive Guide to WhatsApp Vocal Exchange for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-an-easy-way-to-amplify-your-instagram-presence-by-sharing-youtube-links-in-stories/"><u>2024 Approved An Easy Way to Amplify Your Instagram Presence by Sharing YouTube Links in Stories</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-avoiding-common-pitfalls-in-youtube-sponsorships-according-to-famebit/"><u>2024 Approved Avoiding Common Pitfalls in YouTube Sponsorships, According to FameBit</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/m4a-wav/"><u>移動電話 M4A 到 WAV 無限制免費線上音頻格式翻譯 - 動派流式視頻編解碼器</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-hooking-up-three-screens-to-one-computer-system/"><u>Expert Tips for Hooking Up Three Screens to One Computer System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-depth-discovering-royal-matchs-layered-structure/"><u>Exploring the Depth: Discovering Royal Match's Layered Structure</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-x3daudiodll-missing-or-not-found-errors/"><u>How to Fix X3daudio.dll Missing or Not Found Errors</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimizing-podcast-visibility-via-instagram-channels/"><u>In 2024, Optimizing Podcast Visibility via Instagram Channels</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maintain-anonymity-learn-how-to-conceal-phone-numbers-using-android-settings/"><u>Maintain Anonymity: Learn How to Conceal Phone Numbers Using Android Settings</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-evolution-continues-tcl-boosts-its-lineup-with-a-staggering-19-upgrades-to-the-q-and-s-series-smart-tvs/"><u>The Evolution Continues: TCL Boosts Its Lineup with a Staggering 19 Upgrades to the Q and S Series Smart TVs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-gear-and-hardware-insights/"><u>Tom's Tech Review: Gear and Hardware Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-top-strategies-for-setting-up-your-super-bowl-viewing-experience/"><u>Ultimate Guide: Top Strategies for Setting Up Your Super Bowl Viewing Experience</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-imovie-techniques-for-squaring-up-your-instagram-feed/"><u>[New] In 2024, IMovie Techniques for Squaring Up Your Instagram Feed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-complete-guide-to-video-studios-focusing-on-xvideo-for-2024/"><u>[Updated] Complete Guide to Video Studios Focusing on XVideo for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-list-of-exciting-pc-clickers-you-cant-miss-for-2024/"><u>[Updated] The Ultimate List of Exciting PC Clickers You Can't Miss for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/backdrop-beats-curating-cinematic-tunes/"><u>Backdrop Beats Curating Cinematic Tunes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-savvy-guide-effortless-screen-shots-with-your-toshiba-laptop-explained/"><u>Tech Savvy Guide: Effortless Screen Shots with Your Toshiba Laptop Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-vpn-services-ideal-for-enhanced-privacy-on-youtube/"><u>Top 5 VPN Services Ideal for Enhanced Privacy on YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-skype-not-connecting-in-windows-10-top-5-easy-to-follow-fixes/"><u>Troubleshooting Skype Not Connecting in Windows 10: Top 5 Easy-to-Follow Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-to-revive-and-restart-your-frozen-computer-in-windows-10/"><u>Troubleshooting Tips to Revive and Restart Your Frozen Computer in Windows 10</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-15-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 15?</u></a></li>
 </ul></div>
 

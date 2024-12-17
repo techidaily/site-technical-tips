@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Modifying Font Settings on Windows 11"
-date: 2024-08-30T13:46:31.463Z
-updated: 2024-08-31T13:46:31.463Z
+date: 2024-12-14T17:11:02.728Z
+updated: 2024-12-17T17:05:15.052Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Modifying Font Settings on Windows 11"
@@ -12,11 +12,23 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 ## Getting Your Windows 11 Search Back on Track - Essential Fixes
  It's hard to find files and apps when the Windows 10 search bar is not working. Below are all the different ways we've been able to fix this problem.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Search Is Not Working in Windows 10
 
  It's more common than you might think for the Windows search box to stop working. This means there are several possible causes, like a temporary glitch or an unresolved software bug. Another possible reason Windows search isn't working like you want it to is that a very specific setting has been switched off.
 
 ![Windows search not working](https://www.lifewire.com/thmb/eUOincgBNCFIDt1gubIW-meSdKs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windowssearchfix06-5bdc331846e0fb002d90f052.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Windows 10 Search Problems
 
@@ -69,8 +81,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,8 +88,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-effortless-extraction-of-twitter-jokes-3-ways/"><u>[New] 2024 Approved Effortless Extraction of Twitter Jokes 3 Ways</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-capturing-time-in-pixels-slomo-apps-full-review-2024/"><u>[New] Capturing Time in Pixels SloMo App's Full Review, 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-get-acquainted-with-the-10-best-sketching-apps-for-chrome-os/"><u>[New] Get Acquainted with The 10 Best Sketching Apps for Chrome OS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-direct-video-tweeting-on-phones-avoid-retweets/"><u>[New] In 2024, Direct Video Tweeting on Phones - Avoid Retweets</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flexibility-in-viewing-with-youtube-tv-options/"><u>[Updated] In 2024, Flexibility in Viewing with YouTube TV Options</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-into-every-detail-a-deep-dive-into-dji-phantom-4/"><u>[Updated] Into Every Detail A Deep Dive Into DJI Phantom 4</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-projection-vs-television-best-device-for-immersive-4k-content/"><u>[Updated] Projection vs Television Best Device for Immersive 4K Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/auroras-vision-in-home-theater-systems-evaluated-for-2024/"><u>Aurora's Vision in Home Theater Systems Evaluated for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-repairing-launchdll-not-found-bugs-in-windows-systems/"><u>Expert Tips for Repairing 'Launch.dll Not Found' Bugs in Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-your-pc-solutions-for-handling-missing-bootmgr-issues/"><u>Fix Your PC: Solutions for Handling Missing BOOTMGR Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-make-your-hidden-or-missing-wi-fi-network-visible-again/"><u>How To Make Your Hidden or Missing Wi-Fi Network Visible Again</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-scoop-on-upcoming-google-pixel-10-predictions-for-cost-availability-and-cutting-edge-features/"><u>Inside Scoop on Upcoming Google Pixel 10: Predictions for Cost, Availability & Cutting-Edge Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/order-of-operations-for-enjoying-the-entire-x-men-cinematic-saga/"><u>Order of Operations for Enjoying the Entire X-Men Cinematic Saga</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/soundcheck-evaluation-for-2024/"><u>SoundCheck Evaluation for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-creating-a-safelist-in-googles-gmail-platform/"><u>The Ultimate Guide to Creating a Safelist in Google's Gmail Platform</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->

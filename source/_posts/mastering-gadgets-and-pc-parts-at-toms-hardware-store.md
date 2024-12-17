@@ -1,7 +1,7 @@
 ---
 title: Mastering Gadgets and PC Parts at Tom's Hardware Store
-date: 2024-08-30T13:50:28.009Z
-updated: 2024-08-31T13:50:28.009Z
+date: 2024-12-13T17:08:22.686Z
+updated: 2024-12-17T16:55:44.259Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -53,8 +57,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -62,9 +64,19 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-pioneering-podcast-titling-with-leading-ai-driven-apps/"><u>[New] 2024 Approved Pioneering Podcast Titling with Leading AI-Driven Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-access-the-unreleased-best-in-class-5gb-console-emulators-for-windows-pcs-for-2024/"><u>[New] Access the Unreleased Best-in-Class 5GB Console Emulators for Windows PCs for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-illustration-ingenuity-3d-text-magic-for-2024/"><u>[Updated] Illustration Ingenuity 3D Text Magic for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-guide-best-screencasting-apps-at-no-cost/"><u>Essential Guide Best Screencasting Apps at No Cost</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-driver-management-software-ranked-the-top-8-tools-of-july-2024/"><u>Free Driver Management Software Ranked: The Top 8 Tools of July 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-superior-microsoft-surface-laptop-4-experience/"><u>In-Depth Look at the Superior Microsoft Surface Laptop 4 Experience</u></a></li>
+<li><a href="https://fox-within.techidaily.com/schritt-fur-schritt-anleitung-wiederauffinden-verlorener-gopro-aufnahmen/"><u>Schritt-Für-Schritt-Anleitung: Wiederauffinden Verlorener GoPro-Aufnahmen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sequential-screening-the-right-way-to-experience-the-conjuring-movies/"><u>Sequential Screening: The Right Way to Experience the 'Conjuring' Movies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-windows-11-search-issues-effective-solutions-you-can-apply-today/"><u>Solving Windows 11 Search Issues - Effective Solutions You Can Apply Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/speculations-on-the-new-google-pixel-xl-preliminary-price-estimates-release-dates-and-technical-details/"><u>Speculations on the New Google Pixel XL: Preliminary Price Estimates, Release Dates, and Technical Details</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Honor X9a? | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->

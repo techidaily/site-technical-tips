@@ -1,7 +1,7 @@
 ---
 title: "Guide: Initiating a Hardware Reset of Windows OS Into Safe Mode"
-date: 2024-08-30T13:42:27.695Z
-updated: 2024-08-31T13:42:27.695Z
+date: 2024-12-10T16:50:40.608Z
+updated: 2024-12-17T16:21:18.371Z
 categories:
   - BestProducts
 description: "This Article Describes Guide: Initiating a Hardware Reset of Windows OS Into Safe Mode"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/8a54b5f3957881ee85a4e67f8767270bede7bd83b
  If you can't log in to[Discord](https://www.lifewire.com/discord-4174046) , the chat service might be down, or it could just be an issue with your computer, the Discord app, or even your Discord account. It can sometimes be difficult to know if there's a Discord outage for everyone or if it's just you, but there are usually signs about which it is. Here's how to know if Discord is down or if it's an issue with your tech.
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Tell If Discord Is Down
 
@@ -26,9 +30,22 @@ thumbnail: https://thmb.techidaily.com/8a54b5f3957881ee85a4e67f8767270bede7bd83b
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -47,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/8a54b5f3957881ee85a4e67f8767270bede7bd83b
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -80,8 +98,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +105,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-ignite-your-design-prowess-top-14-text-animation-snapshots/"><u>[New] In 2024, Ignite Your Design Prowess Top 14 Text Animation Snapshots</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-best-10-online-subtitle-editors-for-2024/"><u>[New] The Best 10 Online Subtitle Editors for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-converting-mb-to-seconds-a-20mb-scenario/"><u>2024 Approved Converting MB to Seconds A 20MB Scenario</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-iphone-13-pro-maxipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked iPhone 13 Pro Max/iPad/iPod</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/capture-and-post-gaming-screenshots-on-the-nintendo-switch-a-comprehensive-guide/"><u>Capture and Post Gaming Screenshots on the Nintendo Switch - A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/compatibility-guide-using-airpods-on-a-nintendo-console/"><u>Compatibility Guide: Using AirPods on a Nintendo Console</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connect-smartly-a-comprehensive-tutorial-on-linking-your-bose-speakers/"><u>Connect Smartly: A Comprehensive Tutorial on Linking Your Bose Speakers</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-sudden-shutdowns-keeping-xcom-2-running-smoothly-in-windows/"><u>How to Resolve Sudden Shutdowns: Keeping XCOM 2 Running Smoothly in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Infinix Hot 40? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/instagrams-most-effective-tags-for-increased-engagement/"><u>Instagram's Most Effective Tags for Increased Engagement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/multi-device-connectivity-managing-a-single-phone-number-across-various-gadgets/"><u>Multi-Device Connectivity: Managing a Single Phone Number Across Various Gadgets</u></a></li>
+</ul></div>
 

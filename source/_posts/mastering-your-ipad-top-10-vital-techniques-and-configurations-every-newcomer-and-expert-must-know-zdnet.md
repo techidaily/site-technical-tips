@@ -1,7 +1,7 @@
 ---
 title: Mastering Your iPad? Top 10 Vital Techniques and Configurations Every Newcomer and Expert Must Know | ZDNET
-date: 2024-12-09T11:19:16.047Z
-updated: 2024-12-11T05:58:02.583Z
+date: 2024-12-16T16:01:12.388Z
+updated: 2024-12-17T16:44:38.590Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Customize your lock screen
 
 Max Buondonno/ZDNET
@@ -35,10 +39,6 @@ Max Buondonno/ZDNET
 In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and it's one of the easiest ways to help the tablet reflect your personal style. You can alter the font, the wallpaper, and even add a few widgets to keep important information available at a glance. Personally, I have a nice serif font on my iPad with a weather widget and my to-do list, as well as an ocean background from Nomad (because I can't go a day without looking at the water).
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
 
@@ -58,10 +58,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -74,6 +70,10 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -81,10 +81,6 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **Also:** [**What iPad Pro's Tandem OLED tells us about future device screens**](https://www.zdnet.com/article/what-ipad-pros-tandem-oled-tells-us-about-future-device-screens/)
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
 
@@ -102,6 +98,10 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Split or float your keyboard
 
 Max Buondonno/ZDNET
@@ -117,7 +117,7 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
@@ -129,7 +129,7 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
@@ -180,21 +180,16 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-best-value-online-image-editors-leading-15-at-zero-cost/"><u>[New] 2024 Approved Best Value Online Image Editors - Leading 15 at Zero Cost</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-elite-selection-top-3d-video-players-for-android/"><u>[New] 2024 Approved Elite Selection Top 3D Video Players for Android</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-apple-watchs-battery-performance-top-8-essential-setting-tweaks/"><u>Boost Your Apple Watch's Battery Performance: Top 8 Essential Setting Tweaks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/choosing-between-the-apple-watch-ultra-and-series-8-a-comprehensive-comparison-guide/"><u>Choosing Between the Apple Watch Ultra and Series 8: A Comprehensive Comparison Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dissecting-microsoft-teams-delays-understanding-the-line-between-platform-hiccups-and-user-errors/"><u>Dissecting Microsoft Teams Delays: Understanding the Line Between Platform Hiccups and User Errors</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/free-top-10-best-drawing-software-for-mac/"><u>FREE Top 10 Best Drawing Software for Mac</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-comparative-guide-to-the-metaverse-and-multiplemetaverse-platforms-insightful-analysis/"><u>In 2024, Comparative Guide to the Metaverse & MultipleMetaverse Platforms (Insightful Analysis)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-exploring-top-videography-apps-for-enhanced-win11-experience/"><u>In 2024, Exploring Top Videography Apps for Enhanced Win11 Experience</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pixel-9-pro-xl-vs-iphone-15-pro-photography-face-off-reveals-unexpected-champion-full-analysis-on-zdnet/"><u>Pixel 9 Pro XL vs iPhone 15 Pro Photography Face-Off Reveals Unexpected Champion – Full Analysis on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionize-your-purchases-with-apple-pay-in-store-and-e-commerce-tips-shared/"><u>Revolutionize Your Purchases with Apple Pay: In-Store and E-Commerce Tips Shared</u></a></li>
-<li><a href="https://win11.techidaily.com/setting-up-ms-office-on-win-11-a-step-by-step-guide/"><u>Setting Up MS Office on Win 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-silence-repairing-your-quiet-stereo-receiver/"><u>Solving the Silence: Repairing Your Quiet Stereo Receiver</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-fcpx-plugin-collection-free-and-paid-gems-for-2024/"><u>The Ultimate FCPX Plugin Collection Free and Paid Gems for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/watching-films-made-easy-stream-fandango-via-your-apple-tv/"><u>Watching Films Made Easy: Stream Fandango via Your Apple TV</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210063742-9781071551875-ta-diagwnismata-ths-megkan/"><u>Τα διαγωνίσματα της Μέγκαν | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-beginners-guide-to-understanding-charger-types-level-1-level-2-and-beyond/"><u>A Beginner's Guide to Understanding Charger Types - Level 1, Level 2 and Beyond</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anonymous-glance-your-step-by-step-guide-for-seeing-instagram-pics-without-signing-up/"><u>Anonymous Glance: Your Step-by-Step Guide for Seeing Instagram Pics Without Signing Up</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-printer-connection-problem-error-key-0x80070570-effective-fixes/"><u>Dealing with Printer Connection Problem (Error [KEY] 0X80070570): Effective Fixes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/empire-building-in-offworld-trading-game-a-comprehensive-review-of-strategies-and-success-stories/"><u>Empire Building in Offworld Trading Game: A Comprehensive Review of Strategies and Success Stories</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-samsung-tech-innovations-for-future-google-pixel-devices/"><u>Essential Samsung Tech Innovations for Future Google Pixel Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-get-overwatch-voice-chat-working-again-no-hassle/"><u>Expert Tips to Get Overwatch Voice Chat Working Again – No Hassle</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-iphone-8-plus-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On iPhone 8 Plus</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-updates-for-your-bluetooth-adapter-newest-generic-drivers-for-windows-computers-free/"><u>Install Updates for Your Bluetooth Adapter - Newest Generic Drivers for Windows Computers (Free)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/securing-win-minecraft-stability-by-addressing-driver-issues/"><u>Securing Win-Minecraft Stability by Addressing Driver Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-easy-way-to-personalize-taskbar-color-in-windows-11/"><u>The Easy Way to Personalize Taskbar Color in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-enhancing-your-ig-stories-with-captivating-captions/"><u>The Ultimate Guide to Enhancing Your IG Stories with Captivating Captions</u></a></li>
 </ul></div>
 

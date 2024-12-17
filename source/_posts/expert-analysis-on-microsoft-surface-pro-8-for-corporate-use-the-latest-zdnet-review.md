@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis on Microsoft Surface Pro 8 for Corporate Use – The Latest ZDNet Review
-date: 2024-12-08T00:36:58.350Z
-updated: 2024-12-11T08:52:43.069Z
+date: 2024-12-12T17:15:13.272Z
+updated: 2024-12-17T17:21:13.795Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ Jason Cipriani/ZDNet
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -91,7 +91,7 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -137,6 +137,10 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -150,7 +154,7 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -165,14 +169,10 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -212,20 +212,24 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/approved-experts-at-work-swift-professional-thumbnails-for-valorant-highlights/"><u>2024 Approved Experts at Work Swift, Professional Thumbnails for Valorant Highlights</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-free-top-10-facebook-video-downloader-for-android/"><u>2024 Approved FREE Top 10 Facebook Video Downloader for Android</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-apples-enthralling-vision-why-they-believe-goggles-are-the-future-of-tech-a-detailed-exploration/"><u>Discover Apple's Enthralling Vision: Why They Believe Goggles Are the Future of Tech - A Detailed Exploration</u></a></li>
-<li><a href="https://common-error.techidaily.com/handling-exceptions-fixing-memory-could-not-be-written-error-due-to-improper-references/"><u>Handling Exceptions: Fixing 'Memory Could Not Be Written' Error Due to Improper References</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-y36i-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y36i?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mkv-playback-mac-app-selection-guide/"><u>In 2024, MKV Playback Mac App Selection Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-upgrade-with-ios-18-find-out-eligibility-and-easy-download-instructions-for-latest-apple-os-update-gadgetdaily/"><u>IPhone Upgrade with iOS 18! Find Out Eligibility & Easy Download Instructions for Latest Apple OS Update | GadgetDaily</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-complete-guide-how-to-edit-movies-or-video-download-online/"><u>New In 2024, Complete Guide How to Edit Movies or Video Download Online</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-economic-aspects-of-making-a-music-video/"><u>The Economic Aspects of Making a Music Video</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/to-upgrade-or-not-pros-and-cons-of-switching-to-iphone-16-insights-experts/"><u>To Upgrade or Not: Pros & Cons of Switching to iPhone 16 - Insights Experts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uncover-deleted-phone-details-step-by-step-restoration-for-android-phones/"><u>Uncover Deleted Phone Details: Step-by-Step Restoration for Android Phones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-ios-175s-remarkable-photo-recovery-feature-insights-from-apple/"><u>Understanding iOS 17.5'S Remarkable Photo Recovery Feature: Insights From Apple</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-free-video-editing-solutions-for-32-bit-windows-our-top-picks/"><u>Updated 2024 Approved Free Video Editing Solutions for 32-Bit Windows Our Top Picks</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-10-ai-subtitle-translators-for-content-creators/"><u>Updated 2024 Approved Top 10 AI Subtitle Translators for Content Creators</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/want-to-use-your-macbook-with-a-closed-lid-heres-how-not-to-let-it-go-to-sleep/"><u>Want to Use Your MacBook with a Closed Lid? Here's How Not to Let It Go To Sleep</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-total-exploration-of-vsco-photography-functions/"><u>[New] Total Exploration of VSCO Photography Functions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-getting-started-with-seamless-sound-transitions-for-2024/"><u>[Updated] Getting Started with Seamless Sound Transitions for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-becoming-an-expert-in-igtv-a-complete-overview/"><u>[Updated] In 2024, Becoming an Expert in IGTV A Complete Overview</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-prime-mc-homes-for-social-settlements-for-2024/"><u>[Updated] Prime MC Homes for Social Settlements for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-secrets-to-proficient-ipad-screening-for-2024/"><u>[Updated] Secrets to Proficient iPad Screening for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-closer-look-at-lg-gram-17-blending-slim-design-with-top-tier-efficiency/"><u>A Closer Look at LG Gram 17 – Blending Slim Design with Top-Tier Efficiency</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/accessible-knowledge-top-16-no-cost-deafasl-educational-tools-online/"><u>Accessible Knowledge: Top 16 No-Cost Deaf/ASL Educational Tools Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/analyzing-your-youtube-viewership-methods-to-know-your-spectators/"><u>Analyzing Your YouTube Viewership: Methods to Know Your Spectators</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-buzz-what-we-know-so-far-on-sony-afeela-projected-release-date-pricing-and-technical-aspects/"><u>Decoding the Buzz: What We Know So Far on Sony AFEELA – Projected Release Date, Pricing & Technical Aspects</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/eliminate-the-bluish-distortion-from-your-tv-viewing-experience-using-our-8-step-methods/"><u>Eliminate the Bluish Distortion From Your TV Viewing Experience Using Our 8-Step Methods</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-size-solution-to-boost-your-videos-online-performance/"><u>In 2024, The Ultimate Size Solution to Boost Your Video's Online Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/intels-high-speed-usb-3e-drivers-for-enhanced-performance-on-windows-11-devices/"><u>Intel's High-Speed USB 3.e Drivers for Enhanced Performance on Windows 11 Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-file-revival-a-complete-assessment-of-recuvas-capabilities-and-features/"><u>Navigating File Revival: A Complete Assessment of Recuva's Capabilities and Features</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-resource-occupied-message-on-windows-devices-153-chars/"><u>Solving Resource Occupied Message on Windows Devices (153 Chars)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-standout-instagram-captions-507-picks/"><u>The Ultimate Guide to Standout Instagram Captions - 507 Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-how-to-ensure-the-latest-version-of-zoom-on-your-computer/"><u>The Ultimate Walkthrough: How to Ensure the Latest Version of Zoom on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-setting-up-your-psn-profile-on-the-go/"><u>Ultimate Guide: Setting Up Your PSN Profile on the Go</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-create-a-heartfelt-valentines-day-video-message-for-your-special-someone/"><u>Updated In 2024, Create a Heartfelt Valentines Day Video Message for Your Special Someone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watching-roku-channel-content-on-alternative-devices-a-comprehensive-guide/"><u>Watching Roku Channel Content on Alternative Devices: A Comprehensive Guide</u></a></li>
 </ul></div>
 

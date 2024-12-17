@@ -1,7 +1,7 @@
 ---
 title: "Elite Defense for iPhone 12/Pro Models: Discover the Premier Phone Case Selections of 2023 on ZDNet"
-date: 2024-12-04T23:59:12.071Z
-updated: 2024-12-10T20:03:29.244Z
+date: 2024-12-15T16:40:46.348Z
+updated: 2024-12-17T16:22:50.279Z
 tags:
   - apple
 categories:
@@ -43,6 +43,10 @@ Cons
 
 ## Nomad Sport Case
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best iPhone 16 case overall
 
 Nomad's website says, "we believe that the smartphone is the 21st-century equivalent of the sword: a tool that everyone can wield and change the world with." This makes Nomad cases a sort of sheath -- or at least one with 8 feet of drop protection and a MagSafe back. The Nomad Sport Case is our pick for the best iPhone 16 case overall to help sheath your new phone.
@@ -69,7 +73,7 @@ Cons
 * Not many color options
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Torras 360-degree OStand
@@ -98,11 +102,11 @@ Cons
 * Minimal drop protection
 * Heftier price
 
-## Pitaka Ultra Slim case
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Pitaka Ultra Slim case
 
 ### Best thin iPhone 16 case
 
@@ -128,7 +132,15 @@ Pros
 Cons 
 * Low drop protection
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Smartish Gripmunk case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best cheap iPhone 16 case
 
@@ -154,7 +166,15 @@ Pros
 Cons 
 * Pricier
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Mous Limitless 6.0
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best protective iPhone 16 case
 
@@ -211,6 +231,10 @@ Cons
 
 ## Moft Snap Case Movas
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best vegan-leather iPhone 16 case
 
 Leather is always a stylish option to keep around your phone, but sustainably sourcing it can always be questionable. Moft's Snap Case Movas is our solution to that problem.
@@ -239,10 +263,6 @@ Cons
 
 ## Nomad Modern Leather Case
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best leather case for iPhone 16
 
 Leather is always a stylish and sleek choice for a phone case. However, it is not always the best at lasting or, sometimes, gripping your phone. That is why the Nomad Modern Leather case is a standout in this category. Even though leather is not the most sustainable material, Nomad asserts it sources it in sustainable ways.
@@ -254,10 +274,6 @@ That being said, leather is not everybody's thing. But, if you are in the market
 **Nomad Modern Leather case features:** 8 feet drop protection | Sustainably sourced leather | MagSafe and magnetic back
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case?
 
@@ -271,10 +287,6 @@ Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek desig
 | Incase Icon case           | $60       | Yes                 | Yes         |
 | Nomad Modern Leather case  | $70       | Yes                 | Yes         |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which is the right iPhone 16 case for you?
 
 The best iPhone 16 case option for you differs depending on your needs. For one, you may require an extremely protective case if you are clumsy with your device. Maybe you're lucky with great phone handling skills and want a stylish case. There are options for everyone.
@@ -287,6 +299,10 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing the best iPhone 16 case
 
 We kept in mind the most important factors when choosing the best iPhone 16 cases. The most relevant aspects are:
@@ -296,27 +312,15 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 * **Cost:** iPhones are expensive, and spending a lot on a phone case just adds to the bill. Therefore, we consider price an important factor in our selections.
 * **Special Features:** Many cases have added features like MagSafe capabilities and a kickstand. We include these products to appease those who may prefer wireless charging or other necessary features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these iPhone 16 cases?
 
 To choose these iPhone 16 cases, we performed extensive research over every corner of the internet, like Reddit forums and customer reviews, to find the best picks at the time of this writing. When we can't test a product, we rely on opinions from real people over company promises. We also receive recommendations  experts like reviews editor Kerry Wan and editor-in-chief Jason Hiner, who have years of experience in the tech journalism field. Our picks are meant to leave the reader happy and their device healthy. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What iPhone case is most protective?
 
 On this list, the Nomad Sport case and the Torras Ostand MagSafe Case are the most protective for their drop protection and protective features. 
 
 However, if you stray from the list, the best options are those with a solid bumper and durable material. Before purchasing a case, make sure to check its drop protection and other safety features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best phone case brand?
 
@@ -331,16 +335,12 @@ Materials like plastic or polycarbonate usually offer the best price and durabil
 The iPhone 16 is available for preorder now, and will arrive in stores on September 20.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best phone case to avoid overheating?
 
 If your phone has the problem of overheating, it may be best to look into specialty cases called heat dissipation cases. These cases are made of heat-wicking material that regulates heat and allows airflow to cool your phone down.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best iPhone for a 16 year old?
 
@@ -392,18 +392,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-all-encompassing-tech-review-by-diverse-experts/"><u>[Updated] In 2024, All-Encompassing Tech Review by Diverse Experts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/7-must-have-shared-digital-calendars-simplifying-planning-for-busy-parenting-units/"><u>7 Must-Have Shared Digital Calendars: Simplifying Planning for Busy Parenting Units</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/brief-blueprints-iphone-content-for-desktop/"><u>Brief Blueprints IPhone Content for Desktop</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/evaluating-performance-and-features-of-apples-top-devices-ipad-pro-m1-vs-macbook-air-m1/"><u>Evaluating Performance & Features of Apple's Top Devices: IPad Pro M1 Vs. MacBook Air M1</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-easily-configure-auto-sign-in-options-for-your-microsoft-windows-device/"><u>How to Easily Configure Auto Sign-In Options for Your Microsoft Windows Device</u></a></li>
-<li><a href="https://article-helps.techidaily.com/immediate-color-correction-with-canons-paired-luts-for-2024/"><u>Immediate Color Correction with Canon's Paired LUTs for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-motorola-g24-power-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Motorola G24 Power without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-se-2022-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone SE (2022)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/retrieve-wi-fi-security-codes-effortlessly-for-windows-11-users/"><u>Retrieve Wi-Fi Security Codes Effortlessly for Windows 11 Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/snap-share-and-shine-your-guide-to-dynamic-gif-creation/"><u>Snap, Share & Shine Your Guide to Dynamic GIF Creation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-superman-film-series-viewing-guide-how-to-watch-them-from-beginning-to-end/"><u>The Complete 'Superman' Film Series Viewing Guide: How to Watch Them From Beginning to End</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-key-factors-in-finding-and-selecting-the-right-phone-skin-or-shell/"><u>The Key Factors in Finding and Selecting the Right Phone Skin or Shell</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-trust-factor-evaluating-chatgpt-and-bards-advice-quality/"><u>The Trust Factor: Evaluating ChatGPT and Bard's Advice Quality</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-audio-capture-for-post-review/"><u>[Updated] In 2024, Audio Capture for Post-Review</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-pixels-to-power-top-photo-editing-strategies-unlocked/"><u>[Updated] In 2024, Pixels to Power Top Photo Editing Strategies Unlocked</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-infuse-vibrancy-in-presentations-via-audio/"><u>2024 Approved Infuse Vibrancy in Presentations via Audio</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/r-diversity-in-streaming-celebrating-top-10-females-for-2024/"><u>Gender Diversity in Streaming Celebrating Top 10 Females for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illustrate-and-write-with-iosandroid-tools-for-2024/"><u>Illustrate & Write with iOS/Android Tools for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/run-apps-in-compatibility-mode-in-windows-10/"><u>Run Apps in Compatibility Mode in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-enabling-and-using-a-vpn-through-opera-browser/"><u>Step-by-Step Guide: Enabling and Using a VPN Through Opera Browser</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-pairing-your-bluetooth-headset-with-a-windows-1noteq-10-laptop/"><u>Step-by-Step Guide: Pairing Your Bluetooth Headset with a Windows 1Noteq 10 Laptop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-how-to-fix-itunes-unable-to-establish-connection-with-your-iphone-due-to-invalid-response/"><u>Troubleshooting: How to Fix 'iTunes Unable To Establish Connection With Your iPhone Due to Invalid Response'</u></a></li>
 </ul></div>
 

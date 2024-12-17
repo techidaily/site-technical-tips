@@ -1,7 +1,7 @@
 ---
 title: How Apple Is Confronting Internet Giants with a Startling Advertisement Strategy - Discover More at ZDNET
-date: 2024-12-06T01:47:12.207Z
-updated: 2024-12-10T21:42:26.700Z
+date: 2024-12-12T16:05:58.797Z
+updated: 2024-12-17T16:30:23.974Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -48,12 +48,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -64,10 +68,6 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
@@ -75,7 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,18 +122,22 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-master-the-art-of-mobile-movie-watching-with-top-10-ios-apps/"><u>[New] In 2024, Master the Art of Mobile Movie Watching with Top 10 iOS Apps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-dji-airborne-collection-basic-kit-elite-series-4k-masterclass/"><u>[Updated] 2024 Approved DJI Airborne Collection Basic Kit, Elite Series, 4K Masterclass</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-calculated-viewing-time-for-a-standard-20mb-film/"><u>[Updated] Calculated Viewing Time for a Standard 20Mb Film</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-secure-apps-for-hidden-instagram-stories/"><u>[Updated] In 2024, Secure Apps for Hidden Instagram Stories</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-comprehensive-guide-to-what-google-hangouts-actually-is/"><u>A Comprehensive Guide to What Google Hangouts Actually Is</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-mac-mini-upgrades-to-m2-chip-hit-historic-low-at-just-479-techradar-breaking-news/"><u>Apple's Mac Mini Upgrades to M2 Chip Hit Historic Low at Just $479 – TechRadar Breaking News</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo V29e? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-startup-failures-master-tips-and-tricks-for-dealing-with-error-code-10/"><u>Fixing Startup Failures: Master Tips and Tricks for Dealing with Error Code 10</u></a></li>
-<li><a href="https://win-web.techidaily.com/identifying-the-root-cause-of-your-devices-overheating-problem-insights-from-yl-computing-experts/"><u>Identifying the Root Cause of Your Device's Overheating Problem: Insights From YL Computing Experts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/innovation-alert-apple-delves-into-ai-enhanced-domestic-robots-showcasing-two-revolutionary-products-zdnet-update/"><u>Innovation Alert: Apple Delves Into AI-Enhanced Domestic Robots, Showcasing Two Revolutionary Products | ZDNET Update</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-burning-videos-to-dvd-a-comprehensive-guide-for-windows-and-mac-users/"><u>New Burning Videos to DVD A Comprehensive Guide for Windows and Mac Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-battle-of-streaming-devices-differences-between-roku-express-and-roku-stick-revealed/"><u>The Battle of Streaming Devices: Differences Between Roku Express and Roku Stick Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-new-possibilities-how-apples-iphone-embraces-third-party-nfc-integration-for-enhanced-user-experience/"><u>Unlocking New Possibilities: How Apple's iPhone Embraces Third-Party NFC Integration for Enhanced User Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-dive-into-hp-envy-27-monitors-usb-c-innovation/"><u>[Updated] In 2024, Dive Into HP Envy 27 Monitor's USB-C Innovation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-leading-8-screenshot-solutions-without-hesitation/"><u>[Updated] Leading 8 Screenshot Solutions Without Hesitation</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-iphone-16-vs-iphone-15-essential-factors-for-choosing-the-new-standard-from-apple-insights-from-zdnet/"><u>Apple iPhone 16 vs iPhone 15: Essential Factors for Choosing the New Standard From Apple - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-stellar-youtube-beginnings-on-a-shoestring-budget-for-2024/"><u>Build Stellar YouTube Beginnings on a Shoestring Budget for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/create-memorable-moments-with-a-home-based-sing-along-party/"><u>Create Memorable Moments with a Home-Based Sing-Along Party</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/engage-and-entertain-top-7-virtual-games-tailored-for-young-minds/"><u>Engage and Entertain: Top 7 Virtual Games Tailored for Young Minds</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-audible-beats-to-written-notes-converting-your-spotify-lists-into-text-format/"><u>From Audible Beats to Written Notes: Converting Your Spotify Lists Into Text Format</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-the-inside-scoop-releasing-schedule-and-detailed-specifications-for-google-pixel-tablet/"><u>Get the Inside Scoop: Releasing Schedule & Detailed Specifications for Google Pixel Tablet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-disable-and-delete-microsoft-copilot-on-windows-11-pcs/"><u>How to Disable and Delete Microsoft Copilot on Windows 11 PCs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-behind-the-scenes-guide-to-finding-facebooks-finest-vids/"><u>In 2024, Behind-the-Scenes Guide to Finding Facebook's Finest Vids</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-playstation-network-down-or-is-it-just-you/"><u>Is PlayStation Network Down... Or Is It Just You?</u></a></li>
+<li><a href="https://windows11.techidaily.com/show-more-pins-strategies-for-start-screen/"><u>Show More Pins: Strategies for Start Screen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-android-device-wi-fi-login-issues-a-step-by-step-guide/"><u>Solving Android Device Wi-Fi Login Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-9-essential-gadgets-and-technologies-crucial-for-students-academic-success/"><u>Top 9 Essential Gadgets and Technologies Crucial for Students' Academic Success</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-system-restore-in-windows-11-a-comprehensive-guide/"><u>Understanding System Restore in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-hardware-drivers-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to update hardware drivers in Windows 11/10/7</u></a></li>
 </ul></div>
 

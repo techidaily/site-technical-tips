@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Inbox: A Simple Strategy To Clear Outclutter Without Using Separate Accounts - Insights From ZDNet"
-date: 2024-12-09T18:44:00.320Z
-updated: 2024-12-11T05:11:21.958Z
+date: 2024-12-11T17:17:31.212Z
+updated: 2024-12-17T16:59:06.294Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The magic of email aliases
@@ -65,7 +65,7 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -77,7 +77,7 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -91,7 +91,7 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -105,7 +105,7 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -146,24 +146,24 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-efficient-obs-adjustments-on-cost-effective-computers/"><u>[Updated] 2024 Approved Efficient OBS Adjustments on Cost-Effective Computers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-effective-techniques-for-creating-authenticity-in-client-praise-videos/"><u>[Updated] In 2024, Effective Techniques for Creating Authenticity in Client Praise Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44cm44or44k944kz44oz5lik44gn57ch5y2y44gq44ot44oh44kq5yplusn6lui5lplusu5q2j44og44kv44ol44od44kv44cn/"><u>「パソコン上で簡単なビデオ反転修正テクニック」</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-apple-watchs-lifespan-with-8-key-battery-saving-tweaks/"><u>Boost Your Apple Watch's Lifespan with 8 Key Battery-Saving Tweaks!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/capturing-attention-how-to-edit-and-crop-videography-for-instagram-success/"><u>Capturing Attention How to Edit & Crop Videography for Instagram Success</u></a></li>
-<li><a href="https://techtrends.techidaily.com/digiarty-softwares-inaccessible-content-handling-404-pages-effectively/"><u>Digiarty Software's Inaccessible Content: Handling 404 Pages Effectively</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-wininetdll-not-found-solutions-and-tips/"><u>How to Correctly Address 'Wininet.dll Not Found' – Solutions & Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/identifying-the-creator-of-chatgpt-whos-behind-it/"><u>Identifying the Creator of ChatGPT: Who's Behind It?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-framework-developing-transformative-lifestyle-broadcasts/"><u>In 2024, Framework Developing Transformative Lifestyle Broadcasts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-xiaomi-redmi-note-13-proplus-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Xiaomi Redmi Note 13 Pro+ 5G Location | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-unveiling-top-7-adblocker-apps-for-android-users/"><u>In 2024, Unveiling Top 7 AdBlocker Apps for Android Users</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reviving-dissatisfied-sonos-fans-with-apples-strategic-intervention/"><u>Reviving Dissatisfied Sonos Fans with Apple's Strategic Intervention</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamlessly-secure-your-iphone-with-the-most-innovative-smart-lock-solutions-discover-why-theyre-unmatched-zdnet/"><u>Seamlessly Secure Your iPhone with the Most Innovative Smart Lock Solutions – Discover Why They're Unmatched! | ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/set-up-a-virtual-private-network-on-your-apple-vision-pro-device-step-by-step-guide-and-benefits-techadvisor/"><u>Set Up a Virtual Private Network on Your Apple Vision Pro Device: Step-by-Step Guide & Benefits | TechAdvisor</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-the-best-tablets-of-2-tech-trends-detailed-analysis-and-ratings-zdnet/"><u>The Ultimate Guide to the Best Tablets of 2# Tech Trends - Detailed Analysis and Ratings | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-ranking-mini-tablets-professional-evaluations-and-comprehensive-reviews-zdnet/"><u>Top-Ranking Mini Tablets : Professional Evaluations & Comprehensive Reviews - ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-ios-181-beta-version-discover-enhanced-apple-intelligence-and-join-the-testers-insights/"><u>Unlocking iOS 18.1 Beta Version - Discover Enhanced Apple Intelligence & Join The Testers | Insights</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-y100-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sculpting-visual-clarity-overcoming-gopro-lens-distortion/"><u>2024 Approved Sculpting Visual Clarity Overcoming GoPro Lens Distortion</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-motorola-moto-g84-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Motorola Moto G84 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/crossing-platform-barriers-execute-android-games-and-apps-directly-on-windows-11/"><u>Crossing Platform Barriers: Execute Android Games & Apps Directly on Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-poco-c65-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elite-selection-free-antimalware-solutions-dominating-2024/"><u>Elite Selection: Free Antimalware Solutions Dominating 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/first-things-first-how-to-get-the-most-out-of-your-fresh-computer-purchase/"><u>First Things First: How to Get the Most Out of Your Fresh Computer Purchase</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/how-to-fix-compatibility-errors-with-file-formats-in-software-applications/"><u>How to Fix Compatibility Errors with File Formats in Software Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-to-optimal-windows-11-search-performance/"><u>Navigating to Optimal Window's 11 Search Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/popular-selections-enjoy-these-free-movies-on-youtube-for-july-2024/"><u>Popular Selections: Enjoy These Free Movies on YouTube for July 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-vivo-y36i-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Vivo Y36i.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pro-landscape-capture-iphone-killer-secrets-revealed-for-2024/"><u>Pro Landscape Capture IPhone Killer Secrets Revealed for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-msstdfmtdll-file-not-found-issue/"><u>Resolving the 'msstdfmt.dll File Not Found' Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-remedies-for-trackpad-issues-on-the-apple-magic-mouse/"><u>Simple Remedies for Trackpad Issues on the Apple Magic Mouse</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-securely-retrieving-vimeo-content-for-offline-viewing/"><u>Step-by-Step Tutorial on Securely Retrieving Vimeo Content for Offline Viewing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-viewing-tiktok-on-a-television-set/"><u>The Complete Walkthrough: Viewing TikTok on a Television Set</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/trouble-free-gaming-mastering-the-art-of-resolving-xbox-one-signal-issues/"><u>Trouble-Free Gaming: Mastering the Art of Resolving Xbox One Signal Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-electric-vehicles-excel-over-gas-cars-unveiling-the-superior-performance/"><u>Why Electric Vehicles Excel Over Gas Cars: Unveiling the Superior Performance</u></a></li>
 </ul></div>
 

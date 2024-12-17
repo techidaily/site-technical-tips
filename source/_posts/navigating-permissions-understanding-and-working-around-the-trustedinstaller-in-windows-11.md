@@ -1,7 +1,7 @@
 ---
 title: "Navigating Permissions: Understanding and Working Around the TrustedInstaller in Windows 11"
-date: 2024-12-10T06:15:54.213Z
-updated: 2024-12-11T00:31:46.062Z
+date: 2024-12-11T17:20:53.501Z
+updated: 2024-12-17T16:45:25.872Z
 categories:
   - BestProducts
 description: "This Article Describes Navigating Permissions: Understanding and Working Around the TrustedInstaller in Windows 11"
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 
  This article describes two ways to deal with the message in Windows 10 about needing permission from TrustedInstaller to make changes to a file or folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix the TrustedInstaller Error Using Command Prompt
 
  There are two really simple[Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) you can use to bypass the TrustedInstaller permissions prompt. Follow these steps to fix the TrustedInstaller "error" by granting your user account permission to make changes to the file or folder:
@@ -37,12 +41,12 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 ![The TAKEOWN /F command in Windows 10 Command Prompt](https://www.lifewire.com/thmb/nOnoS4n34cd8C2EJEDT2_rLzdhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/takeown-command-trustsedinstaller-windows-10-267bfffb4f974a29940a0af233ef4a84.png)
 4. Enter the following command (replacing our example file with your own) to immediately give your user account permission to delete or change the file or folder:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  `icacls C:\Windows\System32\fr-FR\fms.dll.mui /grant Administrators:F /T`  
 ![icacls command executed in Windows 10 Command Prompt](https://www.lifewire.com/thmb/clN3CT0-H0V3QdOSRZWprDCigZ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/icacls-command-windows-10-7f562cffaf424cd281b4e58c68b19e25.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Edit the File's Security Options to Fix the TrustedInstaller Error
 
@@ -54,8 +58,16 @@ Make sure you are logged in as an administrator.
 ![The context menu for a Windows 10 folder ](https://www.lifewire.com/thmb/CSwAkry59uiW_sJ5GzqkO0QrOuk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/context-menu-folder-windows-10-0447423a01764cecad790f8dc6303c59.png)
 2. Go to**Security** \>**Advanced** , then select**Change** next to**Owner: TrustedInstaller** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Properties and Advanced Security Settings options for a Windows 10 folder](https://www.lifewire.com/thmb/823H3LgLGW5GbhyNSwSn1HNUZlk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/advanced-security-settings-windows-10-folder-4eb4fed4cb134eb1ba00993a705f7175.png)
 3. Type your username into the text box and then choose**Check Names** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The Windows 10 Check Names box with a user account listed](https://www.lifewire.com/thmb/ESMv2bIcNtWxpryKYLlwZFwmyCA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-10-select-user-or-group-880cbe35a52348f19d11206db4d7a0b6.png)
 4. Check the box next to**Replace owner on subcontainers and objects** .  
@@ -63,16 +75,12 @@ Make sure you are logged in as an administrator.
 ![The replace owner on subcontainers and objects checkbox in Windows 10](https://www.lifewire.com/thmb/n8OW45wPPq3HiSTrW4eQIT_Y0EU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/replace-owner-windows-10-folder-885ef894881e4e21a60b1b09568ea020.png)
 5. Select**OK** at the bottom and then**OK** on the Properties window you opened in Step 1.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Open**Properties** \>**Security** \>**Advanced** once more. This time, select**Add** .  
 ![The Advanced Security Settings for a Windows 10 folder](https://www.lifewire.com/thmb/fEVYPGbUtSiGdO8kZg1RZd6gtIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/add-button-advanced-security-settings-3ffcde5bc8b942278219bbd9b4663921.png)
 7. Choose**Select a principal** and then type your username in the box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Press**Check Names** \>**OK** .  
@@ -82,16 +90,8 @@ Make sure you are logged in as an administrator.
 ![The Full Control permission selected for a folder in Windows 10](https://www.lifewire.com/thmb/cLa_4Jv8moyuFMZaNvHFNWAcllw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/full-control-folder-permissions-b0f31e6f8d7d418e91990e6c32476c30.png)
 10. Check the box next to **Replace all child object permission entries with inheritable permission entries from this object** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The checkbox called Replace all child object permission entries in Windows 10](https://www.lifewire.com/thmb/6T2vTKuuRj3ONEWEpCefVrYtszQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/replace-all-child-object-permission-entries-windows-10-fc09040d1d8b4357b5866ced25b79262.png)
 11. Select**OK** on the Advanced Security Settings window and then**Yes** on the confirmation prompts. You should now have full permission to make changes to the file or folder, and you can close any other windows you opened to make these changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Do I Need Permission From TrustedInstaller?
 
@@ -128,16 +128,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/bloodhunt-pc-woes-comprehensive-guide-to-fix-glitchy-execution/"><u>'Bloodhunt' PC Woes: Comprehensive Guide to Fix Glitchy Execution</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-streamlining-social-sessions-with-zoom-and-facebook-live-techniques/"><u>[New] 2024 Approved Streamlining Social Sessions with ZOOM & Facebook Live Techniques</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capture-and-save-windows-11-screens-effortlessly/"><u>2024 Approved Capture & Save Windows 11 Screens Effortlessly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-tutorial-install-fubotv-app-on-your-roku-device-or-firestick/"><u>Complete Tutorial: Install FuboTV App on Your Roku Device or Firestick</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/immersed-in-entertainment-on-the-apple-vision-pro-a-glorious-yet-exhausting-adventure-through-favorite-tv-series-zdnet-insights/"><u>Immersed in Entertainment on the Apple Vision Pro: A Glorious Yet Exhausting Adventure Through Favorite TV Series | ZDNET Insights</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-narzo-n53-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme Narzo N53 Lock Screen Password</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-advice-on-computer-hardware-with-toms-expertise/"><u>In-Depth Reviews and Advice on Computer Hardware with Tom's Expertise</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-mobile-screen-recording-a-step-by-step-walkthrough-for-iphones-by-experts-at-zdnet/"><u>Mastering Mobile Screen Recording: A Step-by-Step Walkthrough for iPhones by Experts at ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/sharing-and-editing-on-apples-pages-through-icloud-tips-and-tricks/"><u>Sharing and Editing on Apple's Pages Through iCloud - Tips & Tricks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-fix-for-when-you-cant-find-msvcr70dll/"><u>Step-by-Step Fix for When You Can't Find MSVCR70.DLL</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-ultimate-protection-testing-apples-strongest-iphone-case-with-an-innovative-safety-aspect/"><u>Unveiling the Ultimate Protection: Testing Apple's Strongest iPhone Case with an Innovative Safety Aspect</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-mixing-masterclass-elevate-drone-audio-with-20-complimentary-luts/"><u>[Updated] 2024 Approved Mixing Masterclass - Elevate Drone Audio with 20 Complimentary LUTs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-social-shine-a-snapchat-guide-for-giftful-gif-enthusiasts/"><u>[Updated] 2024 Approved Social Shine A Snapchat Guide for Giftful GIF Enthusiasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-from-spoken-word-to-memo-iphone-audio-guidance-for-2024/"><u>[Updated] From Spoken Word to Memo IPhone Audio Guidance for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-easy-routines-keeping-a-transcript-of-google-voice-calls/"><u>[Updated] In 2024, Easy Routines Keeping a Transcript of Google Voice Calls</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-optimizing-video-production-in-windows-11-workflows-for-2024/"><u>[Updated] Optimizing Video Production in Windows 11 Workflows for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/capturing-your-gaming-moments-on-ps4-ultimate-screenshotting-tutorials/"><u>Capturing Your Gaming Moments on PS4: Ultimate Screenshotting Tutorials</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-most-effective-time-saving-shortcuts-on-your-iphone-or-ipad-using-apples-ios-shortcuts-platform-top-18-ideas-revealed/"><u>Discover the Most Effective Time Saving Shortcuts on Your iPhone or iPad Using Apple's iOS Shortcuts Platform - Top 18 Ideas Revealed!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-most-recent-drivers-for-your-msi-b350-toms-tomahawk-graphics-card-on-microsoft-windows-platforms/"><u>Get the Most Recent Drivers for Your MSI B350 TOM'S TOMAHAWK Graphics Card on Microsoft Windows Platforms</u></a></li>
+<li><a href="https://win-premium.techidaily.com/guia-completa-el-programa-mas-eficiente-para-clonar-hdd-ide-bajo-windows/"><u>Guía Completa: El Programa Más Eficiente Para Clonar HDD IDE Bajo Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resuscitate-a-computer-that-wont-turn-on-essential-fixes/"><u>How To Resuscitate A Computer That Won't Turn On: Essential Fixes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/professional-looking-gopro-videos-without-shakiness/"><u>Professional-Looking GoPro Videos without Shakiness</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fix-guide-accelerating-a-slow-windows-11-operating-system/"><u>Quick Fix Guide: Accelerating a Slow Windows 11 Operating System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revive-gone-messages-universal-methods-to-restore-sms-across-various-phones/"><u>Revive Gone Messages: Universal Methods to Restore SMS Across Various Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-your-vehicles-audio-system-solutions-when-your-car-radio-fails/"><u>Reviving Your Vehicle's Audio System: Solutions When Your Car Radio Fails</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-windows-kernel32dll-file-issues-a-step-by-step-guide/"><u>Solving Windows Kernel32.dll File Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-repairing-horizontal-streaks-on-your-samsung-flat-screen/"><u>Ultimate Guide: Repairing Horizontal Streaks on Your Samsung Flat Screen</u></a></li>
 </ul></div>
 

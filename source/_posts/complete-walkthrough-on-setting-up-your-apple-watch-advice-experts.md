@@ -1,7 +1,7 @@
 ---
 title: Complete Walkthrough on Setting Up Your Apple Watch – Advice Experts
-date: 2024-12-06T07:25:44.016Z
-updated: 2024-12-10T22:43:34.210Z
+date: 2024-12-10T17:21:47.294Z
+updated: 2024-12-17T16:05:54.908Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ Apple's known for creating products that "just work," and the [Apple Watch](http
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 * [You can already use the Apple Watch's double-tap feature. Here's how](https://www.zdnet.com/article/you-can-already-use-the-apple-watchs-double-tap-feature-heres-how/)
@@ -40,13 +36,17 @@ But, even with all of this simplicity, you may still have questions. What if you
 **Also: [Want a new Apple Watch? We compared the 5 best models available](https://www.zdnet.com/article/best-apple-watch/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to set up an Apple Watch
 
 * **Materials needed**: The Apple Watch you wish to set up, and an iPhone owned by the watch's owner, or a family member.
 * **Estimated time**: 15 to 30 minutes (depending on how many apps need to be installed and if a backup is being restored).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 1: Charge your Apple Watch and bring it near your iPhone
 
@@ -87,7 +87,7 @@ It's much easier to restore from a backup if you have one for this watch, or an 
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 4: Sign in with your Apple ID to link the Apple watch to your iCloud account
@@ -106,10 +106,6 @@ Setting a passcode on your Apple Watch unlocks some functionality that might oth
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 6: Customize your settings
 
 During this step you can choose several options that will determine how your Apple Watch functions. If you're restoring a backup, most of these will be chosen for you during the Express Setup. However, if you're starting from scratch, of you've chose to modify any existing settings, you'll be able to set things like Find My functionality, Location Service settings, Wi-Fi Calling options, health notification preferences, and diagnostics opt-ins. 
@@ -120,11 +116,19 @@ It's important to set this correctly. Otherwise your Apple's Watch's face will b
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 7: Set up cellular (GPS + Cellular models only) and Apple Pay
 
 If you have a GPS + Cellular model of Apple Watch, this is when you'll be prompted to set up your cellular connectivity. This process is typically fairly self-explanatory, but it will vary based on the specific carrier the Apple Watch is being activated on. Simply follow the prompts and accept the addition of the Apple Watch to your carrier's account. 
 
 This is also when you can set up [Apple Pay](https://www.zdnet.com/article/how-to-use-apple-pay-in-stores-and-online/) by adding at least one credit card that will be used for payment purposes. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 8: Wrap-up
 
@@ -137,10 +141,6 @@ Expect to be staring at a loading animation like this for as long as 20 minutes.
 Michael Gariffo/ZDNET
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can you set up an Apple Watch without an iPhone?
 
@@ -202,18 +202,15 @@ To do this, open the Watch app on your iPhone. Then, tap **My Watch**, followed 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-from-capture-to-share-proven-methods-for-live-360-video-on-youtube/"><u>[New] 2024 Approved From Capture to Share Proven Methods for Live 360° Video on Youtube</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-spectacle-of-speed-simulators-top-5-for-2024/"><u>[Updated] Spectacle of Speed Simulators (Top 5) for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhance-your-mac-experience-today-learn-the-secrets-of-hot-corners-setup-and-use-as-recommended-by-zdnet/"><u>Enhance Your Mac Experience Today! Learn the Secrets of Hot Corners Setup and Use, as Recommended by ZDNET</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-11-pro-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 11 Pro After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-instructions-windows-movie-maker-version-6-installation/"><u>In 2024, Instructions Windows Movie Maker Version 6 Installation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/invisible-intensity-covert-volume-reduction-in-garageband/"><u>Invisible Intensity Covert Volume Reduction in Garageband</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-your-ipad-top-10-vital-techniques-and-configurations-every-newcomer-and-expert-must-know-zdnet/"><u>Mastering Your iPad? Top 10 Vital Techniques and Configurations Every Newcomer and Expert Must Know | ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-issue-steps-to-correct-shell32dll-file-is-missing-error/"><u>Resolving the Issue: Steps to Correct 'Shell32.dll File Is Missing' Error</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simplify-your-inbox-a-simple-strategy-to-clear-outclutter-without-using-separate-accounts-insights-from-zdnet/"><u>Simplify Your Inbox: A Simple Strategy To Clear Outclutter Without Using Separate Accounts - Insights From ZDNet</u></a></li>
-<li><a href="https://media-tips.techidaily.com/stream-and-share-on-multiple-services-at-once-using-telepartys-unique-feature/"><u>Stream and Share on Multiple Services at Once Using Teleparty's Unique Feature!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-ipad-productivity-apps-enhance-efficiency-and-streamline-tasks-recommendations-from-zdnet/"><u>Top iPad Productivity Apps: Enhance Efficiency & Streamline Tasks – Recommendations From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ranking-airtag-gadgets-in-2e24-comprehensive-reviews-by-tech-pros-zdnet/"><u>Top-Ranking AirTag Gadgets in 2E24: Comprehensive Reviews by Tech Pros | ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-standout-features-of-iphone-16-that-elevate-apples-core-model-to-new-heights-expert-analysis-by-zdnet/"><u>Unveiling the Standout Features of iPhone 16 that Elevate Apple's Core Model to New Heights | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-downloading-igtv-made-simple-iphone-and-android-users-bible/"><u>[New] Downloading IGTV Made Simple IPhone & Android Users' Bible</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-dramatically-rewind-your-snaps-the-snapchat-way/"><u>[Updated] 2024 Approved Dramatically Rewind Your Snaps The Snapchat Way</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlock-audience-favorites-3-powerful-tales-for-2024/"><u>[Updated] Unlock Audience Favorites 3 Powerful Tales for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/banish-error-code-0xc0000185-once-and-for-all-with-these-proven-fixes/"><u>Banish Error Code 0xC0000185 Once and for All with These Proven Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-online-meeting-failures-is-the-culprit-a-microsoft-teams-downtime-or-something-else/"><u>Diagnosing Online Meeting Failures: Is the Culprit a Microsoft Teams Downtime or Something Else?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-no-cost-methods-for-enjoying-netflix-streams/"><u>Exploring No-Cost Methods for Enjoying Netflix Streams</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-your-business-efficiency-leveraging-chatgpt-for-better-workflow-management/"><u>Optimizing Your Business Efficiency: Leveraging ChatGPT for Better Workflow Management</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pinnacle-photo-narrative-directors-set/"><u>Pinnacle Photo Narrative Director's Set</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-do-if-your-wifi-doesnt-appear-in-searches/"><u>What To Do If Your WiFi Doesn't Appear in Searches</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whos-peeking-at-my-google-docs-a-step-by-step-guide-to-tracking-document-access/"><u>Who’s Peeking at My Google Docs? A Step-by-Step Guide to Tracking Document Access</u></a></li>
 </ul></div>
 

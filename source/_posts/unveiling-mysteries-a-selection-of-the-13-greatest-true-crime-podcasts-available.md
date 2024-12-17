@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Mysteries: A Selection of the 13 Greatest True Crime Podcasts Available"
-date: 2024-08-30T13:45:24.923Z
-updated: 2024-08-31T13:45:24.923Z
+date: 2024-12-13T17:21:51.658Z
+updated: 2024-12-17T17:11:04.177Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling Mysteries: A Selection of the 13 Greatest True Crime Podcasts Available"
@@ -25,13 +25,24 @@ thumbnail: https://thmb.techidaily.com/b46dbabb50d5277c1ad28a5993cc958234753eefe
 1. Press and hold the**Side** button on the right and either**Volume** button on the left at the same time.  
 ![The volume (left) buttons and side button on an iPhone 15](https://www.lifewire.com/thmb/TmHUOU_P6SpM3wMTkgaBlQ6knbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Side-and-Volume-buttons-on-iPhone-15-Pro-ce7f29a6f4bb4cf3bb66ea8b0b928ba3.jpg)
 2. Drag the**Slide to Power Off** option to the right.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Power Off slider on an iPhone 15](https://www.lifewire.com/thmb/_gkqlHLFwAAe43qTejESczVRQeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPhone15-Power-Off-Slider-8662940-84a3f064e5dc4278b8c8abb4a8bcbf56-a833a36d8094471694b628adb004cc60.jpg)
 3. When you’re ready to turn your iPhone back on, press and hold the**Side** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have an iPhone 15 Pro or iPhone 15 Pro Max, make sure you press the Side button on the_right_ , not the[Action button](https://www.lifewire.com/use-action-button-on-iphone-15-pro-7972021) on the left.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Settings to Restart iPhone 15
 
  If you’re having trouble using the device’s buttons to restart your iPhone 15, you can use the onscreen option instead. This method is also considered a soft restart.
@@ -41,14 +52,17 @@ thumbnail: https://thmb.techidaily.com/b46dbabb50d5277c1ad28a5993cc958234753eefe
 3. Drag the**Slide to Power Off** option to the right.  
 ![The iPhone Settings app with General, Shut Down, and power switch highlighted.](https://www.lifewire.com/thmb/qkqSasRdubWydWHUBG5CkQeJstI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Turn-Of-iPhone-15-Pro-in-Settings-6be83e8413504c42b9bc2f146153f7da.jpg)
 4. To turn your iPhone back on, press and hold the**Side** button on the right.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Unable to turn your device back on? Look at ways to[fix an iPhone that won’t turn on](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Turn Off an iPhone 15 With Siri
 
  While Apple's virtual assistant wasn't always able to power off your iPhone, it can now. Hold the side button or use the voice command "**Siri** /**Hey, Siri** " to activate the assistant, and then say something like:
@@ -59,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/b46dbabb50d5277c1ad28a5993cc958234753eefe
 
  Siri will confirm that you want to power down your phone; select**Power Off** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## How to Force Restart an iPhone 15
 
  When you can’t use the above methods to restart your device, or if your iPhone 15 isn’t responding at all, you can force it to restart. This is called a force restart, force reset, or hard reset.
@@ -92,8 +103,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,4 +110,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instas-funniest-and-touchiest-memetic-hub-a-list-of-10/"><u>[New] Insta's Funniest & Touchiest Memetic Hub A List of 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-mac-based-sound-capture-in-audacity/"><u>[Updated] 2024 Approved The Ultimate Guide to Mac-Based Sound Capture in Audacity</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-decoding-the-top-rival-to-sharex/"><u>[Updated] Decoding the Top Rival to ShareX</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ranking-the-leading-video-conferencing-applications-for-2024/"><u>[Updated] Ranking the Leading Video Conferencing Applications for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-navigating-the-maze-of-communication-features-on-snapchat/"><u>2024 Approved Navigating the Maze of Communication Features on Snapchat</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginners-guide-to-understanding-twitch-chat-etiquette-and-common-queries/"><u>Beginner's Guide to Understanding Twitch Chat Etiquette and Common Queries</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fix-rekeying-techniques-for-damaged-laptops-and-keyboards/"><u>Easy Fix: Rekeying Techniques for Damaged Laptops and Keyboards</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-largest-collection-of-free-vector-graphics-portals-for-2024/"><u>Explore Largest Collection of Free Vector Graphics Portals for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-boost-your-youtube-revenue-from-mobile-a-comprehensive-guide-for-2024/"><u>How to Boost Your YouTube Revenue From Mobile - A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nokia-xr21-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nokia XR21 Through Google Earth?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-unlocking-advanced-android-screen-recording/"><u>In 2024, Unlocking Advanced Android Screen Recording</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-pairing-bose-soundlink-wireless-earbuds-and-headphones/"><u>Mastering the Art of Pairing Bose Soundlink Wireless Earbuds and Headphones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-viewing-with-tcls-latest-upgrade-19-additions-to-the-q-and-s-lineup/"><u>Revolutionize Your Viewing with TCL's Latest Upgrade: 19 Additions to the Q & S Lineup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sharing-resources-made-simple-networking-a-printer-with-various-devices/"><u>Sharing Resources Made Simple: Networking a Printer With Various Devices</u></a></li>
+</ul></div>
 

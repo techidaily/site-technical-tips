@@ -1,7 +1,7 @@
 ---
 title: Experience the Future of Computing with MacOS 15 - Top-Notch Enhancements for Your Apple MacBook | Insights From ZDNET!
-date: 2024-12-06T05:51:37.528Z
-updated: 2024-12-10T19:43:11.430Z
+date: 2024-12-14T17:02:59.418Z
+updated: 2024-12-17T16:34:22.161Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -64,10 +68,6 @@ The app also streamlines your devices by bringing your iPhone's notifications st
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Siri 2.0
 
 Screenshot by Nina Raemont
@@ -81,7 +81,7 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -97,7 +97,7 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -111,7 +111,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -125,7 +125,7 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -162,17 +162,17 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-elevate-engagement-crafting-instagram-highlights-in-3-steps/"><u>[Updated] Elevate Engagement Crafting Instagram Highlights in 3 Steps</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-guide-to-editing-and-optimizing-instagram-footage-for-2024/"><u>[Updated] Step-by-Step Guide to Editing and Optimizing Instagram Footage for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-watch-ultra-now-at-record-discount-prices-before-festive-season-insights/"><u>Apple Watch Ultra Now at Record Discount Prices Before Festive Season - Insights</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/checking-graphic-cards-specs-a-step-by-step-tutorial-for-computer-enthusiasts-hardware-hub/"><u>Checking Graphic Cards Specs: A Step-by-Step Tutorial for Computer Enthusiasts - Hardware Hub</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-xiaomi-redmi-13cmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Xiaomi Redmi 13CMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-legally-access-fortnite-for-ios-devices-complete-step-by-step-instructions/"><u>How to Legally Access Fortnite for iOS Devices : Complete Step-by-Step Instructions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leap-forward-upgrading-windows-11-from-32-to-64-bit/"><u>Leap Forward: Upgrading Windows 11 From 32 to 64-Bit</u></a></li>
-<li><a href="https://extra-information.techidaily.com/perfecting-soundtracks-with-imovie-tools/"><u>Perfecting Soundtracks with iMovie Tools</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-nubia-red-magic-9-proplus-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Nubia Red Magic 9 Pro+</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-choosing-your-perfect-airtag-wallet-professional-ratings-cnet/"><u>Ultimate Guide to Choosing Your Perfect AirTag Wallet : Professional Ratings | CNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-apples-brand-voice-insights-into-why-they-avoid-exclamation-points-online/"><u>Understanding Apple's Brand Voice: Insights Into Why They Avoid Exclamation Points Online</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unleashing-the-power-of-magsafe-technology-in-iphone-13s-protective-gear-zdnet-showcases-a-beautifully-crafted-high-quality-nomad-case/"><u>Unleashing the Power of MagSafe Technology in iPhone 13'S Protective Gear - ZDNet Showcases a Beautifully Crafted, High Quality Nomad Case!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-digital-diving-into-youtubes-veiled-video-vaults/"><u>[New] 2024 Approved Digital Diving Into YouTube’s Veiled Video Vaults</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unlock-creative-potential-editing-videos-via-windows-photos-and-story-remix/"><u>[New] 2024 Approved Unlock Creative Potential Editing Videos via Windows Photos and Story Remix</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-conceptualize-entertaining-posts-in-adobe-for-2024/"><u>[New] Conceptualize Entertaining Posts in Adobe for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-dive-into-broadcasting-proficiency-with-obs-on-youtube-and-twitch/"><u>[New] Dive Into Broadcasting Proficiency with OBS on YouTube and Twitch</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-high-definition-excellence-leading-the-recording-race-for-2024/"><u>[Updated] High Definition Excellence Leading the Recording Race for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bluetooth-integration-tutorial-pairing-sound-systems-to-computers-successfully/"><u>Bluetooth Integration Tutorial: Pairing Sound Systems to Computers Successfully</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-lgbtq-friendly-netflix-shows-whats-hot-this-july/"><u>Discover the Ultimate List of LGBTQ-Friendly Netflix Shows - What's Hot This July!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-3-technological-advances-shaping-our-future/"><u>Essential 3 Technological Advances Shaping Our Future</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-must-watch-lgbtq-content-netflixs-latest-and-greatest-in-july-2024/"><u>Explore Must-Watch LGBTQ Content: Netflix's Latest and Greatest in July 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-latest-razer-software-updates-on-various-windows-versions-including-windows-11/"><u>How to Install Latest Razer Software Updates on Various Windows Versions Including Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-setting-up-dual-monitors-with-a-macbook-air-for-efficient-workflows/"><u>Step-by-Step Tutorial: Setting Up Dual Monitors with a MacBook Air for Efficient Workflows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/taking-a-closer-look-at-the-new-generation-of-amazon-echo-show-the-portable-display-device-for-your-home/"><u>Taking a Closer Look at the New Generation of Amazon Echo Show - The Portable Display Device for Your Home</u></a></li>
 </ul></div>
 

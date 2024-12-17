@@ -1,7 +1,7 @@
 ---
 title: Save Big on MacBook Air with M1 Chip at an Unbeatable Discounted Rate of $649 – Exclusive Deal Alert![ZDNet]
-date: 2024-12-04T09:45:47.558Z
-updated: 2024-12-11T11:14:11.606Z
+date: 2024-12-10T16:52:37.847Z
+updated: 2024-12-17T17:00:45.288Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,17 +81,22 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-joyful-account-access-instructions/"><u>[New] Joyful Account Access Instructions</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-hidden-media-strategies-for-displaying-on-your-timeline/"><u>[Updated] 2024 Approved Hidden Media Strategies for Displaying on Your Timeline</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-in-depth-evaluation-of-the-next-gen-slomo-video-tool/"><u>[Updated] In 2024, The In-Depth Evaluation of the Next-Gen SloMo Video Tool</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/avoid-illicit-power-why-authentic-certification-matters-for-your-apple-watch-chargers-security-advice-on-zdnet/"><u>Avoid Illicit Power: Why Authentic Certification Matters for Your Apple Watch Chargers | Security Advice on ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decision-making-showdown-m1-vs-m2-ipad-pro-which-cutting-edge-tablet-suits-your-needs-best-expert-insights-from-zdnet/"><u>Decision-Making Showdown: M1 Vs. M2 iPad Pro - Which Cutting-Edge Tablet Suits Your Needs Best? Expert Insights From ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-communication-at-a-glance-how-to-turn-on-slack-alerts-for-your-apple-watch-zdnet/"><u>Effortless Communication at a Glance: How to Turn On Slack Alerts for Your Apple Watch (ZDNet)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/enabling-hardware-acceleration-on-handbrake-without-cuda/"><u>Enabling Hardware Acceleration on Handbrake Without CUDA</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-persistent-freezing-issues-in-ghostwire-tokyo-on-pc/"><u>Fixing Persistent Freezing Issues in Ghostwire: Tokyo on PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-the-ultimate-video-editing-tool-for-your-nokia-phones-with-wonderfox-factory-pro/"><u>Get the Ultimate Video Editing Tool for Your Nokia Phones with WonderFox Factory Pro</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximizing-work-output-on-your-ipad-discover-the-ultimate-productivity-apps-as-recommended/"><u>Maximizing Work Output on Your iPad: Discover the Ultimate Productivity Apps as Recommended</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/streaming-in-harmony-connect-and-listen-to-spotify-with-your-crew/"><u>Streaming in Harmony: Connect and Listen to Spotify With Your Crew</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-transform-personal-experiences-through-direct-webcam-capture-using-vlc/"><u>[New] Transform Personal Experiences Through Direct Webcam Capture Using VLC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-perfecting-your-photos-from-the-sky-how-to-select-the-right-drone-gimbal/"><u>[Updated] In 2024, Perfecting Your Photos From the Sky How To Select The Right Drone Gimbal</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/crafting-compelling-narratives-with-spotify-ads-for-2024/"><u>Crafting Compelling Narratives with Spotify Ads for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-new-m3-macbook-pros-specs-and-pricing-strategy-all-you-need-to-know/"><u>Discover the New M3 MacBook Pro's Specs & Pricing Strategy - All You Need to Know</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/five-enhanced-beams-for-safer-journeys/"><u>Five Enhanced Beams for Safer Journeys</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/google-pixel-9-unveiled-get-the-scoop-on-estimated-price-launch-date-and-hardware-specs-rumor-mill-alert/"><u>Google Pixel 9 Unveiled: Get the Scoop on Estimated Price, Launch Date & Hardware Specs - Rumor Mill Alert</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-perform-a-master-reset-on-your-samsung-soundbar-unit/"><u>How To Perform a Master Reset on Your Samsung Soundbar Unit</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-nokia-c210-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Nokia C210 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-mini-vs-ipad-air-a-comprehensive-review-of-their-distinctions/"><u>IPad Mini VS iPad Air: A Comprehensive Review of Their Distinctions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/join-us-online-to-catch-the-exclusive-preview-of-samsungs-newest-mobile-marvel/"><u>Join Us Online to Catch the Exclusive Preview of Samsung's Newest Mobile Marvel</u></a></li>
+<li><a href="https://fox-info.techidaily.com/leading-choices-no-fee-versatile-live-streaming-tools-for-every-device/"><u>Leading Choices No-Fee, Versatile Live Streaming Tools for Every Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-cloud-gaming-a-comprehensive-tutorial-on-using-the-xbox-game-pass-ultimate/"><u>Mastering Cloud Gaming: A Comprehensive Tutorial on Using the Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-tecno-pova-5-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Tecno Pova 5</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-android-call-issues-steps-to-restore-your-phones-communication/"><u>Solving Android Call Issues: Steps to Restore Your Phone's Communication</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-baby-steps-decoding-and-solving-error-code-e43-in-at-home-kits/"><u>Troubleshooting Baby Steps: Decoding & Solving Error Code E43 in At-Home Kits</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-the-pc-cannot-boot-windows-ebxn-506914830-87b-4f0fbfd4fd-nt-security-center/"><u>Troubleshooting the 'PC Cannot Boot Windows Ebxn-506914830, 87B-4f0fbfd4fd, nT Security Center]'</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-rated-adobe-premiere-title-templates-free-for-your-next-project-for-2024/"><u>Updated Top-Rated Adobe Premiere Title Templates Free for Your Next Project for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Upcoming Apple Announcement? Rumors Swirl Around New Ring Model's Specs and Expected Price Tag
-date: 2024-08-30T13:43:19.872Z
-updated: 2024-08-31T13:43:19.872Z
+date: 2024-12-13T17:19:54.086Z
+updated: 2024-12-17T16:16:54.059Z
 categories:
   - BestProducts
 description: This Article Describes Upcoming Apple Announcement? Rumors Swirl Around New Ring Model's Specs and Expected Price Tag
@@ -22,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/2k4iU5HkVejqLQ3b_HwWxcej_oE=/400x300/fi
 
  A ring to complement or take the place of your Apple Watch? Let's look at all the Apple Ring rumors and get a feel for what this new wearable could bring.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will Apple Ring Be Released?
 
  Samsung released the[Galaxy Ring](https://www.lifewire.com/samsung-galaxy-ring-8431146) , so it's no surprise we're hearing rumors about a so-called Apple Ring. The problem is, unlike Samsung's ring, Apple's has yet to be announced or even hinted at by the company.
@@ -30,13 +34,14 @@ thumbnail: https://www.lifewire.com/thmb/2k4iU5HkVejqLQ3b_HwWxcej_oE=/400x300/fi
 
  In addition to health-tracking features, a ring could easily attract fans already secured in the Apple ecosystem if positioned as a controller (of sorts) for the iPhone or Vision Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
  We guess the Apple Ring will arrive in 2026\. There aren't enough leaks or rumors to support a release date that's any earlier.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Apple Ring Price Rumors
 
  One reason there could be an Apple smart ring is to offer a low-cost wearable to users who don't want to splurge for an Apple Watch. But if you're familiar with Apple products, you know they are anything but cheap.
@@ -50,15 +55,13 @@ thumbnail: https://www.lifewire.com/thmb/2k4iU5HkVejqLQ3b_HwWxcej_oE=/400x300/fi
 [Amazfit Helio Ring: Price, Release Date, and Specs](https://www.lifewire.com/amazfit-helio-ring-8657687)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  You can't pre-order the Apple Ring just yet. We'll drop the link here when (and if) it becomes available for purchase.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apple Ring Features
 
  There's a limit to what a smart ring can do because only so much hardware can be squeezed into a piece of tech meant to wrap around a finger. What Apple does with that hardware, however, could be pretty neat.
@@ -76,9 +79,6 @@ thumbnail: https://www.lifewire.com/thmb/2k4iU5HkVejqLQ3b_HwWxcej_oE=/400x300/fi
 
 [iPhone 17: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/iphone-17-8612548)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apple Ring Specs and Hardware
 
  These details aren't yet known because, of course, the Apple Ring is only a rumor. If we look at how other companies make their version of a smart ring, we can get an idea of how Apple's will probably work.
@@ -98,8 +98,9 @@ thumbnail: https://www.lifewire.com/thmb/2k4iU5HkVejqLQ3b_HwWxcej_oE=/400x300/fi
 ![An illustration of a wearable device from patent US20190004604A1](https://www.lifewire.com/thmb/irJp51JsDDIYxa0pchvLBFfkrog=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-ring-illustration-e8542cdcbbb84af4a99d2050c3e21f76.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Apple
 
  If you can believe it, a[patent was filed for an Apple smart ring as early as 2015](https://patents.google.com/patent/US20150277559A1/) . The idea presented in that patent is for a device with a "finger-ring-mounted touchscreen," so it's a bit different than the ring we're expecting these days. If anything, though, the patent shows that a smart ring has been on the company's radar for a while.
@@ -107,8 +108,9 @@ Apple
  If the Apple Ring is real, we'll start hearing more rumors and uncovering leaks as it moves through its various development stages. We'll keep an eye out for those details and add them here.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About Apple Ring
 
  You can always get the[latest wearable and other smart gadget news](https://www.lifewire.com/smart-home-connected-life-news-4797031) here on Lifewire. Below is the latest on Apple's potential smart ring.
@@ -123,8 +125,6 @@ Apple
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +132,23 @@ Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-igtv-content-expansion-direct-sharing-on-facebook-platform/"><u>[New] 2024 Approved IGTV Content Expansion Direct Sharing on Facebook Platform</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-essential-tips-enhancing-focus-in-your-youtube-video/"><u>[New] Essential Tips Enhancing Focus in Your YouTube Video</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-what-makes-youtube-and-dailymention-stand-out/"><u>[New] In 2024, What Makes YouTube and DailyMention Stand Out?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-designing-dynamic-videos-with-adobe-captivate/"><u>[Updated] In 2024, Designing Dynamic Videos with Adobe Captivate</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-the-potential-of-valorant-thumbnails-for-online-success/"><u>[Updated] Unlocking the Potential of Valorant Thumbnails for Online Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-the-app-store-think-twice-for-your-mac-security/"><u>ChatGPT in the App Store? Think Twice for Your Mac Security</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-plus-vs-perplexity-showdown-which-ai-powered-chatbot-takes-the-lead/"><u>ChatGPT Plus Vs. Perplexity Showdown: Which AI-Powered Chatbot Takes the Lead?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/creating-custom-notifications-setting-your-own-ring-tones-for-gmail/"><u>Creating Custom Notifications: Setting Your Own Ring Tones for Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-the-windows-10-battery-diagnostics-what-every-user-should-know/"><u>Demystifying the Windows 10 Battery Diagnostics: What Every User Should Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-fixing-408-request-timeout-problems-in-web-applications/"><u>Diagnosing & Fixing 408 Request Timeout Problems in Web Applications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-repairing-the-absence-of-dbghelpdll-in-windows-systems/"><u>Diagnosing and Repairing the Absence of Dbghelp.dll in Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-ebooks-to-hardcovers-the-ultimate-tech-guide-featuring-top-laptops-and-smartphones/"><u>From Ebooks to Hardcovers – The Ultimate Tech Guide Featuring Top Laptops and Smartphones!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-creating-an-impactful-entry-for-your-podcast/"><u>In 2024, Creating an Impactful Entry for Your Podcast</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-v-purse-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor V Purse Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rectifying-the-d3dx941dll-file-unavailability-proven-strategies-that-work/"><u>Rectifying the d3dx9_41.dll File Unavailability: Proven Strategies That Work</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722882996842-unveiling-the-top-10-pick-for-free-email-accounts-your-guide/"><u>Unveiling the Top 10 Pick for Free Email Accounts: Your Guide</u></a></li>
+</ul></div>
 

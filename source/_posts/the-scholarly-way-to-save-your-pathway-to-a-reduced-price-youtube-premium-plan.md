@@ -1,7 +1,7 @@
 ---
 title: "The Scholarly Way to Save: Your Pathway to a Reduced Price YouTube Premium Plan"
-date: 2024-08-30T13:46:45.534Z
-updated: 2024-08-31T13:46:45.534Z
+date: 2024-12-13T16:34:00.426Z
+updated: 2024-12-17T16:07:14.020Z
 categories:
   - BestProducts
 description: "This Article Describes The Scholarly Way to Save: Your Pathway to a Reduced Price YouTube Premium Plan"
@@ -42,6 +42,10 @@ of 06
 
 ![Ipad2 Comparison](https://www.lifewire.com/thmb/jPN69wWYT2zLJfh18NfogwaSrHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-457316526-57deda085f9b58651650818c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Credit: Justin Sullivan / Staff Editorial #: 457316526
 
  The screenshot prank involves[taking a screenshot](https://www.lifewire.com/how-to-take-an-ipad-screenshot-4103779) of the home screen and[using it as the wallpaper for the lock screen](https://www.lifewire.com/set-ipads-background-wallpaper-1994638) . This change can cause your unsuspecting victim to think the iPad or iPhone is ready to use, but all the taps in the world won't open an app until they slide to unlock.
@@ -51,16 +55,13 @@ of 06
 of 06
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [The Screenshot Home Screen](https://www.lifewire.com/customize-iphone-home-screen-5194141)
 
 ![A woman is using a mobile phone](https://www.lifewire.com/thmb/jjAY5RfCf0bXbyTAiGQR8Hch-IY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1024775444-046154f6b201485c8e1e9159c420b6d3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  Karl Tapales/Getty Images
 
  This one is similar to the screenshot background.
@@ -76,12 +77,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 of 06
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## [The Blue Screen of Death](https://www.lifewire.com/blue-screen-of-death-bsod-2625816)
 
 ![blue-screen-of-death-trick.jpg](https://www.lifewire.com/thmb/_gxotYS62h_k3CB3IJcw8XjirCo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/blue-screen-of-death-trick-56a532a05f9b58b7d0db708b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This one is funnier if you're targeting an IT professional or anyone that knows a bit about computers. The famed "Blue Screen of Death" is the error screen Windows gives when the operating system crashes.
 
@@ -98,8 +100,9 @@ of 06
 ![Computer graphic of a human eye (negative-image)](https://www.lifewire.com/thmb/_a_kXKBXJhuHJ1QPW0N00LOavkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-680799841-653726185c454bf29f730cce93fcb45a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 MEHAU KULYK/SCIENCE PHOTO LIBRARY / Getty Images
 
 [iOS's accessibility options](https://www.lifewire.com/ipad-accessibility-guide-1994516) can be a goldmine for pranksters. Inverting the colors can make the iPad look all out of whack with no easy way to put it back to normal. Unless your target has really experimented with all the iPad settings, they probably won't figure it out.
@@ -113,15 +116,13 @@ MEHAU KULYK/SCIENCE PHOTO LIBRARY / Getty Images
 of 06
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Put the Device in Zoom Mode](https://www.lifewire.com/zoom-in-and-out-on-ipad-4103821)
 
 ![Ladybird on girl's hand under magnifying glass](https://www.lifewire.com/thmb/ly93teq_5dn-YxKk4JmXf6WLY7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-588494079-6d7dfd09ac874928924cdc745685e929.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Westend61 / Getty Images
 
  The iPhone and iPad's accessibility options also have a zoom mode, which is great for those with vision problems and those who want to have a laugh at a friend's expense.
@@ -150,8 +151,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +158,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-unfollow-a-path-towards-a-lasting-account-discontinuation-for-2024/"><u>[New] Insta Unfollow A Path Towards a Lasting Account Discontinuation for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-essential-guide-to-creating-amazing-ig-films/"><u>[New] The Essential Guide to Creating Amazing IG Films</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-infinix-note-30-vip-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Infinix Note 30 VIP Activity | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-explore-and-download-50-free-youtube-banners/"><u>2024 Approved Explore & Download 50 FREE YouTube Banners!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieve-seamless-stereo-by-connecting-various-bluetooth-speakers-with-a-lone-audio-gadget/"><u>Achieve Seamless Stereo by Connecting Various Bluetooth Speakers with a Lone Audio Gadget</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-about-samsung-unpacked-2025-dates-top-announcements-and-speculated-gadgets-revealed/"><u>All About Samsung Unpacked 2025: Dates, Top Announcements & Speculated Gadgets Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-about-the-apple-watch-ultra-2-anticipated-costs-launch-timeline-and-features-unveiled/"><u>All About the Apple Watch Ultra 2: Anticipated Costs, Launch Timeline & Features Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convertir-archivos-ape-a-formato-wav-sin-costo-con-movavi-convertidor-online/"><u>Convertir Archivos APE a Formato WAV Sin Costo Con Movavi Convertidor Online</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-lava-yuva-3-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Lava Yuva 3 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-intel-graphics-driver-to-the-latest-version-iris-plus-gvt-amo-655/"><u>How to Update Your Intel Graphics Driver to the Latest Version (Iris Plus GVT Amo 655)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y100i-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y100i</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-directory-operations-opening-cmd-within-your-files/"><u>Mastering Directory Operations: Opening CMD Within Your Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-must-have-educational-apps-learn-like-never-before/"><u>Top 8 Must-Have Educational Apps - Learn Like Never Before</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-silent-issues-with-your-stereo-receiver/"><u>Troubleshooting Steps: Resolving Silent Issues with Your Stereo Receiver</u></a></li>
+</ul></div>
 

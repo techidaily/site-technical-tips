@@ -1,7 +1,7 @@
 ---
 title: "Enabling/Disabling Network Discovery on Your Windows 10 PC: A Step-by-Step Guide"
-date: 2024-08-30T13:43:04.866Z
-updated: 2024-08-31T13:43:04.866Z
+date: 2024-12-13T16:51:08.924Z
+updated: 2024-12-17T16:27:12.106Z
 categories:
   - BestProducts
 description: "This Article Describes Enabling/Disabling Network Discovery on Your Windows 10 PC: A Step-by-Step Guide"
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685
 
 Lifewire
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 802.11be (Wi-Fi 7)
 
  Released in January 2024, 802.11be (aka Wi-Fi 7) is the latest standard. It's much faster than Wi-Fi 6, reaching speeds up to 46 Gbps. Wi-Fi 7 is designed to use power efficiently and handle crowded Wi-Fi areas better.
@@ -35,36 +39,36 @@ Lifewire
  While final ratification of this standard isn't expected until the end of 2024, Wi-Fi 7 devices are already available.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 802.11ax (Wi-Fi 6)
 
  Branded as Wi-Fi 6, the 802.11ax standard went live in 2019 to replace 802.11ac. Wi-Fi 6 maxes out at about 10 Gbps, uses less power, is more reliable in congested environments, and supports better security. Wi-Fi 6E is an extension of this standard that adds the[6 GHz band](https://www.lifewire.com/6ghz-6e-wi-fi-4845541) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 802.11aj
 
  Known as the China Millimeter Wave, this standard applies in China and is a rebranding of 802.11ad for use in certain areas of the world. The goal is to maintain backward compatibility with 802.11ad.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 802.11ah
 
  Approved in May 2017, this standard targets lower energy consumption and creates extended-range Wi-Fi networks that can go beyond the reach of a typical 2.4 GHz or 5 GHz network. It competes with Bluetooth, given its lower power needs.
 
 [Is 5 GHz Wi-Fi Better Than 2.4 GHz?](https://www.lifewire.com/is-5-ghz-wifi-better-than-2-4-ghz-818293)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 802.11ad
 
  This standard was approved in December 2012 and is freakishly fast (several Gbits/second). However, the client device must be within 30 feet of the access point.
 
  Keep in mind when distances are mentioned that ranges can be greatly impacted by obstacles that block the signal, so the range mentioned refers to situations where there is absolutely no interference.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 802.11ac (Wi-Fi 5)
 
@@ -74,22 +78,12 @@ Lifewire
 
  802.11ac is also referred to as Wi-Fi 5.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## 802.11n (Wi-Fi 4)
 
  802.11n (also sometimes known as[Wireless N](https://www.lifewire.com/what-is-wireless-n-818280) ) was designed to improve on 802.11g in the bandwidth it supports by using several wireless signals and antennas (called_MIMO_ technology) instead of one. Industry standards groups ratified 802.11n in 2009 with specifications providing up to 600 Mbps of network bandwidth. 802.11n also offers a somewhat better range over earlier Wi-Fi standards due to its increased signal intensity, and it is backward-compatible with 802.11a/b/g gear.
 
  While 802.11n offers significant bandwidth improvement from previous standards and is widely supported, the use of multiple signals may interfere with nearby 802.11b/g-based networks.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## 802.11g (Wi-Fi 3)
 
  In 2002 and 2003, WLAN products supporting a newer standard called 802.11g emerged. 802.11g attempts to combine the best of both 802.11a and 802.11b. 802.11g supports bandwidth up to 54 Mbps and uses the 2.4 GHz frequency for greater range. 802.11g is backward compatible with 802.11b, meaning that 802.11g[access points](https://www.lifewire.com/wireless-access-point-816545) will work with 802.11b wireless[network adapters](https://www.lifewire.com/definition-of-adapter-817585) and vice versa.
@@ -115,6 +109,10 @@ No advertising on the website.
  802.11b uses the same_unregulated_ radio signaling frequency (2.4[GHz](https://www.lifewire.com/story-of-hertz-megahertz-and-gigahertz-818308) ) as the original 802.11 standard. Vendors often prefer using these frequencies to lower their production costs. Being unregulated, 802.11b gear can incur interference from microwave ovens, cordless phones, and other appliances using the same 2.4 GHz range. However, by installing 802.11b gear at a reasonable distance from other appliances, interference can easily be avoided.
 
  802.11b is also unofficially referred to as_Wi-Fi 1_ .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What About Bluetooth and the Rest?
 
@@ -186,8 +184,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +191,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-conveniently-keep-your-linkedin-videos-with-these-6-apps/"><u>[New] Conveniently Keep Your LinkedIn Videos with These 6 Apps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-photo-care-essentials-scanning-and-securing-vintage-prints/"><u>[Updated] Photo Care Essentials Scanning & Securing Vintage Prints</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-quick-windows-photo-zoom/"><u>2024 Approved Ultimate Quick Windows Photo Zoom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-creativity-your-steps-toward-a-thriving-design-career/"><u>2024 Approved Unlocking Creativity Your Steps Toward a Thriving Design Career</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-reasons-behind-your-car-audio-system-failure/"><u>Discover the Reasons Behind Your Car Audio System Failure</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-conversion-techniques-for-bik-files-how-to-turn-them-into-mp4-avi-and-mkv/"><u>Easy Conversion Techniques for BIK Files: How to Turn Them Into MP4, AVI, and MKV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-sanitize-your-tv-remote-for-a-hygienic-entertainment-experience/"><u>How to Sanitize Your TV Remote for a Hygienic Entertainment Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-use-a-mobile-phone-as-a-wifi-router-for-your-fire-stick-device/"><u>How to Use a Mobile Phone as a WiFi Router for Your Fire Stick Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-look-unraveling-the-secrets-of-the-popular-netflix-streaming-platform/"><u>Inside Look: Unraveling the Secrets of the Popular Netflix Streaming Platform</u></a></li>
+<li><a href="https://extra-support.techidaily.com/listen-and-write-the-gratis-method-for-2024/"><u>Listen and Write – The Gratis Method for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-arranging-a-professional-apple-technician-consultation/"><u>Mastering the Art of Arranging a Professional Apple Technician Consultation</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/resolving-issues-from-faulty-ram-a-comprehensive-guide-insights-by-yl-computing/"><u>Resolving Issues From Faulty RAM: A Comprehensive Guide - Insights by YL Computing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/simplified-guide-to-incorporating-accurate-timestamps-in-youtube-videos-for-2024/"><u>Simplified Guide to Incorporating Accurate Timestamps in YouTube Videos for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-common-issues-why-your-ipad-wont-connect-to-wi-fi-printers/"><u>Troubleshooting Common Issues: Why Your iPad Won't Connect to Wi-Fi Printers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/turning-chaos-into-clarity-in-your-burdened-tiktok-archive-for-2024/"><u>Turning Chaos Into Clarity in Your Burdened TikTok Archive for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watch-movies-and-tv-shows-for-free-on-crackles-streaming-service/"><u>Watch Movies & TV Shows for Free on Crackle's Streaming Service.</u></a></li>
+</ul></div>
 

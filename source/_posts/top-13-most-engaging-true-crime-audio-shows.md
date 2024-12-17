@@ -1,7 +1,7 @@
 ---
 title: Top 13 Most Engaging True Crime Audio Shows
-date: 2024-08-30T13:49:32.417Z
-updated: 2024-08-31T13:49:32.417Z
+date: 2024-12-11T16:15:24.695Z
+updated: 2024-12-17T16:59:34.259Z
 categories:
   - BestProducts
 description: This Article Describes Top 13 Most Engaging True Crime Audio Shows
@@ -76,17 +76,14 @@ Universal Pictures
 
 of 20
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## [Past Lives (2023) - Paramount Plus](https://www.imdb.com/title/tt13238346/)
 
 ![Teo Yoo and Greta Lee in Past Lives (2023)](https://www.lifewire.com/thmb/Y59jlqDPU1d9w_VkhcfPvVinbR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PastLives-6e2d7a4d476e45c5bbd3c8921a16a4ba.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 A24
 
 **IMDb Rating** : 7.8/10  
@@ -116,8 +113,9 @@ of 20
 ![Dominic Sessa and Paul Giamatti in The Holdovers](https://www.lifewire.com/thmb/YnV_Sdr8_4lrHgYbcg-5CeZL8QY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheHoldovers-db3a4b1ca8924ab789e3135f55399a00.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Focus Features
 
 **IMDb Rating** : 7.9/10  
@@ -138,9 +136,17 @@ Focus Features
 
 of 20
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Killers of the Flower Moon (2023) - Apple TV+](https://www.imdb.com/title/tt5537002/)
 
 ![Leonardo DiCaprio and Lily Gladstone in Killers of the Flower Moon (2023)](https://www.lifewire.com/thmb/iL6Rjauks5I-CBIWWkz5FrQfPGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/killersoftheflowermoon-aeefbf0692224c6c9702207b962c7d1e.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Paramount Pictures
 
@@ -166,16 +172,10 @@ Paramount Pictures
 
 of 20
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Poor Things (2023) - Hulu](https://www.imdb.com/title/tt14230458/)
 
 ![Emma Stone in Poor Things (2023)](https://www.lifewire.com/thmb/3Meqz7uQMl9HIyfy-EKMErkw18w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/poor-things-022_054_poorthings_ov_v30464704_fp_dpo_prohq_uhd-sdr_24_eng-166_eng-5120_a_ops9z8mjw_tiff53_rgb_custom-dbfbdcbf8bfa378f9047be6e3e78ff32b595dc84-6f59df92da94444b8bfc0422346d016f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 Searchlight Pictures
 
 **IMDb Rating** : 7.9/10  
@@ -204,9 +204,6 @@ of 20
 
 ![Zac Efron in a promo image for The Iron Claw (2023)](https://www.lifewire.com/thmb/wnijyAPfoYfuTQmSgWKqrwcKtL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-iron-claw-efron-7e77128fd63d4521b72b696051a243f5.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 A24
 
 **IMDb Rating** : 7.6/10  
@@ -231,9 +228,6 @@ _The Iron Claw_ is based on the real-life story of the Von Erich brothers, who r
 
 of 20
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## [Hit Man (2023) - Netflix](https://www.imdb.com/title/tt20215968/)
 
 ![Glen Powell in Hit Man (2023)](https://www.lifewire.com/thmb/SIj_pHAXAabPCxxALpm7xHcPzls=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/glen-powell-in-hit-man-trailer-wearing-sunglasses-smiling-and-sitting-at-a-diner-booth-deb74a6659f841ad8b517382d00dd705.jpeg)
@@ -266,9 +260,6 @@ of 20
 
 ![Still image from The Zone of Interest (2023)](https://www.lifewire.com/thmb/KdachdkU8-e6bcohfzhbLQlad8U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheZoneOfInterest_textless_ProRes422HQ_24p_1920x1080_178_Rec709_51-20_20230929.00_46_51_20.Still001-48ecca43df884f0fbfe437627874155d.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 A24
 
 **IMDb Rating** : 7.4/10  
@@ -293,13 +284,14 @@ A24
 
 of 20
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Top Gun: Maverick (2022) - Paramount Plus](https://www.imdb.com/title/tt1745960/)
 
 ![Tom Cruise in Top Gun: Maverick (2022)](https://www.lifewire.com/thmb/NG04QySNHhxBCYJ8_rukgGK-ux8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Top-Gun-Maverick-featured-fbc75bef2d7d4f4aa8a065fddf7047af.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 Paramount Pictures
 
 **IMDb Rating** : 8.2/10  
@@ -322,16 +314,10 @@ Paramount Pictures
 
 of 20
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## [Barbie (2023) - Max](https://www.imdb.com/title/tt1517268/)
 
 ![Margot Robbie and Ryan Gosling in Barbie (2023)](https://www.lifewire.com/thmb/mhS706kMifUgI85kWplmjSZ2LFg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/rev-1-BAR-07462_High_Res_JPEG-H-2023-66f159dab85b41c089836b40b80db051.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Warner Bros. Pictures
 
 **IMDb Rating** : 6.8/10  
@@ -356,9 +342,6 @@ Warner Bros. Pictures
 
 of 20
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Avatar: The Way of Water (2022) - Disney Plus](https://www.imdb.com/title/tt1630029/)
 
 ![Promo image for Avatar: The Way of Water (2022)](https://www.lifewire.com/thmb/D_rI00h0MsvuByyNTHpGx2G_cQA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04d36a5d-cb8a-4278-b140-2a1b5e331c50-loak-53881476e9d5495eb6dcf7448e9493c0.jpeg)
@@ -413,16 +396,13 @@ Walt Disney Studios Motion Pictures
 of 20
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Monkey Man (2024) - Peacock](https://www.imdb.com/title/tt9214772/)
 
 ![Dev Patel in Monkey Man (2024)](https://www.lifewire.com/thmb/Y-QNxlggtd2GGaE2gHheFTbqXOI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MonkeyMan-e89947de71ca4e6cb04772f6add00ad2.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 Universal Pictures
 
 **IMDb Rating** : 6.9/10  
@@ -446,6 +426,10 @@ Universal Pictures
 15
 
 of 20
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Ferrari (2023) - Hulu](https://www.imdb.com/title/tt3758542/)
 
@@ -475,9 +459,17 @@ _Heat_ director Michael Mann eschews the full biographic format here and instead
 
 of 20
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Anyone But You (2023) - Netflix](https://www.imdb.com/title/tt26047818/)
 
 ![Glen Powell and Sydney Sweeney in Anyone But You (2023)](https://www.lifewire.com/thmb/e4ahZyLl6oELJjCc-4DDrt7bLro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/anyone-but-you-1-717a09049bf442f883f43a8a24806a8e.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sony Pictures
 
@@ -508,8 +500,9 @@ of 20
 ![Dakota Johnson and Sonoya Mizuno in Am I OK? (2022)](https://www.lifewire.com/thmb/n9MwMpmMLnidlBMD3klVVhdBfEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AM-I-OK-Sundance-Film-Festival-Publicity-H-2022-9e7f94f0756b45f4bb4545fa258deeca.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Max
 
 **IMDb Rating** : 6.1/10  
@@ -558,16 +551,10 @@ Lionsgate
 
 of 20
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## [No One Will Save You (2023) - Hulu](https://www.imdb.com/title/tt14509110/)
 
 ![Kaitlyn Dever in No One Will Save You (2023)](https://www.lifewire.com/thmb/i8ZoKpAYIKR5vt1kXpEeOLd1ZWA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/No-One-Will-Save-You-9940330c07204d6a93824981ef962da2.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hulu
 
 **IMDb Rating** : 6.3/10  
@@ -632,8 +619,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -641,4 +626,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-how-to-maximize-your-impact-with-snapchat-spotlight/"><u>[New] 2024 Approved How to Maximize Your Impact with Snapchat Spotlight</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-evaluating-screen-recording-software-obs-vs-bandicam/"><u>[New] In 2024, Evaluating Screen Recording Software OBS vs Bandicam</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-mastering-documentary-script-artistry/"><u>[New] In 2024, Mastering Documentary Script Artistry</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-quick-start-guide-to-your-channels-easy-sign-up-button/"><u>[New] In 2024, Quick-Start Guide to Your Channel's Easy Sign Up Button</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-latest-tricks-for-ios-screenshots-and-recording/"><u>[Updated] In 2024, Latest Tricks for iOS Screenshots & Recording</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-the-new-youtube-earnings-landscape-for-2024/"><u>[Updated] Navigating the New YouTube Earnings Landscape for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/automating-your-social-media-presence-tips-for-scheduling-tweets-like-a-pro/"><u>Automating Your Social Media Presence: Tips for Scheduling Tweets Like a Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-boost-your-instagram-following-fast/"><u>Effective Strategies to Boost Your Instagram Following Fast</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-v30-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme V30 To Phone | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagrams-inheritance-a-modern-twist-on-a-classic-platform/"><u>Instagram's Inheritance: A Modern Twist on a Classic Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-wpcapsddll-challenges-effective-strategies-for-missing-files-and-not-found-errors/"><u>Navigating Through Wpcapsd.dll Challenges: Effective Strategies for Missing Files and Not Found Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamlessly-linking-pinterest-tab-with-your-facebook-profilepage/"><u>Seamlessly Linking Pinterest Tab with Your Facebook Profile/Page</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-best-parental-control-tools-and-software/"><u>Top 8 Best Parental Control Tools & Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/updated-august-2024-find-the-best-and-freest-software-solutions-to-upgrade-your-devices-drivers-today/"><u>Updated August 2024: Find the Best and Freest Software Solutions to Upgrade Your Device's Drivers Today!</u></a></li>
+</ul></div>
 

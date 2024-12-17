@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Latest Innovations in iPadOS for Generation iPads at 2024 WWDC: The Features You Can't Miss!"
-date: 2024-12-03T18:25:49.722Z
-updated: 2024-12-11T06:11:00.516Z
+date: 2024-12-14T16:06:55.979Z
+updated: 2024-12-17T16:08:46.899Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -65,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -77,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -98,6 +94,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -111,6 +111,10 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -132,10 +136,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,21 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/wift-transformation-video-aspects-to-mac-standard/"><u>[New] Swift Transformation Video Aspects to Mac Standard</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-sonic-shadows-the-art-of-sound-and-image-blending/"><u>2024 Approved Sonic Shadows The Art of Sound and Image Blending</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/activating-or-deactivating-the-virtual-keyboard-in-windows-11-a-step-by-step-tutorial/"><u>Activating or Deactivating the Virtual Keyboard in Windows 11: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/advanced-email-organization-creating-specific-rules-in-gmail-tutorial/"><u>Advanced Email Organization: Creating Specific Rules in Gmail Tutorial</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-moisture-resistant-wearables-of-the-year-in-depth-analysis-and-ratings-zdnet/"><u>Best Moisture-Resistant Wearables of the Year: In-Depth Analysis & Ratings | ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-maximizing-impact-on-insta-story-with-multiple-images/"><u>In 2024, Maximizing Impact on Insta Story with Multiple Images</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo Y100i? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pioneering-innovations-the-grandest-tech-leaps-since-1844/"><u>Pioneering Innovations: The Grandest Tech Leaps Since 1844</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/set-up-an-appveyor-virtual-private-network-on-your-apple-vision-pro-device-detailed-steps-and-benefits-techguru/"><u>Set Up an AppVeyor Virtual Private Network on Your Apple Vision Pro Device: Detailed Steps & Benefits | TechGuru</u></a></li>
-<li><a href="https://win-forum.techidaily.com/text-file-privacy-boosted-by-simple-password-defense-strategies/"><u>Text File Privacy Boosted by Simple Password Defense Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-integrating-chatgpt-into-sound-design-on-your-digital-audio-workstation/"><u>The Ultimate Guide to Integrating ChatGPT Into Sound Design on Your Digital Audio Workstation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-missing-normalizdll-error-on-your-pc/"><u>Troubleshooting the Missing 'Normaliz.dll' Error on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-why-your-android-cant-dial-or-answer-calls/"><u>Troubleshooting Tips: Why Your Android Can't Dial or Answer Calls</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-best-magsafe-battery-chargers-of-2-2024-in-depth-analysis-and-expert-ratings-zdnet/"><u>Ultimate Guide to the Best MagSafe Battery Chargers of 2지날리기 2024: In-Depth Analysis and Expert Ratings | ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-advanced-coding-capabilities-with-free-ai-powered-tools-tailored-for-mac-users/"><u>Unlock Advanced Coding Capabilities with Free AI-Powered Tools Tailored for Mac Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-decoding-action-camera-extras-a-shoppers-map-for-2024/"><u>[New] Decoding Action Camera Extras - A Shopper’s Map for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-top-8-must-play-virtual-reality-titles-for-now/"><u>[New] Top 8 Must-Play Virtual Reality Titles for Now</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-full-potential-of-video-calls-with-zoom-and-gmail-integration/"><u>[New] Unlocking Full Potential of Video Calls with Zoom & Gmail Integration</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unlocking-skypes-full-capacity-with-effective-zoom-methods/"><u>2024 Approved Unlocking Skype's Full Capacity with Effective Zoom Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-the-forthcoming-apple-showcase-dates-speculations-and-more/"><u>All You Need to Know About the Forthcoming Apple Showcase - Dates, Speculations, and More</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/cutting-edge-methods-to-record-and-save-lectures-on-imac-for-2024/"><u>Cutting-Edge Methods to Record and Save Lectures on iMac for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/eliminate-missing-python24dll-issues-effective-solutions-inside/"><u>Eliminate Missing Python24.dll Issues – Effective Solutions Inside</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-mailcoms-policies-on-email-account-validity-and-expiry-timelines/"><u>Exploring Mail.com's Policies on Email Account Validity and Expiry Timelines</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fandango-on-the-go-installation-tutorial-for-fire-stick-users/"><u>Fandango On The Go: Installation Tutorial for Fire Stick Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-heart-of-steelseries-gg-step-by-step-solutions-for-windows-users/"><u>Fixing the Heart of SteelSeries GG - Step-by-Step Solutions for Windows Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-rectify-mobile-phone-malfunctions-restoring-call-making-abilities-on-android-systems/"><u>How to Rectify Mobile Phone Malfunctions: Restoring Call-Making Abilities on Android Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-meizu-21-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Meizu 21 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/libgdk-win32-2e-0dll-file-not-found-heres-how-to-fix-it/"><u>libgdk-win32-2.e-0.dll File Not Found? Here's How to Fix It!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-with-ease-find-out-which-iphone-gps-apps-we-love-most/"><u>Navigate with Ease: Find Out Which iPhone GPS Apps We Love Most</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/netflix-watch-party-a-comprehensive-guide-to-streaming-with-friends/"><u>Netflix Watch Party: A Comprehensive Guide to Streaming with Friends</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/perfect-viewing-lineup-how-to-watch-every-indiana-jones-film-in-its-intended-order/"><u>Perfect Viewing Lineup: How To Watch Every Indiana Jones Film in Its Intended Order</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi Note 13 Pro 5G</u></a></li>
 </ul></div>
 

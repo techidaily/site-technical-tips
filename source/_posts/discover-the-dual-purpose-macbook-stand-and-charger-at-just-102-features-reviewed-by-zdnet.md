@@ -1,7 +1,7 @@
 ---
 title: Discover the Dual-Purpose MacBook Stand & Charger at Just $102 - Features Reviewed by ZDNet
-date: 2024-12-04T00:12:57.673Z
-updated: 2024-12-11T12:33:46.703Z
+date: 2024-12-13T16:55:31.320Z
+updated: 2024-12-17T16:52:50.942Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. A bigger screen option
@@ -39,7 +39,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -61,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -69,7 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -110,18 +110,17 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ignite-your-design-prowess-top-14-text-animation-snapshots/"><u>[Updated] In 2024, Ignite Your Design Prowess Top 14 Text Animation Snapshots</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-grasping-your-youtube-popularity-with-precision/"><u>2024 Approved Grasping Your YouTube Popularity with Precision</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diagnosing-openal32dll-absence-a-comprehensive-fix-guide/"><u>Diagnosing OpenAL32.DLL Absence: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/find-your-dream-laptop-discover-the-top-18-sizzling-deals-for-prime-day-savings-from-premium-manufacturnous-including-hp-apple-and-razer/"><u>Find Your Dream Laptop: Discover the Top 18 Sizzling Deals for Prime Day Savings From Premium Manufacturnous Including HP, Apple & Razer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-series-7-to-series-10-the-compelling-case-for-staying-with-my-current-smartwatch/"><u>From Series ^7 to Series 10? The Compelling Case for Staying with My Current Smartwatch</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y27-4g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y27 4G Phone without Google Account?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/quick-access-essential-windows-10-tips/"><u>Quick Access Essential Windows 10 Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-true-solution-from-apple-why-rice-isnt-ideal-for-soggy-iphones-and-what-to-do-instead/"><u>The True Solution From Apple: Why Rice Isn't Ideal for Soggy iPhones and What to Do Instead!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-ranking-iphones-comprehensive-reviews-and-performance-analysis-techradar/"><u>Top-Ranking iPhones : Comprehensive Reviews & Performance Analysis | TechRadar</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-fixing-discords-screen-sharing-audio-issues/"><u>Troubleshooting Steps: Fixing Discord's Screen Sharing Audio Issues</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-narzo-n55-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme Narzo N55 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtube-alternatives-round-up-top-3-contenders-for-2024/"><u>YouTube Alternatives Round-Up Top 3 Contenders for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-how-to-record-desktop-on-windows-8-effortlessly/"><u>2024 Approved How To Record Desktop on Windows 8 Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-user-identity-management-in-win11-pro/"><u>Enhancing User Identity Management in Win11 Pro</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/essential-tips-for-resolving-graphics-card-issues-insights-by-yl-technologies/"><u>Essential Tips for Resolving Graphics Card Issues: Insights by YL Technologies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-these-7-tools-the-best-substitutes-for-chatgpt-in-code-generation/"><u>Explore These 7 Tools: The Best Substitutes for ChatGPT in Code Generation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-information-on-sonys-prospective-vr-contraption-anticipated-pricing-release-schedule-technical-details/"><u>Inside Information on Sony's Prospective VR Contraption: Anticipated Pricing, Release Schedule, Technical Details</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pairing-perfection-a-beginners-guide-to-linking-a-subwoofer-with-your-samsung-soundbar/"><u>Pairing Perfection: A Beginner's Guide to Linking a Subwoofer with Your Samsung Soundbar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-solutions-for-getting-netflix-back-up-on-your-lg-tv-19-tips-inside/"><u>Quick Solutions for Getting Netflix Back Up on Your LG TV – 19 Tips Inside!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/mlining-revenue-with-youtubes-mobile-monetization-features-for-creators-for-2024/"><u>Streamlining Revenue with YouTube's Mobile Monetization Features for Creators for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/top-5-essential-software-for-converting-m4a-audio-files-into-mp3-format/"><u>Top 5 Essential Software for Converting M4A Audio Files Into MP3 Format</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-quiet-mode-how-to-restore-sound-to-your-iphone-calls/"><u>Troubleshooting Quiet Mode: How to Restore Sound to Your iPhone Calls</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unleash-creativity-how-to-elegantly-add-descriptive-elements-in-photos-for-windows-and-macos/"><u>Unleash Creativity How to Elegantly Add Descriptive Elements in Photos for Windows & MacOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-is-net-neutrality-unraveling-the-concept-for-beginners/"><u>What Is Net Neutrality? Unraveling the Concept for Beginners</u></a></li>
 </ul></div>
 

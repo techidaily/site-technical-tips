@@ -1,7 +1,7 @@
 ---
 title: "Securing Email Exposure: Effective Techniques for Managing Whois Lists"
-date: 2024-08-30T13:46:53.238Z
-updated: 2024-08-31T13:46:53.238Z
+date: 2024-12-16T16:01:46.495Z
+updated: 2024-12-17T17:09:41.129Z
 categories:
   - BestProducts
 description: "This Article Describes Securing Email Exposure: Effective Techniques for Managing Whois Lists"
@@ -29,8 +29,18 @@ These instructions only work with a single page of code.
 2. In the**Text** group, select**Object** .  
 ![A Word document with the Object option highlighted in the Insert menu](https://www.lifewire.com/thmb/opt-Q1YQfqT2MaDUICEGskPbmMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-insert-source-code-into-word-document-3994582-939bbef12a77474cbc646e7bfca9da48.jpg)
 3. From the**Create New** tab, select**Microsoft Word Document** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Create New Object box in Word with the Microsoft Word Document option highlighted](https://www.lifewire.com/thmb/ubtpMlrpJY0mh1rhIZL7mTUeCd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-insert-source-code-into-word-document-3994582-1f1467fff74c4365913779c89a44dbaa.jpg)  
  In Word 2007, select**OpenDocument Text** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Clear the**Display as icon** check box.  
 ![Create New Object window in Word with the Display as icon box highlighted](https://www.lifewire.com/thmb/WfEAUTUH0LAddtO-6cyGBZT-mD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-insert-source-code-into-word-document-3994582-4b2746dea1ed49bcada5827d208e1b0e.jpg)
 5. Select**OK** .  
@@ -43,8 +53,13 @@ These instructions only work with a single page of code.
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Using Different Paste Types in Word
 
  Modern versions of Word handle code better than they used to. Word for[Microsoft 365](https://www.lifewire.com/microsoft-office-4156573) supports several forms of pasting, including with and without source formatting. So pasting a block of code from your code-editing app will look different based on the paste type.
@@ -56,8 +71,9 @@ These instructions only work with a single page of code.
 * **Unformatted Unicode Text** : Pastes the text as is but strips the text and background colors. Re-format the code as needed.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Problem With Using Source Code in Word
 
  Programmers write software programs using languages like Java, C++, and HTML. Programming languages use different formatting and symbols from regular languages, so pasting a snippet of code into Word from a programming application causes errors such as text reformatting, indentation shifts, link creation, and misspellings.
@@ -95,8 +111,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +118,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-snappify-your-macs-viewport/"><u>[New] How To Snappify Your Mac's Viewport</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discovering-ideal-hashtags-for-your-youtube-videos/"><u>[New] In 2024, Discovering Ideal Hashtags for Your YouTube Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-wildlife-wonders-androids-finest-animal-game-collection/"><u>[Updated] 2024 Approved Wildlife Wonders Android’s Finest Animal Game Collection</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-endless-entertainment-loop-youtube-content-on-tv/"><u>[Updated] Endless Entertainment Loop YouTube Content on TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-your-instagram-following-proven-strategies/"><u>Boosting Your Instagram Following: Proven Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-msis-mpg-a1000g-psu-performance-insights/"><u>Comprehensive Evaluation of MSI's MPG A1000G PSU: Performance Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciphering-duckduckgos-security-a-guide-to-its-safe-search-capabilities/"><u>Deciphering DuckDuckGo's Security – A Guide to Its Safe Search Capabilities</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-methods-to-remove-accessories-from-your-google-smart-home-ecosystem/"><u>Easy Methods to Remove Accessories From Your Google Smart Home Ecosystem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-determine-if-robloxs-downtime-affects-everyone-or-just-your-connection/"><u>How to Determine if Roblox's Downtime Affects Everyone or Just Your Connection.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-computer-hardware-at-toms-review-sites/"><u>In-Depth Analysis of Computer Hardware at Tom's Review Sites</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-vector-editors-as-acid-pro-successors-for-2024/"><u>Innovative Vector Editors as ACID Pro Successors for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-7-amazing-alarm-clock-apps-you-need-on-your-phone/"><u>The Ultimate List of 7 Amazing Alarm Clock Apps You Need on Your Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-getting-your-zoom-camera-back-in-action/"><u>Troubleshooting Tips: Getting Your Zoom Camera Back in Action</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unleash-your-creativity-top-video-collage-apps-for-ios-devices-for-2024/"><u>Updated Unleash Your Creativity Top Video Collage Apps for iOS Devices for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-style-essentials-download-for-free/"><u>YouTube Style Essentials - Download for FREE</u></a></li>
+</ul></div>
 

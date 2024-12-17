@@ -1,7 +1,7 @@
 ---
 title: "IOS Unfolded: A Complete History and Evolution From the First Version (1.0) to 18Th Edition"
-date: 2024-08-30T13:44:24.338Z
-updated: 2024-08-31T13:44:24.338Z
+date: 2024-12-15T16:20:08.594Z
+updated: 2024-12-17T16:35:37.940Z
 categories:
   - BestProducts
 description: "This Article Describes IOS Unfolded: A Complete History and Evolution From the First Version (1.0) to 18Th Edition"
@@ -51,18 +51,10 @@ Close
 
  iOS 16 also featured an Apple Maps redesign and new features, such as cycling, lookaround, and multi-stop routing. The iOS upgrade also offers improvements to Spatial Audio that allow for the personalization of audio on AirPods.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## iOS 15 
 
 ![Screenshots of iOS 15](https://www.lifewire.com/thmb/ykVCd1DMEVQorsAL-MaaXk3mC3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple_iPhone12Pro-iOS15-3up_060721-1f8dd95d23364d638c00788b9360724f.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Apple Inc.
 
 **Support ended:** n./a  
@@ -100,9 +92,17 @@ Apple Inc.
 * [ iPhone 6 series](https://www.lifewire.com/iphone-6-vs-iphone-6-plus-1999576) . All iPhone models from the 6S series and up are supported.
 * [ 6th Gen. iPod touch](https://www.lifewire.com/history-of-ipod-touch-1999653) . Only the 7th Gen. iPod touch is supported.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iOS 14 
 
 ![iOS 14 screenshots](https://www.lifewire.com/thmb/ZvBt94JcNdydFE2s1dgkRGvXwp0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-14-9f6e598c28e3478a9e680bb0fe3fde7e.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple
 
@@ -169,6 +169,10 @@ Apple Inc.
 
 ![Features of iOS 12](https://www.lifewire.com/thmb/1Q9BifOc0NdTPjfkWg7grW3i_XM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-12-5b1c0c993418c60036b4faa0.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Apple Inc.
 
 **Support ended:** n/a  
@@ -192,15 +196,13 @@ Apple Inc.
 * N/A
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ iOS 11](https://www.lifewire.com/can-you-use-the-latest-ios-4141436) 
 
 ![Screenshot of iOS 11](https://www.lifewire.com/thmb/TtDWLhEfsvGO_8Dduk4_Jqxltf8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-11-593d3f773df78c537b62c5ac.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Apple Inc.
 
 **Support ended:** n/a  
@@ -230,9 +232,6 @@ Apple Inc.
 
 ![Promo material for iOS 10](https://www.lifewire.com/thmb/z0aT2Ca68KrhjYRraX2WhogEgy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-10-575f1faf3df78c98dc4256c1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Apple Inc.
 
 **Support ended:** 2019  
@@ -286,19 +285,13 @@ Apple, Inc.
 * N/A
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ iOS 8](https://www.lifewire.com/iphone-compatible-ios-8-1999214) 
 
 ![iPhone 5s with iOS 8](https://www.lifewire.com/thmb/zi_LhQ-7cFRXzy0FrNnFdA-ZHnI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone5-ios8-56a5352e3df78cf77286eecf.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 Apple, Inc. 
 
 **Support ended:** 2016  
@@ -324,6 +317,10 @@ Apple, Inc.
 **Dropped Support For:** 
 
 * iPhone 4
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [ iOS 7](https://www.lifewire.com/is-iphone-compatible-with-ios-7-2000226) 
 
@@ -355,8 +352,9 @@ Corbis News / Getty Images
 * ​iPhone 4, iPhone 4S, 3rd gen. iPad, and iPad 2 couldn't use all features of iOS 7
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## iOS 6 
 
 ![Screenshot of iOS 6](https://www.lifewire.com/thmb/SD_9xRCw9TcGf31icSpQQ5LQkQQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-6-598c7e60b501e80012fa1a48.jpg) 
@@ -384,8 +382,9 @@ marco\_1186 / Flickr
 * ​None, but iPhone 3GS, iPhone 4, and iPad 2 couldn't use all features of iOS 6
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ iOS 5](https://www.lifewire.com/compare-iphone-models-1999430) 
 
 ![iOS 5 on an iPhone 4](https://www.lifewire.com/thmb/ia0igBXlOLO94d82mylEVUQiHzk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-4S-597fa2c268e1a20011b02463.jpg) 
@@ -416,16 +415,14 @@ Francis Dean / Getty Images
 * 2nd gen. iPod touch
 * 3rd gen. iPod touch
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ iOS 4](https://www.lifewire.com/upgrade-iphones-operating-system-2000293) 
 
 ![iPhone 4 in black](https://www.lifewire.com/thmb/thaO7rMhgmPNvfHVT7NvyTLXHXA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-4-598c7fba054ad9001173586b.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Ramin Talaie / Getty Images
 
 **Support ended:**  2013  
@@ -456,9 +453,6 @@ Ramin Talaie / Getty Images
 
 ![iPhone 3GS in the box](https://www.lifewire.com/thmb/315GtEY4darI4H7pYOII3SIsxI8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-3GS-598884eb0d327a00113cd98f.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Justin Sullivan / Getty Images News
 
 **Support ended:**  2012  
@@ -476,15 +470,13 @@ Justin Sullivan / Getty Images News
 * [ Recording videos](https://www.lifewire.com/how-much-video-can-iphone-record-2000304)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## iOS 2 
 
 ![iPhone 3G in an Apple Store](https://www.lifewire.com/thmb/e7btg9umq1lis3_Un_1HBtbg3qM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-3G-598c809baf5d3a0011e1cfd7.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 Jason Kempin / Getty Images
 
 **Support ended:**  2011​​  
@@ -556,8 +548,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -565,4 +555,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-y55s-5g-2023-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo Y55s 5G (2023) Activity | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/best-practice-for-incorporating-gopro-clips-into-360-video-tapestries-for-2024/"><u>Best Practice for Incorporating GoPro Clips Into 360 Video Tapestries for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-quick-methods-how-to-locate-people-on-facebook-in-6-steps/"><u>Discover Quick Methods: How To Locate People On Facebook in 6 Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-handling-and-correcting-chatgpts-moderation-hiccups/"><u>Effective Strategies for Handling and Correcting ChatGPT's Moderation Hiccups</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-many-levels-are-there-in-royal-match/"><u>How Many Levels Are There in ‘Royal Match’?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/july-2024-comprehensive-guide-on-d-link-router-passwords/"><u>July 2024: Comprehensive Guide on D-Link Router Passwords</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-ios-a-comprehensive-guide-to-sending-voicemails-with-your-iphone/"><u>Mastering iOS: A Comprehensive Guide to Sending Voicemails with Your iPhone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streamlined-visuals-for-google-meet-participants-on-devices/"><u>Streamlined Visuals for Google Meet Participants on Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-d3dx930dll-error-messages-efficiently/"><u>Troubleshooting Missing d3dx9_30.dll Error Messages Efficiently</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover Apple'n Roll Out Enhanced MacBook Air Models with Latest M3 Chip: A Comprehensive Review"
-date: 2024-12-07T07:49:12.873Z
-updated: 2024-12-11T02:01:05.744Z
+date: 2024-12-16T16:25:33.910Z
+updated: 2024-12-17T17:06:17.496Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -56,10 +56,6 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Continuity
 
 Screenshot by Nina Raemont
@@ -71,6 +67,10 @@ The new Continuity app links your Mac to your iPhone in a fully comprehensive wa
 The app also streamlines your devices by bringing your iPhone's notifications straight to the Mac, allowing you to pull up the corresponding app onto the laptop. If you're worried about privacy while using your phone on your laptop, your phone's screen actually remains locked and turned off, even while you're using the phone remotely.   
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
 
@@ -85,7 +85,7 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -101,7 +101,7 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -115,7 +115,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -162,17 +162,19 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-10-escape-houses-challenges-for-intellects/"><u>[Updated] 2024 Approved Top 10 Escape Houses Challenges for Intellects</u></a></li>
-<li><a href="https://win-blog.techidaily.com/call-of-dutys-modern-warfare-fps-game-error-corrected-now-available/"><u>Call of Duty's Modern Warfare FPS Game Error Corrected, Now Available</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connecting-with-snapchat-customer-service-best-practices-and-methods/"><u>Connecting with Snapchat Customer Service: Best Practices and Methods</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-wireless-standards-an-in-depth-look-at-80211bgn-be-ax-ac-and-a/"><u>Decoding Wireless Standards: An In-Depth Look at 802.11B/G/N, Be, Ax, Ac & A</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-install-perfectv39-driver-setup-for-windows-7810-users-by-epson/"><u>Easy Install: PerfectV39 Driver Setup for Windows 7/8/10 Users by Epson</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-halting-automatic-song-selection-in-apple-music/"><u>Guide: Halting Automatic Song Selection in Apple Music</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-designing-customized-instagram-feed-narratives/"><u>In 2024, Designing Customized Instagram Feed Narratives</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-expedite-youtube-video-submission-rapid-rendering-secrets/"><u>In 2024, Expedite YouTube Video Submission Rapid Rendering Secrets</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mastering-ppt-perfecting-your-voiceover-artistry/"><u>In 2024, Mastering PPT Perfecting Your Voiceover Artistry</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-hype-a-closer-look-at-announcements-for-googles-next-big-occasion/"><u>Navigating the Hype: A Closer Look at Announcements for Google’s Next Big Occasion</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/spotlight-must-see-lgbtqplus-tv-shows-currently-available-on-netflix/"><u>Spotlight: Must-See LGBTQ+ TV Shows Currently Available on Netflix</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-future-is-bright-sonys-2024-vision-new-gadgets-innovations-and-industry-breakthroughs-revealed/"><u>The Future Is Bright: Sony’s 2024 Vision – New Gadgets, Innovations, and Industry Breakthroughs Revealed</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-a-deep-dive-into-effective-animoji-utilization-on-iphone-x/"><u>[New] 2024 Approved A Deep Dive Into Effective Animoji Utilization on iPhone X</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-photographers-guide-top-editing-and-writing-apps/"><u>[New] 2024 Approved Photographer's Guide Top Editing & Writing Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aximizing-video-game-channel-revenue/"><u>[New] Maximizing Video Game Channel Revenue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-making-time-move-with-your-hero-10-camera/"><u>[Updated] Expert Insights Making Time Move with Your Hero 10 Camera</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-reasons-behind-missing-video-on-sony-a6400/"><u>[Updated] Reasons Behind Missing Video on Sony A6400</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-list-of-e-commerce-sites-for-one-of-a-kind-boxed-gifts/"><u>2024 Approved Exclusive List of E-Commerce Sites for One-of-a-Kind Boxed Gifts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-can-you-see-someones-instagram-profile-for-free/"><u>How Can You See Someone's Instagram Profile for Free?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-valorant-startup-challenges-dealing-with-a-black-screen-error-effectively/"><u>Solve Valorant Startup Challenges: Dealing with a Black Screen Error Effectively</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-your-logitech-mouses-performance-issues-a-step-by-step-guide/"><u>Solving Your Logitech Mouse's Performance Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-accessing-windows-10-advanced-startup-settings-with-ease/"><u>Step-by-Step Guide: Accessing Windows 10 Advanced Startup Settings with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-configuring-two-screens-with-windows-10/"><u>Step-by-Step Guide: Configuring Two Screens with Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streaming-live-television-on-kodi-a-step-by-step-guide/"><u>Streaming Live Television on Kodi: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-setting-up-your-printer-with-windows-11/"><u>Ultimate Guide: Setting Up Your Printer with Windows 11</u></a></li>
 </ul></div>
 

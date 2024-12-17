@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity: Enjoy Dual-Monitor Support on Your M3 MacBook Pro - The Ultimate Guide for Power Users"
-date: 2024-12-10T06:18:55.112Z
-updated: 2024-12-10T16:32:44.904Z
+date: 2024-12-13T16:26:53.445Z
+updated: 2024-12-17T17:07:26.952Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -57,7 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -73,7 +73,7 @@ The app also streamlines your devices by bringing your iPhone's notifications st
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
@@ -87,10 +87,6 @@ Apple has played the long game when it comes to its virtual assistant, Siri. As 
 During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI assistant integrated into every thread of the UI, not a standalone app. Siri will have access to ChatGPT's LLM, allowing the AI to be functionally ready to communicate in a more natural context, following up with previous conversations and messages instead of providing full context in every single prompt. 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
 
@@ -115,7 +111,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -127,6 +123,10 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -162,22 +162,24 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-masterclass-the-foremost-image-enhancers-on-iphones-and-androids/"><u>[New] Masterclass The Foremost Image Enhancers on iPhones and Androids</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-redirecting-noise-free-tweets-back-to-audio-for-2024/"><u>[New] Redirecting Noise-Free Tweets Back to Audio for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-android-users-the-top-6-video-downloaders-for-easy-access-for-2024/"><u>[Updated] Android Users The Top 6 Video Downloaders for Easy Access for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-humor-horizon-developer/"><u>[Updated] In 2024, Humor Horizon Developer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-samsung-galaxy-m34-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Samsung Galaxy M34 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-tech-savvy-the-ultimate-tutorial-for-programming-a-multifunctional-remote-controller/"><u>DIY Tech Savvy: The Ultimate Tutorial for Programming a Multifunctional Remote Controller</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-the-top-7-online-fax-options-that-wont-cost-you-a-penny/"><u>Explore the Top 7 Online Fax Options That Won't Cost You a Penny</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-on-viewing-spider-man-movie-online/"><u>Guide on Viewing Spider-Man Movie Online</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-y100i-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo Y100i</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/lost-partition-restoration-efficient-recovery-solutions-for-windows-7-and-windows-10-with-ifind-data-recovery/"><u>Lost Partition Restoration: Efficient Recovery Solutions for Windows 7 and Windows 10 with IFind Data Recovery</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximize-your-desktop-space-a-complete-walkthrough-to-dual-monitoring-on-a-mac/"><u>Maximize Your Desktop Space: A Complete Walkthrough to Dual Monitoring on a Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/securing-gmail-with-dual-verification-enable-two-factor-authentication-today/"><u>Securing Gmail with Dual Verification – Enable Two-Factor Authentication Today</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seeing-beyond-likes-and-comments-a-comprehensive-guide-to-spotting-who-saved-your-instagram-creations/"><u>Seeing Beyond Likes and Comments: A Comprehensive Guide to Spotting Who Saved Your Instagram Creations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-steps-how-to-download-your-own-youtube-videos-with-privacy/"><u>Simple Steps: How to Download Your Own YouTube Videos with Privacy</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-best-unlimited-free-web-based-fax-solutions/"><u>Top 7 Best Unlimited Free Web-Based Fax Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-what-to-do-when-your-pc-wont-turn-on/"><u>Troubleshooting Steps: What to Do When Your PC Won't Turn On</u></a></li>
-<li><a href="https://blog-min.techidaily.com/troubleshooting-dvd-player-functions-with-sound-yet-displays-nothing-visually/"><u>Troubleshooting: DVD Player Functions with Sound Yet Displays Nothing Visually</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-quickly-and-easily-share-a-youtube-playlist-for-2024/"><u>[New] How to Quickly And Easily Share A YouTube Playlist for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-flight-pattern-perfection-dissecting-bebops-parrot-expedition/"><u>[New] In 2024, Flight Pattern Perfection Dissecting Bebop's Parrot Expedition</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-ultimate-shortcut-for-endless-youtube-video-repetition/"><u>[Updated] 2024 Approved The Ultimate Shortcut for Endless YouTube Video Repetition</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-close-encounters-experiencing-roblox-at-greater-detail-for-2024/"><u>[Updated] Close Encounters Experiencing Roblox At Greater Detail for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-elite-lineup-of-high-quality-in-ceiling-speakers-reviewed/"><u>2024'S Elite Lineup of High-Quality In-Ceiling Speakers Reviewed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/bluetooth-csr-driver-installation-guide-free-downloads/"><u>Bluetooth CSR Driver Installation Guide – Free Downloads</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosis-and-repair-strategies-for-server-not-responding-during-escape-from-tarkov-sessions/"><u>Diagnosis and Repair Strategies for 'Server Not Responding' During Escape From Tarkov Sessions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/economical-ears-exceptional-experience-oneplus-buds-reviewed/"><u>Economical Ears, Exceptional Experience - OnePlus Buds Reviewed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/experience-gaming-excellence-with-kinemaster-on-android/"><u>Experience Gaming Excellence with KineMaster on Android</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixes-and-solutions-resolving-spotify-not-working-errors-on-pc/"><u>Fixes & Solutions: Resolving 'Spotify Not Working' Errors on PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-your-asus-aura-skins-for-pc-downloads-for-win10win11/"><u>Get Your ASUS Aura Skins for PC - Downloads for Win10/Win11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hassle-free-instructions-for-updating-usb-drivers-in-various-windows-operating-systems/"><u>Hassle-Free Instructions for Updating USB Drivers in Various Windows Operating Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-quickly-solve-skype-connection-issues-on-windows-10-simple-methods-that-work/"><u>How to Quickly Solve Skype Connection Issues on Windows 10 - Simple Methods That Work</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-repair-windows-pc-health-assessment-tool-when-it-stops-working/"><u>How to Repair Windows PC Health Assessment Tool When It Stops Working</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transform-concepts-to-successful-youtube-titles/"><u>In 2024, Transform Concepts to Successful YouTube Titles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-customizing-your-screen-a-step-by-step-guide-to-adjusting-display-preferences-in-windows-10/"><u>Mastering the Art of Customizing Your Screen: A Step-by-Step Guide to Adjusting Display Preferences in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-pubg-hardware-essentials-ensure-smooth-gameplay-with-ideal-setup-guidelines/"><u>Navigating PUBG Hardware Essentials: Ensure Smooth Gameplay with Ideal Setup Guidelines</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolved-troubleshooting-oculus-setup-issues-on-windows-11-and-10/"><u>Resolved: Troubleshooting Oculus Setup Issues on Windows 11 & 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamlessly-transfer-your-chrome-bookmarks-to-firefox-a-step-by-step-guide/"><u>Seamlessly Transfer Your Chrome Bookmarks to Firefox: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

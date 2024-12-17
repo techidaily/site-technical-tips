@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tricks to Grab What's On Your Computer Screen
-date: 2024-08-30T13:48:39.405Z
-updated: 2024-08-31T13:48:39.405Z
+date: 2024-12-16T16:02:50.600Z
+updated: 2024-12-17T17:12:25.483Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Tricks to Grab What's On Your Computer Screen
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/J5VrLObE_7W_SXAOuQKvFEH28rg=/540x405/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  What to Know
 
 * In Windows 11, 10, and 8,**Windows Key** +**PrtScn** to capture the entire screen. In Windows 7, press**PrtScn** .
@@ -21,6 +25,10 @@ Close
 
  This article explains how to take screenshots on a Windows PC. Instructions apply to Windows 7 and later.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Take a Screenshot 
 
  The basic way to take a screenshot in Windows is the same way no matter what[ version of Windows](https://www.lifewire.com/what-version-of-windows-do-i-have-2624927) you're using, and it's very simple: ​press the **PrtScn**  key on the keyboard.
@@ -28,6 +36,10 @@ Close
 * **PrtScn:** Press the button once to save a screenshot of the entire screen. If you have multiple monitors connected, a single press of the print screen button will save a screenshot of all the screens in one single image.
 * **Alt** +**PrtScn:** Press these buttons at the same time to take a screenshot of a single window that you're focused on. Select the window once to make sure it's in focus, and then press these keys.
 * **Win** +**PrtScn:** Using the Windows key with the print screen button (in Windows 8 and newer) will take a screenshot of the whole screen and then save it in the default Pictures folder in a subfolder called Screenshots (e.g.**C:\\Users\\\[user\]\\Pictures\\Screenshots** ).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Paste or Save a Screenshot 
 
@@ -39,24 +51,17 @@ Close
 2. Type**mspaint** into the**Run** field, and select**Enter** .  
 ![Opening Microsoft Paint](https://www.lifewire.com/thmb/fYsJ6UVx8AAQfRLYJZOpRg0WNKY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mspaint-566c41d2e9cc4a3f942e2bd6e41de3c6.jpg)
 3. With Microsoft Paint open, and the screenshot still saved in the clipboard, use**Ctrl** +**V** to paste it into Paint, or select**Paste** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Screenshot of Paste button in Paint](https://www.lifewire.com/thmb/eY_JnmlU4nZDW3O3M9fb-WXW-rg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mspaintpaste-055a89525bb94cf8923a30a3e044df3f.jpg)
 4. Press**Ctrl** +**S** , or select **File** \>**Save as** to save the screenshot.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 !["Save as" selection in Paint](https://www.lifewire.com/thmb/jsFWbGEcpxz02bT2lKrhU9QKdlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mssaveas-3117783b3b4044e2a4e2861e24ac4b27.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  At this point, you may notice that the image you saved looks a bit off. If the image doesn't take up the_entire_  canvas in Paint, it will leave white space around it. To fix this, drag the bottom right corner of the canvas toward the top left of the screen until you reach the corners of your screenshot.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ##  How to Take a Screenshot on PC With the Windows Snipping Tool 
 
  Another way to take screenshots is to use the[ Windows Snipping Tool](https://www.lifewire.com/windows-vista-snipping-tool-4123251) .
@@ -68,13 +73,11 @@ Close
 ![Screenshot of Snipping Tool](https://www.lifewire.com/thmb/gvaURFm7e70fhDRPUiHnJfiWs-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Capture-dda252c0f1e74031bd28f4705d461c47.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [ How to Use Snip and Sketch ](https://www.lifewire.com/snip-and-sketch-windows-10-4774799) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Alternatively, Download a Print Screen Program 
 
  Although Windows works great for basic screenshotting abilities, you can install both free and paid third-party applications for more advanced features like fine-tuning the screenshot by pixel, annotating it before you save it, and easy saving to a predefined location.
@@ -110,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +120,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-vintage-vision-iphone-x-posed-selfies/"><u>[New] 2024 Approved Vintage Vision IPhone X Posed Selfies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-winning-titles-and-tags-for-your-youtube-videos-for-2024/"><u>[Updated] Crafting Winning Titles & Tags for Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-resolve-unable-to-boot-error-on-your-pc/"><u>Fixing the Issue: How to Resolve 'Unable to Boot' Error on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-access-microsoft-word-at-no-cost-a-comprehensive-guide/"><u>How to Access Microsoft Word at No Cost: A Comprehensive Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-discovering-the-ultimate-solution-showmores-recording-mastery/"><u>In 2024, Discovering The Ultimate Solution ShowMore's Recording Mastery</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-locked-out-steps-to-recover-access-after-forgetting-the-code/"><u>IPad Locked Out: Steps to Recover Access After Forgetting the Code</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-chromebook-freezing-issues-discover-eight-effective-solutions/"><u>Solving Chromebook Freezing Issues: Discover Eight Effective Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-insiders-perspective-on-chatgpt-how-it-works-features-and-applications/"><u>The Insider's Perspective on ChatGPT: How It Works, Features, and Applications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-your-pc-a-complete-tutorial-on-removing-the-login-pin-in-windows-10/"><u>Unlocking Your PC: A Complete Tutorial on Removing the Login PIN in Windows 10</u></a></li>
+<li><a href="https://win-updates.techidaily.com/44oh44o844k5pcn5asx44gl44kj5lplusd6k2377ya44k344k544og44og44oq44od44kv44ki44od44ox5oml6acg44ks44kk44oj/"><u>データ損失から保護：システムバックアップ手順ガイド</u></a></li>
+</ul></div>
 

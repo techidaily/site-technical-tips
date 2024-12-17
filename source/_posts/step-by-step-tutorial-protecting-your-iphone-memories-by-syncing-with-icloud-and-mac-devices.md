@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Protecting Your iPhone Memories by Syncing with iCloud and Mac Devices"
-date: 2024-12-08T23:06:29.649Z
-updated: 2024-12-11T09:30:53.915Z
+date: 2024-12-10T17:20:39.107Z
+updated: 2024-12-17T16:51:53.854Z
 tags:
   - apple
 categories:
@@ -42,6 +42,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to send and receive iMessages on Windows
 
 ## Use Microsoft Phone Link
@@ -62,10 +66,6 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -83,7 +83,7 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
@@ -99,7 +99,7 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Start a new chat
@@ -107,6 +107,10 @@ Screenshot by Lance Whitney/ZDNET
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -117,10 +121,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -134,15 +134,15 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -192,18 +192,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-tips-and-tricks-for-professional-gamers-on-youtube/"><u>[New] In 2024, Tips & Tricks for Professional Gamers on Youtube</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unlock-facebook-slide-in-content-access/"><u>[New] In 2024, Unlock Facebook Slide-In Content Access</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-optimal-listeners-for-university-talks/"><u>[Updated] 2024 Approved Optimal Listeners for University Talks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elite-defense-for-iphone-12pro-models-discover-the-premier-phone-case-selections-of-2023-on-zdnet/"><u>Elite Defense for iPhone 12/Pro Models: Discover the Premier Phone Case Selections of 2023 on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-cutting-edge-capabilities-of-the-latest-m4-ipad-pro-and-the-role-of-artificial-intelligence-showcased-at-apples-worldwide-developers-conferenc183/"><u>Exploring the Cutting-Edge Capabilities of the Latest M4 iPad Pro & The Role of Artificial Intelligence Showcased at Apple's Worldwide Developers Conference | Insights From ZDNET</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-the-best-of-both-worlds-fixing-wacom-pen-issues-in-modern-operating-systems-windows-11-and-10/"><u>Getting the Best of Both Worlds: Fixing Wacom Pen Issues in Modern Operating Systems - Windows 11 and 10</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Xiaomi Redmi K70E? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-note-30-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Note 30 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-htc-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any HTC Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-tecno-phantom-v-fold-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Tecno Phantom V Fold Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-the-intricacies-of-power-management-in-windows-10-systems/"><u>Navigating Through the Intricacies of Power Management in Windows 10 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/professional-review-of-the-apple-studio-27-inch-5k-monitor-is-its-elegance-worth-the-price-tag-analysis-by-zdnet/"><u>Professional Review of the Apple Studio 27-Inch 5K Monitor: Is Its Elegance Worth the Price Tag? - Analysis by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/zdnet-exclusive-how-apples-upcoming-low-cost-vision-glasses-could-revolutionize-augmented-reality-experience/"><u>ZDNet Exclusive: How Apple's Upcoming Low-Cost Vision Glasses Could Revolutionize Augmented Reality Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-jpgpng-images-transformation-iphones-pdf-creation-guide/"><u>[New] 2024 Approved JPG/PNG Images Transformation IPhone's PDF Creation Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-superior-obs-configurations-budget-edition/"><u>[New] In 2024, Superior OBS Configurations - Budget Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-peeling-layers-to-originality-a-guide-for-instagram-photo-search-for-2024/"><u>[Updated] Peeling Layers to Originality A Guide for Instagram Photo Search for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-itel-a60-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Itel A60 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-new-google-extravaganza-insights-on-speculations-and-fresh-disclosures/"><u>Anticipating the New Google Extravaganza - Insights on Speculations & Fresh Disclosures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-to-resolve-rpcrt4dll-error-on-your-computer/"><u>Effective Strategies to Resolve rpcrt4.dll Error on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-twitter-management-software-expert-recommendations/"><u>Essential Twitter Management Software – Expert Recommendations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-what-to-do-when-your-gaming-headset-for-xbox-series-fails-to-function-correctly/"><u>Expert Advice: What to Do When Your Gaming Headset for Xbox Series Fails to Function Correctly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-these-top-15-freely-available-apps-for-easy-program-deletion/"><u>Explore These Top 15 Freely Available Apps for Easy Program Deletion</u></a></li>
+<li><a href="https://win-top.techidaily.com/maximize-your-brands-impact-discover-keywords-success-strategies-using-massmail-software/"><u>Maximize Your Brand's Impact: Discover Keywords Success Strategies Using Massmail Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/non-google-augmented-reality-visual-aids/"><u>Non-Google Augmented Reality Visual Aids</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-metaverse-versus-multi-meva-comprehensive-differences-overviewed-for-2024/"><u>The Metaverse Versus Multi-Meva Comprehensive Differences Overviewed for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-top-10-benefits-of-using-chatgpt-on-linkedin-to-secure-your-next-career-move/"><u>The Top 10 Benefits of Using ChatGPT on LinkedIn to Secure Your Next Career Move</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-methods-for-effective-maintenance-of-a-mechanical-keyboard/"><u>Ultimate Methods for Effective Maintenance of a Mechanical Keyboard</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-linking-ultimate-guide-to-pair-your-samsung-soundbar-with-your-television/"><u>Wireless Linking: Ultimate Guide to Pair Your Samsung Soundbar with Your Television</u></a></li>
 </ul></div>
 

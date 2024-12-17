@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Air M1 for a Bargain Price of $649! Don't Miss Out on This Lowest Market Rate | Shop Smart with ZDNET
-date: 2024-12-10T11:46:54.990Z
-updated: 2024-12-10T20:51:33.443Z
+date: 2024-12-12T17:26:15.245Z
+updated: 2024-12-17T16:46:44.358Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,21 +81,16 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-ideal-extras-for-improving-gopro-experience-for-2024/"><u>[New] Ideal Extras for Improving GoPro Experience for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-step-into-fantasy-with-these-samsung-gear-vr-titles/"><u>[New] Step Into Fantasy with These Samsung Gear VR Titles</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-art-of-elegance-in-design-with-canvas-hidden-tips/"><u>[New] The Art of Elegance in Design with Canva's Hidden Tips</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-play-your-old-games-anywhere-anytime-choosing-the-best-gba-emulators-for-windows-pcs/"><u>[Updated] 2024 Approved Play Your Old Games Anywhere, Anytime Choosing the Best GBA Emulators for Windows PCs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tailored-thumbnail-for-social-media-vids/"><u>[Updated] Tailored Thumbnail for Social Media Vids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-timely-broadcasts-for-maximum-impact/"><u>[Updated] Timely Broadcasts for Maximum Impact</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/airtag-accessory-showdown-of-the-year-2024-thoroughly-tested-and-analyzed/"><u>AirTag Accessory Showdown of the Year 2024: Thoroughly Tested & Analyzed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/choosing-the-best-ipad-pro-showdown-selecting-your-ideal-premium-apple-tablet/"><u>Choosing the Best: IPad Pro Showdown – Selecting Your Ideal Premium Apple Tablet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210282111-9780645160918-god-is-me/"><u>God is Me | Free Book</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/navigating-modern-devices-with-guidance-from-toms-hardware/"><u>Navigating Modern Devices With Guidance From Tom's Hardware</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/optimized-charging-and-cooling-the-ultimate-3-in-1-magsafe-dock-for-apple-gadgets-explore-the-latest-review/"><u>Optimized Charging & Cooling: The Ultimate 3-in-1 MagSafe Dock for Apple Gadgets - Explore the Latest Review</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/promoting-download-and-printing-techniques-for-boosting-user-engagement-with-your-flipbooks-at-flipbuildercom/"><u>Promoting Download and Printing: Techniques for Boosting User Engagement with Your Flipbooks at FlipBuilder.com</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/protect-your-new-iphone-16-the-smart-way-expert-tips-on-choosing-the-right-case-even-if-youve-never-used-one-zdnet-advice-series/"><u>Protect Your New iPhone 16 the Smart Way: Expert Tips on Choosing the Right Case - Even If You've Never Used One | ZDNET Advice Series</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-common-issues-steps-for-a-smooth-tiktok-experience/"><u>Solving Common Issues: Steps for a Smooth TikTok Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-a-premium-viewing-experience-with-apple-vision-pros-enhanced-demos-discover-why-and-book-yours-now-gadgetworld/"><u>Unlocking a Premium Viewing Experience with Apple Vision Pro's Enhanced Demos – Discover Why and Book Yours Now! | GadgetWorld</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-im-choosing-apples-new-miniature-marvel-the-iphone-16-pro-over-the-max-variant-techinsights/"><u>Why I'm Choosing Apple's New Miniature Marvel, the iPhone 16 Pro, Over the Max Variant | TechInsights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comparing-magix-graphics-software-variants/"><u>[New] Comparing MAGIX Graphics Software Variants</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-art-of-screenshots-vertical-video-editing-in-fcpx/"><u>[New] In 2024, The Art of Screenshots Vertical Video Editing in FCPX</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rofessional-footage-integrating-watermarks-and-logos-into-yt-videos-for-2024/"><u>[New] Professional Footage Integrating Watermarks and Logos Into YT Videos for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-pros-and-cons-of-inshot-is-it-the-ultimate-editor/"><u>[New] Pros and Cons of InShot Is It the Ultimate Editor?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-cross-platform-sharing-twitter-videos-on-instagram-highlights-for-2024/"><u>[Updated] Cross-Platform Sharing Twitter Videos on Instagram Highlights for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagrams-best-practices-for-video-editing-and-cropping-for-2024/"><u>[Updated] Instagram's Best Practices for Video Editing & Cropping for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avoiding-disruption-effective-strategies-to-repair-bsod-errors-on-your-computer/"><u>Avoiding Disruption: Effective Strategies to Repair BSOD Errors on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-best-6-super-mario-controllers-a-comprehensive-pc-gamers-list/"><u>Navigating the Best 6 Super Mario Controllers: A Comprehensive PC Gamer's List</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-refreshing-your-macs-wifi-and-bluetooth-connections/"><u>Step-by-Step Guide: Refreshing Your Mac's WiFi and Bluetooth Connections</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-linking-your-samsung-tv-controller-to-the-screen/"><u>Step-by-Step Tutorial on Linking Your Samsung TV Controller to the Screen</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-editing-made-easy-shortening-video-lengths-for-2024/"><u>YouTube Editing Made Easy Shortening Video Lengths for 2024</u></a></li>
 </ul></div>
 

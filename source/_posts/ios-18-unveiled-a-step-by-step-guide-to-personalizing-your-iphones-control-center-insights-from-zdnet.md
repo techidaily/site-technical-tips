@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Insights From ZDNet"
-date: 2024-12-06T00:29:44.244Z
-updated: 2024-12-10T21:37:50.375Z
+date: 2024-12-16T16:04:02.319Z
+updated: 2024-12-17T16:39:55.315Z
 tags:
   - apple
 categories:
@@ -28,10 +28,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -41,7 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -52,19 +56,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -73,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -83,6 +79,10 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -126,22 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-from-fantasy-to-reality-vrs-path/"><u>[Updated] From Fantasy to Reality VR’s Path</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-precision-in-dissipating-soundtracks-a-guide-for-pros/"><u>[Updated] In 2024, Precision in Dissipating Soundtracks A Guide for Pros</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-benq-sw320-monitor-reveal-a-spectacle-in-4k-technology/"><u>2024 Approved BenQ SW320 Monitor Reveal A Spectacle in 4K Technology</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-youtube-banners-makers-10plus-online-tools-to-create-channel-art/"><u>2024 Approved Youtube Banners Makers 10+ Online Tools to Create Channel Art</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-ryzen-5-2500u-latest-driver-update-guide-fast-and-simple-installation/"><u>AMD Ryzen 5 2500U - Latest Driver Update Guide: Fast and Simple Installation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-digital-broadcast-quality-how-to-select-and-use-an-indoor-tv-antenna/"><u>Boost Digital Broadcast Quality: How to Select and Use an Indoor TV Antenna</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ng-potential-in-beauty-blogging/"><u>Earning Potential in Beauty Blogging</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-the-greatest-cell-phone-renewal-bargains-on-verizon-for-month/"><u>Explore the Greatest Cell Phone Renewal Bargains on Verizon for [Month]</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/improving-audio-clarity-with-tvos-18-on-apple-tv-features-to-elevate-your-viewing-experience/"><u>Improving Audio Clarity with tvOS 18 on Apple TV - Features to Elevate Your Viewing Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721461204430-iphone-glitched-into-headphones-try-these-8-troubleshooting-steps-to-restore-normal-functioning/"><u>IPhone Glitched Into Headphones? Try These 8 Troubleshooting Steps to Restore Normal Functioning</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leading-3d-modeling-applications-for-animators/"><u>Leading 3D Modeling Applications for Animators</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/marvel-at-apples-wearable-future-embracing-goggles-as-the-next-big-thing-zdnet-insights/"><u>Marvel at Apple’s Wearable Future: Embracing Goggles as the Next Big Thing | ZDNET Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/migrating-your-favorites-moving-playlists-from-apple-music-to-youtube-with-ease-a-comprehensive-guide/"><u>Migrating Your Favorites: Moving Playlists From Apple Music to YouTube with Ease - A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/restoring-deleted-phone-numbers-on-android-phones-tips-and-tricks-for-effective-recovery/"><u>Restoring Deleted Phone Numbers on Android Phones: Tips and Tricks for Effective Recovery</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-configuring-your-new-apple-watch-zdnet/"><u>Step-by-Step Guide: Configuring Your New Apple Watch (ZDNet)</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-switching-offon-windows-11s-smartscreen/"><u>Tips for Switching Off/On Windows 11'S SmartScreen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-kid-friendly-mobile-devices-safe-and-fun-smartphones-zdnet-guide/"><u>Top Kid-Friendly Mobile Devices: Safe & Fun Smartphones (ZDNet Guide)</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-7-to-your-windows-pc-drfone-by-drfone-ios/"><u>6 Methods to Mirror Apple iPhone 7 to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/breaking-down-the-differences-between-advanced-neo-qled-and-oled-displays/"><u>Breaking Down the Differences Between Advanced Neo QLED & OLED Displays</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/computer-performance-essentials-understanding-necessary-speed-requirements/"><u>Computer Performance Essentials: Understanding Necessary Speed Requirements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/delving-into-what-sets-macs-apart-from-pcs-insights-revealed/"><u>Delving Into What Sets Macs Apart From PCs - Insights Revealed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nokia-xr21-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nokia XR21 Through Google Earth?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-free-web-service-convert-your-3gp-files-to-swf-format-instantly/"><u>Movavi's Free Web Service: Convert Your 3GP Files to Swf Format Instantly</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/quality-and-cost-savings-unite-in-best-asmr-mics-for-2024/"><u>Quality and Cost Savings Unite in Best ASMR Mics for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-when-your-samsung-soundbar-wont-turn-on/"><u>Quick Fixes for When Your Samsung Soundbar Won’t Turn On</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-playful-pause-balancing-screen-time-and-life/"><u>The Playful Pause: Balancing Screen Time and Life</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/timed-success-organizing-video-conferences-via-slackplusfilmora-for-2024/"><u>Timed Success Organizing Video Conferences via Slack+Filmora for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-to-correct-missing-advapi3j2-errors-on-your-pc/"><u>Troubleshooting Steps to Correct Missing Advapi3j2 Errors on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-techniques-revealing-someones-position-through-their-iphone/"><u>Unveiling Techniques: Revealing Someone’s Position Through Their iPhone</u></a></li>
 </ul></div>
 

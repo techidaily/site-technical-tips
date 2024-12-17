@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft Outlook: How to Restore Functionality of the Spelling & Grammar Checker"
-date: 2024-08-30T13:49:30.239Z
-updated: 2024-08-31T13:49:30.239Z
+date: 2024-12-13T16:20:20.393Z
+updated: 2024-12-17T16:38:31.858Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Microsoft Outlook: How to Restore Functionality of the Spelling & Grammar Checker"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Ways to Fix the Problem
 
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -50,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -80,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,8 +99,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-binaural-bliss-broken-recovery-steps/"><u>[New] In 2024, Binaural Bliss Broken Recovery Steps</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/como-actualizar-tus-documentos-con-facilidad-a-traves-de-la-sincronizacion-automatica-en-windows/"><u>Cómo Actualizar Tus Documentos Con Facilidad a Través De La Sincronización Automática en Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-eliminating-intermittent-mouse-disconnecting-woes/"><u>Comprehensive Fixes: Eliminating Intermittent Mouse Disconnecting Woes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-intuition-intels-latest-iris-plus-graphics-655-driver-update-for-windows-11-users/"><u>Download Intuition: Intel's Latest Iris Plus Graphics 655 Driver Update for Windows 11 Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/enhance-presentations-with-proper-screenshotting-via-ezvid-for-2024/"><u>Enhance Presentations with Proper Screenshotting via Ezvid for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expertly-selected-26-leading-registry-maintenance-applications-for-free/"><u>Expertly Selected: 26 Leading Registry Maintenance Applications for Free</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-the-hidden-how-to-make-your-youtube-comments-visible-again/"><u>Fix the Hidden: How to Make Your YouTube Comments Visible Again</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-se-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone SE with a Broken Screen?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-showdown-exploring-the-distinctions-between-mini-and-air-versions/"><u>IPad Showdown: Exploring the Distinctions Between Mini and Air Versions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-libxml2dll-file-not-found-dilemma-for-programs-like-internet-explorer/"><u>Troubleshooting the libxml2.dll File Not Found Dilemma for Programs Like Internet Explorer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-on-how-to-get-and-install-ios-system-upgrades-effortlessly/"><u>Ultimate Tutorial on How to Get & Install iOS System Upgrades Effortlessly</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

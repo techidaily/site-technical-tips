@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Technique for Dropping a Series of Pins on Google Maps
-date: 2024-08-30T13:49:13.796Z
-updated: 2024-08-31T13:49:13.796Z
+date: 2024-12-15T16:09:45.437Z
+updated: 2024-12-17T16:52:20.610Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Technique for Dropping a Series of Pins on Google Maps
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/4YqyVGJ6yTvN8fSBnn2TviHts0c=/400x300/fi
 
  Information in this article applies to the web version of Gmail. The instructions are the same regardless of which browser you use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Gmail Shortcuts
 
  To use Gmail shortcuts, you must first enable them in the **Settings** menu.
@@ -21,9 +25,18 @@ thumbnail: https://www.lifewire.com/thmb/4YqyVGJ6yTvN8fSBnn2TviHts0c=/400x300/fi
 1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -43,6 +56,10 @@ thumbnail: https://www.lifewire.com/thmb/4YqyVGJ6yTvN8fSBnn2TviHts0c=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -52,17 +69,15 @@ thumbnail: https://www.lifewire.com/thmb/4YqyVGJ6yTvN8fSBnn2TviHts0c=/400x300/fi
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -74,9 +89,6 @@ thumbnail: https://www.lifewire.com/thmb/4YqyVGJ6yTvN8fSBnn2TviHts0c=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -97,9 +109,6 @@ thumbnail: https://www.lifewire.com/thmb/4YqyVGJ6yTvN8fSBnn2TviHts0c=/400x300/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -112,9 +121,6 @@ thumbnail: https://www.lifewire.com/thmb/4YqyVGJ6yTvN8fSBnn2TviHts0c=/400x300/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -123,9 +129,6 @@ thumbnail: https://www.lifewire.com/thmb/4YqyVGJ6yTvN8fSBnn2TviHts0c=/400x300/fi
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 Was this page helpful?
 
 Thanks for letting us know!
@@ -146,8 +149,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +156,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-capture-share-enjoy/"><u>[New] Capture, Share, Enjoy</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-innovation-showcase-leading-4k-recorders-of-the-year/"><u>[New] Innovation Showcase Leading 4K Recorders of the Year</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-techniques-for-immaculate-vr-gaming-footage/"><u>[New] Techniques for Immaculate VR Gaming Footage</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-archivists-toolkit-techniques-for-capturing-social-events/"><u>[New] The Archivist's Toolkit Techniques for Capturing Social Events</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-reimagining-gender-portrayal-in-social-media-images/"><u>2024 Approved Reimagining Gender Portrayal in Social Media Images</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/honoring-time-mondlybacks-filter-evolution/"><u>Honoring Time: MondlyBack’s Filter Evolution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/keyboard-trouble-heres-how-you-can-restore-typing-functionality-on-your-pc-or-laptop/"><u>Keyboard Trouble? Here's How You Can Restore Typing Functionality on Your PC or Laptop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-future-top-smart-frames-of-2024/"><u>Navigating the Future: Top Smart Frames of 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-dilemma-of-disrupted-device-use-by-other-software/"><u>Overcoming the Dilemma of Disrupted Device Use by Other Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/remedying-visual-anomalies-in-your-pc-display-expert-tips-and-tricks/"><u>Remedying Visual Anomalies in Your PC Display: Expert Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rtx-graphics-cards-are-they-worth-the-upgrade/"><u>RTX Graphics Cards: Are They Worth the Upgrade?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-to-resolve-the-mfplatdll-file-missing-issue/"><u>Solutions to Resolve the 'Mfplat.dll File Missing' Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-astro-a4e-audio-problem-expert-advice-on-repairing-the-unresponsive-mic/"><u>Solve Your Astro A4e Audio Problem: Expert Advice on Repairing the Unresponsive Mic</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-battle-of-the-console-generation-a-deep-dive-into-ps5-slim-vs-regular-ps5/"><u>The Battle of the Console Generation: A Deep Dive Into PS5 Slim Vs. Regular PS5</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-walkthrough-on-how-to-successfully-navigate-pokemon-go/"><u>Ultimate Walkthrough on How to Successfully Navigate 'Pokémon Go'</u></a></li>
+</ul></div>
 

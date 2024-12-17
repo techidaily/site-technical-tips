@@ -1,7 +1,7 @@
 ---
 title: Beginner's Roadmap to Configuring an Apple Watch (Insights by ZDNet)
-date: 2024-12-04T10:34:41.546Z
-updated: 2024-12-11T05:31:42.440Z
+date: 2024-12-13T16:58:56.325Z
+updated: 2024-12-17T17:13:32.649Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ Apple's known for creating products that "just work," and the [Apple Watch](http
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 * [You can already use the Apple Watch's double-tap feature. Here's how](https://www.zdnet.com/article/you-can-already-use-the-apple-watchs-double-tap-feature-heres-how/)
@@ -39,14 +35,14 @@ But, even with all of this simplicity, you may still have questions. What if you
 
 **Also: [Want a new Apple Watch? We compared the 5 best models available](https://www.zdnet.com/article/best-apple-watch/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to set up an Apple Watch
 
 * **Materials needed**: The Apple Watch you wish to set up, and an iPhone owned by the watch's owner, or a family member.
 * **Estimated time**: 15 to 30 minutes (depending on how many apps need to be installed and if a backup is being restored).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 1: Charge your Apple Watch and bring it near your iPhone
 
@@ -61,6 +57,10 @@ Once it's on and near the iPhone you're using for setup, a message should pop up
 They don't have to be quite this close, but the closer they are the faster the required data can transfer. 
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Scan the Apple Watch animation with your iPhone's camera or begin manual pairing
 
@@ -92,10 +92,6 @@ This step allows your new Apple Watch to sync your personal data, access Find My
 
 If you're setting up a used Apple Watch that was previously activated on another iCloud account, you could run into a hiccup at this point. If the watch was reset correctly, it should activate and tie itself to your iCloud account. However, if it wasn't reset, or it was reset without being unpaired from its previous iPhone, your setup may be blocked by the previous owner's Activation Lock. If this occurs, Apple has [a guide on how to proceed](https://support.apple.com/en-us/HT205009). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 5: Set your passcode
 
 You aren't required to set a passcode for your Apple Watch, but failing to do so will mean you can't use its Apple Pay functionality and some other features. Since you only have to enter the passcode once each time you strap on your Apple Watch, it's a minor extra step that's well worth the protection it provides. 
@@ -107,7 +103,7 @@ Setting a passcode on your Apple Watch unlocks some functionality that might oth
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 6: Customize your settings
@@ -138,6 +134,10 @@ Michael Gariffo/ZDNET
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can you set up an Apple Watch without an iPhone?
 
 Tapping "Set up for a Family Member" will get you started on this process.
@@ -153,7 +153,7 @@ The process is almost identical to the steps above, but requires the use of an A
 The main differences you'll run into during family setups are the requirement to assign the watch to a member of your family, choosing whether or not that family member can buy apps without your permission, and a few parental control settings, like disabling most functionality during "Schooltime," or setting up movement goals. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can you set up an Apple Watch with an iPad?
@@ -202,20 +202,18 @@ To do this, open the Watch app on your iPhone. Then, tap **My Watch**, followed 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-reign-as-a-tycoon-champion-with-our-12-must-play-games/"><u>[New] 2024 Approved Reign as a Tycoon Champion with Our #12 Must-Play Games</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-mystery-of-unlisted-content-on-youtube-explored/"><u>[Updated] 2024 Approved The Mystery of Unlisted Content on YouTube Explored</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-utilizing-free-royalty-free-audio-tracks-in-video-media/"><u>2024 Approved Utilizing Free, Royalty-Free Audio Tracks in Video Media</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-secret-project-unveiling-the-mystery-of-its-latest-gaming-innovation-insights-and-forecasts/"><u>Apple's Secret Project: Unveiling the Mystery of Its Latest Gaming Innovation | Insights & Forecasts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-iphone-models-whats-new-in-the-iphone-15-pro-vs-iphone-14-pro-tech-insights/"><u>Comparing iPhone Models: What's New in the iPhone 15 Pro Vs. IPhone 14 Pro | Tech Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expand-your-viewing-experience-with-tcls-new-q-and-s-series-featuring-19-exciting-models/"><u>Expand Your Viewing Experience with TCL's New Q and S Series - Featuring 19 Exciting Models</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-analysis-of-the-ipad-pro-embracing-its-distinctiveness-over-a-macbook-tech-insights-on-zdnet/"><u>Expert Analysis of the iPad Pro: Embracing Its Distinctiveness Over a MacBook | Tech Insights on ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-phantom-v-flip-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Phantom V Flip? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-windows-10-privileges-a-comprehensive-guide-to-modifying-trustedinstaller-settings/"><u>Navigating Windows 10 Privileges: A Comprehensive Guide to Modifying TrustedInstaller Settings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revamp-your-apple-studio-display-with-this-easy-firmware-refresh-tutorial-tech-insights/"><u>Revamp Your Apple Studio Display with This Easy Firmware Refresh Tutorial | Tech Insights</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-instructions-on-finding-and-installing-newly-released-drivers-for-amd-radeon-vega-56-on-windows/"><u>Step-by-Step Instructions on Finding and Installing Newly Released Drivers for AMD Radeon Vega 56 on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tech-picks-of-2024-in-depth-comparison-of-leading-brands-like-apple-and-dell-insights-by-zdnet/"><u>Top Tech Picks of 2024: In-Depth Comparison of Leading Brands Like Apple & Dell - Insights by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-to-official-recognition-on-instagram-verification-tips-and-strategies/"><u>Unlocking the Secrets to Official Recognition on Instagram: Verification Tips and Strategies</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-power-of-ai-thumbnail-generators/"><u>Updated In 2024, Power of AI Thumbnail Generators</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-crafting-thumbnails-on-the-go-for-aspiring-mobile-film-makers/"><u>[Updated] Crafting Thumbnails on the Go For Aspiring Mobile Film Makers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-from-viewers-to-vips-ajays-strategy-for-sustainable-income-streams/"><u>[Updated] In 2024, From Viewers to VIPs Ajay's Strategy for Sustainable Income Streams</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-innovators-roundtable-for-youtube/"><u>[Updated] In 2024, Innovators’ Roundtable for YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-hub-for-newbies-in-cinematic-craftsmanship/"><u>2024 Approved YouTube Hub for Newbies in Cinematic Craftsmanship</u></a></li>
+<li><a href="https://fox-links.techidaily.com/clearing-imagery-the-canva-method-for-clean-bounds-for-2024/"><u>Clearing Imagery The Canva Method for Clean Bounds for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-a58-4g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo A58 4G Pattern Lock Screen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722892057082-guide-unlocking-windows-pin-protection-in-windows-10/"><u>Guide: Unlocking Windows ‛Pin Protection' In Windows 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-infinix-note-30-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Infinix Note 30 Pro to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rpiece-maker-scenery-and-sound-unite-for-2024/"><u>Masterpiece Maker Scenery & Sound Unite for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/max-360-and-hero-11-gopro-comparison-which-reigns-supreme-for-2024/"><u>Max 360 and Hero 11 GoPro Comparison - Which Reigns Supreme for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-web-to-find-someones-email-address-responsibly/"><u>Navigating the Web to Find Someone's Email Address Responsibly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-beloved-family-films-to-watch-together-on-amazon-prime-video-in-july-2024/"><u>The Ultimate List of Beloved Family Films to Watch Together on Amazon Prime Video in July 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-is-a-smartwatch-and-what-do-they-do/"><u>What Is a Smartwatch and What Do They Do?</u></a></li>
 </ul></div>
 

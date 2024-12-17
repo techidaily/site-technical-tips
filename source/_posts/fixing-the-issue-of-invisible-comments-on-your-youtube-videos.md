@@ -1,7 +1,7 @@
 ---
 title: Fixing the Issue of Invisible Comments on Your YouTube Videos
-date: 2024-09-04T00:49:00.734Z
-updated: 2024-09-05T00:49:00.734Z
+date: 2024-12-15T16:40:59.577Z
+updated: 2024-12-17T16:03:13.018Z
 categories:
   - BestProducts
 description: This Article Describes Fixing the Issue of Invisible Comments on Your YouTube Videos
@@ -15,6 +15,10 @@ Close
 
  This article explains what might be preventing YouTube comments from appearing for you, either as a viewer or as a channel, and what you can do to fix the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Is YouTube Not Showing Comments? 
 
  Here are some reasons you can't see comments on YouTube:
@@ -25,6 +29,10 @@ Close
 * There's a browser extension conflict
 * Your browser or app has a bug
 * YouTube is having problems displaying comments
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Fix YouTube Comments Not Showing Up 
 
@@ -37,6 +45,11 @@ Close
  If this is your channel that has no comments,[ open YouTube Studio](https://studio.youtube.com/) and go to**Settings** \>**Community** \>**Defaults** to check your settings.  
 ![Comment settings for a YouTube channel](https://www.lifewire.com/thmb/u34Cgu0xytzQBLqFE406hAsNG_w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-comments-settings-9e4d0be80f6a4a2eb28d5a174ab798c3.png)
 4. Check your internet connection. If it's too weak, it's possible that not everything on the page loaded, leaving you with missing comments. If you suspect this,[ consider addressing network lag](https://www.lifewire.com/lag-on-computer-networks-and-online-817370) .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Pay close attention to the way the page loads. If it takes longer than usual or if one or parts of the page appear out of place, there's a good chance the network is to blame.
 5. [ Disable browser extensions](https://www.lifewire.com/disable-chrome-extensions-and-plugins-4136252) that could be interfering with YouTube. You don't have to delete them; just switch them off and then check if the comments came back.  
  Be sure to complete this step if YouTube stopped showing comments shortly after you installed a new extension, especially one that's designed to change YouTube's website in some way.
@@ -79,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -88,11 +99,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-navigating-the-best-video-formats-for-your-youtube-channel/"><u>[New] Navigating the Best Video Formats for Your YouTube Channel</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-techniques-for-enhancing-vimeo-videos-with-subtitles/"><u>[New] Ultimate Techniques for Enhancing Vimeo Videos with Subtitles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-non-root-android-audio-logging-step-by-step/"><u>[Updated] Non-Root Android Audio Logging, Step by Step</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-ultimate-fb-media-downloader-plus-firefox-enhancements-for-2024/"><u>[Updated] Ultimate FB Media Downloader + Firefox Enhancements for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/academic-success-through-tech-identifying-your-childs-needed-school-supplies-ranked-1-to-9/"><u>Academic Success Through Tech: Identifying Your Child’s Needed School Supplies, Ranked #1 to #9</u></a></li>
+<li><a href="https://fox-access.techidaily.com/crafting-impactful-medical-messages-in-social-media/"><u>Crafting Impactful Medical Messages in Social Media</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-cod-modern-warfare-game-crashes/"><u>Effective Solutions for Preventing Cod: Modern Warfare Game Crashes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-power-up-effective-techniques-for-battery-replacement/"><u>IPad Power Up: Effective Techniques for Battery Replacement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-watching-the-conjuring-franchise-from-start-to-end/"><u>Step-by-Step: Watching the Conjuring Franchise From Start to End</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-google-pixel-timepiece-projection-of-price-points-launch-date-and-tech-specs-revealed-in-rumors/"><u>The Next Google Pixel Timepiece: Projection of Price Points, Launch Date, and Tech Specs Revealed in Rumors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-becoming-a-viral-star-on-instagram-10-essential-steps/"><u>The Ultimate Guide to Becoming a Viral Star on Instagram (10 Essential Steps)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-essential-factors-to-evaluate-when-choosing-your-perfect-fitness-tracker/"><u>Top 5 Essential Factors to Evaluate When Choosing Your Perfect Fitness Tracker</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

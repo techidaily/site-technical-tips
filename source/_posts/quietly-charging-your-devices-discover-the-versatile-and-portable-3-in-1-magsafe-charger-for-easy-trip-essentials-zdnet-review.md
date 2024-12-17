@@ -1,7 +1,7 @@
 ---
 title: "Quietly Charging Your Devices: Discover the Versatile and Portable 3-in-1 MagSafe Charger for Easy Trip Essentials [ZDNet Review]"
-date: 2024-12-09T10:59:39.194Z
-updated: 2024-12-11T03:57:29.908Z
+date: 2024-12-11T16:56:00.519Z
+updated: 2024-12-17T16:10:07.975Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ What I really need is a dedicated travel kit for charging my gadgets, which incl
 [ZDNET RECOMMENDS ESR 3-in-1 Qi2 wireless travel charger This set is built for the road, and the foldable, compact design and included travel bag means it easily slips into a backpack or suitcase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C16e0274f-e25a-4000-bd10-744011a7bf08%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ESR 3-in-1 wireless travel charger features
@@ -82,7 +82,7 @@ In fact, it's the perfect kit for someone who is all-in with Apple gear.
 I've carried out all my usual tests on this charger, including safety tests and thermal checks, and it passed all of them with flying colors, which I would expect from a company such as ESR, which has a track record for making excellent charging tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,17 +121,24 @@ One of the standout features is the carry case, which has designated spots for e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-insights-into-income-average-earnings-per-advertisement-playback/"><u>[New] 2024 Approved Insights Into Income Average Earnings per Advertisement Playback?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-techniques-to-zoom-into-online-engagements-intelligently/"><u>[Updated] Techniques to Zoom Into Online Engagements Intelligently</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-becoming-a-star-spectator-on-the-social-stage/"><u>2024 Approved Becoming a Star Spectator on the Social Stage</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-directscreen-w11-instant-recording-on-windows-11/"><u>2024 Approved DirectScreen W11 Instant Recording on Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/become-a-youtube-sensation-the-ultimate-8-step-guide-to-going-viral/"><u>Become a YouTube Sensation: The Ultimate 8-Step Guide to Going Viral</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-ways-to-stream-the-live-samsung-unpacked-event/"><u>Best Ways to Stream the Live Samsung Unpacked Event</u></a></li>
-<li><a href="https://facebook.techidaily.com/enhance-group-flair-become-the-hub-of-fb-chatter/"><u>Enhance Group Flair: Become the Hub of FB Chatter</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-ahead-of-the-curve-with-ios-1n-release-essential-guide-to-downloading-and-running-the-early-build-insights-from-zdnet/"><u>Get Ahead of the Curve with iOS 1N Release: Essential Guide to Downloading and Running the Early Build - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-the-screen-metaverse-vs-omniverse-dissected/"><u>In 2024, Beyond the Screen Metaverse Vs. Omniverse Dissected</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-transforming-wmv-files-into-avi-format/"><u>Step-by-Step Guide: Transforming WMV Files Into AVI Format</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/web-wonders-unveiling-the-most-popular-online-hubs-of-our-time-top-10-picks/"><u>Web Wonders: Unveiling the Most Popular Online Hubs of Our Time – Top 10 Picks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-building-blocks-of-boosted-bots-elevating-bot-based-promotion/"><u>[New] Building Blocks of Boosted Bots Elevating Bot-Based Promotion</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-create-compelling-animation-subscribe-bars-for-your-youtube-channel-filmora/"><u>[Updated] In 2024, Create Compelling Animation Subscribe Bars for Your YouTube Channel (Filmora)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-master-the-art-of-snapchats-boomerangs/"><u>2024 Approved Master the Art of Snapchat's Boomerangs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-tutorial-setting-up-2fa-on-your-google-mail-account/"><u>A Comprehensive Tutorial: Setting Up 2FA on Your Google Mail Account</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-music-continuous-stream-learn-how-to-stop-it/"><u>Apple Music Continuous Stream? Learn How to Stop It</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comment-contacter-avec-ease-your-guide-pour-reserver-un-service-chez-digiarty/"><u>Comment Contacter Avec Ease: Your Guide Pour Réserver Un Service Chez Digiarty</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-yahoo-mail-not-receiving-incoming-correspondence/"><u>Dealing with Yahoo Mail Not Receiving Incoming Correspondence</u></a></li>
+<li><a href="https://win11.techidaily.com/directx-comprehensible-guide-to-downloading-and-updating/"><u>DirectX: Comprehensible Guide to Downloading and Updating</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-these-7-fantastic-free-academic-applications-for-back-to-school/"><u>Discover These 7 Fantastic Free Academic Applications for Back to School</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-130-music-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia 130 Music If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-royal-match-successfully-pro-gamer-secrets/"><u>Navigating Royal Match Successfully: Pro Gamer Secrets</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-and-functional-video-editing-software-for-32-bit-windows/"><u>New 2024 Approved Free and Functional Video Editing Software for 32-Bit Windows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/revolutionary-videography-toolset-for-vimeo-users-for-2024/"><u>Revolutionary Videography Toolset for Vimeo Users for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722903275116-teslas-foray-into-phones-speculations-on-cost-features-and-launch-date-revealed/"><u>Tesla's Foray Into Phones: Speculations on Cost, Features, and Launch Date Revealed!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-guide-to-quick-typing-in-gmail-learn-30-crucial-shortcuts/"><u>The Complete Guide to Quick-Typing in Gmail: Learn 30 Crucial Shortcuts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-how-to-manual-for-transforming-spotify-playlist-lists-to-txt-files/"><u>The Complete How-To Manual for Transforming Spotify Playlist Lists to .txt Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722858879888-the-ultimate-tutorial-on-how-to-thoroughly-clean-mechanical-keyboards/"><u>The Ultimate Tutorial on How to Thoroughly Clean Mechanical Keyboards</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-issues-with-a-hidden-wi-fi-network/"><u>Troubleshooting Steps: Resolving Issues with a Hidden Wi-Fi Network</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What Extras Do You Get When Buying the Nintendo Switch?
-date: 2024-08-30T13:47:40.784Z
-updated: 2024-08-31T13:47:40.784Z
+date: 2024-12-16T16:38:07.518Z
+updated: 2024-12-17T16:15:48.779Z
 categories:
   - BestProducts
 description: This Article Describes What Extras Do You Get When Buying the Nintendo Switch?
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
 ---
 
 ## Windows 11 Screen Shot Techniques - Learn the Four Key Strategies
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * The**PrtScn** /**PrtSc** button captures the entire screen and saves it to the clipboard.
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
 * **Win** +**Shift** +**S** lets you pick a window or section of the screen.
 
  This article explains all the different ways to make Windows 11 screenshots.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use PrtScn to Screenshot the Whole Screen
 
@@ -28,9 +37,6 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
 
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## Fullscreen Screenshot and Auto-save to Folder
 
  `Win+PrtSc`
@@ -42,13 +48,15 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Screenshot Part of the Screen
 
  `Win+Shift+S`
@@ -64,9 +72,6 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
 
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -76,8 +81,9 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.
@@ -86,9 +92,6 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Tips for Taking Screenshots in Windows 11
 
 * Once an image is loaded in Snipping Tool, use the crop tool to define further which part you want to keep without needing to retake the screenshot.
@@ -126,8 +129,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +136,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-empower-your-imagery-free-lut-techniques-for-ar/"><u>[New] In 2024, Empower Your Imagery Free LUT Techniques for AR</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-iphone-night-photography-tips-take-night-photos-with-iphone-for-2024/"><u>[New] IPhone Night Photography Tips Take Night Photos with iPhone for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722883021216-android-message-delivery-failure-heres-how-you-can-rectify-it/"><u>Android Message Delivery Failure? Here's How You Can Rectify It.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-restore-microsoft-outlook-spell-check-functionality/"><u>How to Restore Microsoft Outlook Spell Check Functionality</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-note-50-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme Note 50 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-transform-your-content-expert-tips-for-bokeh-on-social-media/"><u>In 2024, Transform Your Content Expert Tips for Bokeh on Social Media</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-analysis-of-causes-and-remedies-for-504-gateway-timeouts-on-websites/"><u>In-Depth Analysis of Causes and Remedies for 504 Gateway Timeouts on Websites</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-nvidia-quadro-graphics-driver-update-for-windows-11-how-to-get-them-safely-and-easily/"><u>Latest NVIDIA Quadro Graphics Driver Update for Windows 11 - How to Get Them Safely and Easily</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-lava-yuva-3-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Lava Yuva 3 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macmastery-expert-tips-on-resetting-and-restarting-your-macbook-pro/"><u>MacMastery: Expert Tips on Resetting and Restarting Your MacBook Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-remote-control-a-guide-to-connecting-with-your-samsung-smart-tv/"><u>Mastering Remote Control: A Guide to Connecting with Your Samsung Smart TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-repairing-the-0x80004005-communication-error-in-software-applications/"><u>Understanding & Repairing the 0X80004005 Communication Error in Software Applications</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-resolution-optimization-achieved/"><u>Win10 Resolution Optimization Achieved</u></a></li>
+</ul></div>
 

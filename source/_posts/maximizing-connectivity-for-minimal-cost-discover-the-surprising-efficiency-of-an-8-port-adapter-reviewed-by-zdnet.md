@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Connectivity for Minimal Cost: Discover the Surprising Efficiency of an 8-Port Adapter Reviewed by ZDNET"
-date: 2024-12-05T09:41:17.030Z
-updated: 2024-12-11T00:40:07.503Z
+date: 2024-12-14T17:30:31.802Z
+updated: 2024-12-17T16:45:34.788Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ Before I take you through both the tools and my "process," let me point out that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 [The 6 best to-do list apps: Get organized What is the best to-do list app? Any.do! But ZDNet reviewed all the top picks to help you organize and liberate your life.  Read now](https://www.zdnet.com/article/best-to-do-list-app/)
@@ -48,6 +44,10 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -59,16 +59,12 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -96,10 +92,6 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Daily must-reads with Pocket
 
 Next up, I hit my daily most-reads. Of course, this starts with [_ZDNet_](https://www.zdnet.com/), then usually [_Drudge_](http://www.drudgereport.com/)and [_Techmeme_](http://www.techmeme.com/). I do a quick headline scan and anything that seems worth reading, I right-click and save to [Pocket](http://getpocket.com/). 
@@ -115,6 +107,10 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -142,6 +138,10 @@ Rinse, wash, repeat.
 I'm relatively holistic about my morning reading process. I do it until I'm bored or hungry, or feel like switching gears and moving on to managing my email and schedule. 
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Connecting and scheduling
 
@@ -180,7 +180,7 @@ I just think of those users like more of my students. If any questions show up i
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -191,10 +191,6 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -246,6 +242,10 @@ Finally, there's Planner Tentative. This is where I block out the approximate ti
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Rethinking your flow
 
 Every few years, I rethink my productivity flow, usually when I find myself getting too far behind, or getting that _baaaad_ feeling that I'm letting things slip through the cracks. This latest optimization, where I added Notion, has been working for a few months now, and so far it's the most effective flow I've used. Most of the elements, particularly how I use Gmail and Pocket, have been productive processes for years. 
@@ -275,17 +275,24 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-prime-windows-11-software-for-cutting-edge-editing-for-2024/"><u>[Updated] Prime Windows 11 Software for Cutting-Edge Editing for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/1726028987998-bandicut/"><u>動画作成のプロテクト解除：Bandicutでカット、パーツ分割、リンク合成</u></a></li>
-<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/building-a-family-history-timeline-with-easy-steps-on-excel/"><u>Building a Family History Timeline with Easy Steps on Excel</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-where-to-obtain-detailed-iphone-model-instructions-and-guidelines-on-the-web/"><u>Discover Where to Obtain Detailed iPhone Model Instructions & Guidelines on the Web</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-elder-scrolls-online-not-loading-error/"><u>How to Overcome The Elder Scrolls Online Not Loading Error</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-stop-mouse-sensitivity-adjustments-in-macos/"><u>How to Stop Mouse Sensitivity Adjustments in macOS</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725289657087-power2go/"><u>Power2Go フリーバージョンの特長とプレミアム版では見られない利点：完全ガイド</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-solution-for-correcting-missing-d3dx924dll-error-messages/"><u>The Ultimate Solution for Correcting Missing d3dx9_24.dll Error Messages</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-mingwm10dll-files-effective-strategies-for-resolution/"><u>Troubleshooting Missing mingwm10.dll Files: Effective Strategies for Resolution</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/uk-labor-seeks-robot-assistance-for-overworked-job-responsibilities-reports-by-abbyy/"><u>UK Labor Seeks Robot Assistance for Overworked Job Responsibilities: Reports by ABBYY</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-macs-leading-5-mkv-playbackers-for-2024/"><u>[Updated] Mac's Leading 5 MKV Playbackers for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bypass-and-repair-the-frustrating-windows-code-19-problem-effortlessly/"><u>Bypass and Repair the Frustrating Windows Code 19 Problem Effortlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bypassing-mac-protection-access-untrusted-application-errors/"><u>Bypassing Mac Protection – Access 'Untrusted' Application Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-selection-of-apple-watch-sleep-enhancing-apps/"><u>Discover the Ultimate Selection of Apple Watch Sleep-Enhancing Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-lens-top-techniques-for-a-sharp-iphone-photo-experience/"><u>Fixing the Lens: Top Techniques for a Sharp iPhone Photo Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-efficient-sms-usage-and-avoiding-costly-data-charges/"><u>Guide to Efficient SMS Usage and Avoiding Costly Data Charges</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/harness-free-software-to-broadcast-virtual-events-for-2024/"><u>Harness Free Software to Broadcast Virtual Events for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked Apple iPhone 6s</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-quick-drama-drafting-method/"><u>In 2024, Quick Drama Drafting Method</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-approaches-for-combining-chatgpt-with-your-google-drive-files/"><u>Innovative Approaches for Combining ChatGPT with Your Google Drive Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-access-logs-how-to-find-out-who-opened-a-google-doc/"><u>Mastering Access Logs: How to Find Out Who Opened a Google Doc</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-tecno-spark-20c-frp-by-drfone-android/"><u>The Updated Method to Bypass Tecno Spark 20C FRP</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-mobile-picks-of-tech-reviewers-at-zdnet-real-world-device-usage-insights/"><u>Top Mobile Picks of Tech Reviewers at ZDNet: Real-World Device Usage Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transforming-ordinary-recordings-into-pro-level-with-audacity/"><u>Transforming Ordinary Recordings Into Pro-Level With Audacity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-dealing-with-non-openable-microsoft-word-documents/"><u>Troubleshooting Tips: Dealing with Non-Openable Microsoft Word Documents</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-protecting-your-emails-with-a-customized-safe-senders-list-on-mac-mail/"><u>Ultimate Guide: Protecting Your Emails with a Customized Safe Senders List on Mac Mail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-telegram-a-comprehensive-guide/"><u>Understanding Telegram: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-samsung-galaxy-z-fold-6-release-schedule-pricing-info-and-comprehensive-specs/"><u>Unveiling the Samsung Galaxy Z Fold 6: Release Schedule, Pricing Info & Comprehensive Specs</u></a></li>
 </ul></div>
 

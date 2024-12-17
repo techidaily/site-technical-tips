@@ -1,7 +1,7 @@
 ---
 title: Restoring Wi-Fi Connectivity on Microsoft's Surface Pro
-date: 2024-08-30T13:49:35.599Z
-updated: 2024-08-31T13:49:35.599Z
+date: 2024-12-13T16:49:49.746Z
+updated: 2024-12-17T16:49:04.614Z
 categories:
   - BestProducts
 description: This Article Describes Restoring Wi-Fi Connectivity on Microsoft's Surface Pro
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/bNBDYoBX-RsnR8bDJaJ89YVTYl0=/540x405/fi
 ---
 
 ## Deactivate Critical Messaging Warnings on iPhones with This Simple Tutorial
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Amber alerts on iPhone can be turned off in**Settings** \>**Notifications** .
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/bNBDYoBX-RsnR8bDJaJ89YVTYl0=/540x405/fi
 * Do Not Disturb doesn't silence government alerts, and you can't change their tone.
 
  This article explains how to disable Amber alerts on an iPhone. It also covers how to turn off similar government alerts, including emergency, public safety, and test alerts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Disable Amber Alerts and Other iPhone Emergency Alerts
 
@@ -27,20 +36,22 @@ thumbnail: https://www.lifewire.com/thmb/bNBDYoBX-RsnR8bDJaJ89YVTYl0=/540x405/fi
 3. Tap**Emergency Alerts** for a few other options. From there, you can control emergency alerts without affecting the option you chose for Amber alerts in the last step. This is also how you stop emergency alerts from bypassing silent mode.  
 ![The Settings, Notifications, and Emergency Alerts screens on an iPhone](https://www.lifewire.com/thmb/k4Pdtou2x8ooq0Bqd1UnlBWO_KA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-amber-alerts-bc193ddbd3c24bd895b61242e22ca176.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Got an Apple Watch?[Check out how to avoid notification overload](https://www.lifewire.com/avoid-notification-overload-apple-watch-1999672) , including notifications from emergency alerts.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can Do Not Disturb Silence Emergency and Amber Alerts on iPhone?
 
  The[iPhone's Do Not Disturb feature](https://www.lifewire.com/use-do-not-disturb-on-iphone-apple-watch-2000547) lets you silence notifications, but it does not work with Amber alerts and other emergency alerts. Because they signal an emergency that could affect your life and safety or someone else's, Do Not Disturb can't block these alerts.
 
  There is no way to block or silence Amber alerts except by turning them off. As for emergency alerts, there is a toggle called**Always Play Sound** that you can turn off (see Step 3 above). Doing this prevents the sound from coming through your phone when you're in silent mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Can You Change Emergency and Amber Alert Tones on iPhone?
 
  While you can[change the sound used for other alerts](https://www.lifewire.com/how-to-change-the-default-ringtone-on-your-iphone-2000554) , you can't customize emergency alert sounds. Yes, the noise for these alerts is unpleasant and may even be startling, but it's worth remembering that they're unpleasant because they're supposed to get your attention.
@@ -50,8 +61,9 @@ thumbnail: https://www.lifewire.com/thmb/bNBDYoBX-RsnR8bDJaJ89YVTYl0=/540x405/fi
 [How to Turn Off SOS on an iPhone 14](https://www.lifewire.com/iphone-14-turn-off-sos-8630001)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why You Shouldn't Disable Amber and Emergency Alerts on iPhone
 
  Even though these alerts can sometimes be surprising or unwelcome, you should leave them on—especially the emergency alerts. These messages arrive when there is dangerous weather or another severe health or safety event imminent in your area. If a tornado, flash flood, or other potential natural disaster is heading your way, you'll want to know so that you can take action.
@@ -89,8 +101,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +108,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-from-chaos-to-calm-quick-edits-for-your-overwhelming-tiktok-drafters/"><u>2024 Approved From Chaos to Calm Quick Edits for Your Overwhelming TikTok Drafters</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-fixes-dealing-with-the-infamous-504-timeout-network-problem/"><u>Comprehensive Fixes: Dealing with the Infamous 504 Timeout Network Problem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-list-of-netgear-default-credentials-updated-for-july-2024/"><u>Comprehensive List of NETGEAR Default Credentials Updated for July 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-itel-p55-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Itel P55 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-blurring-backgrounds-during-a-google-meet/"><u>Easy Steps: Blurring Backgrounds During a Google Meet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/identifying-users-who-liked-your-instagram-content-a-step-by-step-guide/"><u>Identifying Users Who Liked Your Instagram Content: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-innovative-smart-spectacles-of-2024/"><u>Leading Innovative Smart Spectacles of 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigate-effortlessly-the-best-5-chrome-addons-for-downloading-fb-videos/"><u>Navigate Effortlessly The Best 5 Chrome Addons for Downloading FB Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/next-level-play-expert-picks-for-the-best-gaming-consoles-available/"><u>Next-Level Play: Expert Picks for the Best Gaming Consoles Available</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-tips-for-a-fluid-fall-guys-adventure-boosting-frame-rates-lowering-latency/"><u>Quick Tips for a Fluid Fall Guys Adventure: Boosting Frame Rates, Lowering Latency</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rumor-roundup-discover-expected-prices-and-specs-of-the-upcoming-m4-mac-mini/"><u>Rumor Roundup: Discover Expected Prices & Specs of the Upcoming M4 Mac Mini</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/schritt-fur-schritt-anleitung-zum-wiederherstellen-von-daten-aus-einer-defekten-externen-festplatte/"><u>Schritt-Für-Schritt-Anleitung Zum Wiederherstellen Von Daten Aus Einer Defekten Externen Festplatte</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sony-unveils-new-technologies-and-plans-for-the-future-2024-overview/"><u>Sony Unveils New Technologies and Plans for the Future: 2024 Overview</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-downloading-and-installing-acer-aspire-device-drivers-on-windows/"><u>Step-by-Step Guide: Downloading and Installing Acer Aspire Device Drivers on Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essential-guide-to-choosing-video-aspect-ratios-for-2024/"><u>The Essential Guide to Choosing Video Aspect Ratios for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-windows-11-how-to-restore-your-search-functionality/"><u>Troubleshooting Windows 11: How to Restore Your Search Functionality</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-10-essential-free-web-platforms-for-streamlined-audio-editing/"><u>Updated 2024 Approved 10 Essential Free Web Platforms for Streamlined Audio Editing</u></a></li>
+</ul></div>
 

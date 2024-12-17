@@ -1,7 +1,7 @@
 ---
 title: Steps to Obtain Access From TrustedInstaller on Windows 11
-date: 2024-12-08T23:03:00.609Z
-updated: 2024-12-10T18:42:53.075Z
+date: 2024-12-15T16:15:07.187Z
+updated: 2024-12-17T16:21:02.668Z
 categories:
   - BestProducts
 description: This Article Describes Steps to Obtain Access From TrustedInstaller on Windows 11
@@ -16,10 +16,6 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 
 ## How to Quickly Capture Your Screen on Windows 11 - Four Steps Inside
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What to Know
 
 * The**PrtScn** /**PrtSc** button captures the entire screen and saves it to the clipboard.
@@ -29,7 +25,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
  This article explains all the different ways to make Windows 11 screenshots.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use PrtScn to Screenshot the Whole Screen
@@ -41,6 +37,10 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
  On some computers, the**Fn** (function) key needs to be pressed along with**PrtSc** .
 
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fullscreen Screenshot and Auto-save to Folder
 
@@ -69,6 +69,10 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -78,11 +82,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Delayed Screenshots With Snipping Tool
@@ -94,7 +94,7 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
@@ -143,20 +143,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-covert-capture-strategies-for-shrouding-personal-info/"><u>[New] 2024 Approved Covert Capture Strategies for Shrouding Personal Info</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-commanding-voice-scrutiny-refined-version-8/"><u>[New] In 2024, Commanding Voice Scrutiny Refined Version 8</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-lesser-known-aspects-for-the-instagram-story-viewer/"><u>2024 Approved Lesser-Known Aspects for the Instagram Story Viewer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-process-for-crafting-your-own-ringtone-from-tiktok-music/"><u>2024 Approved The Complete Process for Crafting Your Own Ringtone From TikTok Music</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-network-traffic-with-ease-essential-techniques-for-utilizing-tracert-on-your-pc/"><u>Decoding Network Traffic with Ease: Essential Techniques for Utilizing Tracert on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-role-of-wireless-service-operators-in-telecommunications/"><u>Discover the Role of Wireless Service Operators in Telecommunications</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-download-the-right-drivers-for-your-logitech-t6pressor-t630-on-various-windows-systems/"><u>How to Download the Right Drivers for Your Logitech T6pressor T630 on Various Windows Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-effortlessly-join-collaborative-albums-using-your-iphonen-app/"><u>How to Effortlessly Join Collaborative Albums Using Your iPhone'n App</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagram-multimedia-mastery-tips-for-mass-photo-and-video-uploads/"><u>In 2024, Instagram Multimedia Mastery Tips for Mass Photo & Video Uploads</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-the-microsoft-xbox-community-hub-unavailable-or-could-it-be-my-home-setup/"><u>Is the Microsoft Xbox Community Hub Unavailable, or Could It Be My Home Setup?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stability-resolving-fortnite-crashes-on-pc-systems-pro-advice/"><u>Mastering Stability: Resolving Fortnite Crashes on PC Systems - Pro Advice</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-overcoming-the-notorious-502-bad-gateway-issue-insights-and-solutions/"><u>Mastering the Art of Overcoming the Notorious 502 Bad Gateway Issue: Insights & Solutions</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/schneller-losungsweg-beheben-von-problemen-mit-der-wd-backup-funktion-unter-windows-11-10-8-und-7/"><u>Schneller Lösungsweg: Beheben Von Problemen Mit Der WD-Backup-Funktion Unter Windows 11, 10, 8 Und 7</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-purchasing-oculus-quest-vr-games-seamlessly/"><u>Ultimate Guide: Purchasing Oculus Quest ² VR Games Seamlessly</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/yt-outro-guidelines-keeping-viewers-hooked-for-2024/"><u>YT Outro Guidelines Keeping Viewers Hooked for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-photographic-mastery-a-critical-look-at-magix/"><u>[New] Photographic Mastery A Critical Look at MAGIX</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-restoring-iphone-x-identity-check-reviving-face-recognition-for-2024/"><u>[New] Restoring iPhone X Identity Check Reviving Face Recognition for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-finding-the-key-personalized-tag-for-your-tiktok-stream/"><u>[Updated] 2024 Approved Finding the Key Personalized Tag for Your TikTok Stream</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-isolate-subject-a-step-by-step-guide-to-clear-borders-for-2024/"><u>[Updated] Isolate Subject – A Step-by-Step Guide to Clear Borders for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfect-pals-and-plotlines-the-10-best-family-flicks/"><u>[Updated] Perfect Pals and Plotlines The 10 Best Family Flicks</u></a></li>
+<li><a href="https://win-news.techidaily.com/5-simple-methods-wirelessly-moving-data-from-iphone-to-your-computer/"><u>5 Simple Methods: Wirelessly Moving Data From iPhone to Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bluetooth-tethering-android-to-pc-solved/"><u>Bluetooth Tethering Android to PC [Solved]</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-lava-yuva-2-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Lava Yuva 2</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/do-you-need-a-vpn-yes-you-do-heres-why/"><u>Do You Need a VPN? Yes, You Do. Here's Why</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easily-create-a-password-reset-disk-in-windows-11-step-by-step/"><u>Easily Create a Password Reset Disk in Windows 11 [Step by Step]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-dealing-with-an-enormous-pagefilesys-snafu/"><u>Effective Solutions for Dealing With an Enormous Pagefile.sys Snafu</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-guide-setting-up-a-secure-vpn-connection-on-your-ipad/"><u>Effortless Guide: Setting Up a Secure VPN Connection on Your iPad</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-video-graphics-adapter-installation-for-windows-11-users/"><u>Effortless Video Graphics Adapter Installation for Windows 11 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/eradicate-lag-and-sound-hiccups-in-fortnite-fast-fixes-for-gaming-glitches/"><u>Eradicate Lag & Sound Hiccups in Fortnite - Fast Fixes for Gaming Glitches</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-protecting-your-pcs-driver-collection-in-modern-windows-operating-systems/"><u>Expert Advice: Protecting Your PC's Driver Collection in Modern Windows Operating Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-unresponsive-drag-and-drop-feature-on-a-windows-machine/"><u>Fixing the Unresponsive Drag & Drop Feature on a Windows Machine</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-in-depth-technique-for-formulating-youtube-playlists/"><u>In 2024, The In-Depth Technique for Formulating YouTube Playlists</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-9-live-game-streaming-platform-you-should-know/"><u>In 2024, Top 9 Live Game Streaming Platform You Should Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-for-placing-multiple-geo-tags-on-google-maps-easily/"><u>The Ultimate Tutorial for Placing Multiple Geo-Tags on Google Maps Easily</u></a></li>
 </ul></div>
 

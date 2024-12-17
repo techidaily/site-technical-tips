@@ -1,7 +1,7 @@
 ---
 title: "Patently Innovative: How the New Vision Pro Controller Mirrors Apple's Iconic Stylus, According to a Recent Filing | ZDNET"
-date: 2024-12-08T10:07:49.922Z
-updated: 2024-12-10T16:58:59.050Z
+date: 2024-12-15T17:16:22.916Z
+updated: 2024-12-17T16:45:47.535Z
 tags:
   - apple
 categories:
@@ -75,25 +75,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-cultivating-your-persona-in-the-world-of-gamers-for-2024/"><u>[Updated] Cultivating Your Persona in the World of Gamers for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-samsung-galaxy-s23-tactical-edition-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Samsung Galaxy S23 Tactical Edition?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-walkthrough-making-the-most-out-of-google-gemini/"><u>Comprehensive Walkthrough: Making The Most Out Of Google Gemini</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/determining-if-its-a-global-issue-is-blizzards-battlenet-down-or-just-your-connection/"><u>Determining If It's a Global Issue: Is Blizzard's Battle.net Down, Or Just Your Connection?</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-poco-m6-pro-4g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Poco M6 Pro 4G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-our-pick-of-the-best-no-cost-system-registry-tools/"><u>Explore Our Pick of the Best No-Cost System Registry Tools .</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-data-recovery-recover-lost-data-from-honor-90-gt-by-fonelab-android-recover-data/"><u>Honor Data Recovery – recover lost data from Honor 90 GT</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-realme-gt-3-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Realme GT 3 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-scoop-on-android-16s-release-date-no-cost-features-and-cutting-edge-specs-all-the-rumors-you-need/"><u>Inside Scoop on Android 16'S Release Date, No-Cost Features, and Cutting-Edge Specs: All the Rumors You Need!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-gpt-into-daily-life-against-loneliness/"><u>Integrating GPT Into Daily Life Against Loneliness</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719171169650-minim-led-slim-gammonitor-budget-great-value/"><u>Minim LED Slim - GamMonitor Budget, Great Value!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mrsa-and-penicillin-resistant-streptococcus-pneumoniae-require-alternative-treatments-to-standard-antibiotics/"><u>MRSA and Penicillin-Resistant Streptococcus Pneumoniae Require Alternative Treatments to Standard Antibiotics.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722879415464-the-samsung-galaxy-z-flip-6-a-comprehensive-guide-to-its-market-release-cost-and-unique-features/"><u>The Samsung Galaxy Z Flip 6: A Comprehensive Guide to Its Market Release, Cost and Unique Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-absent-dbghelpdll-error-in-your-system/"><u>Troubleshooting the Absent Dbghelp.dll Error in Your System</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-full-potential-mastering-multiple-screens-in-win11/"><u>Unlock Full Potential: Mastering Multiple Screens in Win11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/untangling-dll-dilemmas-effective-solutions-for-handling-msvcr70dll-disappearance-errors/"><u>Untangling DLL Dilemmas: Effective Solutions for Handling MSVCR70.DLL Disappearance Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-adjusted-installed-driver-for-missing-amd-graphics/"><u>[GRAPHICS ADJUSTED] Installed Driver for Missing AMD Graphics</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-elite-no-price-facebook-visual-storytelling-suite/"><u>[New] Elite No-Price Facebook Visual Storytelling Suite</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-alternative-cinema-choices-for-every-fan/"><u>[New] In 2024, Alternative Cinema Choices for Every Fan</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solved-headphones-not-detecting-working-on-laptop-windows-11/"><u>[SOLVED] Headphones Not Detecting/ Working on Laptop Windows 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-a-critical-look-at-the-action-focused-polaroid-cubeplus-for-2024/"><u>[Updated] A Critical Look at the Action-Focused Polaroid Cube+ for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-editing-to-sharing-using-premiere-with-youtube/"><u>[Updated] In 2024, From Editing to Sharing Using Premiere with YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/escaping-boredom-with-a-chuckle-best-fb-incarceration-comical-stories/"><u>Escaping Boredom with a Chuckle Best FB Incarceration Comical Stories</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-start-directx-downloads-for-windows-11-and-10-user-friendly-guide-inside/"><u>Quick-Start DirectX Downloads for Windows 11 & 10 - User-Friendly Guide Inside!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reactivate-realtek-high-definition-sound-adapter-in-windows-11-with-easy-steps/"><u>Reactivate Realtek High Definition Sound Adapter in Windows 11 with Easy Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-a-stalled-computer-expert-tips-to-fix-freezes-on-windows-11-machines/"><u>Reviving a Stalled Computer: Expert Tips to Fix Freezes on Windows 11 Machines</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-guide-switching-your-pcs-operating-system-language-in-windows-10/"><u>Simple Guide: Switching Your PC's Operating System Language in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-issue-how-to-get-your-teams-webcam-functioning-again-on-windows-11-10-and-7/"><u>Solving the Issue: How to Get Your Team's Webcam Functioning Again on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-skin-shields-of-2023-expert-reviews-and-buyers-guide/"><u>Top-Rated Apple Watch Skin Shields of 2023: Expert Reviews & Buyer's Guide</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

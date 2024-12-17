@@ -1,7 +1,7 @@
 ---
 title: Guide to Removing Pictures From iCloud While Retaining Originals on iPhone
-date: 2024-09-04T00:49:00.542Z
-updated: 2024-09-05T00:49:00.542Z
+date: 2024-12-16T17:12:56.674Z
+updated: 2024-12-17T16:17:37.085Z
 categories:
   - BestProducts
 description: This Article Describes Guide to Removing Pictures From iCloud While Retaining Originals on iPhone
@@ -25,18 +25,26 @@ thumbnail: https://www.lifewire.com/thmb/9LqIRdp8th77_9ZVGFOZVVFl7FE=/400x300/fi
 1. Open**Settings** from your iPhone Home screen and tap your**Apple ID** .  
 ![Settings on iPhone Home screen and Apple ID in iPhone settings](https://www.lifewire.com/thmb/IiRyPe0Fsp4OdlZOaHpDLYN8lcU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_delete-photos-from-icloud-5218812-4d08e0971fdf4559bcce1736cea6c360.jpg)
 2. Select**iCloud** \>**Photos** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iCloud and Photos in iPhone settings](https://www.lifewire.com/thmb/guqar8Tv0JOiJ8MZa4IJvR-QiX0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_delete-photos-from-icloud-5218812-41ea5115dcbb407fbad1dc42a38ec56c.jpg)
 3. To delete photos from iCloud without deleting them from the iPhone turn off syncing by toggling the switch to off.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You may see this setting labeled as**Sync this iPhone** . Move the toggle to the left to disable iCloud Photos syncing.  
 ![Toggle switch for iCloud Photos On and Off](https://www.lifewire.com/thmb/lKTz9Dgpw4e7NZl4w0-FZi7AvF4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_delete-photos-from-icloud-5218812-f8578419b23d4a99b8572105b421e357.jpg)
 4. Now, you can delete photos from iCloud without removing them automatically from the iPhone. Follow the same steps to turn off iCloud syncing for any other Apple device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Delete Photos From iCloud While Keeping Them on the iPhone
 
  To delete photos from iCloud without deleting them from the iPhone, you need to check your phone's syncing status. Be sure syncing is turned off. Then, follow the steps below to remove images from iCloud only:
@@ -45,28 +53,15 @@ thumbnail: https://www.lifewire.com/thmb/9LqIRdp8th77_9ZVGFOZVVFl7FE=/400x300/fi
 2. Select**Photos** .  
 ![Photos in iCloud](https://www.lifewire.com/thmb/qE3HFTnz0S_6mVd-058Kb_p1fUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_delete-photos-from-icloud-5218812-802b8709be6546279b3c1d8a9caae9e9.jpg)
 3. Press the**Ctrl** (Windows) or**Command** (macOS) key on your keyboard and select the photos you want to delete.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Selected photo in iCloud Photos](https://www.lifewire.com/thmb/EVp2jB02DvehpdfiEiH_oigpMW0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_delete-photos-from-icloud-5218812-70d5dc6315c24376af07a234b8e76203.jpg)
 4. Select the**Delete** (trash can) icon to delete the selected photos.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-5. The photos will be deleted from iCloud. With iCloud Photos turned off on your device, the photos in the iPhone's Photos library will not be affected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. The photos will be deleted from iCloud. With iCloud Photos turned off on your device, the photos in the iPhone's Photos library will not be affected.
+
 ### Tip
 
  When deleted, photos and videos are shifted to the**Recently Deleted** folder on both iCloud and the iPhone. They will be permanently deleted after 30 days, thus making it possible to recover them if you change your mind. To remove them permanently before 30 days, go to the Recently Deleted folder and select**Delete All** .
@@ -74,11 +69,9 @@ thumbnail: https://www.lifewire.com/thmb/9LqIRdp8th77_9ZVGFOZVVFl7FE=/400x300/fi
 [How to Mass Delete Images and Photos in Bulk on iPhone, iPad](https://www.lifewire.com/bulk-delete-images-iphone-ipad-2740750)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Understanding the 'Optimize iPhone Storage' Setting
 
  If**Optimize iPhone Storage** is enabled, all your full-resolution photos and videos are kept on iCloud and only the latest photos and videos are on the iPhone.
@@ -120,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +120,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-enhancing-vision-10-superb-text-methods-for-media/"><u>[New] 2024 Approved Enhancing Vision 10 Superb Text Methods for Media</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-impeccable-photo-editing-using-the-virtual-background-effect-on-instagram/"><u>[New] In 2024, Impeccable Photo Editing Using the Virtual Background Effect on Instagram</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-android-photography-essentials/"><u>2024 Approved Advanced Android Photography Essentials</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-itel-s23-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Itel S23 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-most-effective-6-homework-helper-apps-for-learners-plus-parents/"><u>Discover the Most Effective 6 Homework Helper Apps for Learners + Parents</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-our-pick-of-the-year-the-best-e-book-apps-to-transform-your-reading-habit/"><u>Explore Our Pick of the Year: The Best E-Book Apps to Transform Your Reading Habit</u></a></li>
+<li><a href="https://article-tips.techidaily.com/h1-an-easy-guide-for-how-to-add-photos-on-instagram/"><u>H1 An Easy Guide for How to Add Photos on Instagram</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-14-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 14 In Easy Steps | Stellar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-successfully-retrieve-funds-for-unwanted-steam-titles-a-comprehensive-guide/"><u>How to Successfully Retrieve Funds for Unwanted Steam Titles: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-t2x-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo T2x 5G Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/olympic-thrills-amidst-snowy-bliss-in-beijing-2022/"><u>Olympic Thrills Amidst Snowy Bliss in Beijing 2022</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/playstation-portal-info-sorted-d-day-pricing-details-specs-and-buying-guide-revealed/"><u>PlayStation Portal Info Sorted: D-Day, Pricing Details, Specs & Buying Guide Revealed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/smooth-photo-and-video-flow-pc-to-iphone-upload-for-2024/"><u>Smooth Photo & Video Flow PC-to-iPhone Upload for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-fixing-hulus-rununk13-error-code-successfully/"><u>Step-by-Step Guide: Fixing Hulu's RUNUNK13 Error Code Successfully</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-404-not-found-mistake-and-simple-solutions/"><u>Understanding the 404 Not Found Mistake & Simple Solutions</u></a></li>
+</ul></div>
 

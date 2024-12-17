@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Restore Microsoft Edge Functionality When It Stops Responding
-date: 2024-08-30T13:46:54.783Z
-updated: 2024-08-31T13:46:54.783Z
+date: 2024-12-13T17:10:19.011Z
+updated: 2024-12-17T16:46:25.213Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Solutions to Restore Microsoft Edge Functionality When It Stops Responding
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/j7Msol_mq4GAVPxtiy-zcdeSDHM=/400x300/fi
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Ways to Fix the Problem
 
@@ -38,6 +42,10 @@ thumbnail: https://www.lifewire.com/thmb/j7Msol_mq4GAVPxtiy-zcdeSDHM=/400x300/fi
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -50,6 +58,10 @@ thumbnail: https://www.lifewire.com/thmb/j7Msol_mq4GAVPxtiy-zcdeSDHM=/400x300/fi
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -80,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,8 +99,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-comprehending-the-basics-of-whatsapp-calls-for-2024/"><u>[New] Comprehending the Basics of WhatsApp Calls for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unlocking-spotify-promotion-potential/"><u>[Updated] In 2024, Unlocking Spotify Promotion Potential</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722894525858-comprehensive-instructions-for-swapping-out-phone-screen-shield-film/"><u>Comprehensive Instructions for Swapping Out Phone Screen Shield Film</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-correcting-the-flickering-display-problem-on-your-microsoft-surface/"><u>Diagnosing & Correcting the Flickering Display Problem on Your Microsoft Surface</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-connection-learn-how-to-pair-your-bose-soundlink-speakers-today/"><u>Effortless Connection: Learn How to Pair Your Bose Soundlink Speakers Today!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-viewing-the-premier-max-starring-documentaries-of-july-2024/"><u>Essential Viewing: The Premier Max-Starring Documentaries of July 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-oneplus-nord-n30-se-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of OnePlus Nord N30 SE Without PUK Codes</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-vpns-revolutionized-online-security/"><u>How VPNs Revolutionized Online Security</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mac-windows-vmx-substitute/"><u>In 2024, Mac-Windows VMX Substitute</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-cryptocurrency-topics-for-chatai/"><u>Leading Cryptocurrency Topics for ChatAI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimizing-android-usage-how-to-keep-apps-from-secretly-operating-in-the-background/"><u>Optimizing Android Usage: How to Keep Apps From Secretly Operating in the Background</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-osetupdll-file-missing-a-comprehensive-guide/"><u>Resolving osetup.dll File Missing: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unmasking-imposter-friends-on-your-network-online/"><u>Unmasking Imposter Friends on Your Network Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrading-from-iphone-13-pro-to-iphone-15-pro-is-it-worth-the-leap-tech-insights/"><u>Upgrading From iPhone 13 Pro to iPhone 15 Pro: Is It Worth the Leap? | Tech Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrading-to-jbl-beats-how-swapping-out-my-expensive-soundbar-was-an-awesome-surprise-home-theater-hub/"><u>Upgrading to JBL Beats - How Swapping Out My Expensive Soundbar Was an Awesome Surprise | Home Theater Hub</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

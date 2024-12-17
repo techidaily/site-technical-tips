@@ -1,7 +1,7 @@
 ---
 title: Snag a Discounted 2Nd Generation Apple Pencil at Only $95 - Limited Time Labor Day Sale on TechRadar
-date: 2024-12-03T17:51:32.313Z
-updated: 2024-12-11T11:38:21.437Z
+date: 2024-12-15T16:58:00.221Z
+updated: 2024-12-17T16:20:54.702Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,21 +71,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-securing-your-discord-sessions-for-future-viewing/"><u>[New] 2024 Approved Securing Your Discord Sessions for Future Viewing</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-find-rich-ambiance-for-video-content/"><u>[Updated] Find Rich Ambiance for Video Content!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/choosing-between-iphone-16-and-iphone-15-key-features-for-the-latest-generation-zdnet/"><u>Choosing Between iPhone 16 and iPhone 15: Key Features for the Latest Generation - ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/compare-and-contrast-apples-cutting-edge-airpods-4-models-with-in-depth-analysis/"><u>Compare & Contrast Apple's Cutting-Edge AirPods 4 Models with In-Depth Analysis</u></a></li>
-<li><a href="https://article-tips.techidaily.com/crafting-connectivity-with-metaverse-strategies/"><u>Crafting Connectivity with Metaverse Strategies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fixing-compatibility-a-guide-to-updating-intel-hd-graphics-win-solutions/"><u>Fixing Compatibility: A Guide to Updating Intel HD Graphics ([Win-Solutions)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-growth-in-the-grove-top-7-stardew-valley-addons/"><u>In 2024, Growth in the Grove Top 7 Stardew Valley Addons</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/july-2ebr-2024-apple-savings-guide-unbeatable-prices-on-iphones-apple-watches-and-ipads-find-all-the-best-deals-at-zdnet/"><u>July 2Ebr 2024 Apple Savings Guide: Unbeatable Prices on iPhones, Apple Watches & iPads | Find All the Best Deals at ZDNET</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-for-iphones-broken-speaker-eliminate-noise-and-enhance-volume/"><u>Solution for iPhone's Broken Speaker: Eliminate Noise and Enhance Volume</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/story-2-the-confusion-with-immune-complex-diseases-answer-c/"><u>Story 2: The Confusion with Immune Complex Diseases (Answer C)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tech-trailblazers-reshuffle-as-samsungs-galaxy-ai-rises-challenging-google-after-antitrust-verdict-in-the-innovation-league-table/"><u>Tech Trailblazers Reshuffle as Samsung's Galaxy AI Rises, Challenging Google After Antitrust Verdict in the Innovation League Table</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-brilliance-within-discover-10-exceptional-features-of-the-apple-vision-pro-digitalworld-blog/"><u>The Brilliance Within: Discover 10 Exceptional Features of the Apple Vision Pro | DigitalWorld Blog</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95687184-9781440580031-the-modern-guide-to-witchcraft/"><u>The Modern Guide to Witchcraft | Free Book</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-mp4-videoencoder-effiziente-verfahren-zum-komprimieren-von-mp4-dateien/"><u>Top MP4-Videoencoder: Effiziente Verfahren Zum Komprimieren Von MP4-Dateien</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/virtual-broadcast-battleground-obs-versus-shadowgl-for-2024/"><u>Virtual Broadcast Battleground OBS Versus ShadowGL for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/zdnets-picks-for-the-ultimate-mac-lineup-of-2024-features-and-reviews/"><u>ZDNet's Picks for the Ultimate Mac Lineup of 2024 - Features & Reviews</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-sub4sub-does-it-really-work/"><u>2024 Approved YouTube Sub4Sub Does It Really Work?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-deep-dive-into-an-individuals-3dr-experience-for-2024/"><u>A Deep Dive Into an Individual's '3DR' Experience for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/become-a-pokemon-master-with-this-essential-how-to-on-pokemon-go/"><u>Become a Pokémon Master with This Essential How-To on Pokémon Go</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/charge-restoration-hacks-for-airpods-discover-these-9-useful-fixes/"><u>Charge Restoration Hacks for AirPods: Discover These 9 Useful Fixes!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/e-viewing-101-a-step-by-step-guide-to-live-online-broadcasts-of-rio-de-janeiro-olympic-games-202er/"><u>E-Viewing 101: A Step-by-Step Guide to Live Online Broadcasts of Rio De Janeiro Olympic Games 202Er</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-system-responsiveness-in-windows-11-strategies-to-fix-and-prevent-latency-challenges/"><u>Enhancing System Responsiveness in Windows 11: Strategies to Fix and Prevent Latency Challenges</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-world-of-connected-televisions-what-are-they-really/"><u>Exploring the World of Connected Televisions: What Are They Really?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016772068-getting-windows-10-speakers-back-on-track-expert-solutions/"><u>Getting Windows 10 Speakers Back On Track – Expert Solutions!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-htc-u23-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On HTC U23 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sequential-screening-strategy-how-to-enjoy-every-007-adventure/"><u>Sequential Screening Strategy: How to Enjoy Every 007 Adventure.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-steps-to-locate-and-remove-outdated-documents-in-windows-11/"><u>Simple Steps to Locate and Remove Outdated Documents in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-the-ark-application-handling-sudden-breakdowns-efficiently/"><u>Troubleshooting the ARK Application - Handling Sudden Breakdowns Efficiently</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-samsung-galaxy-z-flip-7-insights-on-pricing-and-release-schedule-plus-detailed-features-overview/"><u>Upcoming Samsung Galaxy Z Flip 7 - Insights on Pricing & Release Schedule + Detailed Features Overview</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-filmora-alternative-similar-features-at-zero-cost/"><u>Updated Free Filmora Alternative Similar Features at Zero Cost</u></a></li>
 </ul></div>
 

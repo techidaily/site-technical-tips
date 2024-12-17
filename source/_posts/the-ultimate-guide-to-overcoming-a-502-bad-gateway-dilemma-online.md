@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Overcoming a 502 Bad Gateway Dilemma Online
-date: 2024-08-30T13:44:59.135Z
-updated: 2024-08-31T13:44:59.135Z
+date: 2024-12-15T16:34:24.405Z
+updated: 2024-12-17T16:39:32.854Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Overcoming a 502 Bad Gateway Dilemma Online
@@ -21,18 +21,38 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
 1. Try loading the URL again by pressing**F5** or**Ctrl+R** (**Command+R** on a Mac) on your keyboard, or by selecting the refresh/reload button.  
 ![Refresh icon in Microsoft Edge for Windows.](https://www.lifewire.com/thmb/E3Cq4H-UyVzA1LQ7iE07fn4CqgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-502-bad-gateway-error-653db64b803049ab9114d3323702afed.jpg)  
  While the 502 Bad Gateway error is usually indicating a networking error outside of your control, it could be extremely temporary. Trying the page again will often be successful.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Start a new browser session by closing all open browser windows and then opening a new one. Then try opening the web page again.  
  It's possible that the 502 error you received was due to an issue on your computer that occurred sometime during this use of your browser. A simple restart of the browser program itself could solve the problem.
 3. [Clear your browser's cache](https://www.lifewire.com/how-to-clear-cache-2617980) . Outdated or corrupted files that are being stored by your browser could be causing 502 Bad Gateway issues.  
 ![Clear browsing data window in the Edge browser](https://www.lifewire.com/thmb/AQ5qU-D4syt9A7LWBY4UtSQ1pro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-clear-cache-4ce1f38e245146879a6fd7c9f16f5f4e.png)  
  Clearing the Cache in Edge.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Removing those cached files and trying the page again will solve the problem if this is the cause.
 4. [Delete your browser's cookies](https://www.lifewire.com/how-to-delete-cookies-2617981) . For similar reasons as mentioned above with cached files, clearing stored cookies could fix a 502 error.  
  If you'd rather not clear all of your cookies, you could first try removing only those cookies related to the site you're getting the 502 error on. It's best to remove them all but it won't hurt to try the clearly applicable one(s) first.  
 ![Clearing cookies from Google Chrome.](https://www.lifewire.com/thmb/bAE6oIz4q8W2nV-HI9F8nmzh2Zk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-502-bad-gateway-error-82ee6d360f9449cabd07b53105da96c1.jpg)
 5. Start your browser in Safe Mode: We have instructions for[Firefox](https://support.mozilla.org/en-US/kb/troubleshoot-firefox-issues-using-safe-mode#w%5Fhow-to-start-firefox-in-safe-mode) ,[Chrome](https://www.lifewire.com/incognito-mode-google-chrome-4103635) , or[Edge](https://www.lifewire.com/activate-inprivate-in-microsoft-edge-446308) . Running a browser in Safe Mode means to run it with default settings and without add-ons or extensions, including toolbars.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Internet Explorer safe mode screenshot](https://www.lifewire.com/thmb/MhzhtwxuT7_jyefXSGdVXzblwZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/safe-mode-internet-explorer-5c62ec4b46e0fb0001f08f98.png)  
  Internet Explorer in Safe Mode.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the 502 error no longer appears when running your browser in Safe Mode, you know that some browser extension or setting is the cause of the problem. Return your browser settings to default and/or selectively disable browser extensions to find the root cause and permanently fix the problem.  
  A browser's Safe Mode is similar in idea to the Safe Mode in Windows but it's not the same thing. You do not need to start Windows in Safe Mode to run any browser in its particular "Safe Mode."
 6. Try another browser. Popular browsers include Firefox, Chrome, Edge, Opera, and Safari.  
@@ -71,8 +91,9 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
  When Google services, like Google Search or Gmail, are experiencing a 502 Bad Gateway, they often show_Server Error_ , or sometimes just_502_ , on the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Causes a 502 Bad Gateway Error?
 
  Bad Gateway errors are often caused by issues between online servers that you have no control over. However, sometimes, there is no real issue but your browser_thinks_ there's one thanks to a problem with your browser, an issue with your home networking equipment, or some other in-your-control reason.
@@ -110,8 +131,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +138,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-the-art-of-backwards-videos-on-instagram/"><u>[New] 2024 Approved Mastering the Art of Backwards Videos on Instagram</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-memetic-mayhem-the-20-most-shared-gems/"><u>2024 Approved Memetic Mayhem The 20 Most Shared Gems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-news-samsungs-artificial-intelligence-edge-triumphs-over-google-amid-antitrust-scrutiny-top-of-the-index/"><u>Breaking News: Samsung's Artificial Intelligence Edge Triumphs over Google Amid Antitrust Scrutiny - Top of the Index!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722902675396-find-the-hottest-verizon-contract-termination-and-upgrade-promotions-now/"><u>Find the Hottest Verizon Contract Termination and Upgrade Promotions Now!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-realme-12-proplus-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Realme 12 Pro+ 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/innovating-your-fb-experience-with-stunning-video-covers-for-2024/"><u>Innovating Your FB Experience with Stunning Video Covers for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/joining-the-duet-craze-a-beginners-handbook-to-co-creating-content-on-tiktok/"><u>Joining the Duet Craze: A Beginner's Handbook to Co-Creating Content on TikTok</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-minefield-of-fabricated-acquaintances-in-the-virtual-world/"><u>Navigating the Minefield of Fabricated Acquaintances in the Virtual World</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/passa-a-unssd-con-facilita-clonare-il-tuo-hard-disk-in-windows-ve-11/"><u>Passa a Un'SSD Con Facilità! Clonare Il Tuo Hard Disk in Windows Ve 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-watch-reboot-unveiling-the-costs-launch-timeline-detailed-specs-and-latest-updates/"><u>Samsung Galaxy Watch Reboot: Unveiling the Costs, Launch Timeline, Detailed Specs & Latest Updates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unpacking-the-goodies-that-come-with-a-nintendo-switch-console/"><u>Unpacking the Goodies that Come with a Nintendo Switch Console</u></a></li>
+</ul></div>
 

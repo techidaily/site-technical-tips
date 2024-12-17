@@ -1,7 +1,7 @@
 ---
 title: "What to Expect From the New M4 Mac Mini: Rumored Features, Launch Date & Estimated Costs"
-date: 2024-08-30T13:44:42.765Z
-updated: 2024-08-31T13:44:42.765Z
+date: 2024-12-15T16:29:55.911Z
+updated: 2024-12-17T16:42:47.509Z
 categories:
   - BestProducts
 description: "This Article Describes What to Expect From the New M4 Mac Mini: Rumored Features, Launch Date & Estimated Costs"
@@ -21,24 +21,30 @@ In This Article
 
  Samsung Galaxy Z Fold 7 rumors are already making the rounds on the heels of the[Galaxy Z Fold 6](https://www.lifewire.com/galaxy-z-fold-6-8418354) debut. We don't know much this early, but we're hearing that next year's foldable could be lighter in your pocket and bigger in your hands.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will Samsung Galaxy Z Fold 7 Be Released?
 
  Samsung, unsurprisingly, comes out with a new phone every year. That simple fact, coupled with a few early rumors, has us confident that the Z Fold 7 is in the works. Since the company announces new phones at their Unpacked events, the Samsung Galaxy Z Fold 7 release date will fall in line with[next year's Samsung Unpacked event](https://www.lifewire.com/samsung-unpacked-news-and-rumors-5093153) .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
 July or August 2025 is our best guess for now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Samsung Galaxy Z Fold 7 Price Rumors
 
  How much the Z Fold 7 will cost isn't something we can determine this far out. If we assume Samsung will stick with the same pricing as the Z Fold 6, it'll start at $1,899.99\. However, this year's phone is priced $100 higher than last year's, so we could be looking at a $2,000 phone next year.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  The Galaxy Z Fold 7 should be open for pre-ordering following the Unpacked event.
@@ -46,8 +52,9 @@ July or August 2025 is our best guess for now.
 [The Best Places to Buy Phones in 2024](https://www.lifewire.com/best-places-to-buy-cell-phones-580000)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Samsung Galaxy Z Fold 7 Specs & Features
 
  We're still_very_ early, so there really isn't much in the way of leaks. All we've heard so far is that the next Galaxy Z Fold might have a larger screen and be slimmer and lighter.
@@ -63,8 +70,9 @@ July or August 2025 is our best guess for now.
  Given its purported release date, the Z Fold 7 will likely run the[Android 15](https://www.lifewire.com/android-15-7547471) \-based One UI 7 operating system. Leaker_Ice Universe_ claims that when compared to[all the other versions of One UI](https://www.lifewire.com/what-is-samsung-one-ui-4178405) , this one will be the most changed. We could see a huge overhaul to the UI, including new icons, menus, and animations, plus a[vertical app drawer](https://www.sammobile.com/news/one-ui-7-vertical-app-drawer-hint/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About Samsung Galaxy Z Fold 7
 
  You can read[more smartphone news here at Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Below are some stories specifically about Android and Samsung products.
@@ -73,14 +81,11 @@ July or August 2025 is our best guess for now.
 
 [Samsung Reveals New Galaxy Z Fold6 and Z Flip6](https://www.lifewire.com/samsung-reveals-new-galaxy-z-fold6-and-z-flip6-8675427)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -89,4 +94,24 @@ July or August 2025 is our best guess for now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-simple-ways-to-record-and-save-your-macos-screen/"><u>[New] Simple Ways to Record and Save Your macOS Screen</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-vfx-essentials-unlocked-top-8-sites-for-free-high-quality-green-screen-imagery/"><u>[New] VFX Essentials Unlocked Top 8 Sites for FREE High-Quality Green Screen Imagery</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-refining-video-aesthetics-for-impeccable-instagram-presence/"><u>[Updated] 2024 Approved Refining Video Aesthetics for Impeccable Instagram Presence</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-elevating-your-android-experience-through-recording/"><u>[Updated] In 2024, Elevating Your Android Experience Through Recording</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-sly-satire-crafting-digital-chuckles-on-kapwing/"><u>[Updated] In 2024, Sly Satire Crafting Digital Chuckles on Kapwing</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-guide-top-10-steps-for-instructors-on-youtube-channels/"><u>2024 Approved Essential Guide Top 10 Steps for Instructors on YouTube Channels</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-engagement-the-ultimate-10-step-plan-to-go-viral-on-tiktok/"><u>Boosting Engagement: The Ultimate 10-Step Plan to Go Viral on TikTok</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bringing-back-your-preferred-dark-interface-on-facebook-easily/"><u>Bringing Back Your Preferred Dark Interface on Facebook Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722892287552-expert-advice-on-maintaining-a-reliable-skype-connection-top-10-tips/"><u>Expert Advice on Maintaining a Reliable Skype Connection – Top 10 Tips!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-jokes-or-cultural-phenomena-exploring-the-world-of-online-memes/"><u>Inside Jokes or Cultural Phenomena? Exploring the World of Online Memes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/minecraft-realms-reviewed-are-these-virtual-worlds-worth-your-spare-change/"><u>Minecraft Realms Reviewed – Are These Virtual Worlds Worth Your Spare Change?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-wi-fi-obstacles-a-user-friendly-tutorial-for-surface-pro-users/"><u>Overcoming Wi-Fi Obstacles: A User-Friendly Tutorial for Surface Pro Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/save-big-with-our-picked-choice-of-6-great-discount-websites/"><u>Save Big with Our Picked Choice of 6 Great Discount Websites</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-300-investment-oculus-quest-trend-post-account-breaches/"><u>The $300 Investment: Oculus Quest Trend Post-Account Breaches</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-10-free-online-tools-for-creating-stunning-glitch-effects/"><u>Top 10 Free Online Tools for Creating Stunning Glitch Effects</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-does-fortnite-keep-freezing-find-out-here/"><u>Troubleshooting Guide: Why Does Fortnite Keep Freezing ? Find Out Here!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-best-ups-battery-protectors-on-the-market-2024-edition/"><u>Ultimate Guide to the Best UPS Battery Protectors on the Market - 2024 Edition</u></a></li>
+</ul></div>
 

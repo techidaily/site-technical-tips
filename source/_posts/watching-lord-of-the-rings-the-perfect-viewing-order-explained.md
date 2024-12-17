@@ -1,7 +1,7 @@
 ---
 title: "Watching 'Lord of the Rings': The Perfect Viewing Order Explained"
-date: 2024-08-30T13:44:38.969Z
-updated: 2024-08-31T13:44:38.969Z
+date: 2024-12-13T16:37:08.743Z
+updated: 2024-12-17T16:40:30.883Z
 categories:
   - BestProducts
 description: "This Article Describes Watching 'Lord of the Rings': The Perfect Viewing Order Explained"
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
 New Line Cinemas
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Watch 'The Lord of the Rings' in Chronological Order
 
  One way to watch_The Lord of the Rings_ is to watch them in the chronological order Tolkien told the tale. As Bilbo Baggins wrote, "Down from the door where it began. Now, far ahead the road has gone, and I must follow if I can."
@@ -37,6 +41,10 @@ New Line Cinemas
 
  If you think you're going to make it through this epic adventure in one sitting, you might be in for a surprise. The_Hobbit_ trilogy totals almost 8 hours._The Lord of the Rings_ trilogy is a whopping 9.5 hours. To watch all six, you'd have to sit for almost 17.5 hours straight. But don't worry, as Samwise Gamgee said, "It's the job that never started as takes longest to finish."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Watch 'The Lord of the Rings' in Order of Release
 
  Do you want to watch_The Lord of the Rings_ , including_The Hobbit_ , in the order they were released? Many people do this to experience how it felt to experience the Tolkien story in the way Director Peter Jackson told it on the screen. This is because there is information and elements of the story which make more sense to moviegoers who've already seen the LOTR trilogy.
@@ -53,8 +61,9 @@ New Line Cinemas
 | _The Hobbit: The Battle of the Five Armies_         | December 4, 2014  | Max                 | •Amazon Prime •Apple TV •Fandango at Home •Google Play •YouTube                                                                                                                                                                                                                             |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Is the Right Order?
 
  While you could boil 'em, mash 'em, and stick 'em in a stew, some of the stories in_The Lord of the Rings_ set up the viewer for seeing those tales unfold in_The Hobbit_ trilogy. On the other hand, the actual storyline in The Hobbit itself serves as a backdrop to events that take place in LOTR.
@@ -62,9 +71,9 @@ New Line Cinemas
  The bottom line is when it comes to_The Lord of the Rings_ , the end of each story tends to mold into the beginning of another. Or as Gandalf said, "For even the very wise cannot see all ends." The movies are so addictive you'll see them all from wherever you start. And back again.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When Does 'The Rings of Power' Take Place?
 
  Amazon's original series_The Rings of Power_ happens thousands of years before both_The Lord of the Rings_ and_The Hobbit_ . In fact, it's in a wholly different era of Middle-earth: the Second Age. Despite that, it does include some returning characters from the later stories, including Galadriel and Elrond (elves are immortal, remember).
@@ -72,8 +81,9 @@ New Line Cinemas
  Completion fans will want to watch_The Rings of Power_ before the other two stories, but as it's still running, you can't see all of that story just yet.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is 'The Hunt for Gollum'?
 
  In May 2024, Warner Bros. announced it had started development two more Middle-earth films. The first of these,_The Hunt for Gollum_ , will be out in 2026 and bring the writers of the original trilogy back. Andy Serkis, who played Gollum in four movies, will direct (and likely reprise the role, given the title).
@@ -113,8 +123,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +130,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-pushing-boundaries-with-innovative-vsco-techniques/"><u>[New] Pushing Boundaries with Innovative VSCO Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ime-management-using-timestamps-to-amplify-views-on-youtube/"><u>[New] Time Management Using Timestamps to Amplify Views on YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-achieve-complete-volume-on-fb-media-shows/"><u>[Updated] How to Achieve Complete Volume on Fb Media Shows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-top-channel-creators-reveal-their-favorite-quick-setup-ideas-for-your-business/"><u>[Updated] In 2024, Top Channel Creators Reveal Their Favorite Quick Setup Ideas for Your Business</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avoiding-spammy-sms-effective-ways-to-prevent-unwanted-messages-on-iphones/"><u>Avoiding Spammy SMS: Effective Ways to Prevent Unwanted Messages on iPhones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-techniques-to-record-your-gameplay-on-a-ps4-platform/"><u>Expert Techniques to Record Your Gameplay on a PS4 Platform</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-g510-mouse-drivers-compatible-with-win-7-8-and-10/"><u>Free Logitech G510 Mouse Drivers: Compatible with Win 7, 8 & 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-when-the-wii-console-fails-to-read-game-discs/"><u>How to Fix When The Wii Console Fails to Read Game Discs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-xs-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone XS Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-installing-applications-on-your-samsung-smart-tv/"><u>Step-by-Step Guide: Installing Applications on Your Samsung Smart TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-rcra-provides-federal-guidelines-for-the-management-of-hazardous-waste-from-its-creation-to-disposal/"><u>The RCRA Provides Federal Guidelines for the Management of Hazardous Waste From Its Creation to Disposal.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-spatial-computing-functionality-and-implementation-insights/"><u>Understanding Spatial Computing: Functionality & Implementation Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-access-blocks-strategies-for-resolving-401-authentication-issues/"><u>Unlocking Access Blocks: Strategies for Resolving 401 Authentication Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/win-a-free-corsair-t2-road-warrior-gaming-chair-exclusive-online-giveaway/"><u>Win a Free Corsair T2 Road Warrior Gaming Chair - Exclusive Online Giveaway!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/xboxs-next-gen-vr-headset-projected-price-release-schedule-and-specs-revealed/"><u>Xbox's Next-Gen VR Headset: Projected Price, Release Schedule & Specs Revealed!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Discounts: Get Apple AirPods at a $40 Savings Before Independence Day | Tech News"
-date: 2024-12-10T10:26:11.811Z
-updated: 2024-12-11T10:55:18.363Z
+date: 2024-12-16T17:07:59.805Z
+updated: 2024-12-17T17:22:24.681Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd3615e89-4bc5-490e-8142-47a4e693ce93%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,18 +62,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-dynamics-of-canon-timelapse-imagery/"><u>[New] Exploring the Dynamics of Canon Timelapse Imagery</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-swift-guide-image-to-youtube-thumbnail-transformation-techniques/"><u>2024 Approved Swift Guide Image to YouTube Thumbnail Transformation Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-engagement-mastery-expert-driven-online-courses/"><u>AI Engagement Mastery: Expert-Driven Online Courses</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-shelldll-not-found-errors-in-windows-operating-systems/"><u>Easy Fixes for 'shell.dll Not Found' Errors in Windows Operating Systems</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1732518622195-effective-strategies-for-resolving-driver-issues-insights-from-yl-computing/"><u>Effective Strategies for Resolving Driver Issues - Insights From YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-guide-top-10-ipad-features-and-setup-tweaks-for-novice-users-and-experts-alike-insights/"><u>Essential Guide: Top 10 iPad Features & Setup Tweaks for Novice Users and Experts Alike - Insights</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/expert-approved-4k-video-editing-software-the-top-choices-for-2024/"><u>Expert-Approved 4K Video Editing Software The Top Choices for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-fcpx-tutorial-achieve-flawless-skin-without-plugins/"><u>New FCPX Tutorial Achieve Flawless Skin without Plugins</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/section-2a-understanding-piping-and-material-compatibility/"><u>Section 2A: Understanding Piping and Material Compatibility</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/struggling-to-send-imessages-find-out-why-they-might-be-failing-now-expert-analysis-on-messaging-issues/"><u>Struggling to Send iMessages? Find Out Why They Might Be Failing Now | Expert Analysis on Messaging Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tackling-the-issue-of-non-existent-wpcpatdll-files-in-windows-systems/"><u>Tackling the Issue of Non-Existent WPCPAT.DLL Files in Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-s24plus-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy S24+? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/zdnets-expert-take-on-acer-chromebook-51-student-how-many-days-prior-to-the-termination-of-an-initial-or-extended-period-should-a-service-provider-provide-n93/"><u>ZDNet's Expert Take on Acer Chromebook 51 # Student: How Many Days Prior to the Termination of an Initial or Extended Period Should a Service Provider Provide Notice of Cancellation?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-videos-to-vault-ajays-revenue-journey-on-youtube-for-2024/"><u>[New] From Videos to Vault AJay’s Revenue Journey on YouTube for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-social-media-video-to-music-conversion-guide/"><u>[New] Social Media Video to Music Conversion Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-navigating-video-editing-tools-on-the-latest-windows-11/"><u>[Updated] 2024 Approved Navigating Video Editing Tools on the Latest Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-understanding-your-place-in-youtube-earnings/"><u>[Updated] 2024 Approved Understanding Your Place in YouTube Earnings</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-preserving-gifs-from-twitter-for-mobile-devices/"><u>[Updated] In 2024, Preserving GIFs From Twitter for Mobile Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-tutorial-getting-rid-of-microsoft-copilot-in-windows-11-what-you-need-to-know/"><u>DIY Tutorial: Getting Rid of Microsoft Copilot in Windows 11 – What You Need to Know</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-stories-a-diy-approach-to-musicizing-your-instagram-clips/"><u>Enhance Your Stories: A DIY Approach to Musicizing Your Instagram Clips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-movie-nights-a-guide-to-hookup-the-internet-with-your-home-projector-system/"><u>Enhancing Movie Nights: A Guide to Hookup the Internet with Your Home Projector System</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2013-file-is-not-in-recognizable-format-stellar-by-stellar-guide/"><u>Error Solved Excel 2013 file is not in recognizable format | Stellar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fresh-film-selections-what-to-stream-this-moment-tips-from-lifewire/"><u>Fresh Film Selections: What to Stream This Moment - Tips From Lifewire</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/godaddy-webmail-how-to-add-and-edit-your-email-signature-with-ease/"><u>GoDaddy WebMail: How to Add and Edit Your Email Signature with Ease</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/real-world-application-perfecting-your-instagram-livestream-with-obs/"><u>Real-World Application Perfecting Your Instagram Livestream with OBS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/safeguard-your-inbox-explore-the-best-5-encrypted-email-systems-available/"><u>Safeguard Your Inbox: Explore the Best 5 Encrypted Email Systems Available</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/solving-your-iphone-ringtone-issues-a-comprehensive-guide/"><u>Solving Your iPhone Ringtone Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-linking-your-apple-homepod-with-your-television/"><u>Step-by-Step Guide: Linking Your Apple HomePod with Your Television</u></a></li>
 </ul></div>
 
