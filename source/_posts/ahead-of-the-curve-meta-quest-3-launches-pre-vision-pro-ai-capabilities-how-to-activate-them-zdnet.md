@@ -1,7 +1,7 @@
 ---
 title: "Ahead of the Curve: Meta Quest 3 Launches Pre-Vision Pro AI Capabilities - How to Activate Them | ZDNET"
-date: 2024-11-21T16:52:42.974Z
-updated: 2024-11-25T16:19:28.413Z
+date: 2024-12-21T23:59:40.094Z
+updated: 2024-12-26T00:50:22.493Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ Because the app was not yet available to the public, trying it out involved inst
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Installing TestFlight
@@ -67,7 +67,7 @@ Once the app is installed, navigate to the TestFlight icon on your Home screen. 
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Running TestFlight for the first time
@@ -91,7 +91,7 @@ Screenshot by David Gewirtz/ZDNET
 Next, let's look at running an app. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Running a beta release app using TestFlight
@@ -179,17 +179,16 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-digital-film-composer/"><u>[New] 2024 Approved Digital Film Composer</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-pure-summer-pleasures-our-top-10-holiday-flicks/"><u>[New] 2024 Approved Pure Summer Pleasures Our Top 10 Holiday Flicks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-streamline-your-show-entry-on-apple-media/"><u>[Updated] In 2024, Streamline Your Show Entry on Apple Media</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-secret-sauce-to-never-miss-a-moment-on-youtube/"><u>[Updated] The Secret Sauce to Never Miss a Moment on YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/accessing-live-coverage-of-samsungs-annual-unpacked-showcase/"><u>Accessing Live Coverage of Samsung's Annual Unpacked Showcase</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/athletic-advocates-mastering-machine-dialogue/"><u>Athletic Advocates, Mastering Machine Dialogue</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-5-ultimate-hd-video-editors-for-stunning-quality/"><u>Best 5 Ultimate HD Video Editors for Stunning Quality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connect-and-stream-with-ease-the-ultimate-guide-to-using-roku-in-hotels-and-dorms/"><u>Connect and Stream with Ease: The Ultimate Guide to Using Roku in Hotels and Dorms</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/demystifying-rcs-messaging-for-enhanced-smartphone-conversations/"><u>Demystifying RCS Messaging for Enhanced Smartphone Conversations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-selection-of-9-complimentary-languages-online-platforms/"><u>Discover the Ultimate Selection of 9 Complimentary Languages Online Platforms</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-animatedapp-full-guide-24-edition/"><u>In 2024, AnimatedApp Full Guide '24 Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-solving-the-binkw32dll-file-not-found-dilemma/"><u>Ultimate Guide: Solving the 'Binkw32.dll File Not Found' Dilemma</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ocam-screen-recorder-download/"><u>[New] 2024 Approved OCam Screen Recorder Download</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-streamlined-online-gif-conversion-for-videos-top-5-for-2024/"><u>[Updated] Streamlined Online GIF Conversion for Videos (Top 5) for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-resolve-silent-tweets-video-audio-woes/"><u>2024 Approved Resolve Silent Tweets Video Audio Woes</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oneplus-12-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your OnePlus 12 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparison-guide-what-sets-an-ipad-apart-from-non-ipad-tablets/"><u>Comparison Guide: What Sets an iPad Apart From Non-iPad Tablets?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-buzz-what-to-look-forward-in-googles-upcoming-event/"><u>Decoding the Buzz: What to Look Forward in Google's Upcoming Event</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-out-the-lost-code-for-your-vehicles-in-car-entertainment-unit-easily/"><u>Find Out the Lost Code for Your Vehicle's In-Car Entertainment Unit Easily!</u></a></li>
+<li><a href="https://win-tips.techidaily.com/guide-pratique-pour-fabriquer-une-cle-amovible-de-demarrage-windows-7-etapes-faciles-a-suivre/"><u>Guide Pratique Pour Fabriquer Une Clé Amovible De Démarrage Windows 7 : Étapes Faciles À Suivre</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-xiaomi-redmi-note-13-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Xiaomi Redmi Note 13 5G Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-common-problems-with-youtube-connectivity-and-performance/"><u>Overcoming Common Problems with YouTube Connectivity and Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-performer-alert-laptop-rivals-macbook-features-yet-remains-a-non-apple-contender-tech-insights/"><u>Top Performer Alert! Laptop Rivals MacBook Features, Yet Remains a Non-Apple Contender | Tech Insights</u></a></li>
 </ul></div>
 

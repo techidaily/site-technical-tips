@@ -1,7 +1,7 @@
 ---
 title: "Navigating Permissions: Understanding and Working Around the TrustedInstaller in Windows 11"
-date: 2024-12-11T17:20:53.501Z
-updated: 2024-12-17T16:45:25.872Z
+date: 2024-12-23T02:21:52.815Z
+updated: 2024-12-26T01:28:19.590Z
 categories:
   - BestProducts
 description: "This Article Describes Navigating Permissions: Understanding and Working Around the TrustedInstaller in Windows 11"
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 
  This article describes two ways to deal with the message in Windows 10 about needing permission from TrustedInstaller to make changes to a file or folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix the TrustedInstaller Error Using Command Prompt
 
  There are two really simple[Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) you can use to bypass the TrustedInstaller permissions prompt. Follow these steps to fix the TrustedInstaller "error" by granting your user account permission to make changes to the file or folder:
@@ -41,11 +37,19 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 ![The TAKEOWN /F command in Windows 10 Command Prompt](https://www.lifewire.com/thmb/nOnoS4n34cd8C2EJEDT2_rLzdhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/takeown-command-trustsedinstaller-windows-10-267bfffb4f974a29940a0af233ef4a84.png)
 4. Enter the following command (replacing our example file with your own) to immediately give your user account permission to delete or change the file or folder:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  `icacls C:\Windows\System32\fr-FR\fms.dll.mui /grant Administrators:F /T`  
 ![icacls command executed in Windows 10 Command Prompt](https://www.lifewire.com/thmb/clN3CT0-H0V3QdOSRZWprDCigZ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/icacls-command-windows-10-7f562cffaf424cd281b4e58c68b19e25.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Edit the File's Security Options to Fix the TrustedInstaller Error
@@ -58,15 +62,11 @@ Make sure you are logged in as an administrator.
 ![The context menu for a Windows 10 folder ](https://www.lifewire.com/thmb/CSwAkry59uiW_sJ5GzqkO0QrOuk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/context-menu-folder-windows-10-0447423a01764cecad790f8dc6303c59.png)
 2. Go to**Security** \>**Advanced** , then select**Change** next to**Owner: TrustedInstaller** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Properties and Advanced Security Settings options for a Windows 10 folder](https://www.lifewire.com/thmb/823H3LgLGW5GbhyNSwSn1HNUZlk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/advanced-security-settings-windows-10-folder-4eb4fed4cb134eb1ba00993a705f7175.png)
 3. Type your username into the text box and then choose**Check Names** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Windows 10 Check Names box with a user account listed](https://www.lifewire.com/thmb/ESMv2bIcNtWxpryKYLlwZFwmyCA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-10-select-user-or-group-880cbe35a52348f19d11206db4d7a0b6.png)
@@ -75,13 +75,13 @@ Make sure you are logged in as an administrator.
 ![The replace owner on subcontainers and objects checkbox in Windows 10](https://www.lifewire.com/thmb/n8OW45wPPq3HiSTrW4eQIT_Y0EU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/replace-owner-windows-10-folder-885ef894881e4e21a60b1b09568ea020.png)
 5. Select**OK** at the bottom and then**OK** on the Properties window you opened in Step 1.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Open**Properties** \>**Security** \>**Advanced** once more. This time, select**Add** .  
 ![The Advanced Security Settings for a Windows 10 folder](https://www.lifewire.com/thmb/fEVYPGbUtSiGdO8kZg1RZd6gtIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/add-button-advanced-security-settings-3ffcde5bc8b942278219bbd9b4663921.png)
 7. Choose**Select a principal** and then type your username in the box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Press**Check Names** \>**OK** .  
 ![A user account listed in the Select User or Group box for a Windows 10 folder](https://www.lifewire.com/thmb/a8Ie_eyPviEwOjytgb9HHofaQgc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-user-group-windows-10-security-b2ffe7d116f2424e845a612090d4e932.png)
@@ -128,22 +128,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-mixing-masterclass-elevate-drone-audio-with-20-complimentary-luts/"><u>[Updated] 2024 Approved Mixing Masterclass - Elevate Drone Audio with 20 Complimentary LUTs</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-social-shine-a-snapchat-guide-for-giftful-gif-enthusiasts/"><u>[Updated] 2024 Approved Social Shine A Snapchat Guide for Giftful GIF Enthusiasts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-from-spoken-word-to-memo-iphone-audio-guidance-for-2024/"><u>[Updated] From Spoken Word to Memo IPhone Audio Guidance for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-easy-routines-keeping-a-transcript-of-google-voice-calls/"><u>[Updated] In 2024, Easy Routines Keeping a Transcript of Google Voice Calls</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-optimizing-video-production-in-windows-11-workflows-for-2024/"><u>[Updated] Optimizing Video Production in Windows 11 Workflows for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/capturing-your-gaming-moments-on-ps4-ultimate-screenshotting-tutorials/"><u>Capturing Your Gaming Moments on PS4: Ultimate Screenshotting Tutorials</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-most-effective-time-saving-shortcuts-on-your-iphone-or-ipad-using-apples-ios-shortcuts-platform-top-18-ideas-revealed/"><u>Discover the Most Effective Time Saving Shortcuts on Your iPhone or iPad Using Apple's iOS Shortcuts Platform - Top 18 Ideas Revealed!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-most-recent-drivers-for-your-msi-b350-toms-tomahawk-graphics-card-on-microsoft-windows-platforms/"><u>Get the Most Recent Drivers for Your MSI B350 TOM'S TOMAHAWK Graphics Card on Microsoft Windows Platforms</u></a></li>
-<li><a href="https://win-premium.techidaily.com/guia-completa-el-programa-mas-eficiente-para-clonar-hdd-ide-bajo-windows/"><u>Guía Completa: El Programa Más Eficiente Para Clonar HDD IDE Bajo Windows</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor Magic V2? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-resuscitate-a-computer-that-wont-turn-on-essential-fixes/"><u>How To Resuscitate A Computer That Won't Turn On: Essential Fixes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/professional-looking-gopro-videos-without-shakiness/"><u>Professional-Looking GoPro Videos without Shakiness</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fix-guide-accelerating-a-slow-windows-11-operating-system/"><u>Quick Fix Guide: Accelerating a Slow Windows 11 Operating System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revive-gone-messages-universal-methods-to-restore-sms-across-various-phones/"><u>Revive Gone Messages: Universal Methods to Restore SMS Across Various Phones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reviving-your-vehicles-audio-system-solutions-when-your-car-radio-fails/"><u>Reviving Your Vehicle's Audio System: Solutions When Your Car Radio Fails</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-windows-kernel32dll-file-issues-a-step-by-step-guide/"><u>Solving Windows Kernel32.dll File Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-repairing-horizontal-streaks-on-your-samsung-flat-screen/"><u>Ultimate Guide: Repairing Horizontal Streaks on Your Samsung Flat Screen</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-duel-for-motorsport-dominance-black-gopro-vs-ghost-s-drift/"><u>[New] 2024 Approved Duel for Motorsport Dominance Black GoPro Vs. Ghost-S Drift</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-launching-into-creation-equipment-essentials-for-youtubers/"><u>[New] In 2024, Launching Into Creation Equipment Essentials for YouTubers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-3-ways-to-record-lectures-on-mac/"><u>[Updated] In 2024, 3 Ways to Record Lectures on Mac</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-starting-with-social-giving-best-practices-for-fb-posts/"><u>[Updated] In 2024, Starting with Social Giving Best Practices for FB Posts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-navigating-the-top-10-ways-to-improve-fb-page-rankings/"><u>[Updated] Navigating the Top 10 Ways to Improve FB Page Rankings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-pure-portrayals-on-platforms-your-guide-to-authentic-snapshots/"><u>[Updated] Pure Portrayals on Platforms Your Guide to Authentic Snapshots</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1728462367591-onedrive/"><u>重新同步OneDrive文件：完全指南</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bose-soundlink-setup-simplified-an-ultimate-guide-to-device-connection/"><u>Bose Soundlink Setup Simplified: An Ultimate Guide to Device Connection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connect-and-share-how-to-use-chromecast-for-displaying-windows-on-the-big-screen/"><u>Connect and Share: How to Use Chromecast for Displaying Windows on the Big Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-game-changing-self-cleaning-function-of-the-dual-action-robot-vacuum-and-mop-tech-insights/"><u>Discover the Game-Changing Self-Cleaning Function of the Dual Action Robot Vacuum and Mop | Tech Insights</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-poco-c65-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Poco C65 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-turn-off-the-smart-assistant-a-users-guide-to-deleting-copilot-in-windows-11/"><u>How To Turn Off The Smart Assistant – A User's Guide to Deleting Copilot in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-gmail-filters-and-contact-management-expert-guide/"><u>Mastering Gmail Filters & Contact Management: Expert Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/minecraft-realms-reviewed-are-they-a-good-investment-for-gamers-seeking-multiplayer-fun/"><u>Minecraft Realms Reviewed - Are They a Good Investment for Gamers Seeking Multiplayer Fun?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/strengthen-your-apple-accounts-implementing-two-factor-auth-for-icloud-mail-protection/"><u>Strengthen Your Apple Accounts: Implementing Two-Factor Auth for iCloud Mail Protection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-techniques-for-non-functional-xbox-audio-devices/"><u>Troubleshooting Techniques for Non-Functional Xbox Audio Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-does-shifting-towards-ev-technology-signify/"><u>What Does Shifting Towards EV Technology Signify?</u></a></li>
 </ul></div>
 

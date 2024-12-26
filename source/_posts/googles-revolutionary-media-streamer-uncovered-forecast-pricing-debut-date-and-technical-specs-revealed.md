@@ -1,7 +1,7 @@
 ---
 title: "Google's Revolutionary Media Streamer Uncovered: Forecast Pricing, Debut Date and Technical Specs Revealed"
-date: 2024-08-30T13:38:45.713Z
-updated: 2024-08-31T13:38:45.713Z
+date: 2024-12-20T08:43:19.450Z
+updated: 2024-12-26T01:20:34.104Z
 categories:
   - BestProducts
 description: "This Article Describes Google's Revolutionary Media Streamer Uncovered: Forecast Pricing, Debut Date and Technical Specs Revealed"
@@ -21,24 +21,30 @@ In This Article
 
  A new Google TV streaming device appears to be in the works. The so-called Google TV Streamer will likely function much like the[Chromecast](https://www.lifewire.com/guide-to-chromecast-2438213) , but that's where their likeness ends. This device loses the dongle form factor and includes a redesigned remote with a customizable button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Google TV Streamer Be Released?
 
  Rumors say the company will announce this Google TV streaming device at[the next Google event](https://www.lifewire.com/google-event-5205756) in August. This is the same event poised to introduce several other Google products like the[Pixel Watch 3](https://www.lifewire.com/google-pixel-watch-3-8431024) and[Pixel 9 smartphone](https://www.lifewire.com/google-pixel-9-8630767) .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
 August 13 is our best guess.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Google TV Streamer Price Rumors
 
  The only reference point we have to price this new[streaming device](https://www.lifewire.com/what-is-a-streaming-device-5208767) is Google's 4K Chromecast with Google TV, which is priced at $50\. They could easily drop that price and slot the Google TV Streamer in its place. If not, the most we can see Google charging for the Google TV Streamer is $70.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Pre-orders for the Google TV Streamer will probably start immediately following its announcement on August 13.
@@ -48,17 +54,11 @@ August 13 is our best guess.
 ![The Google TV Streamer and remote](https://www.lifewire.com/thmb/-vnWbTJuk9OzmaxhkBjEiqhYPRA=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/google-tv-streamer-remote-f778bf371f604247a3e9592a4f4d4f6b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9to5Google
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Google TV Streamer Specs & Features
 
  In the picture above, you can see that, apart from the remote, this device looks nothing like the Chromecast with Google TV. Otherwise, we think it will work exactly like a Chromecast, letting you stream music and videos from online services and cast media to it from other devices.
@@ -73,14 +73,12 @@ No advertising on the website.
 
 ![Google TV Streamer remote](https://www.lifewire.com/thmb/a47wfU6UCU7urolc1HR8HsvT2D8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-TV-Streamer-Remote-ee116f9ff7d44f16a632d2414517c129.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 9to5Google
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Google TV Streamer
 
  You can[read all the latest on streaming devices here on Lifewire](https://www.lifewire.com/streaming-news-4797038) . Below are some stories about Google products that you might find interesting.
@@ -91,14 +89,11 @@ No advertising on the website.
 
 [Chromecast vs. Roku: Which Streaming Device Is Better?](https://www.lifewire.com/chromecast-vs-roku-4580492)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,4 +102,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-lightning-fast-windowed-photo-reader-for-win11/"><u>[New] 2024 Approved Lightning-Fast Windowed Photo Reader for Win11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-economical-sky-craftsmen-top-5-budget-friendly-drones-for-2024/"><u>[New] Economical Sky Craftsmen Top 5 Budget-Friendly Drones for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-quick-guide-downloading-and-setting-up-vrecord/"><u>[Updated] In 2024, Quick Guide Downloading & Setting Up VRecord</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rethinking-windows-photo-viewer-usage-on-modern-os/"><u>[Updated] Rethinking Windows Photo Viewer Usage on Modern OS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-stream-power-showdown-vmix-clashes-with-wirecast-for-broadcast-excellence-for-2024/"><u>[Updated] Stream Power Showdown VMix Clashes with Wirecast for Broadcast Excellence for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complimentary-text-communication-tools-for-your-apple-smartphone/"><u>Complimentary Text Communication Tools for Your Apple Smartphone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-techniques-to-test-website-connectivity-with-icmp-echo/"><u>Effective Techniques to Test Website Connectivity with ICMP Echo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-the-scoop-on-the-new-google-pixel-tablet-key-features-release-timeline-and-news-coverage/"><u>Get the Scoop on the New Google Pixel Tablet - Key Features, Release Timeline & News Coverage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-parse-exceptions-in-your-android-app-8-effective-strategies/"><u>Resolving Parse Exceptions in Your Android App: 8 Effective Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/transform-your-live-broadcasting-skills-using-dslr-on-personal-computers-for-2024/"><u>Transform Your Live Broadcasting Skills Using DSLR on Personal Computers for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-correcting-401-access-denied-issues-on-your-website/"><u>Troubleshooting and Correcting 401 Access Denied Issues on Your Website</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-made-simple-how-to-perform-a-factory-reset-on-your-samsung-tv/"><u>Troubleshooting Made Simple: How To Perform a Factory Reset On Your Samsung TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-iphones-for-gaming-lovers-top-picks-and-reviews/"><u>Ultimate iPhones for Gaming Lovers: Top Picks and Reviews</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/understanding-filmoras-creative-certification-protocol/"><u>Understanding Filmora's Creative Certification Protocol</u></a></li>
+</ul></div>
 

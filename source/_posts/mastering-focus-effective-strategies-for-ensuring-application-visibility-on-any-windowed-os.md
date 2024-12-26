@@ -1,7 +1,7 @@
 ---
 title: "Mastering Focus: Effective Strategies for Ensuring Application Visibility on Any Windowed OS"
-date: 2024-08-30T13:33:33.664Z
-updated: 2024-08-31T13:33:33.664Z
+date: 2024-12-24T22:12:27.634Z
+updated: 2024-12-25T19:52:32.861Z
 tags:
   - desktop
 categories:
@@ -27,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
  Microsoft offers an official tool to keep any window always-on-top of other windows on Windows 10 or Windows 11\. We can also recommend some awesome third-party tools for making any window always on top—and many applications have a hidden option for this.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Official Way: Microsoft PowerToys
 
  We recommend Microsoft PowerToys for keeping a window always on top. Microsoft PowerToys is a free, open-source package full of powerful Windows utilities developed by Microsoft. The Always-on-Top PowerToy provides an easy, convenient, official way of making any window always on top, and it works on both Windows 10 and Windows 11.
@@ -38,24 +39,19 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 ![A window made always on top with PowerToys on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/always-on-top-notepad-window.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can customize this behavior by launching the PowerToys Settings window. To do so, launch "PowerToys" from the Windows Start menu or click the PowerToys icon in your taskbar's notification area and click the gear-shaped Settings icon.
 
  Select "Always on Top" in the sidebar. If the keyboard shortcut didn't work, ensure the "Always on Top" PowerToy is enabled at the top here. You can use the options here to change the keyboard shortcut, control whether a colored border appears around the window and customize that border, choose whether the sound plays, and configure windows that will never be made always on top.
 
 ![The Always On Top in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/always-on-top.png) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  We're big fans of Microsoft PowerToys. The package is [full of other useful utilities](https://extra-information.techidaily.com/the-artisans-touch-skillfully-applying-face-centric-motion-blur-using-picsart/), and there's a good chance you'll find something else useful in it, too. 
 
  We recommend the Microsoft PowerToys method as our top choice. You can disable other PowerToys in the PowerToys Settings window if you don't like the clutter. However, we cover a variety of other simple utilities and methods for making a window always-on-top below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ##  With a Keyboard Shortcut: [AutoHotkey](http://www.autohotkey.com/) 
 
  Using the [excellent and useful AutoHotkey program](https://instagram-videos.techidaily.com/decoding-the-copyright-code-for-insta-musicians/), you can make a simple script that sets your currently active window to be always on top when you press a certain key combination. The resulting script is lightweight and won't use much resources or add unnecessary clutter to your system. You can even use AutoHotkey to compile the script to its own executable if you don't want to keep the full AutoHotkey program running—or if you want an easy way to carry the script with you to other PCs.
@@ -66,18 +62,6 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 ![Select 'New,' then select 'AutoHotKey Script.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-7.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Give the new script file whatever name you want, click then click "Edit." When prompted, open the script in Notepad. 
 
 ![Name your script, then click 'Edit.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-7.png) 
@@ -95,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 ![The icon turns green when the script is active.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can now press Ctrl+Space to set any currently active window to be always on top. Press Ctrl+Space again set the window to no longer be always on top.
 
  And if you don't like the Ctrl+Space combination, you can change the `^SPACE` part of the script to set a new keyboard shortcut. Consult the [Hotkeys documentation](http://www.autohotkey.com/docs/Hotkeys.htm) on AutoHotkey's website for help.
@@ -111,13 +99,22 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 ![The pin icon visible on the titlebar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To remove a pin from a window, move your mouse over the pin. Your pointer will show a small "X" on it to let you know you're about to remove the pin. And if you want to remove pins from all windows you've pinned at once, right-click the system tray icon, and then choose the "Remove All Pins" option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ![Right-click the icon on the Taskbar, then select 'Remove All Pins.'](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Without Installing Anything Extra: Built-in App Options
 
  Many apps have built-in options so that you can set their windows to become always on top. You often find these options in media players, system utilities, and other tools that you might want to see all the time. Programs that accept plug-ins may also have an always-on-top plugin you can install.
@@ -128,9 +125,6 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 ![Enable the 'Always on top' checkbox in the Settings tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/task-manager-always-on-top.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here's how to enable the built-in always-on-top option in some other popular programs:
 
 * **VLC**: Click Video > Always on top.
@@ -146,8 +140,6 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +147,22 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-breaking-down-sync-a-thorough-review-of-lgs-uhd68-display/"><u>[New] Breaking Down Sync A Thorough Review of LG's UHD68 Display</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-engaging-podcasts-step-by-step-guide-with-free-examples/"><u>2024 Approved Crafting Engaging Podcasts Step-by-Step Guide with Free Examples</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-complete-blueprint-for-effective-lut-usage-in-editing/"><u>2024 Approved The Complete Blueprint for Effective LUT Usage in Editing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-shows-to-binge-on-discovery-plus-for-july-2024/"><u>Best Shows to Binge on Discovery Plus for July 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-best-and-brightest-imessage-games/"><u>Explore the Best and Brightest iMessage Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-initiating-a-hardware-reset-of-windows-os-into-safe-mode/"><u>Guide: Initiating a Hardware Reset of Windows OS Into Safe Mode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correct-a-404-page-miss-essential-insights-and-tips/"><u>How to Correct a 404 Page Miss: Essential Insights & Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-x90s-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo X90S Location by Number | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-crafting-engaging-youtube-thumbnails-a-step-by-step-guide/"><u>In 2024, Crafting Engaging YouTube Thumbnails A Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210064574-9781071549353-megans-trettonde/"><u>Megans Trettonde | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-list-where-to-find-hd-quality-music-streaming-and-download-services/"><u>The Ultimate List: Where to Find HD Quality Music Streaming and Download Services</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-issues-with-windows-11-failing-to-shut-down/"><u>Troubleshooting Steps: Resolving Issues with Windows 11 Failing to Shut Down</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722886076377-tune-in-to-sports-with-espn-plus-on-your-lg-smart-tv-setup-tips-included/"><u>Tune in to Sports with ESPN Plus on Your LG Smart TV - Setup Tips Included</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722903673710-want-to-use-your-macbook-with-a-closed-lid-heres-how-not-to-let-it-go-to-sleep/"><u>Want to Use Your MacBook with a Closed Lid? Here's How Not to Let It Go To Sleep!</u></a></li>
+</ul></div>
 

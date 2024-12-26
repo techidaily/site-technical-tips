@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Managing & Canceling Your iPhone's App Store Subscriptions with iOS 15 - Tips"
-date: 2024-11-18T17:01:54.367Z
-updated: 2024-11-25T16:37:59.238Z
+date: 2024-12-18T23:51:50.191Z
+updated: 2024-12-26T04:53:15.453Z
 tags:
   - apple
 categories:
@@ -102,6 +102,10 @@ Share: Are you prepared for the future of AI, automation, and jobs?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F "Twitter") 
@@ -114,6 +118,10 @@ Apple's latest software update to the Mac and iPad has enabled a feature that, n
 
 That means when you move your Mac's pointer beyond the edge of your screen, it will automatically switch to your iPad and allow you to use iPadOS without switching devices. To be clear, Universal Control isn't only designed to work between an iPad and a Mac. It'll actually work between multiple Macs as well. For the purpose of this guide, I'm going to stick to using it between and iPad and Mac to cover both devices. But you could easily do the same thing with two Macs by following the steps below. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [Why I'm recommending the standard iPhone 16 over the Pro this year (and I'm not alone)](https://www.zdnet.com/article/why-im-recommending-the-standard-iphone-16-over-the-pro-this-year-and-im-not-alone/)
@@ -122,10 +130,6 @@ That means when you move your Mac's pointer beyond the edge of your screen, it w
 * [Rust in Linux now: Progress, pitfalls, and why devs and maintainers need each other](https://www.zdnet.com/article/rust-in-linux-now-progress-pitfalls-and-why-devs-and-maintainers-need-each-other/)
 
 There are a couple of things you'll need to do before you can use Universal Control. I'll walk you through the initial setup, and then how to use it. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Update your Mac and iPad
 
@@ -136,7 +140,7 @@ On a Mac, open **System Preferences**, then select **Software Update**.
 On your iPad, open the **Settings app** then go to **General** \> **Software Update** and follow the prompts. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your iPad
@@ -156,7 +160,7 @@ The Mac does have a dedicated Universal Control section where you can turn the f
 Check the box next to **Allow your cursor and keyboard to move between any nearby Mac or iPad,** then click **Done**. Leave the other two boxes checked. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to use Universal Control between your Mac and iPad
@@ -174,7 +178,7 @@ Want to go back to your Mac? Drag the mouse pointer off the iPad's screen in the
 You can even drag and drop documents between your Mac or iPad, instead of waiting for iCloud Drive to sync or if, for example, you were drawing out an idea in the Notes app with the Apple Pencil on your iPad -- you can easily move that to your Mac once you're finished. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Arrange your displays, adjust settings
@@ -182,10 +186,6 @@ You can even drag and drop documents between your Mac or iPad, instead of waitin
 Screenshot by Jason Cipriani/ZDNet
 
 Your Mac will try its best to locate your iPad's location in relation to your main display, but it's not perfect. If you go back into System Preferences on your Mac, you can click-and-drag to rearrange the displays, putting your iPad's screen in the right spot, allowing you to seamlessly move your mouse between the two devices. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Troubleshooting Universal Control
 
@@ -239,24 +239,20 @@ Finally, if you're still not having any luck, it could be that your device isn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-a-leaders-list-of-8-online-havens-for-golden-3d-and-text/"><u>[New] In 2024, A Leader's List of 8 Online Havens for Golden 3D & Text</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-iphone-tips-mastering-video-replay/"><u>[New] In 2024, IPhone Tips Mastering Video Replay</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-space-optimization-mastery-premium-storage-reviews/"><u>2024 Approved Space Optimization Mastery Premium Storage Reviews</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-guide-successfully-installing-the-epson-xp-830-printer-driver/"><u>Complete Guide: Successfully Installing the Epson XP-830 Printer Driver</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-history-and-impact-of-netflixs-former-dvd-rental-program/"><u>Discover the History and Impact of Netflix's Former DVD Rental Program</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-easily-replace-or-remove-phone-screen-protectors-at-home/"><u>Expert Advice: Easily Replace or Remove Phone Screen Protectors at Home</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-effortlessly-save-and-share-your-playthroughs-as-images-on-nintendo-switch/"><u>How To Effortlessly Save And Share Your Playthroughs As Images On Nintendo Switch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-resolution-of-windows-device-manager-code-41-errors-techniques-and-best-practices/"><u>Mastering the Resolution of Windows Device Manager Code 41 Errors: Techniques and Best Practices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-the-stop-code-0x0000001d-expert-strategies-and-tips/"><u>Overcoming the Stop Code 0X0000001D: Expert Strategies and Tips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reconnecting-seagate-hdd-to-windows-11-system/"><u>Reconnecting Seagate HDD to Windows 11 System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-z-flip-31-revealed-anticipated-cost-and-launch-speculations-for-the-latest-innovation/"><u>Samsung Galaxy Z Flip 3^1 Revealed – Anticipated Cost and Launch Speculations for the Latest Innovation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-for-connecting-airpods-to-a-macbook-air-computer/"><u>Step-by-Step Tutorial for Connecting AirPods to a MacBook Air Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tailored-smart-technology-choosing-between-alexa-and-google-assistant-for-optimal-personalization/"><u>Tailored Smart Technology: Choosing Between Alexa and Google Assistant for Optimal Personalization</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-o-setupdll-not-found-problem-effectively/"><u>Troubleshooting the 'O setup.dll Not Found' Problem Effectively</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-poco-x6-pro-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Poco X6 Pro Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-methods-to-detect-if-your-location-is-being-monitored-by-apples-airtag/"><u>Unveiling the Methods to Detect If Your Location Is Being Monitored by Apple's AirTag</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mac-video-creation-made-easy-best-tools-and-apps/"><u>Updated 2024 Approved Mac Video Creation Made Easy Best Tools and Apps</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211183889-9798888328644-when-believing-in-god-is-not-enough/"><u>When Believing in God Is Not Enough | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/your-ultimate-resource-for-downloading-detailed-manuals-on-every-iphone-edition/"><u>Your Ultimate Resource for Downloading Detailed Manuals on Every iPhone Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-places-to-go-the-best-online-hubs-for-text-effects/"><u>[New] Places to Go The Best Online Hubs for Text Effects</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nlock-your-videos-potential-with-these-youtube-seo-insights-for-2024/"><u>[New] Unlock Your Videos' Potential with These YouTube SEO Insights for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-intuitive-method-for-adjusting-iphone-screen/"><u>[Updated] Intuitive Method for Adjusting iPhone Screen</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-nba-live-your-ultimate-guide-to-15-streaming-methods/"><u>2024 Approved NBA Live Your Ultimate Guide to 15 Streaming Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movswf-movavi/"><u>无需花钱，将MOV文件转化为SWF：终极移动视频编辑器 - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/as-maiores-plataformas-onlines-livres-e-profissionais-para-construcao-do-seu-logotipo/"><u>As Maiores Plataformas Onlines Livres E Profissionais Para Construção Do Seu Logotipo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversao-de-dados-gratuitos-para-mp4-on-line-pelo-movavi-tod-para-mpeg-sem-custo-adicional/"><u>Conversão De Dados Gratuitos Para MP4 On-Line Pelo Movavi - TOD Para MPEG Sem Custo Adicional</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertir-gratuitement-un-fichier-wav-en-format-wmv-en-ligne-tutorial-movavi/"><u>Convertir Gratuitement Un Fichier .wav en Format .wmv en Ligne - Tutorial Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovation-in-visuals-a-guide-to-the-leading-5-monitors/"><u>In 2024, Innovation in Visuals A Guide to the Leading 5 Monitors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-secrets-of-effortless-online-video-downloading-on-pinterest/"><u>In 2024, Secrets of Effortless Online Video Downloading on Pinterest</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/mkv-in-gratis-online-wmv-omzetten-expertise-en-hulp-bij-movavi-konvertering/"><u>MKV in Gratis Online WMV Omzetten - Expertise en Hulp Bij Movavi Konvertering</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/passos-faceis-para-registro-de-palestras-sua-guia-completa-com-solucoes-de-movavi/"><u>Passos Fáceis Para Registro De Palestras - Sua Guia Completa Com Soluções De Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-google-pixel-8-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Google Pixel 8 has been deleted.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-on-implementing-stunning-visual-enhancements-in-imovie/"><u>Ultimate Tutorial on Implementing Stunning Visual Enhancements in iMovie</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726224448302-wav-mpeg-movavi/"><u>WAV 파일을 MPEG로 바꾸기: 원료 없이 웹에서 제공 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover Apple's Latest Enhancements: Top 4 New Features in Updated AirPod Models - ZDNet"
-date: 2024-12-01T20:04:20.340Z
-updated: 2024-12-04T20:16:03.301Z
+date: 2024-12-23T08:27:40.296Z
+updated: 2024-12-26T04:59:43.062Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Below, we break down the coolest new features coming to your Apple Watch in Watc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Track your strain and recovery with Vitals and Training Load
@@ -45,10 +45,6 @@ Serious athletes will likely be drawn to these features since this is the first 
 ## 2\. Pause your rings
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
 
@@ -70,15 +66,15 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 
 Apple
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. The Photos face, powered by machine learning
 
 The Photos face is one of the most popular faces on the Apple Watch, given its high level of customization. And it's getting a facelift (pun intended) with WatchOS 11.
 
 Your watch will use machine learning to analyze your photo library and find the best snaps to use as a watch face based on aesthetics, composition, and facial expressions. Apple's algorithm will then optimize the image for the watch face and add depth effects, different colored backgrounds, fonts, and more. You can customize it on your own to your heart's content, plus get treated to a new look every time you raise your wrist.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Double Tap now works with any app
 
@@ -93,7 +89,7 @@ Jason Hiner/ZDNET
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
@@ -101,6 +97,10 @@ With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check 
 Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. Tap to Cash lets you hold your Apple Watch near another watch or iPhone to quickly send Apple Cash to someone else.
 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Translate on the fly
 
@@ -115,7 +115,7 @@ Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhi
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
@@ -152,22 +152,20 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-guide-to-accurate-transfer-of-camera-photos-to-social-media-apps/"><u>[New] 2024 Approved Guide to Accurate Transfer of Camera Photos to Social Media Apps</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-online-persona-transformation-rendering-your-cartoon-self/"><u>[New] In 2024, Online Persona Transformation Rendering Your Cartoon Self</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-stepwise-guide-to-antiquated-visual-effects-in-videos/"><u>[Updated] Stepwise Guide to Antiquated Visual Effects in Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/2024s-ultimate-accessory-guide-for-apple-airtags-expert-insights-and-ratings-zdnet/"><u>2024'S Ultimate Accessory Guide for Apple AirTags: Expert Insights and Ratings | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/achieve-crystal-clear-audio-with-our-best-practices-for-sparkling-clean-household-stereo-speakers/"><u>Achieve Crystal Clear Audio with Our Best Practices for Sparkling Clean Household Stereo Speakers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/back-to-school-the-9-tech-items-every-student-must-have/"><u>Back to School: The 9 Tech Items Every Student Must Have</u></a></li>
-<li><a href="https://article-helps.techidaily.com/dji-quadcopters-tiers-basic-model-enhanced-version-high-definition-masterclass/"><u>DJI Quadcopters Tiers Basic Model, Enhanced Version, High Definition Masterclass</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a05-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Samsung Galaxy A05 support AVCHD video?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhanced-durability-in-the-latest-iphone-16-apple-reveals-improved-repairability-over-previous-models-detailed-insights-on-zdnet/"><u>Enhanced Durability in the Latest iPhone 16: Apple Reveals Improved Repairability Over Previous Models - Detailed Insights on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhanced-sound-on-lg-televisions-an-exclusive-perk-for-apple-enthusiasts-revealed-by-zdnet/"><u>Enhanced Sound on LG Televisions: An Exclusive Perk for Apple Enthusiasts Revealed by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-picks-the-ultimate-list-of-must-have-ipad-enhancements-curated-by-zdnet/"><u>Expert Picks: The Ultimate List of Must-Have iPad Enhancements | Curated by ZDNET</u></a></li>
-<li><a href="https://win-best.techidaily.com/guide-complet-a-la-reconstitution-de-fichiers-effaces-avec-python-techniques-et-methodes-pratiques/"><u>Guide Complet À La Reconstitution De Fichiers Effacés Avec Python: Techniques Et Méthodes Pratiques</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-se-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone SE Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/streamlined-content-creation-with-ios-18-on-iphone-14-revealed-experts/"><u>Streamlined Content Creation with iOS 18 on iPhone 14, Revealed Experts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-places-to-secure-your-ipad-pro-ipad-air-and-new-apple-pencil-pro-in-advance-current-offers-unveiled-by-zdnet/"><u>Top Places to Secure Your iPad Pro, iPad Air & New Apple Pencil Pro in Advance – Current Offers Unveiled by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unbeatable-deal-on-macbook-air-with-m1-chip-at-only-649-exclusive-offer/"><u>Unbeatable Deal on MacBook Air with M1 Chip at Only $649 - Exclusive Offer</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-overvoltage-situations-on-your-devices-connector-point/"><u>Understanding and Fixing Overvoltage Situations on Your Device's Connector Point</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-easy-desktop-screen-capture-method/"><u>[New] 2024 Approved Easy Desktop Screen Capture Method</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-hidden-details-you-need-to-know-about-youtube-tv-service/"><u>[New] 2024 Approved Hidden Details You Need to Know About YouTube TV Service</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-iphone-photography-hacks-upside-down-and-sideways-shots/"><u>[New] IPhone Photography Hacks Upside-Down & Sideways Shots</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-ultimate-guide-undoing-your-yt-playback-sequence-for-2024/"><u>[New] The Ultimate Guide Undoing Your YT Playback Sequence for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/pgrade-video-experience-activate-av1-on-youtube/"><u>[New] Upgrade Video Experience Activate AV1 on YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-fixes-for-a-disconnected-vizio-smart-tv-and-wi-fi-networks/"><u>Effective Fixes for a Disconnected Vizio Smart TV and Wi-Fi Networks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-factors-driving-the-transition-to-electric-vehicles/"><u>Exploring the Factors Driving the Transition to Electric Vehicles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-rockalldlldll-not-found-or-missing-errors/"><u>How to Fix Rockalldll.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-scoop-google-tv-streaming-stick-launch-date-pricing-strategies-and-featured-performance-insights/"><u>Inside Scoop: Google TV Streaming Stick Launch Date, Pricing Strategies, and Featured Performance Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-fix-handling-and-correcting-the-elusive-gsdll32dll-not-detected-or-lost-problems/"><u>Master the Fix: Handling and Correcting the Elusive GSDLL32.DLL Not Detected or Lost Problems</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/reviving-vanished-drone-captures-a-comprehensive-masterclass-for-dji-video-restoration/"><u>Reviving Vanished Drone Captures: A Comprehensive Masterclass for DJI Video Restoration</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/screen-ready-images-opting-for-srgb-for-2024/"><u>Screen Ready Images Opting for Srgb for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-pairing-a-step-by-step-guide-on-syncing-your-airpods-with-macbook-air/"><u>Seamless Pairing: A Step-by-Step Guide on Syncing Your AirPods with MacBook Air</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-generation-of-smartwatches-anticipating-the-samsung-galaxy-watch-7s-launch-date-costs-and-specifications/"><u>The Next Generation of Smartwatches: Anticipating the Samsung Galaxy Watch 7'S Launch Date, Costs and Specifications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-touchscreen-macbook-revealed-learn-about-the-projected-costs-and-launch-timeline/"><u>Upcoming Touchscreen MacBook Revealed - Learn About the Projected Costs & Launch Timeline</u></a></li>
 </ul></div>
 

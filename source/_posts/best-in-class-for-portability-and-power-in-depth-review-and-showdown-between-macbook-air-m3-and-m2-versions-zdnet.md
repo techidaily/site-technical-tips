@@ -1,7 +1,7 @@
 ---
 title: "Best in Class for Portability & Power: In-Depth Review and Showdown Between MacBook Air M3 & M2 Versions | ZDNET"
-date: 2024-11-22T16:28:49.934Z
-updated: 2024-11-25T16:02:08.592Z
+date: 2024-12-22T19:11:16.407Z
+updated: 2024-12-25T21:13:13.666Z
 tags:
   - apple
 categories:
@@ -23,10 +23,6 @@ Apple's [iPad has come a long way](https://www.zdnet.com/article/a-decade-old-de
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -57,6 +53,10 @@ Clearly, size is the biggest difference between the two, but I've listed several
 
 CNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  1\. You prefer a more portable work machine
 
 Don't get it twisted, both iPad Pro sizes are shockingly thin (about 0.25 inch) and can be easily tucked into any backpack sleeve, but the smaller 11-inch is much easier to hold and weighs about half a pound less than the 12.9-inch model. 
@@ -66,7 +66,7 @@ If you plan on traveling with the iPad from home to the office to local cafes, t
 In fact, if you're upgrading from an existing iPad, whether it's the Air, the Mini, or the vanilla model, then you'll find yourself right at home with the 11-inch form factor. And its [M1-based performance will be noticeably better](https://www.zdnet.com/article/apple-silicon-m1-chip-heres-what-we-know/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You'd like to save at least $300
@@ -78,10 +78,6 @@ Is it considered free money if you save yourself from spending more? Either way,
 It's very likely that if you're buying an iPad, let alone a Pro, you'll snag one of Apple's keyboard cases as well. Whether you're eyeing a [full-function Magic Keyboard](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMJQL3LL%2FA%2Fmagic-keyboard-for-ipad-pro-129%25E2%2580%2591inch-6th-generation-us-english-white%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) or a [minimal folio case](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMQDV3ZM%2FA%2Fsmart-folio-for-ipad-pro-11-inch-4th-generation-marine-blue%3Ffnode%3Df304b6807bd7c87e2ce7fadad80024ad0db3a3b545af2eb140da8e2a86aa4851620aa79e3172ba1111f055a4af4502ffb1cacbb36e10c9c385eecc4da4be497ea3b2a961484c402db5058014d7d89e25fc8e04aaa9ae740b12c71858b222cff6&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), you'll be spending $20-$50 less for accessories made for the 11-inch model. 
 
 [Buy the iPad Pro (11-inch, M2) View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C99120a84-9f1e-4ffd-8f92-e50bcb1bcbc7%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You should buy the 12.9-inch iPad Pro if...
 
@@ -95,6 +91,10 @@ How are you planning to use the iPad Pro? Are you a graphics designer who thrive
 
 The superior visual output is thanks to Apple's Pro Display XDR, an assembly of mini LEDs spread underneath the glass to create more dimming zones. Basically, you can expect one of the best-performing high dynamic range (HDR) displays on the 12.9-inch iPad Pro. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You want a larger keyboard to type on
 
 Hear me out: The typing experience on _any_ keyboard case you buy for the 12.9-inch iPad Pro will be better than that for the 11-inch model. This is because every case will very likely have a larger palm rest and trackpad to cover up the 12.9-inch iPad's display when closed shut. 
@@ -107,11 +107,19 @@ While keyboard cases will be more expensive for the larger iPad, as mentioned be
 
 ##  FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can the iPad Pro replace my laptop?
 
 It's a question that's been asked since the iPad's debut, whether or not it can replace a laptop. To answer: Yes, to some degree. Thanks to software improvements and better multitasking features on iPadOS, the iPad Pro, more than ever, can replace a laptop. ZDNET's own Jason Cipriani has written [plenty of articles on his iPad experiences](https://www.zdnet.com/article/how-to-use-apples-mind-blowingly-magical-universal-control-to-control-your-ipad-from-your-mac/) doing just that. 
 
 However, you should know that there are still plenty of pro-grade services and programs that require a desktop or laptop to run, most of which are not optimized for the iPad's operating system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Do I need an iPad Pro?
 
@@ -119,17 +127,9 @@ Apple's non-Pro iPads have gotten much more capable over the years thanks to the
 
 I'd advise any potential shopper to visit a local Apple store and demo the lower-end iPad models first, and if none of them satisfy your work needs, move up to the iPad Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best iPad Pro for drawing?
 
 Both the 11-inch and 12.9-inch iPad Pros support the 2nd-gen Apple Pencil, which is arguably the [best tool for digital content creation](https://www.zdnet.com/article/best-ipad-stylus/). That said, the best iPad Pro for drawing depends on whether you prefer a more portable canvas or one that has more screen real estate. For artists, the 12.9-inch iPad Pro, with its bigger and brighter display, should generally serve better, especially if you draw outdoors.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best iPad Pro for students?
 
@@ -165,17 +165,22 @@ For most students, the 11-inch iPad Pro is the better choice. It's easier to car
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-capturing-essence-photos-meet-music-videos/"><u>[New] Capturing Essence Photos Meet Music Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mac-based-strategies-for-shorter-insta-videos-for-2024/"><u>[Updated] Mac-Based Strategies for Shorter Insta Videos for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-the-ultimate-list-of-best-hashtags-for-yt-view-spikes/"><u>2024 Approved The Ultimate List of Best Hashtags for YT View Spikes</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/abbyy-mobile-web-capture-sdk-innovatives-losungsangebot-fur-eine-optimierte-einarbeitung-auf-mobilen-endgeraten/"><u>Abbyy Mobile Web Capture SDK: Innovatives Lösungsangebot Für Eine Optimierte Einarbeitung Auf Mobilen Endgeräten</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/addressing-glitches-in-ios-remote-control-application-with-proven-strategies/"><u>Addressing Glitches in iOS Remote Control Application with Proven Strategies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-2024s-choice-of-12-leading-free-internet-calling-apps/"><u>Discover the 2024'S Choice of 12 Leading Free Internet Calling Apps</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-tactics-for-spotify-ad-mastery/"><u>In 2024, Innovative Tactics for Spotify Ad Mastery</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-tips-for-enabling-or-disabling-virtual-keyboard-interface-on-windows-10-system/"><u>Quick Tips for Enabling or Disabling Virtual Keyboard Interface on Windows 10 System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revitalize-your-iphones-photography-experience-by-fixing-the-lens-auto-focus-glitches/"><u>Revitalize Your iPhone's Photography Experience by Fixing the Lens Auto-Focus Glitches</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-our-curated-list-the-best-offline-multilanguage-translation-apps-available/"><u>Unveiling Our Curated List: The Best Offline Multilanguage Translation Apps Available</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-11-users-hack-for-installing-and-enjoying-android-apps-natively/"><u>Windows 11 Users' Hack for Installing and Enjoying Android Apps Natively</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-video-storing-capabilities-and-limitations-insights-into-64128gb-drives/"><u>[New] 2024 Approved Video Storing Capabilities & Limitations - Insights Into 64/128GB Drives</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-a-comprehensive-list-of-frames-to-upgrade-your-photos-on-instagram/"><u>[Updated] 2024 Approved A Comprehensive List of Frames to Upgrade Your Photos on Instagram</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-pinnacle-of-voice-recording-a-comprehensive-tome-for-2024/"><u>[Updated] The Pinnacle of Voice Recording A Comprehensive Tome for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mka-mp3-mp3-movavi/"><u>線上免費 MKA MP3 格式數據到MP3 - 便利的Movavi音頻變更服務</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-and-tricks-for-mastering-the-hoe-obs-virtual-cam-in-detail/"><u>Expert Tips and Tricks for Mastering the Hoe OBS Virtual Cam in Detail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ferramenta-online-livre-para-conversao-de-imagens-convertendo-tiffs-em-bmp-pelo-movavi/"><u>Ferramenta Online Livre Para Conversão De Imagens - Convertendo TIFFs Em BMP Pelo Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-f54-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy F54 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-enjoy-dual-views-expert-tips-for-utilizing-picture-in-picture-on-netflix/"><u>In 2024, Enjoy Dual Views Expert Tips for Utilizing Picture-in-Picture on Netflix</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-15-plus-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 15 Plus to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-y200-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo Y200 Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/jpgjpeg-tiff-movavi/"><u>JPG/JPEG을 자유성 TIFF로 변환하는 원리 – Movavi 인터페이스</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/los-15-mejor-rendimiento-conversores-de-audio-gratis-por-muyvaii-en-2024/"><u>Los 15 Mejor Rendimiento Conversores De Audio Gratis Por MuyVaii en 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mejor-herramienta-de-edicion-de-video-libre-mejores-opciones-para-windows-7-2024/"><u>Mejor Herramienta De Edición De Video Libre: Mejores Opciones Para Windows 7 - 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/muzik-film-ve-bolgesel-yayinamac-guvenilir-turk-uygulamasi-and-sozlesmesiz-tekniksel-indirimi-destekla-gelistiren-muhendis-milyonarji-video-dijital-uretecis46/"><u>Müzik, Film Ve Bölgesel Yayınamaç - Güvenilir Türk Uygulaması & Sözleşmesiz Tekniksel İndirimi Destekla Geliştiren Mühendis Milyonarjı Video Dijital Üretecisi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overzicht-van-windows-movie-maker-en-gebruikelijke-oplossingen/"><u>Overzicht Van Windows Movie Maker en Gebruikelijke Oplossingen</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-thumbnail-fonts-for-impressive-video-credits-for-2024/"><u>Top 20 Thumbnail Fonts for Impressive Video Credits for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-6-respectful-android-recorder-apps-for-2024/"><u>Top 6 Respectful Android Recorder Apps for 2024</u></a></li>
 </ul></div>
 

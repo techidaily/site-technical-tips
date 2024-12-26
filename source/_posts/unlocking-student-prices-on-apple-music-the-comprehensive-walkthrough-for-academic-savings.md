@@ -1,7 +1,7 @@
 ---
 title: Unlocking Student Prices on Apple Music – The Comprehensive Walkthrough for Academic Savings
-date: 2024-11-18T16:36:59.067Z
-updated: 2024-11-25T16:23:17.313Z
+date: 2024-12-20T01:34:06.307Z
+updated: 2024-12-25T17:36:18.560Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
@@ -41,7 +41,7 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -63,10 +63,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -83,6 +79,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -96,7 +96,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -135,6 +135,10 @@ When users make a Siri request that the voice assistant determines would be bett
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
 Apple
@@ -165,10 +169,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,24 +210,20 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ultimate-choices-in-high-definition-screen-capture/"><u>[New] 2024 Approved Ultimate Choices in High Definition Screen Capture</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-no-cost-sound-transformation-ultimate-10-youtube-tools/"><u>[New] No-Cost Sound Transformation Ultimate 10 YouTube Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-perfecting-your-srt-craft-a-compreran-guide-to-tips-and-tricks/"><u>[New] Perfecting Your SRT Craft A Compreran Guide to Tips & Tricks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fusing-melodies-to-visuals-in-virtual-space/"><u>[Updated] Fusing Melodies to Visuals in Virtual Space</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-lyrics-with-images-on-instagram/"><u>[Updated] Harmonizing Lyrics with Images on Instagram</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fast-easy-free-uncovering-the-best-10-image-converters/"><u>2024 Approved Fast, Easy, FREE Uncovering the Best 10 Image Converters</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-removing-background-music-and-sounds-from-new-avi-files/"><u>2024 Approved Removing Background Music and Sounds From New AVI Files</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/breaking-down-the-new-iphones-features-a-comprehensive-look/"><u>Breaking Down the New iPhone's Features - A Comprehensive Look</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-windows-movie-maker-for-efficient-video-projects-in-windows-8/"><u>In 2024, Navigating Windows Movie Maker for Efficient Video Projects in Windows 8</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-simplify-your-workflow-top-timecode-conversion-tools-for-video-pros/"><u>New 2024 Approved Simplify Your Workflow Top Timecode Conversion Tools for Video Pros</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-download-of-insignia-usbnetworking-drivers-for-windows-systems/"><u>Quick Download of Insignia USB/Networking Drivers for Windows Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/secure-your-email-account-a-tutorial-for-activating-google-mails-two-step-verification/"><u>Secure Your Email Account: A Tutorial for Activating Google Mail's Two-Step Verification</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/states-must-also-develop-emergency-response-plans-in-case-of-environmental-disasters-involving-hazardous-waste/"><u>States Must Also Develop Emergency Response Plans in Case of Environmental Disasters Involving Hazardous Waste.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-capturing-screen-shots-on-your-hp-notebook/"><u>Step-by-Step Guide: Capturing Screen Shots on Your HP Notebook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-saga-a-step-by-step-harry-potter-movie-marathon/"><u>The Complete Saga: A Step-by-Step Harry Potter Movie Marathon</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tech-bargains-during-amazons-biggest-sale-event/"><u>Top Tech Bargains During Amazon's Biggest Sale Event</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-connection-woes-are-service-disruptions-affecting-microsoft-teams-or-your-network/"><u>Troubleshooting Connection Woes: Are Service Disruptions Affecting Microsoft Teams or Your Network?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-comctl32dll-error-code-0xc0000142-fixes-and-solutions/"><u>Troubleshooting Guide: Resolving comctl32.dll Error Code 0Xc0000142 | Fixes & Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-when-you-encounter-nspr4dll-errors/"><u>Troubleshooting Tips for When You Encounter nspr4.dll Errors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-become-a-meme-wizard-with-these-9gag-strategies-for-2024/"><u>[Updated] Become a Meme Wizard with These 9GAG Strategies for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/amplifying-interactions-harmonizing-tunes-boomboxs-facebook-spotify-synergy/"><u>Amplifying Interactions, Harmonizing Tunes: Boombox's Facebook-Spotify Synergy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/anticipating-the-digital-threat-landscape-7-key-insights-and-beyond/"><u>Anticipating the Digital Threat Landscape: 7 Key Insights and Beyond</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722896222586-avoid-blue-light-on-tv-discover-these-8-solutions/"><u>Avoid Blue Light on TV - Discover These 8 Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/crucial-considerations-before-purchasing-a-step-counter-device-a-guide/"><u>Crucial Considerations Before Purchasing a Step Counter Device: A Guide</u></a></li>
+<li><a href="https://solve-info.techidaily.com/demystifying-graphics-cards-with-expertise-from-yl-computing-and-yl-software/"><u>Demystifying Graphics Cards with Expertise From YL Computing & YL Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-instagrams-world-everything-you-need-to-know/"><u>Exploring Instagram's World: Everything You Need to Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-ready-playstation-portable-launches-dates-costs-features-and-purchase-locations/"><u>Get Ready: PlayStation Portable Launches - Dates, Costs, Features & Purchase Locations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-does-bass-management-enhance-your-sound-experience/"><u>How Does Bass Management Enhance Your Sound Experience?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-itel-a05s-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Itel A05s to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/recovering-your-lost-connection-with-snapchat-a-detailed-reactivation-process/"><u>Recovering Your Lost Connection with Snapchat: A Detailed Reactivation Process</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-d3dx933dll-file-missing-issue-a-comprehensive-guide/"><u>Resolving the d3dx9_33.dll File Missing Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-repairing-msvcr80dll-file-is-missing-or-lost-issues/"><u>Solving the Mystery: Repairing 'Msvcr80.dll' File Is Missing or Lost Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
 </ul></div>
 

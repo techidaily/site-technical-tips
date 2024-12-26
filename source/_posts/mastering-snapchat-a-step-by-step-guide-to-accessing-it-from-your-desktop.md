@@ -1,7 +1,7 @@
 ---
 title: "Mastering Snapchat: A Step-by-Step Guide to Accessing It From Your Desktop"
-date: 2024-12-10T17:25:40.595Z
-updated: 2024-12-17T16:39:27.050Z
+date: 2024-12-21T03:00:42.325Z
+updated: 2024-12-26T09:21:34.999Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Snapchat: A Step-by-Step Guide to Accessing It From Your Desktop"
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Skype Is Not Working
 
  There could be a microphone problem or an issue with your audio settings, so you can't hear the other person, or they can't hear you. Or maybe you can't log in to Skype because you've forgotten your password. Still, another reason could be that your external speakers or microphone are no longer working, and you need to get new[hardware](https://www.lifewire.com/computer-hardware-2625895) . Maybe Skype won't connect because the service itself is having issues.
@@ -33,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
 
  If you're having issues[making HD video calls with Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) , there are a number of other factors that go into troubleshooting the reason.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Reset Your Password
 
  Reset your password if you can't log in to Skype. Visit[Microsoft's Recover Your Account](https://account.live.com/resetpassword.aspx) page to walk through resetting your Skype password, or use our[step-by-step guide for resetting your Microsoft Account password](https://www.lifewire.com/how-to-reset-your-microsoft-account-password-2624953) (it's the same account).
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
  Enter the email address you used when you first signed up, and then follow the directions there to learn how to get a new password and log back in to start making video and audio calls again.
 
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 2: Check to See if It's Skype's Problem
 
@@ -53,13 +49,13 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
 
 ![Skype Status Normal Service](https://www.lifewire.com/thmb/gelce_nk6NZFVOXIBopwnyukvrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-status-normal-service-002401f4bdd54451a46e388b733ee6d5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Something else you can do to troubleshoot the problem is to check[Skype's status on Down Detector](https://downdetector.com/status/skype/) to see if other users are reporting that it's down or having some other connection problem.
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 3: Check Your Network Connection
 
@@ -76,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using Skype on a Computer
@@ -84,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
  If you're using Skype on a computer, open it and tap the **Alt** key so that you can see the main menu. Then, go to **Tools** \>**Audio & Video Settings** .
 
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
 * If the microphone doesn't work with Skype, select the menu next to**Microphone** and see if there are any other options; you might have the wrong device selected.
@@ -117,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
 
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Skype for Computers
 
@@ -165,7 +161,7 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 9: Verify the Microphone Works
@@ -173,6 +169,10 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
 
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 10: Check the System Sound
 
@@ -213,22 +213,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unlock-the-potential-of-photography-with-adobe-motion-blur/"><u>[New] 2024 Approved Unlock the Potential of Photography with Adobe Motion Blur</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-game-screens-for-ps5-and-xbox-series-x-revealed/"><u>[New] Top Game Screens for PS5 and Xbox Series X Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solved-how-to-view-hidden-files-in-windows-11-windows-help/"><u>[Solved] How to View Hidden Files in Windows 11-Windows Help</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-complete-hp-laptop-screen-recording-manual/"><u>2024 Approved The Complete HP Laptop Screen Recording Manual</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-the-prime-choice-top-ps3-emulators-pc-users/"><u>2024 Approved The Prime Choice Top PS3 Emulators PC Users</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-7-plus-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 7 Plus to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavi-avi-vobavi/"><u>移動電影串流自行解碼：以 Movavi AVI 格式驅動無成本 VOB到AVI 改編</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/beyond-dxgkrnlsys-bluescreen-solutions/"><u>Beyond dxgkrnl.sys BlueScreen: Solutions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-8-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 8 Without Passcode Now</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-user-testimonials-ios-vs-android-youtube-watching-habits/"><u>In 2024, User Testimonials IOS vs Android YouTube Watching Habits</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/privacy-matters-mastering-anonymity-with-the-tor-browser-for-windows-10-users/"><u>Privacy Matters: Mastering Anonymity with the Tor Browser for Windows 10 Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-and-easy-how-to-installing-driver-updates-on-windows-versions-7-to-10/"><u>Quick and Easy How-To: Installing Driver Updates on Windows Versions 7 to 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-guide-how-to-update-your-usb-drivers-on-windows-11-7-8-and-81/"><u>Quick Guide: How to Update Your USB Drivers on Windows 11, 7, 8, and 8.1</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-guide-updating-directx-on-windows-11-and-windows-10-simple-steps/"><u>Quick Guide: Updating DirectX on Windows 11 and Windows 10 - Simple Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-compattelrunnerexes-excessive-memory-consumption-on-windows-11-and-7-systems/"><u>Resolving CompatTelRunner.exe's Excessive Memory Consumption on Windows 11 and 7 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revamp-your-web-experience-simple-steps-to-enhance-firefoxs-performance-quintuple-fold/"><u>Revamp Your Web Experience: Simple Steps to Enhance Firefox's Performance Quintuple-Fold</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamlessly-linking-your-beatwave-earbuds-with-windows-10-or-11-troubleshooting-tips-and-solutions/"><u>Seamlessly Linking Your BeatWave Earbuds with Windows 10 or 11 – Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/criptwriting-101-for-aspiring-youtube-producers-for-2024/"><u>[New] Scriptwriting 101 for Aspiring YouTube Producers for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-streamlining-your-zoom-collaboration-calendar/"><u>2024 Approved Streamlining Your Zoom Collaboration Calendar</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-g2-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo G2 to Roku | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-xs-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone XS Max without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-7-video-transcoding-tools-compatible-with-macos-in-depth-review-by-movavi/"><u>Best 7 Video Transcoding Tools Compatible with macOS: In-Depth Review by Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722897921592-discover-the-best-free-public-dns-providers-online-today/"><u>Discover the Best Free Public DNS Providers Online Today!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-guide-to-transforming-your-high-quality-flac-audio-tracks-into-free-mp3-versions/"><u>Easy Guide to Transforming Your High-Quality Flac Audio Tracks Into Free MP3 Versions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-canon-mx340-printer-drivers-compatible-with-windows-1187/"><u>Get the Latest Canon MX340 Printer Drivers Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/lose-the-lock-erasing-your-pin-for-enhanced-windows-11-privacy-controls/"><u>Lose the Lock: Erasing Your PIN for Enhanced Windows 11 Privacy Controls</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/scorching-deal-alert-unbeatable-msi-aegis-r2-with-rtx-4070-and-intel-i7-at-less-than-1600-upgrade-your-game-today/"><u>Scorching Deal Alert: Unbeatable MSI Aegis R2 with RTX 4070 & Intel I7 at Less Than $1,600 – Upgrade Your Game Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-x3daudiodll-error-comprehensive-guide-to-locate-and-reinstall/"><u>Solving the x3daudio.dll Error: Comprehensive Guide to Locate and Reinstall</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-monitoring-your-internet-data-consumption/"><u>Step-by-Step Guide: Monitoring Your Internet Data Consumption</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-oneplus-10-prodigy-teasers-on-specs-launch-timeline-and-market-value/"><u>Upcoming OnePlus 10 Prodigy: Teasers on Specs, Launch Timeline & Market Value</u></a></li>
 </ul></div>
 

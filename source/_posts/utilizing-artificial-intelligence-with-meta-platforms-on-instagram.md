@@ -1,7 +1,7 @@
 ---
 title: Utilizing Artificial Intelligence with Meta Platforms on Instagram
-date: 2024-08-30T13:39:45.274Z
-updated: 2024-08-31T13:39:45.274Z
+date: 2024-12-19T16:57:57.805Z
+updated: 2024-12-25T20:22:51.348Z
 categories:
   - BestProducts
 description: This Article Describes Utilizing Artificial Intelligence with Meta Platforms on Instagram
@@ -31,13 +31,15 @@ Close
 3. Type a request or message as you usually would when chatting with someone else on Instagram. You can also select any of the sample prompts that will appear within the chat the first time you use Meta AI.  
 ![Three images of the iPhone Instagram app with Messages icon, Meta AI icon, and chat prompts highlighted.](https://www.lifewire.com/thmb/D5XSw8gFwtOLQ1oEK3pCgj-w_hY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Meta-AI-Instagram-6e2b8dd603b54435a6cbb4afd341abcd.jpg)
 4. For more prompt examples, select the hamburger menu icon, which looks like three horizontal lines. This menu has a massive list of prewritten phrases that you can tap.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Like similar AI tools, you can ask Meta AI direct questions such as “**What can you do?** ” or “**How can I use you?** ” whenever you feel lost.
 5. To access Meta AI in a regular chat with other Instagram users, mention**@MetaAI** within the chat, followed by your prompt.  
 ![Two images of the iPhone Instagram app with hamburger menu icon highlighted.](https://www.lifewire.com/thmb/YixFcSE9LzQctuYAoht1hlXztdA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Hamburger-menu-Meta-AI-8314b037dd3f445bbfd5518a567511e8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Create Images With Meta AI in Instagram 
 
  Meta AI features built-in Emu functionality, which lets you create AI images and animations directly within Instagram messages for free. Here’s how to use Meta AI to make images in Instagram:  
@@ -48,25 +50,21 @@ Close
  You don’t use to use “**/imagine** ” when using the casual “**Create an image of…** ” request.  
 ![Three images of Meta AI messages in Instagram with the message texts highlighted in the first and third image and the AI image of a dragon drinking coffee highlighted in the second.](https://www.lifewire.com/thmb/qMuyx11pEToMmHhE4u_6VNfOjjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Meta-AI-prompts-0544b0d4dbbd4d6db7620ea71dca370d.jpg)
 3. To make changes to an image, tell Meta AI what adjustments you’d like to see in the chat. Here we’ll say, “**Change the time of day to night** ”.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  You don’t need to start from scratch when making changes to an image. Type your change requests immediately after the image in the chat, or long-press the image, select**Reply** , and type your request if the image isn’t the latest addition to the conversation.  
 ![Three images of the Instagram app with Meta AI creating images of a fairy drinking coffee.](https://www.lifewire.com/thmb/W9yURm3Y_ywOf4axKbqHmSydqkM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MetaAI-image-update-85fd20e1506f4fd48dfe7865d57e6234.jpg)
 4. You can also ask Meta AI to dramatically change the vibe of an image with some basic prompts. For example, we can use “**Make the fairy scary** ” to change the image from a cute fairy image to a more horrific one suitable for a Halloween event.
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Something very cool that Meta AI can do is turn your AI image into a 3D model to create a short animation. To do this to any image that you’ve created, long-press the image, tap**Reply** , and type “**animate** ”.  
  You can also save your AI image from this same long-press menu.  
 ![Meta AI in Instagram with "Make the fairy scary," Reply, and the "animate" option highlighted.](https://www.lifewire.com/thmb/dXUoRtrxGablsECA2Ql-bFojOiE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MetaAI-Instagram-reply-and-animate-e0cc6ad64b554985b6f1641c96607036.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Create Meta AI Instagram Stickers 
 
  One of Meta AI’s most lauded features is its ability to generate custom stickers. Unlike the rest of Meta AI’s functionality, which is located within Messages, the AI sticker creation tool is in the Instagram Stories menus.
@@ -81,15 +79,22 @@ AI stickers work in both photo and text Instagram Stories.
 3. Enter a brief description of the stickers you want to create. For this example, we’ll write “**rainbow fairy** ”.  
 ![Instagram Story screens with Stickers, AI Stickers, and text field highlighted.](https://www.lifewire.com/thmb/bbWQknjIY8gkxSdo5VxVrNTyURk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MetaAI-stickers-4487aa9f26c6421f84c8a8c8f5b2398c.jpg)
 4. Tap**Generate** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Scroll through the generated stickers and select the one you like.
 6. Drag and resize your new AI sticker on your Instagram Story as you would with any other sticker.  
 ![Meta AI stickers in Instagram Story composer with "rainbow fairy" and the sixth sticker highlighted.](https://www.lifewire.com/thmb/hFK5HQug2YCv455O8e2T2egx4bU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Meta-AI-sticker-options-c88d28f3583340d2b526c0f85df402fe.jpg)
 7. Repeat with as many AI stickers as you like, and then publish your Story when ready.  
- Created AI stickers aren’t saved, so you’ll need to create new ones each time you want to use them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Created AI stickers aren’t saved, so you’ll need to create new ones each time you want to use them.
+
 ##  What Can Instagram’s Meta AI Do? 
 
  Meta AI is similar to other AI chatbots in that you can ask it questions and use it to pull information from search engines and websites. Here are some examples of things you can ask Meta AI in Instagram.
@@ -125,8 +130,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +137,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-taking-your-photos-to-new-heights-mastering-ios-11s-features/"><u>[New] Taking Your Photos to New Heights Mastering iOS 11'S Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-evolution-of-music-production-software-with-magix-studio-max-2024/"><u>[New] The Evolution of Music Production Software with Magix Studio Max 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-essential-displays-for-picture-perfect-editing-choices/"><u>[Updated] In 2024, Essential Displays for Picture Perfect Editing [Choices]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-innovative-approaches-to-android-video-capture/"><u>[Updated] Innovative Approaches to Android Video Capture</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-ways-to-watch-facebook-live-on-tv/"><u>[Updated] Ways To Watch Facebook Live On TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-readability-personalizing-font-settings-on-windows-11/"><u>Enhancing Readability: Personalizing Font Settings on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-samsung-galaxy-a14-4g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Samsung Galaxy A14 4G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-understanding-the-functionality-of-m1-max-clips/"><u>In 2024, Understanding the Functionality of M1 Max Clips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-audio-world-key-considerations-before-investing-in-stereo-speakers/"><u>Navigating the Audio World: Key Considerations Before Investing in Stereo Speakers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-launch-errors-in-football-manager-2023-expert-tips/"><u>Overcome Launch Errors in Football Manager 2023 - Expert Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revamp-your-win-11-interface-download-the-15-most-amazing-free-themes-today/"><u>Revamp Your Win 11 Interface: Download the 15 Most Amazing Free Themes Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-playing-apple-tvplus-movies-and-series-on-chromecast-screen/"><u>Step-by-Step Tutorial: Playing Apple TV+ Movies & Series on Chromecast Screen</u></a></li>
+</ul></div>
 

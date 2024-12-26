@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Linux Expertise: Unveiling Sophisticated Concepts"
-date: 2024-08-30T13:33:24.951Z
-updated: 2024-08-31T13:33:24.951Z
+date: 2024-12-24T06:26:43.373Z
+updated: 2024-12-25T18:43:44.462Z
 tags:
   - desktop
 categories:
@@ -27,6 +27,10 @@ Close
 
  Now, [a **shell script**](https://win-dash.techidaily.com/step-by-step-guide-to-downloading-and-setting-up-sony-vaio-drivers-for-windows-computers/) is a file containing a series of commands. These commands are executed in sequence when you run the script from the terminal. This can be a powerful automation tool on Linux, allowing you to bundle complex tasks into a single command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2  X11, Wayland, and XWayland 
 
 **[X11](http://www.x.org/wiki/)** has been the default windowing system protocol for [Linux and Unix-like](https://facebook-video-files.techidaily.com/new-effortlessly-access-fb-beats-for-2024/) operating systems since it was introduced in the mid '80s. It uses a client-server model. The app windows you interact with are called "clients." The "server," aka the X server, processes input events from these clients, e.g., window movements, and then outputs how the client should respond. X11 is the windowing system protocol that carries the user input from the client to the X server and the output back to the clients.
@@ -40,17 +44,15 @@ Close
 echo $XDG_SESSION_TYPE
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3  Window Managers and Compositors 
 
  Have you ever moved an app window on Linux, only to find the borders of the window move while the inside remains empty and takes a few seconds to render? This happens when the window borders behave as expected, but the visuals inside the window take too long to render.
 
 ![Linux Window without Content](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linux-window-without-content.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You see, the window borders and the visuals inside the window can be controlled by two separate systems, especially in X11 systems. To control the placement and appearance of windows on your screen, you have [**window managers**](http://wiki.archlinux.org/title/window%5Fmanager). They allow you to move, resize, minimize, and maximize windows, as well as display window borders and title bars.
 
  On the other hand, we have **[compositors](http://dev.to/l04db4l4nc3r/compositors-in-linux-1hhb)**. They're responsible for rendering the content inside each window. A compistor combines the final rendered image from the application with graphical effects like transparency, shadows, and animations to create a single image that is displayed inside the windows.
@@ -64,8 +66,9 @@ echo $XDG_SESSION_TYPE
 * [**KWin**](https://en.wikipedia.org/wiki/KWin) (initially designed for X11): The default window manager for KDE Plasma.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4  Custom Linux Kernels 
 
  We often refer to Linux as an operating system, but it's actually the [name of the kernel](https://blue-screen-error.techidaily.com/fixing-acpisys-issues-tips-and-tricks-for-windows-11-users/) powering the operating system. A kernel is basically the core of the operating system that bridges the hardware and the software. The official Linux kernel is maintained by Linux Torvalds and the Linux community. However, in true Linux spirit, people have modified the official kernel to include performance optimizations, improved hardware support, or additional features.
@@ -75,8 +78,9 @@ echo $XDG_SESSION_TYPE
 ![Showcasing different Custom Linux kernls available to download on Garuda Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/showcasing-different-custom-linux-kernls-available-to-download-on-garuda-linux.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Here are a few of the most popular custom Linux kernels:
 
 * **Zen Kernel:** Adds scheduler improvements and memory management optimizations to enhance performance for gaming and multimedia applications. Designed for general desktop use, it offers a stable and reliable experience.
@@ -102,9 +106,6 @@ ps -p 1
 
  Knowing which init system you are using is crucial if you want to start (or stop) a particular service during system boot-up. For example, I ran into an issue where [UFW (Uncomplicated Firewall)](https://extra-support.techidaily.com/new-mastering-video-playback-rate-adjustments-in-snapchat/) would automatically get deactivated after rebooting. To solve this, I needed to use the init system to auto-start UFW during system boot. Since I was using SystemD I used the [**systemctl** command](https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-v29e-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/). But if I was using SysV, I would've needed the **service** command.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6  Filesystem Types 
 
  As you become more familiar with Linux, you'll find that it [supports a wide variety of filesystems](https://on-screen-recording.techidaily.com/new-in-2024-streamline-your-filming-process-the-ultimate-logitech-camera-tutorials/), unlike Windows, which primarily uses NTFS for its main filesystem and FAT or exFAT for external storage. Most Linux systems use ext4 by default, but there are other popular options.
@@ -120,10 +121,11 @@ ps -p 1
 
 ![Checking Different filesystem types used on Garuda Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/checking-different-filesystem-types-used-on-garuda-linux.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to [change filesystems](http://fedoramagazine.org/transform-file-systems-in-linux/) on an existing Linux system, you'll need to back up your data and then format the partition(s) to your desired filesystem type.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7  SELinux and AppArmor 
 
@@ -145,8 +147,6 @@ ps -p 1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +154,20 @@ ps -p 1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-comparison-apples-ios-app-store-vs-google-play/"><u>Comprehensive Comparison: Apple's IOS App Store Vs. Google Play</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/creative-video-ends-top-6-budget-friendly-options-in-2024/"><u>Creative Video Ends Top 6 Budget-Friendly Options, In 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/essential-mac-6-video-grabber-apps/"><u>Essential Mac 6 Video Grabber Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-change-or-remove-screen-time-lock-code-on-apple-products/"><u>How To Change or Remove Screen Time Lock Code on Apple Products</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-best-8-concealed-video-downloading-software-of-2023/"><u>In 2024, Best 8 Concealed Video Downloading Software of 2023</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-how-to-record-streaming-audio-online/"><u>In 2024, How to Record Streaming Audio Online</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-6s-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 6s</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-system-crashes-a-tutorial-on-kernel32dll-recovery/"><u>Overcoming System Crashes: A Tutorial on Kernel32.dll Recovery</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/recupera-tutto-il-contenuto-eliminato-3-fasi-per-restaurare-da-spambin/"><u>Recupera Tutto Il Contenuto Eliminato: 3 Fasi per Restaurare Da Spambin -</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-customizing-chromecast-display-settings/"><u>Step-by-Step Tutorial on Customizing Chromecast Display Settings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-top-5-key-discovery-solutions-of-the-year-2024/"><u>The Top 5 Key Discovery Solutions of the Year 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-reno-10-proplus-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo Reno 10 Pro+ 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/up-to-date-amd-radeon-r5-graphics-drivers-windows-11-10-8-and-7-edition/"><u>Up-to-Date AMD Radeon R5 Graphics Drivers: Windows 11, 10, 8 & 7 Edition</u></a></li>
+</ul></div>
 

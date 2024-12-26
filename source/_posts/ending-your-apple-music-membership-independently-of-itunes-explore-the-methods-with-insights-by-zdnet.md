@@ -1,7 +1,7 @@
 ---
 title: Ending Your Apple Music Membership Independently of iTunes? Explore the Methods with Insights by ZDNET
-date: 2024-10-30T00:28:11.372Z
-updated: 2024-11-05T23:23:24.855Z
+date: 2024-12-20T16:39:47.219Z
+updated: 2024-12-26T01:16:46.274Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ iTunes is dead. iTunes has been dead since 2019\. Alas, poor iTunes, we knew you
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 * [How to customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-customize-your-iphones-new-control-center-with-ios-18/)
@@ -36,10 +40,7 @@ But iTunes is dead. Actually, that's not entirely true. Its ghost lingers on. Ap
 Apple Music hasn't been tied to iTunes for account management since 2019\. Now, for those of us who have moved on from our iTunes days, we can cancel an Apple Music subscription either from the web or from iOS device Settings. Let's look at both. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your Web browser
@@ -59,10 +60,7 @@ David Gewirtz/Screenshot
 Once you're on the Manage screen, choose Cancel Subscription. That should do it for you. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your iPhone or iPad
@@ -123,16 +121,20 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-streaming-console-adventures-pc-setup-and-methods-for-2024/"><u>[New] Streaming Console Adventures PC Setup and Methods for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enablingdisabling-network-visibility-a-guide-for-windows-11-users/"><u>Enabling/Disabling Network Visibility: A Guide for Windows 11 Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-building-almost-any-type-of-filter-in-gmail/"><u>Expert Tips for Building Almost Any Type of Filter in Gmail</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/highest-rated-slow-mo-camera-applications-iphonesandroid/"><u>Highest Rated Slow Mo Camera Applications, iPhones/Android</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-xr-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone XR? Heres the Best Fixes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-lava-storm-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Lava Storm 5G Phone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-computer-needs-expert-advice-from-toms-hardware/"><u>Master Your Computer Needs: Expert Advice From Tom's Hardware</u></a></li>
-<li><a href="https://some-skills.techidaily.com/samsung-ue590-4k-freesync-gaming-monitor-review-for-2024/"><u>Samsung UE590 4K FreeSync Gaming Monitor Review for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sonos-enhances-user-experience-with-revamped-mobile-application-and-introduces-innovative-web-platform/"><u>Sonos Enhances User Experience with Revamped Mobile Application and Introduces Innovative Web Platform</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transform-your-living-room-into-a-theater-with-top-dolby-atmos-movies-to-enjoy/"><u>Transform Your Living Room Into a Theater with Top Dolby Atmos Movies to Enjoy</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unbeatable-deal-my-go-to-essential-app-for-new-macs-just-went-on-sale-dont-miss-out/"><u>Unbeatable Deal: My Go-To Essential App for New Macs Just Went on Sale - Don't Miss Out!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unlocking-powerful-storytelling-through-screencasts/"><u>[New] 2024 Approved Unlocking Powerful Storytelling Through Screencasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-high-performance-graphics-displayed-by-asus-proart/"><u>[New] High-Performance Graphics Displayed by ASUS ProArt</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-captivating-creativity-designing-a-distinctive-podcast-image/"><u>[Updated] Captivating Creativity Designing a Distinctive Podcast Image</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-creating-engaging-content-through-discord-streams/"><u>[Updated] Creating Engaging Content Through Discord Streams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/d3dx927dll-file-not-detected-follow-our-complete-solution/"><u>d3dx9_27.dll File Not Detected? Follow Our Complete Solution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-troubleshooting-how-to-perform-a-complete-system-reboot-on-all-ipads/"><u>Easy Troubleshooting: How To Perform a Complete System Reboot on All iPads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-tutorial-for-deleting-your-personal-access-code-in-windows-10/"><u>Easy Tutorial for Deleting Your Personal Access Code in Windows 10</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/elevate-computer-efficiency-with-a-clean-windows-registry-essential-techniques-by-yl-software-experts/"><u>Elevate Computer Efficiency with a Clean Windows Registry – Essential Techniques by YL Software Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-deep-does-it-go-exploring-the-multiple-levels-of-royal-match/"><u>How Deep Does It Go? Exploring the Multiple Levels of 'Royal Match'</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location On Facebook Dating for your Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-productivity-strategic-techniques-for-crafting-efficient-slack-reminder-systems/"><u>Mastering Productivity: Strategic Techniques for Crafting Efficient Slack Reminder Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11-issues-with-5ghz-wireless-networks/"><u>Navigating Windows 11 Issues with 5GHz Wireless Networks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/selecting-your-dream-mobile-coverage-tips-and-tricks/"><u>Selecting Your Dream Mobile Coverage: Tips and Tricks</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-transferring-your-data-full-laptop-backup-to-exfat-external-hdd-on-windows-11/"><u>Step-by-Step Guide: Transferring Your Data - Full Laptop Backup to ExFAT External HDD on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-properly-sanitizing-your-hdtv-screens-without-damage/"><u>Step-by-Step Tutorial on Properly Sanitizing Your HDTV Screens without Damage</u></a></li>
 </ul></div>
 

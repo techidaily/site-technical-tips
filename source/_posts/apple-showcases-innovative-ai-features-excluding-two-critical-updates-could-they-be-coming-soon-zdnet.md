@@ -1,7 +1,7 @@
 ---
 title: "Apple Showcases Innovative AI Features, Excluding Two Critical Updates: Could They Be Coming Soon? [ZDNet]"
-date: 2024-12-11T17:07:21.552Z
-updated: 2024-12-17T17:26:36.238Z
+date: 2024-12-23T19:46:46.567Z
+updated: 2024-12-25T20:03:11.915Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ All iPhone releases are momentous occasions, but this one is special because it 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -43,7 +43,7 @@ The updates don't stop there. Apple Intelligence enables so much more. They incl
 Apple Intelligence will not be available at launch. It'll roll out in October as a software upgrade in the United States and in English only. It'll be available in more countries like the United Kingdom later this December. And in 2025, it'll expand to other languages like Spanish.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Camera Upgrades
@@ -67,7 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Eye-catching colors
@@ -79,7 +79,7 @@ Every generation of iPhones brings with it new colors. For this release, Apple d
 The Pro models go for a more striking design. Desert Titanium adorns their brushed metal, making the iPhones look like they've been forged from bronze. If you prefer something a little more low-key, the Pro models are available in the equally impressive Black, White, and Natural Titanium too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Design changes bring other benefits
@@ -122,17 +122,20 @@ Apple even updated the iPhone 16's internal design, allowing the device to dissi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-free-thumbnail-extract-from-youtube-videos-today/"><u>[New] 2024 Approved Free Thumbnail Extract From YouTube Videos Today</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mp4-vob-movavi/"><u>網路直播 MP4 到 VOB 無成本轉換 - 使用 Movavi 轉檔軟件</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/beginners-ultimate-list-of-youtube-production-tools-for-2024/"><u>Beginner's Ultimate List of YouTube Production Tools for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-review-unveiling-the-capabilities-of-the-samsung-qn55q6f-a-leading-player-in-4k-hdr-smart-tvs/"><u>Expert Review: Unveiling the Capabilities of the Samsung QN55Q6F - A Leading Player in 4K HDR Smart TVs</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS with a Mask On</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210569220-9781398824393-profeten/"><u>Profeten | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-steps-to-display-your-fps-in-counter-strike-global-offensive/"><u>Simple Steps to Display Your FPS in Counter-Strike: Global Offensive</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-steps-to-screenshot-like-a-pro-on-your-acer-device/"><u>Simple Steps to Screenshot Like a Pro on Your Acer Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-steps-to-successfully-refresh-your-kodi-setup/"><u>Simple Steps to Successfully Refresh Your Kodi Setup</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-steps-turn-off-the-lock-screen-in-windows-10-without-hitches/"><u>Simple Steps: Turn Off the Lock Screen in Windows 10 Without Hitches</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simplified-steps-setting-up-alarm-clocks-on-your-windows-10-pc/"><u>Simplified Steps: Setting Up Alarm Clocks on Your Windows 10 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-displays-made-easy-solutions-to-settle-problems/"><u>Windows Displays Made Easy: Solutions to Settle Problems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-supreme-graphics-power-for-4k-gamers-only/"><u>[Updated] 2024 Approved Supreme Graphics Power For 4K Gamers Only</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-from-content-creator-to-cash-generator-your-facebook-journey/"><u>[Updated] From Content Creator to Cash Generator Your Facebook Journey</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-y56-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo Y56 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>All You Need To Know About Mega Greninja For Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amazon-prime-day-2024-the-ultimate-guide-with-all-the-essentials/"><u>Amazon Prime Day 2024: The Ultimate Guide with All the Essentials</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conquer-system-error-0xc0000185-with-this-ultimate-fixing-manual/"><u>Conquer System Error 0XC0000185 with This Ultimate Fixing Manual</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easily-update-your-canon-mg3420-printer-download-the-latest-windows-1087-drivers-today/"><u>Easily Update Your Canon MG3420 Printer: Download the Latest Windows 10/8/7 Drivers Today</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-poco-x5-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Poco X5</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimize-your-teams-productivity-a-guide-to-using-the-copilot-functionality-in-microsoft-teams/"><u>Optimize Your Team's Productivity: A Guide to Using the Copilot Functionality in Microsoft Teams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fix-how-to-clear-and-reboot-network-settings-on-your-mac/"><u>Quick Fix: How to Clear and Reboot Network Settings on Your Mac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/real-time-capture-from-obs-to-instagram/"><u>Real-Time Capture From OBS to Instagram</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rock-your-ears-8-amazing-free-music-apps-to-install-on-your-iphone-now/"><u>Rock Your Ears: 8 Amazing Free Music Apps to Install on Your iPhone Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-correcting-accidental-reposts-on-tiktok/"><u>Step-by-Step Guide: Correcting Accidental Reposts on TikTok</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-discord-downtime-identifying-if-youre-alone-in-facing-outages-or-if-its-a-widespread-problem/"><u>Understanding Discord Downtime: Identifying If You're Alone in Facing Outages or if It's a Widespread Problem.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-3-upcoming-ai-enhancements-for-copilot-equipped-desktops-why-your-macbook-is-falling-behind/"><u>Unveiling Top 3 Upcoming AI Enhancements for Copilot-Equipped Desktops: Why Your MacBook Is Falling Behind!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential: Maximize Your iPhone with IOS 16 Features - A Comprehensive Guide | ZDNet"
-date: 2024-12-12T16:47:35.384Z
-updated: 2024-12-17T16:31:36.818Z
+date: 2024-12-25T06:17:14.246Z
+updated: 2024-12-25T22:20:23.665Z
 tags:
   - apple
 categories:
@@ -102,6 +102,10 @@ Share: Are you prepared for the future of AI, automation, and jobs?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F "Twitter") 
@@ -115,7 +119,7 @@ Apple's latest software update to the Mac and iPad has enabled a feature that, n
 That means when you move your Mac's pointer beyond the edge of your screen, it will automatically switch to your iPad and allow you to use iPadOS without switching devices. To be clear, Universal Control isn't only designed to work between an iPad and a Mac. It'll actually work between multiple Macs as well. For the purpose of this guide, I'm going to stick to using it between and iPad and Mac to cover both devices. But you could easily do the same thing with two Macs by following the steps below. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -128,7 +132,7 @@ That means when you move your Mac's pointer beyond the edge of your screen, it w
 There are a couple of things you'll need to do before you can use Universal Control. I'll walk you through the initial setup, and then how to use it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Update your Mac and iPad
@@ -139,10 +143,6 @@ On a Mac, open **System Preferences**, then select **Software Update**.
 
 On your iPad, open the **Settings app** then go to **General** \> **Software Update** and follow the prompts. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to set up Universal Control on your iPad
 
 Screenshot by Jason Cipriani/ZDNet
@@ -150,10 +150,6 @@ Screenshot by Jason Cipriani/ZDNet
 There isn't a dedicated Universal Control setting or section in iPadOS. In fact, you won't find a setting titled "Universal Control" on the iPad at all. 
 
 In order to make sure your iPad is setup, open the **Settings app** then select **General** \> **AirPlay & Handoff**. Next, make sure the switch next to **Cursor and Keyboard** is turned _On_. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your Mac
 
@@ -178,7 +174,7 @@ Want to go back to your Mac? Drag the mouse pointer off the iPad's screen in the
 You can even drag and drop documents between your Mac or iPad, instead of waiting for iCloud Drive to sync or if, for example, you were drawing out an idea in the Notes app with the Apple Pencil on your iPad -- you can easily move that to your Mac once you're finished. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Arrange your displays, adjust settings
@@ -186,6 +182,10 @@ You can even drag and drop documents between your Mac or iPad, instead of waitin
 Screenshot by Jason Cipriani/ZDNet
 
 Your Mac will try its best to locate your iPad's location in relation to your main display, but it's not perfect. If you go back into System Preferences on your Mac, you can click-and-drag to rearrange the displays, putting your iPad's screen in the right spot, allowing you to seamlessly move your mouse between the two devices. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Troubleshooting Universal Control
 
@@ -239,21 +239,22 @@ Finally, if you're still not having any luck, it could be that your device isn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-elite-recording-equipment-headset-screen-preferred-for-2024/"><u>[New] Elite Recording Equipment Headset Screen Preferred for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-10-youtube-rippers-for-media-conversion/"><u>[New] Top 10 YouTube Rippers for Media Conversion</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/augmenting-creativity-with-the-best-ai-for-podcast-names-for-2024/"><u>Augmenting Creativity with the Best AI for Podcast Names for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-techniques-to-correct-msvbvm50dll-is-missing-on-your-pc/"><u>Essential Techniques to Correct 'Msvbvm50.dll' Is Missing on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-list-most-popular-samsung-smart-tv-apps-of-the-year-2024/"><u>Exclusive List: Most Popular Samsung Smart TV Apps of the Year 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-acer-device-ready-for-seamless-connectivity-fast-free-bluetooth-drivers/"><u>Get Your Acer Device Ready for Seamless Connectivity - Fast, Free Bluetooth Drivers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-ensure-proper-email-synchronization-in-gmail-when-connections-drop/"><u>How to Ensure Proper Email Synchronization in Gmail When Connections Drop</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-itel-p55-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Itel P55 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-fix-swift-solutions-for-your-magic-mouses-tracking-woes/"><u>Master the Fix: Swift Solutions for Your Magic Mouse's Tracking Woes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-your-system-with-snappydriver-v113-a-complete-review/"><u>Mastering Your System with SnappyDriver V1.13 - A Complete Review</u></a></li>
-<li><a href="https://blog-min.techidaily.com/schrumpfen-sie-ihre-videos-kostenlos-im-web-ein-sicherer-ansatz-zur-komprimierung/"><u>Schrumpfen Sie Ihre Videos Kostenlos Im Web – Ein Sicherer Ansatz Zur Komprimierung</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/taming-machine-minds-for-mutual-benefit/"><u>Taming Machine Minds for Mutual Benefit</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tapping-into-local-fm-frequencies-using-ios-and-android-phones/"><u>Tapping Into Local FM Frequencies Using iOS & Android Phones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-your-potential-with-our-picks-for-the-best-8-learner-friendly-apps-of-2024/"><u>Unlock Your Potential with Our Picks for the Best 8 Learner-Friendly Apps of 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/yl-software-insights-enhancing-your-pcs-speed-and-efficiency-through-advanced-setting-adjustments/"><u>YL Software Insights: Enhancing Your PC's Speed and Efficiency Through Advanced Setting Adjustments</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/nkl-hmola-shbkya-fy-windows-7-10-4-khtoat-sryaaa-oigraaaat-ghyr-mdaaoma-la-hnak-ay-mshroaa-aaalg/"><u>نقل حمولة شبكية في Windows 7 / 10 - 4 خطوات سريعة وإجراءات غير مدعومة ، لا هناك أي مشروع عالج</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-streamlining-tiktok-posts-for-facebook-exposure/"><u>[New] 2024 Approved Streamlining TikTok Posts for Facebook Exposure</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-enhancing-media-speed-on-messenger-and-fb/"><u>[New] Enhancing Media Speed on Messenger & FB</u></a></li>
+<li><a href="https://discover-help.techidaily.com/capture-high-quality-video-and-audio-with-winxvideo-ai-your-guide-to-screen-recording/"><u>Capture High-Quality Video & Audio with WinxVideo AI: Your Guide to Screen Recording</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-solution-to-the-xinput13dll-missing-mistake-on-windows-systems/"><u>Comprehensive Solution to the xinput1_3.dll Missing Mistake on Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cross-version-trick-easily-initiate-command-prompt-on-windows-systems/"><u>Cross-Version Trick: Easily Initiate Command Prompt on Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-your-macbooks-identification-a-step-by-step-guide/"><u>Discovering Your MacBook's Identification: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/do-these-7-key-elements-make-spotify-premium-a-valuable-investment/"><u>Do These 7 Key Elements Make Spotify Premium a Valuable Investment?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969385395-enhance-your-audio-experience-fast-and-easy-download-of-behringer-drivers/"><u>Enhance Your Audio Experience: Fast & Easy Download of Behringer Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-video-editing-applications-our-expert-picks-for-top-software-solutions/"><u>Essential Video Editing Applications: Our Expert Picks for Top Software Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-your-new-favorite-10-cost-free-tv-platforms-comparable-to-netflix/"><u>Find Your New Favorite: 10 Cost-Free TV Platforms Comparable To Netflix</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-postpresence-mastering-photo-and-video-sizing-on-instagram/"><u>In 2024, PostPresence Mastering Photo and Video Sizing on Instagram</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/playstation-portable-20xx-unboxed-pricing-info-technical-insights-release-date-and-where-to-get-yours/"><u>Playstation Portable 20XX Unboxed: Pricing Info, Technical Insights, Release Date & Where to Get Yours</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplify-painting-tasks-at-home-using-our-recommended-4-mobile-tools/"><u>Simplify Painting Tasks at Home Using Our Recommended 4 Mobile Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/sound-capture-module-for-iphone-24-year/"><u>Sound Capture Module for iPhone '24 Year</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/step-by-step-guide-viewing-swf-files-on-windows-11-without-flash-player/"><u>Step-by-Step Guide: Viewing SWF Files on Windows 11 Without Flash Player</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-technique-for-dropping-a-series-of-pins-on-google-maps/"><u>The Ultimate Technique for Dropping a Series of Pins on Google Maps</u></a></li>
 </ul></div>
 

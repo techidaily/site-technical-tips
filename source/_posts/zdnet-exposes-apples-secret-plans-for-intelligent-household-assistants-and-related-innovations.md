@@ -1,7 +1,7 @@
 ---
 title: ZDNet Exposes Apple's Secret Plans for Intelligent Household Assistants and Related Innovations
-date: 2024-11-23T16:24:32.730Z
-updated: 2024-11-25T16:09:41.121Z
+date: 2024-12-21T16:16:19.377Z
+updated: 2024-12-26T08:08:33.971Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,21 +120,22 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-chromebook-screenshot-hacks-in-four-steps/"><u>[New] 2024 Approved Chromebook Screenshot Hacks in Four Steps</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-access-tons-of-free-vocal-textures/"><u>[New] Access Tons of Free Vocal Textures</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-how-to-allocate-more-ram-to-minecraft-3-methods/"><u>[New] How to Allocate More Ram to Minecraft 3 Methods</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-make-screenshots-and-recordings-on-imac-simple/"><u>[Updated] Make Screenshots & Recordings on iMac Simple</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-mastering-audio-best-practices-for-ipodcasting-interviews-on-ios-devices-for-2024/"><u>[Updated] Mastering Audio Best Practices for iPodcasting Interviews on iOS Devices for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/audiences-on-the-rise-gauge-for-2024/"><u>Audiences on the Rise Gauge for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-it-when-yahoo-mail-is-not-receiving-emails/"><u>How to Fix It When Yahoo Mail Is Not Receiving Emails</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-reduce-or-eliminate-noise-from-a-malfunctioning-desktop-fan/"><u>How to Reduce or Eliminate Noise From a Malfunctioning Desktop Fan</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-audio-ambiance-assembler-selecting-background-scores/"><u>In 2024, Audio Ambiance Assembler Selecting Background Scores</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/install-or-upgrade-your-canoscan-lide-220-driver-with-ease/"><u>Install or Upgrade Your CanoScan LiDE 220 Driver with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-snapchat-emojis-the-definitive-guide-explained/"><u>Mastering Snapchat Emojis: The Definitive Guide Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/merging-your-fortnite-players-a-step-by-step-guide/"><u>Merging Your Fortnite Players: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-desktop-purchases-understanding-the-8-important-considerations-first/"><u>Navigating Desktop Purchases: Understanding the 8 Important Considerations First</u></a></li>
-<li><a href="https://techidaily.com/sign-jpg-online-add-signature-to-jpg-for-free-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>Sign JPG Online - Add Signature to JPG for Free</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2536439-9780008191498-the-ghost-whisperer/"><u>The Ghost Whisperer | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-recover-deleted-or-unseen-gmail-messages-efficiently/"><u>The Ultimate Guide to Recover Deleted or Unseen Gmail Messages Efficiently</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-youtube-short-content-techniques-unveiled/"><u>[Updated] 2024 Approved Essential YouTube Short Content Techniques Unveiled</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-disabling-igtv-on-instagram-for-2024/"><u>[Updated] Disabling IGTV on Instagram for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unraveling-the-value-of-stability-in-photoshop-shake-reduction/"><u>[Updated] Unraveling the Value of Stability in Photoshop Shake Reduction</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cant-use-your-blue-yeti-mic-here-are-remedies-that-work/"><u>Can't Use Your Blue Yeti Mic? Here Are Remedies That Work</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convert-mp4-videos-to-e-mail-sized-3gp-for-free-with-movavis-web-service/"><u>Convert MP4 Videos to E-Mail Sized 3GP for Free with Movavi's Web Service</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-wmv-wma-file-conversion-get-started-for-free-today/"><u>Effortless WMV-WMA File Conversion - Get Started for Free Today!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-converter-from-f4v-and-swf-formats-supported-by-movavi/"><u>Free Online Converter - From F4V & SWF Formats Supported by Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratis-convertidor-de-archivos-3gp-en-linea-movavi/"><u>Gratis Convertidor De Archivos 3GP en Línea - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highlighted-6-exceptional-tools-for-cleaning-up-images/"><u>In 2024, Highlighted 6 Exceptional Tools for Cleaning Up Images</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-assessment-the-mighty-performance-of-beatit-bt-d11-starter-kit/"><u>In-Depth Assessment: The Mighty Performance of Beatit BT-D11 Starter Kit</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-tutorial-completo-tecnicas-para-mejorar-la-estabilizacion-de-videos/"><u>Movavi Tutorial Completo: Técnicas Para Mejorar La Estabilización De Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726227854332-movaviwmampeg/"><u>Movavi的無限制網路編解碼器：從WMA到MPEG自由轉換</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-glitches-fixing-windows-press-microphones-that-arent-functioning-properly-on-your-pc/"><u>Resolving Audio Glitches: Fixing Windows Press Microphones that Aren't Functioning Properly on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-secrets-behind-knowing-if-an-email-has-been-viewed-on-gmail-expert-strategies-revealed/"><u>The Secrets Behind Knowing if an Email Has Been Viewed on Gmail: Expert Strategies Revealed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-hunt-and-harvest-game-plan-for-2024/"><u>The Ultimate Hunt and Harvest Game Plan for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformez-votre-audio-flac-en-video-mp4-gratuitement-en-ligne-via-movavi/"><u>Transformez Votre Audio FLAC en Vidéo MP4 Gratuitement en Ligne via Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/vrije-online-todavi-conversie-met-movavi-efficient-en-gemakkelijk-bewerkt/"><u>Vrije Online TOD/AVI Conversie Met Movavi - Efficiënt en Gemakkelijk Bewerkt</u></a></li>
 </ul></div>
 

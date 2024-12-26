@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Creating the Heart Icon with Keyboard Keys"
-date: 2024-10-29T20:05:03.904Z
-updated: 2024-11-05T23:18:36.064Z
+date: 2024-12-20T17:39:58.377Z
+updated: 2024-12-26T09:09:45.254Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Tutorial: Creating the Heart Icon with Keyboard Keys"
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Ways to Fix the Problem
 
@@ -44,10 +48,7 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why the Keyboard Quit Working
@@ -64,10 +65,7 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
@@ -108,21 +106,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-bespoke-urls-for-youtube-channels-an-easy-way/"><u>[New] 2024 Approved Bespoke URLs for YouTube Channels An Easy Way</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-insiders-look-at-facebook-video-proportions-and-settings/"><u>[Updated] The Insider's Look at Facebook Video Proportions and Settings</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/convertissez-facilement-votre-musique-flac-en-format-m4r-sans-frais-movavi/"><u>Convertissez Facilement Votre Musique FLAC en Format M4R Sans Frais - Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhanced-game-mastery-six-chatgpt-tools-for-unforgettable-play/"><u>Enhanced Game Mastery: Six ChatGPT Tools for Unforgettable Play</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/global-smartphone-sales-revealed-iphones-capture-the-first-7-slots-according-to-new-data-from-zdnet/"><u>Global Smartphone Sales Revealed: IPhones Capture the First 7 Slots, According to New Data From ZDNet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-mix-seamless-free-and-paid-blu-ray-playback-windows-macos/"><u>In 2024, Ultimate Mix Seamless Free & Paid Blu-Ray Playback (Windows, macOS)</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-devices-hit-by-critical-issues-apple-discontinues-new-ios-beta-update/"><u>IPhone Devices Hit by Critical Issues: Apple Discontinues New iOS Beta Update</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/july-2024s-prime-iphone-offers-and-savings-explore-the-latest-deals/"><u>July 2024'S Prime iPhone Offers & Savings – Explore the Latest Deals !</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionize-your-ios-experience-correct-techniques-for-holding-iphones-and-airpods-insider-tips-from-zdnet/"><u>Revolutionize Your iOS Experience: Correct Techniques for Holding iPhones & AirPods | Insider Tips From ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-chatgpt-on-your-windows-machine/"><u>Step-by-Step Guide: Setting Up ChatGPT on Your Windows Machine</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-secret-sauce-for-stellar-telegram-campaigns/"><u>The Secret Sauce for Stellar Telegram Campaigns</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-the-best-ms-biz-tools-on-iphone-and-ipad-featured-by-zdnet/"><u>The Ultimate Guide to the Best MS Biz Tools on iPhone & iPad - Featured by ZDNET</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210696140-9798885406383-the-waiting-room/"><u>THE WAITING ROOM | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-ranking-mini-computers-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Mini Computers : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-ranking-mini-tablets-professional-evaluations-and-comprehensive-reviews-zdnet/"><u>Top-Ranking Mini Tablets : Professional Evaluations & Comprehensive Reviews - ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-minimovie-magician/"><u>[Updated] MiniMovie Magician</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-real-time-media-streamers-app-overview/"><u>[Updated] Real-Time Media Streamer's App Overview</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-finding-documents-with-windows-11-taskbar-search-feature/"><u>Accelerate Finding Documents with Windows 11 Taskbar Search Feature</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/can-you-distinguish-real-dolby-atmos-acoustics-in-your-home-theater-system/"><u>Can You Distinguish Real Dolby Atmos Acoustics in Your Home Theater System?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/creating-captivating-podcast-summaries/"><u>Creating Captivating Podcast Summaries</u></a></li>
+<li><a href="https://extra-information.techidaily.com/easier-than-ever-accessing-ifunnys-memetic-delights/"><u>Easier Than Ever Accessing iFunny’s Memetic Delights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-methods-for-resolving-startup-failures-in-computer-post/"><u>Effective Methods for Resolving Startup Failures in Computer POST</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-haldll-errors-across-various-windows-platforms-from-windows-7-to-the-latest-version/"><u>How to Correctly Address hal.dll Errors Across Various Windows Platforms: From Windows 7 to the Latest Version</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-transfer-and-play-ps4-games-on-the-latest-sony-ps5-system/"><u>How to Transfer and Play PS4 Games on the Latest Sony PS5 System?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-6s-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 6s without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-picart-secrets-to-pristine-picture-perfection/"><u>In 2024, PicArt Secrets to Pristine Picture Perfection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-removing-your-pcs-windows-restore-partition/"><u>Step-by-Step Guide: Removing Your PC's Windows Restore Partition</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/stream-instagram-and-youtube-a-step-by-step-guide/"><u>Stream Instagram & YouTube A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-big-thing-in-apple-computers-macos-15-sequoia-release-timeline-and-feature-highlights-revealed/"><u>The Next Big Thing in Apple Computers – macOS 15 (Sequoia): Release Timeline and Feature Highlights Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-academic-savings-your-guide-to-the-tidal-student-discount/"><u>Unlocking Academic Savings: Your Guide to the Tidal Student Discount</u></a></li>
+<li><a href="https://techtrends.techidaily.com/virtucam-pro-advanced-video-broadcast-suite-including-multiple-camera-support/"><u>VirtuCam Pro: Advanced Video Broadcast Suite Including Multiple-Camera Support</u></a></li>
 </ul></div>
 

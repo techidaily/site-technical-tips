@@ -1,7 +1,7 @@
 ---
 title: "Patently Innovative: How the New Vision Pro Controller Mirrors Apple's Iconic Stylus, According to a Recent Filing | ZDNET"
-date: 2024-12-15T17:16:22.916Z
-updated: 2024-12-17T16:45:47.535Z
+date: 2024-12-19T06:12:29.210Z
+updated: 2024-12-26T07:13:00.761Z
 tags:
   - apple
 categories:
@@ -75,24 +75,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/graphics-adjusted-installed-driver-for-missing-amd-graphics/"><u>[GRAPHICS ADJUSTED] Installed Driver for Missing AMD Graphics</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-elite-no-price-facebook-visual-storytelling-suite/"><u>[New] Elite No-Price Facebook Visual Storytelling Suite</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-alternative-cinema-choices-for-every-fan/"><u>[New] In 2024, Alternative Cinema Choices for Every Fan</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solved-headphones-not-detecting-working-on-laptop-windows-11/"><u>[SOLVED] Headphones Not Detecting/ Working on Laptop Windows 11</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-a-critical-look-at-the-action-focused-polaroid-cubeplus-for-2024/"><u>[Updated] A Critical Look at the Action-Focused Polaroid Cube+ for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-editing-to-sharing-using-premiere-with-youtube/"><u>[Updated] In 2024, From Editing to Sharing Using Premiere with YouTube</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/escaping-boredom-with-a-chuckle-best-fb-incarceration-comical-stories/"><u>Escaping Boredom with a Chuckle Best FB Incarceration Comical Stories</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-start-directx-downloads-for-windows-11-and-10-user-friendly-guide-inside/"><u>Quick-Start DirectX Downloads for Windows 11 & 10 - User-Friendly Guide Inside!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reactivate-realtek-high-definition-sound-adapter-in-windows-11-with-easy-steps/"><u>Reactivate Realtek High Definition Sound Adapter in Windows 11 with Easy Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reviving-a-stalled-computer-expert-tips-to-fix-freezes-on-windows-11-machines/"><u>Reviving a Stalled Computer: Expert Tips to Fix Freezes on Windows 11 Machines</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-guide-switching-your-pcs-operating-system-language-in-windows-10/"><u>Simple Guide: Switching Your PC's Operating System Language in Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-issue-how-to-get-your-teams-webcam-functioning-again-on-windows-11-10-and-7/"><u>Solving the Issue: How to Get Your Team's Webcam Functioning Again on Windows 11, 10 & 7</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-skin-shields-of-2023-expert-reviews-and-buyers-guide/"><u>Top-Rated Apple Watch Skin Shields of 2023: Expert Reviews & Buyer's Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-deals-on-superior-asmr-microphone-technology/"><u>[New] Best Deals on Superior ASMR Microphone Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/android-phone-detective-strategies-to-locate-erased-contact-details-and-numbers/"><u>Android Phone Detective: Strategies to Locate Erased Contact Details and Numbers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciding-on-ps5-here-are-4-convincing-arguments-for-why-its-a-must-have-gaming-system/"><u>Deciding on PS5? Here Are 4 Convincing Arguments for Why It's a Must-Have Gaming System</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-this-years-most-captivating-yt-tales/"><u>Discovering This Year's Most Captivating YT Tales</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-what-to-do-if-your-macbook-air-wont-boot-up-due-to-freezing/"><u>Expert Advice: What To Do If Your MacBook Air Won’t Boot Up Due to Freezing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-uncover-the-hidden-spots-of-installing-pc-apps/"><u>How to Uncover the Hidden Spots of Installing PC Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-uninstall-built-in-iphone-apps-a-comprehensive-guide/"><u>How to Uninstall Built-In iPhone Apps: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-blade-blh4100-120s-rtf-indooroutdoor-rc-helicopter-evaluation/"><u>In-Depth Blade BLH4100 120S RTF Indoor/Outdoor RC Helicopter Evaluation</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mastering-youtubes-aesthetics-enhancing-your-videos/"><u>Mastering YouTube's Aesthetics Enhancing Your Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-clearstreams-eclipse-antenna-outstanding-performance-meets-simple-usability/"><u>Review of ClearStream's Eclipse Antenna: Outstanding Performance Meets Simple Usability</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-enjoy-high-quality-blu-ray-content-on-windows-via-vlc-media-player/"><u>Step-by-Step Tutorial: Enjoy High-Quality Blu-Ray Content on Windows via VLC Media Player</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-twitter-management-applications-and-programs/"><u>Top Rated Twitter Management Applications & Programs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turning-black-to-bright-expert-tips-for-troubleshooting-an-opaque-android-display/"><u>Turning Black to Bright: Expert Tips for Troubleshooting an Opaque Android Display</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-evolution-the-story-of-google-hangouts/"><u>Understanding the Evolution: The Story of Google Hangouts</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-stellar-repair-for-mysql-testimonial-by-sysadmin-augusto-destrero/"><u>Video - Stellar Repair for MySQL Testimonial by SysAdmin Augusto Destrero</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

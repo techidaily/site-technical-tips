@@ -1,7 +1,7 @@
 ---
 title: "Apple Event Coverage: Exploring Today's Tech Revelations From WWDC on AI Innovations, Siri Improvements & iOS 18 Updates"
-date: 2024-11-22T16:52:42.996Z
-updated: 2024-11-25T16:13:25.443Z
+date: 2024-12-23T22:14:47.778Z
+updated: 2024-12-25T16:53:41.540Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is expected at WWDC 2024?
@@ -53,7 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -73,7 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -87,7 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -128,22 +128,22 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-disable-youtube-preview-across-platforms/"><u>[New] 2024 Approved Disable Youtube Preview Across Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-ace-your-iphones-advanced-tactics-for-downloading-podcasts/"><u>[New] Ace Your iPhones Advanced Tactics for Downloading Podcasts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-9-windows-gif-capture-tools-perfect-animation-preservation-for-2024/"><u>[New] Top 9 Windows GIF Capture Tools Perfect Animation Preservation for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-the-central-node-of-youtube-video-management/"><u>[Updated] 2024 Approved Finding the Central Node of YouTube Video Management</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/accelerated-scanning-process-for-windows/"><u>Accelerated Scanning Process for Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-home-screen-makeover-for-chromecast-devices/"><u>DIY Home Screen Makeover for Chromecast Devices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-z-fold-5-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy Z Fold 5 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-ethically-locate-and-use-professional-contact-emails-in-your-network/"><u>How to Ethically Locate and Use Professional Contact Emails in Your Network</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-motorola-edgeplus-2023-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-samsung-galaxy-m14-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Samsung Galaxy M14 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mac-users-unite-learn-how-to-refresh-your-dns-records-effortlessly/"><u>Mac Users Unite! Learn How to Refresh Your DNS Records Effortlessly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-windows-telnet-client-a-comprehensive-guide/"><u>Mastering the Windows Telnet Client: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-best-free-and-paid-glitch-video-editors-for-windowsmac-onlinedesktop/"><u>New Best Free & Paid Glitch Video Editors for Windows/Mac Online/Desktop</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-directx-dll-issues-a-step-by-step-guide/"><u>Resolving DirectX DLL Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-the-missing-d3dx928dll-error/"><u>Step-by-Step Guide: Resolving The Missing d3dx9_28.dll Error</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-for-correcting-steam-game-installation-issues/"><u>Step-by-Step Solution for Correcting Steam Game Installation Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-perfecting-your-bose-soundlink-speaker-connection/"><u>Ultimate Guide: Perfecting Your Bose SoundLink Speaker Connection</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-recording-made-simple-for-mac-at-no-charge/"><u>[Updated] 2024 Approved Recording Made Simple for Mac - At No Charge</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-step-by-step-picart-background-cleanse-method/"><u>[Updated] Step-by-Step PicArt Background Cleanse Method</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-mp4mpeg-4-to-3gp-transformation-at-no-cost-with-movavis-tool/"><u>Effortless MP4/MPEG-4 to 3GP Transformation at No Cost with Movavi's Tool</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gadget-games-galore-quickest-quality-flash-titles/"><u>Gadget Games Galore Quickest Quality Flash Titles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratuita-herramienta-de-conversion-para-transformar-imagenes-dpx-en-gif-movavi/"><u>Gratuita Herramienta De Conversión Para Transformar Imágenes DPX en GIF - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-per-la-selezione-dei-migliori-convertitori-video-gratuiti-disponibili/"><u>Guide per La Selezione Dei Migliori Convertitori Video Gratuiti Disponibili</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-xiaomi-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Xiaomi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-x8b-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor X8b to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-smart-7-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Smart 7 Device</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-motorola-g54-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Motorola G54 5G FRP Bypass</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/kostenloze-avi-in-webm-omzetten-online-gratis-converter-met-movavi/"><u>Kostenloze AVI-in-WEBM Omzetten Online - Gratis Converter Met Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/professional-video-and-screencast-creation-with-movavi-software-business-solutions-for-top-level-multimedia-edits/"><u>Professional Video and Screencast Creation with Movavi Software – Business Solutions for Top-Level Multimedia Edits</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/quick-reference-guide-to-screencastifys-tools/"><u>Quick Reference Guide to Screencastify's Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/topo-das-melhores-cinefilos-online-gratis-substitutas-para-o-windows/"><u>Topo Das Melhores Cinéfilos Online Grátis - Substitutas Para O Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-resolving-non-functional-usb-mouse-and-keyboard-on-windows-7/"><u>Troubleshooting: Resolving Non-Functional USB Mouse & Keyboard on Windows 7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/webm-to-avi-made-simple-download-our-free-online-tool/"><u>WebM to AVI Made Simple - Download Our FREE Online Tool</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mpe-mp3-moveave/"><u>오피스 상대 공간의 MPE 파일을 원형 MP3로 자유성 이전화 - Moveave</u></a></li>
 </ul></div>
 

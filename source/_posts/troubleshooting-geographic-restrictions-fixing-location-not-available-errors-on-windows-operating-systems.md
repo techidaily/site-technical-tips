@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Geographic Restrictions: Fixing Location Not Available Errors on Windows Operating Systems"
-date: 2024-08-30T13:33:50.545Z
-updated: 2024-08-31T13:33:50.545Z
+date: 2024-12-20T07:13:05.034Z
+updated: 2024-12-26T00:10:08.744Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
  Trying to access a folder but keep getting a “Location is not available” error? Your folder may have been moved or deleted, or there’s another issue preventing you from opening your folder. We’ll show you a variety of ways to get around this problem on your Windows 11 or Windows 10 PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Folder Might Have Been Deleted or Moved
 
  It’s possible the folder you’re trying to access has been deleted or moved. In this case, you can’t access it, and Windows will display an error message.
@@ -27,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
  You should also [check the Recycle Bin to if it is there](https://some-skills.techidaily.com/2024-approved-unlock-iphone-editing-magic-shorter-smaller-videos/). 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Check the External Drive's Connection
 
  If your folder is on an external drive, ensure the drive is correctly connected to your PC. Windows won't be able to read data from an incorrectly or loosely connected drive, and it like [won't show up at all](https://instagram-videos.techidaily.com/updated-2024-approved-captivating-cycles-on-ig-perfecting-the-boomerang-effect/). Make sure to try the USB ports on the back of your desktop PC, rather than the ports on the front of the case or on a USB hub.
@@ -44,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
  If the folder is on a [Network-Attached Storage (NAS)](https://fox-access.techidaily.com/new-in-2024-unleashing-potential-in-4k-with-top-gimbals-selection/) drive or a similar device, disconnect and re-connect that device to the network. This helps fix minor network issues with the device. You could try accessing that device from another machine to see if it works. If it's another kind of storage device, check out the manual for that device to see how to troubleshoot connectivity issues with it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Restart Windows Explorer
 
  Sometimes, Windows Explorer acts up and doesn’t let you perform your file-related tasks. In this case, [restarting Windows Explorer](https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/) will typically fix minor issues.
@@ -56,17 +61,14 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
 !['Restart' highlighted for Windows Explorer in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-restart-windows-explorer.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Windows Explorer will close and relaunch. If it faces issues re-opening, force-launch it. To do that in Windows 11's Task Manager, click "Run New Task." In Windows 10's Task Manager, select File > Run New Task. Then, type **explorer.exe** in the open field and press Enter.
 
 !['Run New Task' highlighted in Windows 11's Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-run-new-task-task-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Check if the Drive’s Letter Has Changed
 
  If you're trying to access a folder via a shortcut, and the drive where the actual folder exists has its [drive letter changed](https://fox-http.techidaily.com/updated-2024-approved-professional-editors-guide-fcps-top-10-plugins/), you’ll experience issues accessing the folder.
@@ -90,8 +92,9 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
  Wait while the antivirus finds and removes threats from your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use System Restore
 
  If you’re trying to access a system folder, it’s possible a change you made to your system has moved that item. In this case, [use System Restore](https://article-posts.techidaily.com/in-2024-proven-methods-to-infuse-engaging-dialogue-in-videos/) to roll back your system changes.
@@ -105,15 +108,13 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 ![A restore point and 'Next' highlighted in System Restore.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-choose-restore-point.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select "Finish" to start restoring your PC.
 
 !['Finish' highlighted in System Restore.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-start-restoring-pc.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  After restoring the PC, you should have access to your folder. 
 
  If you still can't locate your folder, it may have been permanently deleted. You could try [running recovery software](https://screen-sharing-recording.techidaily.com/updated-snap-and-save-the-ultimate-list-of-top-8-free-android-recorders-for-2024/) to get it back, but that is unlikely to work on modern SSDs. The best way to prevent data loss is to [make regular backups of your important files and folders](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/).
@@ -124,8 +125,6 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +132,26 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ustomizable-mcb-visuals-for-youtube-banners-for-2024/"><u>[New] Customizable MCB Visuals for YouTube Banners for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-to-crafting-impressive-instagram-loops-for-2024/"><u>[New] Step-by-Step Guide to Crafting Impressive Instagram Loops for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-digital-music-management-win-media-and-cds/"><u>2024 Approved Pioneering Digital Music Management Win, Media and Cds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-brightness-on-android-devices-for-2024/"><u>Boosting Brightness on Android Devices for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-buzz-around-the-upcoming-tesla-phone-what-we-know-about-its-price-tag-debut-timeline-and-gadget-features/"><u>Decoding the Buzz Around the Upcoming Tesla Phone - What We Know About Its Price Tag, Debut Timeline, and Gadget Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/detailed-tips-to-correct-not-detected-msvbvm50dll-message/"><u>Detailed Tips to Correct 'Not Detected' msvbvm50.dll Message</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-window-management-how-to-enable-split-screen-views-on-a-macbook-air/"><u>Effortless Window Management: How to Enable Split Screen Views on a MacBook Air</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminating-game-crashes-in-rainbow-six-extraction-on-your-computer-with-simple-fixes/"><u>Eliminating Game Crashes in Rainbow Six Extraction on Your Computer with Simple Fixes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-6s-plus-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-learn-quickly-flipping-video-sequence-android-style/"><u>In 2024, Learn Quickly Flipping Video Sequence Android-Style</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-unfolded-a-complete-history-and-evolution-from-the-first-version-10-to-18th-edition/"><u>IOS Unfolded: A Complete History and Evolution From the First Version (1.0) to 18Th Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-virality-essential-techniques-for-dominating-tiktok/"><u>Mastering Virality: Essential Techniques for Dominating TikTok</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-gsvcr75dll-not-detected-troubleshoot-steps-and-solutions/"><u>Resolving gsvcr75.dll Not Detected - Troubleshoot Steps and Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-linking-your-samsung-wireless-headphones-with-your-pc/"><u>Step-by-Step Guide: Linking Your Samsung Wireless Headphones with Your PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategic-vr-marketing-manifesto/"><u>Strategic VR Marketing Manifesto</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-ultimate-guide-to-superior-free-lut-options/"><u>The Ultimate Guide to Superior, Free LUT Options</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-hidden-or-missing-wi-fi-networks/"><u>Troubleshooting Tips for Hidden or Missing Wi-Fi Networks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-and-testing-the-2013-creative-sound-blaster-zxr-a-leading-audio-experience-reviewed/"><u>Unboxing & Testing the 2013 Creative Sound Blaster ZxR - A Leading Audio Experience Reviewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleash-your-meta-quests-full-potential-with-its-built-in-mic/"><u>Unleash Your Meta Quest's Full Potential With Its Built-In Mic</u></a></li>
+</ul></div>
 

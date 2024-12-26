@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Insights From ZDNet"
-date: 2024-12-16T16:04:02.319Z
-updated: 2024-12-17T16:39:55.315Z
+date: 2024-12-24T01:06:05.534Z
+updated: 2024-12-26T05:22:59.512Z
 tags:
   - apple
 categories:
@@ -28,14 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -45,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -62,15 +58,15 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -81,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -89,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,18 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-7-to-your-windows-pc-drfone-by-drfone-ios/"><u>6 Methods to Mirror Apple iPhone 7 to your Windows PC | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/breaking-down-the-differences-between-advanced-neo-qled-and-oled-displays/"><u>Breaking Down the Differences Between Advanced Neo QLED & OLED Displays</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/computer-performance-essentials-understanding-necessary-speed-requirements/"><u>Computer Performance Essentials: Understanding Necessary Speed Requirements</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/delving-into-what-sets-macs-apart-from-pcs-insights-revealed/"><u>Delving Into What Sets Macs Apart From PCs - Insights Revealed</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nokia-xr21-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nokia XR21 Through Google Earth?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavis-free-web-service-convert-your-3gp-files-to-swf-format-instantly/"><u>Movavi's Free Web Service: Convert Your 3GP Files to Swf Format Instantly</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/quality-and-cost-savings-unite-in-best-asmr-mics-for-2024/"><u>Quality and Cost Savings Unite in Best ASMR Mics for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-when-your-samsung-soundbar-wont-turn-on/"><u>Quick Fixes for When Your Samsung Soundbar Won’t Turn On</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-playful-pause-balancing-screen-time-and-life/"><u>The Playful Pause: Balancing Screen Time and Life</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/timed-success-organizing-video-conferences-via-slackplusfilmora-for-2024/"><u>Timed Success Organizing Video Conferences via Slack+Filmora for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-to-correct-missing-advapi3j2-errors-on-your-pc/"><u>Troubleshooting Steps to Correct Missing Advapi3j2 Errors on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-techniques-revealing-someones-position-through-their-iphone/"><u>Unveiling Techniques: Revealing Someone’s Position Through Their iPhone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-bandicam-vs-camtasia-which-one-is-better/"><u>[New] 2024 Approved Bandicam vs Camtasia, Which One Is Better?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-frame-rate-impact-on-video-quality-30vs60-in-detail/"><u>[Updated] In 2024, Frame Rate Impact on Video Quality 30Vs.60 In Detail</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-streamline-music-craft-with-our-high-quality-beat-detection-software-for-2024/"><u>[Updated] Streamline Music Craft with Our High-Quality Beat Detection Software for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-practices-to-speed-up-or-slow-down-music-in-spotify/"><u>2024 Approved Best Practices to Speed Up or Slow Down Music in Spotify</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bring-tiktok-content-to-life-on-your-hdtv-the-ultimate-how-to/"><u>Bring TikTok Content To Life On Your HDTV – The Ultimate How-To</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhanced-device-usability-improved-hit-screen-functionality/"><u>Enhanced Device Usability - Improved HIT Screen Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-software-installation-windows-11s-toolkit/"><u>Enhancing Software Installation: Windows 11’S Toolkit</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-hacks-unlock-these-18-features-in-apples-shortcuts-app/"><u>Expert Hacks: Unlock These 18 Features in Apple's Shortcuts App</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-employers-might-react-to-chatgpt-use-and-potential-consequences/"><u>How Employers Might React to ChatGPT Use and Potential Consequences</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-from-followers-to-earnings-instagrams-complete-guide/"><u>In 2024, From Followers to Earnings Instagram's Complete Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-disconnectivity-solutions-to-fix-fall-guys-problems-on-windows/"><u>Mastering Disconnectivity: Solutions to Fix Fall Guys Problems on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resetting-made-easy-a-step-by-step-tutorial-for-samsung-tv-owners/"><u>Resetting Made Easy: A Step-by-Step Tutorial for Samsung TV Owners</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-strategies-to-capture-stunning-pics-with-iphone-and-ipad/"><u>Step-by-Step Strategies to Capture Stunning Pics with iPhone & iPad</u></a></li>
 </ul></div>
 

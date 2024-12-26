@@ -1,7 +1,7 @@
 ---
 title: Top 8 Solutions When Window 11 Keyboard Commands Fail
-date: 2024-08-30T13:33:49.323Z
-updated: 2024-08-31T13:33:49.323Z
+date: 2024-12-22T02:04:07.685Z
+updated: 2024-12-26T07:55:10.219Z
 tags:
   - desktop
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Keyboard shortcuts are time savers. They help you open menus and perform actions by pressing a few buttons instead of clicking on several on-screen elements. That's why your productivity can take a hit when the shortcuts stop working on Windows 11.
 
  We're going to show eight ways to fix that problem and get those time-saving and productivity-boosting shortcuts working again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Preliminary Fixes to Get Keyboard Shortcuts Working Again
 
@@ -40,28 +44,8 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The 'Turn off Windows Key hotkeys' group policy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/keyboard-checker.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  If they don't turn green, it could mean the keys have a problem. We recommend getting a replacement or contacting a computer hardware professional to repair your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ##  3\. Reset Your Keyboard's Layout
 
  If your keyboard's layout becomes messed up, some shortcuts may not work since the key assignments have changed. Resetting the keyboard layout back to its default setting can fix it.
@@ -82,13 +66,14 @@ Key features:
 
  On the next screen, click "Install." After the new language is installed, it will appear below the default one. Now do the steps to reset the keyboard layout and, hopefully, the shortcuts will start working again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. Test the Keyboard Shortcut in Safe Mode
 
  Safe Mode boots Windows with a limited set of drivers, allowing you to troubleshoot a host of issues. So, [start Windows in Safe Mode](https://buynow-marvelous.techidaily.com/unveiling-the-strong-battery-feature-in-moto-g-power-a-tech-review-insight/) and test the shortcuts in that environment. If they work, then a third-party program or service is probably interfering with the shortcuts — one you need to uninstall or disable.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ##  5\. Rule Out Third-Party App Conflicts
 
  Once you determine in Safe Mode that you need to look into third-party programs, try uninstalling the ones you installed recently. If that doesn't get the shortcuts working again, a clean boot can help. In this state, Windows will function with only the necessary programs and services.
@@ -99,16 +84,14 @@ Key features:
 
 ![The process of disabling all non-Microsoft Services on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/disabling-all-non-microsoft-services-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, you'll have to [disable all the startup apps](https://tech-recovery.techidaily.com/get-clarity-back-in-photos-how-to-repair-iphone-camera-focusing-problems/) to ensure no app runs automatically when your computer boots up.
 
  With all the third-party apps and services disabled, restart your Windows computer. Once it boots up again, check if the shortcuts are working. If they are, launch the startup apps and enable the services one by one to find out which one is the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  6\. Enable Windows Key Shortcuts in the Group Policy Editor
 
  Are the only broken shortcuts those that involve the Windows key, for example, when you press Win+i or Win+R? If that's the case, it could mean the ability to use it in shortcuts is disabled. You can re-enable it in the Local Group Policy Editor.
@@ -122,17 +105,9 @@ Key features:
 ![The 'Turn off Windows Key hotkeys' group policy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-turn-off-windows-key-hotkeys-group-policy-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click the "Not Configured" radio button and then click "OK" to apply and save the change.
 
 ![Setting the 'Turn off Windows Key hotkeys' group policy to 'Not configured'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/not-configuring-windows-hotkeys-group-policy.jpeg) 
@@ -140,13 +115,18 @@ Key features:
  Test the Windows key shortcuts to see if they're now working.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  7\. Test the Keyboard Shortcut in Another User Profile
 
  Sometimes, it could be that your user profile has become corrupted, and that is why you can't use the shortcuts. If you have another profile on your computer, switch to that one and test the shortcuts there. If you don't have a spare user profile for testing, you can [create a guest account](https://some-guidance.techidaily.com/new-pun-picture-studio-chucklecrafts/) instead.
 
  If the shortcuts work in the other account, consider creating another account and transferring all your data there. Then, you can delete the corrupted one from your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Reinstall or Reset Windows
 
@@ -164,8 +144,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +151,18 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dodge-digital-duplicates-to-increase-youtube-exposure/"><u>[New] In 2024, Dodge Digital Duplicates to Increase YouTube Exposure</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-high-ranking-top-5-quick-screen-recorders/"><u>[New] In 2024, High Ranking - Top 5 Quick Screen Recorders</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1728502780101-onedrive/"><u>「本地文件夹和云端的完美对口: OneDrive上传两种途径指南」</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-safe-guide-to-speeding-up-audio-on-spotify/"><u>2024 Approved A Safe Guide to Speeding Up Audio on Spotify</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/can-adobe-shake-control-enhance-creative-process-in-photoshop-for-2024/"><u>Can Adobe Shake Control Enhance Creative Process in Photoshop for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/insider-info-on-samsung-galaxy-z-flip3-anticipated-cost-launch-timeline-and-detailed-features-top-rumors/"><u>Insider Info on Samsung Galaxy Z Flip3: Anticipated Cost, Launch Timeline & Detailed Features - Top Rumors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/problematic-audio-path-corrected-ensuring-headphones-not-speakers-deliver-desired-sounds/"><u>Problematic Audio Path Corrected: Ensuring Headphones, Not Speakers, Deliver Desired Sounds</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-reattaching-keys-to-your-laptop-keyboard/"><u>Step-by-Step Guide: Reattaching Keys to Your Laptop Keyboard</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-keep-your-most-important-conversations-top-on-instagram-with-tips-for-pinning-messages/"><u>The Ultimate How-To: Keep Your Most Important Conversations Top on Instagram with Tips for Pinning Messages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-techniques-for-correcting-stripes-on-samsung-displays/"><u>Troubleshooting Techniques for Correcting Stripes on Samsung Displays</u></a></li>
+</ul></div>
 

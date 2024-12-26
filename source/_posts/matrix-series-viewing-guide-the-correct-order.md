@@ -1,7 +1,7 @@
 ---
 title: "Matrix Series Viewing Guide: The Correct Order"
-date: 2024-12-16T16:09:36.635Z
-updated: 2024-12-17T16:18:59.935Z
+date: 2024-12-23T02:22:15.502Z
+updated: 2024-12-26T06:37:32.541Z
 categories:
   - BestProducts
 description: "This Article Describes Matrix Series Viewing Guide: The Correct Order"
@@ -51,6 +51,10 @@ HBO Max
 
 of 22
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Peacemaker (2022): Crudest Super Hero Comedy for Adults Only](https://www.imdb.com/title/tt13146488/)
 
 ![John Cena and the cast of Peacemaker](https://www.lifewire.com/thmb/WawTg17WU10gnNEXdELT4ABZS70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-right-now-january-2022-5091949-dca36e5778e44453b9de64879c9a4d12.jpg)
@@ -78,10 +82,6 @@ HBO Max
 03
 
 of 22
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## [Other Parents (2019): Best French Sitcom About Parenthood](https://www.imdb.com/title/tt10095376/)
 
@@ -139,12 +139,16 @@ _Hacks_ debuted to unanimous praise from critics for its strong performances and
 
 of 22
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [The White Lotus (2021): Hottest Comedy Anthology Series](https://www.imdb.com/title/tt13406094/)
 
 ![The cast of The White Lotus](https://www.lifewire.com/thmb/L1br0NsmfuWAlx1QsQWfr53OXto=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-right-now-october-2021-5091949-be8e1522068948eea8bca20eccf3eab0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 HBO Max
@@ -227,13 +231,13 @@ HBO Max
 
 of 22
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## [Sort Of (2021): Kookiest Canadian Comedy Mini-Series](https://www.imdb.com/title/tt15221950/)
 
 ![The cast of Sort Of](https://www.lifewire.com/thmb/ieKubFkDaFgb2_Yv5JvFTyZ0fRE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-right-now-december-2021-5091949-e370416a67a54866b9fdd3c681a994cc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 HBO Max
 
@@ -292,7 +296,7 @@ of 22
 ![A little girl smiles in Through Our Eyes](https://www.lifewire.com/thmb/edp4AJ5SRc0CTGbIA5zvCCgDhzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-shows-on-hbo-max-right-now-october-2021-5091949-829422574cc4474c9ad45e4467f7de94.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 HBO Max
@@ -318,10 +322,6 @@ _Through Our Eyes_ is a limited series from Sesame Workshop, the same group that
 11
 
 of 22
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## [Insecure (2016): Best HBO Original Sitcom Starring Issa Rae](https://www.imdb.com/title/tt5024912/)
 
@@ -354,6 +354,10 @@ of 22
 ## [Nancy Drew (2019): Best Young Adult Book Adaptation](https://www.imdb.com/title/tt10313176/)
 
 ![The cast of Nancy Drew 2019](https://www.lifewire.com/thmb/XlxkitFaRY7u0LZUVgPrLCDMzXM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-5091949-b5f9d834623441a89bfb93e92e9226e4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 HBO Max
 
@@ -407,6 +411,10 @@ _Titans_ manages to offer a fresh take on a classic franchise. All the stars of_
 
 of 22
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [The Other Two (2019): Funniest Family Drama About Show Biz](https://www.imdb.com/title/tt8310612/)
 
 ![The Other Two](https://www.lifewire.com/thmb/iQjhGMokV-jX7qaBpPCwim7CjUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-5091949-c04cd144d64f4d9a9251cfa713630bfa.jpg)
@@ -434,10 +442,6 @@ _The Other Two_ is a hilarious critique of celebrity culture and our social medi
 15
 
 of 22
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## [Stath Lets Flats (2018): Funniest NSFW Family Comedy](https://www.imdb.com/title/tt7524382/)
 
@@ -467,13 +471,13 @@ _Stath Lets Flats_ stars show creator Jamie Demetriou and his real-life sister. 
 
 of 22
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## [Betty (2020): Most Empowering Sports Sitcom for Teens](https://www.imdb.com/title/tt10814438/)
 
 ![The cast of Betty (2020)](https://www.lifewire.com/thmb/u48nyOXvnyRWncpt7LU2idv2w40=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-shows-on-hbo-max-5091949-8c2e1765f957438b88299225fd0a9c51.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 HBO Max
 
@@ -498,10 +502,6 @@ _Betty_ is inspired by the movie_Skate Kitchen_ directed by Crystal Moselle, who
 17
 
 of 22
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## [Curb Your Enthusiasm (2000): Longest Running Show About Nothing](https://www.imdb.com/title/tt0264235/)
 
@@ -529,17 +529,9 @@ _Curb Your Enthusiasm_ has received dozens of Primetime Emmy nominations and a G
 
 of 22
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## [A Black Lady Sketch Show (2019): Funniest Sketchy Comedy With an All-Female Cast](https://www.imdb.com/title/tt9698520/)
 
 ![The cast of A Black Lady Sketch Show](https://www.lifewire.com/thmb/DEz0uzYiTKKhOV1z6LoP9njg60w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-5091949-b7729a5828054061b385b49cc17b98f8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 HBO Max
 
@@ -651,9 +643,17 @@ _Harry Potter: Hogwarts Tournament of Houses_ is a game show that aired on the C
 
 of 22
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Lovecraft Country (2020): Most Horrific Show About American History](https://www.imdb.com/title/tt6905686/)
 
 ![Jonathan Majors and Jurnee Smollett in Lovecraft Country](https://www.lifewire.com/thmb/QW04a-I33_ToevQVIFFcCoWDI-8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/014-5fd61e71b1b041bb93c5e58661ae5d86.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 HBO
 
@@ -704,18 +704,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-futuristic-vr-tech-for-remote-pilots/"><u>[New] 2024 Approved Futuristic VR Tech for Remote Pilots</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-techniques-to-lower-audio-levels-in-os-xwindows/"><u>[New] Techniques to Lower Audio Levels in OS X/Windows</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-best-video-apps-review-youtube-iphones-and-androids-for-2024/"><u>[Updated] Best Video Apps Review YouTube iPhones & Androids for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-360-degree-and-virtual-reality-cinematography/"><u>2024 Approved Understanding 360-Degree and Virtual Reality Cinematography</u></a></li>
-<li><a href="https://extra-information.techidaily.com/combining-images-seamlessly-pc-edition/"><u>Combining Images Seamlessly PC Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/end-surface-pro-visual-distractions-a-guide-to-fixing-screen-vibrations-and-glimmers/"><u>End Surface Pro Visual Distractions: A Guide to Fixing Screen Vibrations and Glimmers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-experience-every-transformers-film-in-their-proper-order/"><u>How To Experience Every Transformers Film In Their Proper Order</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-15-pro-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 15 Pro Properly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/live-streaming-made-easy-professional-multi-camera-recording-with-manycam/"><u>Live Streaming Made Easy: Professional Multi-Camera Recording with ManyCam</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-ftd2xxdll-file-missing-or-unavailable-issue/"><u>Resolving the ftd2XX.dll File Missing or Unavailable Issue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-missteps-and-myths-surrounding-ai-messaging/"><u>The Missteps and Myths Surrounding AI Messaging</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-dealing-with-the-missing-fm20dll-error-message/"><u>Troubleshooting: Dealing with the Missing fm20.dll Error Message</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-mastering-lip-sync-explore-top-apps-for-dynamic-videos-for-2024/"><u>Updated Mastering Lip Sync Explore Top Apps for Dynamic Videos for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ssential-tactics-for-youtube-advertising-with-banners/"><u>[New] Essential Tactics for YouTube Advertising with Banners</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-exploring-instagrams-video-connectivity-techniques/"><u>[New] In 2024, Exploring Instagram’s Video Connectivity Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-comprehensive-codes-of-conduct-for-the-yt-community-for-2024/"><u>[Updated] Comprehensive Codes of Conduct for the Yt Community for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/advanced-gmail-techniques-construct-comprehensive-filtering-rules-to-enhance-your-organization/"><u>Advanced Gmail Techniques: Construct Comprehensive Filtering Rules to Enhance Your Organization</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/before-you-plug-into-the-future-9-strategic-inquiries-to-ponder-when-choosing-an-ev/"><u>Before You Plug Into the Future: 9 Strategic Inquiries to Ponder When Choosing an EV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-steps-to-delete-microsofts-ai-assistant-from-your-pc-the-cortana-and-copilot-method/"><u>Comprehensive Steps to Delete Microsoft's AI Assistant From Your PC: The Cortana and Copilot Method</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-when-steamdll-is-unavailable-or-lost/"><u>Effective Solutions for When Steam.dll Is Unavailable or Lost</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-and-tricks-refreshing-your-audio-experience-by-properly-cleansing-home-stereo-speakers/"><u>Expert Tips & Tricks - Refreshing Your Audio Experience by Properly Cleansing Home Stereo Speakers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-our-selection-of-favorite-digital-journals-the-ultimate-list/"><u>Explore Our Selection of Favorite Digital Journals: The Ultimate List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-viral-beats-to-ringtones-transforming-tiktok-sounds/"><u>In 2024, From Viral Beats to Ringtones Transforming TikTok Sounds</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-motorola-moto-g34-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Motorola Moto G34 5G FRP?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/insta-rotation-rituals-mastering-angles-that-engage-captivate-and-amaze/"><u>Insta Rotation Rituals Mastering Angles that Engage, Captivate, and Amaze</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/must-watch-animated-and-live-action-films-on-netflix-for-children/"><u>Must-Watch Animated and Live-Action Films on Netflix for Children</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-itel-a05s-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel A05s Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722898101545-rumored-apple-audio-wearable-what-to-expect-in-terms-of-price-release-and-features/"><u>Rumored Apple Audio Wearable: What to Expect in Terms of Price, Release, and Features!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-nokia-c12-plus-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Nokia C12 Plus FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-roadmap-to-chatgpt-excellence-with-new-plugins/"><u>The Roadmap to ChatGPT Excellence with New Plugins</u></a></li>
+<li><a href="https://discover-data.techidaily.com/ultimate-collection-of-ferrari-2erto-ghibli-250-wallpaper-images-and-graphics-by-yl-software-elevate-your-digital-space/"><u>Ultimate Collection of Ferrari 2Erto Ghibli 250 Wallpaper Images & Graphics by YL Software – Elevate Your Digital Space</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-home-theater-installation-for-college-students-a-comprehensive-guide/"><u>Wireless Home Theater Installation for College Students: A Comprehensive Guide</u></a></li>
 </ul></div>
 

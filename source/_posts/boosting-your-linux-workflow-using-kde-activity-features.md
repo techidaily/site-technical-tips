@@ -1,7 +1,7 @@
 ---
 title: Boosting Your Linux Workflow Using KDE Activity Features
-date: 2024-08-30T13:33:17.314Z
-updated: 2024-08-31T13:33:17.314Z
+date: 2024-12-24T08:37:17.764Z
+updated: 2024-12-26T02:39:09.751Z
 tags:
   - desktop
 categories:
@@ -29,16 +29,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Cluttered desktop with a lot of apps in the foreground and taskbar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/cluttered-desktop-with-a-lot-of-apps-in-the-foreground-and-taskbar.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The most effective fix would be a [multi-monitor set-up](https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-8-plus-drfone-by-drfone-ios/), but that can be expensive. A cost-effective solution is using [virtual desktops](https://hardware-tips.techidaily.com/mastering-tech-essentials-at-toms-hardware-source/) to create separate spaces for grouping your opened apps. For instance, you can have a virtual desktop with a browser and word processor opened side-by-side to do your research. While in other spaces, you can have your notes apps, media apps, etc.
 
 ![Multiple virtual desktops for organizing all open apps](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/multiple-virtual-desktops-for-organizing-all-open-apps.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  However, once you start using virtual desktops, you'll soon realize it's not an optimal solution—at least I did. For instance, each desktop has the same wallpaper and icons, so there's no visual cue that you're in a different workspace.
 
  Moreover, the Steam app is still present in your System Tray even when you're on the virtual desktop for work. This can get alluringly distracting, especially when struggling with writer's block and a blank Google Doc.
@@ -54,6 +48,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Creating a KDE Activity](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/creating-a-kde-activity-2.png) 
 
  Assign an icon for easy identification and give it a name and description. Once done, click Create. You can also configure the Privacy settings from here and assign a keyboard shortcut to quickly open this Activity. We'll discuss this in more detail later on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How KDE Activities Help You Be More Productive
 
@@ -71,9 +69,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 6. Define unique privacy rules
 7. Utilize a different set of virtual desktops
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Create Visually Unique Workspaces
 
  KDE Activities allow you to set different wallpapers and widgets for each Activity. This can help you easily orient yourself to the specific task of the Activity, thereby reducing the time and mental effort needed to switch contexts.
@@ -82,16 +77,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![KDE Activity for Play](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/kde-activity-for-play.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![KDE Activity for Study](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/kde-activity-for-study.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![KDE Activity for Work](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/kde-activity-for-work.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 Close 
 
  To change wallpapers for an Activity, enter that Activity and right-click on the desktop. Click on "Configure Desktop and Wallpaper" and then select the wallpaper you want.
@@ -99,19 +96,19 @@ Close
 ![Change desktop wallpaper](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/change-desktop-wallpaper-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Similarly, you can add different widgets to each Activity by right-clicking on that Activity's desktop and selecting the "+ add widget" option. You can then populate each Activity with unique widgets that'll help your workflow.
 
 ![Work Activity with calendar widget and calculator widget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/work-activity-with-calendar-widget-and-calculator-widget.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Study Activity with widgets for dictionary, media player, time, and folder view](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/study-activity-with-widgets-for-dictionary-media-player-time-and-folder-view.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Play Activity with puzzle game widget and system resource monitoring widgets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/play-activity-with-puzzle-game-widget-and-system-resource-monitoring-widgets.png) 
 
 Close 
@@ -132,25 +129,14 @@ Close
 
 ![Add new Activity Property to Window rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/add-new-activity-property-to-window-rule-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  On the first field, select "Force," and in the second one, specify the Activity where you want it to open. You can choose multiple Activities if you want. Once done, click Apply.
 
 ![Set app window to open in desired Activity](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/set-app-window-to-open-in-desired-activity-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also pin and unpin apps on the taskbar and the application launcher to show them only in select Activities. This removes another layer of distraction and keeps you laser-focused on the task at hand.
 
  Simply right-click on the app in the taskbar, hover over "Pin to Task Manager," and specify the Activity.
@@ -161,9 +147,6 @@ Close
 
 ![Pinning apps to Application Launcher of specific Activities](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/pinning-apps-to-application-launcher-of-specific-activities-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ###  Define Different Power Rules and Privacy Settings
 
  Each Activity can have its own set of power management settings. This means, if you want, you can have your Play Activity configured with a screen saver for relaxation while your Work Activity might have the Sleep function disabled, so you don't accidentally miss important notification alerts.
@@ -172,6 +155,10 @@ Close
 
 ![Set individual Acitivty Power Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/set-individual-acitivty-power-settings-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  KDE Plasma also [tracks user data](https://kde.org/privacypolicy-apps/), which is for the system-wide search function. You can keep this enabled for some activities and disabled for others.
 
  To do this, open System Settings > Workspace Behavior > Activities and click the toggle button beside the Activity you want to edit. Check "Do not track usage for this Activity" beside the privacy field, and click Apply.
@@ -179,30 +166,29 @@ Close
 ![Set individual Acitivty Privacy Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/set-individual-acitivty-privacy-settings-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Combine Activities With Virtual Desktops
 
  While using activities, you still have access to virtual desktops for further desktop management and organization. So, in your Work Activity, you can have five apps spread across four virtual desktops, but when you switch over to your Study Activity, you'll again have a blank canvas of four empty virtual desktops to organize your workflow.
 
 ![Virtual desktops of Work Activity occupied with Apps](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/virtual-desktops-of-work-activity-occupied-with-apps.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![Virtual desktop of Study Activity with zero open apps](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/virtual-desktop-of-study-activity-with-zero-open-apps.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close 
 
  The number of virtual desktops is the same across the Activities. Also, adding or removing virtual desktops in one Activity will reproduce the same effect across all Activities.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 
 
 ---
@@ -215,8 +201,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +208,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effortless-youtube-income-computations/"><u>[New] 2024 Approved Effortless YouTube Income Computations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-creating-time-lapse-from-single-photographs/"><u>[Updated] 2024 Approved Creating Time-Lapse From Single Photographs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-access-recovery-mastering-post-hack-facebook-fixes/"><u>2024 Approved Access Recovery Mastering Post-Hack Facebook Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-and-free-custom-windows-11-templates-a-selection-of-15-options/"><u>Best and Free Custom Windows 11 Templates: A Selection of 15 Options</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/claim-your-free-winxvideo-artificial-intelligence-reward-today/"><u>Claim Your Free Winxvideo Artificial Intelligence Reward Today!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-m34-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/te-your-videos-with-youtube-studios-editing-mastery/"><u>Elevate Your Videos with YouTube Studio's Editing Mastery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-guide-to-the-best-fileshare-apps-on-a-windows-laptop/"><u>Exclusive Guide to the Best Fileshare Apps on a Windows Laptop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-how-to-safely-disconnect-electronics-from-your-google-home-network/"><u>Expert Advice: How to Safely Disconnect Electronics From Your Google Home Network</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722885697689-samsung-galaxy-watch-call-handling-identifying-and-correcting-non-responsive-behavior/"><u>Samsung Galaxy Watch Call Handling: Identifying & Correcting Non-Responsive Behavior</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-dts-virtual-x-technology-a-comprehensive-guide/"><u>Understanding DTS Virtual X Technology - A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-secrets-a-deep-dive-into-tesla-robots-release-timeline-cost-projections-and-cutting-edge-features-what-we-know-so-far/"><u>Unlocking Secrets: A Deep Dive Into Tesla Robot's Release Timeline, Cost Projections and Cutting-Edge Features – What We Know So Far</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Three Essential Steps Apple Needs to Take to Save Tophat Vision Pro - Insights From ZDNet
-date: 2024-12-11T16:22:52.389Z
-updated: 2024-12-17T17:20:15.302Z
+date: 2024-12-22T21:52:09.275Z
+updated: 2024-12-25T17:09:44.205Z
 tags:
   - apple
 categories:
@@ -55,10 +55,6 @@ During this time, the company focused on providing viable mixed reality and VR e
 
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  That old Apple magic
 
 Apple, on the other hand, has a problem. It no longer has Steve Jobs to ruthlessly remove features and capabilities added by over-enthusiastic engineers and designers. Instead, Apple sometimes has a myopic focus on being special, on producing something "magic." 
@@ -87,7 +83,7 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Think different?
@@ -110,6 +106,10 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Vision for the rest of us
 
 Right now, the Quest 3 is the [spatial computing](https://www.zdnet.com/article/what-is-spatial-computing-and-how-does-it-work/) headset for the rest of us. While head-mounted displays are still a challenging sell, the Quest 3 offers enough compelling value ([especially as a theatre-sized Netflix player](https://www.zdnet.com/article/netflix-is-now-meta-quest-3s-killer-app-thanks-to-these-two-new-modes/)) to make it the mainstream, easy-to-adopt solution. 
@@ -125,7 +125,7 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Give the Vision a controller
@@ -151,7 +151,7 @@ The idea that a future Vision device might need to be physically tethered to an 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
@@ -175,7 +175,7 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Looking towards the future
@@ -227,17 +227,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-melody-meters-your-guide-to-free-online-pulse-detectors/"><u>[New] 2024 Approved Melody Meters Your Guide to Free Online Pulse Detectors</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boost-your-mobile-film-game-best-9-camera-add-ons-for-vloggers/"><u>[Updated] 2024 Approved Boost Your Mobile Film Game Best 9 Camera Add-Ons For Vloggers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-leading-eights-imagery-fusion-platform/"><u>[Updated] The Leading Eight’s Imagery Fusion Platform</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-transform-your-youtube-vids-a-guide-to-softened-screens/"><u>2024 Approved How to Transform Your Youtube Vids A Guide to Softened Screens</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-strategies-to-repair-your-device-from-code-43-errors-effectively/"><u>Comprehensive Strategies to Repair Your Device From Code 43 Errors Effectively</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expand-your-soundscape-mastering-the-art-of-multi-speaker-bluetooth-setup/"><u>Expand Your Soundscape: Mastering the Art of Multi-Speaker Bluetooth Setup</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fixing-windows-10-photo-viewer-hangs-quickly/"><u>In 2024, Fixing Windows 10 Photo Viewer Hangs Quickly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-ev-charging-in-your-garage-a-complete-guide-for-personal-use/"><u>Mastering EV Charging in Your Garage: A Complete Guide for Personal Use</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-common-issues-reactivating-a-non-operational-roku-display-unit/"><u>Overcoming Common Issues: Reactivating a Non-Operational Roku Display Unit</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/quickening-speed-of-slide-show-media-playback-for-2024/"><u>Quickening Speed of Slide Show Media Playback for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/roblox-server-status-checking-if-its-down-or-your-connection-is-the-issue/"><u>Roblox Server Status: Checking if It's Down or Your Connection Is the Issue</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-virtual-world-cinema-lineup-for-2024/"><u>Ultimate Virtual World Cinema Lineup for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-androids-premier-tools-for-fast-fixing-vid-for-2024/"><u>[Updated] Android's Premier Tools for Fast-Fixing Vid for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-budget-friendly-cloud-pricing-showdown/"><u>[Updated] Budget-Friendly Cloud Pricing Showdown</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-building-your-brand-through-effective-fb-reel-strategies/"><u>[Updated] Building Your Brand Through Effective FB Reel Strategies</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-creative-components-free-youtube-visual-resources-for-2024/"><u>[Updated] Creative Components FREE YouTube Visual Resources for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-walkthrough-for-creating-effective-slack-alarms/"><u>A Step-by-Step Walkthrough for Creating Effective Slack Alarms</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/complete-tutorial-on-seamless-mkv-movie-downloads-and-viewing-with-5kplayer/"><u>Complete Tutorial on Seamless MKV Movie Downloads & Viewing with 5KPlayer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-motivation-for-shifting-from-gasoline-to-electric-cars/"><u>Decoding the Motivation for Shifting From Gasoline to Electric Cars</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-tutorial-on-connecting-printers-for-shared-usage-amongst-various-devices/"><u>Easy Tutorial on Connecting Printers for Shared Usage Amongst Various Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-stop-code-0x0000001d-troubleshooting-techniques-and-solutions/"><u>Fixing Stop Code 0X0000001D: Troubleshooting Techniques and Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/freezing-gameplay-essential-pc-screen-snaps-for-2024/"><u>Freezing Gameplay Essential PC Screen Snaps for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-samsung-galaxy-a54-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Samsung Galaxy A54 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/keeping-up-to-date-with-zoom-on-your-computer-the-ultimate-guide-for-windowsmacos/"><u>Keeping Up-to-Date with Zoom on Your Computer: The Ultimate Guide for Windows/macOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/podcasts-vs-youtube-which-should-you-choose/"><u>Podcasts Vs. YouTube Which Should You Choose?</u></a></li>
+<li><a href="https://win11.techidaily.com/redirecting-onedrive-location-in-windows-10/"><u>Redirecting OneDrive Location in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-secrets-overcoming-call-handling-problems-in-samsung-galaxy-wearable-devices/"><u>Unlock the Secrets: Overcoming Call Handling Problems in Samsung Galaxy Wearable Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unmasking-the-facade-tips-for-discerning-genuine-from-counterfeit-friend-requests-online/"><u>Unmasking the Facade: Tips for Discerning Genuine From Counterfeit Friend Requests Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/updated-linksys-standard-login-credentials-for-july-2024-complete-directory/"><u>Updated Linksys Standard Login Credentials for July 2024 - Complete Directory</u></a></li>
 </ul></div>
 

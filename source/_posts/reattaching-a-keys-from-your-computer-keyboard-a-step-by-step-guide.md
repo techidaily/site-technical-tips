@@ -1,7 +1,7 @@
 ---
 title: "Reattaching a Keys From Your Computer Keyboard: A Step-by-Step Guide"
-date: 2024-08-30T13:40:01.791Z
-updated: 2024-08-31T13:40:01.791Z
+date: 2024-12-21T02:38:03.519Z
+updated: 2024-12-26T04:33:43.365Z
 categories:
   - BestProducts
 description: "This Article Describes Reattaching a Keys From Your Computer Keyboard: A Step-by-Step Guide"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/b15acb0e615e51b4bca2cf04ecdca80b947c55215
 ---
 
 ## Maximizing PS5 Gameplay: A Step-by-Step Guide to Achieving a Buttery Smooth 1Nterframe Rate of 120FPS
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Go to**Settings** \>**Screen and Video** \>**Video Output** and enable 120 Hz output. You'll also have to turn it on in-game.
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/b15acb0e615e51b4bca2cf04ecdca80b947c55215
 * Only certain games support 120 frames per second on PS5.
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn On 120 FPS on PS5
 
@@ -31,14 +40,20 @@ thumbnail: https://thmb.techidaily.com/b15acb0e615e51b4bca2cf04ecdca80b947c55215
 3. Choose**Video Output** on the left side of the screen.  
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -50,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/b15acb0e615e51b4bca2cf04ecdca80b947c55215
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -89,8 +105,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +112,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-navigating-the-best-practices-for-fb-video-advertising/"><u>[New] In 2024, Navigating the Best Practices for FB Video Advertising</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-comprehensive-strategies-for-swiftly-clearing-feedback/"><u>[Updated] 2024 Approved Comprehensive Strategies for Swiftly Clearing Feedback</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-pinpoint-and-eliminate-android-video-glitches/"><u>[Updated] 2024 Approved Pinpoint & Eliminate Android Video Glitches</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-best-webcam-tripods-and-stands/"><u>[Updated] In 2024, Best Webcam Tripods and Stands</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-from-stream-to-file-vimeo-hd-to-mp4-methods/"><u>[Updated] In 2024, From Stream to File Vimeo HD to MP4 Methods</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-rush-release-channeling-playlist-hits-online-for-2024/"><u>[Updated] Rush Release Channeling Playlist Hits Online for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-your-iphones-phone-speaker-level-a-step-by-step-guide/"><u>Boosting Your iPhone's Phone Speaker Level: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-solutions-for-dealing-with-unavailable-avcodecdll-errors-on-your-computer/"><u>Comprehensive Solutions for Dealing with Unavailable Avcodecdll Errors on Your Computer</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728473645779-d/"><u>Dドライブにログインできない、解決手順を見つける</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exporting-your-favorite-tunes-a-guide-to-saving-spotify-playlists-as-pdfs/"><u>Exporting Your Favorite Tunes: A Guide to Saving Spotify Playlists as PDFs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-optimize-collaboration-in-microsoft-teams-using-the-copilot-tool/"><u>How to Optimize Collaboration in Microsoft Teams Using the Copilot Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-follower-to-fanbase-leader-nine-steps-for-instagram-mastery/"><u>In 2024, From Follower to Fanbase Leader Nine Steps for Instagram Mastery</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mobile-marketing-mastery-easy-steps-to-create-your-own-youtube-channel/"><u>In 2024, Mobile Marketing Mastery Easy Steps to Create Your Own YouTube Channel</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-users-tutorial-how-to-access-photos-in-a-shared-album-link/"><u>IPhone Users' Tutorial: How to Access Photos in a Shared Album Link</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rebooting-the-latest-iphone-easy-tips-and-tricks/"><u>Rebooting the Latest iPhone - Easy Tips and Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-fix-for-when-dbghelpdll-is-mia-a-comprehensive-guide/"><u>The Ultimate Fix for When dBghelp.dll Is MIA: A Comprehensive Guide</u></a></li>
+</ul></div>
 

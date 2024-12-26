@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Nohup Command: A Comprehensive Guide for Continuous Processes on Linux"
-date: 2024-08-30T13:33:34.925Z
-updated: 2024-08-31T13:33:34.925Z
+date: 2024-12-20T03:31:27.602Z
+updated: 2024-12-25T20:36:22.773Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21ef
 * [Using nohup](https://video-capture.techidaily.com/in-2024-best-free-desktop-recorders/)
 
  The Linux `nohup` command lets important processes carry on running even when the terminal window that launched them is closed. We show you how to use this venerable command on today's Linux.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  HUP and SIGHUP
 
@@ -44,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21ef
  This is useful when, for example, you have a long-running process that you need to let run to completion. If you accidentally close the terminal window and its shell, you'll terminate the process too. Using `nohup` to launch the process isolates the process from the `nohup` signal. If you're working remotely on a computer [over SSH](https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/) and you don't want a sensitive process to terminate if the remote connection fails, you'd start the process on the remote computer with `nohup` .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Using nohup
 
  We created a program that doesn't do anything useful, but it will run and run until it is terminated. It prints the time to the terminal window every three seconds. It's called long-proc for "long process."
@@ -54,18 +59,12 @@ thumbnail: https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21ef
 
 ![The long-proc program running a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/1-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  If this was a program that did something useful and we wanted it to continue to run even if the terminal window and shell are closed, we'd launch it with `nohup`.
 
 nohup ./long-proc
 
 ![launching the the long-proc program from nohup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/2-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The process is decoupled from `stdin` and `stdout` so it can neither receive any input nor write to the terminal window. Also, because it is still running, you're not returned to the command prompt. All that `nohup` does is make the process impervious to the terminal closing down. It doesn't [turn the process into a background task](https://buynow-help.techidaily.com/compact-wonder-the-theta-sc2s-portable-vr-journey/).
 
  Do you now have to [reboot](https://data-wizards.techidaily.com/formatting-your-macs-storage-simplified-an-instructional-video/) just to terminate the process? No. To stop a `nohup` process you haven't launched as a background process, hit the Ctrl+C key combination.
@@ -78,9 +77,6 @@ less nohup.out
 
 ![Opening the nohup.out file in less](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/4-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Anything that would usually be sent to the terminal window is captured in the file. Subsequent runs of `nohup` will be appended to the existing "nohup.out" file.
 
 ![The output from long-proc written tot he nohup.out file, displayed in less](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/5-2.png) 
@@ -92,8 +88,9 @@ nohup ./long-proc &
 ![luanching the long-proc program with nohup and making it a background task](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/6-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll need to hit "Enter" once more to return to command prompt. We're told the job number of the process is 1---the number in brackets "`[]`"--- and that the process ID is 13115.
 
  We can use either of these to terminate the process. "Ctrl+C" won't work now because the program doesn't have any association with either the terminal window or the shell.
@@ -120,10 +117,6 @@ kill 13115
 
 ![Using the kill command and process ID to terminate a process](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/9-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  The next time you hit "Enter" you're informed that the process has been terminated.
 
  Now let's look at what doesn't terminate the process. We'll relaunch it, and then close the terminal window.
@@ -133,13 +126,18 @@ nohup ./long-proc
 ![Closing the terminal window with a process running](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/10-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If we open a new terminal window and search for our process with `pgrep`, we see it is still running. Closing the terminal window that launched the process has had no effect.
 
 pgrep long-proc
 
 ![Using pgrep to search for a process by name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/11-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It is possible to pass multiple commands to `nohup`, but it is usually better to launch them separately. It makes it easier to manipulate them as background jobs. The commands won't run at the same time, they'll be executed one after the other. The execution is not concurrent, it's sequential. To have them run concurrently you need to launch them separately.
 
@@ -149,14 +147,15 @@ nohup bash -c 'ls /bin && ls /sbin'
 
 ![Launching two process with nohup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/12-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  If you [use less](https://win-amazing.techidaily.com/hp-scanjet-driver-updates-available-install-now-for-enhanced-performance-on-windows-systems/) to look through the "nohup.out" file, you'll see the output from the first process, then the output from the second process.
 
 less nohup.out
 
 ![Opening the nohup.out file in less](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/13-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The output from both commands has been captured in the "nohup.out" file. It is not intertwined, the output from the second process only starts once the first process has terminated.
 
@@ -169,8 +168,9 @@ nohup bash -c 'ls /bin && ls /sbin' > myfile.txt
 ![redirecting the output from the processes to a user-provided file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/15-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Note that the message no longer says "appending output to nohupo.out", it says "redirecting stderr to stdout" and we're redirecting stdout to our "myfile.txt" file.
 
  We can look inside "myfile.txt" file with less.
@@ -193,8 +193,6 @@ less myfile.txt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +200,24 @@ less myfile.txt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-logitechs-secret-weapon-video-recordings-unveiled/"><u>[New] 2024 Approved Logitech's Secret Weapon Video Recordings Unveiled</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-dos-and-donts-for-twilight-self-portraiture/"><u>[New] Essential Do's and Don'ts for Twilight Self-Portraiture</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-mirrorless-4k-cameras-top-10-list-unveiled-for-2024/"><u>[Updated] Mirrorless 4K Cameras Top 10 List Unveiled for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-social-media-strategists-guide-top-10-ig-video-editing-apps-for-2024/"><u>[Updated] Social Media Strategists' Guide Top 10 IG Video Editing Apps for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/advapi32dll-not-detected-learn-how-to-address-this-common-windows-problem/"><u>Advapi32.dll Not Detected? Learn How to Address This Common Windows Problem</u></a></li>
+<li><a href="https://os-tips.techidaily.com/automatic-deletion-of-two-factor-authentication-alerts-a-guide-for-iphone-and-ipad-users/"><u>Automatic Deletion of Two-Factor Authentication Alerts: A Guide for iPhone & iPad Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/determining-the-expiry-timeline-for-your-mailcom-username-and-password/"><u>Determining the Expiry Timeline for Your mail.com Username and Password</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-for-multiple-photo-submissions-to-facebook/"><u>Easy Steps for Multiple Photo Submissions to Facebook</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/essential-buyers-guide-to-the-budget-friendly-amazon-kindle-of-2019/"><u>Essential Buyer's Guide to the Budget-Friendly Amazon Kindle of 2019</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-linkedin-premium-a-smart-move-for-professionals-heres-why/"><u>Is LinkedIn Premium a Smart Move for Professionals? Here’s Why</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-and-easy-techniques-for-taking-screenshots-on-an-hp-laptop-device/"><u>Quick and Easy Techniques for Taking Screenshots on an HP Laptop Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-admin-rights-unlocking-trustedinstaller-access-on-windows-10/"><u>Securing Admin Rights: Unlocking TrustedInstaller Access on Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-expert-techniques-for-dominating-royal-match-gameplay/"><u>The Ultimate Tutorial: Expert Techniques for Dominating Royal Match Gameplay</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-selection-6-amazing-coupon-destinations-for-money-smart-shoppers/"><u>Ultimate Selection: 6 Amazing Coupon Destinations for Money-Smart Shoppers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-xr-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone XR Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/winning-at-pokemon-unite-tips-and-tricks-for-pc-gamers/"><u>Winning at Pokémon Unite: Tips and Tricks for PC Gamers</u></a></li>
+</ul></div>
 

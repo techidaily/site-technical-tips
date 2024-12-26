@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets of Google - A Tour Through Fascinating and Funny Search Engine Easter Eggs!
-date: 2024-08-30T13:32:24.629Z
-updated: 2024-08-31T13:32:24.629Z
+date: 2024-12-22T19:45:58.593Z
+updated: 2024-12-26T01:24:11.544Z
 tags:
   - web
 categories:
@@ -25,11 +25,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You probably only use Google as a search engine to find information on the internet. But did you know Google has hidden a bunch of cool and fun Easter Eggs for you to discover? Here are some of the best ones you should check out at least once.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  I’m Feeling Curious
 
  If you're interested in fun facts about things happening around you, like Mark Wahlberg's nationality or the importance of Zeus in Roman mythology, you should search for "I'm Feeling Curious" on Google. This will give you a random fun fact about anything in the world. The last time I checked, it told me the reason behind the northern lights.
 
 ![I'm Feeling Curious Google Easter Egg.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/i-m-feeling-curious-google-easter-egg.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  LGBT Easter Egg
 
@@ -42,8 +50,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Rainbow color colums in Google Sheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/rainbow-color-colums-in-google-sheet.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Bubble Level
 
  A spirit level is a tool that lets you check if a surface is horizontal or vertical. If you don't have one handy, you can turn your smartphone into a spirit level. Just open Google on your smartphone, type **Bubble Level** or **Spirit Level** in the search bar, and hit Enter. In the results window, tap the "Touch to Activate" option. Then, your smartphone will act like a spirit level and show you how much it's tilted in one direction or another.
@@ -56,44 +65,37 @@ Close
 
 ![DVD Screensaver Easter Egg in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/dvd-screensaver-easter-egg-in-chrome.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ##  Dart Mission
 
  If you're a space enthusiast, then you must be aware of NASA's DART spacecraft. It was intentionally collided with the asteroid Dimorphos in a test of the world's first planetary defense system. To celebrate the mission's success, Google introduced a DART Easter Egg. To try it out, type **NASA DART** in the Google search bar and hit Enter. In the results window, you'll see the DART spacecraft crash into the search page.
 
 ![NASA DART Easter Egg in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nasa-dart-easter-egg-in-chrome.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ##  Christmas
 
  One of the best and most entertaining Easter Eggs you can try is Christmas. The best part is that it works on both smartphones and desktops. Simply access Google on your device and search for "Christmas." In the result window, you will see a jumping gift animation.
 
 ![Gift icon on Christmas Easter Egg.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/gift-icon-on-christmas-easter-egg.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, click on that animation, and you will be taken to the Google Santa Tracker page, which contains a countdown timer showing the time left until the next Christmas.
 
 ![Google Santa Tracker Page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/google-santa-tracker-page.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  You can click the play button to access games made available for you. There are a variety of games, and each appears randomly, so there is no guarantee that clicking the play button will open a specific game. Sometimes, clicking the play button can also show you an animated movie about Santa instead of giving you a game to play.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Sonic the Hedgehog
 
  Sonic the Hedgehog is a popular video game series. To celebrate its success, Google added a fun Easter Egg related to it. You can try it by simply typing **Sonic the Hedgehog** in the Google search bar and hitting Enter. You'll see the Sonic character appear on the results page. Click on him, and you'll hear a sound and see him perform some animations.
 
 ![Sonic the Hedgehog Easter Egg in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sonic-the-hedgehog-easter-egg-in-chrome.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Google Doodles
 
@@ -102,11 +104,9 @@ Close
 ![Google Doodles Easter Egg in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/google-doodles-easter-egg-in-chrome.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  Google Has Removed Many Easter Eggs, But There's a Way to Still Access Them
 
  There used to be a ton of Easter Eggs you could try on Google. Unfortunately, Google has officially removed them. However, you can still try them out through the Elgoog website, which restores all the Easter Eggs that Google has gotten rid of.
@@ -119,14 +119,19 @@ Close
 
  To play the game, go the [main Google search page](https://www.google.com/), type **Zerg Rush** and click "I'm Feeling Lucky."
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ###  Dinosaur Game
 
  You've probably played the dinosaur game that shows up in Google Chrome when you try to access the internet without an internet connection. The Elgoog website also has the [dinosaur game](https://elgoog.im/dinosaur-game/gymnastics/), and you can play it even if you're connected to the internet. The coolest thing about the dinosaur game on the Elgoog website is that there are different versions of the game. For example, you can try the gymnastics and birthday editions of the dinosaur game.
 
 ![Dinosaur Game Easter Egg in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/dinosaur-game-easter-egg-in-chrome.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Google Gravity
 
@@ -135,17 +140,15 @@ Close
 ![Google Gravity Easter Egg in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/google-gravity-easter-egg-in-chrome.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Google Underwater Gravity
 
  You can also make the Google elements appear underwater and see them floating. On the [Google](https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/) homepage, type in **Google Underwater** and click "I'm Feeling Lucky." In the results window, you'll see the Google logo and search bar floating underwater.
 
 ![Google Underwater Gravity Easter Egg in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/google-underwater-gravity-easter-egg-in-chrome.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ---
 
  These were some Google Easter Eggs you should try out. But these aren't the only ones. There are still [plenty of Easter Eggs](https://screen-sharing-recording.techidaily.com/maximize-memories-overwatch-game-footage/) out there on the internet, and Google will likely keep releasing more in the future.
@@ -156,8 +159,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +166,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-analyzing-splitcams-place-among-best-recorders-for-2024/"><u>[New] Analyzing SplitCam's Place Among Best Recorders for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-pinnacle-of-video-quality-the-best-5-low-speed-recorders/"><u>[New] Pinnacle of Video Quality The Best 5 Low-Speed Recorders</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-tale-constructing-the-basic-blueprint/"><u>[Updated] In 2024, Tale Constructing The Basic Blueprint</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2-dont-panic-solutions-to-resetting-your-forgotten-mac-computer-password/"><u>2. Don’t Panic! Solutions to Resetting Your Forgotten Mac Computer Password</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-sprinkle-some-joy-incorporating-emojis-into-youtube-discussions/"><u>2024 Approved Sprinkle Some Joy Incorporating Emojis Into Youtube Discussions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-y100i-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo Y100i Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-your-linux-workflow-using-kde-activity-features/"><u>Boosting Your Linux Workflow Using KDE Activity Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/debunking-the-seven-greatest-myths-in-linux-operating-systems/"><u>Debunking the Seven Greatest Myths in Linux Operating Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-hidden-space-consumed-by-old-scans-on-your-mac-learn-how-to-reclaim-it/"><u>Discover the Hidden Space Consumed by Old Scans on Your Mac – Learn How to Reclaim It</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-correcting-watchdog-performance-issues-in-windows-11-systems/"><u>Effective Solutions for Correcting 'Watchdog' Performance Issues in Windows 11 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-controlling-your-windows-10-printer-a-comprehensive-guide/"><u>Effective Strategies for Controlling Your Windows 10 Printer: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-multitasking-on-macos-the-ultimate-split-screen-tutorial/"><u>Effortless Multitasking on macOS: The Ultimate Split-Screen Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-linux-expertise-unveiling-sophisticated-concepts/"><u>Elevate Your Linux Expertise: Unveiling Sophisticated Concepts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevating-pc-gaming-experience-like-never-before-navigating-through-modern-game-launcher-challenges/"><u>Elevating PC Gaming Experience Like Never Before: Navigating Through Modern Game Launcher Challenges</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/launching-chatgpt-on-your-ubuntu-system-via-shellgpt-command-line-interface/"><u>Launching ChatGPT on Your Ubuntu System via ShellGPT Command Line Interface</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/solving-mkv-compatibility-problems-in-plex-streaming-platform/"><u>Solving MKV Compatibility Problems in Plex Streaming Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-pc-fails-in-elex-ii-comprehensive-solutions-and-hacks/"><u>Stop PC Fails in Elex II: Comprehensive Solutions and Hacks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/streamline-social-video-downloads-with-new-app/"><u>Streamline Social Video Downloads with New App</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-analytics-understanding-metrics-without-fancy-tools-for-2024/"><u>The Art of Analytics Understanding Metrics Without Fancy Tools for 2024</u></a></li>
+</ul></div>
 

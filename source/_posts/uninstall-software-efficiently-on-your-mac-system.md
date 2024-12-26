@@ -1,7 +1,7 @@
 ---
 title: Uninstall Software Efficiently on Your Mac System
-date: 2024-08-30T13:38:08.085Z
-updated: 2024-08-31T13:38:08.085Z
+date: 2024-12-24T00:08:14.464Z
+updated: 2024-12-26T09:35:37.104Z
 categories:
   - BestProducts
 description: This Article Describes Uninstall Software Efficiently on Your Mac System
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/SfAMLu7jpWcNssyxj_YKFYUg7AE=/400x300/fi
 ---
 
 ## Efficiently Navigate Google's Features with Gemini - Learn How
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Register or log in to Gemini with your Google account.
@@ -24,21 +29,23 @@ thumbnail: https://www.lifewire.com/thmb/SfAMLu7jpWcNssyxj_YKFYUg7AE=/400x300/fi
 
 [ChatGPT vs. Gemini: What's the Difference?](https://www.lifewire.com/chatgpt-vs-bard-7504876)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## How to Sign Up for Google Gemini
 
  You can sign up on the web with your Google account or use the Android mobile app. Both methods are straightforward and offer a clean interface for interacting with Gemini.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Using the Web App
 
  Go to the dedicated[Google Gemini homepage](https://gemini.google.com/) and use your Google personal account to sign in. You can also create a new Google account if you don't have one yet (or don't want your primary account tied to Gemini).
 
  The web app is supported in most browsers, such as Chrome, Safari, Firefox, Opera, or Edge. Gemini supports 40 languages and is available in over 230 countries.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Using the Mobile Apps on Android and iOS
 
@@ -49,8 +56,9 @@ thumbnail: https://www.lifewire.com/thmb/SfAMLu7jpWcNssyxj_YKFYUg7AE=/400x300/fi
 ![Google Gemini in iOS](https://www.lifewire.com/thmb/9i8u4Mbuaiwb1oioPFtMAGMytEE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Gemini-iOS-bf356a55a5cd4d01afecd0dc2f5b6da2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I Use Gemini AI?
 
  Gemini relies on[generative AI](https://www.lifewire.com/what-is-generative-ai-7510795) to take your natural language queries and turn them into detailed answers. You can start a conversation and get any content, like text, images, music, language, 3D models, and more, with the help of a simple prompt.
@@ -58,19 +66,18 @@ thumbnail: https://www.lifewire.com/thmb/SfAMLu7jpWcNssyxj_YKFYUg7AE=/400x300/fi
 1. In the Gemini chat window, begin typing your request in the**Enter your prompt here** field.  
 ![The prompt field in the Google Gemini web interface](https://www.lifewire.com/thmb/df8I0SZWORbiyM8-BLz2rxN2m8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Gemini-prompt-field-94528b5550664e2f9c5c489c7ba2cd98.jpg)
 2. As a multi-modal chatbot, you can speak to the chatbot, upload an image, write code, or ask it to process information from an online video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Make your prompt specific while giving Gemini as much context as you can about your query.
 4. Ask follow-up questions and carry out a conversation with the chatbot.
 5. Select the pencil icon next to your query to edit the original question, and then choose**Update** .  
 ![The "Edit text" button in a Google Gemini conversation thread](https://www.lifewire.com/thmb/_04NldjfAsFL2Pg-aF1dc1XxgBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Edit-text-on-Google-Gemini-b0d9f137d7e14ee2958822fb9d6f92fa.jpg)
 6. You can ask Gemini to generate images with words like "draw," "generate," and "create."
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 7. Select**New chat** on the sidebar to start a conversation on another topic with the chatbot.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Tip
 
  Google suggests several[tips for getting the best results with your prompts](https://support.google.com/a/users/answer/14200040?hl=en) . Download the free[Gemini for Workspace prompt guide](https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html) if you use Google Workspace with other tools in the suite.
@@ -82,9 +89,6 @@ thumbnail: https://www.lifewire.com/thmb/SfAMLu7jpWcNssyxj_YKFYUg7AE=/400x300/fi
 1. Select**Show drafts** and view two more versions of the result. You can choose**Regenerate drafts** to force Gemini to make another attempt at better answers.  
 ![The "Hide/Show drafts" and "Regenerate drafts" options in Google Gemini](https://www.lifewire.com/thmb/qA7gawJp3_oXG1w3DcDUr9ydFBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Hide-drafts-and-regenerate-google-gemini-9cbbe551f2904f008b8c05bcf385caa5.jpg)
 2. Give Gemini's large language model some feedback by choosing the**Good response** or**Bad response** icons (the thumb icons).
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 3. The**Modify response** filter pop-up helps you adjust the length, simplify the language, and change the tone of a response. Use this to tailor the answers for your intended audience or finetune them.  
 ![The "Modify response" option in Google Gemini](https://www.lifewire.com/thmb/tM5Ik6bHqWlxMYpKv-VT30BTI2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Modify-response-in-Google-Gemini-c53c46000aea49879f6ad313767b5a33.jpg)
 4. Instead of making Gemini rewrite the entire content, you can modify parts of the generated responses. Highlight any part of the text and select the**Modify selected text** icon.  
@@ -93,6 +97,10 @@ thumbnail: https://www.lifewire.com/thmb/SfAMLu7jpWcNssyxj_YKFYUg7AE=/400x300/fi
 ![Google Gemini Modify selected text ](https://www.lifewire.com/thmb/ek4DwjpGOxgIqgqgg0yWUoHFeHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GoogleGemini-Modify-Answer-Content-34d76e37a88c42c9969dfd593be19c21.jpg)
 5. Gemini can be error-prone. Select the**Google** button at the foot of the response to double-check the answers. The AI checks with a Google Search and highlights content similar to (Green highlight) or different (Orange highlight) from Gemini's statements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Using Extensions in Gemini
 
  With Gemini's extensions, you can tap into Google's ecosystem of apps to cover a wider variety of everyday uses. Most extensions are on by default, but you may need to give Gemini permission to use them in your prompt.
@@ -100,14 +108,13 @@ thumbnail: https://www.lifewire.com/thmb/SfAMLu7jpWcNssyxj_YKFYUg7AE=/400x300/fi
 1. Go to**Settings** \>**Extensions** .  
 ![The Settings > Extensions options in Google Gemini](https://www.lifewire.com/thmb/pccAkIep3BpKkhVuV-2YYAWwlYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Extensions-in-Google-Gemini-08e89dd23f4940048feb9db7f2cf1f17.jpg)
 2. Enable or disable your choice of extensions with the toggle switch.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
-3. To automatically use any Google services as an extension, mention it in the prompt. Alternatively, enter @ and select the extension to allow Gemini to use a specific extension.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. To automatically use any Google services as an extension, mention it in the prompt. Alternatively, enter @ and select the extension to allow Gemini to use a specific extension.
+
 ### Tip
 
  Gemini is a handy way to summarize YouTube videos you don't want to watch till the end. Ask Gemini multiple questions to dig deeper into the video's content in half the time.
@@ -142,8 +149,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +156,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-cultivate-connections-top-10-agrigames-for-gathering-pals/"><u>[Updated] Cultivate Connections Top 10 AgriGames for Gathering Pals</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-commence-your-journey-with-xps-film-editor-suite/"><u>[Updated] In 2024, Commence Your Journey with XP's Film Editor Suite</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-top-tiktok-edits-mastering-your-cut-lists/"><u>[Updated] In 2024, Top TikTok Edits Mastering Your Cut Lists</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-lens-language-speaking-visually-with-snapchat-filters-for-2024/"><u>[Updated] Lens Language Speaking Visually with Snapchat Filters for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quickened-visuality-speeding-up-keynote-video-sequences/"><u>[Updated] Quickened Visuality Speeding up Keynote Video Sequences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/android-communication-fixes-how-to-enable-and-repair-calls/"><u>Android Communication Fixes: How to Enable and Repair Calls</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-linksys-original-login-codes-as-of-july-2024/"><u>Comprehensive Guide: Linksys Original Login Codes as of July 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-your-own-google-vr-glasses/"><u>Crafting Your Own Google VR Glasses</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-unseen-a-comprehensive-approach-to-correcting-black-screen-errors-on-windows-11/"><u>Fixing the Unseen: A Comprehensive Approach to Correcting Black Screen Errors on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-google-gemini-a-step-by-step-guide/"><u>Mastering the Art of Google Gemini: A Step-by-Step Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-top-7-audio-recording-tools-beyond-audacity-mobile-edition/"><u>New Top 7 Audio Recording Tools Beyond Audacity - Mobile Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-resolution-to-mfc42dll-not-found-problem-in-pcs/"><u>Step-by-Step Resolution to 'mfc42.dll' Not Found Problem in PCs</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-infinix-hot-40-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Infinix Hot 40 Pro ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-essential-guide-to-top-11-free-updater-utilities-for-effortless-app-maintenance/"><u>The Essential Guide to Top 11 Free Updater Utilities for Effortless App Maintenance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-fixing-the-absent-dciman32dll-error-on-your-pc/"><u>Understanding and Fixing the Absent dciman32.dll Error on Your PC</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-galaxy-s23-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Galaxy S23 Ultra?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/winning-moves-effective-tips-for-dominating-in-pokemon-unite/"><u>Winning Moves: Effective Tips for Dominating in Pokémon Unite</u></a></li>
+</ul></div>
 

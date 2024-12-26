@@ -1,7 +1,7 @@
 ---
 title: Installing and Utilizing the Yay Tool in Arch Linux – A Comprehensive Tutorial
-date: 2024-08-30T13:33:28.688Z
-updated: 2024-08-31T13:33:28.688Z
+date: 2024-12-20T19:25:43.196Z
+updated: 2024-12-26T01:05:37.137Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Installing and Utilizing the Yay Tool in Arch Linux – A Comprehensive Tutorial
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -37,9 +41,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  That’s all fine in theory, but here’s the conundrum. There’s a massive software repository of additional applications that you can select from, called the Arch User Repository, but pacman doesn’t know about it. It can neither search through it nor download anything from it.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The AUR and Why You Need It
 
  The AUR is one of the [largest and most comprehensive collections of Linux software](https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-xiaomi-redmi-k70-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/) available anywhere. It’s a community-driven resource, hosting over 85,000 software packages. Or at least, it hosts something called package build files, or PKGBUILDs.
@@ -51,8 +52,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The trouble is, Yay isn’t included in a standard Arch Linux installation, you need to install it. But pacman can’t do that for you, because Yay is in the AUR and pacman only works with the standard repositories. We can circumvent this [catch-22](https://en.wikipedia.org/wiki/Catch-22%5F%28logic%29) by installing Yay manually.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Checking the Requirements
 
  Because we’re going to be compiling code, we need to have the standard set of development packages installed, and we’re also going to use [Git to retrieve the source code](https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-htc-u23-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/) files, so that has to be installed too.
@@ -64,9 +66,6 @@ git --version`
     
 ![Checking whether the development tools and Git are installed on Arch Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you get an error message instead of a version number, that package isn’t installed. If you need to, you can install the development files with this command:
 
         `sudo pacman -S base-devel`
@@ -79,9 +78,6 @@ git --version`
 
         `sudo pacman -S --needed base-devel git`
     
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ##  Building Yay on Arch Linux
 
  Now that we’re properly equipped to build Yay, we can start the process. The first step is to clone the Git source code repository to your computer. This creates a directory called “yay”, so cd into a directory where you’re happy for this to happen, such as your Downloads directory.
@@ -92,6 +88,10 @@ git --version`
 git clone https://aur.archlinux.org/yay.git`
     
 ![Cloning the yay Git repository](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-6.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We need to change into the newly created directory and call makepkg to build Yay for us.
 
@@ -106,9 +106,6 @@ makepkg -si`
     
 ![Checking the version of yay](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Using Yay to Install and Uninstall Software
 
  Using Yay is similar to using any other command-line package manager. You can use it to install, uninstall, and search for applications.
@@ -122,6 +119,10 @@ makepkg -si`
         `yay -S signal-desktop`
     
  After a few “\[Y/n\]” prompts and a lot of screen output, you’re returned to the command prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Uninstalling Applications With Yay
 
@@ -143,20 +144,22 @@ makepkg -si`
 
 ![A list of search results returned by yay](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The one I’m after is the regular binary, which I can see is at number two on the list. To install it, type “2” and hit Enter. The next two prompts can be answered with the Enter key. When you see “Packages to CleanBuild?” and “Diffs to show?”, just hit Enter.
 
 ![Installing the selected package using yay](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you’re prompted with “Proceed with installation? \[Y/n\]”, you’ll notice the “Y” in the prompt is in uppercase. That means it is the default action, so you can just hit Enter to continue.
 
  After more scrolling screen output, the installation is completed, and you’re returned to the command prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Accessing the Arch User Repository With Yay
 
  For many people, the AUR is a large part of the attraction of using Arch Linux. With Yay installed, using this enormous collection of applications is as easy as using pacman.
@@ -167,8 +170,6 @@ makepkg -si`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +177,20 @@ makepkg -si`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hot-takes-dailys-most-popular-video-tracks/"><u>[New] In 2024, Hot Takes Daily's Most Popular Video Tracks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-key-to-successful-drone-operation-optimal-lipo-selection/"><u>[Updated] 2024 Approved Key to Successful Drone Operation Optimal LiPo Selection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-the-echoes-of-yesteryears-scanning-and-storing-vintage-prints/"><u>[Updated] Capturing the Echoes of Yesteryears Scanning and Storing Vintage Prints</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-make-every-picture-pop-with-these-10-online-photo-fixers/"><u>[Updated] Make Every Picture Pop with These 10 Online Photo Fixers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-12-most-popular-free-internet-calling-apps/"><u>Exploring the 12 Most Popular Free Internet Calling Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/first-timers-insights-into-pixel-density-matters-for-2024/"><u>First-Timer's Insights Into Pixel Density Matters for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-can-i-use-imessage-if-im-not-a-mac-user/"><u>How Can I Use iMessage if I'm Not a Mac User?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-v29-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo V29 Pro Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-overcome-not-found-d3dx941dll-errors-a-detailed-walkthrough/"><u>Steps to Overcome Not Found D3dx9_41.dll Errors: A Detailed Walkthrough</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamline-learning-with-these-6-must-have-apps-for-homework-success/"><u>Streamline Learning with These 6 Must-Have Apps for Homework Success</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-essential-factors-to-evaluate-when-purchasing-your-next-smartwatch/"><u>Top 5 Essential Factors to Evaluate When Purchasing Your Next Smartwatch</u></a></li>
+<li><a href="https://facebook.techidaily.com/upcoming-trend-young-people-stepping-away-from-insta/"><u>Upcoming Trend: Young People Stepping Away From Insta</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-11-pin-withdrawal-procedure-for-enhanced-access/"><u>Windows 11 PIN Withdrawal Procedure for Enhanced Access</u></a></li>
+</ul></div>
 

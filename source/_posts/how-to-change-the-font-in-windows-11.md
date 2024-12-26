@@ -1,7 +1,7 @@
 ---
 title: How to Change the Font in Windows 11
-date: 2024-08-30T13:38:21.605Z
-updated: 2024-08-31T13:38:21.605Z
+date: 2024-12-19T20:47:49.329Z
+updated: 2024-12-25T17:15:50.717Z
 categories:
   - BestProducts
 description: This Article Describes How to Change the Font in Windows 11
@@ -12,11 +12,23 @@ thumbnail: https://www.lifewire.com/thmb/-cTvGd46z-nxjaB4BcHIRDdTv0U=/400x300/fi
 ## Fixing the Issue of Non-Responsive Search in Windows 11 – Top Tips
  It's hard to find files and apps when the Windows 10 search bar is not working. Below are all the different ways we've been able to fix this problem.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Search Is Not Working in Windows 10
 
  It's more common than you might think for the Windows search box to stop working. This means there are several possible causes, like a temporary glitch or an unresolved software bug. Another possible reason Windows search isn't working like you want it to is that a very specific setting has been switched off.
 
 ![Windows search not working](https://www.lifewire.com/thmb/eUOincgBNCFIDt1gubIW-meSdKs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windowssearchfix06-5bdc331846e0fb002d90f052.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Windows 10 Search Problems
 
@@ -69,8 +81,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,8 +88,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-streamsaver-fb-video-downloader-suite/"><u>[New] 2024 Approved StreamSaver FB Video Downloader Suite</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-delving-into-new-iphone-photography-paradigms-with-ios-11/"><u>[New] Delving Into New iPhone Photography Paradigms with iOS 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-expert-obs-tutorial-for-effective-skype-recording-for-2024/"><u>[New] Expert OBS Tutorial for Effective Skype Recording for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-gamers-paradise-leading-5-hdmi-21-monitors-for-ps5/"><u>[New] In 2024, Gamers' Paradise Leading 5 HDMI 2.1 Monitors for PS5</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-10-open-source-os-friendly-videography-software/"><u>[New] Top 10 Open-Source OS-Friendly Videography Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-engagement-the-step-by-step-guide-to-crafting-gif-comments-on-instagram/"><u>Boost Engagement: The Step-by-Step Guide to Crafting GIF Comments on Instagram</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-sending-audio-messages-from-your-iphone-effortlessly/"><u>Complete Guide: Sending Audio Messages From Your iPhone Effortlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-fixes-for-the-common-ieframedll-problem-in-windows-computers/"><u>DIY Fixes for the Common Ieframe.dll Problem in Windows Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-disney-plus-screenings-top-rated-childrens-movies-for-the-whole-family-in-july-2024/"><u>Essential Disney Plus Screenings: Top-Rated Children's Movies for the Whole Family in July 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-compatibility-errors-startech-device-drivers-for-windows-windows-10-8-7/"><u>Fixing Compatibility Errors: StarTech Device Drivers for Windows (Windows 10, 8, 7)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipad-vs-ipad-air-a-comprehensive-comparison-determining-the-ideal-device-for-your-needs-zdnet/"><u>IPad Vs. IPad Air: A Comprehensive Comparison – Determining the Ideal Device for Your Needs | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/july-2024s-premier-selection-of-free-driver-software-refreshers/"><u>July 2024'S Premier Selection of Free Driver Software Refreshers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-gaming-space-on-xbox-one-by-adding-a-portable-storage-solution/"><u>Maximize Gaming Space on Xbox One by Adding a Portable Storage Solution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722901726707-perform-a-photoshop-magic-act-erase-those-glassy-pets-peepers/"><u>Perform a Photoshop Magic Act: Erase Those Glassy Pets' Peepers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-a-non-responsive-tiktok-app/"><u>Quick Fixes for a Non-Responsive TikTok App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-the-safest-email-service-options/"><u>The Ultimate List of the Safest Email Service Options</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/wiederherstellung-verlorener-fotos-auf-windows-10-losungsansatze-und-tipps/"><u>Wiederherstellung Verlorener Fotos Auf Windows 10: Lösungsansätze Und Tipps</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->

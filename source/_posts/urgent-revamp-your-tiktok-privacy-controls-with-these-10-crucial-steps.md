@@ -1,7 +1,7 @@
 ---
 title: "Urgent: Revamp Your TikTok Privacy Controls with These 10 Crucial Steps"
-date: 2024-08-30T13:32:45.864Z
-updated: 2024-08-31T13:32:45.864Z
+date: 2024-12-25T07:37:01.132Z
+updated: 2024-12-26T05:41:17.590Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 ---
 
 ## Urgent: Revamp Your TikTok Privacy Controls with These 10 Crucial Steps
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
  Already banned in many countries and facing restrictions in the US, TikTok is under intense scrutiny due to concerns about data collection. Given this, you may want to be mindful of the information you share on the app and with your followers. Here are some settings you can adjust to improve your privacy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  Set Your Account to Private 
 
  When your profile is public, anyone, whether they have a TikTok account or not, can view your profile and the content you’ve shared. By setting your account to private, only people you approve as followers can see your profile and content. So, to keep your content within a trusted circle of friends and family, you should make your account private.
@@ -34,11 +42,6 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
 ![Making a TikTok Acconut Private.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1-making-a-tiktok-acconut-private.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 2  Disable Activity Status 
 
  TikTok's Activity Status feature lets your mutual followers, users you follow who also follow you back, see a green dot on your profile, inbox, and message threads, indicating that you’re active. They can also see when you were last active. For this feature to work, both you and your follower must have it enabled.
@@ -48,8 +51,13 @@ The powerful video editing program for your Windows PC</a>
 ![Disabling Activity Status in TikTok Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-disabling-activity-status-in-tiktok-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3  Limit Who Can Mention, Tag, or Comment on Your Posts 
 
  TikTok lets you fully control who can comment on your videos and offers additional settings to handle inappropriate comments. You can also restrict who can mention or tag you on the platform.
@@ -62,9 +70,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![Managing who can mention or tag us on TikTok.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-managing-who-can-mention-or-tag-us-on-tiktok-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## 4  Make Your Following List Private 
 
  By default, TikTok allows your followers to view your entire following list, including mutual friends and users they don’t yet follow. This could enable them to track who you follow, potentially leading to unwanted interactions. If any of your followers have malicious intent, they could also target those individuals.
@@ -73,26 +78,12 @@ The powerful video editing program for your Windows PC</a>
 
 ![Limiting followers from seeing our Following List on TikTok.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-limiting-followers-from-seeing-our-following-list-on-tiktok.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 5  Control Who Can Send You a DM 
 
  Similar to tags, comments, and mentions, TikTok allows you to control who can send you direct messages. This feature helps avoid getting inappropriate messages from random followers. To make your DMs more private, go to Settings and Privacy > Privacy > Direct Messages. Tap on “Allow Direct Messages From” and choose your preferred option.
 
 ![Controlling who can send me a DM on TikTok.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/controlling-who-can-sent-me-a-dm-on-tiktok.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also turn off the “Read Status” toggle to prevent others from knowing when you’ve read their messages. Additionally, you can enable “Safe Mode” to filter out messages with sensitive content. You can also turn on the ‘Nude Filter” to block nudity and filter messages containing specific keywords.
 
 ## 6  Change Your Ads Preferences 
@@ -106,12 +97,9 @@ The powerful video editing program for your Windows PC</a>
 ![Tweaking Ad Preferences in TikTok settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/7-tweaking-ad-preferences-in-tiktok-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ## 7  Turn Off Profile and Post Views History 
 
 [Enabling Profile Views History](https://youtube-sure.techidaily.com/024-approved-pioneer-the-future-of-youtube-content-with-tubebuddy/) lets you see who viewed your TikTok profile. It also lets your followers know when you’ve checked their profile in the past 30 days. Similarly, Post Views History lets your followers see when you view their posts and allows you to see when they view yours.
@@ -128,6 +116,10 @@ The powerful video editing program for your Windows PC</a>
 
 ![Tweaking Location Services settings on TikTok.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/9-tweaking-location-services-settings-on-tiktok.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9  Turn Off Posts in Nearby Feed 
 
  Nearby feed is a personalized feed on TikTok that displays content from local creators in your city, state, or province. By enabling the “Posts in Nearby Feed” feature, your posts will appear in this feed for users in your area. You can turn off this feature if you prefer to keep your content private from local users.
@@ -137,8 +129,9 @@ The powerful video editing program for your Windows PC</a>
 ![Disabling Posts in Nearby Feed in TikTok Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/3-disabling-posts-in-nearby-feed-in-tiktok-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10  Stop Sharing Your Data With Third-Party Services 
 
  When you log in to third-party websites or services using your TikTok account, they request permission to access some of your account information. Often, we grant this permission without even reviewing the terms and conditions. Once permitted, these apps continue to track your data even if you no longer trust them.
@@ -155,8 +148,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +155,20 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-laws-surrounding-personal-recording-on-youtube-site-for-2024/"><u>[Updated] Laws Surrounding Personal Recording on YouTube Site for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtubes-prime-stream-essential-tech-equipment-guide-for-creators/"><u>[Updated] YouTube's Prime Stream Essential Tech, Equipment Guide for Creators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-dramatically-rewind-your-snaps-the-snapchat-way/"><u>2024 Approved Dramatically Rewind Your Snaps The Snapchat Way</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-beginners-tutorial-to-automatic-picture-timers-in-your-iphones-camera-app/"><u>A Beginner's Tutorial to Automatic Picture Timers in Your iPhone's Camera App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/defrost-your-macbook-air-stuck-in-ice-mode-solutions-for-a-smooth-experience/"><u>Defrost Your MacBook Air Stuck in Ice Mode – Solutions for a Smooth Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/discover-the-ultimate-list-of-free-aac-music-apps-compatible-with-windows-and-mac-systems/"><u>Discover the Ultimate List of Free AAC Music Apps - Compatible with Windows and Mac Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-ipad-pro-with-m1-chip-delivers-unmatched-laptop-level-power/"><u>Expert Analysis: IPad Pro with M1 Chip Delivers Unmatched Laptop-Level Power</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-poco-c51-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Poco C51 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-connectivity-issues-with-your-apple-watch-step-count/"><u>Overcoming Connectivity Issues with Your Apple Watch Step Count</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pixel-10-unveiled-anticipated-costs-launch-timeline-and-tech-insights/"><u>Pixel 10 Unveiled: Anticipated Costs, Launch Timeline & Tech Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/recharge-or-restart-fixing-a-laptopdesktop-with-no-sign-of-power/"><u>Recharge or Restart: Fixing a Laptop/Desktop with No Sign of Power</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unmatched-excel-mastery-gap-across-ai-dialogue-systems/"><u>The Unmatched Excel Mastery Gap Across AI Dialogue Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-solving-the-issue-of-windows-11-failing-to-power-off/"><u>Ultimate Guide: Solving the Issue of Windows 11 Failing to Power Off</u></a></li>
+</ul></div>
 

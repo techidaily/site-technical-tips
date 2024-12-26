@@ -1,7 +1,7 @@
 ---
 title: "Mastering Collaborative Work in Apple's iCloud: A Detailed Guide Based on ZDNet's Analysis"
-date: 2024-12-02T04:33:19.550Z
-updated: 2024-12-05T00:53:32.068Z
+date: 2024-12-23T19:58:56.520Z
+updated: 2024-12-25T22:30:24.253Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple
@@ -41,10 +41,6 @@ I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/76
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Open System Preferences by clicking the Apple button in the top left corner of your desktop, and click System Preferences. In the resulting window, click Apple ID > iCloud Drive > Options (**Figure 1**).
@@ -62,10 +58,14 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable the Collaboration feature
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -76,7 +76,7 @@ The first thing you must do is open the Pages document that will be shared with 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Enable the Collaborate feature
@@ -86,10 +86,6 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -108,6 +104,10 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -149,18 +149,16 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-tiktoks-favorite-products-the-best-on-amazon/"><u>[New] 2024 Approved TikTok's Favorite Products The Best On Amazon</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-secrets-to-flawless-webp-to-jpg-image-conversion/"><u>[New] Secrets to Flawless WebP-to-JPG Image Conversion</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-premiere-20-unlicensed-pubg-picture-collections/"><u>[Updated] In 2024, Premiere 20 Unlicensed PUBG Picture Collections</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/choosing-your-ideal-apple-laptop-a-detailed-comparison-of-the-macbook-pro-vs-macbook-air-insights-and-recommendations/"><u>Choosing Your Ideal Apple Laptop: A Detailed Comparison of the MacBook Pro Vs. MacBook Air – Insights and Recommendations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-new-corsair-icue-for-enhanced-pc-setup-windows-1110-compatible/"><u>Get Your Hands on the New Corsair iCUE for Enhanced PC Setup: Windows 11/10 Compatible</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/new-leak-suggests-apple-pushes-back-launch-of-ai-capabilities-to-october-insights/"><u>New Leak Suggests Apple Pushes Back Launch of AI Capabilities to October - Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/nintendo-switch-online-price-analysis-required/"><u>Nintendo Switch Online Price Analysis Required</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pros-vs-cons-the-ultimate-guide-to-choosing-a-great-mac-vpn-experts-weigh-in-techradar/"><u>Pros vs Cons: The Ultimate Guide to Choosing a Great Mac VPN (Experts Weigh In) | TechRadar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stay-connected-with-ease-tips-for-sending-texts-and-calls-using-your-apple-watch-insights/"><u>Stay Connected with Ease: Tips for Sending Texts and Calls Using Your Apple Watch Insights</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/struggling-to-perform-a-version-check-on-ffxiv-issues-and-solutions/"><u>Struggling to Perform a Version Check on FFXIV: Issues and Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-kid-friendly-ipad-models-expert-picks-by-zdnet/"><u>Top 5 Kid-Friendly iPad Models : Expert Picks by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-apple-watch-straps-comprehensive-reviews-by-tech-pros-zdnet/"><u>Top-Rated Apple Watch Straps : Comprehensive Reviews by Tech Pros | ZDNet</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/visual-snippet-retriever/"><u>Visual Snippet Retriever</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-transform-into-an-ultimate-hit-essential-seo-tips-for-youtube-videos/"><u>[New] In 2024, Transform Into an Ultimate Hit Essential SEO Tips for YouTube Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-quick-vocal-alteration-tricks-for-pubg-players/"><u>[Updated] In 2024, Quick Vocal Alteration Tricks for PUBG Players</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-transforming-vr-skeletons-into-your-ideal-digital-persona/"><u>[Updated] Transforming VR Skeletons Into Your Ideal Digital Persona</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/vobm4v-movavi/"><u>無限制網路上的免費VOB到M4V格式轉換 - 使用Movavi導航</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-safety-masterful-firewall-configuration/"><u>Enhancing Safety: Masterful Firewall Configuration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/formato-gratuito-para-transformar-mkv-en-mov-usando-el-servicio-online-de-movavi/"><u>Formato Gratuito Para Transformar MKV en MOV Usando El Servicio Online De Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-converter-turn-wmv-files-into-3gp-format-using-easystep/"><u>Free Online Converter: Turn WMV Files Into 3GP Format Using EasyStep</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-gaps-between-explore-elements/"><u>Mending Gaps Between Explore Elements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-fotografo-online-il-meglio-dellediting-di-image-con-editor-immagine/"><u>Movavi Fotografo Online: Il Meglio Dell'Editing Di Image Con Editor Immagine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-i-tuoi-audiolibri-m4a-in-mp3m4b-via-web-scopri-il-metodo-di-conversione-libero/"><u>Trasforma I Tuoi Audiolibri M4A in MP3/M4B Via Web: Scopri Il Metodo Di Conversione Libero!</u></a></li>
 </ul></div>
 

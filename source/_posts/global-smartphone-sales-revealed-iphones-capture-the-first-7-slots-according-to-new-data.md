@@ -1,7 +1,7 @@
 ---
 title: "Global Smartphone Sales Revealed: IPhones Capture the First 7 Slots, According to New Data"
-date: 2024-11-21T17:05:55.502Z
-updated: 2024-11-25T16:02:48.994Z
+date: 2024-12-23T22:04:49.250Z
+updated: 2024-12-26T02:17:21.996Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ But before we get ahead of ourselves, let's dive into all the differences and he
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -61,6 +61,10 @@ Shortly after Apple announced the iPhone 15 lineup, iPhone 14 prices saw a deep 
 
 However, Apple typically discontinues last year's Pro models shortly after announcing a new iPhone lineup to avoid interference with the new iPhone's sales. So, if you want to buy an iPhone 14 Pro, you'll have to consult other vendors like Amazon, Best Buy, or your cell service provider while supplies last.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You're not ready to give up your Lightning cable(s)
 
 It's official: The latest iPhones ditch the Lightning ports and sport a USB-C port instead. The switch to USB-C is mostly important to iPhone users outside of the US, thanks to [a law passed by the European Parliament](https://www.zdnet.com/article/european-parliament-rules-for-universal-charging-ports-on-all-portable-electronic-devices/) mandating all electronic devices be USB-C compatible by the end of 2024.
@@ -89,10 +93,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 Pro if...
 
 Jason Hiner/ZDNET
@@ -105,6 +105,10 @@ The Action Button, first introduced on the [Apple Watch Ultra](https://www.zdnet
 
 You can toggle between actions that can interact with Dynamic Island, like Voice Memos and Camera, and run shortcuts created in the Shortcuts app. Instead of a switch, the iPhone 15 Pro's Action Button looks like the volume up and down buttons.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. You want USB-C charging
 
 The iPhone 15 Pro is in the first generation of iPhones to utilize USB-C charging. The USB-C charging port is very common among almost all non-Apple consumer tech products, so if you have a non-Apple tablet, pair of headphones, or smartwatch, chances are you have a small collection of USB-C cables.
@@ -112,10 +116,6 @@ The iPhone 15 Pro is in the first generation of iPhones to utilize USB-C chargin
 **Also:** [**iPhone 15 review: I spent a month with Apple's base model and found it more 'Pro' than ever**](https://www.zdnet.com/article/iphone-15-plus-review/)
 
 Additionally, the iPhone 15 USB-C cables are color-coordinated with the iPhone color you purchase. So, not only do you now have universal charging, but you also have a matching cable. Cute.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want better performance
 
@@ -135,10 +135,6 @@ The iPhone 15 Pro also has improved computational photography features, specific
 
 Additionally, users can change a picture's subject after taking a photo. If there are two subjects in a photo, iPhone 15 Pro users can decide which subject should be in the foreground and which should be in the background.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Will the iPhone 15 Pro fit in iPhone 14 Pro cases?
 
 The short answer: No.
@@ -149,10 +145,6 @@ The long answer: There are a few cosmetic differences between the iPhone 15 Pro 
 
 First, the iPhone 15 is slimmer than its predecessor. It also sports curved edges instead of flat ones, and has replaced the mute switch for an Action Button. So, if you try to squeeze your iPhone 15 Pro into your iPhone 14 Pro cases, you'll encounter some minor fit issues, and you might damage your new phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Will the iPhone 15 Pro fit iPhone 14 Pro screen protectors?
 
 The short answer: No.
@@ -161,11 +153,19 @@ The long answer: The iPhone 15 Pro won't perfectly fit iPhone 14 Pro screen prot
 
 The iPhone 15 Pro has thinner borders and curved edges, which will make the iPhone 14 Pro screen protectors ill-fitting on the newer phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I trade in my current phone for the iPhone 15?
 
 If you buy your new iPhone 15 from Apple, you can trade in a multitude of devices to receive a credit. If you want to buy your new iPhone in full, you'll want to trade in your old (fully paid off) phone and purchase the new one at Apple. This is because once Apple evaluates your device's condition, Apple will refund your traded device's value to your original form of payment.
 
 If you trade in your device with your mobile carrier, you won't receive a refund, but you'll receive a credit. You can only use the credit toward your phone bill or for other devices sold by your mobile carrier. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -201,20 +201,22 @@ If you trade in your device with your mobile carrier, you won't receive a refund
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-principled-steps-in-logging-live-youtube-videos/"><u>[New] In 2024, Principled Steps in Logging Live YouTube Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dealing-with-service-unavailable-fixing-the-http-503-error-on-your-website/"><u>Dealing with Service Unavailable: Fixing the HTTP 503 Error on Your Website</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-15-dolby-atmos-movies-to-enhance-your-tv-viewing-party/"><u>Discover the Best 15 Dolby Atmos Movies to Enhance Your TV Viewing Party</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/dissecting-your-profit-share-in-youtube-short-creation/"><u>Dissecting Your Profit Share in YouTube Short Creation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-tricks-to-successfully-upgrade-audio-controller-software-in-windows/"><u>Easy Tricks to Successfully Upgrade Audio Controller Software in Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/efficiently-clean-up-your-friends-list-removing-multiple-connections-in-snapchat/"><u>Efficiently Clean Up Your Friends List: Removing Multiple Connections in Snapchat</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/efficiently-managing-bandwidth-consumption-a-comprehnive-guide-for-everyone/"><u>Efficiently Managing Bandwidth Consumption - A Comprehnive Guide for Everyone</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/freeware-fur-sichere-dateisicherung-uber-netzwerk-auf-anderen-computern/"><u>Freeware Für Sichere Dateisicherung Über Netzwerk Auf Anderen Computern</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hidden-insights-for-importer-mastery-on-windows-10-for-2024/"><u>Hidden Insights for Importer Mastery on Windows 10 for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-troubleshoot-when-skype-fails-to-connect-a-step-by-step-guide/"><u>How to Troubleshoot When Skype Fails to Connect: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-for-customizing-and-downloading-spiritual-audio/"><u>In 2024, Step by Step for Customizing and Downloading Spiritual Audio</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722847952924-ipad-specials-and-sales-up-to-the-minute-offers-inside/"><u>IPad Specials and Sales – Up-to-the-Minute Offers Inside</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-changing-the-time-and-date-on-your-kindle-paperwhite-effortlessly/"><u>Master Changing the Time & Date on Your Kindle Paperwhite Effortlessly</u></a></li>
-<li><a href="https://facebook.techidaily.com/top-5-hubs-for-seeking-freelance-opportunities/"><u>Top 5 Hubs for Seeking Freelance Opportunities</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-draft-to-edit-essential-film-techniques-via-youtube/"><u>[New] From Draft to Edit Essential Film Techniques via YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-a-viral-video-journey-6-key-strategies-on-youtube-for-2024/"><u>[Updated] Crafting a Viral Video Journey 6 Key Strategies on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-unleash-potential-with-informed-tagging-on-youtube/"><u>[Updated] Unleash Potential with Informed Tagging on YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-achieve-stellar-clickthrough-rates-via-thumbnail-enlargement-on-youtube/"><u>2024 Approved Achieve Stellar Clickthrough Rates via Thumbnail Enlargement on YouTube</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/franskans-movavi-professionell-vidrorning-av-ditt-skarmbearbetare/"><u>Frånskans Movavi: Professionell Vidrörning Av Ditt Skärmbearbetare</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-converter-change-your-pcx-images-into-gifs-with-movavi/"><u>Free Online Converter: Change Your PCX Images Into GIFs with Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hp-m452dn-printer-working-latest-drivers-for-download/"><u>Get Your HP M452dn Printer Working: Latest Drivers for Download</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-total-spend-on-a-single-youtubers-ads/"><u>In 2024, Total Spend on a Single Youtuber's Ads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/le-prodotti-piu-efficace-per-lorganizzazione-fotografica-nel-settembre-2024-la-tua-lista-finale/"><u>Le Prodotti Più Efficace per L'Organizzazione Fotografica Nel Settembre 2024 - La Tua Lista Finale</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-frei-verfugbare-video-editing-software-fur-pcs-und-mac-entfernungsunerwunschte-videoblocke-einfach/"><u>Top-Frei Verfügbare Video-Editing-Software Für PCs Und Mac – Entfernungsunerwünschte Videoblöcke Einfach</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transcodificar-un-archivo-3gp-a-formato-avi-online-gratis-utiliza-el-servicio-de-movavi/"><u>Transcodificar Un Archivo 3GP a Formato AVI Online Gratis - Utiliza El Servicio De Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/trasformare-opus-in-wav-online-gratuitamente-con-movavi/"><u>Trasformare Opus in Wav Online Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-10-bystrye-shagi-dlya-sozdaniya-ekrana-zahvata-s-ispolzovaniem-programmy-movavi/"><u>Windows 10: Быстрые Шаги Для Создания Экрана Захвата С Использованием Программы Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/nl-t-tr-hkl-mdydt-mkfy-lvn-vfvl-vkvtl/"><u>נעל את אתר הקלא - מדידת משקפי לבן בפועל בקוטל</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dvdmovavi-movavis-ultimate-dvd-writing-and-backup-solution/"><u>データバックアップ・DVD焼き込みソフト「Movavi」ユーザガイド - Movavi's Ultimate DVD Writing & Backup Solution</u></a></li>
 </ul></div>
 

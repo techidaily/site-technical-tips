@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Adding a Digital Driving Permit to iOS Wallet App Based on Local Requirements
-date: 2024-11-23T16:03:09.437Z
-updated: 2024-11-25T16:50:22.116Z
+date: 2024-12-20T18:33:35.662Z
+updated: 2024-12-26T06:04:48.315Z
 tags:
   - apple
 categories:
@@ -31,13 +31,13 @@ And that, Dear Reader, we will accomplish after much option-flicking, headset-we
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to watch Apple spatial videos on the Meta Quest 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What you'll need to get started
@@ -57,7 +57,7 @@ In theory, you could get away with running the four provided sample spatial vide
 Now that you've gathered your prerequisites, let's move some videos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Seriously, RTFM
@@ -97,7 +97,7 @@ As the Facebook poster and I both found out, when Meta says, "If you have an iPh
 Next, I tried it with my wife's iPhone 15 Pro Max. Things went better.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Uploading spatial videos from your iPhone
@@ -115,7 +115,7 @@ Once I tapped upload, the images were processed and presumably converted for use
 In any case, it worked. Within a few minutes, the videos were on my Meta Quest 3\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Playing spatial videos on the Meta Quest 3
@@ -186,20 +186,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-streaming-made-simple-convert-and-broadcast-mp3-songs-online/"><u>[Updated] 2024 Approved Streaming Made Simple Convert and Broadcast MP3 Songs Online</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-generate-10-official-travel-ready-passport-images-no-money-down/"><u>[Updated] Generate 10 Official Travel-Ready Passport Images, No Money Down</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-effortless-guide-installing-vidmate-on-your-computer-plus-a-reliable-substitute/"><u>1. Effortless Guide: Installing VidMate on Your Computer - Plus a Reliable Substitute!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722889571824-accidentally-hit-send-learn-the-ins-and-outs-of-email-retrieval-in-outlook-here/"><u>Accidentally Hit Send? Learn the Ins and Outs of Email Retrieval in Outlook Here!</u></a></li>
-<li><a href="https://win-web.techidaily.com/1728486254637-aomei-aomei/"><u>AOMEI版權與使用限制 - 了解AOMEI法律框架</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enthralling-games-on-apple-devices-takes-from-the-room-and-myst-series/"><u>Enthralling Games on Apple Devices: Takes From ‘The Room’ & ‘Myst’ Series</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-minecraft-techniques-mastering-teleportation-commands-for-seamless-adventures/"><u>Expert Minecraft Techniques: Mastering Teleportation Commands for Seamless Adventures</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-world-of-wireless-music-understanding-dts-play-fi-technology/"><u>Exploring the World of Wireless Music: Understanding DTS Play-Fi Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-set-up-live-play-sharing-on-sonys-ps5-system/"><u>How to Set Up Live Play-Sharing on Sony's PS5 System</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 6 Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/initial-cinematic-recording-dissection-for-2024/"><u>Initial Cinematic Recording Dissection for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211762285-touchpad-troubles-reveal-and-repair-guide-awaits/"><u>Touchpad Troubles? Reveal & Repair Guide Awaits</u></a></li>
-<li><a href="https://video-capture.techidaily.com/unlocking-the-full-potential-of-iphone-7-screen-save-for-2024/"><u>Unlocking the Full Potential of iPhone 7 Screen Save for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upcoming-revolutionary-foldable-iphone-sneak-peek-at-expected-pricing-release-momentum-and-advanced-specifications-with-insider-rumors/"><u>Upcoming Revolutionary Foldable iPhone: Sneak Peek at Expected Pricing, Release Momentum & Advanced Specifications with Insider Rumors</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-design-personalized-brands-with-zero-cost-templates/"><u>[Updated] Design Personalized Brands with Zero-Cost Templates</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-6-software-for-multilingual-video-aids/"><u>[Updated] Leading 6 Software for Multilingual Video Aids</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-one-minute-color-magic-for-2024/"><u>[Updated] One Minute Color Magic for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-to-rewriting-your-dvds-copy-conversion-compression-and-editing-techniques/"><u>Complete Guide to Rewriting Your DVDs: Copy, Conversion, Compression & Editing Techniques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oneplus-nord-ce-3-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix OnePlus Nord CE 3 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From iPhone 6 Plus?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revamping-online-speech-chromebooks-top-5-voice-alteration-tools-revealed/"><u>In 2024, Revamping Online Speech Chromebook's Top 5 Voice Alteration Tools Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/professional-photo-studio-of-elinor-zucchet-on-movavi-premium-quality-shots/"><u>Professional Photo Studio of Elinor Zucchet on Movavi - Premium Quality Shots</u></a></li>
+<li><a href="https://extra-support.techidaily.com/screen-protectors-that-enhance-vr-filming-for-2024/"><u>Screen Protectors That Enhance VR Filming for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-16-screen-capture-tools-for-windows-11-users-a-comprehensive-guide/"><u>Top 16 Screen Capture Tools for Windows 11 Users: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-19-solutions-de-creation-de-diaporamas-photo-pour-windows-mac-et-en-ligne-2024/"><u>Top 19 Solutions De Création De Diaporamas Photo Pour Windows, Mac Et en Ligne - 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforma-tus-ebooks-mobi-con-el-conversor-online-de-movavi-sin-coste-alguno/"><u>Transforma Tus Ebooks MOBI Con El Conversor Online De Movavi Sin Coste Alguno</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/trucco-al-video-rallente-i-migliori-metodi-da-utilizzare-nel-2024-guida-definitiva-a-cominciare-a-rallentare-i-tuoi-file-multimedia/"><u>Trucco Al Video Rallente: I Migliori Metodi Da Utilizzare Nel 2024 - Guida Definitiva a Cominciare a Rallentare I Tuoi File Multimedia</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unexpected-lockout-restore-entry-with-our-guide-on-retrieving-your-ipad-passcode/"><u>Unexpected Lockout? Restore Entry with Our Guide on Retrieving Your iPad Passcode</u></a></li>
 </ul></div>
 

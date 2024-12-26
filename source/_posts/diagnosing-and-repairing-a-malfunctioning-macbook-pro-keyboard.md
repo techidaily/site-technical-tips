@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing a Malfunctioning MacBook Pro Keyboard
-date: 2024-08-30T13:39:17.920Z
-updated: 2024-08-31T13:39:17.920Z
+date: 2024-12-19T22:28:39.284Z
+updated: 2024-12-26T06:11:40.912Z
 categories:
   - BestProducts
 description: This Article Describes Diagnosing and Repairing a Malfunctioning MacBook Pro Keyboard
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/hVhMBa_RT9pg9sPYv_9nH5zQxCA=/400x300/fi
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Ways to Fix the Problem
 
@@ -38,6 +42,10 @@ thumbnail: https://www.lifewire.com/thmb/hVhMBa_RT9pg9sPYv_9nH5zQxCA=/400x300/fi
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -50,6 +58,10 @@ thumbnail: https://www.lifewire.com/thmb/hVhMBa_RT9pg9sPYv_9nH5zQxCA=/400x300/fi
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -80,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,8 +99,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-get-free-youtube-music-anytime-with-these-high-performing-splitters/"><u>[Updated] 2024 Approved Get Free YouTube Music Anytime With These High-Performing Splitters</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elite-recording-devices-for-livestream-producers/"><u>[Updated] In 2024, Elite Recording Devices for Livestream Producers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-definitive-guide-to-removing-persistent-youtube-channels-on-all-screens/"><u>[Updated] In 2024, The Definitive Guide to Removing Persistent Youtube Channels on All Screens</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-strategies-for-overcoming-common-speaker-problems-in-computers/"><u>Comprehensive Strategies for Overcoming Common Speaker Problems in Computers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-create-restore-point-in-windows-7/"><u>How to Create Restore Point in Windows 7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 6 Plus?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/keep-your-valuable-data-intact-a-guide-to-5-reliable-backup-solutions/"><u>Keep Your Valuable Data Intact: A Guide to 5 Reliable Backup Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-optical-disk-driver-challenges-a-comprehensive-tutorial-on-forcing-ejection/"><u>Overcoming Optical Disk Driver Challenges - A Comprehensive Tutorial on Forcing Ejection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-troubleshooting-for-avcodecdll-file-not-found-issues-on-your-pc/"><u>Quick Troubleshooting for Avcodec.dll File Not Found Issues on Your PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/reinstatement-complete-code-cleared/"><u>Reinstatement Complete - Code Cleared</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-msvcrt10dll-file-missing-a-step-by-step-guide/"><u>Resolving MSVCRT10.DLL File Missing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-syncing-airpods-with-macbook-air/"><u>Step-by-Step Guide to Syncing AirPods with MacBook Air</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-booking-your-visit-at-the-genius-bar/"><u>Step-by-Step Guide: Booking Your Visit at the Genius Bar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-saving-netflix-series-and-movies-on-pc-or-mac/"><u>Step-by-Step Instructions for Saving Netflix Series and Movies on PC or Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-latest-update-editing-tools-added-to-dall-e-3-but-still-refinements-needed/"><u>The Latest Update: Editing Tools Added to DALL-E 3, But Still Refinements Needed</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-tips-for-when-spotifydownload-fails-on-your-computer-or-laptop/"><u>Troubleshooting Tips for When SpotifyDownload Fails on Your Computer or Laptop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-syncing-your-logitech-mouse-with-any-device/"><u>Ultimate Guide: Syncing Your Logitech Mouse with Any Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-attribution-how-to-credit-sources-for-conversations-with-chatgpt/"><u>Understanding Attribution: How to Credit Sources for Conversations with ChatGPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-guide-to-the-best-roku-tvs-and-players-for-enhanced-viewing/"><u>ZDNET's Ultimate Guide to the Best Roku TVs and Players for Enhanced Viewing</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Discover the Hidden Space Consumed by Old Scans on Your Mac – Learn How to Reclaim It
-date: 2024-08-30T13:33:19.755Z
-updated: 2024-08-31T13:33:19.755Z
+date: 2024-12-24T08:39:47.021Z
+updated: 2024-12-26T01:34:02.237Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ## Discover the Hidden Space Consumed by Old Scans on Your Mac – Learn How to Reclaim It
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Raw scans made on your Mac are stored in the "Pictures" folder, potentially taking up lots of space due to the size of uncompressed image data.
@@ -18,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 * Change the default save location for scans to easily track and manage them in the future.
 
  Scanners can be super handy, but they tend to leave a lot of unwanted junk behind. If you're a Mac user who does a lot of scanning, you could probably recover a fair chunk of free space simply by emptying a single folder. Here's how.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Where to Find Raw Scans on macOS
 
@@ -31,6 +39,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![Highlighted Pictures folder in a Mac Finder window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/htg-scan-03.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, if you prefer to hang onto the raw scans for future projects or posterity, you can [create a custom folder](https://fox-helps.techidaily.com/updated-2024-approved-sharpening-the-sight-on-minecraft-structures/) in a location you won’t lose track of and then drag and drop the scans you want to keep into it for easier locating later.
 
  Something to be aware of is that the name of these raw scan files can change depending on the scanner and drivers you’re using, which makes a [manual search via the Finder](https://youtube-stream.techidaily.com/2024-approved-from-creator-to-earnings-successful-youtube-short-strategies/) difficult. Some apps may also use their own Pictures folder, which complicates doing a search for just the folder as well.
@@ -38,8 +50,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  This is why it’s necessary to take the specific directory route noted above. Anything else is unlikely to turn up anything of note, which could give the mistaken impression that your Mac doesn’t have any excess scan files kicking around.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Change Save Location to Keep Track of Raw Scans
 
  Rather than trying to memorize, write down, or look up where those scan files get hidden, there’s another way to make them easier to deal with in the future: change the default save location.
@@ -50,23 +63,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![Printers & Scanners menu selected in Mac System Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/htg-scan-05.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click the “Open Scanner” button to open your Mac’s Image Capture app and pull up the main scanning options. If the window doesn’t appear or the scanning options are blank, you may need to turn the scanner on first.
 
 ![Epson scanner details window in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/htg-scan-06.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Find the “Scan To:” option in the menu and open the drop-down menu next to it. Choose a new location to save your scans and make a note of it.
 
 ![Opened "Scan To:" drop-down menu with alternative save locations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/htg-scan-07.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
  A handful of scans are unlikely to cause any major storage problems unless you scan at a particularly high resolution which makes for [much larger files](https://win11.techidaily.com/addressing-non-functional-gadget-alert-in-windows-11/). In a situation like that, you won’t need to worry about digging through the hard drive to clear out those old scans.
@@ -79,8 +87,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -88,4 +94,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-spoof-spectacle-steps-to-create-a-parody/"><u>[New] 2024 Approved Spoof Spectacle Steps to Create a Parody</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-5-best-webcams-for-gaming-for-2024/"><u>[New] 5 Best Webcams for Gaming for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-expert-whatsapp-moves-for-the-modern-chatter/"><u>[New] Expert WhatsApp Moves for the Modern Chatter</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-masterful-insights-the-top-6-video-snaggers-on-mac/"><u>[New] In 2024, Masterful Insights The Top 6 Video Snaggers on Mac</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-tricks-for-making-fb-ads-pop-up-on-screen/"><u>[Updated] 2024 Approved Tricks for Making FB Ads Pop Up on Screen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connect-and-cast-enjoy-disney-plus-movies-and-shows-via-chromecast/"><u>Connect and Cast: Enjoy Disney Plus Movies & Shows via Chromecast</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-for-resolving-unfixable-bios-memory-mistakes-whea/"><u>Expert Advice for Resolving Unfixable BIOS Memory Mistakes (WHEA)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-insights-into-the-m3-macbook-pro-anticipated-debut-pricing-insight-and-complete-specs-overview/"><u>In-Depth Insights Into the M3 MacBook Pro - Anticipated Debut, Pricing Insight & Complete Specs Overview</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/protect-your-information-with-ease-learn-how-to-encrypt-files-in-windows-11-using-yl-computing-tools/"><u>Protect Your Information with Ease: Learn How to Encrypt Files in Windows 11 Using YL Computing Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016533120-revitalize-your-webex-audio-the-essential-guide-to-mic-fixes-in-2n4/"><u>Revitalize Your Webex Audio - The Essential Guide to Mic Fixes in 2N4</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-find-x6-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-setting-up-your-ps-vr-headset-with-a-personal-computer/"><u>Ultimate Guide: Setting Up Your PS VR Headset with a Personal Computer</u></a></li>
+</ul></div>
 

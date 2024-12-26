@@ -1,7 +1,7 @@
 ---
 title: IMessage Communication Guide for Windows Users | ZDNet
-date: 2024-11-18T16:36:53.119Z
-updated: 2024-11-25T17:12:37.450Z
+date: 2024-12-24T19:45:51.648Z
+updated: 2024-12-25T16:13:42.267Z
 tags:
   - apple
 categories:
@@ -62,6 +62,10 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -73,7 +77,7 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
@@ -83,7 +87,7 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
@@ -91,10 +95,6 @@ Screenshot by Lance Whitney/ZDNET
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -108,11 +108,11 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -140,15 +140,15 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -192,24 +192,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-graphic-portrayal-of-future-social-momentum/"><u>[New] 2024 Approved Graphic Portrayal of Future Social Momentum</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-maximize-impact-with-professional-grade-fb-cover-videos-for-2024/"><u>[New] Maximize Impact with Professional-Grade FB Cover Videos for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-slow-motion-revolution-comprehensive-look-at-2024-version/"><u>[New] Slow Motion Revolution Comprehensive Look at 2024 Version</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-harmonizing-services-uniting-your-musical-lists-for-2024/"><u>[Updated] Harmonizing Services Uniting Your Musical Lists for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/amazon-prime-day-2024-the-ultimate-guide-with-all-the-essentials/"><u>Amazon Prime Day 2024: The Ultimate Guide with All the Essentials</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/clear-the-chaos-edit-and-cull-your-bulky-tiktok-collections/"><u>Clear the Chaos Edit & Cull Your Bulky TikTok Collections</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conquer-system-error-0xc0000185-with-this-ultimate-fixing-manual/"><u>Conquer System Error 0XC0000185 with This Ultimate Fixing Manual</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-restore-apple-mail-on-your-ios-device/"><u>How to Restore Apple Mail on Your iOS Device</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-professional-fixes-enhance-dull-iphone-hdri-expert-tips-for-premiere-pro-users/"><u>In 2024, [Professional Fixes] Enhance Dull iPhone HDRI Expert Tips for Premiere Pro Users</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-nubia-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Nubia Phone Now with These Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/in-depth-analysis-of-ipad-pro-m4-versus-macbook-air-which-one-wins-out/"><u>In-Depth Analysis of IPad Pro (M4) Versus MacBook Air: Which One Wins Out?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/optimize-your-teams-productivity-a-guide-to-using-the-copilot-functionality-in-microsoft-teams/"><u>Optimize Your Team's Productivity: A Guide to Using the Copilot Functionality in Microsoft Teams</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fix-how-to-clear-and-reboot-network-settings-on-your-mac/"><u>Quick Fix: How to Clear and Reboot Network Settings on Your Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-disk-errors-swiftly-how-to-employ-the-chkdsk-utility-in-windows/"><u>Resolving Disk Errors Swiftly: How to Employ the Chkdsk Utility in Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/rock-your-ears-8-amazing-free-music-apps-to-install-on-your-iphone-now/"><u>Rock Your Ears: 8 Amazing Free Music Apps to Install on Your iPhone Now</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/step-by-step-enablingdisabling-picture-in-picture-for-2024/"><u>Step by Step Enabling/Disabling Picture-in-Picture for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-correcting-accidental-reposts-on-tiktok/"><u>Step-by-Step Guide: Correcting Accidental Reposts on TikTok</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-discord-downtime-identifying-if-youre-alone-in-facing-outages-or-if-its-a-widespread-problem/"><u>Understanding Discord Downtime: Identifying If You're Alone in Facing Outages or if It's a Widespread Problem.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-world-of-file-conversion-in-vlc-starting-with-mp4/"><u>[New] Navigating the World of File Conversion in VLC, Starting with MP4</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-10-budget-friendly-cloud-service-providers-for-2024/"><u>[New] Top 10 Budget-Friendly Cloud Service Providers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-boosting-connections-on-snapchat-master-the-art-of-sharing-gifs/"><u>[Updated] In 2024, Boosting Connections on Snapchat Master the Art of Sharing GIFs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversione-gratuita-da-wav-a-m4a-online-movavi-il-tuo-metodo-rapido-e-facile/"><u>Conversione Gratuita Da WAV a M4A Online - Movavi: Il Tuo Metodo Rapido E Facile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversione-mov-in-formato-aac-on-line-soluzione-gratuita-e-facile-da-usare-di-moveon/"><u>Conversione MOV in Formato AAC On-Line: Soluzione Gratuita E Facile Da Usare Di MOVEON!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/creacion-gratis-de-iconos-animados-en-gif-desde-video-guia-del-conversor-online-movafi/"><u>Creación Gratis De Iconos Animados en .GIF Desde Vídeo: Guía Del Conversor Online MOVAFI</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/enrich-your-visuals-captions-on-the-go-in-instagram/"><u>Enrich Your Visuals Captions on the Go in Instagram</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722958317889-get-the-latest-asus-vg248qe-driver-updates-for-your-windows-pc-with-ease/"><u>Get the Latest Asus VG248QE Driver Updates for Your Windows PC with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratis-omzetting-van-mpeg-bestandjes-online-efficient-en-vriendelijk-movavi/"><u>Gratis Omzetting Van MPEG-Bestandjes Online: Efficiënt en Vriendelijk - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-portfolio-assemblage-diverse-content-repository/"><u>Movavi Portfolio Assemblage - Diverse Content Repository</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-iphones-data-connection-a-guide-to-the-best-fixes-around/"><u>Reviving Your iPhone’s Data Connection: A Guide to the Best Fixes Around</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/sharing-twitter-video-feeds-via-facebook-platform-for-2024/"><u>Sharing Twitter Video Feeds via Facebook Platform for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mka-and-avc-movavi/"><u>オンラインでフリー:MKA & AVC形式間容易な変換 無料MOVAVIサービス</u></a></li>
 </ul></div>
 

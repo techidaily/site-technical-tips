@@ -1,7 +1,7 @@
 ---
 title: "Holding on to My iPhone 14: Four Reasons Against Upgrading to the New iPhone 16 Pro"
-date: 2024-11-23T17:09:06.124Z
-updated: 2024-11-25T16:40:24.513Z
+date: 2024-12-20T05:12:08.562Z
+updated: 2024-12-26T02:08:49.978Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. We need a clearer Apple Intelligence timeline
@@ -43,7 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -57,7 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -79,7 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -124,24 +124,20 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-transformation-editors-that-impress-for-2024/"><u>[Updated] Instagram Transformation Editors That Impress for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-vocal-customization-techniques-in-tiktok-videos/"><u>[Updated] Mastering Vocal Customization Techniques in TikTok Videos</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-cant-turn-off-on-windows-11-solved/"><u>Bluetooth Can't Turn Off on Windows 11 [Solved]</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/chatgpt-plus-should-you-level-up-here-are-5-persuasive-benefits-to-know/"><u>ChatGPT Plus: Should You Level-Up? Here Are 5 Persuasive Benefits to Know!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/crafting-dialogue-and-direction-in-film-scripts-for-2024/"><u>Crafting Dialogue and Direction in Film Scripts for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/detailed-tutorial-how-to-address-the-not-found-d3dx924dll-file-problem/"><u>Detailed Tutorial: How to Address the Not Found d3dx9_24.dll File Problem</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-the-best-films-featuring-dolby-atmos-sound-for-an-incredible-home-cinema-session/"><u>Explore the Best Films Featuring Dolby Atmos Sound for an Incredible Home Cinema Session</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/introducing-the-most-recent-upgrade-in-apples-macbook-lineup/"><u>Introducing the Most Recent Upgrade in Apple's MacBook Lineup!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/meta-ai-demystified-unveiling-the-power-behind-advanced-artifice-intelligence-systems/"><u>Meta AI Demystified: Unveiling the Power Behind Advanced Artifice Intelligence Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-depths-of-macos-file-management-a-comprehensive-guide-to-showing-hidden-files-using-terminal-commands/"><u>Navigating the Depths of macOS File Management: A Comprehensive Guide to Showing Hidden Files Using Terminal Commands</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-upgrading-the-epson-tm-t88v-driver-on-microsoft-windows/"><u>Step-by-Step Guide: Upgrading the EPSON TM-T88v Driver on Microsoft Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-composing-audio-notes-on-an-iphone/"><u>Step-by-Step Tutorial: Composing Audio Notes on an iPhone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tech-meets-tradition-unleashing-potential-with-laptops-phones-and-bestsellers/"><u>Tech Meets Tradition: Unleashing Potential with Laptops, Phones, & Bestsellers!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-next-big-thing-in-phones-rumors-on-samsungs-galaxy-s25-ultra-pricing-and-launch-date-insights/"><u>The Next Big Thing in Phones: Rumors on Samsung's Galaxy S25 Ultra - Pricing & Launch Date Insights</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-adventure-anthology-top-10-game-selection/"><u>The Ultimate Adventure Anthology – Top 10 Game Selection</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-fraps-experience-for-game-capture/"><u>The Ultimate Fraps Experience for Game Capture</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleash-the-full-potential-of-your-images-with-powerful-pixlr-hacks/"><u>Unleash the Full Potential of Your Images with Powerful Pixlr Hacks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-step-by-step-guide-to-perfecting-videos-in-youtube-studio/"><u>[Updated] In 2024, Step-by-Step Guide to Perfecting Videos in YouTube Studio</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-leveraging-color-grading-using-luts-in-ae/"><u>[Updated] Leveraging Color Grading Using LUTs in AE</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-nubia-red-magic-9-proplus-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Nubia Red Magic 9 Pro+ Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-tutorial-on-activating-and-utilizing-2fa-on-twitch-platforms/"><u>A Step-by-Step Tutorial on Activating and Utilizing 2FA on Twitch Platforms</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-streams-switching-to-av1-in-youtubes-settings/"><u>Boosting Streams Switching to AV1 in YouTube's Settings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/capturing-dynamic-action-sequences-on-iphone-for-2024/"><u>Capturing Dynamic Action Sequences on iPhone for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-giggles-on-iphones/"><u>In 2024, Giggles on iPhones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-infinix-gt-10-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Infinix GT 10 Pro Phones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-student-the-following-data-shows-the-number-of-points-scored-in-a-basketball-game-for-each-of-six-players-on-team-a-and-team-b-calculate-the-mean-abs85/"><u>IPhone [Student]: The Following Data Shows the Number of Points Scored in a Basketball Game for Each of Six Players on Team A and Team B. Calculate the Mean Absolute Deviation (MAD) for Both Teams' Scores:</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfect-panning-top-techniques-for-livestreaming-cricket-games/"><u>Perfect Panning Top Techniques for Livestreaming Cricket Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-cmos-checksum-issues/"><u>Step-by-Step Guide: Resolving CMOS Checksum Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/switching-onoff-windows-10s-screen-keyboard-a-step-by-step-guide/"><u>Switching On/Off Windows 10'S Screen Keyboard: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-strategies-to-boost-your-videos-and-go-viral-on-youtube/"><u>Top 8 Strategies to Boost Your Videos and Go Viral on YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-instructions-for-powering-down-the-iphone-15-series-pro-and-pro-max-models/"><u>Ultimate Instructions for Powering Down the iPhone 15 Series: Pro & Pro Max Models</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-earbud-wizards-how-to-effortlessly-pair-airpods-with-an-hp-pc-or-laptop/"><u>Wireless Earbud Wizards: How To Effortlessly Pair AirPods with an HP PC or Laptop</u></a></li>
 </ul></div>
 

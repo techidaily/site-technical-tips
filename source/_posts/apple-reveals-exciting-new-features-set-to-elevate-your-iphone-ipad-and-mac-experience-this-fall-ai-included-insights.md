@@ -1,7 +1,7 @@
 ---
 title: Apple Reveals Exciting New Features Set to Elevate Your iPhone, iPad, and Mac Experience This Fall (AI Included) | Insights
-date: 2024-12-03T04:51:07.543Z
-updated: 2024-12-05T06:59:34.477Z
+date: 2024-12-23T03:14:50.164Z
+updated: 2024-12-25T20:28:18.799Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -63,6 +59,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -90,6 +90,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -114,10 +118,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -130,7 +130,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -151,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,22 +210,14 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-compute-aspect-variety-from-anywhere/"><u>[New] Compute Aspect Variety From Anywhere</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-top-vimeo-downloader-tools-for-2024/"><u>[New] Top Vimeo Downloader Tools for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-expressive-faces-with-motion-blur-in-picsart-for-2024/"><u>[Updated] Expressive Faces with Motion Blur in Picsart for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-the-power-of-visuals-with-top-free-slideshow-designs/"><u>2024 Approved Unleash the Power of Visuals with Top Free Slideshow Designs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-efficiency-on-the-go-with-our-updated-favorite-arvr-glasses-dive-into-the-new-upgrades/"><u>Boost Your Efficiency On-the-Go with Our Updated Favorite AR/VR Glasses – Dive Into the New Upgrades!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comparing-the-latest-generations-should-you-switch-from-ipad-air-4-to-ipad-air-5-expert-advice-on-tablet-technology/"><u>Comparing the Latest Generations: Should You Switch From iPad Air 4 to iPad Air 5? | Expert Advice on Tablet Technology</u></a></li>
-<li><a href="https://fox-that.techidaily.com/do-not-miss-alerts-get-essential-guidance-on-configuring-dnd-settings-for-iphones-to-receive-messages-and-calls/"><u>Do Not Miss Alerts: Get Essential Guidance on Configuring DND Settings for iPhones to Receive Messages and Calls!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-instructions-for-establishing-an-account-on-the-rebranded-x-platform/"><u>Easy Instructions for Establishing an Account on the Rebranded X Platform</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-iphone-14-pro-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your iPhone 14 Pro without Security Questions?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-the-ultimate-guide-to-android-photo-enhancement-5-top-apps/"><u>In 2024, The Ultimate Guide to Android Photo Enhancement 5 Top Apps</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-realme-c51-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Realme C51? Fixed | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-the-best-stylus-tablets-for-2eplust2024-in-depth-expert-testing-and-analysis-zdnet/"><u>The Ultimate Guide to the Best Stylus Tablets for 2E+t2024: In-Depth Expert Testing and Analysis | ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-ipad-gadgets-and-peripherals-recommended-by-zdnet/"><u>Top Rated iPad Gadgets and Peripherals - Recommended by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-leading-mp3-player-models-featured/"><u>Ultimate Guide to the Leading MP3 Player Models - Featured</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-educational-discount-get-150-apple-gift-card-when-buying-school-grade-macipad-zdnet-insights/"><u>Unlock Educational Discount: Get $150 Apple Gift Card When Buying School-Grade Mac/iPad | ZDNet Insights</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-edit-avi-videos-on-windows-8-with-precision-the-best-editor-for-2024/"><u>Updated Edit AVI Videos on Windows 8 with Precision The Best Editor for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/zdnet-review-iphone-14-fulfills-all-essential-requirements-a-detailed-look/"><u>ZDNet Review: IPhone 14 Fulfills All Essential Requirements - A Detailed Look</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-breakdown-of-profit-from-a-million-youtube-watches/"><u>[New] In 2024, Breakdown of Profit From a Million Youtube Watches</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-search-for-prime-video-making-experts/"><u>[New] In 2024, The Search for Prime Video Making Experts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-time-saving-techniques-capturing-your-google-voice-conversations/"><u>[New] In 2024, Time-Saving Techniques Capturing Your Google Voice Conversations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/comparing-storage-media-blu-ray-dvd-and-digital-files-which-offers-optimal-quality/"><u>Comparing Storage Media: Blu-Ray, DVD & Digital Files – Which Offers Optimal Quality?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/metodo-simple-para-convertir-archivos-asf-a-otras-extensiones-libremente-con-herramienta-online-de-movavi/"><u>Método Simple Para Convertir Archivos ASF a Otras Extensiones Libremente Con Herramienta Online De Movavi</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tips-and-tricks-repairing-media-files-in-windowsmac/"><u>Tips & Tricks: Repairing Media Files in Windows/Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformer-gratuitement-un-fichier-cr2-en-image-bmp-avec-movavi/"><u>Transformer Gratuitement Un Fichier CR2 en Image BMP Avec Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-taking-professional-screenshots-using-movavis-bootcamp-techniques/"><u>Ultimate Guide to Taking Professional Screenshots Using Movavi's Bootcamp Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avits-movavi/"><u>フリーオンラインAVIファイルをTSに簡単に変更: Movaviのガイド</u></a></li>
 </ul></div>
 

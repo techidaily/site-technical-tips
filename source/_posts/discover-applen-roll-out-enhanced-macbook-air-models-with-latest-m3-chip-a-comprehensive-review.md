@@ -1,7 +1,7 @@
 ---
 title: "Discover Apple'n Roll Out Enhanced MacBook Air Models with Latest M3 Chip: A Comprehensive Review"
-date: 2024-12-16T16:25:33.910Z
-updated: 2024-12-17T17:06:17.496Z
+date: 2024-12-20T03:29:17.597Z
+updated: 2024-12-25T21:27:45.503Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -56,6 +56,10 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Continuity
 
 Screenshot by Nina Raemont
@@ -69,7 +73,7 @@ The app also streamlines your devices by bringing your iPhone's notifications st
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
@@ -85,7 +89,7 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -100,10 +104,6 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -114,10 +114,6 @@ Safari will see a host of improvements powered by AI functionality, including an
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Standalone Passwords app
 
 Screenshot by Nina Raemont
@@ -127,6 +123,10 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -162,19 +162,17 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-a-deep-dive-into-effective-animoji-utilization-on-iphone-x/"><u>[New] 2024 Approved A Deep Dive Into Effective Animoji Utilization on iPhone X</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-photographers-guide-top-editing-and-writing-apps/"><u>[New] 2024 Approved Photographer's Guide Top Editing & Writing Apps</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/aximizing-video-game-channel-revenue/"><u>[New] Maximizing Video Game Channel Revenue</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-making-time-move-with-your-hero-10-camera/"><u>[Updated] Expert Insights Making Time Move with Your Hero 10 Camera</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-reasons-behind-missing-video-on-sony-a6400/"><u>[Updated] Reasons Behind Missing Video on Sony A6400</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-list-of-e-commerce-sites-for-one-of-a-kind-boxed-gifts/"><u>2024 Approved Exclusive List of E-Commerce Sites for One-of-a-Kind Boxed Gifts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-can-you-see-someones-instagram-profile-for-free/"><u>How Can You See Someone's Instagram Profile for Free?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solve-valorant-startup-challenges-dealing-with-a-black-screen-error-effectively/"><u>Solve Valorant Startup Challenges: Dealing with a Black Screen Error Effectively</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-your-logitech-mouses-performance-issues-a-step-by-step-guide/"><u>Solving Your Logitech Mouse's Performance Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-accessing-windows-10-advanced-startup-settings-with-ease/"><u>Step-by-Step Guide: Accessing Windows 10 Advanced Startup Settings with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-configuring-two-screens-with-windows-10/"><u>Step-by-Step Guide: Configuring Two Screens with Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/streaming-live-television-on-kodi-a-step-by-step-guide/"><u>Streaming Live Television on Kodi: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-setting-up-your-printer-with-windows-11/"><u>Ultimate Guide: Setting Up Your Printer with Windows 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-best-mobile-and-desktop-video-player/"><u>[New] 2024 Approved Best Mobile and Desktop Video Player</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-navigating-multi-screen-browsing-effortlessly-in-google-chrome/"><u>2024 Approved Navigating Multi-Screen Browsing Effortlessly in Google Chrome</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breakthrough-techniques-for-building-intricate-iphone-photo-collages-for-2024/"><u>Breakthrough Techniques for Building Intricate iPhone Photo Collages for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuito-e-online-conversor-de-videos-wmv-para-formato-flac-com-o-software-movavi/"><u>Gratuito E Online: Conversor De Vídeos WMV Para Formato FLAC Com O Software Movavi</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/high-end-methods-for-monitoring-and-recording-pc-sounds/"><u>High-End Methods for Monitoring and Recording PC Sounds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-se-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone SE Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maintain-open-macbook-display-despite-closing-the-lid-a-comprehensive-guide/"><u>Maintain Open MacBook Display Despite Closing the Lid - A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/qled-or-oled-decoding-the-distinctions-between-modern-display-tech/"><u>QLED or OLED? Decoding the Distinctions Between Modern Display Tech</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-realme-12-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Realme 12 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-technique-for-effective-web-pinging-explained/"><u>The Definitive Technique for Effective Web Pinging Explained</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-logic-of-imovies-trim-feature-for-2024/"><u>The Logic of iMovie's Trim Feature for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/user32dll-error-resolution-overcoming-file-not-found-challenges-on-your-computer/"><u>User32.dll Error Resolution: Overcoming 'File Not Found' Challenges on Your Computer</u></a></li>
 </ul></div>
 

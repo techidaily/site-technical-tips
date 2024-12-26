@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Utilizing Live Photo Functionality with iOS 16
-date: 2024-08-30T13:41:27.209Z
-updated: 2024-08-31T13:41:27.209Z
+date: 2024-12-24T22:35:12.559Z
+updated: 2024-12-25T20:24:18.912Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Instructions for Utilizing Live Photo Functionality with iOS 16
@@ -10,12 +10,21 @@ thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/fi
 ---
 
 ## Step-by-Step Instructions for Utilizing Live Photo Functionality with iOS 16
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Enable Live Activities:**Settings** \>**Face ID & Passcode** \> enter passcode > move**Live Activities** to**on/green** .
 * Live Activities work on all iPhones running iOS 16 and up and, if the hardware supports it, in the Dynamic Island.
 
  This article explains what Live Activities are, how they differ on iPhones that offer the Dynamic Island, and provides step-by-step instructions to enable Live Activities.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Live Activities on iPhone (iOS 16)
 
@@ -32,13 +41,14 @@ thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/fi
 4. In the**Allow Access when Locked** section, move the**Live Activities** slider to**on/green** .  
 ![An iPhone's passcode requested and Live Activities settings highlighted on an iPhone.](https://www.lifewire.com/thmb/WPWmHO77VZ9w8Z9n83qb2ESzdIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-UseLiveActivitiesoniPhone-annotated-851f3c2f08934a27bcc5c71e8d91e21d.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Which Live Activities are available in your apps, and how you activate them, differs based on which apps you use. You can clear a Live Activity from your lock screen by swiping from right to left on it.
 
  On iPhones running iOS 16.2 and up, you can set Live Activities to update sports scores more frequently. First, enable this option in**Settings** \>**TV** \>**Live Activities** \> move to**on/green** the sliders for both**Allow Live Activities** and**More Frequent Updates** . Then, in the TV app, tap the game and, on its detail page, tap**Follow** . The Live Activity for that game on your lock screen is updated frequently.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Are Live Activities?
 
  Live Activities are small views of apps you can add to your iPhone Lock screen.
@@ -48,15 +58,17 @@ thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/fi
 ![Two examples (the timer and a sports score) of Live Activities on an iPhone lock screen.](https://www.lifewire.com/thmb/F7qAlcpaHoGypZ2a1E_kfeWc6dA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-UseLiveActivitiesoniPhone-annotated-b0c38245f36a419783db4085ca63fb00.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As their name suggests, Live Activities are updated regularly and let you get important information with just a glance at your screen (great with the iPhone 14's always-on screen) and without opening an app.
 
  Think of them as being like[lock screen widgets](https://www.lifewire.com/customize-iphone-lockscreen-5443101) or[notifications](https://www.lifewire.com/notification-center-iphone-1999192) that update in close to real time and that you can interact with.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Live Activities on iPhone 14 Pro and Up
 
  On the iPhone 14 Pro and Pro Max, Live Activities also take advantage of the Dynamic Island to provide updates while you use other apps, not just from the lock screen.
@@ -65,17 +77,10 @@ thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/fi
 
 ![Examples of Live Activities on the lock screen and in the Dynamic Island.](https://www.lifewire.com/thmb/V-2k8wH_Idts_JUaWWAvgskSiAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C1-UseLiveActivitiesoniPhone-annotated-c36b823b25554946b7e02eb630ec2033.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  For example, when listening to a song in Music, the Dynamic Island shows a thumbnail of the album art for the song you're listening to and a tap takes you to the album in Music.
 
  In another example, a sports game that you're following shows the team logos and the current score in the Dynamic Island. When the game ends, the Dynamic Island expands to show the final.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Apps That Support Live Activities
 
  As of this writing, there are a few dozen, or maybe a couple hundred, apps that support Live Activities. Given that number, there's no way to list them all here, but a search in the App Store for "live activities" or "dynamic island" will turn up some good options.
@@ -117,8 +122,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +129,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-secrets-unveiled-the-ultimate-guide-to-recording-games/"><u>[New] Secrets Unveiled The Ultimate Guide to Recording Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/binge-worthy-content-without-interruption-effective-strategies-for-resolving-hulus-buffering-problems/"><u>Binge-Worthy Content Without Interruption: Effective Strategies for Resolving Hulu's Buffering Problems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvdweb27/"><u>DVDコピー専用情報ポータル「ディジアリティ」の正規Webサイト～ページ27解析入手方法</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-newest-epson-wf-3520-printer-drivers-on-windows-systems/"><u>Easy Installation of Newest Epson WF 3520 Printer Drivers on Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-methods-to-solve-the-libxml2dll-is-absent-or-undetected-error-problem/"><u>Effective Methods to Solve the Libxml2.dll Is Absent or Undetected Error Problem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-repair-kernel32dll-errors-in-windows-systems/"><u>Effective Strategies to Repair Kernel32.dll Errors in Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-solutions-resolving-crashes-during-your-naraka-bladepoint-adventure/"><u>Expert Solutions: Resolving Crashes During Your Naraka: Bladepoint Adventure</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-does-rcs-messaging-enhance-your-smartphone-experience/"><u>How Does RCS Messaging Enhance Your Smartphone Experience?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-address-and-repair-missing-or-corrupted-msvcrt10dll-files/"><u>How to Address and Repair Missing or Corrupted MSVCRT10.DLL Files</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-realme-11x-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Realme 11X 5G?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-leap-forward-oxford-mondly-essential-words-guide/"><u>Language Leap Forward: Oxford-Mondly Essential Words Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722861499622-mastering-app-download-for-your-samsung-smart-tv-easily-and-quickly/"><u>Mastering App Download for Your Samsung Smart TV Easily and Quickly!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-m4v-mna/"><u>Movavi로 M4V, MnA 음성 및 화면 비디오 제공하는 무세를 지울 수 있는 계속서기 - 온라인</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-obstacles-with-your-firestick-remote-quick-fixes-for-common-glitches/"><u>Overcoming Obstacles with Your Firestick Remote – Quick Fixes for Common Glitches</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watching-james-bond-chronologically-a-must-follow-movie-list/"><u>Watching James Bond Chronologically: A Must-Follow Movie List</u></a></li>
+</ul></div>
 

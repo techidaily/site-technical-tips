@@ -1,7 +1,7 @@
 ---
 title: Maximizing Efficiency with KDE Task Management on Linux Systems
-date: 2024-08-30T13:33:38.202Z
-updated: 2024-08-31T13:33:38.202Z
+date: 2024-12-22T22:30:11.051Z
+updated: 2024-12-26T07:01:19.125Z
 tags:
   - desktop
 categories:
@@ -19,13 +19,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Do you lose focus trying to navigate through a sea of apps open on your KDE Plasma PC? Are app icons on your desktop or taskbar distracting you from the task at hand? KDE Activities solves this problem by allowing you to create distinct spaces for work, study, play, and anything else you want to do.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is KDE Activities?
 
  KDE Activities is a powerful feature available in the [KDE Plasma desktop environment](https://kde.org/plasma-desktop/) for Linux. It allows you to create multiple customizable workspaces. Each workspace, or Activity, can have its own application shortcuts and visual settings, enabling you to organize and switch between different task-specific environments efficiently.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  KDE Plasma's Solution to Organizing Your Workflow
 
  At first, we had a single desktop—a digital real estate the size of your monitor screen to view and arrange all your opened apps. You could technically use multiple apps by minimizing-maximizing them when necessary, but this can easily make the UI cluttered and counter-productive.
@@ -45,20 +46,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![KDE Activity Switcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/kde-activity-switcher-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Set Up KDE Activities
 
  To set up KDE Activities, open System Settings and navigate to Workspace Behavior > Activities. You can also use the search function and type in "Activities." Click the "+ Create New" button to create a new Activity.
 
 ![Creating a KDE Activity](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/creating-a-kde-activity-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Assign an icon for easy identification and give it a name and description. Once done, click Create. You can also configure the Privacy settings from here and assign a keyboard shortcut to quickly open this Activity. We'll discuss this in more detail later on.
 
 ##  How KDE Activities Help You Be More Productive
@@ -85,12 +85,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![KDE Activity for Play](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/kde-activity-for-play.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![KDE Activity for Study](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/kde-activity-for-study.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![KDE Activity for Work](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/kde-activity-for-work.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
@@ -98,24 +103,19 @@ Close
 
 ![Change desktop wallpaper](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/change-desktop-wallpaper-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Similarly, you can add different widgets to each Activity by right-clicking on that Activity's desktop and selecting the "+ add widget" option. You can then populate each Activity with unique widgets that'll help your workflow.
 
 ![Work Activity with calendar widget and calculator widget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/work-activity-with-calendar-widget-and-calculator-widget.png) 
 
 ![Study Activity with widgets for dictionary, media player, time, and folder view](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/study-activity-with-widgets-for-dictionary-media-player-time-and-folder-view.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Play Activity with puzzle game widget and system resource monitoring widgets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/play-activity-with-puzzle-game-widget-and-system-resource-monitoring-widgets.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Set Apps to Only Open in Appropriate Activities
 
@@ -126,6 +126,10 @@ Close
 ![Adding a new Window rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/adding-a-new-window-rule-1.png) 
 
 ![Setting new Window Rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/setting-new-window-rule-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
@@ -143,19 +147,14 @@ Close
 
 ![Pinning apps to taskbar of specific Activities](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/pinning-apps-to-taskbar-of-specific-activities-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  Likewise, right-click on an app in the Application launcher, hover over "Show in Favorite," and specify the Activity.
 
 ![Pinning apps to Application Launcher of specific Activities](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/pinning-apps-to-application-launcher-of-specific-activities-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ###  Define Different Power Rules and Privacy Settings
 
  Each Activity can have its own set of power management settings. This means, if you want, you can have your Play Activity configured with a screen saver for relaxation while your Work Activity might have the Sleep function disabled, so you don't accidentally miss important notification alerts.
@@ -177,20 +176,19 @@ Close
 ![Virtual desktops of Work Activity occupied with Apps](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/virtual-desktops-of-work-activity-occupied-with-apps.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Virtual desktop of Study Activity with zero open apps](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/virtual-desktop-of-study-activity-with-zero-open-apps.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close 
 
  The number of virtual desktops is the same across the Activities. Also, adding or removing virtual desktops in one Activity will reproduce the same effect across all Activities.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 
 
 ---
@@ -203,8 +201,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +208,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ideal-beginner-vlogging-gear-for-kids-in-wet-weather/"><u>[New] 2024 Approved Ideal Beginner Vlogging Gear for Kids in Wet Weather</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-craft-compelling-videos-utilize-no-cost-templates-and-samples/"><u>[Updated] 2024 Approved Craft Compelling Videos Utilize No-Cost Templates & Samples</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-discovering-ideal-hashtags-for-your-youtube-videos-for-2024/"><u>[Updated] Discovering Ideal Hashtags for Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-master-hashtag-dynamics-on-igtv-for-follower-surge/"><u>[Updated] In 2024, Master Hashtag Dynamics on IGTV for Follower Surge</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-what-sets-meta-ai-apart-from-others/"><u>Discovering What Sets Meta AI Apart From Others</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-asus-rog-phone-8-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Asus ROG Phone 8 Pro Device SIM</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/efficiently-track-your-read-emails-with-these-gmail-tips-and-tricks/"><u>Efficiently Track Your Read Emails with These Gmail Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-how-to-correctly-handle-openal32dll-not-detected-or-lost/"><u>Expert Tips: How to Correctly Handle 'openAL32.dll Not Detected or Lost'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-keeping-your-mac-awake-tips-and-tricks-for-no-more-hibernation/"><u>Guide: Keeping Your Mac Awake - Tips and Tricks for No More Hibernation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-optimize-performance-by-deleting-temporary-data-on-android-devices/"><u>How to Optimize Performance by Deleting Temporary Data on Android Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ps4-controller-light-codes-explained-navigating-the-significance-of-blinking-colors/"><u>PS4 Controller Light Codes Explained: Navigating the Significance of Blinking Colors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shift-key-woes-try-these-fixes-now/"><u>Shift Key Woes? Try These Fixes Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-fix-for-windows-error-0x80070570-not-found-message-troubleshooting/"><u>Step-by-Step Fix for Windows Error 0X80070570: Not Found Message Troubleshooting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instrucuions-connect-a-new-usb-receiver-with-your-logitech-mouse/"><u>Step-by-Step Instrucuions: Connect a New USB Receiver with Your Logitech Mouse</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-linking-the-oculus-quest-2-vr-headset-to-your-smartphone/"><u>Step-by-Step Tutorial: Linking the Oculus Quest 2 VR Headset to Your Smartphone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-turning-on-and-resuming-use-of-your-snapchat-after-deactivation/"><u>The Ultimate Guide to Turning On and Resuming Use of Your Snapchat After Deactivation</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-a58-4g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo A58 4G Screen | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/avi-mp4/"><u>무료 인터넷 스트리밍: AVI 파일을 MP4에 전환하는 방법 - 모바이비</u></a></li>
+</ul></div>
 

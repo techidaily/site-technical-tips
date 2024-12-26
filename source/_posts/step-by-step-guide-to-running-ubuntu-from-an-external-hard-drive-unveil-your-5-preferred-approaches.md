@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Running Ubuntu From an External Hard Drive – Unveil Your 5 Preferred Approaches
-date: 2024-08-30T13:33:43.685Z
-updated: 2024-08-31T13:33:43.685Z
+date: 2024-12-20T23:05:09.199Z
+updated: 2024-12-26T04:29:46.485Z
 tags:
   - desktop
 categories:
@@ -27,6 +27,10 @@ Ubuntu's open-source nature makes it, like any Linux distribution, extremely fle
 
  If you're okay with that, or if your computer has faster ports, installing Ubuntu to external disks is mostly the same as to an internal drive. It may require a couple of additional steps, though, so be prepared for some technical work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 1: Make an Ubuntu Live Disk With a Persistent Partition
 
  To be fair, this isn't exactly installing Ubuntu on an external disk. However, it's the best option if all you want is a [portable Ubuntu installation](https://some-skills.techidaily.com/2024-approved-the-artisans-guide-to-unique-photographic-assemblages/) that doesn't wipe everything at shutdown.
@@ -39,9 +43,6 @@ Ubuntu's open-source nature makes it, like any Linux distribution, extremely fle
 
  If you're already on Ubuntu, the best method is [mkusb](https://help.ubuntu.com/community/mkusb). It's supported by the community and is safe and stable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ##  Method 2: Installing Ubuntu to External HDDs/SSDs
 
  The requirements to install Ubuntu to an external drive are a USB (or DVD) live disk and an external HDD or SDD.
@@ -50,9 +51,6 @@ Ubuntu's open-source nature makes it, like any Linux distribution, extremely fle
 
 ![Seagate 2TB Luke Skywalker External HDD with yellow RGB light](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/e149b105.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 _Hannah Stryker / Review Geek_
 
 [This guide on GitHub](https://github.com/danielTobon43/ubuntuExternalHDD) explains how to install Ubuntu on an external hard drive. For the most part, it's the same as installing to an internal disk, but it requires you to partition the target HDD or SSD (using GParted on the live disk) before installing.
@@ -60,8 +58,9 @@ _Hannah Stryker / Review Geek_
  Make sure the EFI partition is correctly placed on the external storage—the installer may ignore your settings and put it on the internal disk; that's hit-and-miss.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Method 3: Installing Ubuntu From ISO Without a Live Disk
 
  If you have a single external disk with you, it's also possible to install Ubuntu directly from the ISO file. That way, you don't even need to create a live disk.
@@ -71,8 +70,9 @@ _Hannah Stryker / Review Geek_
 [This post on Ask Ubuntu](https://askubuntu.com/a/1459018) has a detailed guide to do just that. It assumes that you have an internal disk, but the steps are the same for external drives. The method for UEFI devices works with Windows as well, just [use the Disk Management Utility](https://screen-sharing-recording.techidaily.com/key-tips-for-optimal-live-sports-content-capture/) instead of GParted.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Method 4: Installing Ubuntu to a Memory Card
 
  Do you know what's even more portable than an external HDD, SSD, or even a USB stick? A memory card! And it's possible to install Ubuntu on an SD card (or MicroSD, for that matter) as well.
@@ -90,8 +90,9 @@ Michael Crider / Review Geek
  Also, this type of storage is more susceptible to tearing due to limited rewriting cycles. Because of that, it's recommended not to use swap (or have this partition in another drive, like a USB stick) when installing Ubuntu on a memory card.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Method 5: Virtualized Ubuntu on External Storage
 
  This method doesn't allow you to boot from the portable Ubuntu installation. But, if your needs may be met by [using a virtual machine (VM) or Docker containers](https://fox-direct.techidaily.com/new-different-editions-of-windows-film-editor-software-for-2024/), it saves you the time to download the ISO and set up the VM or container.
@@ -103,8 +104,9 @@ Michael Crider / Review Geek
  This should be enough to open that virtual machine on any computer (given you use the same program). But always make sure that the other computer has the same (or higher) core count and RAM as the one you used to create the VM. If not, then change this setting before booting the virtual machine.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Ubuntu on an External Disk Makes for a (Really) Portable Installation
 
  Whether you choose an external HDD/SSD, a memory card, a live disk, or even a virtualized installation, Ubuntu shows its flexibility by becoming truly portable. You can just plug in the media of your choice and have a fully functional system in a couple of minutes. Good to keep your internal disk out of trouble, great to carry your own Linux installation around, complete with customizations and preferred apps.
@@ -115,8 +117,6 @@ Michael Crider / Review Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +124,24 @@ Michael Crider / Review Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-amplify-your-video-content-with-precision-insights-from-social-blade-and-youtube/"><u>[New] Amplify Your Video Content with Precision Insights From Social Blade & YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-tailored-sound-solutions-ideal-mics-for-educational-gaming-and-blogging-channels/"><u>[Updated] 2024 Approved Tailored Sound Solutions Ideal Mics For Educational, Gaming & Blogging Channels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-amplifying-visuals-android-video-guide/"><u>[Updated] Amplifying Visuals Android Video Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-best-in-class-ultra-fast-lapses-for-2024/"><u>[Updated] Best-in-Class Ultra Fast Lapses for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/android-users-guide-to-non-disclosure-of-numbers-methods-and-practices-for-keeping-calls-private/"><u>Android Users' Guide to Non-Disclosure of Numbers: Methods and Practices for Keeping Calls Private</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-accessing-downloads-of-user-guides-for-all-iphone-models/"><u>Comprehensive Guide: Accessing Downloads of User Guides for All iPhone Models</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-troubleshooting-resetting-bios-with-the-cmos-button/"><u>Essential Troubleshooting: Resetting BIOS with the CMOS Button</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002777034-good-news-gamers-la-noire-is-finally-out-for-windows-and-mac/"><u>Good News, Gamers: L.A. Noire Is Finally Out for Windows and Mac!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-word-2013-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a Word 2013 free</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-sync-your-smartphone-with-chromecast-for-ultimate-media-control/"><u>How to Sync Your Smartphone with Chromecast for Ultimate Media Control</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-audio-narratives-best-backdrop-tunes/"><u>In 2024, Crafting Audio Narratives Best Backdrop Tunes</u></a></li>
+<li><a href="https://win-unique.techidaily.com/moving-from-itunes-to-spotify-made-easy-the-ultimate-2-method-tutorial-for-playlist-export/"><u>Moving From iTunes to Spotify Made Easy: The Ultimate 2-Method Tutorial for Playlist Export</u></a></li>
+<li><a href="https://fox-links.techidaily.com/pioneers-of-immersion-history-in-vr/"><u>Pioneers of Immersion History in VR</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-z-fold-4-news-price-release-date-and-specs/"><u>Samsung Z Fold 4: News, Price, Release Date, and Specs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-your-youtube-premium-the-ultimate-guide-to-student-discounts/"><u>Securing Your YouTube Premium: The Ultimate Guide to Student Discounts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-viewing-dragon-ball-series-sequentially/"><u>The Ultimate Guide: Viewing Dragon Ball Series Sequentially</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unique-and-captivating-instagram-captions-a-list-of-507plus-options/"><u>Unique and Captivating Instagram Captions : A List of 507+ Options</u></a></li>
+</ul></div>
 

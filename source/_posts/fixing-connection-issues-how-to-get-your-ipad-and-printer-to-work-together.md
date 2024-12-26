@@ -1,7 +1,7 @@
 ---
 title: Fixing Connection Issues - How To Get Your iPad & Printer To Work Together
-date: 2024-08-30T13:38:40.744Z
-updated: 2024-08-31T13:38:40.744Z
+date: 2024-12-22T09:11:03.443Z
+updated: 2024-12-26T04:15:40.285Z
 categories:
   - BestProducts
 description: This Article Describes Fixing Connection Issues - How To Get Your iPad & Printer To Work Together
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/yXXst6UgHrlBvrhHuREgsxGzFgM=/400x300/fi
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Tell If Discord Is Down
 
  If you think the Discord servers are down for everyone, try these steps to check:
@@ -21,11 +25,26 @@ thumbnail: https://www.lifewire.com/thmb/yXXst6UgHrlBvrhHuREgsxGzFgM=/400x300/fi
 1. Check the[Discord Service Status](https://status.discord.com) page to see if there have been issues.  
 ![Discord server status page](https://www.lifewire.com/thmb/yFSV49MklrykNCgZ93liSe1qZt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256951-64f18a956bac488899f2b478d1c286a9.jpg)  
  This page is hosted by Discord, so if there's a significant problem with the service, the information may not be available here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
@@ -47,8 +66,9 @@ thumbnail: https://www.lifewire.com/thmb/yXXst6UgHrlBvrhHuREgsxGzFgM=/400x300/fi
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -80,8 +100,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +107,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-perfecting-your-content-understanding-facebook-video-sizes-and-ratios/"><u>[New] 2024 Approved Perfecting Your Content Understanding Facebook Video Sizes and Ratios</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-facebook-streaming-on-roku-devices-for-2024/"><u>[New] Navigating Facebook Streaming on Roku Devices for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-steps-to-integrate-mobile-and-oculus-quest-2-headset/"><u>Comprehensive Steps to Integrate Mobile and Oculus Quest 2 Headset</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connecting-airpods-to-your-laptop-made-simple-for-hp-users/"><u>Connecting AirPods to Your Laptop Made Simple for HP Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciphering-windows-ntdlldll-errors-comprehensive-solutions-for-multiple-os/"><u>Deciphering Windows' ntdll.dll Errors: Comprehensive Solutions for Multiple OS</u></a></li>
+<li><a href="https://techidaily.com/enhance-user-experience-and-boost-engagement-through-smart-ai-solutions-by-cookiebot/"><u>Enhance User Experience and Boost Engagement Through Smart AI Solutions by Cookiebot</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-power-of-online-interactions-on-facebook-twitter-instagram-and-youtube/"><u>Exploring the Power of Online Interactions on Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-implemented-how-to-resolve-diablo-ii-re-released-game-crashing-issues/"><u>Fixes Implemented: How To Resolve Diablo II Re-Released Game Crashing Issues</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-magic-6-lite-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Honor Magic 6 Lite support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-discord-downtime-understanding-if-its-a-global-glitch-or-local-lag/"><u>Navigating Discord Downtime: Understanding if It's a Global Glitch or Local Lag</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/notepaddarkmodesettingguidewin/"><u>NotepadDarkModeSettingGuideWin</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-your-education-savings-a-guide-to-the-microsoft-student-price-cut/"><u>Securing Your Education Savings: A Guide to the Microsoft Student Price Cut</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-your-microsoft-edge-problems-expert-tips-to-get-it-working-again/"><u>Solve Your Microsoft Edge Problems: Expert Tips to Get It Working Again</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-picks-exclusive-content-you-can-watch-on-max-immediately/"><u>Top Picks: Exclusive Content You Can Watch on Max Immediately</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-steps-to-link-your-psvr-console-with-a-personal-computer/"><u>Ultimate Guide: Steps to Link Your PSVR Console with a Personal Computer</u></a></li>
+</ul></div>
 

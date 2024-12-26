@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Latest Innovations in iPadOS for Generation iPads at 2024 WWDC: The Features You Can't Miss!"
-date: 2024-12-14T16:06:55.979Z
-updated: 2024-12-17T16:08:46.899Z
+date: 2024-12-25T03:00:50.785Z
+updated: 2024-12-26T07:06:41.163Z
 tags:
   - apple
 categories:
@@ -61,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -71,10 +71,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -94,10 +90,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -112,10 +104,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -125,6 +113,10 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -136,6 +128,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -154,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,24 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-decoding-action-camera-extras-a-shoppers-map-for-2024/"><u>[New] Decoding Action Camera Extras - A Shopper’s Map for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-top-8-must-play-virtual-reality-titles-for-now/"><u>[New] Top 8 Must-Play Virtual Reality Titles for Now</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-full-potential-of-video-calls-with-zoom-and-gmail-integration/"><u>[New] Unlocking Full Potential of Video Calls with Zoom & Gmail Integration</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-unlocking-skypes-full-capacity-with-effective-zoom-methods/"><u>2024 Approved Unlocking Skype's Full Capacity with Effective Zoom Methods</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-the-forthcoming-apple-showcase-dates-speculations-and-more/"><u>All You Need to Know About the Forthcoming Apple Showcase - Dates, Speculations, and More</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/cutting-edge-methods-to-record-and-save-lectures-on-imac-for-2024/"><u>Cutting-Edge Methods to Record and Save Lectures on iMac for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/eliminate-missing-python24dll-issues-effective-solutions-inside/"><u>Eliminate Missing Python24.dll Issues – Effective Solutions Inside</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-mailcoms-policies-on-email-account-validity-and-expiry-timelines/"><u>Exploring Mail.com's Policies on Email Account Validity and Expiry Timelines</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fandango-on-the-go-installation-tutorial-for-fire-stick-users/"><u>Fandango On The Go: Installation Tutorial for Fire Stick Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-heart-of-steelseries-gg-step-by-step-solutions-for-windows-users/"><u>Fixing the Heart of SteelSeries GG - Step-by-Step Solutions for Windows Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-rectify-mobile-phone-malfunctions-restoring-call-making-abilities-on-android-systems/"><u>How to Rectify Mobile Phone Malfunctions: Restoring Call-Making Abilities on Android Systems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-meizu-21-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Meizu 21 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Xiaomi Redmi A2+? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/libgdk-win32-2e-0dll-file-not-found-heres-how-to-fix-it/"><u>libgdk-win32-2.e-0.dll File Not Found? Here's How to Fix It!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigate-with-ease-find-out-which-iphone-gps-apps-we-love-most/"><u>Navigate with Ease: Find Out Which iPhone GPS Apps We Love Most</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/netflix-watch-party-a-comprehensive-guide-to-streaming-with-friends/"><u>Netflix Watch Party: A Comprehensive Guide to Streaming with Friends</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/perfect-viewing-lineup-how-to-watch-every-indiana-jones-film-in-its-intended-order/"><u>Perfect Viewing Lineup: How To Watch Every Indiana Jones Film in Its Intended Order</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-exploring-video-file-limits-in-64128gb/"><u>[Updated] 2024 Approved Exploring Video File Limits in 64/128GB</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-dynamic-discussion-drivers-in-instagram-social-media-surveys/"><u>[Updated] Dynamic Discussion Drivers in Instagram Social Media Surveys</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-ranking-the-best-8-websites-with-shimmering-3d-and-text/"><u>[Updated] Ranking the Best 8 Websites with Shimmering 3D & Text</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-crafting-your-professional-email-signature-on-godaddys-webmail/"><u>Complete Guide: Crafting Your Professional Email Signature on GoDaddy's WebMail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-file-path-of-your-current-wallpaper/"><u>Discover the File Path of Your Current Wallpaper</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-issue-of-invisible-comments-on-your-youtube-videos/"><u>Fixing the Issue of Invisible Comments on Your YouTube Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oppo-reno-11-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo Reno 11 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-best-lipos-a-drone-buyers-bible/"><u>In 2024, Unveiling the Best LiPos - A Drone Buyer's Bible</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-network-diagnostics-a-beginners-guide-to-using-tracert-on-windows/"><u>Mastering Network Diagnostics: A Beginner's Guide to Using Tracert on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-sluggish-closure-problem-on-windows-10/"><u>Resolving the Sluggish Closure Problem on Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-disabling-pin-authentication-on-windows-10/"><u>Step-by-Step Guide: Disabling Pin Authentication on Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-launching-hit-online-streams/"><u>The Ultimate Guide to Launching Hit Online Streams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-fixing-a-502-bad-gateway-alert-on-websites/"><u>Troubleshooting and Fixing a 502 Bad Gateway Alert on Websites</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-effortless-ways-to-disinfect-your-television-remote/"><u>Ultimate Guide: Effortless Ways to Disinfect Your Television Remote</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/winning-over-trustedinstaller-the-step-by-step-approach-for-windows-10-users/"><u>Winning Over TrustedInstaller: The Step-by-Step Approach for Windows 10 Users</u></a></li>
 </ul></div>
 

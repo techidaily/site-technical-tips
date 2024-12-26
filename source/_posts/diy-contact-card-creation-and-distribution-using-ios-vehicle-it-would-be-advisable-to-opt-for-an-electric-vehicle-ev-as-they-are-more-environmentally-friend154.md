@@ -1,7 +1,7 @@
 ---
 title: DIY Contact Card Creation & Distribution Using iOS Vehicle, It Would Be Advisable to Opt for an Electric Vehicle (EV) as They Are More Environmentally Friendly and Can Help Reduce Carbon Emissions.
-date: 2024-12-16T16:24:19.515Z
-updated: 2024-12-17T16:00:14.110Z
+date: 2024-12-21T16:15:14.840Z
+updated: 2024-12-26T07:12:39.256Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ Show less
 
 ## Microsoft 365 apps for Business
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It's not just a bundle anymore
 
 The four desktop apps that make up the core of what used to be Microsoft Office are an absolutely essential part of my working day, and not much has changed despite the rebranding to Microsoft 365\. Outlook is the first app I open in the morning, and I cannot remember the last day where I didn't use Excel and Word. (I typically only use PowerPoint a few times a year.) These apps are available for Windows and MacOS as part of my Microsoft 365 Business Standard (formerly Office 365) subscription, for which I pay $150 annually. The package also includes support for my custom email domain and a terabyte of cloud storage. (For more on what's included, see: [Microsoft 365 vs Google Workspace (formerly G Suite): Which productivity suite is best for your business?](https://www.zdnet.com/article/office-365-vs-g-suite-which-productivity-suite-is-best-for-your-business/))
@@ -56,10 +52,6 @@ Show less
 
 ## Tweeten
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It's TweetDeck on steroids
 
 The problem with Twitter is that it's designed to be overwhelming. To get the most value out of this social network, you need to follow lots of other accounts. But following hundreds or thousands of accounts turns your Twitter home page into a river that flows so fast no human can keep up using the web-based Twitter app.
@@ -72,10 +64,14 @@ Show less
 
 [View now at OneNote](https://www.onenote.com/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## OneNote
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### An infinitely expandable notebook
@@ -92,11 +88,11 @@ Show less
 
 [View now at Adobe Acrobat](https://www.adobe.com/products/catalog.html#category=pdf)
 
-## Adobe Acrobat Pro DC
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Adobe Acrobat Pro DC
 
 ### From the inventor of the PDF standard
 
@@ -112,6 +108,10 @@ Show less
 
 ## Quicken Home and Business
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### I hate it, but I use it
 
 A gazillion years ago, a famous household brand sold a lot of mouthwash with ads whose tagline went something like: "You hate the taste, but you use it twice a day." That, to me, is the perfect description of Quicken for Windows, which is occasionally infuriating to use, comes with a steep learning curve, and includes a virtual guarantee that you will run into some terribly annoying bug roughly once a quarter. Despite all that, it's better than any of the alternatives. I know. I've tried them all.
@@ -120,6 +120,10 @@ The good news is that Quicken's support staff is responsive and knowledgeable, a
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Browser and extensions
 
 Show less 
@@ -127,7 +131,7 @@ Show less
 [View now at Microsoft Edge](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https://www.microsoft.com/edge)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Edge (Chromium)
@@ -144,11 +148,11 @@ Show less
 
 [View now at 1Password](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://1password.com/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1Password
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Everyone needs a password manager
 
@@ -162,11 +166,11 @@ Show less
 
 [View now at Workona](https://workona.com/)
 
-## Workona
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Workona
 
 ### The cleanest way to organize browser tabs
 
@@ -181,6 +185,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at Spotify](https://www.spotify.com/us/premium/?referral=cbs&utm%5Fcampaign=cbs)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Spotify Music
 
@@ -198,10 +206,6 @@ Show less
 
 ## VLC Media Player
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Free, open source, handles every format imaginable
 
 This free, open source tool has been around forever. (I wrote about it nearly a decade ago, when it was the best [free alternative DVD player](https://www.zdnet.com/article/if-vlc-can-ship-a-free-dvd-player-why-cant-microsoft/) on the market.) It plays just about every media format (including Blu-ray discs), it doesn't require downloading dodgy codec packs to work, and it runs on every conceivable platform. On Windows 10, make sure to install the [full Windows package](http://www.videolan.org/vlc/download-windows.html), not the limited-feature variant in the Windows Store.
@@ -211,10 +215,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MediaMonkey
 
@@ -256,18 +256,22 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-enhance-your-iphone-photography-with-time-lapse/"><u>[New] In 2024, Enhance Your iPhone Photography with Time-Lapse</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-downloading-insta-videos-in-two-simple-ways/"><u>[Updated] 2024 Approved Downloading Insta Videos in Two Simple Ways</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-the-best-free-after-effects-resources/"><u>[Updated] Explore the Best FREE After Effects Resources</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-the-art-of-cinematic-content-on-instagram/"><u>[Updated] Mastering the Art of Cinematic Content on Instagram</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/6kej5yaz5peg5rov5l255so55qe5yqo5ocb5a2y5yko6k6plus5ash6zeu6aky77ya6kplusm57ug5oyh5y2x/"><u>解决无法使用的动态存储设备问题：详细指南</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723807898710-immediate-fixes-for-the-camera-not-found-issue-on-your-pc-guide-updated/"><u>Immediate Fixes for the 'Camera Not Found' Issue on Your PC – Guide Updated!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-crashes-in-forza-horizon-5-on-windows/"><u>Troubleshooting Steps: Resolving Crashes in Forza Horizon 5 on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-enhancing-low-end-audio-on-windows-11/"><u>Ultimate Guide: Enhancing Low-End Audio on Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unleashing-graphic-power-step-by-step-tutorial-on-gpu-overclocking-for-novices/"><u>Unleashing Graphic Power: Step-by-Step Tutorial on GPU Overclocking for Novices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-10-snipping-tool-tutorial-easy-way-to-take-and-edit-screenshots/"><u>Windows 10 Snipping Tool Tutorial: Easy Way to Take and Edit Screenshots</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-11-troubleshooting-finding-your-way-to-the-boot-options/"><u>Windows 11 Troubleshooting: Finding Your Way to the Boot Options</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/winning-the-race-against-time-how-to-speed-up-windows-1ns-initial-boot-sequence/"><u>Winning the Race Against Time: How to Speed Up Windows 1N's Initial Boot Sequence</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-cutting-edge-features-in-the-latest-magix-video-pro-x/"><u>[New] 2024 Approved Cutting-Edge Features in the Latest Magix Video Pro X</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-tier-5-speedy-screen-recorders/"><u>[New] In 2024, Tier 5 Speedy Screen Recorders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-public-domain-zen-soundscape/"><u>[New] Public Domain Zen Soundscape</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-dll-missing-errors-the-case-of-fm20dll/"><u>Dealing with DLL Missing Errors: The Case of fm20.dll</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-four-effective-shotgun-strategies-for-windows-11s-visual-record-keeping/"><u>Discover Four Effective Shotgun Strategies for Windows 11'S Visual Record-Keeping</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-elegance-in-mobility-expert-insights-on-the-acer-chromebook-r-11/"><u>Discovering Elegance in Mobility - Expert Insights on the Acer Chromebook R 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effectively-lowering-cpu-consumption-for-a-smoother-god-of-war-experience/"><u>Effectively Lowering CPU Consumption for a Smoother God of War Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-selection-the-finest-samsung-smart-tv-programs-available-today/"><u>Exclusive Selection: The Finest Samsung Smart TV Programs Available Today</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-10t-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 10T 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 Pro Phone without PIN</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-scoop-on-googles-upcoming-extravaganza-breaking-news-and-forecast-analysis/"><u>Inside Scoop on Google's Upcoming Extravaganza: Breaking News & Forecast Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pathway-guide-acquiring-movie-maker-6-on-your-system-for-2024/"><u>Pathway Guide Acquiring Movie Maker 6 on Your System for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pioneering-telecommunications-the-promising-horizons-of-verizon-5g/"><u>Pioneering Telecommunications: The Promising Horizons of Verizon 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/stream-etiquette-101-dealing-with-bans-and-unbans/"><u>Stream Etiquette 101: Dealing with Bans and Unbans</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-best-workout-logging-apps-to-boost-your-training/"><u>The Ultimate List: Best Workout Logging Apps to Boost Your Training</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722894034749-unbeatable-ipad-savings-shop-the-ultimate-discounts-today/"><u>Unbeatable iPad Savings - Shop the Ultimate Discounts Today!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-chatgpt-how-microsoft-reinvented-natural-language-processing-technology/"><u>Unveiling ChatGPT: How Microsoft Reinvented Natural Language Processing Technology</u></a></li>
 </ul></div>
 

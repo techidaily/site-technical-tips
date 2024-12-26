@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Deleting Several Contacts Simultaneously in Snapchat"
-date: 2024-08-30T13:39:37.062Z
-updated: 2024-08-31T13:39:37.062Z
+date: 2024-12-20T02:06:02.796Z
+updated: 2024-12-26T03:12:54.838Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Deleting Several Contacts Simultaneously in Snapchat"
@@ -21,13 +21,14 @@ Close
 
  This article describes how to delete friends on Snapchat for Android and iOS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Remove Friends on Snapchat 
 
  There are a few techniques to this, but all of them eventually lead to the same place: the Manage Friendship menu. This is where you'll find the delete option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ##  Remove Friends From Your Friends List 
 
  One method, which works even if you don't have any recent messages with the person, is to find someone in your My Friends list.
@@ -39,15 +40,18 @@ Close
 3. Search or scroll to the friend you want to delete, and tap-and-hold this friend's entry.  
 ![Bitmoji icon, My Friends, and contact highlighted in Snapchat](https://www.lifewire.com/thmb/uWrlw4QXKo6xV7zBnqVm80ddBDs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-remove-multiple-friends-on-snapchat-6425728-c69d3e9fda0b484ca51d7db2be711d22.jpg)  
  Take note of the three-dot menu at the top. There is an option to see recently added friends. This is a great way to delete users you just added by mistake.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. From the options, choose**Manage Friendship** \>**Remove Friend** \>**Remove** .  
 ![Three dot menu, Manage Friendship, and Remove in Snapchat](https://www.lifewire.com/thmb/uzZV1QwYbat0Yav-GTMCn85wFzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-remove-multiple-friends-on-snapchat-6425728-8ed6c2dd02ff4fe2905d713e5114dc3d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Remove Friends From the Chat Page 
 
  If you want to unfriend people you've recently snapped with, save time and start at the Chat screen. This area is where all your uncleared conversations are held, so deleting a friend you were just chatting with is best done here.
@@ -57,17 +61,15 @@ Close
 [  How to Change Chat Settings in Snapchat ](https://www.lifewire.com/change-chat-settings-in-snapchat-5271208) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Can You Unadd Multiple Friends on Snapchat at Once? 
 
  No. Snapchat doesn't let you bulk remove two or more friends. Unfortunately, the process for clearing out the friends list or removing two, 10, or 20 people from your account, is the same: Erase one friend at a time with the steps outlined above.
 
  The only exception is if you[ delete your whole Snapchat account](https://www.lifewire.com/how-to-delete-snapchat-account-4692675) . Technically, this is the quickest way to remove all your Snapchat friends in one move, but your username will go with it, as will your Snaps and chats.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Readd Friends You Deleted on Snapchat 
 
  There isn't a "deleted friends" list readily available within the Snapchat app that you can sift through to easily readd old friends.
@@ -79,8 +81,9 @@ Close
  One way to[ know if someone has blocked you on Snapchat](https://www.lifewire.com/how-to-tell-if-you-are-blocked-on-snapchat-4169359) is if you can't find them. This is most likely the case if you delete a friend, but then can't add them again.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Stop Old Friends From Adding You Back on Snapchat 
 
  If you have deleted someone, but they keep nagging you to be their friend, you can simply[ block them on Snapchat](https://www.lifewire.com/block-someone-on-snapchat-4169485) .
@@ -118,8 +121,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +128,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-low-cost-cameras-list/"><u>[New] The Ultimate Low-Cost Cameras List</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-time-travellers-guide-sharing-past-photos-as-snaps/"><u>[New] Time Traveller's Guide - Sharing Past Photos as Snaps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-humor-hacks-simplifying-the-process-of-meme-creation/"><u>2024 Approved Humor Hacks Simplifying the Process of Meme Creation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/addressing-dll-dilemmas-how-to-correctly-deal-with-x3daudio-file-loss/"><u>Addressing DLL Dilemmas: How to Correctly Deal with X3DAudio File Loss</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/charting-success-with-youtube-income-streams-for-2024/"><u>Charting Success with YouTube Income Streams for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-mixing-expertise-unveiled/"><u>ChatGPT's Mixing Expertise Unveiled</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-motorola-moto-g-5g-2023-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-garmin-forerunner-945-a-complete-gps-smartwatch-breakdown/"><u>Expert Analysis of the Garmin Forerunner 945: A Complete GPS Smartwatch Breakdown</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-error-code-0x00000078-in-windows-easy-troubleshooting-steps/"><u>Fixing Error Code 0X00000078 in Windows - Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-control-and-adjust-network-discovery-options-in-the-latest-version-of-windows/"><u>Guide to Control and Adjust Network Discovery Options in the Latest Version of Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-y27s-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo Y27s PC | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-a-blu-ray-player-essential-in-the-age-of-streaming/"><u>Is a Blu-Ray Player Essential in the Age of Streaming?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-the-challenge-effective-solutions-for-stop-0x0000007b-crashes-in-windows/"><u>Overcoming the Challenge: Effective Solutions for Stop 0X0000007B Crashes in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-keep-your-favorite-messages-at-hand-in-instagram-chats/"><u>The Ultimate Trick to Keep Your Favorite Messages at Hand in Instagram Chats</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-gmail-substitutes-you-should-try/"><u>Top 8 Gmail Substitutes You Should Try</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-espnplus-a-complete-guide-to-the-digital-sports-platform/"><u>Understanding ESPN+: A Complete Guide to the Digital Sports Platform</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unraveling-common-videography-blunders-and-fixes/"><u>Unraveling Common Videography Blunders & Fixes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Use Your Roku Device as a Portable Hotspot During Trips or College Life
-date: 2024-12-16T16:14:12.742Z
-updated: 2024-12-17T17:02:13.218Z
+date: 2024-12-21T04:42:56.396Z
+updated: 2024-12-25T17:37:45.719Z
 categories:
   - BestProducts
 description: This Article Describes How to Use Your Roku Device as a Portable Hotspot During Trips or College Life
@@ -32,33 +32,21 @@ thumbnail: https://www.lifewire.com/thmb/NTcI_lUm8bN6pHlU7Z5gnA4PhGk=/540x405/fi
 
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Lifewire's Release Date Estimate
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Wearable Device With Direct Audio Price Rumors
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Wearable Device With Direct Audio Features
 
@@ -67,7 +55,7 @@ thumbnail: https://www.lifewire.com/thmb/NTcI_lUm8bN6pHlU7Z5gnA4PhGk=/540x405/fi
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Apple, Inc / USPTO
@@ -79,6 +67,10 @@ Apple, Inc / USPTO
 * Directional audio
 * Microphones for commands, user identification, and calibration.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -87,11 +79,19 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
@@ -118,19 +118,21 @@ Apple, Inc / USPTO
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-sierras-icloud-drives-the-full-experience/"><u>[New] Comprehensive Sierra's iCloud Drives – The Full Experience</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-the-ultimate-youtube-calendar-events-beyond-vidcon/"><u>[New] In 2024, The Ultimate Youtube Calendar Events Beyond VidCon</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-nocturnal-notes-expert-advice-on-low-light-photos-for-2024/"><u>[Updated] Nocturnal Notes Expert Advice on Low Light Photos for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-from-vids-to-dollars-navigating-youtubes-monetization-landscape/"><u>2024 Approved From Vids to Dollars Navigating YouTube's Monetization Landscape</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808098354-expert-tips-for-enhancing-file-transfer-speeds-no-hassle/"><u>Expert Tips for Enhancing File Transfer Speeds - No Hassle!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-itel-p40-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Itel P40 FRP Locks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/heroic-showdown-gopro-writes-new-footage-rule-with-hero5-and-hero4-for-2024/"><u>HEROic Showdown GoPro' Writes New Footage Rule with Hero5 and Hero4 for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ltimate-palette-of-creative-ideas-from-6-graphic-websites/"><u>The Ultimate Palette of Creative Ideas From 6 Graphic Websites</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshoot-and-fix-the-0x80070422-update-obstacle-in-your-windows-n-system/"><u>Troubleshoot and Fix the 0X80070422 Update Obstacle in Your Windows N System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-windows-10-setup-issues/"><u>Troubleshooting Guide: Resolving Windows 10 Setup Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/turn-off-windows-security-three-effective-methods-for-windows-11/"><u>Turn Off Windows Security: Three Effective Methods for Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-significant-savings-with-a-20-discount-on-drivereasy-get-your-code-today/"><u>Unlock Significant Savings with a 20% Discount on DRIVEREasy - Get Your Code Today</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-you-should-use-a-vpn-and-how-a-vpn-works/"><u>Why You Should Use a VPN, and How a VPN Works</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-master-mac-screen-and-voice-logging-device-for-2024/"><u>[Updated] Master Mac Screen and Voice Logging Device for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-streamlined-method-keeping-and-capturing-twitters-videomedia-for-2024/"><u>[Updated] Streamlined Method Keeping and Capturing Twitters Video/Media for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-finest-free-iphone-composition-and-photo-editing-tools-reviewed-for-2024/"><u>[Updated] The Finest FREE iPhone Composition and Photo Editing Tools Reviewed for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-beginners-guide-to-setting-up-your-iphone-in-dark-mode/"><u>A Beginner's Guide to Setting Up Your iPhone in Dark Mode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dissecting-zoom-issues-are-they-technical-or-user-related/"><u>Dissecting Zoom Issues: Are They Technical or User-Related?</u></a></li>
+<li><a href="https://win11.techidaily.com/does-your-pc-tick-all-boxes-for-windows-11-upgrade/"><u>Does Your PC Tick All Boxes for Windows 11 Upgrade?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-filmmaking-mastery-youtube-trailer-design-with-filmora/"><u>In 2024, Filmmaking Mastery YouTube Trailer Design with Filmora</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macbook-air-users-ultimate-guide-connecting-with-airpods-seamlessly/"><u>MacBook Air Users' Ultimate Guide: Connecting with AirPods Seamlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-time-the-transformative-saga-of-apples-ios-version-10-180/"><u>Navigating Through Time: The Transformative Saga of Apple's iOS (Version 1.0 - 18.0)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-tricks-to-take-images-from-your-screen-on-a-logitech-keyboard-setup/"><u>Quick Tricks to Take Images From Your Screen on a Logitech Keyboard Setup</u></a></li>
+<li><a href="https://review-topics.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-speedy-way-to-rejuvenate-your-pc-expert-tricks-for-cleanly-installing-windows-11/"><u>The Speedy Way to Rejuvenate Your PC: Expert Tricks for Cleanly Installing Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-10-mobile-mobas-for-android-gamers/"><u>Top 10 Mobile MOBAs for Android Gamers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-fixing-kernel32dll-failures-on-windows-devices/"><u>Troubleshooting Tips: Fixing Kernel32.dll Failures on Windows Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-endless-movie-entertainment-expertly-curated-12-apps-for-free-viewing/"><u>Unlock Endless Movie Entertainment: Expertly Curated 12 Apps for Free Viewing</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-razer-portal-best-wi-fi-experience-tailored-for-gamers/"><u>Unveiling the Razer Portal - Best Wi-Fi Experience Tailored for Gamers</u></a></li>
 </ul></div>
 

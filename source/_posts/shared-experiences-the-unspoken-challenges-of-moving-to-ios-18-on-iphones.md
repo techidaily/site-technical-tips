@@ -1,7 +1,7 @@
 ---
 title: "Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones"
-date: 2024-12-12T17:25:08.395Z
-updated: 2024-12-17T16:35:49.426Z
+date: 2024-12-22T17:28:56.798Z
+updated: 2024-12-25T23:11:37.931Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,18 +109,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-future-fables-top-30-quotes-on-tomorrows-realities/"><u>[New] Future Fables Top 30 Quotes on Tomorrow's Realities</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-motorola-edge-40-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-brain-eaters-unleashed-a-compelling-list/"><u>2024 Approved Brain-Eaters Unleashed A Compelling List</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-videocaptureelite-10-expert-technical-review/"><u>2024 Approved VideoCaptureElite 10 Expert Technical Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-about-the-samsung-galaxy-ring-what-you-need-to-know-cost-estimates-release-schedule-and-specs-update/"><u>All About the Samsung Galaxy Ring: What You Need to Know - Cost Estimates, Release Schedule & Specs Update</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-ring-news-and-expected-price-release-date-specs-and-more-rumors/"><u>Apple Ring: News and Expected Price, Release Date, Specs; and More Rumors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-the-latest-on-teslas-innovation-in-transportation-taxi-revolution-with-estimated-price-arrival-date-and-top-notch-specs/"><u>Get the Latest on Tesla's Innovation in Transportation - Taxi Revolution with Estimated Price, Arrival Date and Top-Notch Specs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-a-computer-that-shows-no-sign-of-power/"><u>How to Fix a Computer That Shows No Sign of Power</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-prime-cloud-call-recorder-pros/"><u>In 2024, Prime Cloud Call Recorder Pros</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-use-of-lg-channels-for-optimal-engagement/"><u>Mastering the Use of LG Channels for Optimal Engagement</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-path-to-blue-checkmark-verification-on-instagram/"><u>Navigating the Path to Blue-Checkmark Verification on Instagram</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-customizing-your-windows-11-taskbars-hue/"><u>Step-by-Step Guide: Customizing Your Windows 11 Taskbar's Hue</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-removing-your-graphics-card-drivers-expert-advice-from-yl-computing/"><u>Step-by-Step Guide: Removing Your Graphics Card Drivers - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-academic-engagement-lecture-capture-via-mac-computers/"><u>[New] 2024 Approved Academic Engagement Lecture Capture via Mac Computers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-speedy-tempo-change-software-showcase-mobile-pc/"><u>[Updated] Speedy Tempo Change Software Showcase (Mobile, PC)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginners-guide-initiating-your-fresh-laptop-experience-with-5-key-actions/"><u>Beginner's Guide: Initiating Your Fresh Laptop Experience with 5 Key Actions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/capturing-your-screen-a-step-by-step-guide-for-hp-notebook-users/"><u>Capturing Your Screen: A Step-by-Step Guide for HP Notebook Users</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-infinix-note-30i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Note 30i Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/crucial-considerations-before-purchasing-your-next-high-quality-projector/"><u>Crucial Considerations Before Purchasing Your Next High-Quality Projector</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-led-light-colors-understanding-your-ps4-controllers-messages/"><u>Decoding LED Light Colors: Understanding Your PS4 Controller's Messages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-code-43-error-rectification/"><u>Effective Strategies for Code 43 Error Rectification</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elite-performance-meets-cutting-edge-tech-samsung-q60r-for-gamers-a-comprehensive-tv-review/"><u>Elite Performance Meets Cutting-Edge Tech: Samsung Q60R for Gamers - A Comprehensive TV Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-skype-interview-advice-mastering-remote-meetings-in-2nd4/"><u>Essential Skype Interview Advice: Mastering Remote Meetings in 2nD4</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-nubia-red-magic-8s-proplus-frp-bypass-by-drfone-android/"><u>In 2024, About Nubia Red Magic 8S Pro+ FRP Bypass</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-tips-for-extending-instagram-videos-beyond-limits/"><u>In 2024, Tips for Extending Instagram Videos Beyond Limits</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leverage-the-power-of-google-assistant-on-pc-easy-setup-and-usage-guide/"><u>Leverage the Power of Google Assistant on PC: Easy Setup and Usage Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-start-guide-deploying-windows-10-on-an-empty-hard-disk-with-full-instructions/"><u>Quick Start Guide: Deploying Windows 10 on an Empty Hard Disk with Full Instructions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/solutions-rapides-pour-recuperer-lespace-disque-sur-une-cle-usb-avec-windows-1011/"><u>Solutions Rapides Pour Récupérer L'espace Disque Sur Une Clé USB Avec Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-improve-file-transfers-on-win11-pcs-1/"><u>Strategies to Improve File Transfers on WIN11 PCs (1)</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-roadmap-to-successful-online-job-promotions/"><u>The Roadmap to Successful Online Job Promotions</u></a></li>
 </ul></div>
 

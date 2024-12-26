@@ -1,7 +1,7 @@
 ---
 title: "Decoding Wireless Protocols: Insight Into the Latest IEEE's 802.11 Technologies (B/G/N, A, Ax & Be)"
-date: 2024-11-21T16:29:56.260Z
-updated: 2024-11-25T17:23:09.440Z
+date: 2024-12-24T16:03:37.440Z
+updated: 2024-12-26T03:22:12.839Z
 categories:
   - BestProducts
 description: "This Article Describes Decoding Wireless Protocols: Insight Into the Latest IEEE's 802.11 Technologies (B/G/N, A, Ax & Be)"
@@ -25,6 +25,10 @@ In This Article
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Must-Haves: Computers, Laptops and Peripherals
 
  Does your child need a laptop or a desktop computer? It could be that they need both, plus accessories (known as peripherals) like mice, webcams, and headphones.
@@ -43,11 +47,19 @@ In This Article
 
 ![Students using laptops at tables and in bean bag chairs.](https://www.lifewire.com/thmb/5xqW8ViVbQNgb2VUsUblogbwFco=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentswithlaptopsondesksandbeanbags_skynesher_GettyImages-1456220436CROPPED-19c3059f597a4aa1b038835c96bacc75.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Skynesher/Getty
 
  For example, if your child is a STEM kid or a graphic artist, more power and storage are necessary overall. On the other hand, kids who just need to manage basic projects and complete homework on time will probably do fine with a standard Chromebook.  
 
  As you make your purchases, consider how long the item will last with your child. Some kids are rough on technology, while others are more thoughtful and responsible; age often dictates how nice I'm willing to purchase for a specific child.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Look for Student Discounts
 
@@ -66,11 +78,7 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275751%27 height=%272313%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Hands holding a smartphone with a red smartwatch on wrist over a pencil and paper.](https://www.lifewire.com/thmb/nSqWQLOUlnMzLJD1rc7f4f2qO5g=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/smartwatchandphone_yacobchuk_GettyImages-693332444_CROPPED-616820cc68f645c09d7153ccc1de07ff.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Connections: The Power of Phones and Smartwatches
@@ -100,11 +108,7 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using Apps and Sites Can Support Good Study Habits
@@ -112,10 +116,6 @@ Skynesher/Getty
  Be careful and thoughtful if you're considering using ChatGPT for your child. It can certainly be helpful in some ways (think: helping to spark ideas for a snappy essay title), but AI tools like this essentially scrub the internet for information, which isn't always accurate and can frequently be considered plagiarism if used verbatim. Encourage your child to do their internet research instead.
 
 ![Female student walking with a tablet, smartphone, and headphones.](https://www.lifewire.com/thmb/xlh2OPH52kBp--XJzwjVyR_lZN0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentwithtabletphoneheadphones_COROIMAGE_GettyImages-1429193388_VERTICALCROP-5f30ba23f2f64ada861c3283ce518740.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Back to school means more than finding the right books this year. While those are crucial (and often spendy), a frequently overlooked aspect of getting back into the school groove involves finding and using the right apps to support learning, enhance productivity, and improve organization tactics.
 
@@ -171,20 +171,24 @@ Skynesher/Getty
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-efficiently-archive-social-media-videos-with-top-5-pick/"><u>[New] Efficiently Archive Social Media Videos with Top 5 Pick</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-elevated-visuals-selecting-the-right-card-for-2024/"><u>[Updated] Elevated Visuals Selecting the Right Card for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-movie-maker-tutorial-and-alternatives/"><u>[Updated] YouTube Movie Maker Tutorial and Alternatives</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/celebrate-pride-with-these-must-watch-lgbtq-series-and-movies-on-netflix-july-edition-202eplust-2024/"><u>Celebrate Pride with These Must-Watch LGBTQ Series and Movies on Netflix - July Edition (202E+t 2024)</u></a></li>
-<li><a href="https://win11.techidaily.com/confirming-the-active-state-in-windows-11/"><u>Confirming the Active State in Windows 11</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-6s-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 6s to Android? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009779299-league-of-legends-stability-tips-no-more-crashing/"><u>League of Legends Stability Tips - No More Crashing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-online-system-to-schedule-your-personal-consultation-with-apple/"><u>Navigating the Online System to Schedule Your Personal Consultation with Apple</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/portable-battery-solutions-for-keeping-your-phone-alive-without-a-wall-adapter/"><u>Portable Battery Solutions for Keeping Your Phone Alive Without a Wall Adapter</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-left-4-dead-2-fixes-game-crashing-issue/"><u>Resolved: Left 4 Dead 2 Fixes Game-Crashing Issue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-upgrading-powerpoint-files/"><u>Step-by-Step Instructions for Upgrading PowerPoint Files</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-to-deactivate-voice-guide-on-a-samsung-set-top-box/"><u>Step-by-Step Instructions to Deactivate Voice Guide on a Samsung Set-Top Box</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-linking-chromecast-with-amazon-fire-tv/"><u>Step-by-Step Tutorial on Linking Chromecast with Amazon Fire TV</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-intrepid-guide-to-navigating-photo-and-video-imports-w11-for-2024/"><u>The Intrepid Guide to Navigating Photo & Video Imports W11 for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-t-mobiles-home-network-roaming-agreements-a-guide/"><u>Understanding T-Mobile's Home Network Roaming Agreements: A Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-streamlabs-vs-obs-assessing-the-leading-livestream-tools/"><u>[New] 2024 Approved Streamlabs Vs. OBS Assessing the Leading Livestream Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-precision-zoom-sound-reclaiming-clarity/"><u>[New] Precision Zoom Sound Reclaiming Clarity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-investment-alert-avoid-the-trap-of-artificial-youtube-engagement/"><u>[Updated] Investment Alert Avoid the Trap of Artificial YouTube Engagement</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitta-videos-new-audio-formats/"><u>2024 Approved Twitta Videos New Audio Formats</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-productivity-the-definitive-guide-to-30-powerful-gmail-shortcuts/"><u>Boost Your Productivity: The Definitive Guide to 30 Powerful Gmail Shortcuts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722898324570-can-i-swim-with-my-data-intact-understanding-iphone-15-pro-maxs-water-protection/"><u>Can I Swim With My Data Intact? Understanding iPhone 15 Pro Max's Water Protection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-system-velocity-overcoming-sluggishness-in-windows-11/"><u>Enhancing System Velocity: Overcoming Sluggishness in Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/estimating-a-20mb-videoclip-duration/"><u>Estimating a 20MB Videoclip Duration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-world-of-biometrics-a-comprehensive-overview/"><u>Exploring the World of Biometrics: A Comprehensive Overview</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-repairing-the-missing-helperdll-file-notification/"><u>Guide to Repairing the Missing Helper.dll File Notification</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-restore-cellular-function-on-your-apple-watch/"><u>How To Restore Cellular Function On Your Apple Watch</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/live-streaming-mastery-with-manycam-ultimate-video-effects-and-virtual-camera/"><u>Live Streaming Mastery with ManyCam: Ultimate Video Effects and Virtual Camera</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/repariere-deine-alt-links-in-windows-11-schritt-fur-schritt-anleitung-zur-aktionskontextmenuwiederverwendung/"><u>Repariere Deine Alt-Links in Windows 11 – Schritt-Für-Schritt-Anleitung Zur Aktionskontextmenüwiederverwendung</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/oundscapes-of-success-building-youtube-playlists-with-precision/"><u>The Soundscapes of Success Building YouTube Playlists with Precision</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-for-fixing-ntldr-error-on-your-windows-pc/"><u>Troubleshooting Steps for Fixing NTLDR Error on Your Windows PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/twitter-mastery-101-unlock-the-secrets-of-building-a-loyal-follower-base/"><u>Twitter Mastery 101: Unlock the Secrets of Building a Loyal Follower Base</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-xs-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone XS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-in-store-for-the-newest-oneplus-model-price-forecast-release-schedule-and-exciting-specs-revealed/"><u>What's In Store for the Newest OnePlus Model? Price Forecast, Release Schedule & Exciting Specs Revealed</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2129456-9780349404646-working-with-spirit-guides/"><u>Working With Spirit Guides | Free Book</u></a></li>
 </ul></div>
 

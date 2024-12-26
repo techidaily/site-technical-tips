@@ -1,7 +1,7 @@
 ---
 title: "Mastering Messaging: Setting Up Slack Push Notifications for iPhone Series | Expert Tips"
-date: 2024-12-10T16:36:18.350Z
-updated: 2024-12-17T16:14:57.140Z
+date: 2024-12-21T23:33:20.336Z
+updated: 2024-12-26T03:47:38.514Z
 tags:
   - apple
 categories:
@@ -44,12 +44,16 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -63,7 +67,7 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -77,12 +81,16 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -122,17 +130,9 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -179,15 +179,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-speeding-up-periscope-live-streams-explained-for-2024/"><u>[New] Speeding Up Periscope Live Streams Explained for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-fixes-for-iframe-dll-problems-in-microsoft-edge-or-internet-explorer/"><u>Comprehensive Fixes for iFrame DLL Problems in Microsoft Edge or Internet Explorer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-thorough-examination-easy-hdr-techniques-guide/"><u>In 2024, Thorough Examination Easy HDR Techniques Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pixel-10-preview-speculations-on-features-pricing-strategy-availability-dates-and-theories-from-experts/"><u>Pixel 10 Preview: Speculations on Features, Pricing Strategy, Availability Dates & Theories From Experts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-platforms-for-asmr-experience/"><u>Prime Platforms for ASMR Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ps4-image-saving-essentials-how-to-effortlessly-take-screenshots/"><u>PS4 Image-Saving Essentials: How to Effortlessly Take Screenshots</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-10-mobile-mobas-for-android-gamers/"><u>Top 10 Mobile MOBAs for Android Gamers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-resolving-error-code-19-on-your-windows-pc/"><u>Troubleshooting and Resolving Error Code 19 on Your Windows PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whats-the-value-of-installing-a-wi-fi-mesh-network-in-your-home-or-office/"><u>What's the Value of Installing a Wi-Fi Mesh Network in Your Home or Office?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-10-simplified-enablingdisabling-screen-typing-tools-for-accessibility-and-convenience/"><u>Windows 10 Simplified: Enabling/Disabling Screen Typing Tools for Accessibility and Convenience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unveiling-efficient-techniques-in-screencastify-recording/"><u>[New] In 2024, Unveiling Efficient Techniques in Screencastify Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-navigating-zoom-chats-a-guide-to-effective-online-interactions/"><u>[New] Navigating Zoom Chats A Guide to Effective Online Interactions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unpacking-the-sequencing-of-a-20mb-file-for-2024/"><u>[New] Unpacking the Sequencing of a 20MB File for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-from-periscope-to-pro-livestreaming-basics-for-ios-and-android/"><u>[Updated] In 2024, From Periscope to Pro Livestreaming Basics for iOS and Android</u></a></li>
+<li><a href="https://fox-links.techidaily.com/apex-pcs-the-summit-of-desktop-technology/"><u>Apex PCs - The Summit of Desktop Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-home-theatre-vs-stereo-receivers-what-you-need-to-know/"><u>Comparing Home Theatre vs Stereo Receivers: What You Need To Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/getting-your-apple-watchs-cellular-function-back-online-practical-repair-techniques/"><u>Getting Your Apple Watch's Cellular Function Back Online: Practical Repair Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-watch-the-matrix-movies-in-order/"><u>How to Watch the Matrix Movies in Order</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-depth-look-at-fraps-screen-capture/"><u>In-Depth Look at Fraps Screen Capture</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/innovative-workflow-solutions-a-collection-of-top-18-shortcut-wizardries-for-ios-users/"><u>Innovative Workflow Solutions: A Collection of Top 18 Shortcut Wizardries for iOS Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/new-ios-patch-1751-corrects-unusual-issue-with-photo-reappearance-gadgetzone/"><u>New iOS Patch 17.5.1 Corrects Unusual Issue with Photo Reappearance | GadgetZone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/trouble-with-device-boot-up-master-the-art-of-rectifying-code-10-malfunctions-here/"><u>Trouble with Device Boot-Up? Master the Art of Rectifying Code 10 Malfunctions Here</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncovering-solutions-troubleshooting-missing-youtube-comments-effectively/"><u>Uncovering Solutions: Troubleshooting Missing YouTube Comments Effectively</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-ultra-compact-chip-based-3d-printer-smaller-than-a-coin-and-no-mechanical-components/"><u>Unveiling the Ultra-Compact Chip-Based 3D Printer – Smaller than a Coin & No Mechanical Components</u></a></li>
 </ul></div>
 

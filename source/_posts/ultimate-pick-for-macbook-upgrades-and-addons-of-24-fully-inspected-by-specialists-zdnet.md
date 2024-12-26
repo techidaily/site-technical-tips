@@ -1,7 +1,7 @@
 ---
 title: Ultimate Pick for MacBook Upgrades & Addons of '24, Fully Inspected by Specialists | ZDNet
-date: 2024-12-13T16:09:06.924Z
-updated: 2024-12-17T16:33:00.499Z
+date: 2024-12-19T22:20:18.054Z
+updated: 2024-12-25T20:26:33.405Z
 tags:
   - apple
 categories:
@@ -21,6 +21,10 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best small tablet right now?
 
@@ -42,10 +46,6 @@ Cons
 * Expensive
 
 ## Apple iPad Mini 6th Generation
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -77,10 +77,6 @@ Pros
 Cons 
 * Performance is slightly slow
 * Cameras aren't as great as other options
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Amazon Fire 7 Tablet
 
@@ -115,10 +111,14 @@ Cons
 * Some complaints of lag
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Boox Tab Mini C
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet for note-taking
 
@@ -149,6 +149,10 @@ Cons
 
 ## Amazon Kindle 11th generation
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best small tablet for reading
 
 The upgraded 11th-generation Kindle offers 16GB of storage instead of 8GB, 300ppi instead of 167ppi, six weeks of battery life instead of four weeks, and charging via USB-C instead of micro-USB. 
@@ -177,7 +181,15 @@ Pros
 Cons 
 * Performance could be better
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Tab A7 Lite
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best Samsung small tablet
 
@@ -224,10 +236,6 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -239,10 +247,6 @@ We also compare the display's performance with what the manufacturer promised, t
 * **Camera and audio:** For cameras, we evaluate features like resolution, aperture, low-light performance, autofocus accuracy, dynamic range, color accuracy, image quality, sharpness, and video quality. For audio, we look at the sound quality and overall listening experience, including audio clarity at different volumes, stereo separation of left and right audio channels, maximum volume level in various environments, and if there is perceived distortion.
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the smallest tablet screen size?
 
@@ -264,16 +268,12 @@ Yes, they can be. Small Android tablets allow you to do everything you would nor
 
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
@@ -322,22 +322,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ow-to-buy-1-million-youtube-views-safely-from-trusted-providers-for-2024/"><u>[New] How to Buy 1 Million YouTube Views Safely From Trusted Providers for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-launching-joining-and-scheduling-zoom-calls-made-simple-for-android-users-for-2024/"><u>[New] Launching, Joining, and Scheduling Zoom Calls Made Simple for Android Users for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-flawless-free-android-snapmaker/"><u>[Updated] Flawless Free Android SnapMaker</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mobile-masterpieces-phones-ideal-for-media-makers/"><u>[Updated] Mobile Masterpieces Phones Ideal for Media Makers</u></a></li>
-<li><a href="https://facebook.techidaily.com/broadcasting-on-ig-live-cut-the-clutter/"><u>Broadcasting On IG Live: Cut the Clutter</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-walkthrough-activating-and-configuring-windows-10-on-a-replacement-drive/"><u>Comprehensive Walkthrough: Activating and Configuring Windows 10 on a Replacement Drive</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/demystifying-usb-20-fast-performance-various-cables-and-compatible-connectors/"><u>Demystifying USB 2.0: Fast Performance, Various Cables, and Compatible Connectors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-free-utilities-our-top-15-recommendations-for-safe-software-deletion/"><u>Essential Free Utilities: Our Top 15 Recommendations for Safe Software Deletion</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oppo-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Oppo?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-streaming-with-integrated-local-channels-future-edition/"><u>In 2024, Superior Streaming with Integrated Local Channels, Future Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-8-montage-apps-for-androidiphone/"><u>In 2024, Top 8 Montage Apps for Android/iPhone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-lg-channels-essential-details-for-a-complete-understanding/"><u>Mastering LG Channels – Essential Details for a Complete Understanding</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigate-the-world-of-artificial-intelligence-with-these-15-no-cost-self-learning-options/"><u>Navigate the World of Artificial Intelligence with These 15 No-Cost, Self-Learning Options</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-increasing-iphone-ringtone-and-calls-loudness/"><u>Troubleshooting Tips: Increasing iPhone Ringtone & Calls Loudness</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-resolve-dnssddll-is-absent-windows-error-effectively/"><u>Troubleshooting: Resolve 'DNSSD.DLL Is Absent' Windows Error Effectively</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/where-kids-can-play-top-preschool-games-for-free-top-9-picks/"><u>Where Kids Can Play Top Preschool Games for Free – Top 9 Picks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-jumpstart-your-meme-odyssey-humor-in-the-virtual-cosmos/"><u>[New] Jumpstart Your Meme Odyssey - Humor in the Virtual Cosmos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-maximize-your-youtube-srt-a-three-pronged-plan/"><u>[Updated] Maximize Your Youtube SRT A Three-Pronged Plan</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/before-you-level-up-check-these-5-must-know-points-when-buying-a-game-console/"><u>Before You Level Up? Check These 5 Must-Know Points When Buying a Game Console</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bring-the-world-of-streaming-into-your-home-cinema-system-with-ease/"><u>Bring the World of Streaming Into Your Home Cinema System with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbot-confidentiality-at-risk-insights-into-neural-model-inversion-attacks/"><u>Chatbot Confidentiality at Risk? Insights Into Neural Model Inversion Attacks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deactivate-critical-messaging-warnings-on-iphones-with-this-simple-tutorial/"><u>Deactivate Critical Messaging Warnings on iPhones with This Simple Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-enigmatic-puzzle-worlds-top-apple-device-titles-akin-to-the-room-and-myst/"><u>Explore Enigmatic Puzzle Worlds: Top Apple Device Titles Akin to ‘The Room’ and ‘Myst’</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-advancing-zoom-clarity-in-online-gatherings-google-meet/"><u>In 2024, Advancing Zoom Clarity in Online Gatherings (Google Meet)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-7-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 7 with iTunes | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-top-picks-free-thumbnail-extractor-software/"><u>In 2024, Top Picks FREE Thumbnail Extractor Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-knowledge-through-toms-authoritative-articles/"><u>Mastering Hardware Knowledge Through Tom's Authoritative Articles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-problem-solving-for-the-ios-home-remote-application/"><u>Mastering Problem Solving for the iOS Home Remote Application</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-through-luts-for-improved-photography-techniques-for-2024/"><u>Navigating Through LUTs for Improved Photography Techniques for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-x3daudiodll-file-absent-issues-a-step-by-step-guide/"><u>Resolving 'X3DAudio.dll' File Absent Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-comprehensive-guide-to-micromobility-timelines-breaking-stories-rumored-trends-and-in-depth-analysis/"><u>The Comprehensive Guide to Micromobility Timelines: Breaking Stories, Rumored Trends & In-Depth Analysis</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-10-clear-sound-microphones-for-cams-for-2024/"><u>Top 10 Clear Sound Microphones for Cams for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-patch-tuesday-an-essential-guide/"><u>Understanding Patch Tuesday: An Essential Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/universal-access-to-icloud-images-techniques-for-apple-windows-and-android-users/"><u>Universal Access to iCloud Images: Techniques for Apple, Windows, and Android Users</u></a></li>
 </ul></div>
 

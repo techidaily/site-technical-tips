@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Resolving PC Repair Error Code 19 on Windows Systems
-date: 2024-08-30T13:36:43.308Z
-updated: 2024-08-31T13:36:43.308Z
+date: 2024-12-20T09:08:48.046Z
+updated: 2024-12-25T16:56:04.238Z
 categories:
   - BestProducts
 description: This Article Describes Troubleshooting and Resolving PC Repair Error Code 19 on Windows Systems
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/uIpswxe4GmJM77zi4HNj1T4mfn8=/540x405/fi
 ## Fixing Windows Boot Failures: Resolve Your 'Resetting PC' Error Today
  If you have a problem with Windows that’s too complicated to fix manually, you might try using[Reset This PC](https://www.lifewire.com/reset-this-pc-2626216) . It’s supposed to completely reinstall Windows with just a few clicks, and can be extremely helpful...if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the 'There Was a Problem Resetting Your PC' Error?
 
  If Reset This PC fails to run, you’ll probably get this message, or one like it:  
@@ -20,6 +24,10 @@ thumbnail: https://www.lifewire.com/thmb/uIpswxe4GmJM77zi4HNj1T4mfn8=/540x405/fi
 `No changes were made.`
 
 ![There was a problem resetting your pc error](https://www.lifewire.com/thmb/5tOAYiPdaTDXVWTynoE4PdeoMxQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/there-was-a-problem-resetting-your-pc-86e596e364114dc2bacc19e1295c4ce4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why This Happens
 
@@ -30,8 +38,9 @@ _Why_ you're getting the error is simple: Reset This PC didn't work. You're clea
  Reset This PC errors can happen in[Windows 11](https://www.lifewire.com/windows-11-5188930) ,[Windows 10](https://www.lifewire.com/windows-10-2626217) , and[Windows 8](https://www.lifewire.com/windows-8-2626235) . The directions below apply to both operating systems.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix the 'There Was a Problem Resetting Your PC' Error
 
  Follow these steps in the order they're presented to try the simpler fixes first:
@@ -41,30 +50,27 @@ _Why_ you're getting the error is simple: Reset This PC didn't work. You're clea
 2. Run Startup Repair from the[Advanced Startup Options (ASO)](https://www.lifewire.com/advanced-startup-options-2625805) menu. This will attempt to fix problems that are preventing Windows from loading, which might be why Reset This PC won’t start.  
 ![Startup Repair in Advanced Options menu](https://www.lifewire.com/thmb/EjCM25AXeApJ95fLxmCvw-bZ9uU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/advanced-options-startup-repair-d8c55ed0c58e406b8073335d1a15270d.png)  
  To complete this step, you’ll need to[access the ASO menu](https://www.lifewire.com/how-to-access-advanced-startup-options-in-windows-10-or-8-2626229) . Once you’re there, go to**Troubleshoot** \>**Advanced options** \>**Startup Repair** .
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 3. [Repair system files with the sfc /scannow command](https://www.lifewire.com/how-to-use-sfc-scannow-to-repair-windows-system-files-2626161) . Reset This PC might be trying to use some important Windows files that are corrupt, which is why you’re seeing this error.  
 ![sfc scannow command in Command Prompt](https://www.lifewire.com/thmb/rCEGFztnnEGe2OokQxLPfPKG6Po=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-a32db075f41b417d9f9116107fdc6c2b.png)  
  You’ll need to run a command to do this, which you can do in an[elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) from within Windows. If you can’t get as far as your desktop, use the Command Prompt in the ASO menu. Instructions for both methods are available in that link above.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. [Run System Restore](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) . This will undo any changes made to Windows files that might be the cause for the “_There was a problem resetting your PC_ ” error. Just be sure to restore your computer to a point before the error starting occurring.  
 ![Windows 10 System Restore screen](https://www.lifewire.com/thmb/YNdyS4A1lLE09hn7V9RJ3Rm-Kc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restore-point-windows-10-ecd60e49098a45c7ad8687986904d818.png)  
  If you can’t log in to Windows to run[System Restore](https://www.lifewire.com/what-is-system-restore-2626022) , you can also do it from the ASO menu via**Troubleshoot** \>**System Restore** or from bootable installation media (see the last step below).
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Repair Windows Recovery Environment. If the WinRE image is, for whatever reason, missing or corrupt, it might be throwing the “_There was a problem resetting your PC_ ” error.  
  To repair it, open an elevated Command Prompt and enter this command:  
  `reagentc /disable`  
 ![reagentc disable command in Command Prompt](https://www.lifewire.com/thmb/d5zO43p4ZIJfMESMS8Q9H8kNBPU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reagentc-disable-command-2ad577ae139f435da2305cc3d34dfd5b.png)  
  Reboot your computer, open Command Prompt again, and enter this command:  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  `reagentc /enable`  
  This fix is only relevant for a very specific situation, which might be unrelated to what's causing the problem. Be sure to complete the other steps above before moving on to this one.
 6. If after trying all of these suggestions, you’ve still been unable to fix the error, you can bypass it entirely by[installing Windows from a disc or a flash drive](https://www.lifewire.com/how-to-clean-install-windows-2624904) . Since your goal from the beginning was to wipe the whole drive and reinstall Windows, you can do so from installation media.  
@@ -91,8 +97,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +104,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024s-cheapest-cloud-a-detailed-comparison/"><u>[New] 2024'S Cheapest Cloud A Detailed Comparison</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-basic-understanding-of-animate-graphic-content/"><u>[New] Basic Understanding of Animate Graphic Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-streamlined-methods-to-store-mov-on-your-windows-pc/"><u>2024 Approved Streamlined Methods to Store .mov on Your Windows PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easily-connect-and-use-your-printer-across-various-gadgets-a-comprehensive-tutorial/"><u>Easily Connect and Use Your Printer Across Various Gadgets – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-ways-to-connect-and-share-a-printer-among-various-electronics/"><u>Easy Ways to Connect and Share a Printer Among Various Electronics</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/free-software-for-ipod-video-format-changeover-easy-mp4-video-download/"><u>Free Software for iPod Video Format Changeover - Easy MP4 Video Download</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-home-theater-choosing-the-right-3d-blu-ray-devices/"><u>In 2024, Optimal Home Theater Choosing the Right 3D Blu-Ray Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reattaching-lost-keycaps-a-comprehensive-walkthrough-for-laptops/"><u>Reattaching Lost Keycaps: A Comprehensive Walkthrough for Laptops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-download-and-setup-of-newest-graphics-control-panel-drivers-for-dell-inspiron-15-d3100/"><u>Simple Download and Setup of Newest Graphics Control Panel Drivers for Dell Inspiron 15 (D3100)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-restore-samsung-tv-apps-that-wont-open/"><u>Step-by-Step Guide to Restore Samsung TV Apps That Won't Open</u></a></li>
+</ul></div>
 

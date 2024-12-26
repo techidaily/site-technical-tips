@@ -1,7 +1,7 @@
 ---
 title: Unveiling Apple's Bold Move Against Top Browser Through Intriguing Advertisement - Find Out More at ZDNet
-date: 2024-11-20T16:46:56.668Z
-updated: 2024-11-25T16:13:03.012Z
+date: 2024-12-20T05:01:11.873Z
+updated: 2024-12-25T16:56:55.176Z
 tags:
   - apple
 categories:
@@ -28,11 +28,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -41,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -52,6 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -59,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -67,10 +71,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -126,20 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-begin-your-editing-journey-adopting-movie-maker-for-w11/"><u>[New] In 2024, Begin Your Editing Journey Adopting Movie Maker for W11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-best-affordable-flying-tech-today/"><u>[New] In 2024, Best Affordable Flying Tech Today</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-social-media-shifts-yearly-data-visualization-guide/"><u>[New] In 2024, Social Media Shifts Yearly Data Visualization Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-superior-5-social-sites-redefining-connectivity-for-2024/"><u>[New] Superior 5 Social Sites, Redefining Connectivity for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-free-videographers-essential-openers/"><u>[Updated] 2024 Approved Free Videographer's Essential Openers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-onlineoffline-animation-revolution-with-zero-price-tag/"><u>[Updated] Online/Offline Animation Revolution with Zero Price Tag</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-top-tier-televisions-best-4k-edition/"><u>[Updated] Top-Tier Televisions – Best 4K Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-buzz-around-new-sony-vr-device-forecast-pricing-release-eta-and-specs-sneak-peek/"><u>Exploring the Buzz Around New Sony VR Device: Forecast Pricing, Release ETA and Specs Sneak Peek</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-functionality-of-espnplus-streaming-service-insights-for-fans/"><u>Exploring the Functionality of ESPN+ Streaming Service: Insights for Fans</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-tracking-a-contacts-whereabouts-on-your-iphone/"><u>Guide: Tracking a Contact's Whereabouts on Your iPhone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-something-went-wrong-office-error-on-windows/"><u>How to Fix the “Something Went Wrong” Office Error on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/hulu-versus-hulu-plus-identifying-core-differences-for-viewers/"><u>Hulu versus Hulu Plus: Identifying Core Differences for Viewers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-10-strategies-for-creating-an-insta-sensation/"><u>Top 10 Strategies for Creating an Insta-Sensation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-not-found-error-for-d3dx928dll-file-on-your-pc/"><u>Troubleshooting Not Found Error for d3dx9_28.dll File on Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-affordable-education-a-guide-to-securing-lenovo-discounts-for-students/"><u>Unlocking Affordable Education: A Guide to Securing Lenovo Discounts for Students</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-a-step-by-step-approach-to-fb-video-retrieval/"><u>[Updated] A Step-by-Step Approach to FB Video Retrieval</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-screenplay-creation-hub/"><u>[Updated] Top Screenplay Creation Hub</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wmvmp4-movavi/"><u>「WmvファイルをMP4へ簡単無料変換 - Movaviオンライン」</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-infinite-storage-horizon-your-guide-to-free-and-premium-cloud-services/"><u>2024 Approved Infinite Storage Horizon Your Guide to Free & Premium Cloud Services</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/boost-your-fitness-journey-the-fitbit-versa-3s-built-in-gps-and-wellness-suite-spark-constant-motivation/"><u>Boost Your Fitness Journey: The Fitbit Versa 3'S Built-In GPS and Wellness Suite Spark Constant Motivation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/come-converti-i-video-flv-in-formato-vob-per-free-online-utilizzo-di-movavi/"><u>Come Converti I Video FLV in Formato VOB per Free Online - Utilizzo Di Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/descubre-ofertas-especiales-en-compre-o-movavi-video-suite-compra-confianza-total-con-guarantia-del-100/"><u>Descubre Ofertas Especiales en Compre O Movavi Video Suite - Compra Confianza Total Con Guarantía Del 100%</u></a></li>
+<li><a href="https://games-able.techidaily.com/diminishing-game-bar-usage-in-win-11-systems/"><u>Diminishing Game Bar Usage in Win 11 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-conversion-transforming-voc-files-into-avi-format-with-movavi/"><u>Free Online Conversion: Transforming VOC Files Into AVI Format with Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratuit-wykantga-van-wmv-naar-m4v-online-movavi/"><u>Gratuit Wykantga Van WMV Naar M4V Online - Movavi</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/ideal-choices-priority-6-fb-lite-vids-for-2024/"><u>Ideal Choices Priority 6 FB Lite Vids for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oneplus-ace-3-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-comparison-can-inshot-outshine-competitors/"><u>In 2024, In-Depth Comparison Can InShot Outshine Competitors?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-avi-to-mp4/"><u>Movavi: 無料で高画質のオンラインAVI to MP4変換サービス</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-converter-gratuito-de-arquivos-para-formato-ogg-online-sem-custo/"><u>Movavi: Converter Gratuito De Arquivos Para Formato OGG - Online Sem Custo</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/official-winx-hd-video-converter-for-macos-perfect-tool-to-change-avchd-mkv-mov-mp4-videos-into-any-format/"><u>Official WinX HD Video Converter for macOS: Perfect Tool to Change AVCHD, MKV, MOV, MP4 Videos Into Any Format</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ricarica-avi-a-formato-wmv-online-gratuitamente-con-convertitore-movie-movavi/"><u>Ricarica AVI a Formato WMV Online Gratuitamente Con Convertitore Movie - Movavi</u></a></li>
 </ul></div>
 

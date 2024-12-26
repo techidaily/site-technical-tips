@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Recording Calls with iOS Device Safely and Legally"
-date: 2024-10-29T22:34:07.893Z
-updated: 2024-11-06T00:33:27.773Z
+date: 2024-12-22T01:42:03.168Z
+updated: 2024-12-25T22:04:21.097Z
 tags:
   - apple
 categories:
@@ -56,18 +56,15 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -85,18 +82,15 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -110,14 +104,11 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
-## Use Intel Unison
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Use Intel Unison
 
 ## 1\. Install Intel Unison
 
@@ -139,13 +130,6 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -153,10 +137,7 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
@@ -164,6 +145,10 @@ Screenshot by Lance Whitney/ZDNET
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -207,14 +192,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-ultimate-battle-ultrawide-vs-uhd-4k-display-options/"><u>[Updated] In 2024, The Ultimate Battle UltraWide vs UHD 4K Display Options</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/102-special-offer-transform-your-macbook-setup-with-the-multi-functional-charger-stand-and-ports-organizer-featured-now/"><u>$102 Special Offer: Transform Your MacBook Setup with the Multi-Functional Charger, Stand, and Ports Organizer Featured Now!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expertly-testing-the-ultimate-list-of-2024s-best-notetaking-tablets-detailed-analysis-zdnet/"><u>Expertly Testing the Ultimate List of 2024'S Best Notetaking Tablets: Detailed Analysis | ZDNET</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/oth-sides-right-expert-tips-on-crafting-compelling-pov-based-youtube-reaction-videos-2-pov-perspective-for-2024/"><u>Get Both Sides Right – Expert Tips on Crafting Compelling POV-Based YouTube Reaction Videos (2 POV Perspective) for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-image-saving-failures-in-win11-camera-app/"><u>Remedying Image Saving Failures in Win11 Camera App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/saving-strategies-how-apples-intervention-could-revitalize-disappointed-sonos-customers/"><u>Saving Strategies: How Apple's Intervention Could Revitalize Disappointed Sonos Customers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/spicing-up-your-comments-using-animated-gifs-in-the-instagram-conversation/"><u>Spicing Up Your Comments: Using Animated GIFs in the Instagram Conversation</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/ultimate-guide-ranking-the-best-3-free-4k-video-grabber-apps-compatible-with-pc-and-mac-systems/"><u>Ultimate Guide: Ranking the Best 3 FREE 4K Video Grabber Apps Compatible with PC & Mac Systems</u></a></li>
-<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-crafting-softer-beats-with-ableton/"><u>[Updated] Crafting Softer Beats with Ableton</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-to-react-if-your-live-video-is-quashed-on-facebook/"><u>2024 Approved How to React if Your Live Video Is Quashed on Facebook</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/deciphering-the-code-to-your-liked-videos-on-facebook/"><u>Deciphering the Code to Your Liked Videos on Facebook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-to-follow-guide-accessing-network-resources-via-macos-drives-mapping/"><u>Easy-to-Follow Guide: Accessing Network Resources via macOS Drives Mapping</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/editors-dream-machine-top-portable-video-edits-tools-for-2024/"><u>Editor's Dream Machine Top Portable Video Edits Tools for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-fixing-errors-with-missing-msvbvm50dll-file-on-your-pc/"><u>Guide to Fixing Errors with Missing msvbvm50.dll File on Your PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y27s-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/microsoft-introduces-new-advertising-features-within-windows-11s-start-screen/"><u>Microsoft Introduces New Advertising Features Within Windows 11'S Start Screen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-case-for-decoupling-government-systems-from-big-tech-spurred-by-microsoft-outages/"><u>The Case for Decoupling Government Systems From Big Tech, Spurred by Microsoft Outages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-fix-for-wmvcoredll-file-missing-or-corrupt-errors/"><u>The Complete Fix for 'Wmvcore.dll File Missing or Corrupt' Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-solution-for-normalizdll-missing-error-on-windows/"><u>The Ultimate Solution for 'Normaliz.dll Missing Error' On Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unraveling-the-mystery-understanding-and-using-slug-lines-for-2024/"><u>Unraveling the Mystery Understanding & Using Slug Lines for 2024</u></a></li>
 </ul></div>
 

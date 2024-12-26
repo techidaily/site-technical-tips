@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Discounts: Get Apple AirPods at a $40 Savings Before Independence Day | Tech News"
-date: 2024-12-16T17:07:59.805Z
-updated: 2024-12-17T17:22:24.681Z
+date: 2024-12-20T19:01:14.626Z
+updated: 2024-12-26T08:02:15.260Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd3615e89-4bc5-490e-8142-47a4e693ce93%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,21 +62,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/rom-videos-to-vault-ajays-revenue-journey-on-youtube-for-2024/"><u>[New] From Videos to Vault AJay’s Revenue Journey on YouTube for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-social-media-video-to-music-conversion-guide/"><u>[New] Social Media Video to Music Conversion Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-navigating-video-editing-tools-on-the-latest-windows-11/"><u>[Updated] 2024 Approved Navigating Video Editing Tools on the Latest Windows 11</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-understanding-your-place-in-youtube-earnings/"><u>[Updated] 2024 Approved Understanding Your Place in YouTube Earnings</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-preserving-gifs-from-twitter-for-mobile-devices/"><u>[Updated] In 2024, Preserving GIFs From Twitter for Mobile Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-tutorial-getting-rid-of-microsoft-copilot-in-windows-11-what-you-need-to-know/"><u>DIY Tutorial: Getting Rid of Microsoft Copilot in Windows 11 – What You Need to Know</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhance-your-stories-a-diy-approach-to-musicizing-your-instagram-clips/"><u>Enhance Your Stories: A DIY Approach to Musicizing Your Instagram Clips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhancing-movie-nights-a-guide-to-hookup-the-internet-with-your-home-projector-system/"><u>Enhancing Movie Nights: A Guide to Hookup the Internet with Your Home Projector System</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2013-file-is-not-in-recognizable-format-stellar-by-stellar-guide/"><u>Error Solved Excel 2013 file is not in recognizable format | Stellar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fresh-film-selections-what-to-stream-this-moment-tips-from-lifewire/"><u>Fresh Film Selections: What to Stream This Moment - Tips From Lifewire</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/godaddy-webmail-how-to-add-and-edit-your-email-signature-with-ease/"><u>GoDaddy WebMail: How to Add and Edit Your Email Signature with Ease</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/real-world-application-perfecting-your-instagram-livestream-with-obs/"><u>Real-World Application Perfecting Your Instagram Livestream with OBS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/safeguard-your-inbox-explore-the-best-5-encrypted-email-systems-available/"><u>Safeguard Your Inbox: Explore the Best 5 Encrypted Email Systems Available</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/solving-your-iphone-ringtone-issues-a-comprehensive-guide/"><u>Solving Your iPhone Ringtone Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-linking-your-apple-homepod-with-your-television/"><u>Step-by-Step Guide: Linking Your Apple HomePod with Your Television</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-clearing-process-for-youtubes-pending-video-list/"><u>[New] 2024 Approved Clearing Process for YouTube's Pending Video List</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-essentials-of-earning-on-youtube-platforms/"><u>[New] In 2024, The Essentials of Earning on YouTube Platforms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-8-proven-techniques-to-amplify-content/"><u>[New] Top 8 Proven Techniques to Amplify Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-efficiently-convert-youtube-to-desktop-format-for-2024/"><u>[Updated] Efficiently Convert YouTube to Desktop Format for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-forging-strategic-alliances-on-youtube-through-famebit-wisdom/"><u>[Updated] Forging Strategic Alliances on YouTube Through FameBit Wisdom</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2024s-elite-selection-of-apps-for-visual-voice-messaging-services/"><u>2024'S Elite Selection of Apps for Visual Voice Messaging Services</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-next-google-pixel-projections-on-cost-debut-moment-and-potential-features/"><u>Anticipating the Next Google Pixel - Projections on Cost, Debut Moment & Potential Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-rumors-on-meta-quest-next-potential-features-price-points-and-launch-date-insights/"><u>Exclusive Rumors on Meta Quest Next: Potential Features, Price Points & Launch Date Insights!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-a-world-of-cinema-top-rated-free-movie-selections-from-youtube-for-july-2024/"><u>Explore a World of Cinema: Top Rated Free Movie Selections From YouTube for July 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-pair-your-airpods-with-the-nintendo-switch/"><u>How to Pair Your AirPods with the Nintendo Switch</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-enhancing-flight-experience-selecting-premium-fpv-drone-propellers/"><u>In 2024, Enhancing Flight Experience Selecting Premium FPV Drone Propellers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/messenger-made-accessible-joining-conversations-even-if-you-dont-use-facebook/"><u>Messenger Made Accessible: Joining Conversations Even if You Don't Use Facebook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/srt-transition-the-ultimate-subcap-guide/"><u>SRT Transition The Ultimate SUBCAP Guide</u></a></li>
 </ul></div>
 

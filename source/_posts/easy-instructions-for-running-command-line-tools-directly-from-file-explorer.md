@@ -1,7 +1,7 @@
 ---
 title: Easy Instructions for Running Command Line Tools Directly From File Explorer
-date: 2024-12-11T16:43:38.837Z
-updated: 2024-12-17T16:17:18.163Z
+date: 2024-12-22T21:10:01.507Z
+updated: 2024-12-26T00:08:36.146Z
 categories:
   - BestProducts
 description: This Article Describes Easy Instructions for Running Command Line Tools Directly From File Explorer
@@ -18,10 +18,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Skype Is Not Working
 
@@ -42,7 +38,7 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 2: Check to See if It's Skype's Problem
@@ -57,6 +53,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 3: Check Your Network Connection
 
  Make sure it's not a network problem. Skype won't work if you don't have a network connection. This is true if you're using it from any device, be it on the web, your phone, computer, etc.
@@ -66,7 +66,7 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 4: Check Skype's Audio Settings and Permissions
@@ -81,12 +81,20 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
 * If the microphone doesn't work with Skype, select the menu next to**Microphone** and see if there are any other options; you might have the wrong device selected.
 * If there aren't other ones to pick from, make sure the microphone is plugged in, powered on (if it has a power switch), and has batteries (if wireless). Finally, unplug the microphone and then reattach it.
 * To check the sound in Skype to make sure that it's using the right speakers, select**Test audio** under the**Speakers** option. You should hear sound in your headset or speakers.
 * If you don't hear anything when you play the sample sound, make sure your speakers or headphones are turned all the way up (some headphones have physical volume buttons) and that the on-screen settings are at**10** .
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Using Skype for Mobile Devices
 
@@ -111,7 +119,7 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Skype for Computers
@@ -154,19 +162,11 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 8: Update Device Drivers
 
  At this point, you've verified all the proper Skype-related settings are set up correctly, so it's time to move beyond the program and onto your actual computer and other hardware.
 
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 9: Verify the Microphone Works
 
@@ -213,16 +213,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-copycat-cinema-steps-for-satirical-video-making/"><u>[Updated] 2024 Approved Copycat Cinema Steps for Satirical Video Making</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-elite-game-line-up-best-7-fps-classics/"><u>[Updated] Elite Game Line-Up Best 7 FPS Classics</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-elevate-your-creations-to-crypto-world-the-best-generators-reviewed/"><u>2024 Approved Elevate Your Creations to Crypto World - The Best Generators Reviewed</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-securely-capture-web-series-every-time-you-watch/"><u>2024 Approved How to Securely Capture Web Series Every Time You Watch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/successful-steps-to-resolve-windows-11-setup-failure-error-80240020-explained/"><u>Successful Steps to Resolve Windows 11 Setup Failure: Error 80240020 Explained</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-bottom-line-how-much-do-podcasters-take-home/"><u>The Bottom Line How Much Do Podcasters Take Home?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-comprehensive-tutorial-on-steps-involved-in-torrent-downloads/"><u>The Comprehensive Tutorial on Steps Involved in Torrent Downloads</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-elder-scrolls-v-skyrim-next-gen-graphics-and-superior-fps-tuning-patch-of-202/"><u>The Elder Scrolls V: Skyrim - Next-Gen Graphics & Superior FPS Tuning Patch of 202</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-made-simple-fresh-start-protocols-on-windows-11-in-four-steps/"><u>Troubleshooting Made Simple: Fresh Start Protocols on Windows 11 in Four Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-is-hxtsrexe-unveiling-its-role-and-solving-issues-on-windows-tenth-generation/"><u>What Is HxTsr.exe? Unveiling Its Role & Solving Issues on Windows Tenth Generation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-visualloger-12-professional/"><u>[Updated] 2024 Approved VisualLoger 12 Professional</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mobile-screening-guide-gogooglemeetrecorder-tips/"><u>[Updated] Mobile Screening Guide GoGoogleMeetRecorder Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-ringing-in-the-faith-customizing-your-mobile-music/"><u>[Updated] Ringing in the Faith - Customizing Your Mobile Music</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/7-top-budget-friendly-digital-camera-editing-tools-for-2024/"><u>7 Top Budget-Friendly Digital Camera Editing Tools for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-complete-introduction-to-advanced-features-in-final-cut-pro-for-2024/"><u>A Complete Introduction to Advanced Features in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-your-text-with-advanced-3d-effects/"><u>Elevating Your Text with Advanced 3D Effects</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-tiktok-videos-on-your-tv-a-comprehensive-walkthrough/"><u>Enjoy TikTok Videos on Your TV: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-enjoy-snapchat-fun-operating-it-through-your-pc/"><u>How to Enjoy Snapchat Fun: Operating It Through Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722895636621-imessages-unlock-the-feature-on-an-android-phone-heres-how/"><u>IMessages: Unlock the Feature on an Android Phone – Here's How!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-generative-tech-without-errors/"><u>Leveraging Generative Tech Without Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-dciman32dll-error-a-comprehensive-guide/"><u>Resolving dciman32.dll Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/snag-your-high-scores-tips-for-easily-screen-capturing-on-playstation-aster/"><u>Snag Your High Scores: Tips for Easily Screen Capturing on PlayStation Aster</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-turning-off-amber-alerts-for-a-more-peaceful-android-experience/"><u>Step-by-Step: Turning Off Amber Alerts for a More Peaceful Android Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-finding-removed-phone-details-in-android/"><u>The Ultimate Guide to Finding Removed Phone Details in Android</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/sh-creativity-on-screen-the-top-10-apps-for-channel-graphics-artistry/"><u>Unleash Creativity on Screen - The Top 10 Apps for Channel Graphics Artistry</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-expect-from-the-latest-samsung-galaxy-z-fold-7-price-forecasts-specs-and-release-news-unveiled/"><u>What to Expect From the Latest Samsung Galaxy Z Fold 7? Price Forecasts, Specs & Release News Unveiled</u></a></li>
 </ul></div>
 

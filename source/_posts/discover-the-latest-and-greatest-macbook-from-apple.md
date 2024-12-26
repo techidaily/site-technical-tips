@@ -1,7 +1,7 @@
 ---
 title: Discover the Latest and Greatest MacBook From Apple
-date: 2024-08-30T13:36:57.483Z
-updated: 2024-08-31T13:36:57.483Z
+date: 2024-12-22T21:53:00.708Z
+updated: 2024-12-25T23:54:15.294Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Latest and Greatest MacBook From Apple
@@ -21,9 +21,23 @@ thumbnail: https://www.lifewire.com/thmb/a1e8eDPE1NN-UxRsfcH_udZp79s=/400x300/fi
 1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -37,8 +51,9 @@ thumbnail: https://www.lifewire.com/thmb/a1e8eDPE1NN-UxRsfcH_udZp79s=/400x300/fi
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -54,18 +69,12 @@ thumbnail: https://www.lifewire.com/thmb/a1e8eDPE1NN-UxRsfcH_udZp79s=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -97,9 +106,6 @@ thumbnail: https://www.lifewire.com/thmb/a1e8eDPE1NN-UxRsfcH_udZp79s=/400x300/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -112,9 +118,6 @@ thumbnail: https://www.lifewire.com/thmb/a1e8eDPE1NN-UxRsfcH_udZp79s=/400x300/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -124,8 +127,9 @@ thumbnail: https://www.lifewire.com/thmb/a1e8eDPE1NN-UxRsfcH_udZp79s=/400x300/fi
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Was this page helpful?
 
 Thanks for letting us know!
@@ -146,8 +150,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +157,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-navigating-steam-with-your-switch-pro-device-for-2024/"><u>[New] Navigating Steam with Your Switch Pro Device for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tailoring-the-perfect-youtube-conclusion-for-engagement/"><u>[Updated] Tailoring the Perfect YouTube Conclusion for Engagement</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-role-of-lighting-in-professional-youtube-content-creation/"><u>[Updated] The Role of Lighting in Professional YouTube Content Creation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-instant-best-picture-viewer-pro/"><u>2024 Approved Instant Best Picture Viewer Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-mail-applications-reviewed-for-iphones-our-top-selections-of-2n4/"><u>Best Mail Applications Reviewed for iPhones - Our Top Selections of 2N4</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-2024-freemium-ip-calling-apps-our-ultimate-rankings/"><u>Discover the Leading 2024 Freemium IP Calling Apps: Our Ultimate Rankings</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/harnessing-the-power-of-metai-strategies-for-enhanced-engagement-on-instagram/"><u>Harnessing the Power of MetAI: Strategies for Enhanced Engagement on Instagram</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-implement-content-blocking-for-youtube-on-your-ipad/"><u>How to Implement Content Blocking for YouTube on Your iPad</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-t2x-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo T2x 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-taking-screenshots-of-pc-games-6-ways/"><u>In 2024, Taking Screenshots of PC Games [6 Ways]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-or-update-the-driver-for-your-brother-mfc-l2690dw-all-in-one-printer/"><u>Install or Update the Driver for Your Brother MFC-L2690DW All-in-One Printer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/maximizing-your-machines-potential-how-to-end-overbearing-system-load-from-shell-infrastructures/"><u>Maximizing Your Machine’s Potential – How to End Overbearing System Load From Shell Infrastructures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-yellow-filter-effect-from-pc-display/"><u>Removing Yellow Filter Effect From PC Display</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rumors-surrounding-the-upcoming-apple-watch-ultra-2-specs-expected-release-date-and-potential-pricing-breakdown/"><u>Rumors Surrounding the Upcoming Apple Watch Ultra 2: Specs, Expected Release Date, and Potential Pricing Breakdown</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722899629740-simplified-techniques-for-a-quick-reboot-of-your-iphone-15-get-started-now/"><u>Simplified Techniques for a Quick Reboot of Your iPhone 15 - Get Started Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-essential-triad-of-emerging-tech-trends-for-current-year/"><u>The Essential Triad of Emerging Tech Trends for [Current Year]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uber-vs-taxi-which-one-offers-better-value/"><u>Uber vs Taxi: Which One Offers Better Value?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ways-to-keep-your-macbook-on-despite-closing-its-cover/"><u>Ways to Keep Your MacBook On Despite Closing Its Cover</u></a></li>
+</ul></div>
 

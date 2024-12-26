@@ -1,7 +1,7 @@
 ---
 title: Why the iPhone 15 Surpasses Expectations for Even Seasoned 'Pro' Users - An In-Depth Review
-date: 2024-11-24T16:20:29.133Z
-updated: 2024-11-25T16:05:37.781Z
+date: 2024-12-23T16:42:49.664Z
+updated: 2024-12-25T19:39:27.292Z
 tags:
   - apple
 categories:
@@ -39,15 +39,15 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -65,7 +65,7 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -73,6 +73,10 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -128,6 +132,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -143,7 +151,7 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -158,17 +166,9 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -204,20 +204,24 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-in-depth-training-adopting-the-best-screen-recording-practices-with-adobe-captivate/"><u>[New] 2024 Approved In-Depth Training Adopting the Best Screen Recording Practices with Adobe Captivate</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-drone-innovation-reimagined-with-the-q500-typhoon/"><u>[New] Drone Innovation Reimagined with the Q500 Typhoon</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-your-companion-in-choosing-high-grade-hdr-cameras-for-2024/"><u>[Updated] Your Companion in Choosing High-Grade HDR Cameras for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/all-you-need-to-know-about-adding-apple-music-to-video/"><u>All You Need to Know About Adding Apple Music to Video</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/beyond-just-funny-faces-uncovering-remarkable-tidbits-from-the-history-and-usage-of-emojis/"><u>Beyond Just Funny Faces: Uncovering Remarkable Tidbits From the History and Usage of Emojis.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dealing-with-unexpected-failures-of-in-car-radio-systems/"><u>Dealing with Unexpected Failures of In-Car Radio Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/imbalances-can-lead-to-soil-depletion-or-pest-outbreaks-a-balanced-ecosystem-promotes-healthy-crops-and-resilience-against-diseases/"><u>Imbalances Can Lead to Soil Depletion or Pest Outbreaks; a Balanced Ecosystem Promotes Healthy Crops and Resilience Against Diseases</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ordered-guide-watching-all-harry-potter-films-sequentially/"><u>Ordered Guide: Watching All Harry Potter Films Sequentially</u></a></li>
-<li><a href="https://fox-where.techidaily.com/sichere-deine-dokumente-vor-dem-selbstausloschungseffekt-von-microsoft-onedrive-masterclass-in-dateiwiedergewinnungstechniken/"><u>Sichere Deine Dokumente Vor Dem Selbstauslöschungseffekt Von Microsoft OneDrive: Masterclass in Dateiwiedergewinnungstechniken</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-pros-and-cons-of-purchasing-a-blu-ray-player-what-you-need-to-know/"><u>The Pros and Cons of Purchasing a Blu-Ray Player - What You Need to Know</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-scoop-inside-the-latest-facebook-data-revelations/"><u>The Scoop: Inside the Latest Facebook Data Revelations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unleash-the-power-of-high-definition-viewing-discover-hitachi-tvs-with-built-in-roku-for-seamless-content-streaming/"><u>Unleash the Power of High-Definition Viewing: Discover Hitachi TVs With Built-In Roku for Seamless Content Streaming</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-hulu-streaming-success-resolve-the-rununk13-error-with-ease/"><u>Unlocking Hulu Streaming Success: Resolve the RUNUNK13 Error with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/vanquishing-vpn-error-800-expert-advice-on-correcting-issues-in-clients-and-servers/"><u>Vanquishing VPN Error 800: Expert Advice on Correcting Issues in Clients and Servers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-trivia-trek-exploring-yts-fascinating-figures-and-infographics/"><u>[Updated] Trivia Trek Exploring YT's Fascinating Figures and Infographics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-arctic-athleticism-winter-olympics-spotlight-on-snowboard-cross-stars/"><u>2024 Approved Arctic Athleticism Winter Olympics Spotlight on Snowboard Cross Stars</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comparative-analysis-spotlighting-8-major-discrepancies-between-my-snapchat-ai-and-bing-chat/"><u>A Comparative Analysis: Spotlighting 8 Major Discrepancies Between My Snapchat AI and Bing Chat</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversion-libre-de-wav-a-3g2-en-ligne-tapez-dans-movavi/"><u>Conversion Libre De WAV À 3G2 en Ligne - Tapez Dans Movavi!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decouvrez-le-logiciel-xrecorder-gratuit-pour-ordinateurs-capturez-vos-frappes-pc-facilement/"><u>Découvrez Le Logiciel XRecorder Gratuit Pour Ordinateurs - Capturez Vos Frappes PC Facilement!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/descargar-herramienta-de-conversion-gratuita-convertir-archivo-aiff-a-formato-ogg/"><u>Descargar Herramienta De Conversión Gratuita: Convertir Archivo AIFF a Formato OGG</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-converter-convert-audio-files-to-flac-format-with-movavi/"><u>Free Online Converter - Convert Audio Files to FLAC Format with Movavi</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/guida-passo-passo-per-generazione-e-ripristino-dellimmagine-del-sistema-operativo-windows-t-sulla-nuova-memoria-fisica/"><u>Guida Passo-Passo per Generazione E Ripristino Dell'immagine Del Sistema Operativo Windows T Sulla Nuova Memoria Fisica</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-xiaomi-civi-3-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Xiaomi Civi 3?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-7-plus-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 7 Plus and iPad</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-visual-journey-samsungs-ue590-reviewed/"><u>In 2024, The Ultimate Visual Journey - Samsung's UE590 Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lg-um7300-49-4k-television-assessment-the-essential-entry-level-4k-smart-tv/"><u>LG UM7300 49 4K Television Assessment: The Essential Entry-Level 4K Smart TV</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-future-of-tiktok-master-video-trends-and-techniques/"><u>The Future of TikTok - Master Video Trends and Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/thrifty-computer-solutions-through-perfect-obs-arrangement-for-2024/"><u>Thrifty Computer Solutions Through Perfect OBS Arrangement for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-9-solutions-to-resolve-your-obs-audio-recording-problems-with-movavi/"><u>Top 9 Solutions to Resolve Your OBS Audio Recording Problems with Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-audio-from-wav-to-mp4-at-no-cost-utilize-movavis-easy-tool/"><u>Transform Audio From WAV to MP4 at No Cost - Utilize Movavi's Easy Tool!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformar-videos-mod-directamente-a-wmv-por-internet-gratis-mediante-any-video-converter-limpieza-y-conversion-en-linea-completa/"><u>Transformar Videos MOD Directamente a WMV Por Internet Gratis Mediante Any Video Converter - Limpieza Y Conversión en Línea Completa</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformez-gratuitement-vos-fichiers-aifc-en-format-wav-en-ligne-avec-movavi-converter/"><u>Transformez Gratuitement Vos Fichiers AIFC en Format WAV en Ligne Avec Movavi Converter</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/caption-2024/"><u>무료 맥 Caption 캡쳐 프로그램: 2024년 최신 기능과 지역화된 사진 컬렉션!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IPhone 15 Evaluation: A Must-Have Device That Pros and Novices Will Love - Insights"
-date: 2024-12-10T16:18:38.444Z
-updated: 2024-12-17T16:05:58.975Z
+date: 2024-12-19T04:42:53.080Z
+updated: 2024-12-26T08:41:56.009Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -48,6 +48,10 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -65,7 +69,7 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -129,7 +133,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -147,7 +151,7 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -161,10 +165,6 @@ Kerry Wan/ZDNET
 Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don't take for granted that fewer animations mean the iPhone 15 is more battery efficient than the Pro, but in a world where even sub-$200 phones have 120Hz displays, I really wish that Apple gave its $800 iPhone something smoother on the eyes.
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Final thought
 
@@ -204,20 +204,17 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-enhance-call-to-action-potential-with-gs-approach-for-2024/"><u>[New] Enhance Call to Action Potential with GS Approach for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2023-guide-ios-device-live-recording-techniques-for-2024/"><u>[Updated] 2023 Guide IOS Device Live Recording Techniques for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-small-channels-big-opportunities-an-affiliate-approach/"><u>[Updated] Small Channels, Big Opportunities An Affiliate Approach</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-global-dev-event-a-peek-into-new-releases-and-breaking-news/"><u>Apple's Global Dev Event - A Peek Into New Releases and Breaking News</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/become-officially-recognized-how-to-secure-verification-on-the-platform-once-called-twitter/"><u>Become Officially Recognized: How To Secure Verification On The Platform Once Called Twitter</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-when-your-samsung-tvs-app-features-fail/"><u>Effective Solutions for When Your Samsung TV's App Features Fail</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-can-i-uninstall-preloaded-apps-on-an-iphone-device/"><u>How Can I Uninstall Preloaded Apps on an iPhone Device?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/leading-on-demand-online-services-for-converting-mkv-files-to-mp4-format-on-pcs-and-macs/"><u>Leading On-Demand Online Services for Converting MKV Files to MP4 Format on PCs and Macs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-solution-no-more-crashing-in-dayzones-guide/"><u>Master the Solution: No More Crashing in DayZones (Guide )</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/prime-selection-of-affordable-cams-for-action-sports/"><u>Prime Selection of Affordable Cams for Action Sports</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-overcome-stop-code-0x0000005c-halinitializationfailed-issues/"><u>Step-by-Step Guide to Overcome STOP Code 0X0000005C – HAL_INITIALIZATION_FAILED Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-complete-guide-to-overcome-the-frustrating-windows-network-error-0x800704cf/"><u>The Complete Guide To Overcome The Frustrating Windows Network Error 0X800704CF</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-future-of-wireless-earbuds-discover-the-latest-on-googles-pixel-buds-pro-2-pricing-release-date-and-specs-rumors/"><u>The Future of Wireless Earbuds? Discover the Latest on Google's Pixel Buds Pro 2 – Pricing, Release Date & Specs Rumors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-secrets-locating-your-macbook-serial-and-model-numbers/"><u>Unveiling the Secrets: Locating Your MacBook Serial & Model Numbers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/visual-prowess-meets-audio-excellence-top-5-hd-webcams/"><u>Visual Prowess Meets Audio Excellence - Top 5 HD Webcams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-10-enterprise-cloud-options/"><u>[New] Top 10 Enterprise Cloud Options</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-infusing-life-into-ig-story-posts-a-guide-to-dynamic-animated-text/"><u>[Updated] Infusing Life Into IG Story Posts A Guide to Dynamic, Animated Text</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/crackle-your-go-to-destination-for-watching-free-films-and-shows-online/"><u>Crackle: Your Go-To Destination for Watching Free Films and Shows Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-your-macbooks-serial-code-a-step-by-step-guide/"><u>Discovering Your MacBook's Serial Code: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-retrieve-accidentally-deleted-messages-on-any-smartphone/"><u>How To Retrieve Accidentally Deleted Messages on Any Smartphone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-tecno-pop-7-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Tecno Pop 7 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mac-troubleshooting-resetting-wi-fi-and-ethernet-connections-made-simple/"><u>Mac Troubleshooting: Resetting Wi-Fi and Ethernet Connections Made Simple</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/thriving-on-the-grid-maximizing-your-telegram-impact-for-2024/"><u>Thriving on the Grid Maximizing Your Telegram Impact for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-pics-high-quality-no-cost-for-2024/"><u>Transform Your Pics - High Quality, No Cost for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unstick-the-juice-expert-advice-on-restoring-power-to-your-ps5-gamepad/"><u>Unstick the Juice: Expert Advice on Restoring Power to Your PS5 Gamepad</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-picture-to-cartoon-transformation-tool/"><u>Updated In 2024, Picture to Cartoon Transformation Tool</u></a></li>
 </ul></div>
 

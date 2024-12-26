@@ -1,7 +1,7 @@
 ---
 title: "Discover Exciting Features: Exploring the New Possibilities of iPhone’s iOS 18 Beta Version on ZDNet"
-date: 2024-12-16T16:07:48.143Z
-updated: 2024-12-17T17:14:28.195Z
+date: 2024-12-24T02:34:26.063Z
+updated: 2024-12-26T06:01:37.813Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,22 +120,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-firefoxs-pip-explained-a-users-handbook/"><u>2024 Approved Firefox's PIP Explained A User's Handbook</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-streamline-multitasking-switch-between-pip-and-normal-screen-mode-ios/"><u>2024 Approved Streamline Multitasking Switch Between PIP and Normal Screen Mode (iOS)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bypassing-lock-screen-on-ipads-a-comprehensive-walkthrough/"><u>Bypassing Lock Screen on iPads: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-techniques-to-resolve-persistent-hum-issues-with-your-subwoofers/"><u>DIY Techniques to Resolve Persistent Hum Issues with Your Subwoofers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enjoy-the-roku-channel-without-owning-a-roku-alternative-ways-for-streaming-enthusiasts/"><u>Enjoy the Roku Channel Without Owning a Roku: Alternative Ways for Streaming Enthusiasts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nize-your-listens-the-complete-path-to-youtube-playlist-making-webmobile/"><u>Harmonize Your Listens The Complete Path to YouTube Playlist Making (Web/Mobile)</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Location Changers for Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-the-challenge-of-ntdlldll-mismatches-in-various-windows-os/"><u>Overcoming the Challenge of ntdll.dll Mismatches in Various Windows OS</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/ranking-der-top-4-videodownloader-expertenbewertung-and-gratisversionen/"><u>Ranking Der Top 4 Videodownloader: Expertenbewertung & Gratisversionen</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-14-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 14 Data From iOS iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-changing-your-samsung-tvs-default-web-browser/"><u>Step-by-Step Guide: Changing Your Samsung TV's Default Web Browser</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-enabling-and-utilizing-live-activity-in-ios-16-iphones/"><u>Step-by-Step Guide: Enabling and Utilizing Live Activity in iOS 16 iPhones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-repairing-your-micro-sd-card-and-retrieving-lost-files/"><u>Step-by-Step Guide: Repairing Your Micro SD Card & Retrieving Lost Files</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-of-26-free-system-optimizers-for-2-cufflinks-2024-compare-and-choose/"><u>The Ultimate Selection of 26 Free System Optimizers for 2 Cufflinks 2024 - Compare and Choose!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-user-friendly-guide-to-adjusting-the-window-10-taskbar-palette-for-an-enhanced-ui-experience/"><u>The User-Friendly Guide to Adjusting the Window 10 Taskbar Palette for an Enhanced UI Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-and-controlling-your-digital-footprint-data-usage-tips/"><u>Understanding & Controlling Your Digital Footprint: Data Usage Tips</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-from-ordinary-to-extraordinary-profile-videos/"><u>[New] In 2024, From Ordinary to Extraordinary Profile Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-much-wealth-can-you-generate-on-youtube-using-cpm/"><u>[Updated] 2024 Approved How Much Wealth Can You Generate on YouTube Using CPM?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/highest-quality-kids-cinema-available-on-netflix/"><u>Highest Quality Kids' Cinema Available on Netflix</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-lenovo-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Lenovo Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-libeay32dll-issues-effective-solutions-for-when-it-goes-astray/"><u>Overcoming libeay32.dll Issues: Effective Solutions for When It Goes Astray</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-crashing-beast-flawless-fullscreen-in-windows-11s-sonic-games/"><u>Taming The Crashing Beast: Flawless Fullscreen in Windows 11'S Sonic Games</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-definitive-guide-to-perfecting-vimeo-recordings-for-2024/"><u>The Definitive Guide to Perfecting Vimeo Recordings for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-on-restoring-default-bios-settings-with-a-cmos-reset/"><u>Ultimate Tutorial on Restoring Default BIOS Settings with a CMOS Reset</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-electric-cars-a-side-by-side-of-bev-phev-fcev-and-hybrid-models/"><u>Understanding Electric Cars: A Side-by-Side of BEV, PHEV, FCEV, and Hybrid Models</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-wi-fi-protocols-a-comprehensive-guide-to-ieee-80211-standards-be-ax-ac-bgn-and-a/"><u>Understanding Wi-Fi Protocols: A Comprehensive Guide to IEEE 802.11 Standards (Be, Ax, Ac, B/G/N, and A)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unraveling-the-mystery-why-your-game-might-be-experiencing-significant-fps-dips/"><u>Unraveling the Mystery: Why Your Game Might Be Experiencing Significant FPS Dips</u></a></li>
 </ul></div>
 

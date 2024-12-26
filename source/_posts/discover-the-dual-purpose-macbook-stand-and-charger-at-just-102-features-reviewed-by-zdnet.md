@@ -1,7 +1,7 @@
 ---
 title: Discover the Dual-Purpose MacBook Stand & Charger at Just $102 - Features Reviewed by ZDNet
-date: 2024-12-13T16:55:31.320Z
-updated: 2024-12-17T16:52:50.942Z
+date: 2024-12-20T03:17:35.704Z
+updated: 2024-12-26T08:03:49.457Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. A bigger screen option
@@ -39,7 +39,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -61,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -69,7 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -110,17 +110,21 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-how-to-record-desktop-on-windows-8-effortlessly/"><u>2024 Approved How To Record Desktop on Windows 8 Effortlessly</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-user-identity-management-in-win11-pro/"><u>Enhancing User Identity Management in Win11 Pro</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/essential-tips-for-resolving-graphics-card-issues-insights-by-yl-technologies/"><u>Essential Tips for Resolving Graphics Card Issues: Insights by YL Technologies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-these-7-tools-the-best-substitutes-for-chatgpt-in-code-generation/"><u>Explore These 7 Tools: The Best Substitutes for ChatGPT in Code Generation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-information-on-sonys-prospective-vr-contraption-anticipated-pricing-release-schedule-technical-details/"><u>Inside Information on Sony's Prospective VR Contraption: Anticipated Pricing, Release Schedule, Technical Details</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pairing-perfection-a-beginners-guide-to-linking-a-subwoofer-with-your-samsung-soundbar/"><u>Pairing Perfection: A Beginner's Guide to Linking a Subwoofer with Your Samsung Soundbar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-solutions-for-getting-netflix-back-up-on-your-lg-tv-19-tips-inside/"><u>Quick Solutions for Getting Netflix Back Up on Your LG TV – 19 Tips Inside!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/mlining-revenue-with-youtubes-mobile-monetization-features-for-creators-for-2024/"><u>Streamlining Revenue with YouTube's Mobile Monetization Features for Creators for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/top-5-essential-software-for-converting-m4a-audio-files-into-mp3-format/"><u>Top 5 Essential Software for Converting M4A Audio Files Into MP3 Format</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-quiet-mode-how-to-restore-sound-to-your-iphone-calls/"><u>Troubleshooting Quiet Mode: How to Restore Sound to Your iPhone Calls</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unleash-creativity-how-to-elegantly-add-descriptive-elements-in-photos-for-windows-and-macos/"><u>Unleash Creativity How to Elegantly Add Descriptive Elements in Photos for Windows & MacOS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-is-net-neutrality-unraveling-the-concept-for-beginners/"><u>What Is Net Neutrality? Unraveling the Concept for Beginners</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-transform-tweets-converting-video-to-gifs-at-no-cost/"><u>[Updated] 2024 Approved Transform Tweets Converting Video to GIFs at No Cost</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-beginners-guide-to-integrating-latest-chatgpt-add-ons/"><u>A Beginner's Guide to Integrating Latest ChatGPT Add-Ons</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-testing-of-netgear-nighthawk-x6-ac3200-speedy-and-secure-home-network-solution/"><u>Comprehensive Testing of Netgear Nighthawk X6 AC3200 - Speedy & Secure Home Network Solution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ideal-gps-tools-for-your-apple-smartphone/"><u>Discover the Ideal GPS Tools for Your Apple Smartphone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-uninstall-temporary-files-from-your-androids-memory-cache/"><u>Expert Advice: Uninstall Temporary Files From Your Android's Memory (Cache)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-iphones-stand-by-working-again-with-these-proven-fixes/"><u>Get Your iPhone's Stand-By Working Again with These Proven Fixes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-and-retrieve-picturesvideos-from-a-water-damaged-iphone-12-mini-that-wont-turn-on-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix & Retrieve Pictures/Videos From a Water Damaged iPhone 12 mini That Wont Turn on | Stellar</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-samsung-galaxy-m54-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Samsung Galaxy M54 5G Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-art-of-rebooting-quick-tips-for-macbook-pro-users/"><u>Master the Art of Rebooting: Quick Tips for MacBook Pro Users</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-live-videos-with-the-best-video-translator/"><u>New In 2024, Translate Live Videos With The Best Video Translator</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-the-challenge-of-getting-matches-on-bumble-tips-and-strategies/"><u>Overcoming the Challenge of Getting Matches on Bumble - Tips & Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/secure-your-linkedin-content-with-these-6-video-downloading-solutions-for-2024/"><u>Secure Your LinkedIn Content with These 6 Video Downloading Solutions for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-tackle-and-correct-windows-code-28-error-messages/"><u>Step-by-Step Solutions to Tackle and Correct Windows Code 28 Error Messages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-restore-access-to-your-deleted-snapchat-profile/"><u>Steps to Restore Access to Your Deleted Snapchat Profile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-usb-20-speeds-types-of-cables-and-connector-options/"><u>Understanding USB 2.0: Speeds, Types of Cables, and Connector Options</u></a></li>
 </ul></div>
 

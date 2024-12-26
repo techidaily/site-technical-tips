@@ -1,7 +1,7 @@
 ---
 title: Are Free Cellphones From Carriers Truly Free? Understanding The Real Price You Pay.
-date: 2024-12-01T08:06:54.406Z
-updated: 2024-12-05T07:40:48.308Z
+date: 2024-12-23T21:04:54.355Z
+updated: 2024-12-25T22:34:29.545Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ How do you tell the difference?
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How free and low-cost phone offers work
@@ -47,7 +47,7 @@ You might be offered a higher-than-expected trade-in value for your current phon
 In my experience, carriers go out of their way to make these deals complicated, and you need to look carefully to see if there are any hidden gotchas. Here are seven questions to ask up front to make sure you don't encounter an unpleasant surprise later.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do I need to add a line to qualify?
@@ -65,7 +65,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does my existing plan qualify?
@@ -82,6 +82,10 @@ The carrier is offering that phone at a discount because they want to lock you i
 
 T-Mobile still offers 24-month payment plans, but rivals Verizon and AT&T now apply device credits over 36 months. If you're absolutely certain you'll keep your new phone for the full three years, that might be a good deal, but you'll pay dearly if you need to replace it before the agreement ends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What happens if I want to pay off the device early?
 
 At any time during the agreement, you can pay the remaining balance and ask for the device to be unlocked. If you remain with the same carrier on the same plan, the bill credits will continue for the remainder of your term, effectively reimbursing for the early payoff. But if you end your three-year agreement at the end of the second year to switch to a different plan or a different carrier, you'll lose the remaining credits.
@@ -91,16 +95,12 @@ At any time during the agreement, you can pay the remaining balance and ask for 
 As an inducement for you to switch, some carriers will offer to reimburse you for your device payoff. Check the terms and conditions carefully before you accept that offer. If you decide to move to a new carrier, don't cancel your line at the old carrier until you've successfully ported your number over; if you do that move in the wrong order you risk losing your current phone number. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I get a better deal on the phone somewhere else?
 
 Even if your carrier seems to be offering a good deal, be sure to shop around. Apple occasionally offers meaningful discounts on its iPhones, and the price after a trade-in might be good enough to consider, especially when you factor in the savings you get from sticking with a lower-cost legacy plan. Among the top Android device makers, Samsung and Google regularly offer deep discounts that are worth checking out. And all of those device makers offer 0% financing options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I get a better deal selling my phone instead of trading it in?
 
@@ -140,16 +140,19 @@ The exception to that rule is usually when a new smartphone model comes out; dur
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-rethinking-color-dynamics-in-videography-with-hdrs-introduction/"><u>[New] Rethinking Color Dynamics in Videography with HDR's Introduction</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-deep-dive-into-instagrams-daily-narrative-components-for-2024/"><u>[Updated] Deep Dive Into Instagram's Daily Narrative Components for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-learn-the-art-of-green-screen-without-costs-top-4-youtube-techniques-for-aspiring-vfx-artists/"><u>[Updated] In 2024, Learn the Art of Green Screen Without Costs Top 4 YouTube Techniques for Aspiring VFX Artists</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-leap-forward-with-advanced-ai-technologies-discover-the-capabilities-of-their-latest-innovations/"><u>Apple's Leap Forward with Advanced AI Technologies – Discover the Capabilities of Their Latest Innovations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/avoid-these-4-expensive-iproducts-in-todays-market-insider-tips-from-gadgetguru/"><u>Avoid These 4 Expensive iProducts in Today's Market – Insider Tips From GadgetGuru</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/building-animated-storyboards-in-movie-maker-for-2024/"><u>Building Animated Storyboards in Movie Maker for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-windows-driver-downloads-evga-graphics-card-software/"><u>Free Windows Driver Downloads - EVGA Graphics Card Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/galactic-shifts-in-tech-dominance-how-googles-legal-setback-fuels-samsungs-surge-in-artifice-intelligence/"><u>Galactic Shifts in Tech Dominance: How Google's Legal Setback Fuels Samsung’s Surge in Artifice Intelligence</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-ahead-of-the-curve-with-insider-information-on-samsung-galaxy-z-flip-7-release-plans-costs-and-features-exposed/"><u>Get Ahead of the Curve with Insider Information on Samsung Galaxy Z Flip 7 – Release Plans, Costs and Features Exposed</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-honor-x8b-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Honor X8b to Protect Your Individual Information</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stay-ahead-with-july-2024s-cutting-edge-windows-system-updates-and-fixes/"><u>Stay Ahead with July 2024'S Cutting-Edge Windows System Updates and Fixes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-pano-way-to-online-visibility-posting-360-photos-through-mobile-apps/"><u>[Updated] The Pano-Way to Online Visibility Posting 360 Photos Through Mobile Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-into-the-periscope-livestream-arena/"><u>2024 Approved Breaking Into the Periscope Livestream Arena</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/capture-your-screen-ultimate-guide-on-using-skjermopptak-download-now/"><u>Capture Your Screen: Ultimate Guide on Using Skjermopptak - Download Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversa-gratuitamente-archivos-de-audio-opus-a-linea-con-movavi-la-mejor-herramienta-sin-coste/"><u>Conversa Gratuitamente Archivos De Audio OPUS a Línea Con Movavi: La Mejor Herramienta Sin Coste</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversion-gratuita-de-archivos-wav-a-formato-aac-online-con-movavi/"><u>Conversión Gratuita De Archivos WAV a Formato AAC Online Con Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ditching-the-undesired-backdrop-the-path-less-cluttered/"><u>Ditching the Undesired Backdrop The Path Less Cluttered</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-nokia-c12-plus-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Nokia C12 Plus</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-going-from-end-to-start-the-instagram-video-technique/"><u>In 2024, Going From End to Start The Instagram Video Technique</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-samsung-galaxy-f34-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Samsung Galaxy F34 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-30-hashtags-propel-video-views-in-gameplay/"><u>In 2024, Top 30 Hashtags Propel Video Views in Gameplay</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/las-9-formas-mas-exitosas-de-minimizar-videos-para-optimizacion-de-correos-electronicos-guia-completa/"><u>Las 9 Formas Más Exitosas De Minimizar Videos Para Optimización De Correos Electrónicos: Guía Completa</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/stunning-gold-car-themes-and-wallpaper-designs-inspiration-from-yl-computing/"><u>Stunning Gold Car Themes & Wallpaper Designs: Inspiration From YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-outils-de-conversion-des-fichiers-mp3-gratuits-et-facilement-accessibles/"><u>Top 8 Outils De Conversion Des Fichiers MP3 Gratuits Et Facilement Accessibles</u></a></li>
 </ul></div>
 
