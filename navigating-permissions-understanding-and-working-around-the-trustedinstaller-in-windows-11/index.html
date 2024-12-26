@@ -37,8 +37,8 @@
 <meta property="og:image" content="https://www.lifewire.com/thmb/a8Ie_eyPviEwOjytgb9HHofaQgc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-user-group-windows-10-security-b2ffe7d116f2424e845a612090d4e932.png">
 <meta property="og:image" content="https://www.lifewire.com/thmb/cLa_4Jv8moyuFMZaNvHFNWAcllw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/full-control-folder-permissions-b0f31e6f8d7d418e91990e6c32476c30.png">
 <meta property="og:image" content="https://www.lifewire.com/thmb/6T2vTKuuRj3ONEWEpCefVrYtszQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/replace-all-child-object-permission-entries-windows-10-fc09040d1d8b4357b5866ced25b79262.png">
-<meta property="article:published_time" content="2024-12-11T09:20:53.501Z">
-<meta property="article:modified_time" content="2024-12-17T08:45:25.872Z">
+<meta property="article:published_time" content="2024-12-22T18:21:52.815Z">
+<meta property="article:modified_time" content="2024-12-25T17:28:19.590Z">
 <meta property="article:author" content="James">
 <meta property="article:tag" content=", Tools, File explorer, Convert, Repair tools, data recovery">
 <meta name="twitter:card" content="summary">
@@ -723,15 +723,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-11 17:20:53</span>
-        <span class="mobile">2024-12-11 17:20:53</span>
+        <span class="desktop">2024-12-23 02:21:52</span>
+        <span class="mobile">2024-12-23 02:21:52</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-12-17 16:45:25</span>
-            <span class="mobile">2024-12-17 16:45:25</span>
+            <span class="desktop">2024-12-26 01:28:19</span>
+            <span class="mobile">2024-12-26 01:28:19</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -780,10 +780,6 @@
 <li>TrustedInstaller is a built-in user account that owns lots of important system files.</li>
 </ul>
 <p> This article describes two ways to deal with the message in Windows 10 about needing permission from TrustedInstaller to make changes to a file or folder.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="How-to-Fix-the-TrustedInstaller-Error-Using-Command-Prompt"><a href="#How-to-Fix-the-TrustedInstaller-Error-Using-Command-Prompt" class="headerlink" title="How to Fix the TrustedInstaller Error Using Command Prompt"></a>How to Fix the TrustedInstaller Error Using Command Prompt</h2><p> There are two really simple<a class="link"   target="_blank" rel="noopener" href="https://www.lifewire.com/list-of-command-prompt-commands-4092302" >Command Prompt commands <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> you can use to bypass the TrustedInstaller permissions prompt. Follow these steps to fix the TrustedInstaller “error” by granting your user account permission to make changes to the file or folder:</p>
 <ol>
 <li><a class="link"   target="_blank" rel="noopener" href="https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088" >Open an elevated Command Prompt <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> . The quickest way there is to search for it from the Start menu, right-click the result, and choose<strong>Run as administrator</strong> .<br><img  
@@ -795,6 +791,10 @@
 <li>Enter<strong>TAKEOWN &#x2F;F</strong> and then type the file or folder name. Here’s an example:</li>
 </ol>
 <p> <code>TAKEOWN /F C:\Windows\System32\fr-FR\fms.dll.mui</code><br>3. Press<strong>Enter</strong> to take control of the file. You’ll see a success message if the command executed correctly.<br><img src="https://www.lifewire.com/thmb/nOnoS4n34cd8C2EJEDT2_rLzdhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/takeown-command-trustsedinstaller-windows-10-267bfffb4f974a29940a0af233ef4a84.png" alt="The TAKEOWN /F command in Windows 10 Command Prompt"><br>4. Enter the following command (replacing our example file with your own) to immediately give your user account permission to delete or change the file or folder:  </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> <code>icacls C:\Windows\System32\fr-FR\fms.dll.mui /grant Administrators:F /T</code><br><img  
                      lazyload
                      src="/images/loading.svg"
@@ -802,7 +802,11 @@
                       alt="icacls command executed in Windows 10 Command Prompt"
                 ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Edit-the-File’s-Security-Options-to-Fix-the-TrustedInstaller-Error"><a href="#Edit-the-File’s-Security-Options-to-Fix-the-TrustedInstaller-Error" class="headerlink" title="Edit the File’s Security Options to Fix the TrustedInstaller Error"></a>Edit the File’s Security Options to Fix the TrustedInstaller Error</h2><p> If you don’t feel comfortable using Command Prompt to take ownership of the folder or file, there is another way. Here’s how to use File Explorer to edit the security settings for the data, which will let you delete or modify it as needed.</p>
@@ -816,10 +820,6 @@
                 ></li>
 <li>Go to<strong>Security</strong> &gt;<strong>Advanced</strong> , then select<strong>Change</strong> next to<strong>Owner: TrustedInstaller</strong> .</li>
 </ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p><img  
                      lazyload
                      src="/images/loading.svg"
@@ -827,7 +827,7 @@
                       alt="The Properties and Advanced Security Settings options for a Windows 10 folder"
                 ><br>3. Type your username into the text box and then choose<strong>Check Names</strong> &gt;<strong>OK</strong> .  </p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p><img  
@@ -842,27 +842,29 @@
                      data-src="https://www.lifewire.com/thmb/n8OW45wPPq3HiSTrW4eQIT_Y0EU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/replace-owner-windows-10-folder-885ef894881e4e21a60b1b09568ea020.png"
                       alt="The replace owner on subcontainers and objects checkbox in Windows 10"
                 ><br>5. Select<strong>OK</strong> at the bottom and then<strong>OK</strong> on the Properties window you opened in Step 1.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ol start="6">
-<li>Open<strong>Properties</strong> &gt;<strong>Security</strong> &gt;<strong>Advanced</strong> once more. This time, select<strong>Add</strong> .<br><img  
+<li><p>Open<strong>Properties</strong> &gt;<strong>Security</strong> &gt;<strong>Advanced</strong> once more. This time, select<strong>Add</strong> .<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://www.lifewire.com/thmb/fEVYPGbUtSiGdO8kZg1RZd6gtIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/add-button-advanced-security-settings-3ffcde5bc8b942278219bbd9b4663921.png"
                       alt="The Advanced Security Settings for a Windows 10 folder"
-                ></li>
-<li>Choose<strong>Select a principal</strong> and then type your username in the box.</li>
-</ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<ol start="8">
-<li>Press<strong>Check Names</strong> &gt;<strong>OK</strong> .<br><img  
+                ></p>
+</li>
+<li><p>Choose<strong>Select a principal</strong> and then type your username in the box.</p>
+</li>
+<li><p>Press<strong>Check Names</strong> &gt;<strong>OK</strong> .<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://www.lifewire.com/thmb/a8Ie_eyPviEwOjytgb9HHofaQgc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-user-group-windows-10-security-b2ffe7d116f2424e845a612090d4e932.png"
                       alt="A user account listed in the Select User or Group box for a Windows 10 folder"
-                ></li>
-<li>Check the box next to<strong>Full control</strong> , then select<strong>OK</strong> .</li>
+                ></p>
+</li>
+<li><p>Check the box next to<strong>Full control</strong> , then select<strong>OK</strong> .</p>
+</li>
 </ol>
 <p><img  
                      lazyload
@@ -898,23 +900,23 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://fox-cloud.techidaily.com/updated-2024-approved-mixing-masterclass-elevate-drone-audio-with-20-complimentary-luts/"><u>[Updated] 2024 Approved Mixing Masterclass - Elevate Drone Audio with 20 Complimentary LUTs</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/updated-2024-approved-social-shine-a-snapchat-guide-for-giftful-gif-enthusiasts/"><u>[Updated] 2024 Approved Social Shine A Snapchat Guide for Giftful GIF Enthusiasts</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/updated-from-spoken-word-to-memo-iphone-audio-guidance-for-2024/"><u>[Updated] From Spoken Word to Memo IPhone Audio Guidance for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://video-capture.techidaily.com/updated-in-2024-easy-routines-keeping-a-transcript-of-google-voice-calls/"><u>[Updated] In 2024, Easy Routines Keeping a Transcript of Google Voice Calls</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-helps.techidaily.com/updated-optimizing-video-production-in-windows-11-workflows-for-2024/"><u>[Updated] Optimizing Video Production in Windows 11 Workflows for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/capturing-your-gaming-moments-on-ps4-ultimate-screenshotting-tutorials/"><u>Capturing Your Gaming Moments on PS4: Ultimate Screenshotting Tutorials</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-most-effective-time-saving-shortcuts-on-your-iphone-or-ipad-using-apples-ios-shortcuts-platform-top-18-ideas-revealed/"><u>Discover the Most Effective Time Saving Shortcuts on Your iPhone or iPad Using Apple's iOS Shortcuts Platform - Top 18 Ideas Revealed!</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-dash.techidaily.com/get-the-most-recent-drivers-for-your-msi-b350-toms-tomahawk-graphics-card-on-microsoft-windows-platforms/"><u>Get the Most Recent Drivers for Your MSI B350 TOM'S TOMAHAWK Graphics Card on Microsoft Windows Platforms</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-premium.techidaily.com/guia-completa-el-programa-mas-eficiente-para-clonar-hdd-ide-bajo-windows/"><u>Guía Completa: El Programa Más Eficiente Para Clonar HDD IDE Bajo Windows</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor Magic V2? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-resuscitate-a-computer-that-wont-turn-on-essential-fixes/"><u>How To Resuscitate A Computer That Won't Turn On: Essential Fixes</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-resources.techidaily.com/professional-looking-gopro-videos-without-shakiness/"><u>Professional-Looking GoPro Videos without Shakiness</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fix-guide-accelerating-a-slow-windows-11-operating-system/"><u>Quick Fix Guide: Accelerating a Slow Windows 11 Operating System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revive-gone-messages-universal-methods-to-restore-sms-across-various-phones/"><u>Revive Gone Messages: Universal Methods to Restore SMS Across Various Phones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reviving-your-vehicles-audio-system-solutions-when-your-car-radio-fails/"><u>Reviving Your Vehicle's Audio System: Solutions When Your Car Radio Fails</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-windows-kernel32dll-file-issues-a-step-by-step-guide/"><u>Solving Windows Kernel32.dll File Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-repairing-horizontal-streaks-on-your-samsung-flat-screen/"><u>Ultimate Guide: Repairing Horizontal Streaks on Your Samsung Flat Screen</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://article-tips.techidaily.com/new-2024-approved-duel-for-motorsport-dominance-black-gopro-vs-ghost-s-drift/"><u>[New] 2024 Approved Duel for Motorsport Dominance Black GoPro Vs. Ghost-S Drift</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-tips.techidaily.com/n-2024-launching-into-creation-equipment-essentials-for-youtubers/"><u>[New] In 2024, Launching Into Creation Equipment Essentials for YouTubers</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://on-screen-recording.techidaily.com/updated-in-2024-3-ways-to-record-lectures-on-mac/"><u>[Updated] In 2024, 3 Ways to Record Lectures on Mac</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-info.techidaily.com/updated-in-2024-starting-with-social-giving-best-practices-for-fb-posts/"><u>[Updated] In 2024, Starting with Social Giving Best Practices for FB Posts</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-video-content.techidaily.com/updated-navigating-the-top-10-ways-to-improve-fb-page-rankings/"><u>[Updated] Navigating the Top 10 Ways to Improve FB Page Rankings</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/updated-pure-portrayals-on-platforms-your-guide-to-authentic-snapshots/"><u>[Updated] Pure Portrayals on Platforms Your Guide to Authentic Snapshots</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://discover-deluxe.techidaily.com/1728462367591-onedrive/"><u>重新同步OneDrive文件：完全指南</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bose-soundlink-setup-simplified-an-ultimate-guide-to-device-connection/"><u>Bose Soundlink Setup Simplified: An Ultimate Guide to Device Connection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connect-and-share-how-to-use-chromecast-for-displaying-windows-on-the-big-screen/"><u>Connect and Share: How to Use Chromecast for Displaying Windows on the Big Screen</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://hardware-tips.techidaily.com/discover-the-game-changing-self-cleaning-function-of-the-dual-action-robot-vacuum-and-mop-tech-insights/"><u>Discover the Game-Changing Self-Cleaning Function of the Dual Action Robot Vacuum and Mop | Tech Insights</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-poco-c65-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Poco C65 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-turn-off-the-smart-assistant-a-users-guide-to-deleting-copilot-in-windows-11/"><u>How To Turn Off The Smart Assistant – A User's Guide to Deleting Copilot in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-gmail-filters-and-contact-management-expert-guide/"><u>Mastering Gmail Filters & Contact Management: Expert Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/minecraft-realms-reviewed-are-they-a-good-investment-for-gamers-seeking-multiplayer-fun/"><u>Minecraft Realms Reviewed - Are They a Good Investment for Gamers Seeking Multiplayer Fun?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/strengthen-your-apple-accounts-implementing-two-factor-auth-for-icloud-mail-protection/"><u>Strengthen Your Apple Accounts: Implementing Two-Factor Auth for iCloud Mail Protection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-techniques-for-non-functional-xbox-audio-devices/"><u>Troubleshooting Techniques for Non-Functional Xbox Audio Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-does-shifting-towards-ev-technology-signify/"><u>What Does Shifting Towards EV Technology Signify?</u></a></li>
 </ul></div>
 
 
@@ -927,11 +929,11 @@
         <li><strong>Title:</strong> Navigating Permissions: Understanding and Working Around the TrustedInstaller in Windows 11</li>
         <li><strong>Author:</strong> James</li>
         <li><strong>Created at
-                :</strong> 2024-12-11 17:20:53</li>
+                :</strong> 2024-12-23 02:21:52</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-12-17 16:45:25
+                    :</strong> 2024-12-26 01:28:19
             </li>
         
         <li>
@@ -963,13 +965,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/step-by-step-guide-viewing-dragon-ball-z-chronologically/"
+                        href="/matrix-series-viewing-guide-the-correct-order/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Step-by-Step Guide: Viewing Dragon Ball Z Chronologically</span>
+                                <span class="post-nav-title-item">Matrix Series Viewing Guide: The Correct Order</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -979,10 +981,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/explore-the-greatest-cell-phone-renewal-bargains-on-verizon-for-month/"
+                        href="/ios-18-arrives-d-day-insights-zero-charge-entry-functional-highlights-and-fresh-news/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Explore the Greatest Cell Phone Renewal Bargains on Verizon for [Month]</span>
+                                <span class="post-nav-title-item">IOS 18 Arrives: D-Day Insights, Zero Charge Entry, Functional Highlights &amp; Fresh News</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
